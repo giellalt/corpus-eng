@@ -1,0 +1,732 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<!-- ISI_NOAUTOLANG -->
+<title>
+	Election Portal: valg.no - regjeringen.no
+</title>
+<meta name="format-detection" content="telephone=no" />
+<meta name="DCSext.regj.pagename" content="Election Portal: valg.no" />
+<meta name="DCSext.regj.pagetype" content="Kampanje" />
+<meta name="DCSext.regj.pageid" content="456491" />
+<meta name="DCSext.regj.pagestatus" content="Gyldig" />
+<meta name="DCSext.regj.owner" content="krd" />
+<meta name="DCSext.regj.language" content="en-GB" />
+<meta name="TITLE" content="Election Portal: valg.no" />
+<meta name="description" content="Elections were held in 2009 to the Parliament (Storting) and to the Sami Assembly in Norway." />
+<meta name="KEYWORDS" content="Election Portal: valg.no" />
+<meta name="DC.Title" content="Election Portal: valg.no" />
+<meta name="DC.Title.Subtitle" content="The Parliamentary Election and the Sami Assembly Election 2009" />
+<meta name="DC.Creator" content="Ministry of Local Government and Regional Development" />
+<meta name="DC.Subject" content="Election Portal: valg.no" />
+<meta name="DC.Description" content="Elections were held in 2009 to the Parliament (Storting) and to the Sami Assembly in Norway." />
+<meta name="DC.Date" content="2007-07-03" />
+<meta name="DC.Date.Available" content="2007-07-03" />
+<meta name="DC.Type.Status" content="Gyldig" />
+<meta name="DC.Type" content="Kampanje" />
+<meta name="DC.Format" content="text/html" />
+<meta name="DC.Identifier.URL" content="/en/dep/krd/kampanjer/election_portal.html?id=456491" />
+<meta name="DC.Language" content="en-GB" />
+<meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DC.Publisher" content="regjeringen.no" />
+<meta name="AUTHOR" content="Ministry of Local Government and Regional Development" />
+<meta name="creation_date" content="Tue, 03 Jul 2007 09:12:00 GMT" />
+<meta name="LAST-MODIFIED" content="Tue, 03 Jul 2007 09:13:48 GMT" />
+<meta name="REVISED" content="Tue, 03 Jul 2007 09:13:48 GMT" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en" />
+
+
+<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
+<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
+<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
+
+<link rel="stylesheet" type="text/css" href="/upload/KRD/Kampanjer/valgportal/stilark/valgportal.css" media="all" /> 
+
+
+<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
+
+<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
+<!--[if lt IE 6]
+    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
+<![endif]-->
+<script type="text/javascript" src='/script/skalertekst.js'></script>
+<script type="text/javascript" src="/script/js/swfobject.js"></script>
+<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/script/js/custom.js"></script>
+ 
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
+
+
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+</head>
+<body onload="javascript:Operatest();">
+<script type="text/javascript" language="JavaScript"><!--
+function printPage() 
+{	
+	window.print();
+}
+//--></script>
+
+    <form name="aspnetForm" method="post" action="/en/dep/krd/kampanjer/election_portal.html?id=456491" id="aspnetForm" enctype="multipart/form-data">
+<div>
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA1NDA0MzI4MA9kFgJmD2QWCGYPFQICZW4CZW5kAgEQZGQWAgICD2QWBmYPFgIeBFRleHQFsA88bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlbmFtZSIgY29udGVudD0iRWxlY3Rpb24gUG9ydGFsOiB2YWxnLm5vIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXR5cGUiIGNvbnRlbnQ9IkthbXBhbmplIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZWlkIiBjb250ZW50PSI0NTY0OTEiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlc3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5vd25lciIgY29udGVudD0ia3JkIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oubGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iVElUTEUiIGNvbnRlbnQ9IkVsZWN0aW9uIFBvcnRhbDogdmFsZy5ubyIgLz4NCjxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJFbGVjdGlvbnMgd2VyZSBoZWxkIGluIDIwMDkgdG8gdGhlIFBhcmxpYW1lbnQgKFN0b3J0aW5nKSBhbmQgdG8gdGhlIFNhbWkgQXNzZW1ibHkgaW4gTm9yd2F5LiIgLz4NCjxtZXRhIG5hbWU9IktFWVdPUkRTIiBjb250ZW50PSJFbGVjdGlvbiBQb3J0YWw6IHZhbGcubm8iIC8+DQo8bWV0YSBuYW1lPSJEQy5UaXRsZSIgY29udGVudD0iRWxlY3Rpb24gUG9ydGFsOiB2YWxnLm5vIiAvPg0KPG1ldGEgbmFtZT0iREMuVGl0bGUuU3VidGl0bGUiIGNvbnRlbnQ9IlRoZSBQYXJsaWFtZW50YXJ5IEVsZWN0aW9uIGFuZCB0aGUgU2FtaSBBc3NlbWJseSBFbGVjdGlvbiAyMDA5IiAvPg0KPG1ldGEgbmFtZT0iREMuQ3JlYXRvciIgY29udGVudD0iTWluaXN0cnkgb2YgTG9jYWwgR292ZXJubWVudCBhbmQgUmVnaW9uYWwgRGV2ZWxvcG1lbnQiIC8+DQo8bWV0YSBuYW1lPSJEQy5TdWJqZWN0IiBjb250ZW50PSJFbGVjdGlvbiBQb3J0YWw6IHZhbGcubm8iIC8+DQo8bWV0YSBuYW1lPSJEQy5EZXNjcmlwdGlvbiIgY29udGVudD0iRWxlY3Rpb25zIHdlcmUgaGVsZCBpbiAyMDA5IHRvIHRoZSBQYXJsaWFtZW50IChTdG9ydGluZykgYW5kIHRvIHRoZSBTYW1pIEFzc2VtYmx5IGluIE5vcndheS4iIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlIiBjb250ZW50PSIyMDA3LTA3LTAzIiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZS5BdmFpbGFibGUiIGNvbnRlbnQ9IjIwMDctMDctMDMiIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlLlN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZSIgY29udGVudD0iS2FtcGFuamUiIC8+DQo8bWV0YSBuYW1lPSJEQy5Gb3JtYXQiIGNvbnRlbnQ9InRleHQvaHRtbCIgLz4NCjxtZXRhIG5hbWU9IkRDLklkZW50aWZpZXIuVVJMIiBjb250ZW50PSIvZW4vZGVwL2tyZC9rYW1wYW5qZXIvZWxlY3Rpb25fcG9ydGFsLmh0bWw/aWQ9NDU2NDkxIiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UuUHJlZmVyZW5jZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJEQy5QdWJsaXNoZXIiIGNvbnRlbnQ9InJlZ2plcmluZ2VuLm5vIiAvPg0KPG1ldGEgbmFtZT0iQVVUSE9SIiBjb250ZW50PSJNaW5pc3RyeSBvZiBMb2NhbCBHb3Zlcm5tZW50IGFuZCBSZWdpb25hbCBEZXZlbG9wbWVudCIgLz4NCjxtZXRhIG5hbWU9ImNyZWF0aW9uX2RhdGUiIGNvbnRlbnQ9IlR1ZSwgMDMgSnVsIDIwMDcgMDk6MTI6MDAgR01UIiAvPg0KPG1ldGEgbmFtZT0iTEFTVC1NT0RJRklFRCIgY29udGVudD0iVHVlLCAwMyBKdWwgMjAwNyAwOToxMzo0OCBHTVQiIC8+DQo8bWV0YSBuYW1lPSJSRVZJU0VEIiBjb250ZW50PSJUdWUsIDAzIEp1bCAyMDA3IDA5OjEzOjQ4IEdNVCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVudD0iZW4iIC8+DQpkAgEPFgIeB1Zpc2libGVoZAICDxYCHgtfIUl0ZW1Db3VudGZkAgMQFgIeBmFjdGlvbgU0L2VuL2RlcC9rcmQva2FtcGFuamVyL2VsZWN0aW9uX3BvcnRhbC5odG1sP2lkPTQ1NjQ5MWQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILD2QWAmYPFQFpI2N0bDAwX0Z1bGxSZWdpb25fQ2VudGVyQW5kUmlnaHRSZWdpb25fUmlnaHRSZWdpb25fUmlnaHRSZWdpb25Db250YWN0SW5mb19SZWxhdGVkQ29udGFjdDFfQXJlYUNvbnRhY3RJbmZvZAIND2QWAmYPZBYCZg9kFgICAQ9kFghmDw8WBh4HVG9vbFRpcAUuS2xpa2sgaGVyIGZvciDDpSB2aXNlIGRlbm5lIHNpZGVuIHDDpSBib2ttw6VsLh8ABQdCb2ttw6VsHgtOYXZpZ2F0ZVVybAUxL3RlbXBsYXRlcy9LYW1wYW5qZS5hc3B4P2lkPTQ1NjQ5MSZlcHNsYW5ndWFnZT1ub2RkAgEPDxYGHwQFLUtsaWtrIGhlciBmb3Igw6UgdmlzZSBkZW5uZSBzaWRhIHDDpSBueW5vcnNrLh8ABQdOeW5vcnNrHwUFNC90ZW1wbGF0ZXMvS2FtcGFuamUuYXNweD9pZD00NTY0OTEmZXBzbGFuZ3VhZ2U9bm4tTk9kZAICDw8WBh8EBTRDb2Foa2thbCBkw6Fra28gZGUgb2Fpbm7DoXQgZMOhbiBzaWlkZHUgc8OhbWVnaWxsaWkuHwAFC1PDoW1lZ2llbGxhHwUFNC90ZW1wbGF0ZXMvS2FtcGFuamUuYXNweD9pZD00NTY0OTEmZXBzbGFuZ3VhZ2U9c2UtTk9kZAIDDw8WBh8EBSJUaGlzIHBhZ2UgaXMgZGlzcGxheWVkIGluIGVuZ2xpc2guHwAFB0VuZ2xpc2gfBQU0L3RlbXBsYXRlcy9LYW1wYW5qZS5hc3B4P2lkPTQ1NjQ5MSZlcHNsYW5ndWFnZT1lbi1HQmRkAgIPFQEBIGQCAw9kFgxmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCAQ8VAQtQb3J0YWwgaG9tZWQCAg9kFgZmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCAg8VAzovdGVtcGxhdGVzL0dlbmVyZWxsRm9yc2lkZS5hc3B4P2lkPTg1ODQzJmVwc2xhbmd1YWdlPWVuLUdCHFN0b2x0ZW5iZXJnJ3MgMm5kIEdvdmVybm1lbnQyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD05MzMmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgUPZBYCZg9kFgJmDxYCHglfUGFnZUxpbmsoKW5FUGlTZXJ2ZXIuQ29yZS5QYWdlUmVmZXJlbmNlLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwM5MzMWJAIBD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTg3NSZlcHNsYW5ndWFnZT1lbi1HQiBUaGUgT2ZmaWNlIG9mIHRoZSBQcmltZSBNaW5pc3RlcmQCAg9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0xNjUmZXBzbGFuZ3VhZ2U9ZW4tR0ISTWluaXN0cnkgb2YgTGFib3VyZAIDD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTI5OCZlcHNsYW5ndWFnZT1lbi1HQjNNaW5pc3RyeSBvZiBDaGlsZHJlbiwgRXF1YWxpdHkgYW5kIFNvY2lhbCBJbmNsdXNpb25kAgQPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MjE2JmVwc2xhbmd1YWdlPWVuLUdCE01pbmlzdHJ5IG9mIEZpbmFuY2VkAgUPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MjU3JmVwc2xhbmd1YWdlPWVuLUdCKU1pbmlzdHJ5IG9mIEZpc2hlcmllcyBhbmQgQ29hc3RhbCBBZmZhaXJzZAIGD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTMzOSZlcHNsYW5ndWFnZT1lbi1HQkBNaW5pc3RyeSBvZiBHb3Zlcm5tZW50IEFkbWluaXN0cmF0aW9uLCBSZWZvcm0gYW5kIENodXJjaCBBZmZhaXJzZAIHD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTM4MCZlcHNsYW5ndWFnZT1lbi1HQhNNaW5pc3RyeSBvZiBEZWZlbmNlZAIID2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTQyMSZlcHNsYW5ndWFnZT1lbi1HQiRNaW5pc3RyeSBvZiBIZWFsdGggYW5kIENhcmUgU2VydmljZXNkAgkPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NDYzJmVwc2xhbmd1YWdlPWVuLUdCIk1pbmlzdHJ5IG9mIEp1c3RpY2UgYW5kIHRoZSBQb2xpY2VkAgoPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NTA0JmVwc2xhbmd1YWdlPWVuLUdCNU1pbmlzdHJ5IG9mIExvY2FsIEdvdmVybm1lbnQgYW5kIFJlZ2lvbmFsIERldmVsb3BtZW50ZAILD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTU0NSZlcHNsYW5ndWFnZT1lbi1HQhRNaW5pc3RyeSBvZiBDdWx0dXJlIGQCDA9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD01ODYmZXBzbGFuZ3VhZ2U9ZW4tR0IiTWluaXN0cnkgb2YgRWR1Y2F0aW9uIGFuZCBSZXNlYXJjaGQCDQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD02MjcmZXBzbGFuZ3VhZ2U9ZW4tR0IgTWluaXN0cnkgb2YgQWdyaWN1bHR1cmUgYW5kIEZvb2RkAg4PZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NjY4JmVwc2xhbmd1YWdlPWVuLUdCG01pbmlzdHJ5IG9mIHRoZSBFbnZpcm9ubWVudGQCDw9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD03MDkmZXBzbGFuZ3VhZ2U9ZW4tR0IeTWluaXN0cnkgb2YgVHJhZGUgYW5kIEluZHVzdHJ5ZAIQD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTc1MCZlcHNsYW5ndWFnZT1lbi1HQiBNaW5pc3RyeSBvZiBQZXRyb2xldW0gYW5kIEVuZXJneWQCEQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD03OTEmZXBzbGFuZ3VhZ2U9ZW4tR0IoTWluaXN0cnkgb2YgVHJhbnNwb3J0IGFuZCBDb21tdW5pY2F0aW9uc2QCEg9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD04MzMmZXBzbGFuZ3VhZ2U9ZW4tR0IbTWluaXN0cnkgb2YgRm9yZWlnbiBBZmZhaXJzZAIDDxUBNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD01MDQmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgQPFQE1TWluaXN0cnkgb2YgTG9jYWwgR292ZXJubWVudCBhbmQgUmVnaW9uYWwgRGV2ZWxvcG1lbnRkAgYPZBYSZg9kFgRmD2QWAmYPZBYEAgIPFQRBU2VhcmNoIHRoZSBNaW5pc3RyeSBvZiBMb2NhbCBHb3Zlcm5tZW50IGFuZCBSZWdpb25hbCBEZXZlbG9wbWVudCAGU2VhcmNoEVF1aWNrU2VhcmNoQnV0dG9uBlNlYXJjaGQCAw8PFgIfAAUbU2VhcmNoIGFsbCBvZiBnb3Zlcm5tZW50Lm5vZGQCAQ8PFgIeC19pc0VkaXRhYmxlaGRkAgEPFQEeL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3RpcHMuZ2lmZAIFDxUBIS9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9wcmludF90LmdpZmQCCA8VAyMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvc21hbGxUZXh0LmdpZiQvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbWVkaXVtVGV4dC5naWYjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL2xhcmdlVGV4dC5naWZkAgkPZBYCZg8VAooBaHR0cDovL2lzaS5waG9uZXRpY29tLmNvbS9jZ2ktYmluL3JzeHQ/dXJsPWh0dHA6Ly93d3cucmVnamVyaW5nZW4ubm8vZW4vZGVwL2tyZC9rYW1wYW5qZXIvZWxlY3Rpb25fcG9ydGFsLmh0bWw/aWQ9NDU2NDkxJmFtcDtjdXN0b21lcmlkPTE5Hy9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9seWRfdC5naWZkAgoPZBYCAgEPDxYEHwUFNi90ZW1wbGF0ZXMvVGVtYUluZGVrcy5hc3B4P2lkPTIyMzQ4NiZlcHNsYW5ndWFnZT1lbi1HQh8ABQpUb3BpY3MgQS1aZGQCCw9kFgICAQ8PFgQfBQU5L3RlbXBsYXRlcy9OZXR0c3RlZHNrYXJ0LmFzcHg/aWQ9MzEzODUxJmVwc2xhbmd1YWdlPWVuLUdCHwAFCFNpdGUgTWFwZGQCDA8PFgQfBQU1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00ODg2NDEmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUESGVscGRkAg0PDxYEHwUFPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01MTImZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUHQ29udGFjdGRkAgQPZBYEAgEPZBYGAgEPZBYCAgEPZBYEZg8PFgIfAWhkZAIBD2QWEAIDDw8WAh8ABR1SZWNpcGllbnTigJlzIGUtbWFpbCBhZGRyZXNzOmRkAgcPDxYCHgxFcnJvck1lc3NhZ2UFJVlvdSBtdXN0IGdpdmUgYSB2YWxpZCBlLW1haWwgYWRkcmVzcy5kZAIJDw8WAh8IBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCCw8PFgIfAAUUWW91ciBlLW1haWwgYWRkcmVzczpkZAIPDw8WAh8IBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCEQ8PFgIfCAUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAhMPDxYCHwAFCE1lc3NhZ2U6ZGQCFw8PFgIfAAUJU2VuZCBtYWlsZGQCAw9kFggCAw9kFgZmD2QWAmYPZBYCZg8WAh8BaBYKAgEPFgIfAWgWAmYPFQIIQ2FtcGFpZ24MLCAwMy4wNy4yMDA3ZAICDxYCHwFoFgJmD2QWAmYPFgIfAWhkAgMPFgIfAWgWAgICDw8WAh8HaGRkAgQPFgIfAWgWAmYPZBYGAgEPFQEHU3RhdHVzOmQCAg8WAh8BaBYCZg8VATgNCiAgICAgICAgICAgICAgICAgICAgICAgIEFyY2hpdmVkDQogICAgICAgICAgICAgICAgICAgIGQCBA8WAh8BaBYCZg8VATgNCiAgICAgICAgICAgICAgICAgICAgICAgIFJlcGxhY2VkDQogICAgICAgICAgICAgICAgICAgIGQCBQ8WAh8BaBYEZg8VARhFbGVjdGlvbiBQb3J0YWw6IHZhbGcubm9kAgEPZBYCZg8VAT5UaGUgUGFybGlhbWVudGFyeSBFbGVjdGlvbiBhbmQgdGhlIFNhbWkgQXNzZW1ibHkgRWxlY3Rpb24gMjAwOWQCAg8PFgIfAWhkFgJmDxUBGEVsZWN0aW9uIFBvcnRhbDogdmFsZy5ub2QCBA9kFgYCAQ8WAh8BaBYCZg8VAQBkAgIPFQEYRWxlY3Rpb24gUG9ydGFsOiB2YWxnLm5vZAIDD2QWAmYPFQE+VGhlIFBhcmxpYW1lbnRhcnkgRWxlY3Rpb24gYW5kIHRoZSBTYW1pIEFzc2VtYmx5IEVsZWN0aW9uIDIwMDlkAgUPDxYEHwdoHglfbGFzdFR5cGUFB0RlZmF1bHRkZAIHDxYGHhpFeHBvcnRTZW5zaXRpdmVEYXRhV2FybmluZ2UeFENsb3NlUHJvdmlkZXJXYXJuaW5nZR4NRGVsZXRlV2FybmluZ2UWDgULd3A2OTA3MjAxMzgPZBYCZg9kFgZmDxUBB1Rvb2xib3hkAgEPFgYeCWlubmVyaHRtbAUGTGlua3M6HgVjbGFzcwUNVG9vbGJveEhlYWRlch8BZ2QCBA9kFgJmDxYCHgpfc29ydE9yZGVyCylzRVBpU2VydmVyLkZpbHRlcnMuRmlsdGVyU29ydE9yZGVyLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwBkBQx3cDE1MDg0NTY0OTgPZBYCZg9kFgICAQ9kFgJmDxYCHw8LKwUAFhBmD2QWEAIBDxYCHgRocmVmBUAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTcwMDE4JmVwc2xhbmd1YWdlPWVuLUdCFgICAQ8PFgYfB2geDl9ib3VuZFBhZ2VMaW5rAqLlIh8JBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHghkaXNhYmxlZGRkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMkAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTcwMDE4JmVwc2xhbmd1YWdlPWVuLUdCADJEZXRlcm1pbmluZyB0aGUgZWxlY3Rpb24gcmVzdWx0czogd2hvIGdldHMgZWxlY3RlZAEyATMMZGlzcGxheTpub25lGlRoZSBwYXJsaWFtZW50YXJ5IEVsZWN0aW9uATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDQuMDkuMjAwOV08L3A+ZAIDD2QWAmYPDxYGHwdoHxECouUiHwkFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8HaB8RAqLlIh8JBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfEGQfAWgWBAIBDw8WAh4NX2xhbmd1YWdlVGV4dAVCL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcmVkYWtzam9uZWxsX2FydGlra2VsZGQCAg8VAQBkAgkPFgQfEGQfAWgWAgIBDw8WAh8TBUYvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcmVkYWtzam9uZWxsIGFydGlra2VsZGQCCw8PFgIfAWhkFgJmDxUBAGQCAQ9kFhACAQ8WAh8QBUAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDU3MTAwJmVwc2xhbmd1YWdlPWVuLUdCFgICAQ8PFgYfB2gfEQKM8xsfCQUHRGVmYXVsdGQWAmYPZBYCZg8WAh8SZGQCAg8VCxFBcnRpY2xlSW1nQ29udGVudAEyQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00NTcxMDAmZXBzbGFuZ3VhZ2U9ZW4tR0IAJFJpZ2h0IHRvIHZvdGUgYW5kIGVsZWN0b3JhbCByZWdpc3RlcgEyATMMZGlzcGxheTpub25lGlRoZSBQYXJsaWFtZW50YXJ5IEVsZWN0aW9uATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDIuMDkuMjAwOV08L3A+ZAIDD2QWAmYPDxYGHwdoHxECjPMbHwkFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8HaB8RAozzGx8JBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfEGQfAWgWBAIBDw8WAh8TBUIvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19yZWRha3Nqb25lbGxfYXJ0aWtrZWxkZAICDxUBAGQCCQ8WBB8QZB8BaBYCAgEPDxYCHxMFRi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19yZWRha3Nqb25lbGwgYXJ0aWtrZWxkZAILDw8WAh8BaGQWAmYPFQEAZAICD2QWEAIBDxYCHxAFQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01NDE5NTEmZXBzbGFuZ3VhZ2U9ZW4tR0IWAgIBDw8WBh8HaB8RAv+JIR8JBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHxJkZAICDxULEUFydGljbGVJbWdDb250ZW50ATJAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTU0MTk1MSZlcHNsYW5ndWFnZT1lbi1HQgAWUHJvb2Ygb2YgaWRlbnRpdHkgKElEKQEyATMMZGlzcGxheTpub25lGlRoZSBQYXJsaWFtZW50YXJ5IEVsZWN0aW9uATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDIuMDkuMjAwOV08L3A+ZAIDD2QWAmYPDxYGHwdoHxEC/4khHwkFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8HaB8RAv+JIR8JBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfEGQfAWgWBAIBDw8WAh8TBUIvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19yZWRha3Nqb25lbGxfYXJ0aWtrZWxkZAICDxUBAGQCCQ8WBB8QZB8BaBYCAgEPDxYCHxMFRi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19yZWRha3Nqb25lbGwgYXJ0aWtrZWxkZAILDw8WAh8BaGQWAmYPFQEAZAIDD2QWEAIBDxYCHxAFQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01NDE5NTQmZXBzbGFuZ3VhZ2U9ZW4tR0IWAgIBDw8WBh8HaB8RAoKKIR8JBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHxJkZAICDxULEUFydGljbGVJbWdDb250ZW50ATJAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTU0MTk1NCZlcHNsYW5ndWFnZT1lbi1HQgANUG9sbGluZyBjYXJkcwEyATMMZGlzcGxheTpub25lGlRoZSBQYXJsaWFtZW50YXJ5IEVsZWN0aW9uATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDIuMDkuMjAwOV08L3A+ZAIDD2QWAmYPDxYGHwdoHxECgoohHwkFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8HaB8RAoKKIR8JBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfEGQfAWgWBAIBDw8WAh8TBUIvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19yZWRha3Nqb25lbGxfYXJ0aWtrZWxkZAICDxUBAGQCCQ8WBB8QZB8BaBYCAgEPDxYCHxMFRi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19yZWRha3Nqb25lbGwgYXJ0aWtrZWxkZAILDw8WAh8BaGQWAmYPFQEAZAIED2QWEAIBDxYCHxAFQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01NDE5NjMmZXBzbGFuZ3VhZ2U9ZW4tR0IWAgIBDw8WBh8HaB8RAouKIR8JBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHxJkZAICDxULEUFydGljbGVJbWdDb250ZW50ATJAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTU0MTk2MyZlcHNsYW5ndWFnZT1lbi1HQgAdV2hlcmUgY2FuIHlvdSBjYXN0IHlvdXIgdm90ZT8BMgEzDGRpc3BsYXk6bm9uZRpUaGUgUGFybGlhbWVudGFyeSBFbGVjdGlvbgEzJzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+WzAyLjA5LjIwMDldPC9wPmQCAw9kFgJmDw8WBh8HaB8RAouKIR8JBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfB2gfEQKLiiEfCQUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHxBkHwFoFgQCAQ8PFgIfEwVCL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcmVkYWtzam9uZWxsX2FydGlra2VsZGQCAg8VAQBkAgkPFgQfEGQfAWgWAgIBDw8WAh8TBUYvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcmVkYWtzam9uZWxsIGFydGlra2VsZGQCCw8PFgIfAWhkFgJmDxUBAGQCBQ9kFhACAQ8WAh8QBUAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDU3MTEyJmVwc2xhbmd1YWdlPWVuLUdCFgICAQ8PFgYfB2gfEQKY8xsfCQUHRGVmYXVsdGQWAmYPZBYCZg8WAh8SZGQCAg8VCxFBcnRpY2xlSW1nQ29udGVudAEyQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00NTcxMTImZXBzbGFuZ3VhZ2U9ZW4tR0IAG0hvdyB0byB2b3RlIG9uIEVsZWN0aW9uIERheQEyATMMZGlzcGxheTpub25lGlRoZSBQYXJsaWFtZW50YXJ5IEVsZWN0aW9uATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDIuMDkuMjAwOV08L3A+ZAIDD2QWAmYPDxYGHwdoHxECmPMbHwkFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8HaB8RApjzGx8JBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfEGQfAWgWBAIBDw8WAh8TBUIvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19yZWRha3Nqb25lbGxfYXJ0aWtrZWxkZAICDxUBAGQCCQ8WBB8QZB8BaBYCAgEPDxYCHxMFRi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19yZWRha3Nqb25lbGwgYXJ0aWtrZWxkZAILDw8WAh8BaGQWAmYPFQEAZAIGD2QWEAIBDxYCHxAFQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00NTcxMTUmZXBzbGFuZ3VhZ2U9ZW4tR0IWAgIBDw8WBh8HaB8RApvzGx8JBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHxJkZAICDxULEUFydGljbGVJbWdDb250ZW50ATJAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQ1NzExNSZlcHNsYW5ndWFnZT1lbi1HQgAWSG93IHRvIHZvdGUgaW4gYWR2YW5jZQEyATMMZGlzcGxheTpub25lGlRoZSBQYXJsaWFtZW50YXJ5IEVsZWN0aW9uATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDIuMDkuMjAwOV08L3A+ZAIDD2QWAmYPDxYGHwdoHxECm/MbHwkFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8HaB8RApvzGx8JBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfEGQfAWgWBAIBDw8WAh8TBUIvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19yZWRha3Nqb25lbGxfYXJ0aWtrZWxkZAICDxUBAGQCCQ8WBB8QZB8BaBYCAgEPDxYCHxMFRi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19yZWRha3Nqb25lbGwgYXJ0aWtrZWxkZAILDw8WAh8BaGQWAmYPFQEAZAIHD2QWEAIBDxYCHxAFQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01NDIwMzMmZXBzbGFuZ3VhZ2U9ZW4tR0IWAgIBDw8WBh8HaB8RAtGKIR8JBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHxJkZAICDxULEUFydGljbGVJbWdDb250ZW50ATJAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTU0MjAzMyZlcHNsYW5ndWFnZT1lbi1HQgAoSG93IHRvIG1ha2UgY2hhbmdlcyBvbiB5b3VyIGJhbGxvdCBwYXBlcgEyATMMZGlzcGxheTpub25lGlRoZSBQYXJsaWFtZW50YXJ5IEVsZWN0aW9uATMnPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bMDIuMDkuMjAwOV08L3A+ZAIDD2QWAmYPDxYGHwdoHxEC0YohHwkFB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8HaB8RAtGKIR8JBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfEGQfAWgWBAIBDw8WAh8TBUIvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19yZWRha3Nqb25lbGxfYXJ0aWtrZWxkZAICDxUBAGQCCQ8WBB8QZB8BaBYCAgEPDxYCHxMFRi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19yZWRha3Nqb25lbGwgYXJ0aWtrZWxkZAILDw8WAh8BaGQWAmYPFQEAZAULd3A2NTk4MTM1ODYPZBYCZg9kFgJmDxYEHxAFPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01NjgwNjImZXBzbGFuZ3VhZ2U9ZW4eBnRhcmdldAUFX3NlbGYWAmYPDxYGHghJbWFnZVVybAU7L3VwbG9hZC9LUkQvS2FtcGFuamVyL3ZhbGdwb3J0YWwvYmFubmVyL2Jyb2NodXJlXzE5OHg0NS5wbmceCENzc0NsYXNzBQliYW5uZXJpbWceBF8hU0ICAhYCHgNhbHQFCEJyb2NodXJlZAULd3A5MTMwNzM3NjIPZBYCZg9kFgJmD2QWAmYPDxYGHxUFNS91cGxvYWQvS1JEL0thbXBhbmplci92YWxncG9ydGFsL2Jhbm5lci9zdHJla18xOTguanBnHxYFCWJhbm5lcmltZx8XAgIWAh8YZWQFDHdwMTkwNjU0NDg0NA9kFgJmD2QWAmYPZBYCZg8PFgYfFQU1L3VwbG9hZC9LUkQvS2FtcGFuamVyL3ZhbGdwb3J0YWwvYmFubmVyL3N0cmVrXzE5OC5qcGcfFgUJYmFubmVyaW1nHxcCAhYCHxhlZAULd3A0OTg4Mjc4MjQPZBYCZg9kFgJmDxYEHxAFNC90ZW1wbGF0ZXMvTWVkaWFPYmpla3QuYXNweD9pZD02MTA5NjQmZXBzbGFuZ3VhZ2U9ZW4fFAUFX3NlbGYWAmYPDxYGHxUFPS91cGxvYWQvS1JEL0thbXBhbmplci92YWxncG9ydGFsL2Jhbm5lci9maWxtX2VsZWN0aW9uXzE5OC5wbmcfFgUJYmFubmVyaW1nHxcCAhYCHxgFF0ZpbG0gYWJvdXQgdGhlIGVsZWN0aW9uZAULd3AxMjMzNDMwNDUPZBYCZg9kFgJmD2QWAmYPDxYGHxUFNS91cGxvYWQvS1JEL0thbXBhbmplci92YWxncG9ydGFsL2Jhbm5lci9zdHJla18xOTguanBnHxYFCWJhbm5lcmltZx8XAgIWAh8YZWQCCQ88KwASBAQWBB8ABQZEZWxldGUeC0Rlc2NyaXB0aW9uBQxEZWxldGUgJ3swfScFFgQfAAUERWRpdB8ZBQpFZGl0ICd7MH0nBxYEHwAFCE1pbmltaXplHxkFDk1pbmltaXplICd7MH0nCBYEHwAFB1Jlc3RvcmUfGQUNUmVzdG9yZSAnezB9J2QCBQ9kFgYCAQ9kFgICAQ9kFgJmDxYCHw4FCkRlcFByb2ZpbGUWAmYPFQE0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTUwNCZlcHNsYW5ndWFnZT1lbi1HQmQCBw9kFgICAQ9kFgoCAg8PFgIfAWhkFgJmD2QWAgIBDxYEHw8LKwUIHwFoZAIEDw8WAh8BaGQWAmYPZBYCAgEPFgQfDwsrBQgfAWhkAgYPDxYCHwFoZBYCZg9kFgICAQ8WBB8PCysFCB8BaGQCCA8PFgIfAWhkFgJmD2QWAgIBDxYCHwFoZAIKDw8WAh8BaGQWAmYPZBYCAgEPFgQfDwsrBQMfAWhkAgkPZBYCAgEPPCsAEgQEFgQfAAUGRGVsZXRlHxkFDERlbGV0ZSAnezB9JwUWBB8ABQRFZGl0HxkFCkVkaXQgJ3swfScHFgQfAAUITWluaW1pemUfGQUOTWluaW1pemUgJ3swfScIFgQfAAUHUmVzdG9yZR8ZBQ1SZXN0b3JlICd7MH0nZAIDD2QWAgIBD2QWBAIBD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTUwNCZlcHNsYW5ndWFnZT1lbi1HQg1NaW5pc3RyeSBob21lZAIDDxYGHwYoKwQGNDU2NDkxHg9fTnVtYmVyT2ZMZXZlbHMCAh4KX0V4cGFuZEFsbGcWHAIBD2QWAmYPFQEAZAICD2QWAmYPFQQANC90ZW1wbGF0ZXMvS2FtcGFuamUuYXNweD9pZD00NTY0OTEmZXBzbGFuZ3VhZ2U9ZW4tR0IAE3d3dy52YWxnLm5vIGVuZ2xpc2hkAgQPZBYCZg8VAQBkAgUPZBYCZg8VBAA0L3RlbXBsYXRlcy9LYW1wYW5qZS5hc3B4P2lkPTUzODI1MyZlcHNsYW5ndWFnZT1lbi1HQgAlVGhlIFBhcmxpYW1lbnRhcnkgKFN0b3J0aW5nKSBFbGVjdGlvbmQCBw9kFgJmDxUBAGQCCA9kFgJmDxUEAEAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDU2NjM2JmVwc2xhbmd1YWdlPWVuLUdCAB5UaGUgTm9yd2VnaWFuIGVsZWN0b3JhbCBzeXN0ZW1kAgoPZBYCZg8VAQBkAgsPZBYCZg8VBAAsaHR0cDovL3d3dy5yZWdqZXJpbmdlbi5uby9rcmQvaHRtbC92YWxnMjAwOS8AEUVsZWN0aW9ucyByZXN1bHRzZAIND2QWAmYPFQEAZAIOD2QWAmYPFQQAQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00NjcxODYmZXBzbGFuZ3VhZ2U9ZW4tR0IAD0xlZ2FsIGZyYW1ld29ya2QCEA9kFgJmDxUBAGQCEQ9kFgJmDxUEAEAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTczNDQyJmVwc2xhbmd1YWdlPWVuLUdCABRFbGVjdGlvbiBvYnNlcnZhdGlvbmQCEw9kFgJmDxUBAGQCFA9kFgJmDxUEADYvdGVtcGxhdGVzL0ZsZWtzaXNpZGUuYXNweD9pZD01OTc2NTgmZXBzbGFuZ3VhZ2U9ZW4tR0IAF1RoZSBFLXZvdGUgMjAxMS1wcm9qZWN0ZAIFD2QWAgIBD2QWAmYPFQH5AjxwPk1pbmlzdHJ5Jm5ic3A7b2YgTG9jYWwgR292ZXJubWVudCBhbmQgUmVnaW9uYWwgRGV2ZWxvcG1lbnQsIEFrZXJzZ2F0YSA1OSwgUG9zdGJva3MgODExMiBEZXAsIDAwMzIgT3NsbyB8IFRlbGVwaG9uZTogKyA0NyAyMiAyNCA5MCA5MDxiciAvPkUtbWFpbDogPGEgaHJlZj0ibWFpbHRvOnBvc3Rtb3R0YWtAa3JkLmRlcC5ubyI+cG9zdG1vdHRha0BrcmQuZGVwLm5vPC9hPiZuYnNwO3wgRWRpdG9yOiZuYnNwOzxhIGhyZWY9Im1haWx0bzpsaXYtbWVyZXRlLndpa2VyQGtyZC5kZXAubm8iPkxpdiBNZXJldGUgV2lrZXI8L2E+IHwgV2ViIGVkaXRvcjogPGEgaHJlZj0ibWFpbHRvOnJvZ2VyLmhvbG1zZW5Aa3JkLmRlcC5ubyI+Um9nZXIgSG9sbXNlbjwvYT48L3A+ZAIFD2QWAmYPFQEYL3NjcmlwdC9qcy9zZGNfMDkwODE5LmpzZBgNBZIBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSRIb3JpbmdzTm90YXQkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRkBZEBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSRIb3JpbmdzRmx5dCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBXFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRTdWJqZWN0TWFuYWdlciR3cDE1MDg0NTY0OTgkd3AxNDAwOTcyMDk4JGxzdFBhZ2VzJGxzdFVuaXZlcnNhbA8PZmRkBZkBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSRSZWxhdGVkTG92Rm9yc2tyaWZ0JFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JHV4Vmlld3MPD2RmZAWbAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFYmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRSZWxhdGVkQ29udGFjdDEkUGFnZUxpc3QxDw9mZGQFdmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGltYWdlaGVhZGVydG9wJFBhZ2VIZWFkaW5nSW5mbzEkQXV0aG9yTGlzdDEkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAVnY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kU3ViamVjdE1hbmFnZXIkd3A2OTA3MjAxMzgkd3A4NDIzMDc5MjMkTXVsdGlQYWdlTGlzdA8PZmRkBW9jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRTdWJqZWN0TWFuYWdlciR3cDY5MDcyMDEzOCR3cDg0MjMwNzkyMyRsc3RQYWdlcyRsc3RVbml2ZXJzYWwPD2ZkZAWbAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkRG9jdW1lbnRSZWxhdGlvbnNoaXAyJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JE11bHRpUGFnZUxpc3QPD2ZkZGHvYZcHsEGDysgr0Jqu2IUeQVZG" />
+</div>
+
+        
+        <div id="AreaFullPageCenter">
+            
+                <div></div>
+                <ul class="QuickNav">
+                    <li><a href="#quicksearchinput">Go to search</a></li>
+                    <li><a href="#Content">Go to content</a></li>
+                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
+                    <li><a href="#AreaLeft">Go to left menu</a></li>
+                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Go to contact information</a></li>
+                </ul>
+                
+        
+    <ul id="AreaTopLanguageNav" class="container NavListH">
+        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/krd/kampanjer/valg.html?id=456491">Bokmål</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/dep/krd/kampanjer/valportalen.html?id=456491">Nynorsk</a></li>
+        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/krd/kampanjer/valga-portal.html?id=456491">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/krd/kampanjer/election_portal.html?id=456491">English</a></li>
+    </ul>
+
+    
+            
+            <div id="AreaFullPageBorder" class="expDiv">
+                <div id="AreaTop" class=" ">
+                    
+                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                        <div id="AreaTopLeft">
+                            
+                                <div id="AreaTopSiteNav">
+                                    <ul class="NavDropdown">
+                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
+                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
+                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
+                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
+                                            
+    <ul>
+  
+    <li>
+        <a href="/en/dep/smk.html?id=875" class="NormalLink ISI_MENU">The Office of the Prime Minister</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/bld.html?id=298" class="NormalLink ISI_MENU">Ministry of Children, Equality and Social Inclusion</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/fin.html?id=216" class="NormalLink ISI_MENU">Ministry of Finance</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/hod.html?id=421" class="NormalLink ISI_MENU">Ministry of Health and Care Services</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
+    </li>
+  
+    <li class="Selected">
+        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kd.html?id=586" class="NormalLink ISI_MENU">Ministry of Education and Research</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Ministry of Agriculture and Food</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/oed.html?id=750" class="NormalLink ISI_MENU">Ministry of Petroleum and Energy</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/sd.html?id=791" class="NormalLink ISI_MENU">Ministry of Transport and Communications</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/ud.html?id=833" class="NormalLink ISI_MENU">Ministry of Foreign Affairs</a>
+    </li>
+  
+    </ul>
+  
+
+
+                                        </li>
+                                    </ul>
+                                </div>    
+                            
+                            <a href="/en/dep/krd.html?id=504"><img class="ProfileLogo" src="/styles/Images/krd/krd_en.gif" alt='Ministry of Local Government and Regional Development' /></a>
+                        </div>
+                        <div id="AreaTopRight">
+                            
+                            
+                                <div id="AreaSearch">
+                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+	
+    
+    <label for="quicksearchinput" class="QuickSearchHeader">Search the Ministry of Local Government and Regional Development </label>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
+    
+    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack('ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch','')">Search all of government.no</a></span>
+
+</div>
+                                </div>
+                                <ul id="AreaTopPrintMeny" class="NavListH">
+                                    
+                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
+                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
+                                        
+                                            <li class="First">
+                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/krd/kampanjer/election_portal.html?id=456491&amp;customerid=19'>
+                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+                                                </a>
+                                            </li>
+                                                                            
+                                </ul>
+                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
+                                    
+                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                    
+                                      
+                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/dep/krd/Site-Map.html?id=313851">Site Map</a></li>
+                                    
+                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/dep/krd/min/contact.html?id=512">Contact</a></li>
+                                </ul>
+                            
+                        </div>
+                    
+                </div>
+                <div id="AreaFull" class="clearBoth">
+                <div id="AreaFullContent">
+                    <!-- ISI_START -->
+                    
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="slickbox" style="display:none;">
+                                       
+                                            
+<script type="text/javascript"><!--
+function fbs_click() 
+{
+    u=location.href;
+    t=document.title;
+    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
+    return false;
+}
+function nettby_click(pageurl,pagename)
+{
+    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
+    wnd.focus();
+    return false;
+}
+function GetThis(T, C, U, L) 
+{
+	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
+	wnd = window.open(targetUrl);
+	wnd.focus();
+	return false;
+}
+--></script>
+
+
+
+    <div id="thankyouview">
+        <div id="thankyoudiv"></div>        
+    </div>
+    <div id="tipafriend">
+        <div id="tipafriendContent">
+            
+            <div>
+	  
+                <p><strong>Share this page with a friend </strong></p>
+                <ol>
+                    <li>
+                        
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
+                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                        &nbsp;
+                        &nbsp;
+                    </li>
+                    <li>
+                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
+                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
+                    </li>
+                    <li>
+                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                    </li>
+                    <li>
+                                                         
+                    </li>
+                </ol>                          
+            
+</div>
+        </div> 
+    </div>
+    <div id="ShareArticle">
+        <p><strong>Share</strong></p>
+        <ul class="communities">        
+            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/krd/kampanjer/election_portal.html?id=456491" target="_blank">Facebook</a></li>            
+            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/en/dep/krd/kampanjer/election_portal.html?id=456491', 'Election Portal: valg.no')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/en/dep/krd/kampanjer/election_portal.html?id=456491&amp;description=Election Portal: valg.no' target="_blank">Nettby</a></li>
+            <li><a class="share_myspace" href="#" onclick="return GetThis('Election Portal: valg.no','','http://www.regjeringen.no/en/dep/krd/kampanjer/election_portal.html?id=456491',3)">Myspace</a></li>
+            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
+        </ul>
+    </div>
+
+
+
+                                        
+                                    </div>
+                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+                                    
+
+    
+
+
+
+
+    
+       
+    
+    <div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_imageheadertop_plText" class="documentTop">
+	
+      
+      <h1>Election Portal: valg.no</h1>
+      <h3 id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_imageheadertop_H3_2" class="subDescription">The Parliamentary Election and the Sami Assembly Election 2009</h3>      
+    
+</div>
+
+<div class="documentBody">
+    <p align="left">Elections were held in 2009 to the Parliament (Storting) and to the Sami Assembly in Norway.</p>
+    
+    
+
+        
+        
+    
+        <div class="ArticleView"> 
+            <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/determining-the-election-results-who-get.html?id=570018" class="ISI_IGNORE">
+                <img src="/upload/KRD/Kampanjer/valgportal/ingressbilder/hvem_blir_valgt01_100x75.jpg" alt="" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/determining-the-election-results-who-get.html?id=570018" title="">
+                        Determining the election results: who gets elected
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none">The parliamentary Election</h3>
+                <p class="ArticleInfo">[04.09.2009]</p>
+                <p>The determination of election results and who is returned to the Parliament (Storting) takes place in two rounds. First, the number of seats the party/group is to get is determined (allocation of seats). Then the individual candidates who are to be returned from the different lists are selected (return of members). </p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/right-to-vote-and-electoral-register.html?id=457100" class="ISI_IGNORE">
+                <img src="/upload/KRD/Kampanjer/valgportal/ingressbilder/stemmerett_manntall_100x75.jpg" alt="" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/right-to-vote-and-electoral-register.html?id=457100" title="">
+                        Right to vote and electoral register
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none">The Parliamentary Election</h3>
+                <p class="ArticleInfo">[02.09.2009]</p>
+                <p>You must have the right to vote and be registered as elector to be able to vote.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/proof-of-identity-id.html?id=541951" class="ISI_IGNORE">
+                <img src="/upload/KRD/Kampanjer/valgportal/ingressbilder/legitimasjon01_100x75.jpg" alt="" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/proof-of-identity-id.html?id=541951" title="">
+                        Proof of identity (ID)
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none">The Parliamentary Election</h3>
+                <p class="ArticleInfo">[02.09.2009]</p>
+                <p>The Election Act requires that a voter who is unknown to the returning officer shall show proof of identity. So take proof of identity with you when you are going to vote; stating your name and date of birth is not sufficient.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/polling-cards.html?id=541954" class="ISI_IGNORE">
+                <img src="/upload/KRD/Kampanjer/valgportal/ingressbilder/valgkort_100x75.jpg" alt="" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/polling-cards.html?id=541954" title="">
+                        Polling cards
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none">The Parliamentary Election</h3>
+                <p class="ArticleInfo">[02.09.2009]</p>
+                <p>All electors are sent a polling card by post from their municipal authority. On the polling card you will find information about polling hours and which polling station you must use on Election Day. You do not need to take your polling card with you in order to vote, but you will be able to vote more quickly if you take your polling card with you. If you have questions about the polling card, please contact your municipal authority.
+
+</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/where-can-you-cast-your-vote.html?id=541963" class="ISI_IGNORE">
+                <img src="/upload/KRD/Kampanjer/valgportal/ingressbilder/hvor_kan_du_stemme02_100x75.jpg" alt="" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/where-can-you-cast-your-vote.html?id=541963" title="">
+                        Where can you cast your vote?
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none">The Parliamentary Election</h3>
+                <p class="ArticleInfo">[02.09.2009]</p>
+                <p>On Election Day, 14 September, you must vote in the municipality in which you are registered in the National Population Register as residing at 30 June. If you wish to vote in advance, you can do so in any municipality in the period 10.8.09-11.9-09.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/how-to-vote-on-election-day.html?id=457112" class="ISI_IGNORE">
+                <img src="/upload/KRD/Kampanjer/valgportal/ingressbilder/slik_stemmer_du_pa_valgdagen_100x75.jpg" alt="" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/how-to-vote-on-election-day.html?id=457112" title="">
+                        How to vote on Election Day
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none">The Parliamentary Election</h3>
+                <p class="ArticleInfo">[02.09.2009]</p>
+                <p>Election Day is 14 September 2009. In 205 municipalities the polling stations open on Sunday 13 September already. If you vote on Election Day, 14 September (or 13 September in municipalities that have two-day elections) you must vote in the municipality in which you are registered as an elector on 30 June. Remember to take proof of identity with you!
+</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/how-to-vote-in-advance.html?id=457115" class="ISI_IGNORE">
+                <img src="/upload/KRD/Kampanjer/valgportal/ingressbilder/valgmatriell02_100x75.jpg" alt="" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/how-to-vote-in-advance.html?id=457115" title="">
+                        How to vote in advance
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none">The Parliamentary Election</h3>
+                <p class="ArticleInfo">[02.09.2009]</p>
+                <p>Ordinary advance voting begins on 10 August. You can vote in advance up to and including 11 September. You can vote in advance in any municipality throughout Norway. Remember proof of identity (ID)!</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+        <div class="ArticleView"> 
+            <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/how-to-change-your-ballot-paper.html?id=542033" class="ISI_IGNORE">
+                <img src="/upload/KRD/Kampanjer/valgportal/ingressbilder/endre_stemmeseddel_100x75.jpg" alt="" class="ArticleImg" />
+            </a>
+            <div class="ArticleImgContent">
+                <h2>
+                    <a href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/how-to-change-your-ballot-paper.html?id=542033" title="">
+                        How to make changes on your ballot paper
+                    </a>
+                </h2>
+                <h3 class="subDescription" style="display:none">The Parliamentary Election</h3>
+                <p class="ArticleInfo">[02.09.2009]</p>
+                <p>Your ballot paper determines which party you vote for. You may make changes on your ballot paper if you want to influence the order in which the candidates are listed on the ballot paper.</p>
+                
+                
+                <p>
+                    
+                    
+                </p>
+                                 
+           </div>
+        </div> 
+    
+ 
+
+        
+        <p class="WebPartReadMoreParagraph"></p>
+                        
+        
+
+</div>
+	<div class="printContact">
+		
+	</div>
+
+                                </div>
+                                <div id="AreaRight"> 
+                                    
+                                        
+                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/en/dep/krd.html?id=504'><img src="/upload/KRD/Profilelementer/valg_banner_198x123px.gif" alt="Valg" /></a></div>
+                                        
+                                        
+    
+
+                                        
+                                        
+    
+
+     
+     
+    
+    
+     
+        
+                                        
+        <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1906544844_wp892163773_hyperLink1"><img id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1906544844_wp892163773_Image1" class="bannerimg" alt="" src="/upload/KRD/Kampanjer/valgportal/banner/strek_198.jpg" style="border-width:0px;" /></a><a href="/en/dep/krd/kampanjer/valg/stortingsvalg/brosjyrer-2009.html?id=568062" id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp659813586_wp1778683926_hyperLink1" target="_self"><img id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp659813586_wp1778683926_Image1" class="bannerimg" alt="Brochure" src="/upload/KRD/Kampanjer/valgportal/banner/brochure_198x45.png" style="border-width:0px;" /></a><a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp913073762_wp1381101247_hyperLink1"><img id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp913073762_wp1381101247_Image1" class="bannerimg" alt="" src="/upload/KRD/Kampanjer/valgportal/banner/strek_198.jpg" style="border-width:0px;" /></a><a href="/en/dep/krd/lyd_bilde/video1/informasjonsfilm-om-stortingsvalget---en.html?id=610964" id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp498827824_wp157835074_hyperLink1" target="_self"><img id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp498827824_wp157835074_Image1" class="bannerimg" alt="Film about the election" src="/upload/KRD/Kampanjer/valgportal/banner/film_election_198.png" style="border-width:0px;" /></a><a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp123343045_wp1667507749_hyperLink1"><img id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp123343045_wp1667507749_Image1" class="bannerimg" alt="" src="/upload/KRD/Kampanjer/valgportal/banner/strek_198.jpg" style="border-width:0px;" /></a>
+<div class="Toolbox">
+    <h2 id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp690720138_wp842307923_listHeader" class="ToolboxHeader">Links:</h2>
+    
+    <div class="ToolboxContent">
+    
+        
+                <ul>
+            
+                <li><a href="http://app.norway.no/styresmakter/liste.asp?el=66&amp;nside=kommune" class="ISI_MENU">Municipalities</a>
+                </li>
+            
+                <li><a href="http://app.norway.no/styresmakter/liste.asp?el=59" class="ISI_MENU">County municipalities</a>
+                </li>
+            
+                </ul>
+            
+                   
+        
+        
+ 
+
+
+        
+    
+    </div>
+     
+</div>
+
+                                                                        
+                                        
+     
+
+                                                                                                   
+                                </div>
+                            
+                        </div>
+                        <div id="AreaLeft">
+                              
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/krd.html?id=504">
+            Ministry home</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU " href="/en/dep/krd/kampanjer/election_portal.html?id=456491" title=''>
+            www.valg.no english</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election.html?id=538253" title=''>
+            The Parliamentary (Storting) Election</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/en/dep/krd/kampanjer/election_portal/the-norwegian-electoral-system.html?id=456636" title=''>
+            The Norwegian electoral system</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="http://www.regjeringen.no/krd/html/valg2009/" title=''>
+            Elections results</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/en/dep/krd/kampanjer/election_portal/legal-framework.html?id=467186" title=''>
+            Legal framework</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/en/dep/krd/kampanjer/election_portal/election-observation.html?id=573442" title=''>
+            Election observation</a>
+    </li><li class="">
+        <a class="ISI_MENU " href="/en/dep/krd/prosjekter/e-vote-2011-project.html?id=597658" title=''>
+            The E-vote 2011-project</a>
+    </li></ul>
+
+                                </div>
+                              
+                            
+                        </div>
+                    
+                    <!-- ISI_STOP -->
+                </div>
+                </div>
+            </div>
+        </div>
+        
+         
+<div id="PageFooter"><p>Ministry&nbsp;of Local Government and Regional Development, Akersgata 59, Postboks 8112 Dep, 0032 Oslo | Telephone: + 47 22 24 90 90<br />E-mail: <img id='Eoi_1' class='obfimg' src='/images/emailimages/4f96b63cd195f1d0856590db2d29a3eb.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_1', '142A753B287B7A3A6471703A70667F547F7560607B7960677B642A367B7A3A6471703A70667F547F7560607B7960677B642E7B60787D757936297271667C347528'));//--></script>&nbsp;| Editor:&nbsp;<img id='Eoi_2' class='obfimg' src='/images/emailimages/d2bde6b644fc8340755b780802216b3a.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_2', 'F3CD92DCCF8196989AA4D39687968196BED3859ABFCDD19C9DDD839697DD978198B38196989A84DD96879681969EDE859A9FC99C879F9A929ED1CE9596819BD392CF'));//--></script> | Web editor: <img id='Eoi_3' class='obfimg' src='/images/emailimages/8cb8b2b0c6e21482b67c9171f5082840.png' alt='' /><script type="text/javascript"><!--
+document.write(dc('Eoi_3', 'A39DC28C9FCDC6D0CECFCCEB83D1C6C4CCF19D81CCCD8DD3C6C78DC7D1C8E3CDC6D0CECFCCCB8DD1C6C4CCD199CCD7CFCAC2CE819EC5C6D1CB83C29F'));//--></script></p></div>
+        
+        
+        
+   
+    
+
+ 
+    
+
+    
+
+<script type="text/javascript">
+//<![CDATA[
+var __wpmExportWarning='';var __wpmCloseProviderWarning='';var __wpmDeleteWarning='';//]]>
+</script>
+</form>
+
+<script type="text/javascript"><!--
+if (navigator.userAgent.indexOf('Opera') != -1) {
+	
+} else
+{    
+    //setAreaHeights();
+}
+    
+function Operatest(){
+    if (navigator.userAgent.indexOf('Opera') != -1) 
+    {
+        setAreaHeights();
+    }
+}
+//--></script>
+
+<div id="ctl00_externalPageTrackers">
+	
+
+<!-- BEGIN Xtractor client tracker script -->
+<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
+    _pxReg();
+//--></script>
+<!-- END Xtractor client tracker script -->
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- This script is used to gather statistics on the use of regjeringen.no -->
+<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+_tag.dcsGetId();
+//]]>>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCollect();
+//]]>>
+</script>
+<noscript>
+    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+
+</div>
+</body>
+</html>
