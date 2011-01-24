@@ -99,7 +99,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'Vald-og-overgrep-i-nare-relasjonar.html?id=1022'"/>
+<xsl:variable name="para_nno" select="'vald-og-overgrep-i-nare-relasjonar.html?id=1022'"/>
 <xsl:variable name="para_nob" select="'vold_i_nare_relasjoner.html?id=1022'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'veahkavaldimat-ja-veahkavalddalavuoat-la.html?id=1022'"/>

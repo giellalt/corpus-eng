@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'fns-erklaring-om-urfolks-rettigheter.html?id=87024'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'ONa-julggatus-algoalbmotvuoigatvuoaid-bi.html?id=87024'"/>
+<xsl:variable name="para_sme" select="'ona-julggatus-algoalbmotvuoigatvuoaid-bi.html?id=87024'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

@@ -100,7 +100,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Forsvarsministeren-deltar-pa-utenriks--og-forsvarsministermote-i-Brussel.html?id=620392'"/>
+<xsl:variable name="para_nob" select="'forsvarsministeren-deltar-pa-utenriks--og-forsvarsministermote-i-brussel.html?id=620392'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

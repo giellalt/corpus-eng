@@ -100,9 +100,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Naringslivssamarbeid-mellom-Norge-og-Russland.html?id=601903'"/>
+<xsl:variable name="para_nob" select="'naringslivssamarbeid-mellom-norge-og-russland.html?id=601903'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Ealahusovttasbargu-gaskal-Norgga-ja-Ruoa.html?id=601903'"/>
+<xsl:variable name="para_sme" select="'ealahusovttasbargu-gaskal-norgga-ja-ruoa.html?id=601903'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

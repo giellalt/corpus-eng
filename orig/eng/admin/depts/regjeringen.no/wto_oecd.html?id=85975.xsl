@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'wtooecd.html?id=85975'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'WTOOECD-sekuvdna-.html?id=85975'"/>
+<xsl:variable name="para_sme" select="'wtooecd-sekuvdna-.html?id=85975'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

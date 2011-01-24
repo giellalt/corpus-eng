@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'ilo-konvensjonen-om-urfolks-rettigheter-.html?id=487963'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'ILO-konvenuvdna-nr-169-algoalbmogiid-ja-.html?id=487963'"/>
+<xsl:variable name="para_sme" select="'ilo-konvenuvdna-nr-169-algoalbmogiid-ja-.html?id=487963'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

@@ -99,7 +99,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'Miljovern--og-utviklingsminister-Erik-So.html?id=486338'"/>
+<xsl:variable name="para_nno" select="'miljovern--og-utviklingsminister-erik-so.html?id=486338'"/>
 <xsl:variable name="para_nob" select="'miljovernminister-erik-solheim.html?id=486338'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'miljo--og-utviklingsminister-erik-solhei.html?id=486338'"/>

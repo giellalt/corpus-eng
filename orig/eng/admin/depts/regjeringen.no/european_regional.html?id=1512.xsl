@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'eureg.html?id=1512'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Regionala-ja-ekonomala-eurohpagaaldagaid-sekuvdna-EUREG.html?id=1512'"/>
+<xsl:variable name="para_sme" select="'regionala-ja-ekonomala-eurohpagaaldagaid-sekuvdna-eureg.html?id=1512'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

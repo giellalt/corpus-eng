@@ -100,7 +100,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'Moter-respekt-men-saksbehandlingstida-er-for-lang.html?id=624695'"/>
+<xsl:variable name="para_nno" select="'moter-respekt-men-saksbehandlingstida-er-for-lang.html?id=624695'"/>
 <xsl:variable name="para_nob" select="'onsker-bredt-samarbeid-i-nord.html?id=623890'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'haliidit-viiddis-ovttasbarggu-davvin.html?id=623890'"/>

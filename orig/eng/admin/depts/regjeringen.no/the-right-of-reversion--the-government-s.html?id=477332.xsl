@@ -100,9 +100,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Hjemfall-Regjeringen-sikrer-offentlig-ei.html?id=477332'"/>
+<xsl:variable name="para_nob" select="'hjemfall-regjeringen-sikrer-offentlig-ei.html?id=477332'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Maasmahcaheapmi-Raehus-sihkkarasta-almmo.html?id=477332'"/>
+<xsl:variable name="para_sme" select="'maasmahcaheapmi-raehus-sihkkarasta-almmo.html?id=477332'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

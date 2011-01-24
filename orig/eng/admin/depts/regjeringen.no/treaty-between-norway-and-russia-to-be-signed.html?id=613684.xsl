@@ -100,7 +100,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'Etterbetaling-av-kompensasjon-for-bortfall-av-automatinntekter-til-Norges-Blindeforbund-og-Norsk-Folkehjelp.html?id=614481'"/>
+<xsl:variable name="para_nno" select="'etterbetaling-av-kompensasjon-for-bortfall-av-automatinntekter-til-norges-blindeforbund-og-norsk-folkehjelp.html?id=614481'"/>
 <xsl:variable name="para_nob" select="'avtalesignering.html?id=613684'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'norga-ja-ruoa-vuollaialliba-iehtadusa.html?id=613684'"/>

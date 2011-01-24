@@ -99,7 +99,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'Garantikassa-for-fiskarane.html?id=163538'"/>
+<xsl:variable name="para_nno" select="'garantikassa-for-fiskarane.html?id=163538'"/>
 <xsl:variable name="para_nob" select="'garantikassen-for-fiskerne.html?id=163538'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'guolasteddjiid-dahkaduskassa-.html?id=163538'"/>

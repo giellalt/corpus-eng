@@ -99,7 +99,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'Kommunikasjonsradgjevar-Arvid-Samland.html?id=503357'"/>
+<xsl:variable name="para_nno" select="'kommunikasjonsradgjevar-arvid-samland.html?id=503357'"/>
 <xsl:variable name="para_nob" select="'kommunikasjonsradgiver-arvid-samland.html?id=503357'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'diehtojuohkinraeaddi-arvid-samland.html?id=503357'"/>

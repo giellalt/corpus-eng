@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'klima-_og_luftforurensninger.html?id=85645'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Dalkkadat--ja-aibmosekuvdna.html?id=85645'"/>
+<xsl:variable name="para_sme" select="'dalkkadat--ja-aibmosekuvdna.html?id=85645'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

@@ -99,10 +99,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'Kriminalitet-og-overgrep.html?id=1261'"/>
+<xsl:variable name="para_nno" select="'kriminalitet-og-overgrep.html?id=1261'"/>
 <xsl:variable name="para_nob" select="'kriminalitet_og_overgrep.html?id=1261'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Vearredagolavuohta-ja-veahkavalddalavuoh.html?id=1261'"/>
+<xsl:variable name="para_sme" select="'vearredagolavuohta-ja-veahkavalddalavuoh.html?id=1261'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

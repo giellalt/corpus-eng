@@ -99,10 +99,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'Meir-rettferdig-fordeling-av-inntektene-mellom-kommunane.html?id=604562'"/>
+<xsl:variable name="para_nno" select="'meir-rettferdig-fordeling-av-inntektene-mellom-kommunane.html?id=604562'"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Sisaboauid-vuoiggalat-juogadeapmi-gielddaid-gaskkas.html?id=604562'"/>
+<xsl:variable name="para_sme" select="'sisaboauid-vuoiggalat-juogadeapmi-gielddaid-gaskkas.html?id=604562'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

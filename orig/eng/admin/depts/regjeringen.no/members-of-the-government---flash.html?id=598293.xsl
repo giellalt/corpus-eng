@@ -100,9 +100,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Regjeringens-medlemmer---flash.html?id=598293'"/>
+<xsl:variable name="para_nob" select="'regjeringens-medlemmer---flash.html?id=598293'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Raehusa-mieldelahtut.html?id=598293'"/>
+<xsl:variable name="para_sme" select="'raehusa-mieldelahtut.html?id=598293'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

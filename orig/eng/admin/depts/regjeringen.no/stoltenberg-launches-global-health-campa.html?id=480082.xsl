@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'stoltenberg-lanserer-ny-helsekampanje-fo.html?id=480082'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Stoltenberg-almmuha-oa-dearvvavuoaaggird.html?id=480082'"/>
+<xsl:variable name="para_sme" select="'stoltenberg-almmuha-oa-dearvvavuoaaggird.html?id=480082'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

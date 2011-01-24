@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'fornying_av_offentlig_sektor.html?id=1366'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Almmola-suorggi-oasmahttin.html?id=1366'"/>
+<xsl:variable name="para_sme" select="'almmola-suorggi-oasmahttin.html?id=1366'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

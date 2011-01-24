@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'multilateralt_samarbeid_miljofora.html?id=85657'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Globala-ovttasbarggu-sekuvdna-.html?id=85657'"/>
+<xsl:variable name="para_sme" select="'globala-ovttasbarggu-sekuvdna-.html?id=85657'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

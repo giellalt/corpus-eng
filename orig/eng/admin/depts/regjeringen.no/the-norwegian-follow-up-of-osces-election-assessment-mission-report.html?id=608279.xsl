@@ -99,8 +99,8 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'Norges-oppfolging-av-OSSEs-Election-Assessment-Mission-rapport.html?id=608279'"/>
-<xsl:variable name="para_nob" select="'Norges-oppfolging-av-OSSEs-Election-Assessment-Mission-rapport.html?id=608279'"/>
+<xsl:variable name="para_nno" select="'norges-oppfolging-av-osses-election-assessment-mission-rapport.html?id=608279'"/>
+<xsl:variable name="para_nob" select="'norges-oppfolging-av-osses-election-assessment-mission-rapport.html?id=608279'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

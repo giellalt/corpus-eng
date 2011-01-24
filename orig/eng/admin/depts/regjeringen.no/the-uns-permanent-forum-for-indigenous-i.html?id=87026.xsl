@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'fns-permanente-forum-for-urfolkssaker.html?id=87026'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'ONa-algoalbmotaiid-bisteva-fora-.html?id=87026'"/>
+<xsl:variable name="para_sme" select="'ona-algoalbmotaiid-bisteva-fora-.html?id=87026'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

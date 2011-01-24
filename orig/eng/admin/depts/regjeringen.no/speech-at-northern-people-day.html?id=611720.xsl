@@ -101,7 +101,7 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Tale-til-Nordlige-folk--dagen.html?id=611720'"/>
+<xsl:variable name="para_nob" select="'tale-til-nordlige-folk--dagen.html?id=611720'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'tale-til-nordisek-folk--dagen.html?id=611720'"/>
 <xsl:variable name="para_smj" select="''"/>

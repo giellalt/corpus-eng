@@ -99,7 +99,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'Plan--okonomi--og-administrasjonsavdelin.html?id=1572'"/>
+<xsl:variable name="para_nno" select="'plan--okonomi--og-administrasjonsavdelin.html?id=1572'"/>
 <xsl:variable name="para_nob" select="'plan-_okonomi-_og_administrasjonsavdelin.html?id=1572'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'plana--ja-ekonomija--ja-halddahusossodat.html?id=1572'"/>

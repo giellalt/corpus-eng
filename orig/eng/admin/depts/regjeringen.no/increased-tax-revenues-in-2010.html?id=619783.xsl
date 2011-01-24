@@ -103,7 +103,7 @@
 <xsl:variable name="para_nno" select="'auka-skatteinntekter-i-2010.html?id=619783'"/>
 <xsl:variable name="para_nob" select="'--et-godt-men-stramt-forsvarsbudsjett.html?id=619069'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Lasihuvvon-vearrodietnasat-2010s.html?id=619783'"/>
+<xsl:variable name="para_sme" select="'lasihuvvon-vearrodietnasat-2010s.html?id=619783'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

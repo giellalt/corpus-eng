@@ -103,7 +103,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'selvbestemmelse-og-samene-.html?id=499217'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Iemearrideapmi-ja-samit-.html?id=499217'"/>
+<xsl:variable name="para_sme" select="'iemearrideapmi-ja-samit-.html?id=499217'"/>
 <xsl:variable name="para_smj" select="'julevsame-ajgat--ja-giellakonferanssa.html?id=527032'"/>
 <xsl:variable name="para_swe" select="''"/>
 

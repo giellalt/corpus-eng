@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'vidar_ulriksen__statssekretar_ap.html?id=1676'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Stahtaalli-Vidar-Ulriksen-.html?id=1676'"/>
+<xsl:variable name="para_sme" select="'stahtaalli-vidar-ulriksen-.html?id=1676'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

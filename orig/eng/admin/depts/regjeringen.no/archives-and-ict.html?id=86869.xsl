@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'arkiv.html?id=86869'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Arkiiva-ja-IKT.html?id=86869'"/>
+<xsl:variable name="para_sme" select="'arkiiva-ja-ikt.html?id=86869'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

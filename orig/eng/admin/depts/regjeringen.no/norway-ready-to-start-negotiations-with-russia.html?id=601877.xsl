@@ -100,9 +100,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'Presidentbesoket-Norge-klar-til-a-starte-handelsavtaleforhandlinger-med-Russland.html?id=601877'"/>
+<xsl:variable name="para_nob" select="'presidentbesoket-norge-klar-til-a-starte-handelsavtaleforhandlinger-med-russland.html?id=601877'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Presideantagalledeapmi-Norga-lea-valmma-siehtadallagoahtit-gavpesoahpamua-Ruoain.html?id=601877'"/>
+<xsl:variable name="para_sme" select="'presideantagalledeapmi-norga-lea-valmma-siehtadallagoahtit-gavpesoahpamua-ruoain.html?id=601877'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

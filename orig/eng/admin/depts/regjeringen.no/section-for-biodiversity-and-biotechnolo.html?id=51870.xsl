@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'biomangfold_og_bioteknologi.html?id=51870'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Bioeatnatvuoa-ja-bioteknologiija-sekuvdna.html?id=51870'"/>
+<xsl:variable name="para_sme" select="'bioeatnatvuoa-ja-bioteknologiija-sekuvdna.html?id=51870'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

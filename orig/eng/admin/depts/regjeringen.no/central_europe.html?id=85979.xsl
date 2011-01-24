@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'seksjon_for_sentral-europa_og_eos-finans.html?id=85979'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Gaska-Eurohpa-ja-EESa-ruhtadanortnegiid-sekuvdna-SEEF.html?id=85979'"/>
+<xsl:variable name="para_sme" select="'gaska-eurohpa-ja-eesa-ruhtadanortnegiid-sekuvdna-seef.html?id=85979'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

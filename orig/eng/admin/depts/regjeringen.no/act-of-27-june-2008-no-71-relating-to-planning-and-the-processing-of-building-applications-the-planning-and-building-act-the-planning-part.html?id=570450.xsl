@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'plan--og-bygningsloven-2.html?id=570450'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Lahka-2008-06-27-71-planema-ja-huksenaemeannudeami-birra-plana--ja-huksenlahka-planaoassi.html?id=570450'"/>
+<xsl:variable name="para_sme" select="'lahka-2008-06-27-71-planema-ja-huksenaemeannudeami-birra-plana--ja-huksenlahka-planaoassi.html?id=570450'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'russland_eurasia.html?id=85987'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'Miehtamailbmasa-sihkkarvuoagaaldagaid-ja-SUS-riikkaid-sekuvdna.html?id=85987'"/>
+<xsl:variable name="para_sme" select="'miehtamailbmasa-sihkkarvuoagaaldagaid-ja-sus-riikkaid-sekuvdna.html?id=85987'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
