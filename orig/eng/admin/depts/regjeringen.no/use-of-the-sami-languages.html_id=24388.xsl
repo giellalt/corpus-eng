@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fad/Selected-topics/Sami-policy/use-of-the-sami-languages.html_id=24388'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fad/Selected-topics/Sami-policy/use-of-the-sami-languages.html?id=24388'"/>
 <xsl:variable name="title" select="'Sámegiela geavaheapmi - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>

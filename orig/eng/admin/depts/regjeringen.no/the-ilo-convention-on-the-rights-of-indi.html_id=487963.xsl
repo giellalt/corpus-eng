@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fad/Selected-topics/Sami-policy/international-efforts-in-relation-to-ind/the-ilo-convention-on-the-rights-of-indi.html_id=487963'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fad/Selected-topics/Sami-policy/international-efforts-in-relation-to-ind/the-ilo-convention-on-the-rights-of-indi.html?id=487963'"/>
 <xsl:variable name="title" select="'ILO-konvenšuvdna eamiálbmogiid vuoigatvuođaid birra - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
