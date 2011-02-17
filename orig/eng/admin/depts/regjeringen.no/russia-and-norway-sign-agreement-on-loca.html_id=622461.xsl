@@ -57,7 +57,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'505'"/>
+<xsl:variable name="wordcount" select="'504'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
@@ -100,7 +100,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="''"/>
+<xsl:variable name="para_nno" select="'marianne-a-olsen-mottok-gandhistipendet-.html_id=623349'"/>
 <xsl:variable name="para_nob" select="'noreg-og-russland-underteiknar-avtale-om.html_id=622461'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'radjaassiduodastusa.html_id=622461'"/>

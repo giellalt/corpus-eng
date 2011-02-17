@@ -57,7 +57,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'533'"/>
+<xsl:variable name="wordcount" select="'531'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
@@ -101,8 +101,8 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'tale-til-nordlige-folk--dagen.html_id=611720'"/>
-<xsl:variable name="para_sma" select="''"/>
+<xsl:variable name="para_nob" select="'Tale-til-Nordlige-folk--dagen.html_id=611720'"/>
+<xsl:variable name="para_sma" select="'Haaleme-Heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie.html_id=620957'"/>
 <xsl:variable name="para_sme" select="'tale-til-nordisek-folk--dagen.html_id=611720'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>

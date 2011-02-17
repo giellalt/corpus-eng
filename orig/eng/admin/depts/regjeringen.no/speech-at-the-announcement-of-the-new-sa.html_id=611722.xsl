@@ -17,7 +17,8 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fad/whats-new/taler_og_artikler/av_ovrig_politisk_ledelse/taler-og-artikler-av-statssekretar-raimo/2010/speech-at-the-announcement-of-the-new-sa.html?id=611722'"/>
-<xsl:variable name="title" select="'Speech at the announcement of the new Sami Pathfinders - regjeringen.no'"/>
+<xsl:variable name="text_encoding" select="''"/>
+<xsl:variable name="title" select="'Sárdnon ođđa sámi ofelaččaid - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -46,7 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="'nob'"/>
+<xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -56,9 +57,9 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'676'"/>
+<xsl:variable name="wordcount" select="'472'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision$'"/>
+<xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
@@ -100,8 +101,8 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'tale-til-nye-samiske-veivisere.html_id=611722'"/>
-<xsl:variable name="para_sma" select="''"/>
+<xsl:variable name="para_nob" select="'Tale-til-nye-samiske-veivisere.html_id=611722'"/>
+<xsl:variable name="para_sma" select="'Haaleme-Heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie.html_id=620957'"/>
 <xsl:variable name="para_sme" select="'xx.html_id=611722'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>

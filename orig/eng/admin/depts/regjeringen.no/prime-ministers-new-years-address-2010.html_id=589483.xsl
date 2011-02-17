@@ -17,7 +17,8 @@
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
 <xsl:variable name="filename" select="'http://regjeringen.no/en/dep/smk/Whats-new/Speeches-and-articles/statsministeren/statsminister_jens_stoltenberg/2010/prime-ministers-new-years-address-2010.html?id=589483'"/>
-<xsl:variable name="title" select="'Prime Minister's New Year's Address 2010 - regjeringen.no'"/>
+<xsl:variable name="text_encoding" select="''"/>
+<xsl:variable name="title" select="'Stáhtaministara ođđajagesárdni jagi 2010 - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -46,7 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="'nob'"/>
+<xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -56,9 +57,9 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'2310'"/>
+<xsl:variable name="wordcount" select="'1823'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision$'"/>
+<xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
@@ -101,7 +102,7 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'statsministerens-nyttarstale-2010.html_id=589483'"/>
-<xsl:variable name="para_sma" select="''"/>
+<xsl:variable name="para_sma" select="'Haaleme-Heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie.html_id=620957'"/>
 <xsl:variable name="para_sme" select="'stahtaministara-oajagesardni-jagi-2010.html_id=589483'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>

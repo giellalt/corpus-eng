@@ -57,7 +57,7 @@
 <xsl:variable name="license_type" select="'free'"/>
 <xsl:variable name="sub_name" select="''"/>
 <xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'1293'"/>
+<xsl:variable name="wordcount" select="'1290'"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
 <xsl:variable name="template_version" select="'$Revision: 34357 $'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
@@ -102,8 +102,8 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'selvbestemmelse-og-samene-.html_id=499217'"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'iemearrideapmi-ja-samit-.html_id=499217'"/>
+<xsl:variable name="para_sma" select="'Haaleme-Heerredimmie-beetsuvistie--guhkene-bijjene-dennie-beapmoepolitihken-biejjieoornegisnie.html_id=620957'"/>
+<xsl:variable name="para_sme" select="'Iemearrideapmi-ja-samit-.html_id=499217'"/>
 <xsl:variable name="para_smj" select="'julevsame-ajgat--ja-giellakonferanssa.html_id=527032'"/>
 <xsl:variable name="para_swe" select="''"/>
 

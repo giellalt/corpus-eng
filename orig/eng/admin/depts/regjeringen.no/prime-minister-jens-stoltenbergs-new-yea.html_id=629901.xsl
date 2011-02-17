@@ -100,7 +100,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="''"/>
+<xsl:variable name="para_nno" select="'regjeringa-vil-gje-hjelp-til-straumrekni.html_id=630646'"/>
 <xsl:variable name="para_nob" select="'statsministerens-nyttarstale-2011.html_id=629901'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'stahtaministara-oajagesardni-jagi-2010.html_id=629901'"/>
