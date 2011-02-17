@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/determining-the-election-results-who-get.html?id=570018'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/determining-the-election-results-who-get.html_id=570018'"/>
 <xsl:variable name="title" select="'Válgaloahpparehkenastin: geat válljejuvvojit - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -99,10 +99,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'valoppgjer-kven-blir-vald.html?id=570018'"/>
-<xsl:variable name="para_nob" select="'valgoppgjor-hvem-blir-valgt.html?id=570018'"/>
+<xsl:variable name="para_nno" select="'valoppgjer-kven-blir-vald.html_id=570018'"/>
+<xsl:variable name="para_nob" select="'valgoppgjor-hvem-blir-valgt.html_id=570018'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'valgaloahpparehkenastin-geat-valljejuvvo.html?id=570018'"/>
+<xsl:variable name="para_sme" select="'valgaloahpparehkenastin-geat-valljejuvvo.html_id=570018'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

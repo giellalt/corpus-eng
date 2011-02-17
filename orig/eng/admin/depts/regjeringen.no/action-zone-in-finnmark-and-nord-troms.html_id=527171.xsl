@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/Subjects/rural-and-regional-policy/virkeomrader-retningslinjer-og-regler/action-zone-in-finnmark-and-nord-troms.html?id=527171'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/Subjects/rural-and-regional-policy/virkeomrader-retningslinjer-og-regler/action-zone-in-finnmark-and-nord-troms.html_id=527171'"/>
 <xsl:variable name="title" select="'Doaibmaguovlu Finnmárku ja Davvi-Romsa  - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -100,9 +100,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'virkemidler-i-tiltakssonen.html?id=527171'"/>
+<xsl:variable name="para_nob" select="'virkemidler-i-tiltakssonen.html_id=527171'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'doaibmaguovlu-finnmarku-ja-davvi-romsa-.html?id=527171'"/>
+<xsl:variable name="para_sme" select="'doaibmaguovlu-finnmarku-ja-davvi-romsa-.html_id=527171'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

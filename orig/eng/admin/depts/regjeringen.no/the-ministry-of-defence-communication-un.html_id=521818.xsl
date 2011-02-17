@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fd/the-ministry/organisation/Departments/the-ministry-of-defence-communication-un.html?id=521818'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fd/the-ministry/organisation/Departments/the-ministry-of-defence-communication-un.html_id=521818'"/>
 <xsl:variable name="title" select="'Gulahallanovttadat - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -99,10 +99,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'kommunikasjonseining.html?id=521818'"/>
-<xsl:variable name="para_nob" select="'kommunikasjonsenhet.html?id=521818'"/>
+<xsl:variable name="para_nno" select="'kommunikasjonseining.html_id=521818'"/>
+<xsl:variable name="para_nob" select="'kommunikasjonsenhet.html_id=521818'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'gulahallanovttadat.html?id=521818'"/>
+<xsl:variable name="para_sme" select="'gulahallanovttadat.html_id=521818'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

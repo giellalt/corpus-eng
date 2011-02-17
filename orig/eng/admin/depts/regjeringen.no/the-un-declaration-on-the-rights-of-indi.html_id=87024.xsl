@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fad/Selected-topics/Sami-policy/international-efforts-in-relation-to-ind/the-un-declaration-on-the-rights-of-indi.html?id=87024'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fad/Selected-topics/Sami-policy/international-efforts-in-relation-to-ind/the-un-declaration-on-the-rights-of-indi.html_id=87024'"/>
 <xsl:variable name="title" select="'ONa julggaštus álgoálbmotvuoigatvuođaid birra - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -100,9 +100,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'fns-erklaring-om-urfolks-rettigheter.html?id=87024'"/>
+<xsl:variable name="para_nob" select="'fns-erklaring-om-urfolks-rettigheter.html_id=87024'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'ona-julggatus-algoalbmotvuoigatvuoaid-bi.html?id=87024'"/>
+<xsl:variable name="para_sme" select="'ona-julggatus-algoalbmotvuoigatvuoaid-bi.html_id=87024'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
