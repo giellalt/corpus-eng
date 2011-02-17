@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fkd/The-Ministry-of-Fisheries-and-Coastal-Affairs/organisation/Departments/department-of-marine-resources-and-envir/director-general---department-of-marine-.html?id=1583'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fkd/The-Ministry-of-Fisheries-and-Coastal-Affairs/organisation/Departments/department-of-marine-resources-and-envir/director-general---department-of-marine-.html_id=1583'"/>
 <xsl:variable name="title" select="'Doaibmi ekspedišuvdnahoavda – Áhperesursa- ja ridduossodat Johán H. Williams - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -99,10 +99,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'ekspedisjonssjef---ressurs--og-havavdeli.html?id=1583'"/>
-<xsl:variable name="para_nob" select="'ekspedisjonssjef_-_ressurs-_og_havavdeli.html?id=1583'"/>
+<xsl:variable name="para_nno" select="'ekspedisjonssjef---ressurs--og-havavdeli.html_id=1583'"/>
+<xsl:variable name="para_nob" select="'ekspedisjonssjef_-_ressurs-_og_havavdeli.html_id=1583'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'ekspediuvdnahoavda--ressursa--ja-mearrao.html?id=1583'"/>
+<xsl:variable name="para_sme" select="'ekspediuvdnahoavda--ressursa--ja-mearrao.html_id=1583'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

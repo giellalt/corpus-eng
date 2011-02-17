@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/press/press-releases/2010/Increased-tax-revenues-in-2010.html?id=619783'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/press/press-releases/2010/Increased-tax-revenues-in-2010.html_id=619783'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'Lasihuvvon vearrodietnasat 2010:s - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
@@ -100,10 +100,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'auka-skatteinntekter-i-2010.html?id=619783'"/>
-<xsl:variable name="para_nob" select="'--et-godt-men-stramt-forsvarsbudsjett.html?id=619069'"/>
+<xsl:variable name="para_nno" select="'auka-skatteinntekter-i-2010.html_id=619783'"/>
+<xsl:variable name="para_nob" select="'--et-godt-men-stramt-forsvarsbudsjett.html_id=619069'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'lasihuvvon-vearrodietnasat-2010s.html?id=619783'"/>
+<xsl:variable name="para_sme" select="'lasihuvvon-vearrodietnasat-2010s.html_id=619783'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

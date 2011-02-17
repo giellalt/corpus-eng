@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/press/press-releases/2010/nok-57-billion-more-for-the-local-author.html?id=619784'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/press/press-releases/2010/nok-57-billion-more-for-the-local-author.html_id=619784'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'5,7 miljárdda ruvdno lassáneapmi suohkaniidda - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
@@ -100,10 +100,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'57-milliardar-kroner-meir-til-kommunane.html?id=619784'"/>
-<xsl:variable name="para_nob" select="'--et-godt-men-stramt-forsvarsbudsjett.html?id=619069'"/>
+<xsl:variable name="para_nno" select="'57-milliardar-kroner-meir-til-kommunane.html_id=619784'"/>
+<xsl:variable name="para_nob" select="'--et-godt-men-stramt-forsvarsbudsjett.html_id=619069'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'57-miljardda-ruvdno-lassaneapmi-suohkani.html?id=619784'"/>
+<xsl:variable name="para_sme" select="'57-miljardda-ruvdno-lassaneapmi-suohkani.html_id=619784'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

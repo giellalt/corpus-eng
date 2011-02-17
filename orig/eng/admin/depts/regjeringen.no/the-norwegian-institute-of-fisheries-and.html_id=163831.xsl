@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fkd/The-Ministry-of-Fisheries-and-Coastal-Affairs/Institutions/the-norwegian-institute-of-fisheries-and.html?id=163831'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fkd/The-Ministry-of-Fisheries-and-Coastal-Affairs/Institutions/the-norwegian-institute-of-fisheries-and.html_id=163831'"/>
 <xsl:variable name="title" select="'Norgga Guolástus- og mearradutkaninstituhtta  - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -99,10 +99,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'fiskeriforsking.html?id=163831'"/>
-<xsl:variable name="para_nob" select="'fiskeriforskning.html?id=163831'"/>
+<xsl:variable name="para_nno" select="'fiskeriforsking.html_id=163831'"/>
+<xsl:variable name="para_nob" select="'fiskeriforskning.html_id=163831'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'norgga-guolastus--og-mearradutkaninstituhtta-.html?id=163831'"/>
+<xsl:variable name="para_sme" select="'norgga-guolastus--og-mearradutkaninstituhtta-.html_id=163831'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

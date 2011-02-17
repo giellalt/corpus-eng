@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/press/press-releases/2010/New-rental-funding-for-regulated-housing-tenants-in-Trondheim.html?id=604480'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/press/press-releases/2010/New-rental-funding-for-regulated-housing-tenants-in-Trondheim.html_id=604480'"/>
 <xsl:variable name="title" select="'Ođđa viessoláigodoarjja daidda láigoássiide geat láigohit muddejuvvon orohagaid dahje ásodagaid Troanddimis  - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -99,10 +99,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'nytt-husleigetilskot-til-leigarar-av-regulerte-bustader-i-trondheim.html?id=604480'"/>
+<xsl:variable name="para_nno" select="'nytt-husleigetilskot-til-leigarar-av-regulerte-bustader-i-trondheim.html_id=604480'"/>
 <xsl:variable name="para_nob" select="''"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'oa-viessolaigodoarjja-daidda-laigoassiide-geat-laigohit-muddejuvvon-orohagaid-dahje-asodagaid-troanddimis-.html?id=604480'"/>
+<xsl:variable name="para_sme" select="'oa-viessolaigodoarjja-daidda-laigoassiide-geat-laigohit-muddejuvvon-orohagaid-dahje-asodagaid-troanddimis-.html_id=604480'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

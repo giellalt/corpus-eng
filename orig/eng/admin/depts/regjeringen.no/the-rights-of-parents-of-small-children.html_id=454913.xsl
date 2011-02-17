@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/bld/Documents/Guidelines-and-brochures/2007/The-rights-of-parents-of-small-children.html?id=454913'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/bld/Documents/Guidelines-and-brochures/2007/The-rights-of-parents-of-small-children.html_id=454913'"/>
 <xsl:variable name="title" select="'Smávvamánnáváhnemiid vuoigatvuođat - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -99,10 +99,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'rettar-for-smabarnsforeldre.html?id=454913'"/>
-<xsl:variable name="para_nob" select="'smabarnsforeldres-rettigheter.html?id=454913'"/>
+<xsl:variable name="para_nno" select="'rettar-for-smabarnsforeldre.html_id=454913'"/>
+<xsl:variable name="para_nob" select="'smabarnsforeldres-rettigheter.html_id=454913'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'samisk.html?id=454913'"/>
+<xsl:variable name="para_sme" select="'samisk.html_id=454913'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

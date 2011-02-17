@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fkd/The-Ministry-of-Fisheries-and-Coastal-Affairs/Institutions/The-Norwegian-Food-Safety-Authority.html?id=163326'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fkd/The-Ministry-of-Fisheries-and-Coastal-Affairs/Institutions/The-Norwegian-Food-Safety-Authority.html_id=163326'"/>
 <xsl:variable name="title" select="'Biebmobearráigeahčču (Mattilsynet) - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -99,10 +99,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'mattilsynet.html?id=163326'"/>
-<xsl:variable name="para_nob" select="'mattilsynet.html?id=163326'"/>
+<xsl:variable name="para_nno" select="'mattilsynet.html_id=163326'"/>
+<xsl:variable name="para_nob" select="'mattilsynet.html_id=163326'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'biebmobearraigeahu-mattilsynet.html?id=163326'"/>
+<xsl:variable name="para_sme" select="'biebmobearraigeahu-mattilsynet.html_id=163326'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

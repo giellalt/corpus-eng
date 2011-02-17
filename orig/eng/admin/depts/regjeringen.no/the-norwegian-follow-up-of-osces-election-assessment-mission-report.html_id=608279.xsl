@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/kampanjer/election_portal/election-observation/The-Norwegian-follow-up-of-OSCEs-Election-Assessment-Mission-report.html?id=608279'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/kampanjer/election_portal/election-observation/The-Norwegian-follow-up-of-OSCEs-Election-Assessment-Mission-report.html_id=608279'"/>
 <xsl:variable name="title" select="'Norges oppfølging av OSSE’s Election Assessment Mission rapport - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -99,8 +99,8 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'norges-oppfolging-av-osses-election-assessment-mission-rapport.html?id=608279'"/>
-<xsl:variable name="para_nob" select="'norges-oppfolging-av-osses-election-assessment-mission-rapport.html?id=608279'"/>
+<xsl:variable name="para_nno" select="'norges-oppfolging-av-osses-election-assessment-mission-rapport.html_id=608279'"/>
+<xsl:variable name="para_nob" select="'norges-oppfolging-av-osses-election-assessment-mission-rapport.html_id=608279'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>

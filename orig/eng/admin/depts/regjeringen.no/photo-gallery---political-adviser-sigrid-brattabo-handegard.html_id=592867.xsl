@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/sd/about-the-ministry/other-political-staff/political-adviser-sigrid-brattabo-handeg/Photo-Gallery---Political-adviser-Sigrid-Brattabo-Handegard.html?id=592867'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/sd/about-the-ministry/other-political-staff/political-adviser-sigrid-brattabo-handeg/Photo-Gallery---Political-adviser-Sigrid-Brattabo-Handegard.html_id=592867'"/>
 <xsl:variable name="title" select="'Govvavuorká - Politihkalaš ráđđeaddi Sigrid Brattabø Handegard - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -99,10 +99,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'bilete-av-politisk-radgjevar-sigrid-brattabo-handegard.html?id=592867'"/>
-<xsl:variable name="para_nob" select="'bilder-av-politisk-radgiver-sigrid-brattabo-handegard.html?id=592867'"/>
+<xsl:variable name="para_nno" select="'bilete-av-politisk-radgjevar-sigrid-brattabo-handegard.html_id=592867'"/>
+<xsl:variable name="para_nob" select="'bilder-av-politisk-radgiver-sigrid-brattabo-handegard.html_id=592867'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'govvavuorka---politihkala-raeaddi-sigrid-brattabo-handegard.html?id=592867'"/>
+<xsl:variable name="para_sme" select="'govvavuorka---politihkala-raeaddi-sigrid-brattabo-handegard.html_id=592867'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/archive/Stoltenbergs-2nd-Government/Ministry-of-Labour-and-Social-Inclusion/andre-dokumenter/personer/2005/minister-of-labour-and-social-inclusion-.html?id=1326'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/archive/Stoltenbergs-2nd-Government/Ministry-of-Labour-and-Social-Inclusion/andre-dokumenter/personer/2005/minister-of-labour-and-social-inclusion-.html_id=1326'"/>
 <xsl:variable name="title" select="'Ovddeš bargo- ja searvadahttinministtar Bjarne Håkon Hanssen - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -99,10 +99,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'arbeids--og-inkluderingsminister-bjarne-.html?id=1326'"/>
-<xsl:variable name="para_nob" select="'arbeids-_og_inkluderingsministeren_bjarn.html?id=1326'"/>
+<xsl:variable name="para_nno" select="'arbeids--og-inkluderingsminister-bjarne-.html_id=1326'"/>
+<xsl:variable name="para_nob" select="'arbeids-_og_inkluderingsministeren_bjarn.html_id=1326'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'bargo--ja-searvadahttinministtar-bjarne-.html?id=1326'"/>
+<xsl:variable name="para_sme" select="'bargo--ja-searvadahttinministtar-bjarne-.html_id=1326'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

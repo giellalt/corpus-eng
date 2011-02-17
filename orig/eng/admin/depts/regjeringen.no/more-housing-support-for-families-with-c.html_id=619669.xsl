@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/press/press-releases/2010/more-housing-support-for-families-with-c.html?id=619669'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/krd/press/press-releases/2010/more-housing-support-for-families-with-c.html_id=619669'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'Eanet orrundoarjja bearrašiidda geain leat mánát   - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
@@ -100,11 +100,11 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'meir-bustotte-til-barnefamiliane-.html?id=619669'"/>
-<xsl:variable name="para_nob" select="'--et-godt-men-stramt-forsvarsbudsjett.html?id=619069'"/>
+<xsl:variable name="para_nno" select="'meir-bustotte-til-barnefamiliane-.html_id=619669'"/>
+<xsl:variable name="para_nob" select="'--et-godt-men-stramt-forsvarsbudsjett.html_id=619069'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'eanet-orrundoarjja-bearraiidda-geain-lea.html?id=619669'"/>
-<xsl:variable name="para_smj" select="'-ajnas-lavkke-avddalijguovlluj-avtastall.html?id=621259'"/>
+<xsl:variable name="para_sme" select="'eanet-orrundoarjja-bearraiidda-geain-lea.html_id=619669'"/>
+<xsl:variable name="para_smj" select="'-ajnas-lavkke-avddalijguovlluj-avtastall.html_id=621259'"/>
 <xsl:variable name="para_swe" select="''"/>
 
 

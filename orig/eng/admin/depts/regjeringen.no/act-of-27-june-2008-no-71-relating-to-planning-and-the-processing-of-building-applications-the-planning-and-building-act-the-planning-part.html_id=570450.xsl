@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/doc/Laws/Acts/Act-of-27-June-2008-No-71-relating-to-Planning-and-the-Processing-of-Building-Applications-the-Planning-and-Building-Act-the-Planning-part.html?id=570450'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/doc/Laws/Acts/Act-of-27-June-2008-No-71-relating-to-Planning-and-the-Processing-of-Building-Applications-the-Planning-and-Building-Act-the-Planning-part.html_id=570450'"/>
 <xsl:variable name="title" select="'Láhka 2008-06-27-71 plánema ja huksenáššemeannudeami birra (plána- ja huksenláhka) (plánaoassi) - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -100,9 +100,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'plan--og-bygningsloven-2.html?id=570450'"/>
+<xsl:variable name="para_nob" select="'plan--og-bygningsloven-2.html_id=570450'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'lahka-2008-06-27-71-planema-ja-huksenaemeannudeami-birra-plana--ja-huksenlahka-planaoassi.html?id=570450'"/>
+<xsl:variable name="para_sme" select="'lahka-2008-06-27-71-planema-ja-huksenaemeannudeami-birra-plana--ja-huksenlahka-planaoassi.html_id=570450'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

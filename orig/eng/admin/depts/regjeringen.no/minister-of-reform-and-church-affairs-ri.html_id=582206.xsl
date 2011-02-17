@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fad/about-the-ministry/minister-of-reform-and-church-affairs-ri.html?id=582206'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fad/about-the-ministry/minister-of-reform-and-church-affairs-ri.html_id=582206'"/>
 <xsl:variable name="title" select="'Ođasmahttin-, hálddahus- ja girkoministtar Rigmor Aasrud - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
@@ -99,10 +99,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'fornyings--og-kyrkjeminister-rigmor-aasr.html?id=582206'"/>
-<xsl:variable name="para_nob" select="'fornyings--og-administrasjonsminister-ri.html?id=582206'"/>
+<xsl:variable name="para_nno" select="'fornyings--og-kyrkjeminister-rigmor-aasr.html_id=582206'"/>
+<xsl:variable name="para_nob" select="'fornyings--og-administrasjonsminister-ri.html_id=582206'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'oasmahttin--ja-girkoministtar-rigmor-aas.html?id=582206'"/>
+<xsl:variable name="para_sme" select="'oasmahttin--ja-girkoministtar-rigmor-aas.html_id=582206'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

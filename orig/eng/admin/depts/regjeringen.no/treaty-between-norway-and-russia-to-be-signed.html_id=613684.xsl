@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/smk/press-center/Press-releases/2010/Treaty-between-Norway-and-Russia-to-be-signed.html?id=613684'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/smk/press-center/Press-releases/2010/Treaty-between-Norway-and-Russia-to-be-signed.html_id=613684'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'Norga ja Ruošša vuolláičálliba šiehtadusa - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
@@ -100,10 +100,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'etterbetaling-av-kompensasjon-for-bortfall-av-automatinntekter-til-norges-blindeforbund-og-norsk-folkehjelp.html?id=614481'"/>
-<xsl:variable name="para_nob" select="'avtalesignering.html?id=613684'"/>
+<xsl:variable name="para_nno" select="'etterbetaling-av-kompensasjon-for-bortfall-av-automatinntekter-til-norges-blindeforbund-og-norsk-folkehjelp.html_id=614481'"/>
+<xsl:variable name="para_nob" select="'avtalesignering.html_id=613684'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'norga-ja-ruoa-vuollaialliba-iehtadusa.html?id=613684'"/>
+<xsl:variable name="para_sme" select="'norga-ja-ruoa-vuollaialliba-iehtadusa.html_id=613684'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
