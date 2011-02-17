@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/kkd/about-the-ministry/other-political-staff/political-adviser-roger-remme-solheim.html_id=583029'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/kkd/about-the-ministry/other-political-staff/political-adviser-roger-remme-solheim.html?id=583029'"/>
 <xsl:variable name="title" select="'Politihkalaš ráđđeaddin Roger Remme Solheim - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>

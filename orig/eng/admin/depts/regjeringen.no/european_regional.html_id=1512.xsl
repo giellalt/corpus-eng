@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/ud/about_mfa/organisation/departments/department_european/european_regional.html_id=1512'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/ud/about_mfa/organisation/departments/department_european/european_regional.html?id=1512'"/>
 <xsl:variable name="title" select="'Regionála ja ekonomalaš eurohpágažaldagaid sekšuvdna (EUREG) - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>

@@ -16,7 +16,7 @@
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/aid/whats-new/speeches-and-articles/speeches-and-articles-by-other-political/statssekretar-raimo-valle/2008/Self-determination-and-the-Sami.html_id=499217'"/>
+<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/aid/whats-new/speeches-and-articles/speeches-and-articles-by-other-political/statssekretar-raimo-valle/2008/Self-determination-and-the-Sami.html?id=499217'"/>
 <xsl:variable name="text_encoding" select="''"/>
 <xsl:variable name="title" select="'Iešmearrideapmi ja sámit  - regjeringen.no'"/>
 <xsl:variable name="author1_fn" select="''"/>
