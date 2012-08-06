@@ -47,7 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -103,11 +103,11 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'eit-meir-robust-finanssystem.html_id=682184'"/>
+<xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'fortsatt-gode-resultater-i-kampen-mot-ul.html_id=681862'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'barentsmeara-lobihis-guolasteami-hehtten.html_id=681862'"/>
-<xsl:variable name="para_smj" select="'virggevahagahttemadastus.html_id=682373'"/>
+<xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
 

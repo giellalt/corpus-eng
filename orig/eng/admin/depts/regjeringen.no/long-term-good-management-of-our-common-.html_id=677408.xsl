@@ -47,7 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -103,7 +103,7 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'eit-betre-mote-med-det-offentlege.html_id=677963'"/>
+<xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'langsiktig-og-god-forvaltning-av-vare-fe.html_id=677408'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'guhkesaigasa-ja-buorre-halddaeapmi-min-o.html_id=677408'"/>
