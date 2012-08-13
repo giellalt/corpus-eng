@@ -103,10 +103,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'styringsgruppe-for-oppforing-av-minnesme.html_id=669328'"/>
+<xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'statsministerens-nyttarstale-2012.html_id=667848'"/>
-<xsl:variable name="para_sma" select="'oajagesardni.html_id=667848'"/>
-<xsl:variable name="para_sme" select="'raporta-girjjalavuoapolitihkala-gaskaomi.html_id=667979'"/>
+<xsl:variable name="para_mixed" select="'oajagesardni.html_id=667848'"/>
+<xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
