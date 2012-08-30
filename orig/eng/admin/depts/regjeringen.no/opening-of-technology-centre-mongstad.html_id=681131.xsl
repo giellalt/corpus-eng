@@ -47,7 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -105,9 +105,9 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'apnet-teknologisenteret-pa-mongstad.html_id=681131'"/>
-<xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'teknolijejarngem-mongstadesne-rihpesti.html_id=681131'"/>
-<xsl:variable name="para_smj" select="'moarmesmano-8-biejve-avvudallam.html_id=681133'"/>
+<xsl:variable name="para_sme" select="''"/>
+<xsl:variable name="para_sma" select="'teknolijejarngem-mongstadesne-rihpesti.html_id=681131'"/>
+<xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
 
