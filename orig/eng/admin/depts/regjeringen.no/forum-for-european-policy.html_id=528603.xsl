@@ -102,7 +102,7 @@
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'europapolitisk-forum.html_id=528603'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'eurohpapolitihkala-forum--.html_id=528603'"/>
+<xsl:variable name="para_mixed" select="'eurohpapolitihkala-forum--.html_id=528603'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
