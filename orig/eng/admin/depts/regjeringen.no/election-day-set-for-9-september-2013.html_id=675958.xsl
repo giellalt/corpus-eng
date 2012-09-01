@@ -47,7 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="'nob'"/>
+<xsl:variable name="translated_from" select="'nno'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -103,8 +103,8 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'valdagen-blir-9-september-2013.html_id=675958'"/>
+<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_nno" select="'valdagen-blir-9-september-2013.html_id=675958'"/>
 <xsl:variable name="para_sma" select="''"/>
 <xsl:variable name="para_sme" select="'valgabeaivi-lea-akamanu-9-beaivvi-2013.html_id=675958'"/>
 <xsl:variable name="para_smj" select="''"/>
