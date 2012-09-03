@@ -47,7 +47,7 @@
 <xsl:variable name="place" select="''"/>
 <xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
-<xsl:variable name="translated_from" select="''"/>
+<xsl:variable name="translated_from" select="'nob'"/>
 <xsl:variable name="translator_fn" select="''"/>
 <xsl:variable name="translator_ln" select="''"/>
 <xsl:variable name="translator_gender" select="'unknown'"/>
@@ -106,7 +106,7 @@
 <xsl:variable name="para_nno" select="'regjeringskvartalets-framtid-2.html_id=670543'"/>
 <xsl:variable name="para_nob" select="'rkv.html_id=670543'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'raehuskvartala-boahtteaigi.html_id=670543'"/>
+<xsl:variable name="para_mixed" select="'raehuskvartala-boahtteaigi.html_id=670543'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
