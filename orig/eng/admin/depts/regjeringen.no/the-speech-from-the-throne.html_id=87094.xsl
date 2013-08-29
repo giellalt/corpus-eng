@@ -88,10 +88,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'trontalen.html_id=87094'"/>
-<xsl:variable name="para_nob" select="'trontaler.html_id=87094'"/>
+<xsl:variable name="para_nno" select="''"/>
+<xsl:variable name="para_nob" select="'trontalen.html_id=87094'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'gonagassardni.html_id=87094'"/>
+<xsl:variable name="para_mixed" select="'gonagassardni.html_id=87094'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
