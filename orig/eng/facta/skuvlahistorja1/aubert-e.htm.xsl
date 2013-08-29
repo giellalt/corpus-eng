@@ -1,13 +1,24 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
 
-<xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
+<!-- Format query results for display -->
+
+<xsl:stylesheet
+    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:i18n="http://apache.org/cocoon/i18n/2.1"
+    version="1.0">
+
+<xsl:output method="xml"
+            version="1.0"
+            encoding="UTF-8"
+            indent="yes"
+            doctype-public="-//UIT//DTD Corpus V1.0//EN"
+			doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
 <!-- Add the metainformation manually -->
 <!-- variable filename contains the original name of the file (from submitter)-->
-<xsl:variable name="filename" select="'http://regjeringen.no/en/dep/fad/press-centre/press-releases/2012/bjorn-olav-megard-to-lead-the-department.html?id=681004'"/>
+<xsl:variable name="filename" select="'http://skuvla.info/skolehist/aubert-n.htm'"/>
 <xsl:variable name="text_encoding" select="''"/>
-<xsl:variable name="title" select="'Bjørn Olav Megard nammaduvvon jođihit Sámi- ja minoritehtapolitihkalaš ossodaga - regjeringen.no'"/>
+<xsl:variable name="title" select="''"/>
 <xsl:variable name="author1_fn" select="''"/>
 <xsl:variable name="author1_ln" select="''"/>
 <xsl:variable name="author1_gender" select="'unknown'"/>
@@ -29,12 +40,12 @@
 <xsl:variable name="author4_nat" select="''"/>
 <xsl:variable name="author4_born" select="''"/>
 <xsl:variable name="publisher" select="''"/>
-<xsl:variable name="publChannel" select="'http://regjeringen.no'"/>
-<xsl:variable name="year" select="'2012'"/>
+<xsl:variable name="publChannel" select="''"/>
+<xsl:variable name="year" select="''"/>
 <xsl:variable name="ISBN" select="''"/>
 <xsl:variable name="ISSN" select="''"/>
 <xsl:variable name="place" select="''"/>
-<xsl:variable name="genre" select="'admin'"/>
+<xsl:variable name="genre" select="''"/>
 <xsl:variable name="collection" select="''"/>
 <xsl:variable name="translated_from" select="''"/>
 <xsl:variable name="translator_fn" select="''"/>
@@ -44,14 +55,14 @@
 <xsl:variable name="translator_nat" select="''"/>
 <!-- select license type: free, standard or other -->
 <xsl:variable name="license_type" select="'free'"/>
-<xsl:variable name="sub_name" select="''"/>
-<xsl:variable name="sub_email" select="'divvun@samediggi.no'"/>
-<xsl:variable name="wordcount" select="'625'"/>
+<xsl:variable name="sub_name" select="'Børre Gaup'"/>
+<xsl:variable name="sub_email" select="'borre.gaup@uit.no'"/>
+<xsl:variable name="wordcount" select="''"/>
 <!-- Set this variable to 1 if the source for this doc is OCR -->
 <!-- Those docs typically contain lots of orthographic errors and need special treatment -->
 <xsl:variable name="ocr" select="''"/>
 <xsl:variable name="metadata" select="'uncomplete'"/>
-<xsl:variable name="template_version" select="'$Revision: 48460 $'"/>
+<xsl:variable name="template_version" select="'$Revision$'"/>
 <xsl:variable name="current_version" select="'Revision'"/>
 <!-- Free text field for notes -->
 <xsl:variable name="note" select="''"/>
@@ -74,8 +85,10 @@
 <xsl:variable name="mlang_ger" select="''"/>
 <xsl:variable name="mlang_isl" select="''"/>
 <xsl:variable name="mlang_kal" select="''"/>
+<xsl:variable name="mlang_kpv" select="''"/>
 <xsl:variable name="mlang_nno" select="''"/>
 <xsl:variable name="mlang_nob" select="''"/>
+<xsl:variable name="mlang_rus" select="''"/>
 <xsl:variable name="mlang_sma" select="''"/>
 <xsl:variable name="mlang_sme" select="''"/>
 <xsl:variable name="mlang_smj" select="''"/>
@@ -93,11 +106,13 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'bjorn-olav-megard-skal-lede-same--og-min.html_id=681004'"/>
-<xsl:variable name="para_sma" select="'rihpestimmie-co2-tekonoligijejarngeste-m.html_id=681066'"/>
-<xsl:variable name="para_mixed" select="'bjorn-olav-megard-nammaduvvon-joihit-sam.html_id=681004'"/>
-<xsl:variable name="para_smj" select="'moarmesmano-8-biejve-avvudallam.html_id=681133'"/>
+<xsl:variable name="para_nob" select="'aubert-n.htm'"/>
+<xsl:variable name="para_sma" select="''"/>
+<xsl:variable name="para_sme" select="'aubert-s.htm'"/>
+<xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
+<xsl:variable name="para_kpv" select="''"/>
+<xsl:variable name="para_rus" select="''"/>
 
 
 <!-- Tag the specified elements with the specified language: -->
@@ -114,6 +129,8 @@
 <xsl:variable name="smelang" select="'sme'"/>
 <xsl:variable name="smjlang" select="'smj'"/>
 <xsl:variable name="swelang" select="'swe'"/>
+<xsl:variable name="kpvlang" select="'kpv'"/>
+<xsl:variable name="ruslang" select="'rus'"/>
 
 
 <!-- Add all paragraphs that should have xml:lang=X           -->

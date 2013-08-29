@@ -93,10 +93,10 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="'14-millionar-kroner-i-bulystmidlar-til-u.html_id=653601'"/>
-<xsl:variable name="para_nob" select="'--viktig-a-trekke-lardom-for-bedre-fremt.html_id=652335'"/>
+<xsl:variable name="para_nob" select="'viktig-a-trekke-lardom-for-bedre-fremt.html_id=652335'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'--dehala-oahppat-vai-sahtta-buoridit-boa.html_id=652335'"/>
-<xsl:variable name="para_smj" select="'291-miljovnna-raehuskoartila-lassigoluid.html_id=659567'"/>
+<xsl:variable name="para_sme" select="'dehala-oahppat-vai-sahtta-buoridit-boa.html_id=652335'"/>
+<xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 
 
