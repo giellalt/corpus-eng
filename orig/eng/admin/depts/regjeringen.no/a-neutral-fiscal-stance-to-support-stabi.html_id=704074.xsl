@@ -85,20 +85,9 @@
 <!-- If the document has parallel texts, select "1" for parallel_texts -->
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
-<xsl:variable name="para_dan" select="''"/>
-<xsl:variable name="para_eng" select="''"/>
-<xsl:variable name="para_fin" select="''"/>
-<xsl:variable name="para_fkv" select="''"/>
-<xsl:variable name="para_ger" select="''"/>
-<xsl:variable name="para_isl" select="''"/>
-<xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="'regjeringa-investerer-i-velferd-og-arbei.html_id=704074'"/>
 <xsl:variable name="para_nob" select="'regjeringen-investerer-i-velferd-og-arbe.html_id=704074'"/>
-<xsl:variable name="para_sma" select="'raavrevijhke-saemien-gielen-reeremedajve.html_id=704691'"/>
 <xsl:variable name="para_sme" select="'raehus-investere-algui-ja-bargui.html_id=704074'"/>
-<xsl:variable name="para_smj" select="'miljardda-ruvdnosa-ruhtamearri-digitalis.html_id=704060'"/>
-<xsl:variable name="para_swe" select="''"/>
-
 
 <!-- Tag the specified elements with the specified language: -->
 <xsl:variable name="danlang" select="'dan'"/>

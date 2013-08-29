@@ -88,10 +88,10 @@
 <xsl:variable name="para_ger" select="''"/>
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
-<xsl:variable name="para_nno" select="'rapportar-og-planar.html_id=272527'"/>
-<xsl:variable name="para_nob" select="'rapporter_planer.html_id=272527'"/>
+<xsl:variable name="para_nno" select="'rapportar.html_id=1946'"/>
+<xsl:variable name="para_nob" select="'rapporter.html_id=1946'"/>
 <xsl:variable name="para_sma" select="''"/>
-<xsl:variable name="para_sme" select="'raporttat-ja-planat.html_id=272527'"/>
+<xsl:variable name="para_sme" select="'raporttat.html_id=1946'"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
 

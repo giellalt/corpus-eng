@@ -93,10 +93,9 @@
 <xsl:variable name="para_isl" select="''"/>
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
-<xsl:variable name="para_nob" select="'apnet-teknologisenteret-pa-mongstad.html_id=681131'"/>
-<xsl:variable name="para_sma" select="'teknolijejarngem-mongstadesne-rihpesti.html_id=681131'"/>
+<xsl:variable name="para_nob" select="''"/>
+<xsl:variable name="para_sma" select="'rihpestimmie-co2-tekonoligijejarngeste-m.html_id=681066'"/>
 <xsl:variable name="para_sme" select="''"/>
-<xsl:variable name="para_smj" select="'moarmesmano-8-biejve-avvudallam.html_id=681133'"/>
 <xsl:variable name="para_swe" select="''"/>
 
 
