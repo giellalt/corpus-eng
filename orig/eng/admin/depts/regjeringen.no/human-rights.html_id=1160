@@ -1,26 +1,28 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
+    <!-- ISI_NOAUTOLANG -->
+    <title>
 	Human rights - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="Human rights" />
+<meta name="WT.ti" content="Human rights" />
 <meta name="DCSext.regj.pagetype" content="Tema" />
-<meta name="DCSext.regj.pageid" content="1160" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
 <meta name="DCSext.regj.owner" content="ud" />
 <meta name="DCSext.regj.language" content="en-GB" />
+<meta name="DCSext.regj_lv2" content="dep" />
+<meta name="DCSext.regj_lv3" content="ud" />
+<meta name="DCSext.regj_lv4" content="selected-topics" />
+<meta name="DCSext.regj_lv5" content="human-rights" />
+<meta name="DCSext.regj_g-page" content="1160-g-page" />
 <meta name="TITLE" content="Human rights" />
-<meta name="description" content="Human rights are fundamental rights that belong to all people by virtue of their humanity. Since the Second World War, human rights have been codified in international agreements at both global and regional level.
-" />
+<meta name="description" content="The promotion of human rights and democratic principles is at the heart of Norwegian foreign policy. This policy is implemented both at the multilateral level – in forums such as the UN, the OSCE and the Council of Europe – and at country level." />
 <meta name="KEYWORDS" content="Human rights" />
 <meta name="DC.Title" content="Human rights" />
 <meta name="DC.Creator" content="Ministry of Foreign Affairs" />
 <meta name="DC.Subject" content="Human rights" />
-<meta name="DC.Description" content="Human rights are fundamental rights that belong to all people by virtue of their humanity. Since the Second World War, human rights have been codified in international agreements at both global and regional level.
-" />
+<meta name="DC.Description" content="The promotion of human rights and democratic principles is at the heart of Norwegian foreign policy. This policy is implemented both at the multilateral level – in forums such as the UN, the OSCE and the Council of Europe – and at country level." />
 <meta name="DC.Date" content="2007-01-23" />
 <meta name="DC.Date.Available" content="2007-01-23" />
 <meta name="DC.Type.Status" content="Gyldig" />
@@ -29,6 +31,7 @@
 <meta name="DC.Identifier.URL" content="/en/dep/ud/selected-topics/human-rights.html?id=1160" />
 <meta name="DC.Language" content="en-GB" />
 <meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DCSext.regj.lang-pref" content="en-GB" />
 <meta name="DC.Publisher" content="regjeringen.no" />
 <meta name="AUTHOR" content="Ministry of Foreign Affairs" />
 <meta name="creation_date" content="Tue, 23 Jan 2007 15:22:00 GMT" />
@@ -38,83 +41,99 @@
 <meta http-equiv="Content-Language" content="en" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
-
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/ud.css" media="all" /> 
-
-
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
-
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
 
 
 
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+    <!-- default styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/default_styles_combined_45D29949909B2B10854E130AC37BCE3C.css" />
+    <!--[if lt IE 6]
+        <link rel="stylesheet" type="text/css" href="/styles/ie55.css?v=2.1.11776" media="screen">
+
+    <![endif]-->
+
+
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/3Col_AF432B5349630A9B3C4A0BDD3743237C.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+<link rel="stylesheet" type="text/css" media="all" href="/styles/Profiles/ud_044CA9498997EF8869D578A9971136F9.css" />
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
+
+
+
+
+<link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web01.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=1160" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web01.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=1160" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en/dep/ud/selected-topics/human-rights.html?id=1160" id="aspnetForm" enctype="multipart/form-data">
-<div>
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/en/dep/ud/selected-topics/human-rights.html?id=1160" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
 <input type="hidden" name="__WPPS" id="__WPPS" value="s" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTU2Nzk5NDM4NQ9kFgJmD2QWCGYPFQICZW4CZW5kAgEQZGQWAgICD2QWBmYPFgIeBFRleHQFvw88bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlbmFtZSIgY29udGVudD0iSHVtYW4gcmlnaHRzIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXR5cGUiIGNvbnRlbnQ9IlRlbWEiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlaWQiIGNvbnRlbnQ9IjExNjAiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlc3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5vd25lciIgY29udGVudD0idWQiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5sYW5ndWFnZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJUSVRMRSIgY29udGVudD0iSHVtYW4gcmlnaHRzIiAvPg0KPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9Ikh1bWFuIHJpZ2h0cyBhcmUgZnVuZGFtZW50YWwgcmlnaHRzIHRoYXQgYmVsb25nIHRvIGFsbCBwZW9wbGUgYnkgdmlydHVlIG9mIHRoZWlyIGh1bWFuaXR5LiBTaW5jZSB0aGUgU2Vjb25kIFdvcmxkIFdhciwgaHVtYW4gcmlnaHRzIGhhdmUgYmVlbiBjb2RpZmllZCBpbiBpbnRlcm5hdGlvbmFsIGFncmVlbWVudHMgYXQgYm90aCBnbG9iYWwgYW5kIHJlZ2lvbmFsIGxldmVsLg0KIiAvPg0KPG1ldGEgbmFtZT0iS0VZV09SRFMiIGNvbnRlbnQ9Ikh1bWFuIHJpZ2h0cyIgLz4NCjxtZXRhIG5hbWU9IkRDLlRpdGxlIiBjb250ZW50PSJIdW1hbiByaWdodHMiIC8+DQo8bWV0YSBuYW1lPSJEQy5DcmVhdG9yIiBjb250ZW50PSJNaW5pc3RyeSBvZiBGb3JlaWduIEFmZmFpcnMiIC8+DQo8bWV0YSBuYW1lPSJEQy5TdWJqZWN0IiBjb250ZW50PSJIdW1hbiByaWdodHMiIC8+DQo8bWV0YSBuYW1lPSJEQy5EZXNjcmlwdGlvbiIgY29udGVudD0iSHVtYW4gcmlnaHRzIGFyZSBmdW5kYW1lbnRhbCByaWdodHMgdGhhdCBiZWxvbmcgdG8gYWxsIHBlb3BsZSBieSB2aXJ0dWUgb2YgdGhlaXIgaHVtYW5pdHkuIFNpbmNlIHRoZSBTZWNvbmQgV29ybGQgV2FyLCBodW1hbiByaWdodHMgaGF2ZSBiZWVuIGNvZGlmaWVkIGluIGludGVybmF0aW9uYWwgYWdyZWVtZW50cyBhdCBib3RoIGdsb2JhbCBhbmQgcmVnaW9uYWwgbGV2ZWwuDQoiIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlIiBjb250ZW50PSIyMDA3LTAxLTIzIiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZS5BdmFpbGFibGUiIGNvbnRlbnQ9IjIwMDctMDEtMjMiIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlLlN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZSIgY29udGVudD0iVGVtYSIgLz4NCjxtZXRhIG5hbWU9IkRDLkZvcm1hdCIgY29udGVudD0idGV4dC9odG1sIiAvPg0KPG1ldGEgbmFtZT0iREMuSWRlbnRpZmllci5VUkwiIGNvbnRlbnQ9Ii9lbi9kZXAvdWQvc2VsZWN0ZWQtdG9waWNzL2h1bWFuLXJpZ2h0cy5odG1sP2lkPTExNjAiIC8+DQo8bWV0YSBuYW1lPSJEQy5MYW5ndWFnZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJEQy5MYW5ndWFnZS5QcmVmZXJlbmNlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IkRDLlB1Ymxpc2hlciIgY29udGVudD0icmVnamVyaW5nZW4ubm8iIC8+DQo8bWV0YSBuYW1lPSJBVVRIT1IiIGNvbnRlbnQ9Ik1pbmlzdHJ5IG9mIEZvcmVpZ24gQWZmYWlycyIgLz4NCjxtZXRhIG5hbWU9ImNyZWF0aW9uX2RhdGUiIGNvbnRlbnQ9IlR1ZSwgMjMgSmFuIDIwMDcgMTU6MjI6MDAgR01UIiAvPg0KPG1ldGEgbmFtZT0iTEFTVC1NT0RJRklFRCIgY29udGVudD0iVHVlLCAyMyBKYW4gMjAwNyAxNToyMjozMyBHTVQiIC8+DQo8bWV0YSBuYW1lPSJSRVZJU0VEIiBjb250ZW50PSJUdWUsIDIzIEphbiAyMDA3IDE1OjIyOjMzIEdNVCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVudD0iZW4iIC8+DQpkAgEPFgIeB1Zpc2libGVoZAICDxYCHgtfIUl0ZW1Db3VudGZkAgMQFgIeBmFjdGlvbgU0L2VuL2RlcC91ZC9zZWxlY3RlZC10b3BpY3MvaHVtYW4tcmlnaHRzLmh0bWw/aWQ9MTE2MGQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILD2QWAmYPFQFfI2N0bDAwX0Z1bGxSZWdpb25fQ2VudGVyQW5kUmlnaHRSZWdpb25fUmlnaHRSZWdpb25fUmlnaHRSZWdpb25Db250YWN0SW5mb19jdGwwMV9BcmVhQ29udGFjdEluZm9kAg0PZBYCZg9kFgJmD2QWAgIBD2QWCGYPDxYGHgdUb29sVGlwBS5LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkZW4gcMOlIGJva23DpWwuHwAFB0Jva23DpWweC05hdmlnYXRlVXJsBSsvdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMTYwJmVwc2xhbmd1YWdlPW5vZGQCAQ8PFgYfBAVLRGVubmUgc2lkYSBmaW5zdCBpa2tqZSBww6Ugbnlub3Jzay4gS2xpa2sgaGVyIGZvciDDpSB2aXNlIG55bm9yc2sgcmFtbWV2ZXJrHwAFB055bm9yc2sfBQUrL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTE2MCZlcHNsYW5ndWFnZT1ubmRkAgIPDxYGHwQFNENvYWhra2FsIGTDoWtrbyBkZSBvYWlubsOhdCBkw6FuIHNpaWRkdSBzw6FtZWdpbGxpaS4fAAULU8OhbWVnaWVsbGEfBQUuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTE2MCZlcHNsYW5ndWFnZT1zZS1OT2RkAgMPDxYGHwQFIlRoaXMgcGFnZSBpcyBkaXNwbGF5ZWQgaW4gZW5nbGlzaC4fAAUHRW5nbGlzaB8FBS4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMTYwJmVwc2xhbmd1YWdlPWVuLUdCZGQCAg8VAQEgZAIDD2QWDGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAIBDxUBC1BvcnRhbCBob21lZAICD2QWBGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAICDxUDOi90ZW1wbGF0ZXMvR2VuZXJlbGxGb3JzaWRlLmFzcHg/aWQ9ODU4NDMmZXBzbGFuZ3VhZ2U9ZW4tR0IcU3RvbHRlbmJlcmcncyAybmQgR292ZXJubWVudDIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTkzMyZlcHNsYW5ndWFnZT1lbi1HQmQCAw8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9ODMzJmVwc2xhbmd1YWdlPWVuLUdCZAIEDxUBG01pbmlzdHJ5IG9mIEZvcmVpZ24gQWZmYWlyc2QCBg9kFhJmD2QWBGYPZBYCZg9kFgQCAg8VBCZTZWFyY2ggdGhlIE1pbmlzdHJ5IG9mIEZvcmVpZ24gQWZmYWlycwZTZWFyY2gRUXVpY2tTZWFyY2hCdXR0b24GU2VhcmNoZAIDDw8WAh8ABRtTZWFyY2ggYWxsIG9mIGdvdmVybm1lbnQubm9kZAIBDw8WAh4LX2lzRWRpdGFibGVoZGQCAQ8VAR4vc3R5bGVzL0ltYWdlcy9zeW1ib2xfdGlwcy5naWZkAgUPFQEhL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3ByaW50X3QuZ2lmZAIIDxUDIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9zbWFsbFRleHQuZ2lmJC9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9tZWRpdW1UZXh0LmdpZiMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbGFyZ2VUZXh0LmdpZmQCCQ9kFgJmDxUCigFodHRwOi8vaXNpLnBob25ldGljb20uY29tL2NnaS1iaW4vcnN4dD91cmw9aHR0cDovL3d3dy5yZWdqZXJpbmdlbi5uby9lbi9kZXAvdWQvc2VsZWN0ZWQtdG9waWNzL2h1bWFuLXJpZ2h0cy5odG1sP2lkPTExNjAmYW1wO2N1c3RvbWVyaWQ9MTkfL3N0eWxlcy9JbWFnZXMvc3ltYm9sX2x5ZF90LmdpZmQCCg9kFgICAQ8PFgQfBQU2L3RlbXBsYXRlcy9UZW1hSW5kZWtzLmFzcHg/aWQ9MjIzNDg2JmVwc2xhbmd1YWdlPWVuLUdCHwAFClRvcGljcyBBLVpkZAILD2QWAgIBDw8WBB8FBTkvdGVtcGxhdGVzL05ldHRzdGVkc2thcnQuYXNweD9pZD0zMTM4ODMmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUIU2l0ZSBNYXBkZAIMDw8WBB8FBTUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTQ4ODY0MSZlcHNsYW5ndWFnZT1lbi1HQh8ABQRIZWxwZGQCDQ8PFgQfBQU9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTg0MSZlcHNsYW5ndWFnZT1lbi1HQh8ABQhDb250YWN0IGRkAgQPZBYEAgEPZBYGAgEPZBYCAgEPZBYEZg8PFgIfAWhkZAIBD2QWEAIDDw8WAh8ABR1SZWNpcGllbnTigJlzIGUtbWFpbCBhZGRyZXNzOmRkAgcPDxYCHgxFcnJvck1lc3NhZ2UFJVlvdSBtdXN0IGdpdmUgYSB2YWxpZCBlLW1haWwgYWRkcmVzcy5kZAIJDw8WAh8HBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCCw8PFgIfAAUUWW91ciBlLW1haWwgYWRkcmVzczpkZAIPDw8WAh8HBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCEQ8PFgIfBwUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAhMPDxYCHwAFCE1lc3NhZ2U6ZGQCFw8PFgIfAAUJU2VuZCBtYWlsZGQCAw9kFhYCAQ8WBh4aRXhwb3J0U2Vuc2l0aXZlRGF0YVdhcm5pbmdlHhRDbG9zZVByb3ZpZGVyV2FybmluZ2UeDURlbGV0ZVdhcm5pbmdlFgYFC3dwMjkwMDY5MTYyD2QWAmYPZBYCAgEPZBYCZg8WAh4KX3NvcnRPcmRlcgspc0VQaVNlcnZlci5GaWx0ZXJzLkZpbHRlclNvcnRPcmRlciwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcAFhRmD2QWEAIBDxYCHgRocmVmBUAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NjE0NjM3JmVwc2xhbmd1YWdlPWVuLUdCFgICAQ8PFgYfBmgeDl9ib3VuZFBhZ2VMaW5rAu3BJR4JX2xhc3RUeXBlBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHghkaXNhYmxlZGRkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMkAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NjE0NjM3JmVwc2xhbmd1YWdlPWVuLUdCADFUcnlndmUgTGllIFN5bXBvc2l1bSAyMDEwIG9uIEZ1bmRhbWVudGFsIEZyZWVkb21zATIBMwxkaXNwbGF5Om5vbmUAATNXPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bRWRpdG9yaWFsIGFydGljbGUsIE1pbmlzdHJ5IG9mIEZvcmVpZ24gQWZmYWlycywgMjEuMDkuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwZoHw0C7cElHw4FB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8GaB8NAu3BJR8OBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDGQfAWgWBAIBDw8WAh4NX2xhbmd1YWdlVGV4dAVCL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcmVkYWtzam9uZWxsX2FydGlra2VsZGQCAg8VAQBkAgkPFgQfDGQfAWgWAgIBDw8WAh8QBUYvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcmVkYWtzam9uZWxsIGFydGlra2VsZGQCCw9kFgJmDxUBAGQCAQ9kFhACAQ8WBB8MBTYvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTM2ODcmZXBzbGFuZ3VhZ2U9ZW4fAWgWAgIBDw8WBh8GaB8NAre6JR8OBQdEZWZhdWx0ZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyNi90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYxMzY4NyZlcHNsYW5ndWFnZT1lbgA0QmVsYXJ1cy4gT3Bwb3NpdGlvbiBhY3RpdmlzdCBBbGVoIEJ5YWJlbmlu4oCZcyBkZWF0aAEyATMMZGlzcGxheTpub25lAAEzUzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W1ByZXNzIHJlbGVhc2UsIE1pbmlzdHJ5IG9mIEZvcmVpZ24gQWZmYWlycywgMDYuMDkuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwZoHw0Ct7olHw4FB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8GaB8NAre6JR8OBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDGQfAWgWBAIBDw8WAh8QBTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19wcmVzc2VtZWxkaW5nZGQCAg8VAQBkAgkPFgQfDGQfAWgWAgIBDw8WAh8QBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcHJlc3NlbWVsZGluZ2RkAgsPZBYCZg8VAQBkAgIPZBYQAgEPFgQfDAU3L3RlbXBsYXRlcy9UYWxlb2dBcnRpa2tlbC5hc3B4P2lkPTYxMzUzMSZlcHNsYW5ndWFnZT1lbh8BaBYCAgEPDxYGHwZoHw0Cm7klHw4FB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATI3L3RlbXBsYXRlcy9UYWxlb2dBcnRpa2tlbC5hc3B4P2lkPTYxMzUzMSZlcHNsYW5ndWFnZT1lbgAzU3RyZW5ndGhlbmluZyBQcm90ZWN0aW9uIGZvciBIdW1hbiBSaWdodHMgRGVmZW5kZXJzATIBMwxkaXNwbGF5Om5vbmUnTGl0dGVyYXR1cmh1c2V0LCBPc2xvLCAzIFNlcHRlbWJlciAyMDEwATNUPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bU3BlZWNoL2FydGljbGUsIE1pbmlzdHJ5IG9mIEZvcmVpZ24gQWZmYWlycywgMDMuMDkuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwZoHw0Cm7klHw4FB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8GaB8NApu5JR8OBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDGQfAWgWBAIBDw8WAh8QBTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua190YWxlL2FydGlra2VsZGQCAg8VAQBkAgkPFgQfDGQfAWgWAgIBDw8WAh8QBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfdGFsZS9hcnRpa2tlbGRkAgsPZBYCZg8VAQBkAgMPZBYQAgEPFgQfDAU2L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjEyMDEwJmVwc2xhbmd1YWdlPWVuHwFoFgICAQ8PFgYfBmgfDQKqrSUfDgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjYvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTIwMTAmZXBzbGFuZ3VhZ2U9ZW4ANkZvcmVpZ24gTWluaXN0ZXIgU3TDuHJlIHBsZWFzZWQgdGhhdCBNb3N0YWZhZWkgaXMgc2FmZQEyATMMZGlzcGxheTpub25lAAEzUzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W1ByZXNzIHJlbGVhc2UsIE1pbmlzdHJ5IG9mIEZvcmVpZ24gQWZmYWlycywgMDguMDguMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwZoHw0Cqq0lHw4FB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8GaB8NAqqtJR8OBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDGQfAWgWBAIBDw8WAh8QBTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19wcmVzc2VtZWxkaW5nZGQCAg8VAQBkAgkPFgQfDGQfAWgWAgIBDw8WAh8QBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcHJlc3NlbWVsZGluZ2RkAgsPZBYCZg8VAQBkAgQPZBYQAgEPFgQfDAU2L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjExMjQxJmVwc2xhbmd1YWdlPWVuHwFoFgICAQ8PFgYfBmgfDQKppyUfDgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjYvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTEyNDEmZXBzbGFuZ3VhZ2U9ZW4AO05vcndheSB3ZWxjb21lcyB0aGUgcmVsZWFzZSBvZiBwb2xpdGljYWwgcHJpc29uZXJzIGluIEN1YmEgATIBMwxkaXNwbGF5Om5vbmUAATNTPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bUHJlc3MgcmVsZWFzZSwgTWluaXN0cnkgb2YgRm9yZWlnbiBBZmZhaXJzLCAwOC4wNy4yMDEwXTwvcD5kAgMPZBYCZg8PFgYfBmgfDQKppyUfDgUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwZoHw0CqaclHw4FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8MZB8BaBYEAgEPDxYCHxAFOi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3ByZXNzZW1lbGRpbmdkZAICDxUBAGQCCQ8WBB8MZB8BaBYCAgEPDxYCHxAFPi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19wcmVzc2VtZWxkaW5nZGQCCw9kFgJmDxUBAGQCBQ9kFhACAQ8WBB8MBS4vdGVtcGxhdGVzL055aGV0LmFzcHg/aWQ9NjExMjIwJmVwc2xhbmd1YWdlPWVuHwFoFgICAQ8PFgYfBmgfDQKUpyUfDgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMi4vdGVtcGxhdGVzL055aGV0LmFzcHg/aWQ9NjExMjIwJmVwc2xhbmd1YWdlPWVuAD9Ob3J3YXkgZGVwbG9yZXMgc2VudGVuY2VzIGFnYWluc3QgU3lyaWFuIGh1bWFuIHJpZ2h0cyBkZWZlbmRlcnMBMgEzDGRpc3BsYXk6bm9uZQABM1A8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltOZXdzIHN0b3J5LCBNaW5pc3RyeSBvZiBGb3JlaWduIEFmZmFpcnMsIDA4LjA3LjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8GaB8NApSnJR8OBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBmgfDQKUpyUfDgUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHwxkHwFoFgQCAQ8PFgIfEAUyL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfbnloZXRkZAICDxUBAGQCCQ8WBB8MZB8BaBYCAgEPDxYCHxAFNi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19ueWhldGRkAgsPZBYCZg8VAQBkAgYPZBYQAgEPFgIfDAUuL3RlbXBsYXRlcy9OeWhldC5hc3B4P2lkPTYxMTA1NyZlcHNsYW5ndWFnZT1lbhYCAgEPDxYGHwZoHw0C8aUlHw4FB0RlZmF1bHRkFgJmD2QWAmYPFgIfD2RkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMi4vdGVtcGxhdGVzL055aGV0LmFzcHg/aWQ9NjExMDU3JmVwc2xhbmd1YWdlPWVuACdOb3J3YXkgY29uZGVtbnMgZGVhdGggc2VudGVuY2VzIGluIElyYW4BMgEzDGRpc3BsYXk6bm9uZQABM1A8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltOZXdzIHN0b3J5LCBNaW5pc3RyeSBvZiBGb3JlaWduIEFmZmFpcnMsIDA1LjA3LjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8GaB8NAvGlJR8OBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBmgfDQLxpSUfDgUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHwxkHwFoFgQCAQ8PFgIfEAUyL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfbnloZXRkZAICDxUBAGQCCQ8WBB8MZB8BaBYCAgEPDxYCHxAFNi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19ueWhldGRkAgsPZBYCZg8VAQBkAgcPZBYQAgEPFgQfDAU2L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjA4NDY2JmVwc2xhbmd1YWdlPWVuHwFoFgICAQ8PFgYfBmgfDQLSkSUfDgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjYvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MDg0NjYmZXBzbGFuZ3VhZ2U9ZW4ARE5vcndheSBlbmRvcnNlcyBzdHJvbmcgY3JpdGljaXNtIG9mIElyYW4gaW4gdGhlIEh1bWFuIFJpZ2h0cyBDb3VuY2lsATIBMwxkaXNwbGF5Om5vbmUAATNTPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bUHJlc3MgcmVsZWFzZSwgTWluaXN0cnkgb2YgRm9yZWlnbiBBZmZhaXJzLCAxNS4wNi4yMDEwXTwvcD5kAgMPZBYCZg8PFgYfBmgfDQLSkSUfDgUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwZoHw0C0pElHw4FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8MZB8BaBYEAgEPDxYCHxAFOi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3ByZXNzZW1lbGRpbmdkZAICDxUBAGQCCQ8WBB8MZB8BaBYCAgEPDxYCHxAFPi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19wcmVzc2VtZWxkaW5nZGQCCw9kFgJmDxUBAGQCCA9kFhACAQ8WBB8MBS4vdGVtcGxhdGVzL055aGV0LmFzcHg/aWQ9NjA3NDA3JmVwc2xhbmd1YWdlPWVuHwFoFgICAQ8PFgYfBmgfDQKviSUfDgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMi4vdGVtcGxhdGVzL055aGV0LmFzcHg/aWQ9NjA3NDA3JmVwc2xhbmd1YWdlPWVuAEFOb3J3YXkgY29uY2VybmVkIGFib3V0IGtpbGxpbmcgb2YgQ29uZ29sZXNlIGh1bWFuIHJpZ2h0cyBkZWZlbmRlcgEyATMMZGlzcGxheTpub25lAAEzUDxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W05ld3Mgc3RvcnksIE1pbmlzdHJ5IG9mIEZvcmVpZ24gQWZmYWlycywgMDQuMDYuMjAxMF08L3A+ZAIDD2QWAmYPDxYGHwZoHw0Cr4klHw4FB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8GaB8NAq+JJR8OBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDGQfAWgWBAIBDw8WAh8QBTIvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19ueWhldGRkAgIPFQEAZAIJDxYEHwxkHwFoFgICAQ8PFgIfEAU2L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX255aGV0ZGQCCw9kFgJmDxUBAGQCCQ9kFhACAQ8WBB8MBTcvdGVtcGxhdGVzL1RhbGVvZ0FydGlra2VsLmFzcHg/aWQ9NjA2NzkxJmVwc2xhbmd1YWdlPWVuHwFoFgICAQ8PFgYfBmgfDQLHhCUfDgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjcvdGVtcGxhdGVzL1RhbGVvZ0FydGlra2VsLmFzcHg/aWQ9NjA2NzkxJmVwc2xhbmd1YWdlPWVuACVIdW1hbiBSaWdodHMgLSBFbXBvd2VybWVudCBmb3IgQ2hhbmdlATIBMwxkaXNwbGF5Om5vbmUiT3NsbywgTGl0dGVyYXR1cmh1c2V0LCAzMCBNYXkgMjAxMAEzVDxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W1NwZWVjaC9hcnRpY2xlLCBNaW5pc3RyeSBvZiBGb3JlaWduIEFmZmFpcnMsIDMwLjA1LjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8GaB8NAseEJR8OBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBmgfDQLHhCUfDgUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHwxkHwFoFgQCAQ8PFgIfEAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfdGFsZS9hcnRpa2tlbGRkAgIPFQEAZAIJDxYEHwxkHwFoFgICAQ8PFgIfEAU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3RhbGUvYXJ0aWtrZWxkZAILD2QWAmYPFQEAZAULd3A3MzA1MTU5NDkPZBYCZg9kFgYCAg8VAnovZW4vZGVwL3VkL3NlbGVjdGVkLXRvcGljcy9odW1hbi1yaWdodHMvbWVubmVza2VyZXR0aWdoZXRlci11cmZvbGsvaW5kaWdlbm91cy1wZW9wbGVzLWluLWRldmVsb3BtZW50LWNvb3Blci5odG1sP2lkPTQ0NzA1MS1JbmRpZ2Vub3VzIHBlb3BsZXMgaW4gZGV2ZWxvcG1lbnQgY29vcGVyYXRpb25kAgQPFQJ6L2VuL2RlcC91ZC9zZWxlY3RlZC10b3BpY3MvaHVtYW4tcmlnaHRzL21lbm5lc2tlcmV0dGlnaGV0ZXItdXJmb2xrL2luZGlnZW5vdXMtcGVvcGxlcy1pbi1kZXZlbG9wbWVudC1jb29wZXIuaHRtbD9pZD00NDcwNTEJUmVhZCBtb3JlZAIFDxUCei9lbi9kZXAvdWQvc2VsZWN0ZWQtdG9waWNzL2h1bWFuLXJpZ2h0cy9tZW5uZXNrZXJldHRpZ2hldGVyLXVyZm9say9pbmRpZ2Vub3VzLXBlb3BsZXMtaW4tZGV2ZWxvcG1lbnQtY29vcGVyLmh0bWw/aWQ9NDQ3MDUxLUluZGlnZW5vdXMgcGVvcGxlcyBpbiBkZXZlbG9wbWVudCBjb29wZXJhdGlvbmQFDHdwMTk4MjMwODQyNA9kFgJmD2QWBgICDxUCXy9lbi9kZXAvdWQvc2VsZWN0ZWQtdG9waWNzL2h1bWFuLXJpZ2h0cy9ub3J3YXlzLWh1bWFuLXJpZ2h0cy1kaWFsb2d1ZXMvZGlhbG9ndWVzLmh0bWw/aWQ9NDQ3MDU5IU5vcndheeKAmXMgaHVtYW4gcmlnaHRzIGRpYWxvZ3Vlc2QCBA8VAl8vZW4vZGVwL3VkL3NlbGVjdGVkLXRvcGljcy9odW1hbi1yaWdodHMvbm9yd2F5cy1odW1hbi1yaWdodHMtZGlhbG9ndWVzL2RpYWxvZ3Vlcy5odG1sP2lkPTQ0NzA1OQlSZWFkIG1vcmVkAgUPFQJfL2VuL2RlcC91ZC9zZWxlY3RlZC10b3BpY3MvaHVtYW4tcmlnaHRzL25vcndheXMtaHVtYW4tcmlnaHRzLWRpYWxvZ3Vlcy9kaWFsb2d1ZXMuaHRtbD9pZD00NDcwNTkhTm9yd2F54oCZcyBodW1hbiByaWdodHMgZGlhbG9ndWVzZAICD2QWAmYPFgIfAAWrAllvdSBhcmUgaGVyZTogPGEgaHJlZj0iL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCIj5Hb3Zlcm5tZW50Lm5vPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD04MzMmZXBzbGFuZ3VhZ2U9ZW4tR0IiPk1pbmlzdHJ5IG9mIEZvcmVpZ24gQWZmYWlyczwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0RlcGFydGVtZW50VGVtYUZvcnNpZGUuYXNweD9pZD04MzUmZXBzbGFuZ3VhZ2U9ZW4tR0IiPlNlbGVjdGVkIHRvcGljczwvYT4gLyA8c3Bhbj5IdW1hbiByaWdodHM8L3NwYW4+ZAIDD2QWBgIBDxUBB1N0YXR1czpkAgIPFgIfAWgWAmYPFQE4DQogICAgICAgICAgICAgICAgICAgICAgICBBcmNoaXZlZA0KICAgICAgICAgICAgICAgICAgICBkAgQPFgIfAWgWAmYPFQE4DQogICAgICAgICAgICAgICAgICAgICAgICBSZXBsYWNlZA0KICAgICAgICAgICAgICAgICAgICBkAgQPFQEMSHVtYW4gcmlnaHRzZAIFDw8WBB8GaB8OBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHw9kZAIGD2QWAmYPDxYEHwZoHw4FB0RlZmF1bHRkZAIHDw8WBB8GaB8OBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHw9kZAIIDxYCHgVjbGFzcwUPZGVzY3JpcHRpb25UZXh0FgJmDw8WBB8GaB8OBQdEZWZhdWx0ZGQCCQ9kFgICBg9kFgoCAQ9kFgQCAw8PFgIfAGVkZAIHDw8WAh8AZWRkAgMPZBYCAgEPZBYKAhEPDxYCHwcFQw0KICAgICAgICAgICAgICAgICAgICAgICAgRS1tYWlsIGlzIG1hbmRhdG9yeQ0KICAgICAgICAgICAgICAgICAgICBkZAITDw8WAh8HBUUNCiAgICAgICAgICAgICAgICAgICAgICAgIEludmFsaWQgZS1tYWlsIGZvcm1hdA0KICAgICAgICAgICAgICAgICAgICBkZAIVD2QWAgIDDxAPFgIeC18hRGF0YUJvdW5kZ2RkFgBkAhcPDxYCHwAFCENvbnRpbnVlZGQCGQ8PFgIfAAUGQ2FuY2VsZGQCBA9kFgICAw8PFgIfAAUIQ29udGludWVkZAIFD2QWBAIHDw8WAh8ABRNDYW5jZWwgc3Vic2NyaXB0aW9uZGQCCQ8PFgIfAAUVQ29udGludWUgc3Vic2NyaXB0aW9uZGQCBg9kFgICAw8PFgIfAAUIQ29udGludWVkZAIKDxYCHwFoFgICAQ8PFgQfBmgfDgUHRGVmYXVsdGRkAgsPZBYCAgEPPCsAEgQEFgQfAAUGRGVsZXRlHgtEZXNjcmlwdGlvbgUMRGVsZXRlICd7MH0nBRYEHwAFBEVkaXQfEwUKRWRpdCAnezB9JwcWBB8ABQhNaW5pbWl6ZR8TBQ5NaW5pbWl6ZSAnezB9JwgWBB8ABQdSZXN0b3JlHxMFDVJlc3RvcmUgJ3swfSdkAgUPZBYIAgEPZBYCAgEPZBYCZg8WAh8RBQpEZXBQcm9maWxlFgJmDxUBNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD04MzMmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgMPZBYGZg8VAQBkAgEPZBYEZg8VAjsNCiAgICAgICAgICAgICAgICAgICAgU2VhcmNoIHdpdGhpbiB0b3BpYw0KICAgICAgICAgICAgICAgIAxIdW1hbiByaWdodHNkAgMPDxYCHwAFBlNlYXJjaGRkAgMPZBYCZg9kFgQCAQ8WAh8BZ2QCAw8WAh8BZ2QCCQ9kFgICAQ8UKwASPCsACQEADxYCHwFoZGRkZBYEHwAFBkRlbGV0ZR8TBQxEZWxldGUgJ3swfScWBB8ABQRFZGl0HxMFCkVkaXQgJ3swfSdkFgQfAAUITWluaW1pemUfEwUOTWluaW1pemUgJ3swfScWBB8ABQdSZXN0b3JlHxMFDVJlc3RvcmUgJ3swfSdkZGRkZGRkZGRkAg0PZBYEAgEPDxYCHwFoZBYCZg9kFgICAQ8WAh8BaGQCAw8PFgIfAWhkFgJmD2QWAgIBDxYCHwFoZAIDD2QWAgIBD2QWBAIBD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTgzMyZlcHNsYW5ndWFnZT1lbi1HQg1NaW5pc3RyeSBob21lZAIDDxYGHglfUGFnZUxpbmsoKW5FUGlTZXJ2ZXIuQ29yZS5QYWdlUmVmZXJlbmNlLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwM4MzMeD19OdW1iZXJPZkxldmVscwIKHgpfRXhwYW5kQWxsaBZIAgEPZBYCZg8VAQBkAgIPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9ODM0JmVwc2xhbmd1YWdlPWVuLUdCAApXaGF0J3MgbmV3ZAIED2QWAmYPFQEIU2VsZWN0ZWRkAgUPZBYCZg8VBAA/L3RlbXBsYXRlcy9EZXBhcnRlbWVudFRlbWFGb3JzaWRlLmFzcHg/aWQ9ODM1JmVwc2xhbmd1YWdlPWVuLUdCAA9TZWxlY3RlZCB0b3BpY3NkAgcPZBYCZg8VAQBkAggPZBYCZg8VAy4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMTU5JmVwc2xhbmd1YWdlPWVuLUdCABhEZXZlbG9wbWVudCBjb29wZXJhdGlvbiBkAgoPZBYCZg8VAQBkAgsPZBYCZg8VAy4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMTU0JmVwc2xhbmd1YWdlPWVuLUdCAApIaWdoIE5vcnRoZAIND2QWAmYPFQEIU2VsZWN0ZWRkAg4PZBYCZg8VAy4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMTYwJmVwc2xhbmd1YWdlPWVuLUdCAAxIdW1hbiByaWdodHNkAhAPZBYCZg8VAQBkAhEPZBYCZg8VAzAvdGVtcGxhdGVzL1RlbWEuYXNweD9pZD01MDY4NDkmZXBzbGFuZ3VhZ2U9ZW4tR0IAIU5vcndheeKAmXMgaHVtYW4gcmlnaHRzIGRpYWxvZ3Vlc2QCEw9kFgJmDxUBAGQCFA9kFgJmDxUDMC90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTUwNjg1MCZlcHNsYW5ndWFnZT1lbi1HQgAWSHVtYW4gcmlnaHRzIGRlZmVuZGVyc2QCGA9kFgJmDxUBAGQCGQ9kFgJmDxUDMC90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTQzNDQ3OSZlcHNsYW5ndWFnZT1lbi1HQgAUSHVtYW5pdGFyaWFuIGVmZm9ydHNkAhsPZBYCZg8VAQBkAhwPZBYCZg8VAzAvdGVtcGxhdGVzL1RlbWEuYXNweD9pZD00MzAzNzUmZXBzbGFuZ3VhZ2U9ZW4tR0IAEUludGVybmF0aW9uYWwgTGF3ZAIeD2QWAmYPFQEAZAIfD2QWAmYPFQMuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTE1OCZlcHNsYW5ndWFnZT1lbi1HQgAgUGVhY2UgYW5kIHJlY29uY2lsaWF0aW9uIGVmZm9ydHNkAiEPZBYCZg8VAQBkAiIPZBYCZg8VAzAvdGVtcGxhdGVzL1RlbWEuYXNweD9pZD00MzQ0OTkmZXBzbGFuZ3VhZ2U9ZW4tR0IAKVB1YmxpYyBkaXBsb21hY3kgYW5kIGN1bHR1cmFsIGNvb3BlcmF0aW9uZAIkD2QWAmYPFQEAZAIlD2QWAmYPFQMuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTExMSZlcHNsYW5ndWFnZT1lbi1HQgAPU2VjdXJpdHkgcG9saWN5ZAInD2QWAmYPFQEAZAIoD2QWAmYPFQMuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTE2MSZlcHNsYW5ndWFnZT1lbi1HQgAMVHJhZGUgcG9saWN5ZAIqD2QWAmYPFQEAZAIrD2QWAmYPFQMuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTE0OSZlcHNsYW5ndWFnZT1lbi1HQgAOVW5pdGVkIE5hdGlvbnNkAi8PZBYCZg8VAQBkAjAPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9ODM2JmVwc2xhbmd1YWdlPWVuLUdCAAxQcmVzcyBjZW50cmVkAjIPZBYCZg8VAQBkAjMPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MjcyNTE4JmVwc2xhbmd1YWdlPWVuLUdCAAlEb2N1bWVudHNkAjUPZBYCZg8VAQBkAjYPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9ODM4JmVwc2xhbmd1YWdlPWVuLUdCABNBYm91dCB0aGUgTWluaXN0cnkgZAI4D2QWAmYPFQEAZAI5D2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTgzOSZlcHNsYW5ndWFnZT1lbi1HQgARU291bmQgYW5kIHBpY3R1cmVkAgUPZBYCAgEPZBYCZg8VAbsDPHAgYWxpZ249ImNlbnRlciI+PHN0cm9uZz5FLW1haWw6PC9zdHJvbmc+IDxhIGhyZWY9Im1haWx0bzpwb3N0QG1mYS5ubyI+TWluaXN0cnkgb2YgRm9yZWlnbiBBZmZhaXJzPC9hPjxiciAvPjxzdHJvbmc+UGhvbmU6PC9zdHJvbmc+IDIyIDI0IDM2IDAwIDxzdHJvbmc+RmF4Ojwvc3Ryb25nPiAyMiAyNCA5NSA4MC84MTxiciAvPjxzdHJvbmc+QWRkcmVzczo8L3N0cm9uZz4gNy4ganVuaS1wbGFzc2VuLyBWaWN0b3JpYSBUZXJyYXNzZS4gUEIgODExNCBEZXAuIE4tMDAzMiBPc2xvPGJyIC8+PHN0cm9uZz5FZGl0b3I8L3N0cm9uZz46Jm5ic3A7PGEgaHJlZj0ibWFpbHRvOmJqQG1mYS5ubyI+QmrDuHJuIFMuIEphaG5zZW48L2E+Jm5ic3A7PHN0cm9uZz5XZWItZWRpdG9yOjwvc3Ryb25nPiA8YSBocmVmPSJtYWlsdG86anRqQG1mYS5ubyI+Sm9oYW4gVC4gSmVuc2VuPC9hPjwvcD5kAgUPZBYCZg8VARgvc2NyaXB0L2pzL3NkY18wOTA4MTkuanNkGAgFdmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJFN1YmplY3RNYW5hZ2VyJHdwMjkwMDY5MTYyJHdwNzA4ODY2ODc4JGxzdFNlYXJjaFJlc3VsdCRsc3RVbml2ZXJzYWwPD2ZkZAVHY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kZW1haWxBbGVydCRtdWx0aVZpZXcPD2RmZAVYY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJGN0bDAxJFBhZ2VMaXN0MQ8PZmRkBWZjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kY3RsMDAkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkTXVsdGlQYWdlTGlzdA8PZmRkBUxjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRSZWxhdGVkQ29udGFjdDIkUGFnZUxpc3QxDw9mZGQFb2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyR1Y0xvdkZvcnNrcmlmdCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBSVjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSR1eFZpZXdzDw9kZmS77GN1mLuOlFfx/txdK103rfiqMg==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0MDE2MTEwMjlkGA8FR2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGVtYWlsQWxlcnQkbXVsdGlWaWV3Dw9kZmQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJE11bHRpUGFnZUxpc3QPD2ZkZAV+Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRSZWxhdGVkTG92Rm9yc2tyaWZ0JFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJHV4Vmlld3MPD2RmZAV1Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRIb2VyaW5nRm9yJFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFT2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kVGlwQUZyaWVuZFBsYWNlaG9sZGVyJFRpcEFGcmllbmQkVGlwVmlld3MPD2QCAWQFQGN0bDAwJGN0bDAzJHdwMjkwMDY5MTYyJHdwNzA4ODY2ODc4JGxzdFNlYXJjaFJlc3VsdCRsc3RVbml2ZXJzYWwPD2ZkZAVvY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJHVjTG92Rm9yc2tyaWZ0JFJlbGF0aW9uc09uZUhvcFBhZ2VMaXN0Dw9mZGQFWGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRjdGwwMSRQYWdlTGlzdDEPD2ZkZAWAAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFgQFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJERvY3VtZW50UmVsYXRpb25zaGlwMiRSZWxhdGlvbnNPbmVIb3BQYWdlTGlzdDEPD2ZkZAV4Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRIb2VyaW5nc05vdGF0JFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFZmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRjdGwwMCRSZWxhdGlvbnNPbmVIb3BQYWdlTGlzdA8PZmRkBR1jdGwwMCRSZXF1aXJlZFJlc291cmNlc0hlYWRlcg8FBkhlYWRlcmQFTGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJFJlbGF0ZWRDb250YWN0MiRQYWdlTGlzdDEPD2ZkZDZL0cqEeRYa8AsiVL/9KvSMuZFf" />
 </div>
 
+
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EqeggJn66n4UBdY8MbXhpm4B0qmJ6qTeldD4gI_YWoLk0slZiV09hPpkSC4kPPQHqw2oiG3D3eL-K2zLMn-5JELP2CBBmZJgNWx919bugEX654QdMSv3E13cFAeeqwRm_knJDg2&amp;t=6fd2091f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=argtXe0SlTRDlv1m2KtPxbf_kJUIvOYZaBh8WARFoIMmDh9A_6vgcztE7W4MTCqUngWQOBE2qv2FwX84zF7vwOLGXuY6zcROPGasP6n0LXyd3AmuBCfmgmG9SyZEPj1LfcuoMg2&amp;t=6fd2091f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=DHYmz5vqrxkn_XcNHT0cRdAjLwN8MlDs6WOsro3_Nuocyo2bgQ8XplNUAV-oAjlIMZ3uXsArqzgOSaJHTEOX3t9ja476kI7FQqhUJXCcFgBwVu8ahCP6ZDMDmckHSmGIsKzDHA2&amp;t=6fd2091f" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAq2a2Ke72OnyoWkSzYdBaVRrya5utHaP3uHQRI8Uid46QTFRMbyqbI0sloRc3Uw10HWXWl/SJpEFyAqi99OHjtE9II++VEPX1O6J4griigfdC7aBgEb6tB38M3Q+QtcT5dc3Ehi7iZ59S7JzT6xst29Aj7CbHcl1x8vt8oSwlXRyTB3252SfMu8eVjldtH+CO8H5Rw5lPWO+gKW1s3AVnMN6I0Y4VCNNpZ3JAb8DGu0hrY55no=" />
+</div>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo">Go to contact information</a></li>
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">Go to search</a><a href="#Content" tabindex="3">Go to content</a><a href="#AreaTopSiteNav" tabindex="4">Go to top menu</a><a href="#AreaLeft" tabindex="5">Go to left menu</a>
+    <a href="#FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo" tabindex="6">Go to contact information</a>
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/ud/tema/menneskerettigheter.html?id=1160">Bokmål</a></li>
-        <li class=""><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Denne sida finst ikkje på nynorsk. Klikk her for å vise nynorsk rammeverk" class="ISI_IGNORE" href="/nn/dep/ud/tema/menneskerettigheter.html?id=1160">Nynorsk</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/ud/fadda/mr_samisk.html?id=1160">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/ud/selected-topics/human-rights.html?id=1160">English</a></li>
+        <li class="First Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/ud/tema/menneskerettigheter.html?id=1160">Bokmål</a></li>
+        <li class=""><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Denne sida finst ikkje på nynorsk. Klikk her for å vise nynorsk rammeverk" class="ISI_IGNORE" href="/nn/dep/ud/tema/menneskerettigheter.html?id=1160">Nynorsk</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/ud/fadda/mr_samisk.html?id=1160">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/ud/selected-topics/human-rights.html?id=1160">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/en.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/en.html?id=4" tabindex="20">
+                                            government.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/en/the-government/solberg/members-of-the-government-2.html?id=543170' class="ISI_MENU" tabindex="21">Solberg’s Government</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/en/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Ministries
+                                        </a>
+                                        
     <ul>
   
     <li>
@@ -122,7 +141,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+        <a href="/en/dep/asd.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour and Social Affairs</a>
     </li>
   
     <li>
@@ -134,14 +153,6 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
-    </li>
-  
-    <li>
         <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
     </li>
   
@@ -150,15 +161,19 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and Public Security</a>
     </li>
   
     <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
+        <a href="/en/dep/kld.html?id=668" class="NormalLink ISI_MENU">Ministry of Climate and Environment</a>
     </li>
   
     <li>
-        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
+        <a href="/en/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Modernisation</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
     </li>
   
     <li>
@@ -170,11 +185,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+        <a href="/en/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade, Industry and Fisheries</a>
     </li>
   
     <li>
@@ -193,182 +204,294 @@ function printPage()
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en/dep/ud.html?id=833"><img class="ProfileLogo" src="/styles/Images/ud/ud_en.gif" alt='Ministry of Foreign Affairs' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/en/dep/ud.html?id=833" tabindex="34"><img class="ProfileLogo" src="/styles/Images/ud/ud_en.gif" alt='Ministry of Foreign Affairs' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
     <label for="quicksearchinput" class="QuickSearchHeader">Search the Ministry of Foreign Affairs</label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
-    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Search all of government.no</a></span>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Search" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Search" />        
+    <span><a id="TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" tabindex="32" class="QuickSearchLinkToMainSearch" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Search all of government.no</a></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Share/Send' /><span class="open" id="open">Share/Send</span><span class="display-none" id="close">Close</span></a></li>
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/ud/selected-topics/human-rights.html?id=1160&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/dep/ud/Site-Map.html?id=313883">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/dep/ud/about_mfa/contact.html?id=841">Contact </a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+        <li class="Share">
+            <noscript>
+                <a href="http://www.regjeringen.no/templates/Tema.aspx?id=1160&amp;epslanguage=en-GB&amp;tipafriend=1" id="noScriptTipLink" rel="nofollow" tabindex="72"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                        vertical-align: middle; height: 1em;" alt='Share/Send' />Share/Send</a></noscript>
+            <a onclick="return displayTipAFriendForm();" id="TopRegion_TopRightRegion_ctl00_tipAFriendLink" tabindex="34" class="display-none" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$ctl00$tipAFriendLink&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                    vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Share/Send' /><span id="open">Share/Send</span><span id="close" style="display: none;">Close</span></a>
+        </li>
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Click here to print this page' />Print</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/templates/Tema.aspx?id=1160&amp;epslanguage=en-GB&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal font size' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Tema.aspx?id=1160&amp;epslanguage=en-GB&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium font size' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Tema.aspx?id=1160&amp;epslanguage=en-GB&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Large font size' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/ud/selected-topics/human-rights.html?id=1160&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/en/dep/ud/Site-Map.html?id=313883">Site Map</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/en/dep/ud/about_mfa/contact.html?id=841">Contact </a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
+                        <div id="AreaLeft">
+                            
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/ud.html?id=833" tabindex="41">
+            Ministry home</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/whats-new.html?id=834" title="" tabindex="42">
+            What's new</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/campaigns.html?id=450622" title="" tabindex="43">
+            Campaigns</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU " href="/en/dep/ud/selected-topics.html?id=835" title="" tabindex="44">
+            Selected topics</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/csr_en.html?id=621814" title="" tabindex="45">
+            Corporate social responsibility</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/development_cooperation.html?id=1159" title="" tabindex="46">
+            Development cooperation </a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/campaigns/the-high-north.html?id=450629" title="" tabindex="47">
+            High North</a>
+    </li><li class="Selected">
+        <a class="Selected ISI_MENU" href="/en/dep/ud/selected-topics/human-rights.html?id=1160" title="" tabindex="48">
+            Human rights</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/human-rights/human-rights-defenders.html?id=506850" title="" tabindex="49">
+            Human rights defenders</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/human-rights/death_penalty.html?id=697862" title="" tabindex="50">
+            International efforts to combat the death penalty</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/human-rights/norways-human-rights-dialogues.html?id=506849" title="" tabindex="51">
+            Norway’s human rights dialogues</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/humanitarian-efforts.html?id=434479" title="" tabindex="52">
+            Humanitarian efforts</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/civil--rights.html?id=430375" title="" tabindex="53">
+            International Law</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/peace-and-reconciliation-efforts.html?id=1158" title="" tabindex="54">
+            Peace and reconciliation efforts</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/public-diplomacy-and-cultural-cooperatio.html?id=434499" title="" tabindex="55">
+            Public diplomacy and cultural cooperation</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/security-policy.html?id=1111" title="" tabindex="56">
+            Security policy</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/trade-policy.html?id=1161" title="" tabindex="57">
+            Trade policy</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/un.html?id=1149" title="" tabindex="58">
+            United Nations</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/press.html?id=836" title="" tabindex="59">
+            Press centre</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/documents.html?id=272518" title="" tabindex="60">
+            Documents</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/about_mfa.html?id=838" title="" tabindex="61">
+            About the Ministry </a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/audio.html?id=839" title="" tabindex="62">
+            Sound and picture</a>
+    </li></ul>
+
+                                </div>
+                                
+                                
+                            
+                        </div>
                         <div id="AreaContentAndRight">
                             
                                 <div id="AreaContent">
-                                    <div id="slickbox" style="display:none;">
-                                       
+                                    <div id="FullRegion_CenterAndRightRegion_slickbox" class="slickbox" style="display: none;">
+                                        
                                             
 <script type="text/javascript"><!--
-function fbs_click() 
-{
-    u=location.href;
-    t=document.title;
-    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
-    return false;
-}
-function nettby_click(pageurl,pagename)
-{
-    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
-    wnd.focus();
-    return false;
-}
-function GetThis(T, C, U, L) 
-{
-	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
-	wnd = window.open(targetUrl);
-	wnd.focus();
-	return false;
-}
+    function facebook_click() {
+        u = location.href;
+        t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+        return false;
+    }
+    function twitter_click() {
+        u = location.href;
+        t = encodeURIComponent('Human rights');
+        window.open('http://twitter.com/share?url=' + encodeURIComponent(u) + '&text=' + t, 'sharer', 'toolbar=0,status=0,width=350,height=230');
+        return false;
+    }
 --></script>
-
-
-
-    <div id="thankyouview">
-        <div id="thankyoudiv"></div>        
+<div id="thankyouview">
+    <div id="thankyoudiv">
+        
     </div>
-    <div id="tipafriend">
-        <div id="tipafriendContent">
-            
-            <div>
-	  
-                <p><strong>Share this page with a friend </strong></p>
-                <ol>
-                    <li>
-                        
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
-                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
-                    </li>
-                    <li>
-                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
-                    </li>
-                    <li>
-                                                         
-                    </li>
-                </ol>                          
-            
 </div>
-        </div> 
+<div id="tipafriend">
+    <div id="tipafriendContent">
+        
+                <div>
+	
+                    <div id="TipAFriendForm">
+                        <fieldset>
+                            <legend><strong>
+                                Share this page with a friend 
+                            </strong></legend>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
+                                <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;">
+</textarea>
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="setTipClicked();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitTextBox" style="display: none;
+                                    width: 10px;" />
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                
+                            </div>
+                        </fieldset>
+                    </div>
+                
+</div>
+            
     </div>
-    <div id="ShareArticle">
-        <p><strong>Share</strong></p>
-        <ul class="communities">        
-            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/ud/selected-topics/human-rights.html?id=1160" target="_blank">Facebook</a></li>            
-            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/en/dep/ud/selected-topics/human-rights.html?id=1160', 'Human rights')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/en/dep/ud/selected-topics/human-rights.html?id=1160&amp;description=Human rights' target="_blank">Nettby</a></li>
-            <li><a class="share_myspace" href="#" onclick="return GetThis('Human rights','','http://www.regjeringen.no/en/dep/ud/selected-topics/human-rights.html?id=1160',3)">Myspace</a></li>
-            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
-        </ul>
-    </div>
-
-
+</div>
+<div id="ShareArticle">
+    <p>
+        <strong>
+            Share
+        </strong>
+    </p>
+    <ul class="communities">
+        <li><a class="share_facebook" onclick="return facebook_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/ud/selected-topics/human-rights.html?id=1160" target="_blank">
+            Facebook</a></li>
+        <li><a class="share_twitter" onclick="return twitter_click()" href="http://twitter.com/share?url=http://www.regjeringen.no/en/dep/ud/selected-topics/human-rights.html?id=1160&amp;text=Human rights" target="_blank">
+            Twitter</a></li>
+        <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">
+            Origo</a></li>
+    </ul>
+</div>
 
                                         
                                     </div>
-                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
                                     
     
-    
+
 
     
-    
 
-         <p class="breadcrumbs">You are here: <a href="/en.html?id=4">Government.no</a> / <a href="/en/dep/ud.html?id=833">Ministry of Foreign Affairs</a> / <a href="/en/dep/ud/selected-topics.html?id=835">Selected topics</a> / <span>Human rights</span>
-</p>
-         <div class="documentTop SubjectPage">            
-                     
-            <h1>Human rights</h1>
-            <div class="temaMobIngressImg" style="display: none;"><img src="/Upload/UD/Temabilder/tema_menneskerettigheter.jpg" alt="Human rights" /></div>
-            <p class="textIngress">Human rights are fundamental rights that belong to all people by virtue of their humanity. Since the Second World War, human rights have been codified in international agreements at both global and regional level.
-</p>
-            <img src="/Upload/UD/Temabilder/tema_menneskerettigheter.jpg" alt="Human rights" class="temaIngressImg" />
-            <div class="descriptionText"><p>Even though all human rights are equal and indivisible, it is usual to distinguish between civil and political rights, and economic, social and cultural rights. A knowledge and understanding of human rights are necessary in order to ensure that these rights are respected. The Foreign Ministry’s website has therefore been designed to facilitate access to key information on human rights.<br /></p></div>
-	    <div style="clear:both"></div>
-	      
-         </div>
-         
-         
-                                
-        
-        
-        
-                            
-    <div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_divPageContent" class="documentBody">  
+<div class="breadcrumbs ">
+
+    
+               <span>
+                   You are here: 
+               </span>
                 
+                <ul class="breadcrumbmenu">
+            
+                <li><a href="/en.html?id=4" title="Government.no">Government.no</a> / </li>
+            
+                <li><a href="/en/dep/ud.html?id=833" title="Ministry of Foreign Affairs">Ministry of Foreign Affairs</a> / </li>
+            
+                <li><a href="/en/dep/ud/selected-topics.html?id=835" title="Selected topics">Selected topics</a> / </li>
+            
+                <li><span>Human rights</span></li>
+            
+                </ul>
+            
+</div>
+    <div class="documentTop SubjectPage">            
+                 
+        <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+        <h1>Human rights</h1>
+            <div class="temaMobIngressImg" style="display: none;"><img src="/Upload/UD/Temabilder/tema_menneskerettigheter.jpg" alt="Human rights" title="Human rights" /></div>
+        
+            <p class="textIngress">The promotion of human rights and democratic principles is at the heart of Norwegian foreign policy. This policy is implemented both at the multilateral level – in forums such as the UN, the OSCE and the Council of Europe – and at country level.</p>
+        
+            <img src="/Upload/UD/Temabilder/tema_menneskerettigheter.jpg" alt="Human rights" title="Human rights" class="temaIngressImg" />
+        <div class="descriptionText"><div>
+	<p>Issues relating to human rights and democracy are a high priority in both foreign and development policy. Whether we are supporting human rights defenders, promoting freedom of speech, fighting the death penalty, or supporting the development of democratic constitutions and free elections, safeguarding human rights is the guiding principle. Priority target groups for Norwegian human rights efforts are human rights defenders, minorities, women, children and indigenous peoples.</p>
+</div></div>
+        <div style="clear:both"></div>
+        
+     </div>
+         
+    
+                            
+    <div id="FullRegion_CenterAndRightRegion_CenterRegion_divPageContent" class="documentBody">
+        
+
 
 <div class="ArticleView">
-        <img src="/upload/UD/Ingressbilder/TemaIngress/MR_dialog_En_100x75.jpg" alt="" class="ArticleImg" />
+        
+            <a href="/en/archive/Stoltenbergs-2nd-Government/Ministry-of-Foreign-Affairs/tema-og-redaksjonelt-innhold/redaksjonelle-artikler/2010/dialogues.html?id=447059">
+                <img src="/upload/UD/Ingressbilder/TemaIngress/MR_dialog_En_100x75.jpg" alt="" title="" class="ArticleImg" />
+            </a>            
         
         
         <div class="ArticleImgContent">
-            <h2><a href="/en/dep/ud/selected-topics/human-rights/norways-human-rights-dialogues/dialogues.html?id=447059">Norway’s human rights dialogues</a></h2>        
+            <h2><a href="/en/archive/Stoltenbergs-2nd-Government/Ministry-of-Foreign-Affairs/tema-og-redaksjonelt-innhold/redaksjonelle-artikler/2010/dialogues.html?id=447059">Norway’s human rights dialogues</a></h2>        
                 
             <p>
-               Norway has started to cooperate more closely with countries where there are human rights challenges, but where there is also potential for improvement through dialogue and contact. Currently, Norway is engaged in formal human rights dialogues of this kind with China, Indonesia and Vietnam. 
+               Norway has started to cooperate more closely with countries where there are human rights challenges but at the same time potential for improvement through dialogue and contact. Currently, Norway is engaged in formal human rights dialogues of this kind with China, Indonesia and Vietnam. 
             </p>
             
         </div>
@@ -377,8 +500,12 @@ function GetThis(T, C, U, L)
     
 
 
+
 <div class="ArticleView">
-        <img src="/upload/UD/Ingressbilder/TemaIngress/MR_urfolk_EN_100x75.jpg" alt="" class="ArticleImg" />
+        
+            <a href="/en/dep/ud/selected-topics/human-rights/menneskerettigheter-urfolk/indigenous-peoples-in-development-cooper.html?id=447051">
+                <img src="/upload/UD/Ingressbilder/TemaIngress/MR_urfolk_EN_100x75.jpg" alt="" title="" class="ArticleImg" />
+            </a>            
         
         
         <div class="ArticleImgContent">
@@ -397,439 +524,492 @@ function GetThis(T, C, U, L)
 
 
      
-        <div class="ArticleView"> 
-            <a href="/en/dep/ud/selected-topics/un/fundamental_freedoms.html?id=614637" class="ISI_IGNORE">
-                <img src="/upload/UD/Ingressbilder/trygve_lie_sym_ingr.jpg" alt="" class="ArticleImg" />
-            </a>
-            <div class="ArticleImgContent">
-                <h2>
-                    <a href="/en/dep/ud/selected-topics/un/fundamental_freedoms.html?id=614637" title="">
-                        Trygve Lie Symposium 2010 on Fundamental Freedoms
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Editorial article, Ministry of Foreign Affairs, 21.09.2010]</p>
-                <p>The third annual Trygve Lie Symposium on Fundamental Freedoms will be chaired by Norwegian Minister of Foreign Affairs Jonas Gahr Støre at the International Peace Institute in New York on 24 September 2010. This year’s symposium will focus on the UN framework for human rights and business: “Protect, Respect and Remedy”.</p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp290069162_wp708866878_lstSearchResult_lstUniversal_ctl00_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/ud/pressesenter/pressemeldinger/2010/aleh_byabenin.html?id=613687" title="">
-                        Belarus. Opposition activist Aleh Byabenin’s death
-                    </a>
+                    <a href="/en/dep/ud/press/news/2014/expression_egypt.html?id=764310" title="">
+                        Norway condemns violation of freedom of expression and other human rights in Egypt</a>
                 </h2>
                 <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Press release, Ministry of Foreign Affairs, 06.09.2010]</p>
-                <p>“We extend our condolences to Aleh Byabenin’s loved ones at this difficult time. I would also like to stress that it is important that the circumstances surrounding his death are clarified quickly and thoroughly,” Foreign Minister Jonas Gahr Støre commented.   </p>
-                
-                
+                <p class="ArticleInfo">[Press release, Ministry of Foreign Affairs, 23.06.2014]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp290069162_wp708866878_lstSearchResult_lstUniversal_ctl01_Label1"></span>                 
-           </div>
-        </div> 
+                    ‘I am deeply concerned about the trials that are taking place in Egypt and the sentences that are being imposed. Monday’s judgment against three journalists is shocking and unacceptable. In addition, 183 death sentences that were pronounced earlier have been upheld,’ said Minister of Foreign Affairs Børge Brende.</p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/ud/aktuelt/taler_artikler/utenriksministeren/2010/mr_beskyttelse.html?id=613531" title="">
-                        Strengthening Protection for Human Rights Defenders
-                    </a>
+                    <a href="/en/dep/ud/press/news/2014/condemns_executions.html?id=763249" title="">
+                        Norway condemns reported mass executions in Iraq</a>
                 </h2>
-                <h3 class="subDescription" style="display:none">Litteraturhuset, Oslo, 3 September 2010</h3>
-                <p class="ArticleInfo">[Speech/article, Ministry of Foreign Affairs, 03.09.2010]</p>
-                <p>We are now issuing guidelines on human rights defenders for our embassies – to enhance our efforts at the bilateral level. The guidelines set out a variety of actions that will enable our embassies to support and protect human rights defenders, Foreign Minister Støre said in his opening address at the seminar in Oslo 3 September 2010.</p>
-                
-                
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Press release, Ministry of Foreign Affairs, 16.06.2014]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp290069162_wp708866878_lstSearchResult_lstUniversal_ctl02_Label1"></span>                 
-           </div>
-        </div> 
+                    Norway is deeply concerned about the situation in western and northern Iraq, where the authorities have lost control of large areas, including Mosul, Iraq’s second largest city.  </p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/ud/pressesenter/pressemeldinger/2010/mostafaei_sikkerhet.html?id=612010" title="">
-                        Foreign Minister Støre pleased that Mostafaei is safe
-                    </a>
+                    <a href="/en/dep/ud/whats-new/Speeches-and-articles/speeches_articles/2014/nordic_statement.html?id=763330" title="">
+                        Nordic Statement on Human Rights and Good Governance</a>
                 </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Press release, Ministry of Foreign Affairs, 08.08.2010]</p>
-                <p>“I am very pleased that human rights lawyer Mohammad Mostafaei is now safe in Norway,” said Foreign Minister Jonas Gahr Støre.    </p>
-                
-                
+                <h3 class="subDescription" style="display:none">New York, 9 June 2014</h3>
+                <p class="ArticleInfo">[Speech/article, Ministry of Foreign Affairs, 09.06.2014]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp290069162_wp708866878_lstSearchResult_lstUniversal_ctl03_Label1"></span>                 
-           </div>
-        </div> 
+                    'The Nordic countries would like to see a stand-alone goal for good governance and the rule of law in the post-2015 agenda', said Foreign Minister Børge Brende in his nordic statement about the post-2015 agenda at the UN General Assembly 9 June.</p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/ud/pressesenter/pressemeldinger/2010/cuba-2.html?id=611241" title="">
-                        Norway welcomes the release of political prisoners in Cuba 
-                    </a>
+                    <a href="/en/dep/ud/press/news/2014/ukraine_elections.html?id=761033" title="">
+                        Norway congratulates Ukraine on presidential election</a>
                 </h2>
                 <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Press release, Ministry of Foreign Affairs, 08.07.2010]</p>
-                <p>Norwegian Foreign Minister Jonas Gahr Støre commented: “Norway, together with the EU, has steadfastly demanded the unconditional release of political prisoners in Cuba. We were very pleased to receive the news today that the Cuban authorities will release 52 political prisoners.”</p>
-                
-                
+                <p class="ArticleInfo">[Press release, Ministry of Foreign Affairs, 26.05.2014]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp290069162_wp708866878_lstSearchResult_lstUniversal_ctl04_Label1"></span>                 
-           </div>
-        </div> 
+                    ‘I would like to congratulate the people of Ukraine on a successfully conducted presidential election. Despite the fact that many Ukrainians in Donetsk, Luhansk and Crimea were prevented from participating, the preliminary statement of the election observers indicates that the election was conducted in an orderly manner,’ said Minister of Foreign Affairs Børge Brende. </p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/ud/aktuelt/nyheter/2010/syria_mr.html?id=611220" title="">
-                        Norway deplores sentences against Syrian human rights defenders
-                    </a>
+                    <a href="/en/dep/ud/press/news/2014/egypt_obligations.html?id=758576" title="">
+                        Egypt in breach of international obligations</a>
                 </h2>
                 <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[News story, Ministry of Foreign Affairs, 08.07.2010]</p>
-                <p>“The Norwegian Government deplores these sentences and calls on Syria to abide by its international commitments, and in particular by the International Covenant on Civil and Political Rights, which guarantees freedom of opinion and expression,” said State Secretary Espen Barth Eide. </p>
-                
-                
+                <p class="ArticleInfo">[Press release, Ministry of Foreign Affairs, 06.05.2014]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp290069162_wp708866878_lstSearchResult_lstUniversal_ctl05_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
-            <a href="/en/dep/ud/aktuelt/nyheter/2010/iran.html?id=611057" class="ISI_IGNORE">
-                <img src="/upload/UD/Ingressbilder/iran_flag.gif" alt="" class="ArticleImg" />
-            </a>
-            <div class="ArticleImgContent">
-                <h2>
-                    <a href="/en/dep/ud/aktuelt/nyheter/2010/iran.html?id=611057" title="">
-                        Norway condemns death sentences in Iran
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[News story, Ministry of Foreign Affairs, 05.07.2010]</p>
-                <p>6 July, State Secretary Espen Barth Eide summoned the Iranian Ambassador, Seyed Hossein Rezvani, to the Ministry of Foreign Affairs in connection with two death sentences in Iran.</p>
+                    ‘The death sentences in Egypt in recent months are a clear breach of human rights and of Egypt’s international obligations. Norway condemns these sentences, and we have raised the matter directly with the Egyptian authorities,’ said Foreign Minister Børge Brende. </p>
                 
                 
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp290069162_wp708866878_lstSearchResult_lstUniversal_ctl06_Label1"></span>                 
-           </div>
-        </div> 
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/ud/pressesenter/pressemeldinger/2010/iran_kritikk.html?id=608466" title="">
-                        Norway endorses strong criticism of Iran in the Human Rights Council
-                    </a>
+                    <a href="/en/dep/ud/whats-new/Speeches-and-articles/Speeches-and-articles-by-political-staff/bgd_speeches/speeches2014/opening_exhibition.html?id=758329" title="">
+                        Opening address to the exhibition: The Path to Exclusion</a>
                 </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Press release, Ministry of Foreign Affairs, 15.06.2010]</p>
-                <p>In the UN Human Rights Council today, Norway criticised the human rights situation in Iran on behalf of more than 50 countries. The joint statement was timed to coincide with the one-year anniversary of the controversial presidential election in Iran.</p>
-                
-                
+                <h3 class="subDescription" style="display:none">Center for Studies of Holocaust and Religious Minorities, 5 May 2014</h3>
+                <p class="ArticleInfo">[Speech/article, Ministry of Foreign Affairs, 05.05.2014]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp290069162_wp708866878_lstSearchResult_lstUniversal_ctl07_Label1"></span>                 
-           </div>
-        </div> 
+                    "Although the Constitution of 1814 is considered one of the most liberal of its time, its original paragraph 2 excluded Jews from entrance into Norway. (...) Under the occupation the paragraph was reinstated by Quisling in 1942 before it was finally abolished when Norway was liberated in 1945", said State Secretary Bård Glad Pedersen when he opened the exhibition.</p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/ud/aktuelt/nyheter/2010/drap_bahizire.html?id=607407" title="">
-                        Norway concerned about killing of Congolese human rights defender
-                    </a>
+                    <a href="/en/dep/ud/press/news/2014/egypt_sentences.html?id=757975" title="">
+                        New round of death sentences in Egypt</a>
                 </h2>
                 <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[News story, Ministry of Foreign Affairs, 04.06.2010]</p>
-                <p>“We were very concerned to learn that the Congolese human rights defender Floribert Chebeya Bahizire has been killed,” said State Secretary Gry Larsen at the Ministry of Foreign Affairs.</p>
-                
-                
+                <p class="ArticleInfo">[Press release, Ministry of Foreign Affairs, 28.04.2014]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp290069162_wp708866878_lstSearchResult_lstUniversal_ctl08_Label1"></span>                 
-           </div>
-        </div> 
+                    “It is shocking and unacceptable that an Egyptian court has once again pronounced a summary judgment – this time passing 683 death sentences. We are now witnessing a situation where Egyptian courts are seriously undermining the country’s reputation internationally,” commented Minister of Foreign Affairs Børge Brende.</p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/ud/aktuelt/taler_artikler/utenriksministeren/2010/rights_change.html?id=606791" title="">
-                        Human Rights - Empowerment for Change
-                    </a>
+                    <a href="/en/dep/ud/press/news/2014/pm_support.html?id=757909" title="">
+                        New agreement on Norwegian support for UN human rights efforts</a>
                 </h2>
-                <h3 class="subDescription" style="display:none">Oslo, Litteraturhuset, 30 May 2010</h3>
-                <p class="ArticleInfo">[Speech/article, Ministry of Foreign Affairs, 30.05.2010]</p>
-                <p>I believe we need to remain focused on the critically important point of departure: that we are dealing with humankind, that humankind is global, that universal human rights are global, and that we need to approach them as such, as we deal with their empowering potential, Mr Støre said in his intervention.</p>
-                
-                
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Press release, Ministry of Foreign Affairs, 28.04.2014]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp290069162_wp708866878_lstSearchResult_lstUniversal_ctl09_Label1"></span>                 
-           </div>
-        </div> 
+                    In Geneva, Foreign Minister Børge Brende and UN High Commissioner for Human Rights Navi Pillay signed an agreement under which Norway will provide NOK 250 million to support the UN’s human rights efforts over the next three years.</p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
     
- 
+        <div class="ArticleView">
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/en/dep/ud/whats-new/Speeches-and-articles/speeches_articles/2014/upr_statement.html?id=757956" title="">
+                        Statement at the 19th Session of the Universal Periodic Review Working Group</a>
+                </h2>
+                <h3 class="subDescription" style="display:none">Geneva, 28 April 2014</h3>
+                <p class="ArticleInfo">[Speech/article, Ministry of Foreign Affairs, 28.04.2014]</p>
+                <p>
+                    "It is an honour for me to be here in connection with Norway’s second Universal Periodic Review. Norway has strongly supported the UPR mechanism as an important pillar of the Human Rights Council", said Miniser of Foreign Affairs, Børge Brende, in his statement at the Universal Periodic Review in Geneva.</p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
+    
+        <div class="ArticleView">
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/en/dep/ud/whats-new/news/2014/Violence-and-arrests-in-Venezuela-.html?id=755270" title="">
+                        Violence and arrests in Venezuela</a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[News story, Ministry of Foreign Affairs, 03.04.2014]</p>
+                <p>
+                    Since the beginning of February, Venezuela has been hit by a wave of protests and political unrest. More than 35 people are reported to have been killed. Many others have been injured. A number of protesters have also been arrested.  </p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
+    
 
    
             
-            <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp290069162_wp708866878_lnkSubjectSearch" class="WebPartGeneralListReadMore" href="/en/search.html?tema=1160&amp;id=86008">More documents about this subject</a>
+            <a id="ctl03_wp290069162_wp708866878_lnkSubjectSearch" class="WebPartGeneralListReadMore" href="/en/search.html?tema=1160&amp;id=86008">More documents about this subject</a>
 
             
 
     </div> 
 	<div class="printContact">
-		
+		<div id="FullRegion_CenterAndRightRegion_CenterRegion_RelatedContact2_AreaContactInfo" class="Toolbox" tabindex="66">
+    
+        <h2 class="ToolboxHeader">
+           
+                        Contact information
+                    
+        </h2>
+    
+                 
+            <div class="ToolboxContent">
+					<h3 class="relatedContactHead">
+						 <a href="/en/dep/ud/about_mfa/organisation/departments/department_un_peace_humanitarian/hr_section.html?id=87007" class="structuredDataEmail">Section for Human Rights and Democracy </a>
+					</h3>
+					<p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/2f100e49736c0ef97c37f3018e8f404b.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, 'D8E6B9F7E4B4B1B9B5F5BDF8BCB6BD8BE6FFFFE5BDB4A1ACABF8FFB7B6F6B9BEB598B3BDABAAB5E2B7ACB4B1B9B5FFE5BEBDAAB0F8B9E4'));//--></script></p>
+					<p class="contactInfo">
+                        
+                            <span class="label">
+                        Telephone:
+                    </span>
+                            +47 23951488<br />
+                        
+                        
+                        
+                    </p>
+					
+					    <h3 class="noPadBtm">
+                        Address
+                    </h3>
+					    <div>
+	<p>Address <br />PO Box 8114 Dep. <br />N-0032 Oslo<br />Norway</p>
+<p>Street address:<br />7. juni-plassen/ Victoria Terrasse</p>
+</div>
+            </div>
+         
+</div>
 	</div>
 
-                                </div>
-                                <div id="AreaRight"> 
                                     
                                         
-                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/en/dep/ud.html?id=833'><img src="/upload/UD/Profilelementer/profil06mr.jpg" alt="Human rights" /></a></div>
+                                    
+
+                                    
+
+                                </div>
+                                <div id="AreaRight">
+                                    
+                                        
+                                            
+    <div class="DepProfile"><a href='/en/dep/ud.html?id=833' tabindex="61"><img src="/upload/UD/Profilelementer/profil06mr.jpg" alt="Human rights" /></a></div>
+
                                         
                                         
         <div class="Toolbox GlobalNavMain TemaSearch">
-            <div class="ToolboxContent GlobalNav" style=';'>
-                <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_Panel1">
+        
+            <div class="ToolboxContent GlobalNav">
+                <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_Panel1">
 	
                     <h2 class="GlobalNavSubheading"><label>
                     Search within topic
                 </label></h2>
                     <div class="searchtermtext"><h3>Human rights</h3></div>
-                    <input name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$searchText" type="text" id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_searchText" class="searchField" /> 
-                    <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ExecuteSearch" class="searchBut" />
+                    <input name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$searchText" type="text" id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_searchText" class="searchField" /> 
+                    <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ExecuteSearch" class="searchBut" />
                 
 </div>
              </div>
-         </div>
-    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divHeading" class="Toolbox GlobalNavMain">  
-    
-        <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divParents" class="ToolboxContent GlobalNav">  
-            <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2ParentSubjects" class="GlobalNavSubheading">
-                
+         
+     </div>
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divHeading" class="Toolbox GlobalNavMain">  
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divParents" class="ToolboxContent GlobalNav">  
+        <h2 id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2ParentSubjects" class="GlobalNavSubheading">
+            
                         Expand by topic
-                    
-            </h2>
-        <h3>Government.no</h3><ul><li><a href="/en/topics/International-relations.html?id=919" title="" class="ISI_MENU">International relations</a></li></ul></div>
-        <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divChildren" class="ToolboxContent GlobalNav">  
-            <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2ChildSubjects" class="GlobalNavSubheading">
-                
+                                
+        </h2>
+    <h3>Government.no</h3><ul><li><a href="/en/topics/international-relations.html?id=919" title="" class="ISI_MENU">International relations</a></li></ul></div>
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divChildren" class="ToolboxContent GlobalNav">  
+        <h2 id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2ChildSubjects" class="GlobalNavSubheading">
+            
                         Narrow by topic
+                                
+        </h2>
+    <h3>Ministry of Foreign Affairs</h3><ul><li><a href="/en/dep/ud/selected-topics/human-rights/human-rights-defenders.html?id=506850" title="" class="ISI_MENU">Human rights defenders</a></li><li><a href="/en/dep/ud/selected-topics/human-rights/death_penalty.html?id=697862" title="" class="ISI_MENU">International efforts to combat the death penalty</a></li><li><a href="/en/dep/ud/selected-topics/human-rights/norways-human-rights-dialogues.html?id=506849" title="" class="ISI_MENU">Norway’s human rights dialogues</a></li></ul></div>
+
+    
+</div>
+
+                                        
+                                        
+                                        
+                                            
+
+
+
+
+
+
+                                        
+                                        
+                                        
+                                        
+    
+
+                                        
+                                        
+                                        
+        
+        
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo" class="Toolbox" tabindex="66">
+    
+        <h2 class="ToolboxHeader">
+           
+                        Contact information
                     
-            </h2>
-        <h3>Ministry of Foreign Affairs</h3><ul><li><a href="/en/dep/ud/selected-topics/human-rights/Human-rights-defenders.html?id=506850" title="" class="ISI_MENU">Human rights defenders</a></li><li><a href="/en/dep/ud/selected-topics/human-rights/norways-human-rights-dialogues.html?id=506849" title="" class="ISI_MENU">Norway’s human rights dialogues</a></li></ul></div>
-
-        
-</div> 
-
-                                        
-                                                
-                                        
-        
-        
-
-                                                                        
-                                        
+        </h2>
     
-    
-      
+                 
+            <div class="ToolboxContent">
+					<h3 class="relatedContactHead">
+						 <a href="/en/dep/ud/about_mfa/organisation/departments/department_un_peace_humanitarian/hr_section.html?id=87007" class="structuredDataEmail">Section for Human Rights and Democracy </a>
+					</h3>
+					<p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/upload/system/emailimages/2f100e49736c0ef97c37f3018e8f404b.png' alt='' /><script type="text/javascript" id="Eos_2"><!--
+document.write(dc(2, 'FBC59AD4C797929A96D69EDB9F959EA8C5DCDCC69E97828F88DBDC9495D59A9D96BB909E888996C1948F97929A96DCC69D9E8993DB9AC7'));//--></script></p>
+					<p class="contactInfo">
+                        
+                            <span class="label">
+                        Telephone:
+                    </span>
+                            +47 23951488<br />
+                        
+                        
+                        
+                    </p>
+					
+					    <h3 class="noPadBtm">
+                        Address
+                    </h3>
+					    <div>
+	<p>Address <br />PO Box 8114 Dep. <br />N-0032 Oslo<br />Norway</p>
+<p>Street address:<br />7. juni-plassen/ Victoria Terrasse</p>
+</div>
+            </div>
+         
+</div>     
 
-                                                                                                   
-                                </div>
-                            
-                        </div>
-                        <div id="AreaLeft">
-                              
-                                <div id="AreaLeftNav" class="NavListV">
+                                        
                                     
-
-
-<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
-
-    <ul>
-        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/ud.html?id=833">
-            Ministry home</a></li></ul>
-
-<ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/Whats-new.html?id=834" title=''>
-            What's new</a>
-    </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/dep/ud/selected-topics.html?id=835" title=''>
-            Selected topics</a>
-    <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/development_cooperation.html?id=1159" title=''>
-            Development cooperation </a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/high-north.html?id=1154" title=''>
-            High North</a>
-    </li><li class="Selected">
-        <a class="Selected ISI_MENU" href="/en/dep/ud/selected-topics/human-rights.html?id=1160" title=''>
-            Human rights</a>
-    <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/human-rights/norways-human-rights-dialogues.html?id=506849" title=''>
-            Norway’s human rights dialogues</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/human-rights/Human-rights-defenders.html?id=506850" title=''>
-            Human rights defenders</a>
-    </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/humanitarian-efforts.html?id=434479" title=''>
-            Humanitarian efforts</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/civil--rights.html?id=430375" title=''>
-            International Law</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/peace-and-reconciliation-efforts.html?id=1158" title=''>
-            Peace and reconciliation efforts</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/public-diplomacy-and-cultural-cooperatio.html?id=434499" title=''>
-            Public diplomacy and cultural cooperation</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/security-policy.html?id=1111" title=''>
-            Security policy</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/Trade-policy.html?id=1161" title=''>
-            Trade policy</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/selected-topics/un.html?id=1149" title=''>
-            United Nations</a>
-    </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/press.html?id=836" title=''>
-            Press centre</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/Documents.html?id=272518" title=''>
-            Documents</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/about_mfa.html?id=838" title=''>
-            About the Ministry </a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/audio.html?id=839" title=''>
-            Sound and picture</a>
-    </li></ul>
-
                                 </div>
-                              
                             
                         </div>
+                    
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
                     
                     <!-- ISI_STOP -->
                 </div>
-                </div>
             </div>
         </div>
-        
-         
-<div id="PageFooter"><p align="center"><strong>E-mail:</strong> <img id='Eoi_1' class='obfimg' src='/images/emailimages/300c489c884621e83040d43b1739e745.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', '93ADF2BCAFE0E1FAF2F5F5D2B3FDF4FAF6E1FCD5B3F5FCB3EAE1E7E0FAFDFADEADB1FCFDBDF2F5FED3E7E0FCE3A9FCE7FFFAF2FEB1AEF5F6E1FBB3F2AF'));//--></script><br /><strong>Phone:</strong> 22 24 36 00 <strong>Fax:</strong> 22 24 95 80/81<br /><strong>Address:</strong> 7. juni-plassen/ Victoria Terrasse. PB 8114 Dep. N-0032 Oslo<br /><strong>Editor</strong>:&nbsp;<img id='Eoi_2' class='obfimg' src='/images/emailimages/5cb8b9cfa73c191b3c579e196e57b33f.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_2', 'CAF4ABE5F6A4AFB9A4A2AB80EAE499EAA4B832A088F4E8A5A4E4ABACA78AA0A8F0A5BEA6A3ABA7E8F7ACAFB8A2EAABF6'));//--></script>&nbsp;<strong>Web-editor:</strong> <img id='Eoi_3' class='obfimg' src='/images/emailimages/b36fb8443d3e8e4d5799839b77a933df.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_3', '271946081B49425449426D0709730749464F486D190548490946414A674D534D1D48534B4E464A051A4142554F07461B'));//--></script></p></div>
-        
-        
-        
-   
+    </div>
     
-
- 
+        
+<div id="PageFooter"><p><strong>E-mail:</strong> <img id='Eoi_3' class='obfimg' src='/upload/system/emailimages/a1aaa1841d968c309769ff4c0b50fc14.png' alt='' /><script type="text/javascript" id="Eos_3"><!--
+document.write(dc(3, '1C227D33206F6E757D7A7A5D3C727B75796E735A3C7A733C656E686F75727551223E7372327D7A715C686F736C26736870757D713E217A796E743C7D20'));//--></script><br /><strong>Phone:</strong> 23 95 00 00&nbsp; <strong>Fax:</strong> 23 95 00 99<br /><strong>Address:</strong> 7. juni-plassen/ Victoria Terrasse. PB 8114 Dep. N-0032 Oslo<br /><strong>Editor</strong>:&nbsp;<img id='Eoi_4' class='obfimg' src='/upload/system/emailimages/5bd9c50dd46d88efa380cb067530c82c.png' alt='' /><script type="text/javascript" id="Eos_4"><!--
+document.write(dc(4, 'D4EAB5FBE8BAB1A7A6B1B0BA95F4FA9BF4B1B0BBA692EAF6BBBAFAB5B2B994BAB1A0B1BCBAB1A7BABBBEA7B5BFBDBAA1B9B9BBBFEEBBA0B8BDB5B9F6E9B2B1A6BCF4B5E8'));//--></script>&nbsp;<strong>Web-editor:</strong> <img id='Eoi_5' class='obfimg' src='/upload/system/emailimages/40dcc8d567b445399248e0005d1aa94d.png' alt='' /><script type="text/javascript" id="Eos_5"><!--
+document.write(dc(5, '6F510E4053010A1C010A254F413B4F010E070025514D0001410E09022F051B0555001B03060E024D52090A1D074F0E53'));//--></script></p></div>
+<div title="web01" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web01" /></div>
     
+    
+    
+        
+
 
     
-
-<script type="text/javascript">
-//<![CDATA[
-var __wpmExportWarning='';var __wpmCloseProviderWarning='';var __wpmDeleteWarning='';//]]>
-</script>
-</form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
+    </form>
+    <div id="externalPageTrackers">
 	
-} else
-{    
-    //setAreaHeights();
-}
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
+</div>       
+    
+    
 
-<div id="ctl00_externalPageTrackers">
-	
-
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<div>
+    
 <script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no uses cookies to improve our service to the users. The cookies are mainly used for traffic measuring and for optimizing the site. Find more information on ",
+            messagepart2: ", or go back to regjeringen.no if you accept this.",
+            readMoreUrl: "http://www.regjeringen.no/en/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "use of cookies",
+            closeText: "Close"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
 //--></script>
-<!-- END Xtractor client tracker script -->
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
 
 </div>
+
+
+    
+
 </body>
 </html>

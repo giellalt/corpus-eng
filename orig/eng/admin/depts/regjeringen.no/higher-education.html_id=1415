@@ -1,17 +1,21 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
+    <!-- ISI_NOAUTOLANG -->
+    <title>
 	Higher Education - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="Higher Education" />
+<meta name="WT.ti" content="Higher Education" />
 <meta name="DCSext.regj.pagetype" content="Tema" />
-<meta name="DCSext.regj.pageid" content="1415" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
 <meta name="DCSext.regj.owner" content="kd" />
 <meta name="DCSext.regj.language" content="en-GB" />
+<meta name="DCSext.regj_lv2" content="dep" />
+<meta name="DCSext.regj_lv3" content="kd" />
+<meta name="DCSext.regj_lv4" content="Selected-topics" />
+<meta name="DCSext.regj_lv5" content="higher-education" />
+<meta name="DCSext.regj_g-page" content="1415-g-page" />
 <meta name="TITLE" content="Higher Education" />
 <meta name="description" content="Higher education is based on research and usually builds on three years’ completed and passed upper secondary education." />
 <meta name="KEYWORDS" content="Higher Education" />
@@ -24,9 +28,10 @@
 <meta name="DC.Type.Status" content="Gyldig" />
 <meta name="DC.Type" content="Tema" />
 <meta name="DC.Format" content="text/html" />
-<meta name="DC.Identifier.URL" content="/en/dep/kd/Selected-topics/Higher-Education.html?id=1415" />
+<meta name="DC.Identifier.URL" content="/en/dep/kd/Selected-topics/higher-education.html?id=1415" />
 <meta name="DC.Language" content="en-GB" />
 <meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DCSext.regj.lang-pref" content="en-GB" />
 <meta name="DC.Publisher" content="regjeringen.no" />
 <meta name="AUTHOR" content="Ministry of Education and Research" />
 <meta name="creation_date" content="Tue, 20 Nov 2007 12:53:00 GMT" />
@@ -36,83 +41,99 @@
 <meta http-equiv="Content-Language" content="en" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
-
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/kd.css" media="all" /> 
-
-
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
-
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
 
 
 
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+    <!-- default styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/default_styles_combined_45D29949909B2B10854E130AC37BCE3C.css" />
+    <!--[if lt IE 6]
+        <link rel="stylesheet" type="text/css" href="/styles/ie55.css?v=2.1.11776" media="screen">
+
+    <![endif]-->
+
+
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/3Col_AF432B5349630A9B3C4A0BDD3743237C.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+<link rel="stylesheet" type="text/css" media="all" href="/styles/Profiles/kd_AE3DD2BDCD944CA27CBD31112C12B2BF.css" />
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
+
+
+
+
+<link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web04.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=1415" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web04.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=1415" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en/dep/kd/Selected-topics/Higher-Education.html?id=1415" id="aspnetForm" enctype="multipart/form-data">
-<div>
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/en/dep/kd/Selected-topics/higher-education.html?id=1415" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
 <input type="hidden" name="__WPPS" id="__WPPS" value="s" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTU2Nzk5NDM4NQ9kFgJmD2QWCGYPFQICZW4CZW5kAgEQZGQWAgICD2QWBmYPFgIeBFRleHQFqw48bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlbmFtZSIgY29udGVudD0iSGlnaGVyIEVkdWNhdGlvbiIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2V0eXBlIiBjb250ZW50PSJUZW1hIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZWlkIiBjb250ZW50PSIxNDE1IiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oub3duZXIiIGNvbnRlbnQ9ImtkIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oubGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iVElUTEUiIGNvbnRlbnQ9IkhpZ2hlciBFZHVjYXRpb24iIC8+DQo8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iSGlnaGVyIGVkdWNhdGlvbiBpcyBiYXNlZCBvbiByZXNlYXJjaCBhbmQgdXN1YWxseSBidWlsZHMgb24gdGhyZWUgeWVhcnPigJkgY29tcGxldGVkIGFuZCBwYXNzZWQgdXBwZXIgc2Vjb25kYXJ5IGVkdWNhdGlvbi4iIC8+DQo8bWV0YSBuYW1lPSJLRVlXT1JEUyIgY29udGVudD0iSGlnaGVyIEVkdWNhdGlvbiIgLz4NCjxtZXRhIG5hbWU9IkRDLlRpdGxlIiBjb250ZW50PSJIaWdoZXIgRWR1Y2F0aW9uIiAvPg0KPG1ldGEgbmFtZT0iREMuQ3JlYXRvciIgY29udGVudD0iTWluaXN0cnkgb2YgRWR1Y2F0aW9uIGFuZCBSZXNlYXJjaCIgLz4NCjxtZXRhIG5hbWU9IkRDLlN1YmplY3QiIGNvbnRlbnQ9IkhpZ2hlciBFZHVjYXRpb24iIC8+DQo8bWV0YSBuYW1lPSJEQy5EZXNjcmlwdGlvbiIgY29udGVudD0iSGlnaGVyIGVkdWNhdGlvbiBpcyBiYXNlZCBvbiByZXNlYXJjaCBhbmQgdXN1YWxseSBidWlsZHMgb24gdGhyZWUgeWVhcnPigJkgY29tcGxldGVkIGFuZCBwYXNzZWQgdXBwZXIgc2Vjb25kYXJ5IGVkdWNhdGlvbi4iIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlIiBjb250ZW50PSIyMDA3LTExLTIwIiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZS5BdmFpbGFibGUiIGNvbnRlbnQ9IjIwMDctMTEtMjAiIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlLlN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZSIgY29udGVudD0iVGVtYSIgLz4NCjxtZXRhIG5hbWU9IkRDLkZvcm1hdCIgY29udGVudD0idGV4dC9odG1sIiAvPg0KPG1ldGEgbmFtZT0iREMuSWRlbnRpZmllci5VUkwiIGNvbnRlbnQ9Ii9lbi9kZXAva2QvU2VsZWN0ZWQtdG9waWNzL0hpZ2hlci1FZHVjYXRpb24uaHRtbD9pZD0xNDE1IiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UuUHJlZmVyZW5jZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJEQy5QdWJsaXNoZXIiIGNvbnRlbnQ9InJlZ2plcmluZ2VuLm5vIiAvPg0KPG1ldGEgbmFtZT0iQVVUSE9SIiBjb250ZW50PSJNaW5pc3RyeSBvZiBFZHVjYXRpb24gYW5kIFJlc2VhcmNoIiAvPg0KPG1ldGEgbmFtZT0iY3JlYXRpb25fZGF0ZSIgY29udGVudD0iVHVlLCAyMCBOb3YgMjAwNyAxMjo1MzowMCBHTVQiIC8+DQo8bWV0YSBuYW1lPSJMQVNULU1PRElGSUVEIiBjb250ZW50PSJUdWUsIDIwIE5vdiAyMDA3IDEyOjU4OjMwIEdNVCIgLz4NCjxtZXRhIG5hbWU9IlJFVklTRUQiIGNvbnRlbnQ9IlR1ZSwgMjAgTm92IDIwMDcgMTI6NTg6MzAgR01UIiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LUxhbmd1YWdlIiBjb250ZW50PSJlbiIgLz4NCmQCAQ8WAh4HVmlzaWJsZWhkAgIPFgIeC18hSXRlbUNvdW50ZmQCAxAWAh4GYWN0aW9uBTgvZW4vZGVwL2tkL1NlbGVjdGVkLXRvcGljcy9IaWdoZXItRWR1Y2F0aW9uLmh0bWw/aWQ9MTQxNWQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILD2QWAmYPFQFfI2N0bDAwX0Z1bGxSZWdpb25fQ2VudGVyQW5kUmlnaHRSZWdpb25fUmlnaHRSZWdpb25fUmlnaHRSZWdpb25Db250YWN0SW5mb19jdGwwMV9BcmVhQ29udGFjdEluZm9kAg0PZBYCZg9kFgJmD2QWAgIBD2QWCGYPDxYGHgdUb29sVGlwBS5LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkZW4gcMOlIGJva23DpWwuHwAFB0Jva23DpWweC05hdmlnYXRlVXJsBSsvdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xNDE1JmVwc2xhbmd1YWdlPW5vZGQCAQ8PFgYfBAVLRGVubmUgc2lkYSBmaW5zdCBpa2tqZSBww6Ugbnlub3Jzay4gS2xpa2sgaGVyIGZvciDDpSB2aXNlIG55bm9yc2sgcmFtbWV2ZXJrHwAFB055bm9yc2sfBQUrL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTQxNSZlcHNsYW5ndWFnZT1ubmRkAgIPDxYGHwQFNENvYWhra2FsIGTDoWtrbyBkZSBvYWlubsOhdCBkw6FuIHNpaWRkdSBzw6FtZWdpbGxpaS4fAAULU8OhbWVnaWVsbGEfBQUuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTQxNSZlcHNsYW5ndWFnZT1zZS1OT2RkAgMPDxYGHwQFIlRoaXMgcGFnZSBpcyBkaXNwbGF5ZWQgaW4gZW5nbGlzaC4fAAUHRW5nbGlzaB8FBS4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xNDE1JmVwc2xhbmd1YWdlPWVuLUdCZGQCAg8VAQEgZAIDD2QWDGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAIBDxUBC1BvcnRhbCBob21lZAICD2QWBGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAICDxUDOi90ZW1wbGF0ZXMvR2VuZXJlbGxGb3JzaWRlLmFzcHg/aWQ9ODU4NDMmZXBzbGFuZ3VhZ2U9ZW4tR0IcU3RvbHRlbmJlcmcncyAybmQgR292ZXJubWVudDIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTkzMyZlcHNsYW5ndWFnZT1lbi1HQmQCAw8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NTg2JmVwc2xhbmd1YWdlPWVuLUdCZAIEDxUBIk1pbmlzdHJ5IG9mIEVkdWNhdGlvbiBhbmQgUmVzZWFyY2hkAgYPZBYSZg9kFgRmD2QWAmYPZBYEAgIPFQQuU2VhcmNoIHRoZSBNaW5pc3RyeSBvZiBFZHVjYXRpb24gYW5kIFJlc2VhcmNoIAZTZWFyY2gRUXVpY2tTZWFyY2hCdXR0b24GU2VhcmNoZAIDDw8WAh8ABRtTZWFyY2ggYWxsIG9mIGdvdmVybm1lbnQubm9kZAIBDw8WAh4LX2lzRWRpdGFibGVoZGQCAQ8VAR4vc3R5bGVzL0ltYWdlcy9zeW1ib2xfdGlwcy5naWZkAgUPFQEhL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3ByaW50X3QuZ2lmZAIIDxUDIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9zbWFsbFRleHQuZ2lmJC9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9tZWRpdW1UZXh0LmdpZiMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbGFyZ2VUZXh0LmdpZmQCCQ9kFgJmDxUCjgFodHRwOi8vaXNpLnBob25ldGljb20uY29tL2NnaS1iaW4vcnN4dD91cmw9aHR0cDovL3d3dy5yZWdqZXJpbmdlbi5uby9lbi9kZXAva2QvU2VsZWN0ZWQtdG9waWNzL0hpZ2hlci1FZHVjYXRpb24uaHRtbD9pZD0xNDE1JmFtcDtjdXN0b21lcmlkPTE5Hy9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9seWRfdC5naWZkAgoPZBYCAgEPDxYEHwUFNi90ZW1wbGF0ZXMvVGVtYUluZGVrcy5hc3B4P2lkPTIyMzQ4NiZlcHNsYW5ndWFnZT1lbi1HQh8ABQpUb3BpY3MgQS1aZGQCCw9kFgICAQ8PFgQfBQU5L3RlbXBsYXRlcy9OZXR0c3RlZHNrYXJ0LmFzcHg/aWQ9MzEzODU1JmVwc2xhbmd1YWdlPWVuLUdCHwAFCFNpdGUgTWFwZGQCDA8PFgQfBQU1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00ODg2NDEmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUESGVscGRkAg0PDxYEHwUFPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01OTQmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUHQ29udGFjdGRkAgQPZBYEAgEPZBYGAgEPZBYCAgEPZBYEZg8PFgIfAWhkZAIBD2QWEAIDDw8WAh8ABR1SZWNpcGllbnTigJlzIGUtbWFpbCBhZGRyZXNzOmRkAgcPDxYCHgxFcnJvck1lc3NhZ2UFJVlvdSBtdXN0IGdpdmUgYSB2YWxpZCBlLW1haWwgYWRkcmVzcy5kZAIJDw8WAh8HBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCCw8PFgIfAAUUWW91ciBlLW1haWwgYWRkcmVzczpkZAIPDw8WAh8HBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCEQ8PFgIfBwUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAhMPDxYCHwAFCE1lc3NhZ2U6ZGQCFw8PFgIfAAUJU2VuZCBtYWlsZGQCAw9kFhgCAQ8WBh4aRXhwb3J0U2Vuc2l0aXZlRGF0YVdhcm5pbmdlHhRDbG9zZVByb3ZpZGVyV2FybmluZ2UeDURlbGV0ZVdhcm5pbmdlFgoFC3dwNTM2MTU1NzI4D2QWAmYPZBYGAgIPFQJeL2VuL2RlcC9rZC9TZWxlY3RlZC10b3BpY3MvSGlnaGVyLUVkdWNhdGlvbi9EZWdyZWUtc3RydWN0dXJlLWFuZC1ncmFkaW5nLXN5c3RlbS5odG1sP2lkPTQ5MTI4NyNEZWdyZWUgc3RydWN0dXJlIGFuZCBncmFkaW5nIHN5c3RlbWQCBA8VAl4vZW4vZGVwL2tkL1NlbGVjdGVkLXRvcGljcy9IaWdoZXItRWR1Y2F0aW9uL0RlZ3JlZS1zdHJ1Y3R1cmUtYW5kLWdyYWRpbmctc3lzdGVtLmh0bWw/aWQ9NDkxMjg3CVJlYWQgbW9yZWQCBQ8VAl4vZW4vZGVwL2tkL1NlbGVjdGVkLXRvcGljcy9IaWdoZXItRWR1Y2F0aW9uL0RlZ3JlZS1zdHJ1Y3R1cmUtYW5kLWdyYWRpbmctc3lzdGVtLmh0bWw/aWQ9NDkxMjg3I0RlZ3JlZSBzdHJ1Y3R1cmUgYW5kIGdyYWRpbmcgc3lzdGVtZAULd3A3MTgxNjUxNDEPZBYCZg9kFgYCAg8VAmMvZW4vZGVwL2tkL1NlbGVjdGVkLXRvcGljcy9IaWdoZXItRWR1Y2F0aW9uL3VuaXZlcnNpdGllcy1hbmQtc3BlY2lhbGlzZWQtaW5zdGl0dXRpb24uaHRtbD9pZD00OTEyODgkVW5pdmVyc2l0aWVzIGFuZCBVbml2ZXJzaXR5IENvbGxlZ2VzZAIEDxUCYy9lbi9kZXAva2QvU2VsZWN0ZWQtdG9waWNzL0hpZ2hlci1FZHVjYXRpb24vdW5pdmVyc2l0aWVzLWFuZC1zcGVjaWFsaXNlZC1pbnN0aXR1dGlvbi5odG1sP2lkPTQ5MTI4OAlSZWFkIG1vcmVkAgUPFQJjL2VuL2RlcC9rZC9TZWxlY3RlZC10b3BpY3MvSGlnaGVyLUVkdWNhdGlvbi91bml2ZXJzaXRpZXMtYW5kLXNwZWNpYWxpc2VkLWluc3RpdHV0aW9uLmh0bWw/aWQ9NDkxMjg4JFVuaXZlcnNpdGllcyBhbmQgVW5pdmVyc2l0eSBDb2xsZWdlc2QFC3dwMzM0MTI0Njc2D2QWAmYPZBYGAgIPFQJAL2VuL2RlcC9rZC9TZWxlY3RlZC10b3BpY3MvSGlnaGVyLUVkdWNhdGlvbi9OT0tVVC5odG1sP2lkPTQ5MTI5Mh5RdWFsaXR5IEFzc3VyYW5jZSBpbiBFZHVjYXRpb25kAgQPFQJAL2VuL2RlcC9rZC9TZWxlY3RlZC10b3BpY3MvSGlnaGVyLUVkdWNhdGlvbi9OT0tVVC5odG1sP2lkPTQ5MTI5MglSZWFkIG1vcmVkAgUPFQJAL2VuL2RlcC9rZC9TZWxlY3RlZC10b3BpY3MvSGlnaGVyLUVkdWNhdGlvbi9OT0tVVC5odG1sP2lkPTQ5MTI5Mh5RdWFsaXR5IEFzc3VyYW5jZSBpbiBFZHVjYXRpb25kBQl3cDYxNTEwODQPZBYCZg9kFgYCAg8VAmMvZW4vZGVwL2tkL1NlbGVjdGVkLXRvcGljcy9IaWdoZXItRWR1Y2F0aW9uL1RoZS1Ob3J3ZWdpYW4tQ2VudHJlLWZvci1JbnRlcm5hdGlvbmFsLUMuaHRtbD9pZD00OTEyOTMtSW50ZXJuYXRpb25hbCBDb29wZXJhdGlvbiBpbiBIaWdoZXIgRWR1Y2F0aW9uZAIEDxUCYy9lbi9kZXAva2QvU2VsZWN0ZWQtdG9waWNzL0hpZ2hlci1FZHVjYXRpb24vVGhlLU5vcndlZ2lhbi1DZW50cmUtZm9yLUludGVybmF0aW9uYWwtQy5odG1sP2lkPTQ5MTI5MwlSZWFkIG1vcmVkAgUPFQJjL2VuL2RlcC9rZC9TZWxlY3RlZC10b3BpY3MvSGlnaGVyLUVkdWNhdGlvbi9UaGUtTm9yd2VnaWFuLUNlbnRyZS1mb3ItSW50ZXJuYXRpb25hbC1DLmh0bWw/aWQ9NDkxMjkzLUludGVybmF0aW9uYWwgQ29vcGVyYXRpb24gaW4gSGlnaGVyIEVkdWNhdGlvbmQFDHdwMTUzNTAwNDYxNA9kFgJmD2QWBGYPFgQeCWlubmVyaHRtbAU0TGF0ZXN0IG5ld3MgYW5kIHB1YmxpY2F0aW9ucyBhYm91dCBoaWdoZXIgZWR1Y2F0aW9uOh8BZ2QCAQ9kFgJmDxYCHgpfc29ydE9yZGVyCylzRVBpU2VydmVyLkZpbHRlcnMuRmlsdGVyU29ydE9yZGVyLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwAWFGYPZBYQAgEPFgQeBGhyZWYFOi90ZW1wbGF0ZXMvVGFsZW9nQXJ0aWtrZWwuYXNweD9pZD02MTQxNTAmZXBzbGFuZ3VhZ2U9ZW4tR0IfAWgWAgIBDw8WBh8GaB4OX2JvdW5kUGFnZUxpbmsChr4lHglfbGFzdFR5cGUFB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATI6L3RlbXBsYXRlcy9UYWxlb2dBcnRpa2tlbC5hc3B4P2lkPTYxNDE1MCZlcHNsYW5ndWFnZT1lbi1HQgAxRWR1Y2F0aW9uIGFuZCByZXNlYXJjaCDigJMgQSBmb3VuZGF0aW9uIGluIEFsdW1uaQEyATMMZGlzcGxheTpub25lAAEzWzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W1NwZWVjaC9hcnRpY2xlLCBNaW5pc3RyeSBvZiBFZHVjYXRpb24gYW5kIFJlc2VhcmNoLCAxMy4wOS4yMDEwXTwvcD5kAgMPZBYCZg8PFgYfBmgfDgKGviUfDwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwZoHw4Chr4lHw8FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8NZB8BaBYEAgEPDxYCHg1fbGFuZ3VhZ2VUZXh0BTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua190YWxlL2FydGlra2VsZGQCAg8VAQBkAgkPFgQfDWQfAWgWAgIBDw8WAh8QBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfdGFsZS9hcnRpa2tlbGRkAgsPZBYCZg8VAQBkAgEPZBYQAgEPFgIfDQUxL3RlbXBsYXRlcy9OeWhldC5hc3B4P2lkPTYxNDE0OCZlcHNsYW5ndWFnZT1lbi1HQhYCAgEPDxYGHwZoHw4ChL4lHw8FB0RlZmF1bHRkFgJmD2QWAmYPFgIeCGRpc2FibGVkZGQCAg8VCxFBcnRpY2xlSW1nQ29udGVudAEyMS90ZW1wbGF0ZXMvTnloZXQuYXNweD9pZD02MTQxNDgmZXBzbGFuZ3VhZ2U9ZW4tR0IANkFsdW1uaSBuZXR3b3JrIGZvciBmb3JtZXIgc3R1ZGVudHMgZnJvbSBDaGluYSBsYXVuY2hlZAEyATMMZGlzcGxheTpub25lAAEzVzxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W05ld3Mgc3RvcnksIE1pbmlzdHJ5IG9mIEVkdWNhdGlvbiBhbmQgUmVzZWFyY2gsIDEzLjA5LjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8GaB8OAoS+JR8PBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBmgfDgKEviUfDwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHw1kHwFoFgQCAQ8PFgIfEAUyL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfbnloZXRkZAICDxUBAGQCCQ8WBB8NZB8BaBYCAgEPDxYCHxAFNi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19ueWhldGRkAgsPZBYCZg8VAQBkAgIPZBYQAgEPFgIfDQU5L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NjAxOTU5JmVwc2xhbmd1YWdlPWVuLUdCFgICAQ8PFgYfBmgfDgLn3iQfDwUHRGVmYXVsdGQWAmYPZBYCZg8WAh8RZGQCAg8VCxFBcnRpY2xlSW1nQ29udGVudAEyOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTYwMTk1OSZlcHNsYW5ndWFnZT1lbi1HQgAlQWdyZWVtZW50cyBvbiBjb29wZXJhdGlvbiB3aXRoIFJ1c3NpYQEyATMMZGlzcGxheTpub25lAAEzWjxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W1ByZXNzIHJlbGVhc2UsIE1pbmlzdHJ5IG9mIEVkdWNhdGlvbiBhbmQgUmVzZWFyY2gsIDI3LjA0LjIwMTBdPC9wPmQCAw9kFgJmDw8WBh8GaB8OAufeJB8PBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBmgfDgLn3iQfDwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHw1kHwFoFgQCAQ8PFgIfEAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcHJlc3NlbWVsZGluZ2RkAgIPFQEAZAIJDxYEHw1kHwFoFgICAQ8PFgIfEAU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3ByZXNzZW1lbGRpbmdkZAILD2QWAmYPFQEAZAIDD2QWEAIBDxYEHw0FLS90ZW1wbGF0ZXMvUGxhbi5hc3B4P2lkPTU4NzMwMiZlcHNsYW5ndWFnZT1lbh8BaBYCAgEPDxYGHwZoHw4CpuwjHw8FB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATItL3RlbXBsYXRlcy9QbGFuLmFzcHg/aWQ9NTg3MzAyJmVwc2xhbmd1YWdlPWVuABdDdXJyaWN1bHVtIHJlZ3VsYXRpb25zIAEyATMMZGlzcGxheTpub25lAAEzUTxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W1BsYW4sIE1pbmlzdHJ5IG9mIEVkdWNhdGlvbiBhbmQgUmVzZWFyY2gsIDI2LjExLjIwMDldPC9wPmQCAw9kFgJmDw8WBh8GaB8OAqbsIx8PBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBmgfDgKm7CMfDwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHw1kHwFoFgQCAQ8PFgIfEAUxL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcGxhbmRkAgIPFQEAZAIJDxYEHw1kHwFoFgICAQ8PFgIfEAU1L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3BsYW5kZAILD2QWAmYPFQEAZAIED2QWEAIBDxYCHw0FMS90ZW1wbGF0ZXMvTnloZXQuYXNweD9pZD01ODU1NTcmZXBzbGFuZ3VhZ2U9ZW4tR0IWAgIBDw8WBh8GaB8OAtXeIx8PBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHxFkZAICDxULEUFydGljbGVJbWdDb250ZW50ATIxL3RlbXBsYXRlcy9OeWhldC5hc3B4P2lkPTU4NTU1NyZlcHNsYW5ndWFnZT1lbi1HQgBHQ3VsdHVyYWwgb3IgYWNhZGVtaWMgYm95Y290dCBvZiBJc3JhZWxpOiAtIE5vdCBwYXJ0IG9mIE5vcndlZ2lhbiBQb2xpY3kBMgEzDGRpc3BsYXk6bm9uZQABM1c8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltOZXdzIHN0b3J5LCBNaW5pc3RyeSBvZiBFZHVjYXRpb24gYW5kIFJlc2VhcmNoLCAxMS4xMS4yMDA5XTwvcD5kAgMPZBYCZg8PFgYfBmgfDgLV3iMfDwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwZoHw4C1d4jHw8FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8NZB8BaBYEAgEPDxYCHxAFMi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX255aGV0ZGQCAg8VAQBkAgkPFgQfDWQfAWgWAgIBDw8WAh8QBTYvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfbnloZXRkZAILD2QWAmYPFQEAZAIFD2QWEAIBDxYCHw0FLS90ZW1wbGF0ZXMvUGxhbi5hc3B4P2lkPTU3NTAwNSZlcHNsYW5ndWFnZT1lbhYCAgEPDxYGHwZoHw4CnYwjHw8FB0RlZmF1bHRkFgJmD2QWAmYPFgIfEWRkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMi0vdGVtcGxhdGVzL1BsYW4uYXNweD9pZD01NzUwMDUmZXBzbGFuZ3VhZ2U9ZW4AKkVudHJlcHJlbmV1cnNoaXAgaW4gRWR1Y2F0aW9uIGFuZCBUcmFpbmluZwEyATMMZGlzcGxheTpub25lOuKAkyBmcm9tIGNvbXB1bHNvcnkgc2Nob29sIHRvIGhpZ2hlciBlZHVjYXRpb24gMjAwOeKAkzIwMTQBM1E8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltQbGFuLCBNaW5pc3RyeSBvZiBFZHVjYXRpb24gYW5kIFJlc2VhcmNoLCAwMi4wOS4yMDA5XTwvcD5kAgMPZBYCZg8PFgYfBmgfDgKdjCMfDwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwZoHw4CnYwjHw8FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8NZB8BaBYEAgEPDxYCHxAFMS90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3BsYW5kZAICDxUBAGQCCQ8WBB8NZB8BaBYCAgEPDxYCHxAFNS90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19wbGFuZGQCCw9kFgJmDxUBAGQCBg9kFhACAQ8WBB8NBUAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTcxMjg1JmVwc2xhbmd1YWdlPWVuLUdCHwFoFgICAQ8PFgYfBmgfDgKV7yIfDwUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMkAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTcxMjg1JmVwc2xhbmd1YWdlPWVuLUdCACNHZW5kZXIgRXF1YWxpdHkgaW4gSGlnaGVyIEVkdWNhdGlvbgEyATMMZGlzcGxheTpub25lAAEzXjxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W0VkaXRvcmlhbCBhcnRpY2xlLCBNaW5pc3RyeSBvZiBFZHVjYXRpb24gYW5kIFJlc2VhcmNoLCAxNS4wNy4yMDA5XTwvcD5kAgMPZBYCZg8PFgYfBmgfDgKV7yIfDwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwZoHw4Cle8iHw8FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8NZB8BaBYEAgEPDxYCHxAFQi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3JlZGFrc2pvbmVsbF9hcnRpa2tlbGRkAgIPFQEAZAIJDxYEHw1kHwFoFgICAQ8PFgIfEAVGL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3JlZGFrc2pvbmVsbCBhcnRpa2tlbGRkAgsPZBYCZg8VAQBkAgcPZBYQAgEPFgIfDQU5L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NTYxOTcwJmVwc2xhbmd1YWdlPWVuLUdCFgICAQ8PFgYfBmgfDgKypiIfDwUHRGVmYXVsdGQWAmYPZBYCZg8WAh8RZGQCAg8VCxFBcnRpY2xlSW1nQ29udGVudAEyOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTU2MTk3MCZlcHNsYW5ndWFnZT1lbi1HQgArMzgwMCBuZXcgc3R1ZGVudCBwbGFjZXMgaW4gaGlnaGVyIGVkdWNhdGlvbgEyATMMZGlzcGxheTpub25lAAEzWjxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W1ByZXNzIHJlbGVhc2UsIE1pbmlzdHJ5IG9mIEVkdWNhdGlvbiBhbmQgUmVzZWFyY2gsIDE1LjA1LjIwMDldPC9wPmQCAw9kFgJmDw8WBh8GaB8OArKmIh8PBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBmgfDgKypiIfDwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHw1kHwFoFgQCAQ8PFgIfEAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfcHJlc3NlbWVsZGluZ2RkAgIPFQEAZAIJDxYEHw1kHwFoFgICAQ8PFgIfEAU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3ByZXNzZW1lbGRpbmdkZAILD2QWAmYPFQEAZAIID2QWEAIBDxYCHw0FQC90ZW1wbGF0ZXMvQnJvc2p5cmVPZ1ZlaWxlZG5pbmcuYXNweD9pZD01NDYyMjAmZXBzbGFuZ3VhZ2U9ZW4tR0IWAgIBDw8WBh8GaB8OAqyrIR8PBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHxFkZAICDxULEUFydGljbGVJbWdDb250ZW50ATJAL3RlbXBsYXRlcy9Ccm9zanlyZU9nVmVpbGVkbmluZy5hc3B4P2lkPTU0NjIyMCZlcHNsYW5ndWFnZT1lbi1HQgA7RmFjdHNoZWV0OiBXaGl0ZSBwYXBlciBvbiBpbnRlcm5hdGlvbmFsaXNhdGlvbiBvZiBlZHVjYXRpb24BMgEzDGRpc3BsYXk6bm9uZQABM2U8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltHdWlkZWxpbmVzIGFuZCBicm9jaHVyZXMsIE1pbmlzdHJ5IG9mIEVkdWNhdGlvbiBhbmQgUmVzZWFyY2gsIDEzLjAyLjIwMDldPC9wPmQCAw9kFgJmDw8WBh8GaB8OAqyrIR8PBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBmgfDgKsqyEfDwUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHw1kHwFoFgQCAQ8PFgIfEAVAL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfYnJvc2p5cmUvdmVpbGVkbmluZ2RkAgIPFQEAZAIJDxYEHw1kHwFoFgICAQ8PFgIfEAVEL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX2Jyb3NqeXJlL3ZlaWxlZG5pbmdkZAILD2QWAmYPFQEAZAIJD2QWEAIBDxYCHw0FQC90ZW1wbGF0ZXMvQnJvc2p5cmVPZ1ZlaWxlZG5pbmcuYXNweD9pZD01NDUwNzUmZXBzbGFuZ3VhZ2U9ZW4tR0IWAgIBDw8WBh8GaB8OArOiIR8PBQdEZWZhdWx0ZBYCZg9kFgJmDxYCHxFkZAICDxULEUFydGljbGVJbWdDb250ZW50ATJAL3RlbXBsYXRlcy9Ccm9zanlyZU9nVmVpbGVkbmluZy5hc3B4P2lkPTU0NTA3NSZlcHNsYW5ndWFnZT1lbi1HQgArRmFjdHNoZWV0OiBXaGl0ZSBQYXBlciBvbiBUZWFjaGVyIEVkdWNhdGlvbgEyATMMZGlzcGxheTpub25lAAEzZTxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W0d1aWRlbGluZXMgYW5kIGJyb2NodXJlcywgTWluaXN0cnkgb2YgRWR1Y2F0aW9uIGFuZCBSZXNlYXJjaCwgMDYuMDIuMjAwOV08L3A+ZAIDD2QWAmYPDxYGHwZoHw4Cs6IhHw8FB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8GaB8OArOiIR8PBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDWQfAWgWBAIBDw8WAh8QBUAvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19icm9zanlyZS92ZWlsZWRuaW5nZGQCAg8VAQBkAgkPFgQfDWQfAWgWAgIBDw8WAh8QBUQvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfYnJvc2p5cmUvdmVpbGVkbmluZ2RkAgsPZBYCZg8VAQBkAgIPZBYCZg8WAh8ABbICWW91IGFyZSBoZXJlOiA8YSBocmVmPSIvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkdvdmVybm1lbnQubm88L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTU4NiZlcHNsYW5ndWFnZT1lbi1HQiI+TWluaXN0cnkgb2YgRWR1Y2F0aW9uIGFuZCBSLi4uPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnRUZW1hRm9yc2lkZS5hc3B4P2lkPTU4OCZlcHNsYW5ndWFnZT1lbi1HQiI+U2VsZWN0ZWQgVG9waWNzPC9hPiAvIDxzcGFuPkhpZ2hlciBFZHVjYXRpb248L3NwYW4+ZAIDD2QWBgIBDxUBB1N0YXR1czpkAgIPFgIfAWgWAmYPFQE4DQogICAgICAgICAgICAgICAgICAgICAgICBBcmNoaXZlZA0KICAgICAgICAgICAgICAgICAgICBkAgQPFgIfAWgWAmYPFQE4DQogICAgICAgICAgICAgICAgICAgICAgICBSZXBsYWNlZA0KICAgICAgICAgICAgICAgICAgICBkAgQPFQEQSGlnaGVyIEVkdWNhdGlvbmQCBQ8PFgQfBmgfDwUHRGVmYXVsdGQWAmYPZBYCZg8WAh8RZGQCBg9kFgJmDw8WBB8GaB8PBQdEZWZhdWx0ZGQCBw8PFgQfBmgfDwUHRGVmYXVsdGQWAmYPZBYCZg8WAh8RZGQCCA8WAh4FY2xhc3MFD2Rlc2NyaXB0aW9uVGV4dBYCZg8PFgQfBmgfDwUHRGVmYXVsdGRkAgkPZBYCAgYPZBYKAgEPZBYEAgMPDxYCHwBlZGQCBw8PFgIfAGVkZAIDD2QWAgIBD2QWCgIRDw8WAh8HBUMNCiAgICAgICAgICAgICAgICAgICAgICAgIEUtbWFpbCBpcyBtYW5kYXRvcnkNCiAgICAgICAgICAgICAgICAgICAgZGQCEw8PFgIfBwVFDQogICAgICAgICAgICAgICAgICAgICAgICBJbnZhbGlkIGUtbWFpbCBmb3JtYXQNCiAgICAgICAgICAgICAgICAgICAgZGQCFQ9kFgICAw8QDxYCHgtfIURhdGFCb3VuZGdkZBYAZAIXDw8WAh8ABQhDb250aW51ZWRkAhkPDxYCHwAFBkNhbmNlbGRkAgQPZBYCAgMPDxYCHwAFCENvbnRpbnVlZGQCBQ9kFgQCBw8PFgIfAAUTQ2FuY2VsIHN1YnNjcmlwdGlvbmRkAgkPDxYCHwAFFUNvbnRpbnVlIHN1YnNjcmlwdGlvbmRkAgYPZBYCAgMPDxYCHwAFCENvbnRpbnVlZGQCCg8WAh8BaBYCAgEPDxYEHwZoHw8FB0RlZmF1bHRkZAILD2QWAgIBDzwrABIEBBYEHwAFBkRlbGV0ZR4LRGVzY3JpcHRpb24FDERlbGV0ZSAnezB9JwUWBB8ABQRFZGl0HxQFCkVkaXQgJ3swfScHFgQfAAUITWluaW1pemUfFAUOTWluaW1pemUgJ3swfScIFgQfAAUHUmVzdG9yZR8UBQ1SZXN0b3JlICd7MH0nZAIMD2QWAmYPFgIfAWcWAgIDD2QWAmYPZBYOAgEPZBYCZg8VAjIvdGVtcGxhdGVzL0F2ZGVsaW5nLmFzcHg/aWQ9MTU1MCZlcHNsYW5ndWFnZT1lbi1HQh5EZXBhcnRtZW50IG9mIEhpZ2hlciBFZHVjYXRpb25kAgIPFQIbbWFpbHRvOnBvc3Rtb3R0YWtAa2QuZGVwLm5vAGQCBQ8WAh8BaBYEZg9kFgJmDw8WAh8BaGRkAgEPZBYCZg8VAQBkAgcPFgIfAWgWBGYPZBYCZg8PFgIfAWhkZAIBD2QWAmYPFQEAZAIJDxYCHwFoFgRmD2QWAmYPDxYCHwFoZGQCAQ9kFgJmDxUBAGQCCw8WAh8BaBYCAgEPDxYCHwFoZGQCDQ8PFggfBmgfDgKODB8PBQdEZWZhdWx0HwFoZGQCBQ9kFggCAQ9kFgICAQ9kFgJmDxYCHxIFCkRlcFByb2ZpbGUWAmYPFQE0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTU4NiZlcHNsYW5ndWFnZT1lbi1HQmQCAw9kFgZmDxUBAGQCAQ9kFgRmDxUCOw0KICAgICAgICAgICAgICAgICAgICBTZWFyY2ggd2l0aGluIHRvcGljDQogICAgICAgICAgICAgICAgEEhpZ2hlciBFZHVjYXRpb25kAgMPDxYCHwAFBlNlYXJjaGRkAgMPZBYCZg9kFgQCAQ8WAh8BZ2QCBQ8WAh8BZ2QCCQ9kFgICAQ8UKwASPCsACQEADxYCHwFoZGRkZBYEHwAFBkRlbGV0ZR8UBQxEZWxldGUgJ3swfScWBB8ABQRFZGl0HxQFCkVkaXQgJ3swfSdkFgQfAAUITWluaW1pemUfFAUOTWluaW1pemUgJ3swfScWBB8ABQdSZXN0b3JlHxQFDVJlc3RvcmUgJ3swfSdkZGRkZGRkZGRkAg0PZBYGAgEPZBYCZg9kFgICAQ9kFgRmD2QWAgIBD2QWAmYPFQFJDQogICAgICAgICAgICAgICAgICAgICAgICBBc3NvY2lhdGVkIGxhdy9yZWd1bGF0aW9uDQogICAgICAgICAgICAgICAgICAgIGQCAQ9kFgJmDxUDNS90ZW1wbGF0ZXMvUmVnZWx2ZXJrLmFzcHg/aWQ9MjEzMzA3JmVwc2xhbmd1YWdlPWVuLUdCOExvdjpBY3QgcmVsYXRpbmcgdG8gdW5pdmVyc2l0aWVzIGFuZCB1bml2ZXJzaXR5IGNvbGxlZ2VzNEFjdCByZWxhdGluZyB0byB1bml2ZXJzaXRpZXMgYW5kIHVuaXZlcnNpdHkgY29sbGVnZXNkAgMPZBYCZg9kFgICAQ9kFgxmD2QWAmYPFQEYUmVzcG9uc2libGUgb3JnYW5pemF0aW9uZAIBD2QWAmYPFQI9L3RlbXBsYXRlcy9Fa3N0ZXJuVmlya3NvbWhldC5hc3B4P2lkPTQyNjU2OCZlcHNsYW5ndWFnZT1lbi1HQjNOb3J3ZWdpYW4gQWdlbmN5IGZvciBRdWFsaXR5IEFzc3VyYW5jZSBpbiBFZHVjYXRpb25kAgIPZBYCZg8VAj0vdGVtcGxhdGVzL0Vrc3Rlcm5WaXJrc29taGV0LmFzcHg/aWQ9NDI2NTcyJmVwc2xhbmd1YWdlPWVuLUdCRlRoZSBOb3J3ZWdpYW4gQ2VudHJlIGZvciBJbnRlcm5hdGlvbmFsIENvb3BlcmF0aW9uIGluIEhpZ2hlciBFZHVjYXRpb25kAgMPZBYCZg8VAj0vdGVtcGxhdGVzL0Vrc3Rlcm5WaXJrc29taGV0LmFzcHg/aWQ9NDI2NTYyJmVwc2xhbmd1YWdlPWVuLUdCKlRoZSBOb3J3ZWdpYW4gU3RhdGUgRWR1Y2F0aW9uYWwgTG9hbiBGdW5kIGQCBA9kFgJmDxUCPS90ZW1wbGF0ZXMvRWtzdGVyblZpcmtzb21oZXQuYXNweD9pZD00MjY1NjUmZXBzbGFuZ3VhZ2U9ZW4tR0I5VGhlIE5vcndlZ2lhbiBVbml2ZXJzaXRpZXMgYW5kIENvbGxlZ2VzIEFkbWlzc2lvbiBTZXJ2aWNlZAIFD2QWAmYPFQI9L3RlbXBsYXRlcy9Fa3N0ZXJuVmlya3NvbWhldC5hc3B4P2lkPTQzNDUwNSZlcHNsYW5ndWFnZT1lbi1HQiRVbml2ZXJzaXRpZXMgYW5kIFVuaXZlcnNpdHkgQ29sbGVnZXNkAgUPZBYCZg8WAh8BZxYCAgMPZBYCZg9kFg4CAQ9kFgJmDxUCMi90ZW1wbGF0ZXMvQXZkZWxpbmcuYXNweD9pZD0xNTUwJmVwc2xhbmd1YWdlPWVuLUdCHkRlcGFydG1lbnQgb2YgSGlnaGVyIEVkdWNhdGlvbmQCAg8VAhttYWlsdG86cG9zdG1vdHRha0BrZC5kZXAubm8AZAIFDxYCHwFoFgRmD2QWAmYPDxYCHwFoZGQCAQ9kFgJmDxUBAGQCBw8WAh8BaBYEZg9kFgJmDw8WAh8BaGRkAgEPZBYCZg8VAQBkAgkPFgIfAWgWBGYPZBYCZg8PFgIfAWhkZAIBD2QWAmYPFQEAZAILDxYCHwFoFgICAQ8PFgIfAWhkZAINDw8WCB8GaB8OAo4MHw8FB0RlZmF1bHQfAWhkZAIDD2QWAgIBD2QWBAIBD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTU4NiZlcHNsYW5ndWFnZT1lbi1HQg1NaW5pc3RyeSBob21lZAIDDxYGHglfUGFnZUxpbmsoKW5FUGlTZXJ2ZXIuQ29yZS5QYWdlUmVmZXJlbmNlLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwM1ODYeD19OdW1iZXJPZkxldmVscwIKHgpfRXhwYW5kQWxsaBY8AgEPZBYCZg8VAQBkAgIPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9NTg3JmVwc2xhbmd1YWdlPWVuLUdCAApXaGF0J3MgbmV3ZAIED2QWAmYPFQEIU2VsZWN0ZWRkAgUPZBYCZg8VBAA/L3RlbXBsYXRlcy9EZXBhcnRlbWVudFRlbWFGb3JzaWRlLmFzcHg/aWQ9NTg4JmVwc2xhbmd1YWdlPWVuLUdCAA9TZWxlY3RlZCBUb3BpY3NkAgcPZBYCZg8VAQBkAggPZBYCZg8VAy4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xNDIyJmVwc2xhbmd1YWdlPWVuLUdCABRFZHVjYXRpb25hbCBzdXBwb3J0IGQCCg9kFgJmDxUBAGQCCw9kFgJmDxUDMC90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTQ4NjY2OSZlcHNsYW5ndWFnZT1lbi1HQgAQR2VuZGVyIEVxdWFsaXR5IGQCDQ9kFgJmDxUBCFNlbGVjdGVkZAIOD2QWAmYPFQMuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTQxNSZlcHNsYW5ndWFnZT1lbi1HQgAQSGlnaGVyIEVkdWNhdGlvbmQCEA9kFgJmDxUBAGQCEQ9kFgJmDxUDLi90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTExOTImZXBzbGFuZ3VhZ2U9ZW4tR0IANUludGVybmF0aW9uYWwgQ29sbGFib3JhdGlvbiBvbiBFZHVjYXRpb24gYW5kIFJlc2VhcmNoZAITD2QWAmYPFQEAZAIUD2QWAmYPFQMuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTAyOSZlcHNsYW5ndWFnZT1lbi1HQgAMS2luZGVyZ2FydGVuZAIWD2QWAmYPFQEAZAIXD2QWAmYPFQMuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTQwOCZlcHNsYW5ndWFnZT1lbi1HQgAlUHJpbWFyeSBhbmQgTG93ZXIgU2Vjb25kYXJ5IEVkdWNhdGlvbmQCGQ9kFgJmDxUBAGQCGg9kFgJmDxUDLi90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTE0MjcmZXBzbGFuZ3VhZ2U9ZW4tR0IACFJlc2VhcmNoZAIcD2QWAmYPFQEAZAIdD2QWAmYPFQMvL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9ODcxMDMmZXBzbGFuZ3VhZ2U9ZW4tR0IAHlRlcnRpYXJ5IFZvY2F0aW9uYWwgRWR1Y2F0aW9uIGQCHw9kFgJmDxUBAGQCIA9kFgJmDxUDLy90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTg3MTAyJmVwc2xhbmd1YWdlPWVuLUdCACZVcHBlciBTZWNvbmRhcnkgRWR1Y2F0aW9uIGFuZCBUcmFpbmluZ2QCJA9kFgJmDxUBAGQCJQ9kFgJmDxUDNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD01ODkmZXBzbGFuZ3VhZ2U9ZW4tR0IADFByZXNzIGNlbnRyZWQCJw9kFgJmDxUBAGQCKA9kFgJmDxUDQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0zMTMyOTgmZXBzbGFuZ3VhZ2U9ZW4tR0IACURvY3VtZW50c2QCKg9kFgJmDxUBAGQCKw9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01OTEmZXBzbGFuZ3VhZ2U9ZW4tR0IADFRoZSBNaW5pc3RyeWQCLQ9kFgJmDxUBAGQCLg9kFgJmDxUDQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00MzczNTImZXBzbGFuZ3VhZ2U9ZW4tR0IAB0FyY2hpdmVkAgUPZBYCAgEPZBYCZg8VAYcBPHA+TWluaXN0cnkgb2YgRWR1Y2F0aW9uIGFuZCBSZXNlYXJjaCwgQWtlcnNnYXRhIDQ0LCBQLmJveCA4MTE5IERlcCwgMDAzMiBPc2xvLiZuYnNwO1RlbC4gMjIgMjQgOTAgOTAuIEUtbWFpbDogcG9zdG1vdHRha0BrZC5kZXAubm88L3A+ZAIFD2QWAmYPFQEYL3NjcmlwdC9qcy9zZGNfMDkwODE5LmpzZBgIBUdjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRlbWFpbEFsZXJ0JG11bHRpVmlldw8PZGZkBVhjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kY3RsMDEkUGFnZUxpc3QxDw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JHV4Vmlld3MPD2RmZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkTXVsdGlQYWdlTGlzdA8PZmRkBXhjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRTdWJqZWN0TWFuYWdlciR3cDE1MzUwMDQ2MTQkd3AxMTEwNzI5ODk5JGxzdFNlYXJjaFJlc3VsdCRsc3RVbml2ZXJzYWwPD2ZkZAVvY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJHVjTG92Rm9yc2tyaWZ0JFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFZmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRjdGwwMCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBUxjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRSZWxhdGVkQ29udGFjdDIkUGFnZUxpc3QxDw9mZGROmgOLDskkRuUe62iEwEk6LehatQ==" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0MDE2MTEwMjlkGA8FK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJE11bHRpUGFnZUxpc3QPD2ZkZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDEkdXhWaWV3cw8PZGZkBYEBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCREb2N1bWVudFJlbGF0aW9uc2hpcDIkUmVsYXRpb25zT25lSG9wUGFnZUxpc3QxDw9mZGQFdWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkSG9lcmluZ0ZvciRSZWxhdGlvbk9uZUhvcFBhZ2VMaXN0MQ8PZmRkBUdjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRlbWFpbEFsZXJ0JG11bHRpVmlldw8PZGZkBVhjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kY3RsMDEkUGFnZUxpc3QxDw9mZGQFHWN0bDAwJFJlcXVpcmVkUmVzb3VyY2VzSGVhZGVyDwUGSGVhZGVyZAWAAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFeGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkSG9lcmluZ3NOb3RhdCRSZWxhdGlvbk9uZUhvcFBhZ2VMaXN0MQ8PZmRkBWZjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kY3RsMDAkUmVsYXRpb25zT25lSG9wUGFnZUxpc3QPD2ZkZAVPY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRUaXBBRnJpZW5kUGxhY2Vob2xkZXIkVGlwQUZyaWVuZCRUaXBWaWV3cw8PZAIBZAVCY3RsMDAkY3RsMDMkd3AxNTM1MDA0NjE0JHdwMTExMDcyOTg5OSRsc3RTZWFyY2hSZXN1bHQkbHN0VW5pdmVyc2FsDw9mZGQFb2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyR1Y0xvdkZvcnNrcmlmdCRSZWxhdGlvbnNPbmVIb3BQYWdlTGlzdA8PZmRkBX5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJFJlbGF0ZWRMb3ZGb3Jza3JpZnQkUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRku1QwUAFUGMnc9xFKs/11jz53M34=" />
 </div>
 
+
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EqeggJn66n4UBdY8MbXhpm4B0qmJ6qTeldD4gI_YWoLk0slZiV09hPpkSC4kPPQHqw2oiG3D3eL-K2zLMn-5JELP2CBBmZJgNWx919bugEX654QdMSv3E13cFAeeqwRm_knJDg2&amp;t=6fd2091f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=argtXe0SlTRDlv1m2KtPxbf_kJUIvOYZaBh8WARFoIMmDh9A_6vgcztE7W4MTCqUngWQOBE2qv2FwX84zF7vwOLGXuY6zcROPGasP6n0LXyd3AmuBCfmgmG9SyZEPj1LfcuoMg2&amp;t=6fd2091f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=DHYmz5vqrxkn_XcNHT0cRdAjLwN8MlDs6WOsro3_Nuocyo2bgQ8XplNUAV-oAjlIMZ3uXsArqzgOSaJHTEOX3t9ja476kI7FQqhUJXCcFgBwVu8ahCP6ZDMDmckHSmGIsKzDHA2&amp;t=6fd2091f" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAApdYxoSWHcoKRtWSYudIrIrrya5utHaP3uHQRI8Uid46QTFRMbyqbI0sloRc3Uw10HWXWl/SJpEFyAqi99OHjtE9II++VEPX1O6J4griigfdC7aBgEb6tB38M3Q+QtcT5dc3Ehi7iZ59S7JzT6xst29Aj7CbHcl1x8vt8oSwlXRyTB3252SfMu8eVjldtH+CO8H5Rw5lPWO+gKW1s3AVnMNwrWHRr3DQKB7kawMwEMGum1DvBQ=" />
+</div>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo">Go to contact information</a></li>
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">Go to search</a><a href="#Content" tabindex="3">Go to content</a><a href="#AreaTopSiteNav" tabindex="4">Go to top menu</a><a href="#AreaLeft" tabindex="5">Go to left menu</a>
+    <a href="#FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo" tabindex="6">Go to contact information</a>
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/kd/tema/hoyere_utdanning.html?id=1415">Bokmål</a></li>
-        <li class=""><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Denne sida finst ikkje på nynorsk. Klikk her for å vise nynorsk rammeverk" class="ISI_IGNORE" href="/nn/dep/kd/tema/hoyere_utdanning.html?id=1415">Nynorsk</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/kd/fadda/alit-oahppu.html?id=1415">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/kd/Selected-topics/Higher-Education.html?id=1415">English</a></li>
+        <li class="First Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/kd/tema/hoyere_utdanning.html?id=1415">Bokmål</a></li>
+        <li class=""><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Denne sida finst ikkje på nynorsk. Klikk her for å vise nynorsk rammeverk" class="ISI_IGNORE" href="/nn/dep/kd/Tema/hoyere_utdanning.html?id=1415">Nynorsk</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/kd/fadda/alit-oahppu.html?id=1415">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/kd/Selected-topics/higher-education.html?id=1415">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/en.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/en.html?id=4" tabindex="20">
+                                            government.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/en/the-government/solberg/members-of-the-government-2.html?id=543170' class="ISI_MENU" tabindex="21">Solberg’s Government</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/en/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Ministries
+                                        </a>
+                                        
     <ul>
   
     <li>
@@ -120,7 +141,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+        <a href="/en/dep/asd.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour and Social Affairs</a>
     </li>
   
     <li>
@@ -132,14 +153,6 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
-    </li>
-  
-    <li>
         <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
     </li>
   
@@ -148,15 +161,19 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and Public Security</a>
     </li>
   
     <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
+        <a href="/en/dep/kld.html?id=668" class="NormalLink ISI_MENU">Ministry of Climate and Environment</a>
     </li>
   
     <li>
-        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
+        <a href="/en/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Modernisation</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
     </li>
   
     <li class="Selected">
@@ -168,11 +185,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+        <a href="/en/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade, Industry and Fisheries</a>
     </li>
   
     <li>
@@ -191,178 +204,302 @@ function printPage()
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en/dep/kd.html?id=586"><img class="ProfileLogo" src="/styles/Images/kd/kd_en.gif" alt='Ministry of Education and Research' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/en/dep/kd.html?id=586" tabindex="34"><img class="ProfileLogo" src="/styles/Images/kd/kd_en.gif" alt='Ministry of Education and Research' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
     <label for="quicksearchinput" class="QuickSearchHeader">Search the Ministry of Education and Research </label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
-    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Search all of government.no</a></span>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Search" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Search" />        
+    <span><a id="TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" tabindex="32" class="QuickSearchLinkToMainSearch" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Search all of government.no</a></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Share/Send' /><span class="open" id="open">Share/Send</span><span class="display-none" id="close">Close</span></a></li>
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/kd/Selected-topics/Higher-Education.html?id=1415&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/dep/kd/Site-Map.html?id=313855">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/dep/kd/About-the-Ministry/Contact.html?id=594">Contact</a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+        <li class="Share">
+            <noscript>
+                <a href="http://www.regjeringen.no/templates/Tema.aspx?id=1415&amp;epslanguage=en-GB&amp;tipafriend=1" id="noScriptTipLink" rel="nofollow" tabindex="72"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                        vertical-align: middle; height: 1em;" alt='Share/Send' />Share/Send</a></noscript>
+            <a onclick="return displayTipAFriendForm();" id="TopRegion_TopRightRegion_ctl00_tipAFriendLink" tabindex="34" class="display-none" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$ctl00$tipAFriendLink&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                    vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Share/Send' /><span id="open">Share/Send</span><span id="close" style="display: none;">Close</span></a>
+        </li>
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Click here to print this page' />Print</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/templates/Tema.aspx?id=1415&amp;epslanguage=en-GB&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal font size' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Tema.aspx?id=1415&amp;epslanguage=en-GB&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium font size' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Tema.aspx?id=1415&amp;epslanguage=en-GB&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Large font size' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/kd/Selected-topics/higher-education.html?id=1415&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/en/dep/kd/Site-Map.html?id=313855">Site Map</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/en/dep/kd/about-the-ministry/contact.html?id=594">Contact</a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
+                        <div id="AreaLeft">
+                            
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/kd.html?id=586" tabindex="41">
+            Ministry home</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU" href="/en/dep/kd/news-and-latest-publications.html?id=587" title="" tabindex="42">
+            What's new</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/kd/campaign.html?id=498337" title="" tabindex="43">
+            Campaign</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU " href="/en/dep/kd/Selected-topics.html?id=588" title="" tabindex="44">
+            Selected Topics</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/study-financing-.html?id=1422" title="" tabindex="45">
+            Educational support </a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/gender-equality-.html?id=486669" title="" tabindex="46">
+            Gender Equality </a>
+    </li><li class="Selected">
+        <a class="Selected ISI_MENU" href="/en/dep/kd/Selected-topics/higher-education.html?id=1415" title="" tabindex="47">
+            Higher Education</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/International-Collaboration-on-Education.html?id=1192" title="" tabindex="48">
+            International Collaboration on Education and Research</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/kindergarden.html?id=1029" title="" tabindex="49">
+            Kindergarten</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/compulsory-education.html?id=1408" title="" tabindex="50">
+            Primary and Lower Secondary Education</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/research.html?id=1427" title="" tabindex="51">
+            Research</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/Tertiary-Vocational-Education-.html?id=87103" title="" tabindex="52">
+            Tertiary Vocational Education </a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/en/dep/kd/press-contacts.html?id=589" title="" tabindex="53">
+            Press centre</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/kd/documents.html?id=313298" title="" tabindex="54">
+            Documents</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/kd/about-the-ministry.html?id=591" title="" tabindex="55">
+            The Ministry</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/archive.html?id=115322" title="" tabindex="56">
+            Archive</a>
+    </li></ul>
+
+                                </div>
+                                
+                                
+                            
+                        </div>
                         <div id="AreaContentAndRight">
                             
                                 <div id="AreaContent">
-                                    <div id="slickbox" style="display:none;">
-                                       
+                                    <div id="FullRegion_CenterAndRightRegion_slickbox" class="slickbox" style="display: none;">
+                                        
                                             
 <script type="text/javascript"><!--
-function fbs_click() 
-{
-    u=location.href;
-    t=document.title;
-    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
-    return false;
-}
-function nettby_click(pageurl,pagename)
-{
-    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
-    wnd.focus();
-    return false;
-}
-function GetThis(T, C, U, L) 
-{
-	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
-	wnd = window.open(targetUrl);
-	wnd.focus();
-	return false;
-}
+    function facebook_click() {
+        u = location.href;
+        t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+        return false;
+    }
+    function twitter_click() {
+        u = location.href;
+        t = encodeURIComponent('Higher Education');
+        window.open('http://twitter.com/share?url=' + encodeURIComponent(u) + '&text=' + t, 'sharer', 'toolbar=0,status=0,width=350,height=230');
+        return false;
+    }
 --></script>
-
-
-
-    <div id="thankyouview">
-        <div id="thankyoudiv"></div>        
+<div id="thankyouview">
+    <div id="thankyoudiv">
+        
     </div>
-    <div id="tipafriend">
-        <div id="tipafriendContent">
-            
-            <div>
-	  
-                <p><strong>Share this page with a friend </strong></p>
-                <ol>
-                    <li>
-                        
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
-                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
-                    </li>
-                    <li>
-                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
-                    </li>
-                    <li>
-                                                         
-                    </li>
-                </ol>                          
-            
 </div>
-        </div> 
+<div id="tipafriend">
+    <div id="tipafriendContent">
+        
+                <div>
+	
+                    <div id="TipAFriendForm">
+                        <fieldset>
+                            <legend><strong>
+                                Share this page with a friend 
+                            </strong></legend>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
+                                <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;">
+</textarea>
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="setTipClicked();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitTextBox" style="display: none;
+                                    width: 10px;" />
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                
+                            </div>
+                        </fieldset>
+                    </div>
+                
+</div>
+            
     </div>
-    <div id="ShareArticle">
-        <p><strong>Share</strong></p>
-        <ul class="communities">        
-            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/kd/Selected-topics/Higher-Education.html?id=1415" target="_blank">Facebook</a></li>            
-            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/en/dep/kd/Selected-topics/Higher-Education.html?id=1415', 'Higher Education')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/en/dep/kd/Selected-topics/Higher-Education.html?id=1415&amp;description=Higher Education' target="_blank">Nettby</a></li>
-            <li><a class="share_myspace" href="#" onclick="return GetThis('Higher Education','','http://www.regjeringen.no/en/dep/kd/Selected-topics/Higher-Education.html?id=1415',3)">Myspace</a></li>
-            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
-        </ul>
-    </div>
-
-
+</div>
+<div id="ShareArticle">
+    <p>
+        <strong>
+            Share
+        </strong>
+    </p>
+    <ul class="communities">
+        <li><a class="share_facebook" onclick="return facebook_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/kd/Selected-topics/higher-education.html?id=1415" target="_blank">
+            Facebook</a></li>
+        <li><a class="share_twitter" onclick="return twitter_click()" href="http://twitter.com/share?url=http://www.regjeringen.no/en/dep/kd/Selected-topics/higher-education.html?id=1415&amp;text=Higher Education" target="_blank">
+            Twitter</a></li>
+        <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">
+            Origo</a></li>
+    </ul>
+</div>
 
                                         
                                     </div>
-                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
                                     
     
-    
+
 
     
-    
 
-         <p class="breadcrumbs">You are here: <a href="/en.html?id=4">Government.no</a> / <a href="/en/dep/kd.html?id=586">Ministry of Education and R...</a> / <a href="/en/dep/kd/Selected-topics.html?id=588">Selected Topics</a> / <span>Higher Education</span>
-</p>
-         <div class="documentTop SubjectPage">            
-                     
-            <h1>Higher Education</h1>
-            <div class="temaMobIngressImg" style="display: none;"><img src="/Upload/KD/Temabilder/Hoyere utdanning/hoyereutdanning.jpg" alt="" /></div>
-            <p class="textIngress">Higher education is based on research and usually builds on three years’ completed and passed upper secondary education.</p>
-            <img src="/Upload/KD/Temabilder/Hoyere utdanning/hoyereutdanning.jpg" alt="" class="temaIngressImg" />
-            <div class="descriptionText"><p>Most institutions of higher education are state-run and are responsible for the quality of their own instruction, research and dissemination of knowledge. About 12.5 per cent of students in higher education attend private institutions. Higher education builds on the successful completion of three years of upper secondary school. Since 2001, access can also be granted for those older than 25 years on the basis of a documented combination of formal, informal and non-formal competence (total qualifications).</p></div>
-	    <div style="clear:both"></div>
-	      
-         </div>
-         
-         
-                                
-        
-        
-        
-                            
-    <div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_divPageContent" class="documentBody">  
+<div class="breadcrumbs ">
+
+    
+               <span>
+                   You are here: 
+               </span>
                 
+                <ul class="breadcrumbmenu">
+            
+                <li><a href="/en.html?id=4" title="Government.no">Government.no</a> / </li>
+            
+                <li><a href="/en/dep/kd.html?id=586" title="Ministry of Education and R...">Ministry of Education and R...</a> / </li>
+            
+                <li><a href="/en/dep/kd/Selected-topics.html?id=588" title="Selected Topics">Selected Topics</a> / </li>
+            
+                <li><span>Higher Education</span></li>
+            
+                </ul>
+            
+</div>
+    <div class="documentTop SubjectPage">            
+                 
+        <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+        <h1>Higher Education</h1>
+            <div class="temaMobIngressImg" style="display: none;"><img src="/Upload/KD/Temabilder/Hoyere utdanning/hoyereutdanning.jpg" alt="" title="" /></div>
+        
+            <p class="textIngress">Higher education is based on research and usually builds on three years’ completed and passed upper secondary education.</p>
+        
+            <img src="/Upload/KD/Temabilder/Hoyere utdanning/hoyereutdanning.jpg" alt="" title="" class="temaIngressImg" />
+        <div class="descriptionText"><div>
+	<p>There are eight universities in Norway,&nbsp;seven <span style="font-family: CenturyOldStyleStd-Regular; font-size: xx-small;"><span style="font-family: CenturyOldStyleStd-Regular; font-size: xx-small;">specialised institutions at university level and&nbsp;18 public university colleges. </span></span><span style="font-family: CenturyOldStyleStd-Regular; font-size: xx-small;"><span style="font-family: CenturyOldStyleStd-Regular; font-size: xx-small;">The university colleges have an important role in decentralising access to higher education.</span></span></p>
+<p>Most institutions of higher education are state-run and are responsible for the quality of their own instruction, research and dissemination of knowledge. About 12.5 per cent of students in higher education attend private institutions.</p>
+</div></div>
+        <div style="clear:both"></div>
+        
+		  <div class="documentLinks">
+				<div id="FullRegion_CenterAndRightRegion_CenterRegion_RSSLinkRender1_divRSSItem" class="linkItem">
+<img class="feedIcon" src="/Images/rss.gif" alt="" /><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1415&amp;language=en-GB" type="application/rss+xml" title="Subscribe to RSS feed: Higher Education (Ministry of Education and Research)">Subscribe to RSS feed</a>
+</div>
+
+		  </div>
+        
+     </div>
+         
+    
+                            
+    <div id="FullRegion_CenterAndRightRegion_CenterRegion_divPageContent" class="documentBody">
+        
+
 
 <div class="ArticleView">
-        <img src="/Upload/KD/Ingressbilder/Hoyere utdanning/samarbeid_100.gif" alt="Bilde av studenter. Foto: Samfoto." class="ArticleImg" />
+        
+            <a href="/en/archive/Stoltenbergs-2nd-Government/Ministry-of-Education-and-Research/veiledninger-og-brosjyrer/2007/education-in-norway-2007.html?id=475839">
+                <img src="/upload/KD/Ingressbilder/Grunnskole/colourbox1064997_lite.jpg" alt="" title="" class="ArticleImg" />
+            </a>            
         
         
         <div class="ArticleImgContent">
-            <h2><a href="/en/dep/kd/Selected-topics/Higher-Education/Degree-structure-and-grading-system.html?id=491287">Degree structure and grading system</a></h2>        
+            <h2><a href="/en/archive/Stoltenbergs-2nd-Government/Ministry-of-Education-and-Research/veiledninger-og-brosjyrer/2007/education-in-norway-2007.html?id=475839">Education in Norway </a></h2>        
+                
+            <p>
+               The Norwegian educational system aims to be among the best in the world with regards to both academic levels and breadth of participation and completion rates. The quality of our education and training is instrumental for the qualities developed in our society.
+            </p>
+            
+        </div>
+    </div>
+    
+    
+
+
+
+<div class="ArticleView">
+        
+            <a href="/en/dep/kd/Selected-topics/higher-education/Degree-structure-and-grading-system.html?id=491287">
+                <img src="/Upload/KD/Ingressbilder/Hoyere utdanning/samarbeid_100.gif" alt="Bilde av studenter. Foto: Samfoto." title="Bilde av studenter. Foto: Samfoto." class="ArticleImg" />
+            </a>            
+        
+        
+        <div class="ArticleImgContent">
+            <h2><a href="/en/dep/kd/Selected-topics/higher-education/Degree-structure-and-grading-system.html?id=491287">Degree structure and grading system</a></h2>        
                 
             <p>
                In 2003 a reform was carried out in Norwegian Higher Education. The Quality Reform introduced a degree structure, grading system and quality assurance system in line with the Bologna Process.
@@ -374,12 +511,16 @@ function GetThis(T, C, U, L)
     
 
 
+
 <div class="ArticleView">
-        <img src="/upload/KD/Ingressbilder/Hoyere utdanning/ntnu1.jpg" alt="Bilde av UiO." class="ArticleImg" />
+        
+            <a href="/en/dep/kd/Selected-topics/higher-education/universities-and-specialised-institution.html?id=491288">
+                <img src="/upload/KD/Ingressbilder/Hoyere utdanning/ntnu1.jpg" alt="Bilde av UiO." title="Bilde av UiO." class="ArticleImg" />
+            </a>            
         
         
         <div class="ArticleImgContent">
-            <h2><a href="/en/dep/kd/Selected-topics/Higher-Education/universities-and-specialised-institution.html?id=491288">Universities and University Colleges</a></h2>        
+            <h2><a href="/en/dep/kd/Selected-topics/higher-education/universities-and-specialised-institution.html?id=491288">Universities and University Colleges</a></h2>        
                 
             <p>
                There are seven universities in Norway. There are also six specialised institutions at university level. There are 24 public and two private university colleges.
@@ -391,15 +532,15 @@ function GetThis(T, C, U, L)
     
 
 
+
 <div class="ArticleView">
         
         
-        
         <div class="ArticleContent">
-            <h2><a href="/en/dep/kd/Selected-topics/Higher-Education/NOKUT.html?id=491292">Quality Assurance in Education</a></h2>        
+            <h2><a href="/en/dep/kd/documents/legislation/regulations/2010/regulations-concerning-admission-to-high.html?id=640003">Regulations concerning Admission to Higher Education</a></h2>        
                 
             <p>
-               The Norwegian Agency for Quality Assurance in Education (NOKUT) is an independent agency with the task of carrying out external quality assurance of higher education and tertiary vocational education in Norway. NOKUT also handles applications for general recognition of foreign qualifications.
+               Legal basis: Established by the Ministry of Education and Research on 31 January 2007 based on section 3-6, section 3-7 and section 4-9 of the Act of 1 April 2005 no. 15 relating to Universities and University Colleges, cf. decision concerning delegation of 7 October 2005 no. 1107. 
             </p>
             
         </div>
@@ -408,15 +549,15 @@ function GetThis(T, C, U, L)
     
 
 
+
 <div class="ArticleView">
         
         
-        
         <div class="ArticleContent">
-            <h2><a href="/en/dep/kd/Selected-topics/Higher-Education/The-Norwegian-Centre-for-International-C.html?id=491293">International Cooperation in Higher Education</a></h2>        
+            <h2><a href="/en/dep/kd/Selected-topics/higher-education.html?id=1415">Higher Education</a></h2>        
                 
             <p>
-               SIU is Norway’s official agency for international programmes and measures related to education and training.
+               Higher education is based on research and usually builds on three years’ completed and passed upper secondary education.
             </p>
             
         </div>
@@ -424,521 +565,616 @@ function GetThis(T, C, U, L)
     
     
 
+
+
+<div class="ArticleView">
+        
+        
+        <div class="ArticleContent">
+            <h2><a href="/en/dep/kd/about-the-ministry/Subordinate-agencies-2/the-norwegian-centre-for-international-c.html?id=426572">The Norwegian Centre for International Cooperation in Higher Education</a></h2>        
+                
+            <p>
+               The Norwegian Centre for International Cooperation in Higher Education (SIU) is a public Norwegian agency that promotes international cooperation in education and research.
+            </p>
+            
+        </div>
+    </div>
+    
+    
+
+
+
+<div class="ArticleView">
+        
+            <a href="/en/dep/kd/documents/brochures-and-handbooks/2009/factsheet-white-paper-on-internationalis.html?id=546220">
+                <img src="/upload/KD/Ingressbilder/Internasjonalt/internasjonaliseringsmeldingen100.jpg" alt="" title="" class="ArticleImg" />
+            </a>            
+        
+        
+        <div class="ArticleImgContent">
+            <h2><a href="/en/dep/kd/documents/brochures-and-handbooks/2009/factsheet-white-paper-on-internationalis.html?id=546220">Factsheet: White paper on internationalisation of education</a></h2>        
+                
+            <p>
+               The White Paper describes the current situation and proposes new measures to nsure that the Norwegian education system provides pupils and students with the necessary skills to act and interact in an increasingly globalized world.
+            </p>
+            
+        </div>
+    </div>
+    
+    
+
+
+
+<div class="ArticleView">
+        
+            <a href="/en/dep/kd/documents/brochures-and-handbooks/2009/factsheet-white-paper-on-teacher-educati.html?id=545075">
+                <img src="/upload/KD/Ingressbilder/Diverse/OmslagStMeld_Laereren_100.gif" alt="" title="" class="ArticleImg" />
+            </a>            
+        
+        
+        <div class="ArticleImgContent">
+            <h2><a href="/en/dep/kd/documents/brochures-and-handbooks/2009/factsheet-white-paper-on-teacher-educati.html?id=545075">Factsheet: White Paper on Teacher Education</a></h2>        
+                
+            <p>
+               The Government is proposing a new teacher education programme for primary and lower secondary education with a stronger emphasis on subject knowledge and teaching skills, quality of studies and research orientation.
+            </p>
+            
+        </div>
+    </div>
+    
+    
+
+
+
+<div class="ArticleView">
+        
+            <a href="/en/dep/kd/documents/reports-and-actionplans/Actionplans/2009/entrepreneurship-in-education-and-traini.html?id=575005">
+                <img src="/upload/KD/Ingressbilder/Diverse/Action_Plan_Entrepeneurship_2009.gif" alt="" title="" class="ArticleImg" />
+            </a>            
+        
+        
+        <div class="ArticleImgContent">
+            <h2><a href="/en/dep/kd/documents/reports-and-actionplans/Actionplans/2009/entrepreneurship-in-education-and-traini.html?id=575005">Action Plan for Entrepreneurship in Education and Training</a></h2>        
+                
+            <p>
+               Norway has received international accolade for
+our work on entrepreneurship in education. 
+            </p>
+            
+        </div>
+    </div>
+    
+    
+<a id="ctl03_wp160267165_wp2025800150_hyperLink1"><img id="ctl03_wp160267165_wp2025800150_Image1" class="bannerimg" alt="" src="/upload/KD/Kampanjer/NyGiv/banner1.jpg" /></a>
 <hr class="hrSkille" />
 
-<h2 id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1535004614_wp1110729899_searchHeader">Latest news and publications about higher education:</h2>
+<h2 id="ctl03_wp1535004614_wp1110729899_searchHeader">Latest news and publications about higher education:</h2>
      
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/kd/News-and-latest-publications/Speeches-and-articles/forsknings--og-hoyere-utdanningsminister/tora_aasland/2010/Education-and-research--A-foundation-in-Alumni.html?id=614150" title="">
-                        Education and research – A foundation in Alumni
-                    </a>
+                    <a href="/en/dep/kd/news-and-latest-publications/News/2024/Russian-mathematician-receives-the-2014-Abel-Prize.html?id=753938" title="">
+                        Russian mathematician receives the 2014 Abel Prize</a>
                 </h2>
                 <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Speech/article, Ministry of Education and Research, 13.09.2010]</p>
-                <p>Speech by Minister of Research and Higher Education Tora Aasland as she presented the launching of the NorAlumni network, a network for helping former students from China to stay connected with Norway and the Norwegian business sector is now in place. </p>
-                
-                
+                <p class="ArticleInfo">[News story, Ministry of Education and Research, 26.03.2014]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1535004614_wp1110729899_lstSearchResult_lstUniversal_ctl00_Label1"></span>                 
-           </div>
-        </div> 
+                    The Norwegian Academy of Science and Letters has decided to award the Abel Prize for 2014 to Yakov G. Sinai (78) of Princeton University, USA, and the Landau Institute for Theoretical Physics, Russian Academy of Sciences, "for his fundamental contributions to dynamical systems, ergodic theory, and mathematical physics". </p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
-            <a href="/en/dep/kd/News-and-latest-publications/News/2010/alumni-network-for-former-students-from-.html?id=614148" class="ISI_IGNORE">
-                <img src="/upload/KD/Ingressbilder/Arrangementer/Aasland/alumni_edited-1_100.jpg" alt="" class="ArticleImg" />
+        <div class="ArticleView">
+            <a href="/en/dep/kd/Selected-topics/compulsory-education/strategic-plans/a-joint-promotion-of-mathematics-science.html?id=279649" class="ISI_IGNORE">
+                <img src="/upload/KD/Temabilder/Fagskole/realfag_vgo.jpg" alt="" title="" class="ArticleImg" />
             </a>
             <div class="ArticleImgContent">
                 <h2>
-                    <a href="/en/dep/kd/News-and-latest-publications/News/2010/alumni-network-for-former-students-from-.html?id=614148" title="">
-                        Alumni network for former students from China launched
-                    </a>
+                    <a href="/en/dep/kd/Selected-topics/compulsory-education/strategic-plans/a-joint-promotion-of-mathematics-science.html?id=279649" title="">
+                        A Joint Promotion of Mathematics, Science and Technology</a>
                 </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[News story, Ministry of Education and Research, 13.09.2010]</p>
-                <p>NorAlumni China – a network for helping former students from China to stay connected with Norway and the Norwegian business sector is now in place.</p>
-                
-                
+                <h3 class="subDescription" style="display:none">2006 - 2009</h3>
+                <p class="ArticleInfo">[Article, Ministry of Education and Research, 01.03.2014]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1535004614_wp1110729899_lstSearchResult_lstUniversal_ctl01_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
-            <a href="/en/dep/kd/press-contacts/Press-releases/2010/agreements-on-cooperation-in-higher-educ.html?id=601959" class="ISI_IGNORE">
-                <img src="/upload/KD/Ingressbilder/Internasjonalt/Flag_of_Russia.jpg" alt="" class="ArticleImg" />
-            </a>
-            <div class="ArticleImgContent">
-                <h2>
-                    <a href="/en/dep/kd/press-contacts/Press-releases/2010/agreements-on-cooperation-in-higher-educ.html?id=601959" title="">
-                        Agreements on cooperation with Russia
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Press release, Ministry of Education and Research, 27.04.2010]</p>
-                <p>The Norwegian Ministry of Education and Research and representatives of the Russian Federation has signed agreements on cooperation in higher education and meteorology.</p>
+                    A substantial promotion of Mathematics, Science and Technology (MST) to meet society’s needs can only be achieved through close collaboration between all the parties involved, where both education and working life jointly contribute to increased recruitment and high competence.  </p>
                 
                 
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1535004614_wp1110729899_lstSearchResult_lstUniversal_ctl02_Label1"></span>                 
-           </div>
-        </div> 
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/kd/dok/rapporter_planer/planer/2006/rammeplaner-for-hoyere-utdanning.html?id=587302" title="">
-                        Curriculum regulations 
-                    </a>
+                    <a href="/en/dep/kd/press-contacts/Press-releases/2014/clear-priorities-in-higher-education-and.html?id=749226" title="">
+                        Clear priorities in Higher Education and Research</a>
                 </h2>
                 <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Plan, Ministry of Education and Research, 26.11.2009]</p>
-                <p>English version of curriculum regulations for general teacher education, pre-school teacher education and practical and didactic education</p>
-                
-                
+                <p class="ArticleInfo">[Press release, Ministry of Education and Research, 14.01.2014]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1535004614_wp1110729899_lstSearchResult_lstUniversal_ctl03_Label1"></span>                 
-           </div>
-        </div> 
+                    The Government presents seven measures for higher education and research over the next four years. The goal is higher quality, says Minister for Education and Research Torbjørn Røe Isaksen. </p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
-            <a href="/en/dep/kd/News-and-latest-publications/News/2009/cultural-or-academic-boycott-of-israeli-.html?id=585557" class="ISI_IGNORE">
-                <img src="/upload/KD/Portrettbilder/Aasland_SMK_Guri_Dahl_100.jpg" alt="" class="ArticleImg" />
-            </a>
-            <div class="ArticleImgContent">
-                <h2>
-                    <a href="/en/dep/kd/News-and-latest-publications/News/2009/cultural-or-academic-boycott-of-israeli-.html?id=585557" title="">
-                        Cultural or academic boycott of Israeli: - Not part of Norwegian Policy
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[News story, Ministry of Education and Research, 11.11.2009]</p>
-                <p>- A cultural or academic boycott of Israeli or other educational establishments is not part of Norwegian policy, said Minister of Research and Higher Education, Mrs. Tora Aasland, in her answer to the Parliament today.</p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1535004614_wp1110729899_lstSearchResult_lstUniversal_ctl04_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
-            <a href="/en/dep/kd/dok/rapporter_planer/planer/2009/handlingsplan-for-entreprenorskap-i-utda.html?id=575005" class="ISI_IGNORE">
-                <img src="/upload/KD/Ingressbilder/Diverse/Action_Plan_Entrepeneurship_2009.gif" alt="" class="ArticleImg" />
-            </a>
-            <div class="ArticleImgContent">
-                <h2>
-                    <a href="/en/dep/kd/dok/rapporter_planer/planer/2009/handlingsplan-for-entreprenorskap-i-utda.html?id=575005" title="">
-                        Entrepreneurship in Education and Training
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none">– from compulsory school to higher education 2009–2014</h3>
-                <p class="ArticleInfo">[Plan, Ministry of Education and Research, 02.09.2009]</p>
-                <p>Norway has received international accolade for our work on entrepreneurship in education. </p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1535004614_wp1110729899_lstSearchResult_lstUniversal_ctl05_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/kd/Selected-topics/gender-equality-/gender-equality-in-higher-education.html?id=571285" title="">
-                        Gender Equality in Higher Education
-                    </a>
+                    <a href="/en/dep/kd/news-and-latest-publications/Speeches-and-articles/kunnskapsministerens-taler-og-artikler/2013/digital-democratization-of-universities.html?id=745723" title="">
+                        Digital Democratization of Universities</a>
                 </h2>
                 <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Editorial article, Ministry of Education and Research, 15.07.2009]</p>
-                <p>Norway has a very high proportion of women with higher education degrees. In 2004, almost 60 per cent of registered students at Norwegian universities and colleges were women. More than 21 per cent of Norwegian women have a university or college degree, compared with 16 per cent of Norwegian men. </p>
+                <p class="ArticleInfo">[Speech/article, Ministry of Education and Research, 15.11.2013]</p>
+                <p>
+                    Minister Torbjørn Røe Isaksens speech at Transatlantic Science Week 2013, seminar ”The Digital Democratization of Universities” at the Norwegian Embassy in Washington 12. November 2013.</p>
                 
+                
+                
+                <span></span>
+            </div>
+        </div>
+    
+        <div class="ArticleView">
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/en/dep/kmd/documents/white/propositions/2012-2013/meld-st-23-20122013-2.html?id=728993" title="">
+                        Meld. St. 23 (2012–2013)</a>
+                </h2>
+                <h3 class="subDescription" style="display:none">Digital Agenda for Norway</h3>
+                <p class="ArticleInfo">[Report to the Storting, Ministry of Local Government and Modernisation, 03.05.2013]</p>
                 
                 <p>
-                    
-                    
+                    <span>Digital Agenda for Norway</span>
                 </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1535004614_wp1110729899_lstSearchResult_lstUniversal_ctl06_Label1"></span>                 
-           </div>
-        </div> 
+                
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
-            <a href="/en/dep/kd/press-contacts/Press-releases/2009/3800-new-student-places-in-higher-educat.html?id=561970" class="ISI_IGNORE">
-                <img src="/upload/KD/Ingressbilder/Hoyere utdanning/forelesning_100.jpg" alt="" class="ArticleImg" />
+        <div class="ArticleView">
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/en/dep/kd/documents/reports-and-actionplans/Actionplans/2006/Curriculum-regulations-.html?id=587302" title="">
+                        Curriculum regulations</a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Plan, Ministry of Education and Research, 01.11.2012]</p>
+                <p>
+                    English version of curriculum regulations for general teacher education, pre-school teacher education and practical and didactic education</p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
+    
+        <div class="ArticleView">
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/en/dep/kd/documents/reports-and-actionplans/Reports/2012/international-expert-committee.html?id=680598" title="">
+                        International Expert Committee</a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Report, Ministry of Education and Research, 03.05.2012]</p>
+                <p>
+                    from the Expert Committee on risk assessment of possible relocation of the Viking Ships from Bygdøy. There are risks for damage to the Viking Ships and assemblage present at the Viking Ship Museum at Bygdøy regardless of which future scenario is considered. </p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
+    
+        <div class="ArticleView">
+            <a href="/en/dep/kd/documents/reports-and-actionplans/Actionplans/2011/north-america-strategy-for-higher-educat.html?id=661703" class="ISI_IGNORE">
+                <img src="/imgpreviews/00/00/02/41/24194_img___201111231517.jpg" alt="Illustration" title="Illustration" class="ArticleImg" />
             </a>
             <div class="ArticleImgContent">
                 <h2>
-                    <a href="/en/dep/kd/press-contacts/Press-releases/2009/3800-new-student-places-in-higher-educat.html?id=561970" title="">
-                        3800 new student places in higher education
-                    </a>
+                    <a href="/en/dep/kd/documents/reports-and-actionplans/Actionplans/2011/north-america-strategy-for-higher-educat.html?id=661703" title="">
+                        North America Strategy for Higher Education Cooperation 2012-2015</a>
                 </h2>
                 <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Press release, Ministry of Education and Research, 15.05.2009]</p>
-                <p>The Government proposes the establishment of 3 800 new student places at universities and university colleges as of fall 2009. In addition, the Government also increases the funding for the higher education institutions with 80 million kroner. The measures are part of the Revised National Budget released today. </p>
-                
-                
+                <p class="ArticleInfo">[Plan, Ministry of Education and Research, 28.10.2011]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1535004614_wp1110729899_lstSearchResult_lstUniversal_ctl07_Label1"></span>                 
-           </div>
-        </div> 
+                    On 25 October 2011, Minister of Research and Higher Education, Ms Tora Aasland, launched a new North America Strategy for Higher Education Cooperation 2012-2015. </p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
-            <a href="/en/dep/kd/Documents/Brochures-and-handbooks/2009/factsheet-white-paper-on-internationalis.html?id=546220" class="ISI_IGNORE">
-                <img src="/upload/KD/Ingressbilder/Internasjonalt/internasjonaliseringsmeldingen100.jpg" alt="" class="ArticleImg" />
+        <div class="ArticleView">
+            <a href="/en/dep/kd/about-the-ministry/Subordinate-agencies-2/cristin---current-research-informationsy.html?id=643454" class="ISI_IGNORE">
+                <img src="/imgpreviews/00/00/02/64/26408_img___201201131258.jpg" alt="" title="" class="ArticleImg" />
             </a>
             <div class="ArticleImgContent">
                 <h2>
-                    <a href="/en/dep/kd/Documents/Brochures-and-handbooks/2009/factsheet-white-paper-on-internationalis.html?id=546220" title="">
-                        Factsheet: White paper on internationalisation of education
-                    </a>
+                    <a href="/en/dep/kd/about-the-ministry/Subordinate-agencies-2/cristin---current-research-informationsy.html?id=643454" title="">
+                        Cristin - Current research informationsystem in Norway</a>
                 </h2>
                 <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Guidelines and brochures, Ministry of Education and Research, 13.02.2009]</p>
-                <p>The White Paper describes the current situation and proposes new measures to nsure that the Norwegian education system provides pupils and students with the necessary skills to act and interact in an increasingly globalized world.</p>
-                
-                
+                <p class="ArticleInfo">[External organization, Ministry of Education and Research, 13.05.2011]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1535004614_wp1110729899_lstSearchResult_lstUniversal_ctl08_Label1"></span>                 
-           </div>
-        </div> 
+                    CRIStin is an organisation for research information and documentation in Norway. The organisation, which was established by the Ministry of Education and Research in cooperation with the Ministry of Health and Care Services, will cover the higher education sector, research institutes and regional health authorities.</p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
     
-        <div class="ArticleView"> 
-            <a href="/en/dep/kd/Documents/Brochures-and-handbooks/2009/factsheet-white-paper-on-teacher-educati.html?id=545075" class="ISI_IGNORE">
-                <img src="/upload/KD/Ingressbilder/Diverse/OmslagStMeld_Laereren_100.gif" alt="" class="ArticleImg" />
-            </a>
-            <div class="ArticleImgContent">
+        <div class="ArticleView">
+            
+            <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/kd/Documents/Brochures-and-handbooks/2009/factsheet-white-paper-on-teacher-educati.html?id=545075" title="">
-                        Factsheet: White Paper on Teacher Education
-                    </a>
+                    <a href="/en/dep/kd/documents/legislation/regulations/2010/regulations-relating-to-suitability-asse.html?id=640019" title="">
+                        Regulations relating to suitability assessment in higher education</a>
                 </h2>
                 <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Guidelines and brochures, Ministry of Education and Research, 06.02.2009]</p>
-                <p>The Government is proposing a new teacher education programme for primary and lower secondary education with a stronger emphasis on subject knowledge and teaching skills, quality of studies and research orientation.</p>
-                
-                
+                <p class="ArticleInfo">[Regulation, Ministry of Education and Research, 11.04.2011]</p>
                 <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1535004614_wp1110729899_lstSearchResult_lstUniversal_ctl09_Label1"></span>                 
-           </div>
-        </div> 
+                    Established by the Ministry of Education and Research on 30 June 2006 pursuant to section 4-10, sixth paragraph, of the Act of 1 April 2005 no. 15 relating to Universities and University Colleges   </p>
+                
+                
+                
+                <span></span>
+            </div>
+        </div>
     
- 
 
    
             
-            <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp1535004614_wp1110729899_lnkSubjectSearch" class="WebPartGeneralListReadMore" href="/en/search.html?tema=1415&amp;id=86008">More documents about this subject</a>
+            <a id="ctl03_wp1535004614_wp1110729899_lnkSubjectSearch" class="WebPartGeneralListReadMore" href="/en/search.html?tema=1415&amp;id=86008">More documents about this subject</a>
 
             
 
     </div> 
 	<div class="printContact">
-		<div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_RelatedContact2_AreaContactInfo" class="Toolbox">   
-    <h2 id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_RelatedContact2_H2Header" class="ToolboxHeader">
-       
+		<div id="FullRegion_CenterAndRightRegion_CenterRegion_RelatedContact2_AreaContactInfo" class="Toolbox" tabindex="66">
+    
+        <h2 class="ToolboxHeader">
+           
                         Contact information
                     
-    </h2>
+        </h2>
+    
                  
             <div class="ToolboxContent">
 					<h3 class="relatedContactHead">
-						 <a href="/en/dep/kd/About-the-Ministry/organisation/Departments/department-of-higher-education.html?id=1550" class="structuredDataEmail">Department of Higher Education</a>
+						 <a href="/en/dep/kd/about-the-ministry/organisation/Departments/department-of-higher-education.html?id=1550" class="structuredDataEmail">Department of Higher Education</a>
 					</h3>
-					<p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/images/emailimages/f66fa44b73d6eaf9fe52032f1aad8172.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', '487629677424212925652D682C262D1B766F6F752D24313C3B686F272666382D2C662C230823293C3C27253C3B273872273C242129256F752E2D3A20682974'));//--></script></p>
-					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
-						 
-						  
-						 
-					</table>
+					<p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/ae846821e9680346efe9705c93ea8d24.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, 'B28CD39D8EDEDBD3DF9FD792D6DCD7E18C95958FD7DECBC6C19295DDDC9CC2D7D69CD6D9F2D9D3C6C6DDDFC6C1DDC288DDC6DEDBD3DF958FD4D7C0DA92D38E'));//--></script></p>
+					<p class="contactInfo">
+                        
+                        
+                        
+                    </p>
 					
-					            
-					<!-- Separator -->
             </div>
          
 </div>
 	</div>
 
-                                </div>
-                                <div id="AreaRight"> 
                                     
                                         
-                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/en/dep/kd.html?id=586'><img src="/upload/KD/Profilelementer/profilelementet.jpg" alt="Ministry of Education and Research" /></a></div>
+                                    
+
+                                    
+
+                                </div>
+                                <div id="AreaRight">
+                                    
+                                        
+                                            
+    <div class="DepProfile"><a href='/en/dep/kd.html?id=586' tabindex="61"><img src="/upload/KD/Profilelementer/profilelementet.jpg" alt="Ministry of Education and Research" /></a></div>
+
                                         
                                         
         <div class="Toolbox GlobalNavMain TemaSearch">
-            <div class="ToolboxContent GlobalNav" style=';'>
-                <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_Panel1">
+        
+            <div class="ToolboxContent GlobalNav">
+                <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_Panel1">
 	
                     <h2 class="GlobalNavSubheading"><label>
                     Search within topic
                 </label></h2>
                     <div class="searchtermtext"><h3>Higher Education</h3></div>
-                    <input name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$searchText" type="text" id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_searchText" class="searchField" /> 
-                    <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ExecuteSearch" class="searchBut" />
+                    <input name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$searchText" type="text" id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_searchText" class="searchField" /> 
+                    <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ExecuteSearch" class="searchBut" />
                 
 </div>
              </div>
-         </div>
-    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divHeading" class="Toolbox GlobalNavMain">  
-    
-        <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divParents" class="ToolboxContent GlobalNav">  
-            <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2ParentSubjects" class="GlobalNavSubheading">
-                
+         
+     </div>
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divHeading" class="Toolbox GlobalNavMain">  
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divParents" class="ToolboxContent GlobalNav">  
+        <h2 id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2ParentSubjects" class="GlobalNavSubheading">
+            
                         Expand by topic
-                    
-            </h2>
-        <h3>Government.no</h3><ul><li><a href="/en/topics/Education-and-research.html?id=930" title="" class="ISI_MENU">Education and research</a></li></ul></div>
-        
+                                
+        </h2>
+    <h3>Government.no</h3><ul><li><a href="/en/topics/education-and-research.html?id=930" title="" class="ISI_MENU">Education and research</a></li></ul></div>
+    
 
-        <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divRelated" class="ToolboxContent GlobalNav">
-            <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2HeaderRelated" class="GlobalNavSubheading">
-                
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divRelated" class="ToolboxContent GlobalNav">
+        <h2 id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2HeaderRelated" class="GlobalNavSubheading">
+            
                         Related
-                    
-            </h2> 
-        <h3>Ministry of Education and Research</h3><ul><li><a href="/en/dep/kd/Selected-topics/study-financing-.html?id=1422" title="" class="ISI_MENU">Educational support </a></li><li><a href="/en/dep/kd/Selected-topics/gender-equality-.html?id=486669" title="" class="ISI_MENU">Gender Equality </a></li></ul></div>
-</div> 
+                                
+        </h2> 
+    <h3>Ministry of Education and Research</h3><ul><li><a href="/en/dep/kd/Selected-topics/study-financing-.html?id=1422" title="" class="ISI_MENU">Educational support </a></li><li><a href="/en/dep/kd/Selected-topics/gender-equality-.html?id=486669" title="" class="ISI_MENU">Gender Equality </a></li></ul></div>
+</div>
 
                                         
-                                                
                                         
-        
-        
-
-                                                                        
                                         
-    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ucLovForskrift_divToolbox" class="Toolbox">  
+                                            
 
-      <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ucLovForskrift_TopicMapOneHopPageList1_ctl00_H2Header" class="ToolboxHeader">
+
+
+
+
+
+                                        
+                                        
+                                        
+                                        
+    
+
+                                        
+                                        
+                                        
+    
+
+<div class="Toolbox">  
+
+    
+          <h2 class="ToolboxHeader">
                         Associated law/regulation
                     </h2>
-      <div id="textpanel" class="ToolboxContent">
-        <ul>
-    
-        <li><a href="/en/doc/Laws/Acts/Act-relating-to-universities-and-university-colleges.html?id=213307" class="ISI_MENU" title='Lov:Act relating to universities and university colleges'>Act relating to universities and university colleges</a></li> 
-    
-        </ul>
-      </div> 
-    
-</div>
-
-    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl00_divToolbox" class="Toolbox">  
-
-        <h2 class="ToolboxHeader">Responsible organization</h2>
-        <div class="ToolboxContent">
+          <div id="textpanel" class="ToolboxContent">
             <ul>
-    
-        <li><a href="/en/dep/kd/About-the-Ministry/Subordinate-agencies-2/norwegian-agency-for-quality-assurance-i.html?id=426568" title="" class="ISI_MENU">Norwegian Agency for Quality Assurance in Education</a></li>
-    
-        <li><a href="/en/dep/kd/About-the-Ministry/Subordinate-agencies-2/the-norwegian-centre-for-international-c.html?id=426572" title="" class="ISI_MENU">The Norwegian Centre for International Cooperation in Higher Education</a></li>
-    
-        <li><a href="/en/dep/kd/About-the-Ministry/Subordinate-agencies-2/the-norwegian-state-educational-loan-fun.html?id=426562" title="" class="ISI_MENU">The Norwegian State Educational Loan Fund </a></li>
-    
-        <li><a href="/en/dep/kd/About-the-Ministry/Subordinate-agencies-2/the-norwegian-universities-and-colleges-.html?id=426565" title="" class="ISI_MENU">The Norwegian Universities and Colleges Admission Service</a></li>
-    
-        <li><a href="/en/dep/kd/About-the-Ministry/Subordinate-agencies-2/state-run-universities-and-university-co.html?id=434505" title="" class="ISI_MENU">Universities and University Colleges</a></li>
-    
+        
+            <li><a href="/en/dep/kd/documents/legislation/regulations/2010/regulations-relating-to-suitability-asse.html?id=640019" class="ISI_MENU" title="Forskrift:Regulations relating to suitability assessment in higher education -- Established by the Ministry of Education and Research on 30 June 2006 pursuant to section 4-10, sixth paragraph, of the Act of 1 April 2005 no. 15 relating to Universities and University Colleges   ">Regulations relating to suitability assessment in higher education</a></li> 
+        
+            <li><a href="/en/dep/kd/documents/legislation/regulations/2006/regulations-concerning-appointment-and-p.html?id=270830" class="ISI_MENU" title="Forskrift:Regulations concerning appointment and promotion to teaching and research posts -- Laid down by the Ministry of Education and Research 9 February 2006 with amendments issued 20 June 2007 pursuant to section 6-3, sixth paragraph, of the Act of 1 April 2005 No. 15 relating to universities and university colleges and in compliance with Council Directive 89/48 EEC and Directive 2001/19/EC of the European Parliament and of the Council.">Regulations concerning appointment and promotion to teaching and research posts</a></li> 
+        
+            <li><a href="/en/dep/kd/documents/legislation/regulations/2010/national-curriculum-for-sami-primary-and.html?id=594360" class="ISI_MENU" title="Forskrift:National Curriculum for Sami Primary and Lower Secondary Teacher Education Programmes -- National Curriculum Regulations for Differentiated Sami Primary and Lower Secondary Teacher Education Programmes for Years 1 – 7 and Years 5 – 10.">National Curriculum for Sami Primary and Lower Secondary Teacher Education Programmes</a></li> 
+        
+            <li><a href="/en/dep/kd/documents/legislation/regulations/2010/regulations-concerning-admission-to-high.html?id=640003" class="ISI_MENU" title="Forskrift:Regulations concerning Admission to Higher Education -- Legal basis: Established by the Ministry of Education and Research on 31 January 2007 based on section 3-6, section 3-7 and section 4-9 of the Act of 1 April 2005 no. 15 relating to Universities and University Colleges, cf. decision concerning delegation of 7 October 2005 no. 1107. ">Regulations concerning Admission to Higher Education</a></li> 
+        
+            <li><a href="/en/dep/kd/documents/legislation/regulations/2010/national-curriculum-regulations-for-diff.html?id=594357" class="ISI_MENU" title="Forskrift:National Curriculum Regulations for Differentiated Primary and Lower Secondary Teacher Education Programmes for Years 1 – 7 and Years 5 – 10 -- The Regulations apply to the 4-year differentiated primary and lower secondary teacher education programmes. The Regulations define the National Curriculum for primary and lower secondary teacher education programmes for years 1-7 and years 5-10.">National Curriculum Regulations for Differentiated Teacher Education</a></li> 
+        
+            <li><a href="/en/dep/kd/documents/legislation/regulations/2010/regulations-concerning-requirements-for-.html?id=640010" class="ISI_MENU" title="Forskrift:Regulations concerning Requirements for Master’s Degrees  -- Established by the Ministry of Education and Research on 1 December 2005 pursuant to section 3-2, subsection 1, and section 3-7, subsection 2, of the Act of 1 April 2005 no. 15 relating to Universities and University Colleges.">Regulations concerning Requirements for Master’s Degrees </a></li> 
+        
+            <li><a href="/en/dep/kd/documents/legislation/regulations/2006/Regulations-concerning-terms-and-conditions-of-employment-for-post-doctoral-research-fellow-research-fellow-and-research-assistant.html?id=92637" class="ISI_MENU" title="Forskrift:Regulations concerning terms and conditions of employment for post-doctoral research fellow, research fellow and research assistant -- Regulations concerning terms and conditions of employment for the posts of postdoktor (post-doctoral research fellow), stipendiat (research fellow), vitenskapelig assistent (research assistant) and spesialistkandidat (resident)">Regulations concerning terms and conditions of employment for post-doctoral research fellow, research fellow and research assistant</a></li> 
+        
+            <li><a href="/en/doc/laws/acts/act-relating-to-universities-and-univers.html?id=213307" class="ISI_MENU" title="Lov:Act relating to universities and university colleges -- The purpose of this Act is to make provisions for universities and university colleges to 
+
+a) Provide higher education at a high international level. 
+
+b) Conduct research and academic and artistic development work at a high international level. 
+
+c) Disseminate knowledge of the institution’s activities and promote the understanding and application of scientific and artistic methods and results in public administration, cultural life and business and industry.  
+">Act relating to universities and university colleges</a></li> 
+        
             </ul>
-        </div>
-           
+          </div> 
+              
+
 </div>
-    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo" class="Toolbox">   
-    <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_H2Header" class="ToolboxHeader">
-       
+    
+    
+
+<div class="Toolbox">  
+    
+            <h2 class="ToolboxHeader">Responsible organization</h2>
+            <div class="ToolboxContent">               
+                <ul>
+        
+            <li><a href="http://www.nokut.no/" title="" class="ISI_MENU">Norwegian Agency for Quality Assurance in Education</a></li>
+        
+            <li><a href="http://www.siu.no/en" title="" class="ISI_MENU">The Norwegian Centre for International Cooperation in Higher Education</a></li>
+        
+            <li><a href="http://www.lanekassen.no/Toppmeny/Languages/" title="" class="ISI_MENU">The Norwegian State Educational Loan Fund </a></li>
+        
+            <li><a href="http://info.samordnaopptak.no/english" title="" class="ISI_MENU">The Norwegian Universities and Colleges Admission Service</a></li>
+        
+                </ul>                
+            </div>
+                
+</div>    
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo" class="Toolbox" tabindex="66">
+    
+        <h2 class="ToolboxHeader">
+           
                         Contact information
                     
-    </h2>
+        </h2>
+    
                  
             <div class="ToolboxContent">
 					<h3 class="relatedContactHead">
-						 <a href="/en/dep/kd/About-the-Ministry/organisation/Departments/department-of-higher-education.html?id=1550" class="structuredDataEmail">Department of Higher Education</a>
+						 <a href="/en/dep/kd/about-the-ministry/organisation/Departments/department-of-higher-education.html?id=1550" class="structuredDataEmail">Department of Higher Education</a>
 					</h3>
-					<p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/images/emailimages/f66fa44b73d6eaf9fe52032f1aad8172.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_2', 'C2FCA3EDFEAEABA3AFEFA7E2A6ACA791FCE5E5FFA7AEBBB6B1E2E5ADACECB2A7A6ECA6A982A9A3B6B6ADAFB6B1ADB2F8ADB6AEABA3AFE5FFA4A7B0AAE2A3FE'));//--></script></p>
-					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
-						 
-						  
-						 
-					</table>
+					<p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/upload/system/emailimages/ae846821e9680346efe9705c93ea8d24.png' alt='' /><script type="text/javascript" id="Eos_2"><!--
+document.write(dc(2, '9FA1FEB0A3F3F6FEF2B2FABFFBF1FACCA1B8B8A2FAF3E6EBECBFB8F0F1B1EFFAFBB1FBF4DFF4FEEBEBF0F2EBECF0EFA5F0EBF3F6FEF2B8A2F9FAEDF7BFFEA3'));//--></script></p>
+					<p class="contactInfo">
+                        
+                        
+                        
+                    </p>
 					
-					            
-					<!-- Separator -->
             </div>
          
-</div>  
+</div>     
 
-                                                                                                   
-                                </div>
-                            
-                        </div>
-                        <div id="AreaLeft">
-                              
-                                <div id="AreaLeftNav" class="NavListV">
+                                        
                                     
-
-
-<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
-
-    <ul>
-        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/kd.html?id=586">
-            Ministry home</a></li></ul>
-
-<ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/News-and-latest-publications.html?id=587" title=''>
-            What's new</a>
-    </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/dep/kd/Selected-topics.html?id=588" title=''>
-            Selected Topics</a>
-    <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/study-financing-.html?id=1422" title=''>
-            Educational support </a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/gender-equality-.html?id=486669" title=''>
-            Gender Equality </a>
-    </li><li class="Selected">
-        <a class="Selected ISI_MENU" href="/en/dep/kd/Selected-topics/Higher-Education.html?id=1415" title=''>
-            Higher Education</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/International-Collaboration-on-Education.html?id=1192" title=''>
-            International Collaboration on Education and Research</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/kindergarden.html?id=1029" title=''>
-            Kindergarten</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/compulsory-education.html?id=1408" title=''>
-            Primary and Lower Secondary Education</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/research.html?id=1427" title=''>
-            Research</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/Tertiary-Vocational-Education-.html?id=87103" title=''>
-            Tertiary Vocational Education </a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/Selected-topics/upper-secondary-education.html?id=87102" title=''>
-            Upper Secondary Education and Training</a>
-    </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/press-contacts.html?id=589" title=''>
-            Press centre</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/Documents.html?id=313298" title=''>
-            Documents</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/About-the-Ministry.html?id=591" title=''>
-            The Ministry</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/kd/Archive.html?id=437352" title=''>
-            Archive</a>
-    </li></ul>
-
                                 </div>
-                              
                             
                         </div>
                     
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
+                    
                     <!-- ISI_STOP -->
-                </div>
                 </div>
             </div>
         </div>
-        
-         
-<div id="PageFooter"><p>Ministry of Education and Research, Akersgata 44, P.box 8119 Dep, 0032 Oslo.&nbsp;Tel. 22 24 90 90. E-mail: <img id='Eoi_3' class='obfimg' src='/images/emailimages/9786ee4a6fb5646e2c6752a36f5c0522.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_3', 'EF9F8A8BC18B84AF848E9B9B80829B9C809F'));//--></script>.no</p></div>
-        
-        
-        
-   
+    </div>
     
-
- 
+        
+<div id="PageFooter"><p>Ministry of Education and Research, Kirkegata 18, P.box 8119 Dep, 0032 Oslo.&nbsp;<br />Tel. 22 24 90 90. E-mail: <img id='Eoi_3' class='obfimg' src='/upload/system/emailimages/ae846821e9680346efe9705c93ea8d24.png' alt='' /><script type="text/javascript" id="Eos_3"><!--
+document.write(dc(3, '016E6F2F7164652F656A416A6075756E6C75726E71'));//--></script></p></div>
+<div title="web01" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web01" /></div>
     
+    
+    
+        
+
 
     
-
-<script type="text/javascript">
-//<![CDATA[
-var __wpmExportWarning='';var __wpmCloseProviderWarning='';var __wpmDeleteWarning='';//]]>
-</script>
-</form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
+    </form>
+    <div id="externalPageTrackers">
 	
-} else
-{    
-    //setAreaHeights();
-}
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
+</div>       
+    
+    
 
-<div id="ctl00_externalPageTrackers">
-	
-
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<div>
+    
 <script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no uses cookies to improve our service to the users. The cookies are mainly used for traffic measuring and for optimizing the site. Find more information on ",
+            messagepart2: ", or go back to regjeringen.no if you accept this.",
+            readMoreUrl: "http://www.regjeringen.no/en/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "use of cookies",
+            closeText: "Close"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
 //--></script>
-<!-- END Xtractor client tracker script -->
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
 
 </div>
+
+
+    
+
 </body>
 </html>

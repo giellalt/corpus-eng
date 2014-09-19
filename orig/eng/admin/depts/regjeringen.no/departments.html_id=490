@@ -1,38 +1,44 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
+    <!-- ISI_NOAUTOLANG -->
+    <title>
 	Departments - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="Departments" />
+<meta name="WT.ti" content="Departments" />
 <meta name="DCSext.regj.pagetype" content="Listeside" />
-<meta name="DCSext.regj.pageid" content="490" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
 <meta name="DCSext.regj.owner" content="jd" />
 <meta name="DCSext.regj.language" content="en-GB" />
+<meta name="DCSext.regj_lv2" content="dep" />
+<meta name="DCSext.regj_lv3" content="jd" />
+<meta name="DCSext.regj_lv4" content="about-the-ministry-of-justice-and-the-po" />
+<meta name="DCSext.regj_lv5" content="organization" />
+<meta name="DCSext.regj_lv6" content="Departments" />
+<meta name="DCSext.regj_g-page" content="490-g-page" />
 <meta name="TITLE" content="Departments" />
 <meta name="description" content="The main tasks of the Ministry:
-&amp;amp;nbsp;
+&amp;nbsp;
 1. Secretariat for the political staff- prepare cases for the Government, the King in Council and the Storting - help to carry out the policies of the Government 
-2. Management of agencies- development of a..." />
+2. Management of agencies- development of and c..." />
 <meta name="DC.Title" content="Departments" />
-<meta name="DC.Creator" content="Ministry of Justice and the Police" />
+<meta name="DC.Creator" content="Ministry of Justice and Public Security" />
 <meta name="DC.Description" content="The main tasks of the Ministry:
-&amp;amp;nbsp;
+&amp;nbsp;
 1. Secretariat for the political staff- prepare cases for the Government, the King in Council and the Storting - help to carry out the policies of the Government 
-2. Management of agencies- development of a..." />
+2. Management of agencies- development of and c..." />
 <meta name="DC.Date" content="2007-02-09" />
 <meta name="DC.Date.Available" content="2007-02-09" />
 <meta name="DC.Type.Status" content="Gyldig" />
 <meta name="DC.Type" content="Listeside" />
 <meta name="DC.Format" content="text/html" />
-<meta name="DC.Identifier.URL" content="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments.html?id=490" />
+<meta name="DC.Identifier.URL" content="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments.html?id=490" />
 <meta name="DC.Language" content="en-GB" />
 <meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DCSext.regj.lang-pref" content="en-GB" />
 <meta name="DC.Publisher" content="regjeringen.no" />
-<meta name="AUTHOR" content="Ministry of Justice and the Police" />
+<meta name="AUTHOR" content="Ministry of Justice and Public Security" />
 <meta name="creation_date" content="Fri, 09 Feb 2007 13:04:00 GMT" />
 <meta name="LAST-MODIFIED" content="Fri, 09 Feb 2007 13:05:22 GMT" />
 <meta name="REVISED" content="Fri, 09 Feb 2007 13:05:22 GMT" />
@@ -40,82 +46,96 @@
 <meta http-equiv="Content-Language" content="en" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
-
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/jd.css" media="all" /> 
-
-
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
-
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
 
 
 
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+    <!-- default styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/default_styles_combined_45D29949909B2B10854E130AC37BCE3C.css" />
+    <!--[if lt IE 6]
+        <link rel="stylesheet" type="text/css" href="/styles/ie55.css?v=2.1.11776" media="screen">
+
+    <![endif]-->
+
+
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/3Col_AF432B5349630A9B3C4A0BDD3743237C.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+<link rel="stylesheet" type="text/css" media="all" href="/styles/Profiles/jd_62F0DAB13E727C61946C89FE648214C8.css" />
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
+
+
+
+
+<link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web03.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=490" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web03.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=490" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments.html?id=490" id="aspnetForm" enctype="multipart/form-data">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1MDQxOTkxNjAPZBYCZg9kFghmDxUCAmVuAmVuZAIBEGRkFgICAg9kFgZmDxYCHgRUZXh0BesPPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZW5hbWUiIGNvbnRlbnQ9IkRlcGFydG1lbnRzIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXR5cGUiIGNvbnRlbnQ9Ikxpc3Rlc2lkZSIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VpZCIgY29udGVudD0iNDkwIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oub3duZXIiIGNvbnRlbnQ9ImpkIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oubGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iVElUTEUiIGNvbnRlbnQ9IkRlcGFydG1lbnRzIiAvPg0KPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IlRoZSBtYWluIHRhc2tzIG9mIHRoZSBNaW5pc3RyeToNCiZhbXA7YW1wO25ic3A7DQoxLiBTZWNyZXRhcmlhdCBmb3IgdGhlIHBvbGl0aWNhbCBzdGFmZi0gcHJlcGFyZSBjYXNlcyBmb3IgdGhlIEdvdmVybm1lbnQsIHRoZSBLaW5nIGluIENvdW5jaWwgYW5kIHRoZSBTdG9ydGluZyAtIGhlbHAgdG8gY2Fycnkgb3V0IHRoZSBwb2xpY2llcyBvZiB0aGUgR292ZXJubWVudCANCjIuIE1hbmFnZW1lbnQgb2YgYWdlbmNpZXMtIGRldmVsb3BtZW50IG9mIGEuLi4iIC8+DQo8bWV0YSBuYW1lPSJEQy5UaXRsZSIgY29udGVudD0iRGVwYXJ0bWVudHMiIC8+DQo8bWV0YSBuYW1lPSJEQy5DcmVhdG9yIiBjb250ZW50PSJNaW5pc3RyeSBvZiBKdXN0aWNlIGFuZCB0aGUgUG9saWNlIiAvPg0KPG1ldGEgbmFtZT0iREMuRGVzY3JpcHRpb24iIGNvbnRlbnQ9IlRoZSBtYWluIHRhc2tzIG9mIHRoZSBNaW5pc3RyeToNCiZhbXA7YW1wO25ic3A7DQoxLiBTZWNyZXRhcmlhdCBmb3IgdGhlIHBvbGl0aWNhbCBzdGFmZi0gcHJlcGFyZSBjYXNlcyBmb3IgdGhlIEdvdmVybm1lbnQsIHRoZSBLaW5nIGluIENvdW5jaWwgYW5kIHRoZSBTdG9ydGluZyAtIGhlbHAgdG8gY2Fycnkgb3V0IHRoZSBwb2xpY2llcyBvZiB0aGUgR292ZXJubWVudCANCjIuIE1hbmFnZW1lbnQgb2YgYWdlbmNpZXMtIGRldmVsb3BtZW50IG9mIGEuLi4iIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlIiBjb250ZW50PSIyMDA3LTAyLTA5IiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZS5BdmFpbGFibGUiIGNvbnRlbnQ9IjIwMDctMDItMDkiIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlLlN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZSIgY29udGVudD0iTGlzdGVzaWRlIiAvPg0KPG1ldGEgbmFtZT0iREMuRm9ybWF0IiBjb250ZW50PSJ0ZXh0L2h0bWwiIC8+DQo8bWV0YSBuYW1lPSJEQy5JZGVudGlmaWVyLlVSTCIgY29udGVudD0iL2VuL2RlcC9qZC9BYm91dC10aGUtTWluaXN0cnktb2YtSnVzdGljZS1hbmQtdGhlLVBvL09yZ2FuaXphdGlvbi9EZXBhcnRtZW50cy5odG1sP2lkPTQ5MCIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlLlByZWZlcmVuY2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iREMuUHVibGlzaGVyIiBjb250ZW50PSJyZWdqZXJpbmdlbi5ubyIgLz4NCjxtZXRhIG5hbWU9IkFVVEhPUiIgY29udGVudD0iTWluaXN0cnkgb2YgSnVzdGljZSBhbmQgdGhlIFBvbGljZSIgLz4NCjxtZXRhIG5hbWU9ImNyZWF0aW9uX2RhdGUiIGNvbnRlbnQ9IkZyaSwgMDkgRmViIDIwMDcgMTM6MDQ6MDAgR01UIiAvPg0KPG1ldGEgbmFtZT0iTEFTVC1NT0RJRklFRCIgY29udGVudD0iRnJpLCAwOSBGZWIgMjAwNyAxMzowNToyMiBHTVQiIC8+DQo8bWV0YSBuYW1lPSJSRVZJU0VEIiBjb250ZW50PSJGcmksIDA5IEZlYiAyMDA3IDEzOjA1OjIyIEdNVCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVudD0iZW4iIC8+DQpkAgEPFgIeB1Zpc2libGVoZAICDxYCHgtfIUl0ZW1Db3VudGZkAgMQZGQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILD2QWAmYPFQFfI2N0bDAwX0Z1bGxSZWdpb25fQ2VudGVyQW5kUmlnaHRSZWdpb25fUmlnaHRSZWdpb25fUmlnaHRSZWdpb25Db250YWN0SW5mb19jdGwwMF9BcmVhQ29udGFjdEluZm9kAg0PZBYCZg9kFgJmD2QWAgIBD2QWCGYPDxYGHgdUb29sVGlwBS5LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkZW4gcMOlIGJva23DpWwuHwAFB0Jva23DpWweC05hdmlnYXRlVXJsBS8vdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTQ5MCZlcHNsYW5ndWFnZT1ub2RkAgEPDxYGHwMFLUtsaWtrIGhlciBmb3Igw6UgdmlzZSBkZW5uZSBzaWRhIHDDpSBueW5vcnNrLh8ABQdOeW5vcnNrHwQFMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDkwJmVwc2xhbmd1YWdlPW5uLU5PZGQCAg8PFgYfAwU0Q29haGtrYWwgZMOha2tvIGRlIG9haW5uw6F0IGTDoW4gc2lpZGR1IHPDoW1lZ2lsbGlpLh8ABQtTw6FtZWdpZWxsYR8EBTIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTQ5MCZlcHNsYW5ndWFnZT1zZS1OT2RkAgMPDxYGHwMFIlRoaXMgcGFnZSBpcyBkaXNwbGF5ZWQgaW4gZW5nbGlzaC4fAAUHRW5nbGlzaB8EBTIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTQ5MCZlcHNsYW5ndWFnZT1lbi1HQmRkAgIPFQEBIGQCAw9kFgxmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCAQ8VAQtQb3J0YWwgaG9tZWQCAg9kFgZmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCAg8VAzovdGVtcGxhdGVzL0dlbmVyZWxsRm9yc2lkZS5hc3B4P2lkPTg1ODQzJmVwc2xhbmd1YWdlPWVuLUdCHFN0b2x0ZW5iZXJnJ3MgMm5kIEdvdmVybm1lbnQyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD05MzMmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgUPZBYCZg9kFgJmDxYCHglfUGFnZUxpbmsoKW5FUGlTZXJ2ZXIuQ29yZS5QYWdlUmVmZXJlbmNlLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwM5MzMWJAIBD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTg3NSZlcHNsYW5ndWFnZT1lbi1HQiBUaGUgT2ZmaWNlIG9mIHRoZSBQcmltZSBNaW5pc3RlcmQCAg9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0xNjUmZXBzbGFuZ3VhZ2U9ZW4tR0ISTWluaXN0cnkgb2YgTGFib3VyZAIDD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTI5OCZlcHNsYW5ndWFnZT1lbi1HQjNNaW5pc3RyeSBvZiBDaGlsZHJlbiwgRXF1YWxpdHkgYW5kIFNvY2lhbCBJbmNsdXNpb25kAgQPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MjE2JmVwc2xhbmd1YWdlPWVuLUdCE01pbmlzdHJ5IG9mIEZpbmFuY2VkAgUPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MjU3JmVwc2xhbmd1YWdlPWVuLUdCKU1pbmlzdHJ5IG9mIEZpc2hlcmllcyBhbmQgQ29hc3RhbCBBZmZhaXJzZAIGD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTMzOSZlcHNsYW5ndWFnZT1lbi1HQkBNaW5pc3RyeSBvZiBHb3Zlcm5tZW50IEFkbWluaXN0cmF0aW9uLCBSZWZvcm0gYW5kIENodXJjaCBBZmZhaXJzZAIHD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTM4MCZlcHNsYW5ndWFnZT1lbi1HQhNNaW5pc3RyeSBvZiBEZWZlbmNlZAIID2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTQyMSZlcHNsYW5ndWFnZT1lbi1HQiRNaW5pc3RyeSBvZiBIZWFsdGggYW5kIENhcmUgU2VydmljZXNkAgkPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NDYzJmVwc2xhbmd1YWdlPWVuLUdCIk1pbmlzdHJ5IG9mIEp1c3RpY2UgYW5kIHRoZSBQb2xpY2VkAgoPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NTA0JmVwc2xhbmd1YWdlPWVuLUdCNU1pbmlzdHJ5IG9mIExvY2FsIEdvdmVybm1lbnQgYW5kIFJlZ2lvbmFsIERldmVsb3BtZW50ZAILD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTU0NSZlcHNsYW5ndWFnZT1lbi1HQhRNaW5pc3RyeSBvZiBDdWx0dXJlIGQCDA9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD01ODYmZXBzbGFuZ3VhZ2U9ZW4tR0IiTWluaXN0cnkgb2YgRWR1Y2F0aW9uIGFuZCBSZXNlYXJjaGQCDQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD02MjcmZXBzbGFuZ3VhZ2U9ZW4tR0IgTWluaXN0cnkgb2YgQWdyaWN1bHR1cmUgYW5kIEZvb2RkAg4PZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NjY4JmVwc2xhbmd1YWdlPWVuLUdCG01pbmlzdHJ5IG9mIHRoZSBFbnZpcm9ubWVudGQCDw9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD03MDkmZXBzbGFuZ3VhZ2U9ZW4tR0IeTWluaXN0cnkgb2YgVHJhZGUgYW5kIEluZHVzdHJ5ZAIQD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTc1MCZlcHNsYW5ndWFnZT1lbi1HQiBNaW5pc3RyeSBvZiBQZXRyb2xldW0gYW5kIEVuZXJneWQCEQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD03OTEmZXBzbGFuZ3VhZ2U9ZW4tR0IoTWluaXN0cnkgb2YgVHJhbnNwb3J0IGFuZCBDb21tdW5pY2F0aW9uc2QCEg9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD04MzMmZXBzbGFuZ3VhZ2U9ZW4tR0IbTWluaXN0cnkgb2YgRm9yZWlnbiBBZmZhaXJzZAIDDxUBNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD00NjMmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgQPFQEiTWluaXN0cnkgb2YgSnVzdGljZSBhbmQgdGhlIFBvbGljZWQCBg9kFhJmD2QWBGYPZBYCZg9kFgQCAg8VBC1TZWFyY2ggdGhlIE1pbmlzdHJ5IG9mIEp1c3RpY2UgYW5kIHRoZSBQb2xpY2UGU2VhcmNoEVF1aWNrU2VhcmNoQnV0dG9uBlNlYXJjaGQCAw8PFgIfAAUbU2VhcmNoIGFsbCBvZiBnb3Zlcm5tZW50Lm5vZGQCAQ8PFgIeC19pc0VkaXRhYmxlaGRkAgEPFQEeL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3RpcHMuZ2lmZAIFDxUBIS9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9wcmludF90LmdpZmQCCA8VAyMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvc21hbGxUZXh0LmdpZiQvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbWVkaXVtVGV4dC5naWYjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL2xhcmdlVGV4dC5naWZkAgkPZBYCZg8VAq4BaHR0cDovL2lzaS5waG9uZXRpY29tLmNvbS9jZ2ktYmluL3JzeHQ/dXJsPWh0dHA6Ly93d3cucmVnamVyaW5nZW4ubm8vZW4vZGVwL2pkL0Fib3V0LXRoZS1NaW5pc3RyeS1vZi1KdXN0aWNlLWFuZC10aGUtUG8vT3JnYW5pemF0aW9uL0RlcGFydG1lbnRzLmh0bWw/aWQ9NDkwJmFtcDtjdXN0b21lcmlkPTE5Hy9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9seWRfdC5naWZkAgoPZBYCAgEPDxYEHwQFNi90ZW1wbGF0ZXMvVGVtYUluZGVrcy5hc3B4P2lkPTIyMzQ4NiZlcHNsYW5ndWFnZT1lbi1HQh8ABQpUb3BpY3MgQS1aZGQCCw9kFgICAQ8PFgQfBAU5L3RlbXBsYXRlcy9OZXR0c3RlZHNrYXJ0LmFzcHg/aWQ9MzEzODI1JmVwc2xhbmd1YWdlPWVuLUdCHwAFCFNpdGUgTWFwZGQCDA8PFgQfBAU1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00ODg2NDEmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUESGVscGRkAg0PDxYEHwQFPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00NzEmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUHQ29udGFjdGRkAgQPZBYEAgEPZBYGAgEPZBYCAgEPZBYEZg8PFgIfAWhkZAIBD2QWEAIDDw8WAh8ABR1SZWNpcGllbnTigJlzIGUtbWFpbCBhZGRyZXNzOmRkAgcPDxYCHgxFcnJvck1lc3NhZ2UFJVlvdSBtdXN0IGdpdmUgYSB2YWxpZCBlLW1haWwgYWRkcmVzcy5kZAIJDw8WAh8HBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCCw8PFgIfAAUUWW91ciBlLW1haWwgYWRkcmVzczpkZAIPDw8WAh8HBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCEQ8PFgIfBwUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAhMPDxYCHwAFCE1lc3NhZ2U6ZGQCFw8PFgIfAAUJU2VuZCBtYWlsZGQCAw9kFgwCAQ9kFg5mD2QWAmYPFgIfAAWVA1lvdSBhcmUgaGVyZTogPGEgaHJlZj0iL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCIj5Hb3Zlcm5tZW50Lm5vPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD00NjMmZXBzbGFuZ3VhZ2U9ZW4tR0IiPk1pbmlzdHJ5IG9mIEp1c3RpY2UgYW5kIHRoZS4uLjwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDY4JmVwc2xhbmd1YWdlPWVuLUdCIj5BYm91dCB0aGUgTWluaXN0cnkgb2YgSnVzdGkuLi48L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQ4NyZlcHNsYW5ndWFnZT1lbi1HQiI+T3JnYW5pemF0aW9uPC9hPiAvIDxzcGFuPkRlcGFydG1lbnRzPC9zcGFuPmQCAQ8VAQBkAgIPZBYCZg8WAh8ABZUDWW91IGFyZSBoZXJlOiA8YSBocmVmPSIvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkdvdmVybm1lbnQubm88L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTQ2MyZlcHNsYW5ndWFnZT1lbi1HQiI+TWluaXN0cnkgb2YgSnVzdGljZSBhbmQgdGhlLi4uPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00NjgmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkFib3V0IHRoZSBNaW5pc3RyeSBvZiBKdXN0aS4uLjwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDg3JmVwc2xhbmd1YWdlPWVuLUdCIj5Pcmdhbml6YXRpb248L2E+IC8gPHNwYW4+RGVwYXJ0bWVudHM8L3NwYW4+ZAIDD2QWCAIBD2QWBgIBDxUBB1N0YXR1czpkAgIPFgIfAWgWAmYPFQE4DQogICAgICAgICAgICAgICAgICAgICAgICBBcmNoaXZlZA0KICAgICAgICAgICAgICAgICAgICBkAgQPFgIfAWgWAmYPFQE4DQogICAgICAgICAgICAgICAgICAgICAgICBSZXBsYWNlZA0KICAgICAgICAgICAgICAgICAgICBkAgIPFQELRGVwYXJ0bWVudHNkAgMPFgIfAWgWAmYPFQEAZAIFD2QWAmYPFQHjCDxoMyBhbGlnbj0ibGVmdCI+VGhlIG1haW4gdGFza3Mgb2YgdGhlIE1pbmlzdHJ5OjwvaDM+DQo8cCBhbGlnbj0ibGVmdCI+PGI+PC9iPiZuYnNwOzwvcD4NCjxwIGFsaWduPSJsZWZ0Ij48Yj4xLiBTZWNyZXRhcmlhdCBmb3IgdGhlIHBvbGl0aWNhbCBzdGFmZjxiciBjbGVhcj0iYWxsIiAvPjwvYj4tIHByZXBhcmUgY2FzZXMgZm9yIHRoZSBHb3Zlcm5tZW50LCB0aGUgS2luZyBpbiBDb3VuY2lsIGFuZCB0aGUgU3RvcnRpbmcgPGJyIGNsZWFyPSJhbGwiIC8+LSBoZWxwIHRvIGNhcnJ5IG91dCB0aGUgcG9saWNpZXMgb2YgdGhlIEdvdmVybm1lbnQgPC9wPjxiIHN0eWxlPSJtc28tYmlkaS1mb250LXdlaWdodDogbm9ybWFsIj48L2I+DQo8cCBhbGlnbj0ibGVmdCI+PGI+Mi4gTWFuYWdlbWVudCBvZiBhZ2VuY2llczxiciBjbGVhcj0iYWxsIiAvPjwvYj4tIGRldmVsb3BtZW50IG9mIGFuZCBjb250YWN0IHdpdGggZXh0ZXJuYWwgYWdlbmNpZXMgYW5kIHRoZSBjb3VydHMgPC9wPjxiIHN0eWxlPSJtc28tYmlkaS1mb250LXdlaWdodDogbm9ybWFsIj48L2I+DQo8cCBhbGlnbj0ibGVmdCI+PGI+My4gQWRtaW5pc3RyYXRpb248YnIgY2xlYXI9ImFsbCIgLz48L2I+LSByZXNwb25zaWJpbGl0eSBmb3IgYWRtaW5pc3RyYXRpdmUgdGFza3MgdGhhdCBhZmZlY3QgaW5kaXZpZHVhbHMsIGNvbXBhbmllcywgaW5zdGl0dXRpb25zLCBtdW5pY2lwYWxpdGllcyBhbmQgZ292ZXJubWVudCBhZ2VuY2llcyA8YnIgY2xlYXI9ImFsbCIgLz4tIHNlcnZpY2UgdG8gdGhlIGdlbmVyYWwgcHVibGljIDwvcD48YSBuYW1lPSJkb2sxLjAuMiI+PC9hPjxhIG5hbWU9ImRvay5pbmcuMC4yIj48L2E+DQo8aDMgYWxpZ249ImxlZnQiPlByaW9yaXR5IGFyZWFzIG9mIHRoZSBNaW5pc3RyeSBvZiBKdXN0aWNlOjwvaDM+DQo8dWwgdHlwZT0iZGlzYyI+DQo8bGk+cmVkdWNpbmcgY3JpbWUgPC9saT4NCjxsaT5zZWN1cml0eSBhbmQgdGhlIHJ1bGUgb2YgbGF3IDwvbGk+DQo8bGk+b3Blbm5lc3MgYW5kIGRlbW9jcmFjeSA8L2xpPg0KPGxpPmV4ZWN1dGluZyB0aGUgdGFza3Mgb2YgdGhlIENyaW1pbmFsIEp1c3RpY2UgU3lzdGVtIGFuZCBwcm92aWRpbmcgc2VydmljZSB0byB0aGUgcHVibGljIDwvbGk+PC91bD5kAgQPZBYCZg8WAh8ABZUDWW91IGFyZSBoZXJlOiA8YSBocmVmPSIvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkdvdmVybm1lbnQubm88L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTQ2MyZlcHNsYW5ndWFnZT1lbi1HQiI+TWluaXN0cnkgb2YgSnVzdGljZSBhbmQgdGhlLi4uPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00NjgmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkFib3V0IHRoZSBNaW5pc3RyeSBvZiBKdXN0aS4uLjwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDg3JmVwc2xhbmd1YWdlPWVuLUdCIj5Pcmdhbml6YXRpb248L2E+IC8gPHNwYW4+RGVwYXJ0bWVudHM8L3NwYW4+ZAIFD2QWBgIBD2QWAmYPFgIfAWhkAgIPFQMLRGVwYXJ0bWVudHMMZGlzcGxheTpub25lAGQCAw9kFgJmDxUB4wg8aDMgYWxpZ249ImxlZnQiPlRoZSBtYWluIHRhc2tzIG9mIHRoZSBNaW5pc3RyeTo8L2gzPg0KPHAgYWxpZ249ImxlZnQiPjxiPjwvYj4mbmJzcDs8L3A+DQo8cCBhbGlnbj0ibGVmdCI+PGI+MS4gU2VjcmV0YXJpYXQgZm9yIHRoZSBwb2xpdGljYWwgc3RhZmY8YnIgY2xlYXI9ImFsbCIgLz48L2I+LSBwcmVwYXJlIGNhc2VzIGZvciB0aGUgR292ZXJubWVudCwgdGhlIEtpbmcgaW4gQ291bmNpbCBhbmQgdGhlIFN0b3J0aW5nIDxiciBjbGVhcj0iYWxsIiAvPi0gaGVscCB0byBjYXJyeSBvdXQgdGhlIHBvbGljaWVzIG9mIHRoZSBHb3Zlcm5tZW50IDwvcD48YiBzdHlsZT0ibXNvLWJpZGktZm9udC13ZWlnaHQ6IG5vcm1hbCI+PC9iPg0KPHAgYWxpZ249ImxlZnQiPjxiPjIuIE1hbmFnZW1lbnQgb2YgYWdlbmNpZXM8YnIgY2xlYXI9ImFsbCIgLz48L2I+LSBkZXZlbG9wbWVudCBvZiBhbmQgY29udGFjdCB3aXRoIGV4dGVybmFsIGFnZW5jaWVzIGFuZCB0aGUgY291cnRzIDwvcD48YiBzdHlsZT0ibXNvLWJpZGktZm9udC13ZWlnaHQ6IG5vcm1hbCI+PC9iPg0KPHAgYWxpZ249ImxlZnQiPjxiPjMuIEFkbWluaXN0cmF0aW9uPGJyIGNsZWFyPSJhbGwiIC8+PC9iPi0gcmVzcG9uc2liaWxpdHkgZm9yIGFkbWluaXN0cmF0aXZlIHRhc2tzIHRoYXQgYWZmZWN0IGluZGl2aWR1YWxzLCBjb21wYW5pZXMsIGluc3RpdHV0aW9ucywgbXVuaWNpcGFsaXRpZXMgYW5kIGdvdmVybm1lbnQgYWdlbmNpZXMgPGJyIGNsZWFyPSJhbGwiIC8+LSBzZXJ2aWNlIHRvIHRoZSBnZW5lcmFsIHB1YmxpYyA8L3A+PGEgbmFtZT0iZG9rMS4wLjIiPjwvYT48YSBuYW1lPSJkb2suaW5nLjAuMiI+PC9hPg0KPGgzIGFsaWduPSJsZWZ0Ij5Qcmlv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ZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9NDY0JmVwc2xhbmd1YWdlPWVuLUdCAAROZXdzZAIED2QWAmYPFQEAZAIFD2QWAmYPFQM/L3RlbXBsYXRlcy9EZXBhcnRlbWVudFRlbWFGb3JzaWRlLmFzcHg/aWQ9NDY1JmVwc2xhbmd1YWdlPWVuLUdCAA9TZWxlY3RlZCB0b3BpY3NkAgcPZBYCZg8VAQBkAggPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9NDY2JmVwc2xhbmd1YWdlPWVuLUdCAAxQcmVzcyBjZW50cmVkAgoPZBYCZg8VAQBkAgsPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzEzMDIyJmVwc2xhbmd1YWdlPWVuLUdCABpEb2N1bWVudHMgYW5kIHB1YmxpY2F0aW9uc2QCDQ9kFgJmDxUBCFNlbGVjdGVkZAIOD2QWAmYPFQQAPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00NjgmZXBzbGFuZ3VhZ2U9ZW4tR0IALEFib3V0IHRoZSBNaW5pc3RyeSBvZiBKdXN0aWNlIGFuZCB0aGUgUG9saWNlZAIQD2QWAmYPFQEAZAIRD2QWAmYPFQM/L3RlbXBsYXRlcy9QZXJzb25Qb2xpdGlza0xlZGVsc2UuYXNweD9pZD0xNDM1JmVwc2xhbmd1YWdlPWVuLUdCACJNaW5pc3RlciBvZiBKdXN0aWNlIGFuZCB0aGUgUG9saWNlZAITD2QWAmYPFQEAZAIUD2QWAmYPFQMyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00ODUmZXBzbGFuZ3VhZ2U9ZW4tR0IAFU90aGVyIHBvbGl0aWNhbCBzdGFmZmQCFg9kFgJmDxUBCFNlbGVjdGVkZAIXD2QWAmYPFQQAPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00ODcmZXBzbGFuZ3VhZ2U9ZW4tR0IADE9yZ2FuaXphdGlvbmQCGQ9kFgJmDxUBCFNlbGVjdGVkZAIaD2QWAmYPFQMyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00OTAmZXBzbGFuZ3VhZ2U9ZW4tR0IAC0RlcGFydG1lbnRzZAIeD2QWAmYPFQEAZAIfD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQ3MSZlcHNsYW5ndWFnZT1lbi1HQgAHQ29udGFjdGQCIw9kFgJmDxUBAGQCJA9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00NjkmZXBzbGFuZ3VhZ2U9ZW4tR0IAEVNvdW5kIGFuZCBwaWN0dXJlZAImD2QWAmYPFQEAZAInD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQzNzM0OSZlcHNsYW5ndWFnZT1lbi1HQgAQRG9jdW1lbnQgYXJjaGl2ZWQCBQ9kFgICAQ9kFgJmDxUBmAM8cCBhbGlnbj0ibGVmdCI+TWluaXN0cnkgb2YgSnVzdGljZSBhbmQgdGhlIFBvbGljZSwgQWtlcnNnYXRlbiA0MiAoSC1ibG9rayksIFBvc3Rib2tzIDgwMDUgRGVwLCAwMDMwIE9zbG8sIE5vcndheSZuYnNwO3wgVGVsLiArNDcgMjIgMjQgOTAgOTA8L3A+DQo8cCBhbGlnbj0ibGVmdCI+RS1tYWlsOiA8YSBocmVmPSJtYWlsdG86cG9zdG1vdHRha0BqZC5kZXAubm8iPnBvc3Rtb3R0YWtAamQuZGVwLm5vPC9hPiB8IFdlYi1lZGl0b3I6IDxhIGhyZWY9Im1haWx0bzpzdGlhbi5zdGFuZy5jaHJpc3RpYW5zZW5AamQuZGVwLm5vIj5TdGlhbiBTdGFuZyBDaHJpc3RpYW5zZW48L2E+IHwgRWRpdG9yOiA8YSBocmVmPSJtYWlsdG86Z3VubmFyLmpvaGFuc2VuQGpkLmRlcC5ubyI+R3VubmFyIEEuIEpvaGFuc2VuPC9hPjwvcD5kAgUPZBYCZg8VARgvc2NyaXB0L2pzL3NkY18wOTA4MTkuanNkGAwFgAFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJERvY3VtZW50UmVsYXRpb25zaGlwMiRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBUdjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRlbWFpbEFsZXJ0JG11bHRpVmlldw8PZGZkBWFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0aW5nVW5pdmVyc2FsSGVhZGVyJGNoaWxkcmVubGlzdCRjaGlsZHBhZ2VzDw9mZGQFQmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAxJFBhZ2VMaXN0MQ8PZmRkBSVjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSR1eFZpZXdzDw9kZmQFfmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkUmVsYXRlZExvdkZvcnNrcmlmdCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBStjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSRNdWx0aVBhZ2VMaXN0Dw9mZGQFgAFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJEFzc29jaWF0ZWRFeHRlcm5hbE9yZyRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBXdjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJEhvcmluZ3NOb3RhdCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBVBjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0aW5nVW5pdmVyc2FsJGxzdFVuaXZlcnNhbA8PZmRkBVhjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kY3RsMDAkUGFnZUxpc3QxDw9mZGQFdmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkSG9yaW5nc0ZseXQkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZDnnSGVx0zJeT2uuBg05ihMjqAlZ" />
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments.html?id=490" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQwNzg2MDcxM2QYEQVCY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDEkUGFnZUxpc3QxDw9mZGQFRmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJHBhZ2luZ0NvbnRyb2xCb3R0b20PMrUCAAEAAAD/////AQAAAAAAAAAMAgAAAEZSZWdqZXJpbmdlbiwgVmVyc2lvbj0xLjAuMC4xNTc1OSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAAA/UmVnamVyaW5nZW4udGVtcGxhdGVzLlVuaXRzLlBhZ2luZ0NvbnRyb2wrUGFnaW5nU3RhdGVQcm9wZXJ0aWVzBAAAABs8QWN0aXZlUGFnZT5rX19CYWNraW5nRmllbGQZPEhpdENvdW50PmtfX0JhY2tpbmdGaWVsZBk8UGFnZVNpemU+a19fQmFja2luZ0ZpZWxkITxOYXZpZ2F0b3JzUHJQYWdlPmtfX0JhY2tpbmdGaWVsZAAAAAAICAgIAgAAAAEAAAALAAAAFAAAAA8AAAALZAVQY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbCRsc3RVbml2ZXJzYWwPD2ZkZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDEkTXVsdGlQYWdlTGlzdA8PZmRkBUNjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRwYWdpbmdDb250cm9sVG9wDzK1AgABAAAA/////wEAAAAAAAAADAIAAABGUmVnamVyaW5nZW4sIFZlcnNpb249MS4wLjAuMTU3NTksIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49bnVsbAUBAAAAP1JlZ2plcmluZ2VuLnRlbXBsYXRlcy5Vbml0cy5QYWdpbmdDb250cm9sK1BhZ2luZ1N0YXRlUHJvcGVydGllcwQAAAAbPEFjdGl2ZVBhZ2U+a19fQmFja2luZ0ZpZWxkGTxIaXRDb3VudD5rX19CYWNraW5nRmllbGQZPFBhZ2VTaXplPmtfX0JhY2tpbmdGaWVsZCE8TmF2aWdhdG9yc1ByUGFnZT5rX19CYWNraW5nRmllbGQAAAAACAgICAIAAAABAAAACwAAABQAAAAPAAAAC2QFfmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkUmVsYXRlZExvdkZvcnNrcmlmdCRSZWxhdGlvbk9uZUhvcFBhZ2VMaXN0MQ8PZmRkBSVjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwMSR1eFZpZXdzDw9kZmQFgQFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJERvY3VtZW50UmVsYXRpb25zaGlwMiRSZWxhdGlvbnNPbmVIb3BQYWdlTGlzdDEPD2ZkZAV1Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRIb2VyaW5nRm9yJFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFYWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGxpc3RpbmdVbml2ZXJzYWxIZWFkZXIkY2hpbGRyZW5saXN0JGNoaWxkcGFnZXMPD2ZkZAVHY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kZW1haWxBbGVydCRtdWx0aVZpZXcPD2RmZAVPY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbEhlYWRlciRWaWV3cw8PZAIBZAV4Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRIb2VyaW5nc05vdGF0JFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFT2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kVGlwQUZyaWVuZFBsYWNlaG9sZGVyJFRpcEFGcmllbmQkVGlwVmlld3MPD2QCAWQFHWN0bDAwJFJlcXVpcmVkUmVzb3VyY2VzSGVhZGVyDwUGSGVhZGVyZAViY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAWAAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGSZ1yzKdj+KLd7iNesqRFfICaWxLQ==" />
 </div>
 
+
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAfuTI6PjNTqgrjflaiHqa/4rya5utHaP3uHQRI8Uid46dZdaX9ImkQXICqL304eO0T0gj75UQ9fU7oniCuKKB90LtoGARvq0HfwzdD5C1xPl1zcSGLuJnn1LsnNPrGy3b0CPsJsdyXXHy+3yhLCVdHJQBHXp9EiM5oRx5c7uxjOSbdL3yE=" />
+</div>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl00_AreaContactInfo">Go to contact information</a></li>
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">Go to search</a><a href="#Content" tabindex="3">Go to content</a><a href="#AreaTopSiteNav" tabindex="4">Go to top menu</a><a href="#AreaLeft" tabindex="5">Go to left menu</a>
+    
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/jd/dep/org/avdelinger.html?id=490">Bokmål</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/dep/jd/Om-departementet/Organisasjon/Avdelingar.html?id=490">Nynorsk</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/jd/Justisdepartementta-birra/Organisauvdna/Ossodagat.html?id=490">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments.html?id=490">English</a></li>
+        <li class="First Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/jd/dep/org/avdelinger.html?id=490">Bokmål</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/dep/jd/dep/org/avdelingar.html?id=490">Nynorsk</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/jd/justisdepartementta-birra/Organisauvdna/Ossodagat.html?id=490">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments.html?id=490">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/en.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/en.html?id=4" tabindex="20">
+                                            government.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/en/the-government/solberg/members-of-the-government-2.html?id=543170' class="ISI_MENU" tabindex="21">Solberg’s Government</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/en/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Ministries
+                                        </a>
+                                        
     <ul>
   
     <li>
@@ -123,7 +143,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+        <a href="/en/dep/asd.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour and Social Affairs</a>
     </li>
   
     <li>
@@ -135,14 +155,6 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
-    </li>
-  
-    <li>
         <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
     </li>
   
@@ -151,15 +163,19 @@ function printPage()
     </li>
   
     <li class="Selected">
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and Public Security</a>
     </li>
   
     <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
+        <a href="/en/dep/kld.html?id=668" class="NormalLink ISI_MENU">Ministry of Climate and Environment</a>
     </li>
   
     <li>
-        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
+        <a href="/en/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Modernisation</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
     </li>
   
     <li>
@@ -171,11 +187,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+        <a href="/en/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade, Industry and Fisheries</a>
     </li>
   
     <li>
@@ -194,155 +206,238 @@ function printPage()
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en/dep/jd.html?id=463"><img class="ProfileLogo" src="/styles/Images/jd/jd_en.gif" alt='Ministry of Justice and the Police' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/en/dep/jd.html?id=463" tabindex="34"><img class="ProfileLogo" src="/styles/Images/jd/jd_en.gif" alt='Ministry of Justice and Public Security' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
-    <label for="quicksearchinput" class="QuickSearchHeader">Search the Ministry of Justice and the Police</label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
-    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Search all of government.no</a></span>
+    <label for="quicksearchinput" class="QuickSearchHeader">Search the Ministry of Justice and Public Security</label>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Search" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Search" />        
+    <span><a id="TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" tabindex="32" class="QuickSearchLinkToMainSearch" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Search all of government.no</a></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Share/Send' /><span class="open" id="open">Share/Send</span><span class="display-none" id="close">Close</span></a></li>
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments.html?id=490&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/dep/jd/Site-Map.html?id=313825">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/contact.html?id=471">Contact</a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Click here to print this page' />Print</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/templates/Listeside.aspx?id=490&amp;epslanguage=en-GB&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal font size' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Listeside.aspx?id=490&amp;epslanguage=en-GB&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium font size' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Listeside.aspx?id=490&amp;epslanguage=en-GB&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Large font size' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments.html?id=490&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/en/dep/jd/Site-Map.html?id=313825">Site Map</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/contact.html?id=471">Contact</a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
+                        <div id="AreaLeft">
+                            
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/jd.html?id=463" tabindex="41">
+            Ministry home</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU" href="/en/dep/jd/whats-new.html?id=464" title="" tabindex="42">
+            News</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/jd/Subjects.html?id=465" title="" tabindex="43">
+            Selected topics</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/jd/press-center.html?id=466" title="" tabindex="44">
+            Press Office</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/jd/documents-and-publications.html?id=313022" title="" tabindex="45">
+            Documents</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU " href="/en/dep/jd/about-the-ministry-of-justice-and-the-po.html?id=468" title="" tabindex="46">
+            About the Ministry of Justice</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/anders-anundsen.html?id=742878" title="" tabindex="47">
+            Minister of Justice and Public Security Anders Anundsen</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/Other-political-staff.html?id=485" title="" tabindex="48">
+            Other political staff</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/senior-administrative-staff.html?id=486" title="" tabindex="49">
+            Senior administrative staff</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU " href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization.html?id=487" title="" tabindex="50">
+            Organization</a>
+    <ul><li class="Selected">
+        <a class="Selected ISI_MENU" href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments.html?id=490" title="" tabindex="51">
+            Departments</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/map-of-the-organization.html?id=710935" title="" tabindex="52">
+            Map of the organization</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/contact.html?id=471" title="" tabindex="53">
+            Contact</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/en/archive.html?id=115322" title="" tabindex="54">
+            Document archive</a>
+    </li></ul>
+
+                                </div>
+                                
+                                
+                            
+                        </div>
                         <div id="AreaContentAndRight">
                             
                                 <div id="AreaContent">
-                                    <div id="slickbox" style="display:none;">
-                                       
+                                    <div id="FullRegion_CenterAndRightRegion_slickbox" class="slickbox" style="display: none;">
+                                        
                                             
 <script type="text/javascript"><!--
-function fbs_click() 
-{
-    u=location.href;
-    t=document.title;
-    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
-    return false;
-}
-function nettby_click(pageurl,pagename)
-{
-    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
-    wnd.focus();
-    return false;
-}
-function GetThis(T, C, U, L) 
-{
-	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
-	wnd = window.open(targetUrl);
-	wnd.focus();
-	return false;
-}
+    function facebook_click() {
+        u = location.href;
+        t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+        return false;
+    }
+    function twitter_click() {
+        u = location.href;
+        t = encodeURIComponent('Departments');
+        window.open('http://twitter.com/share?url=' + encodeURIComponent(u) + '&text=' + t, 'sharer', 'toolbar=0,status=0,width=350,height=230');
+        return false;
+    }
 --></script>
-
-
-
-    <div id="thankyouview">
-        <div id="thankyoudiv"></div>        
+<div id="thankyouview">
+    <div id="thankyoudiv">
+        
     </div>
-    <div id="tipafriend">
-        <div id="tipafriendContent">
-            
-            <div>
-	  
-                <p><strong>Share this page with a friend </strong></p>
-                <ol>
-                    <li>
-                        
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
-                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
-                    </li>
-                    <li>
-                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
-                    </li>
-                    <li>
-                                                         
-                    </li>
-                </ol>                          
-            
 </div>
-        </div> 
+<div id="tipafriend">
+    <div id="tipafriendContent">
+        
+                <div>
+	
+                    <div id="TipAFriendForm">
+                        <fieldset>
+                            <legend><strong>
+                                Share this page with a friend 
+                            </strong></legend>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
+                                <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;">
+</textarea>
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="setTipClicked();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitTextBox" style="display: none;
+                                    width: 10px;" />
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                
+                            </div>
+                        </fieldset>
+                    </div>
+                
+</div>
+            
     </div>
-    <div id="ShareArticle">
-        <p><strong>Share</strong></p>
-        <ul class="communities">        
-            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments.html?id=490" target="_blank">Facebook</a></li>            
-            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments.html?id=490', 'Departments')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments.html?id=490&amp;description=Departments' target="_blank">Nettby</a></li>
-            <li><a class="share_myspace" href="#" onclick="return GetThis('Departments','','http://www.regjeringen.no/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments.html?id=490',3)">Myspace</a></li>
-            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
-        </ul>
-    </div>
-
-
+</div>
+<div id="ShareArticle">
+    <p>
+        <strong>
+            Share
+        </strong>
+    </p>
+    <ul class="communities">
+        <li><a class="share_facebook" onclick="return facebook_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments.html?id=490" target="_blank">
+            Facebook</a></li>
+        <li><a class="share_twitter" onclick="return twitter_click()" href="http://twitter.com/share?url=http://www.regjeringen.no/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments.html?id=490&amp;text=Departments" target="_blank">
+            Twitter</a></li>
+        <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">
+            Origo</a></li>
+    </ul>
+</div>
 
                                         
                                     </div>
-                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
                                     
     
-    
+
   
     
-    <p class="breadcrumbs">You are here: <a href="/en.html?id=4">Government.no</a> / <a href="/en/dep/jd.html?id=463">Ministry of Justice and the...</a> / <a href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po.html?id=468">About the Ministry of Justi...</a> / <a href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization.html?id=487">Organization</a> / <span>Departments</span>
-</p>
-    <div class="documentTop">      
-      
-      <h1>Departments</h1> 
-      <h3 class="subDescription" style="display:none"></h3>
-       <div class="pageDescription"><h3 align="left">The main tasks of the Ministry:</h3>
+        
+
+<div class="breadcrumbs ">
+
+    
+               <span>
+                   You are here: 
+               </span>
+                
+                <ul class="breadcrumbmenu">
+            
+                <li><a href="/en.html?id=4" title="Government.no">Government.no</a> / </li>
+            
+                <li><a href="/en/dep/jd.html?id=463" title="Ministry of Justice and Pub...">Ministry of Justice and Pub...</a> / </li>
+            
+                <li><a href="/en/dep/jd/about-the-ministry-of-justice-and-the-po.html?id=468" title="About the Ministry of Justice">About the Ministry of Justice</a> / </li>
+            
+                <li><a href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization.html?id=487" title="Organization">Organization</a> / </li>
+            
+                <li><span>Departments</span></li>
+            
+                </ul>
+            
+</div>
+        
+            <div class="documentTop">
+                
+                <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+                <h1>Departments</h1> 
+                
+                    <div class="pageDescription"><h3 align="left">The main tasks of the Ministry:</h3>
 <p align="left"><b></b>&nbsp;</p>
 <p align="left"><b>1. Secretariat for the political staff<br clear="all" /></b>- prepare cases for the Government, the King in Council and the Storting <br clear="all" />- help to carry out the policies of the Government </p><b style="mso-bidi-font-weight: normal"></b>
 <p align="left"><b>2. Management of agencies<br clear="all" /></b>- development of and contact with external agencies and the courts </p><b style="mso-bidi-font-weight: normal"></b>
@@ -352,288 +447,25 @@ function GetThis(T, C, U, L)
 <li>reducing crime </li>
 <li>security and the rule of law </li>
 <li>openness and democracy </li>
-<li>executing the tasks of the Criminal Justice System and providing service to the public </li></ul> </div>       
-    </div>
-    
-               
+<li>executing the tasks of the Criminal Justice System and providing service to the public </li></ul></div>       
+                
+            </div>
         
+        
+               
     
-    <div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_divPageContent" class="documentBody">
+    
+      
+    
+    <div id="FullRegion_CenterAndRightRegion_CenterRegion_divPageContent" class="documentBody">
     
        
-    
-    
-        <div class="BoxDepartments expDiv">
-            
-            <h2>
-                <a href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments/the-department-of-migration.html?id=589391" title="">
-                    The Department of Migration
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none"></h3>
-            
-            
-            <table id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl01_Table1" cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-</table>
-
-        </div>
+        
     
         <div class="BoxDepartments expDiv">
             
             <h2>
-                <a href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments/Correctional-Services-Department.html?id=1446" title="">
-                    Correctional Services Department
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none"></h3>
-            
-            <p>
-                The Correctional Services Department administers the Norwegian Correctional Services. The main tasks of this Department are to act as a secretariat for the political leadership, to work on proposals towards the Parliaments budget proposition, to form policies, laws, regulations, and central guidelines, as well as co-operation with other ministries.
-            </p>
-            <table id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl02_Table1" cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl02_Tr1">
-		<th>
-                        E-mail: 
-                    </th>
-		<td>
-                        <span><img id='Eoi_4' class='obfimg' src='/images/emailimages/3909c115e01a7ced7caaa33f55fb1281.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_4', '5C2C39387238361C373D28283331282F332C'));//--></script>.no</span>
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl02_Tr2">
-		<th>
-                        Telephone: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl02_Tr4">
-		<th>
-                        Fax: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-</table>
-
-        </div>
-    
-        <div class="BoxDepartments expDiv">
-            
-            <h2>
-                <a href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments/The-Legislation-Department.html?id=1444" title="">
-                    Legislation Department
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none"></h3>
-            
-            <p>
-                The Legislation Department is the legal expertise department serving the Government and the central government administration.
-            </p>
-            <table id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl03_Table1" cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl03_Tr1">
-		<th>
-                        E-mail: 
-                    </th>
-		<td>
-                        <span><img id='Eoi_5' class='obfimg' src='/images/emailimages/3909c115e01a7ced7caaa33f55fb1281.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_5', '98E8FDFCB6FCF2D8F3F9ECECF7F5ECEBF7E8'));//--></script>.no</span>
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl03_Tr2">
-		<th>
-                        Telephone: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl03_Tr4">
-		<th>
-                        Fax: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-</table>
-
-        </div>
-    
-        <div class="BoxDepartments expDiv">
-            
-            <h2>
-                <a href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments/The-Polar-Affairs-Department.html?id=1447" title="">
-                    Polar Affairs Department
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none"></h3>
-            
-            <p>
-                The tasks of the Polar Affairs Department are the matters dealt with by the Ministry of Justice concerning the Norwegian Arctic and Antarctic polar regions including the administration carried out by the Governor of Svalbard, preparation of the annual Svalbard budget and coordination of the Polar affairs of the central government administration.
-            </p>
-            <table id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl04_Table1" cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl04_Tr1">
-		<th>
-                        E-mail: 
-                    </th>
-		<td>
-                        <span><img id='Eoi_6' class='obfimg' src='/images/emailimages/3909c115e01a7ced7caaa33f55fb1281.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_6', 'A3D3C6C78DC7C9E3C8C2D7D7CCCED7D0CCD3'));//--></script>.no</span>
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl04_Tr2">
-		<th>
-                        Telephone: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl04_Tr4">
-		<th>
-                        Fax: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-</table>
-
-        </div>
-    
-        <div class="BoxDepartments expDiv">
-            
-            <h2>
-                <a href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments/The-Administrative-Affairs-Department.html?id=1451" title="">
-                    Planning and Administration Department
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none"></h3>
-            
-            <p>
-                The Planning and Administration Department is the Ministry’s administration and operations department with responsibility for pay and personnel policy, coordination of work on the budget both in the justice sector and internally.
-            </p>
-            <table id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl05_Table1" cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl05_Tr1">
-		<th>
-                        E-mail: 
-                    </th>
-		<td>
-                        <span><img id='Eoi_7' class='obfimg' src='/images/emailimages/3909c115e01a7ced7caaa33f55fb1281.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_7', '58283D3C763C321833392C2C37352C2B3728'));//--></script>.no</span>
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl05_Tr2">
-		<th>
-                        Telephone: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl05_Tr4">
-		<th>
-                        Fax: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-</table>
-
-        </div>
-    
-        <div class="BoxDepartments expDiv">
-            
-            <h2>
-                <a href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments/the-police-departement.html?id=1469" title="">
-                    Police departement
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none"></h3>
-            
-            <p>
-                The Police department and the Directorate of the Police constitues the central authority for the police. The Police department is administratively responsible for the Superior Prosecution Authority and the Military Disciplinary Authority.
-            </p>
-            <table id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl06_Table1" cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl06_Tr1">
-		<th>
-                        E-mail: 
-                    </th>
-		<td>
-                        <span><img id='Eoi_8' class='obfimg' src='/images/emailimages/3909c115e01a7ced7caaa33f55fb1281.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_8', '9FEFFAFBB1FBF5DFF4FEEBEBF0F2EBECF0EF'));//--></script>.no</span>
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl06_Tr2">
-		<th>
-                        Telephone: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl06_Tr4">
-		<th>
-                        Fax: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-</table>
-
-        </div>
-    
-        <div class="BoxDepartments expDiv">
-            
-            <h2>
-                <a href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments/Rescue-and-Emergency-Planning-Department.html?id=1470" title="">
-                    Rescue and Emergency Planning Department
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none"></h3>
-            
-            <p>
-                The Rescue and Emergency Planning Department is the superior authority to the Directorate for Civil Defence and Emergency Planning.
-            </p>
-            <table id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl07_Table1" cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl07_Tr1">
-		<th>
-                        E-mail: 
-                    </th>
-		<td>
-                        <span><img id='Eoi_9' class='obfimg' src='/images/emailimages/3909c115e01a7ced7caaa33f55fb1281.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_9', '7D0D18195319173D161C09091210090E120D'));//--></script>.no</span>
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl07_Tr2">
-		<th>
-                        Telephone: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl07_Tr4">
-		<th>
-                        Fax: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-</table>
-
-        </div>
-    
-        <div class="BoxDepartments expDiv">
-            
-            <h2>
-                <a href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments/The-Department-of-Civil-Affairs.html?id=1471" title="">
+                <a href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments/the-department-of-civil-affairs.html?id=1471" title="">
                     Civil Affairs Department
                 </a>
             </h2>
@@ -642,235 +474,353 @@ document.write(dc('Eoi_9', '7D0D18195319173D161C09091210090E120D'));//--></scrip
             <p>
                 The Department of Civil Affairs has a broad field of activity that primarily concerns the rights of individual citizens.
             </p>
-            <table id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl08_Table1" cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl08_Tr1">
-		<th>
-                        E-mail: 
-                    </th>
-		<td>
-                        <span><img id='Eoi_10' class='obfimg' src='/images/emailimages/3909c115e01a7ced7caaa33f55fb1281.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_10', 'DFAFBABBF1BBB59FB4BEABABB0B2ABACB0AF'));//--></script>.no</span>
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl08_Tr2">
-		<th>
-                        Telephone: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl08_Tr4">
-		<th>
-                        Fax: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-</table>
-
+            
         </div>
     
         <div class="BoxDepartments expDiv">
             
             <h2>
-                <a href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments/the-information-unit.html?id=1472" title="">
-                    Press and Information Unit
+                <a href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments/correctional-services-department.html?id=1446" title="">
+                    Correctional Services Department
                 </a>
             </h2>
             <h3 class="subDescription" style="display:none"></h3>
             
             <p>
-                The Press and Information Unit works as the information adviser for the political and administrative management, as well as for the seven departements. 
+                The Correctional Services Department administers the Norwegian Correctional Services. The main tasks of this Department are to act as a secretariat for the political leadership, to work on proposals towards the Parliaments budget proposition, to form policies, laws, regulations, and central guidelines, as well as co-operation with other ministries.
             </p>
-            <table id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl09_Table1" cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl09_Tr1">
-		<th>
-                        E-mail: 
-                    </th>
-		<td>
-                        <span><img id='Eoi_11' class='obfimg' src='/images/emailimages/37aaf00d4f0de856fd016886258bc0d2.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_11', 'FD8D9899D39997BD929B9394B9B7'));//--></script>.no</span>
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl09_Tr2">
-		<th>
-                        Telephone: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl09_Tr4">
-		<th>
-                        Fax: 
-                    </th>
-		<td>
-                        
-                    </td>
-	</tr>
-</table>
-
+            
         </div>
     
- 
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments/crisis-security.html?id=677820" title="">
+                    Department of Crisis Management and Security
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                The Government Emergency Support Unit is the permanent secretariat for the Government Emergency Management Council, and supports the Norwegian Government and Ministries in their crisis management.
+            </p>
+            
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments/the-legislation-department.html?id=1444" title="">
+                    Legislation Department
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                The Legislation Department is the legal expertise department serving the Government and the central government administration.
+            </p>
+            
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments/the-department-of-migration.html?id=589391" title="">
+                    Migration Department
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                The Migration Department is responsible for formulating and coordinating legislation and policies on immigration, asylum seekers and refugees.
+
+            </p>
+            
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments/the-administrative-affairs-department.html?id=1451" title="">
+                    Planning and Administration Department
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                The Planning and Administration Department is the Ministry’s administration and operations department with responsibility for pay and personnel policy, coordination of work on the budget both in the justice sector and internally.
+            </p>
+            
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments/the-polar-affairs-department.html?id=1447" title="">
+                    Polar Affairs Department
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                The tasks of the Polar Affairs Department are the matters dealt with by the Ministry of Justice concerning the Norwegian Arctic and Antarctic polar regions including the administration carried out by the Governor of Svalbard, preparation of the annual Svalbard budget and coordination of the Polar affairs of the central government administration.
+            </p>
+            
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments/the-police-departement.html?id=1469" title="">
+                    Police Department
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                The Police Department and the Directorate of the Police constitues the central authority for the police. The Police department is administratively responsible for the Superior Prosecution Authority and the Military Disciplinary Authority.
+            </p>
+            
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/jd/press-center.html?id=466" title="">
+                    Press Office
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                The Press Office works as the information adviser for the political and administrative management, as well as for the nine departments. 
+            </p>
+            
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments/rescue-and-emergency-planning-department.html?id=1470" title="">
+                    Rescue and Emergency Planning Department
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                The Rescue and Emergency Planning Department is the superior authority to the Directorate for Civil Protection and Emergency Planning (DSB).
+            </p>
+            
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments/section-for-european-and-international-a.html?id=592361" title="">
+                    Section for European and International Affairs
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                The Section for European and International Affairs contributes to the coordination and prioritization of the Ministry's international work.
+            </p>
+            
+        </div>
+    
    
     </div>              
-       
+     
 	<div class="printContact">
 		
 	</div>
 
-                                </div>
-                                <div id="AreaRight"> 
                                     
                                         
-                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/en/dep/jd.html?id=463'><img src="/Upload/JD/Profilelementer/Hovedill.jpg" alt="Ministry of Justice and the Police" /></a></div>
+                                    
+
+                                    
+
+                                </div>
+                                <div id="AreaRight">
+                                    
                                         
-                                        
-    
+                                            
+    <div class="DepProfile"><a href='/en/dep/jd.html?id=463' tabindex="61"><img src="/Upload/JD/Profilelementer/Hovedill.jpg" alt="Ministry of Justice and Public Security" /></a></div>
 
                                         
                                         
-    
-
-     
-     
-    
-    
-     
-        
+                                            
                                         
-                                                                        
                                         
-     
+                                        
+                                        
+                                            
 
-                                                                                                   
+
+
+
+
+
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                            
+                                        
+                                        
+                                    
                                 </div>
                             
                         </div>
-                        <div id="AreaLeft">
-                              
-                                <div id="AreaLeftNav" class="NavListV">
-                                    
-
-
-<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
-
-    <ul>
-        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/jd.html?id=463">
-            Ministry home</a></li></ul>
-
-<ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/jd/whats-new.html?id=464" title=''>
-            News</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/jd/Subjects.html?id=465" title=''>
-            Selected topics</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/jd/press-center.html?id=466" title=''>
-            Press centre</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/jd/Documents-and-publications.html?id=313022" title=''>
-            Documents and publications</a>
-    </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po.html?id=468" title=''>
-            About the Ministry of Justice and the Police</a>
-    <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/minister-of-justice-and-the-police.html?id=1435" title=''>
-            Minister of Justice and the Police</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Other-political-staff.html?id=485" title=''>
-            Other political staff</a>
-    </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization.html?id=487" title=''>
-            Organization</a>
-    <ul><li class="Selected">
-        <a class="Selected ISI_MENU" href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/Organization/Departments.html?id=490" title=''>
-            Departments</a>
-    </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/jd/About-the-Ministry-of-Justice-and-the-Po/contact.html?id=471" title=''>
-            Contact</a>
-    </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/jd/sound-and-picture.html?id=469" title=''>
-            Sound and picture</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/jd/Document-archive.html?id=437349" title=''>
-            Document archive</a>
-    </li></ul>
-
-                                </div>
-                              
-                            
-                        </div>
+                    
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
                     
                     <!-- ISI_STOP -->
                 </div>
-                </div>
             </div>
         </div>
-        
-         
-<div id="PageFooter"><p align="left">Ministry of Justice and the Police, Akersgaten 42 (H-blokk), Postboks 8005 Dep, 0030 Oslo, Norway&nbsp;| Tel. +47 22 24 90 90</p>
-<p align="left">E-mail: <img id='Eoi_1' class='obfimg' src='/images/emailimages/b1e3518a376537ad47cfc4b1746368e6.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', '7F411E50431011510F1A1B511B153F141E0B0B10120B0C100F415D1011510F1A1B511B153F141E0B0B10120B0C100F45100B13161E125D42191A0D175F1E43'));//--></script> | Web-editor: <img id='Eoi_2' class='obfimg' src='/images/emailimages/c03f235f992ae9edc29e3ab4f85f05db.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_2', '665807495A08031508070F12150F140E254601080712354608070F1235584409084816030248020C2608031508070F12150F140E054801080712154808070F12155C09120A0F070B445B0003140E46075A'));//--></script> | Editor: <img id='Eoi_3' class='obfimg' src='/images/emailimages/2c67831e3cc1d4965fc924026558900b.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_3', 'BE80DF9182D0DBCDD0DFD6D1F49E90FF9ECCDFD0D0CBF9809CD1D090CEDBDA90DAD4FED0DBCDD0DFD6D1D490CCDFD0D0CBD984D1CAD2D7DFD39C83D8DBCCD69EDF82'));//--></script></p></div>
-        
-        
-                    
-        
-    </form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
-	
-} else
-{    
-    //setAreaHeights();
-}
+    </div>
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
+        
+<div id="PageFooter"><p>Ministry of Justice and Public Security,&nbsp;Gullhaug torg 4 A, Postboks 8005 Dep, 0030 Oslo, Norway&nbsp;| Tel. +47 22 24 90 90</p>
+<p>E-mail: <img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/c8c5c3daac17a10218f567348025106e.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, 'AC92CD8390C3C282DCC9C882C8C6ECC7CDD8D8C3C1D8DFC3DC928EC3C282DCC9C882C8C6ECC7CDD8D8C3C1D8DFC3DC96C3D8C0C5CDC18E91CAC9DEC48CCD90'));//--></script> | Web-editor: <a title="Guttorm Aanes" href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments/communication-unit/guttorm-aanes.html?id=445775">Guttorm Aanes</a>&nbsp;| Editor: <a title="Gunnar A. Johansen" href="/en/dep/jd/about-the-ministry-of-justice-and-the-po/organization/Departments/communication-unit/head-of-communications-gunnar-a-johansen.html?id=440503">Gunnar A. Johansen</a></p></div>
+<div title="web03" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web03" /></div>
+    
+    
+    
+        
 
-<div id="ctl00_externalPageTrackers">
+
+    
+    </form>
+    <div id="externalPageTrackers">
 	
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
+    
+</div>       
+    
+    
 
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<div>
+    
 <script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no uses cookies to improve our service to the users. The cookies are mainly used for traffic measuring and for optimizing the site. Find more information on ",
+            messagepart2: ", or go back to regjeringen.no if you accept this.",
+            readMoreUrl: "http://www.regjeringen.no/en/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "use of cookies",
+            closeText: "Close"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
 //--></script>
-<!-- END Xtractor client tracker script -->
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
 
 </div>
+
+
+    
+
 </body>
 </html>

@@ -1,27 +1,28 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
+    <!-- ISI_NOAUTOLANG -->
+    <title>
 	Government.no - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="Government.no" />
+<meta name="WT.ti" content="Government.no" />
 <meta name="DCSext.regj.pagetype" content="Portalforside" />
-<meta name="DCSext.regj.pageid" content="4" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
 <meta name="DCSext.regj.owner" content="gov_no" />
 <meta name="DCSext.regj.language" content="en-GB" />
+<meta name="DCSext.regj_g-page" content="4-g-page" />
 <meta name="TITLE" content="Government.no" />
 <meta name="DC.Creator" content="Government.no" />
 <meta name="DC.Date" content="2010-05-27" />
-<meta name="DC.Date.Available" content="2006-11-17" />
+<meta name="DC.Date.Available" content="2013-10-18" />
 <meta name="DC.Type.Status" content="Gyldig" />
 <meta name="DC.Type" content="Portalforside" />
 <meta name="DC.Format" content="text/html" />
 <meta name="DC.Identifier.URL" content="/en.html?id=4" />
 <meta name="DC.Language" content="en-GB" />
 <meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DCSext.regj.lang-pref" content="en-GB" />
 <meta name="DC.Publisher" content="regjeringen.no" />
 <meta name="AUTHOR" content="Government.no" />
 <meta name="creation_date" content="Fri, 17 Nov 2006 13:46:00 GMT" />
@@ -31,80 +32,88 @@
 <meta http-equiv="Content-Language" content="en" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/1Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
+
+    <!-- Portal Front Page styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/Frontpage_1C2A3C340FAC9519BD3F88D2CE558F36.css" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
 
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/1Col_9124EDC875975B9E12004E1BF0ED51A2.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
 
 
-<link href="/styles/Frontpage.css" rel="stylesheet" type="text/css" media="all" />
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+
+
+<link id="fancyboxcss" href="/script/js/fancybox/jquery.fancybox-1.3.4_3B6130F8960A6A8097712B1C20B8002D.css" rel="stylesheet" type="text/css" media="screen" /><link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web02.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=4" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web02.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=4" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en.html?id=4" id="aspnetForm" enctype="multipart/form-data">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg5ODE4OTk2NQ9kFgJmD2QWCGYPFQICZW4CZW5kAgEQZGQWAgICD2QWBmYPFgIeBFRleHQF+wk8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlbmFtZSIgY29udGVudD0iR292ZXJubWVudC5ubyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2V0eXBlIiBjb250ZW50PSJQb3J0YWxmb3JzaWRlIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZWlkIiBjb250ZW50PSI0IiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oub3duZXIiIGNvbnRlbnQ9Imdvdl9ubyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLmxhbmd1YWdlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IlRJVExFIiBjb250ZW50PSJHb3Zlcm5tZW50Lm5vIiAvPg0KPG1ldGEgbmFtZT0iREMuQ3JlYXRvciIgY29udGVudD0iR292ZXJubWVudC5ubyIgLz4NCjxtZXRhIG5hbWU9IkRDLkRhdGUiIGNvbnRlbnQ9IjIwMTAtMDUtMjciIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlLkF2YWlsYWJsZSIgY29udGVudD0iMjAwNi0xMS0xNyIgLz4NCjxtZXRhIG5hbWU9IkRDLlR5cGUuU3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlIiBjb250ZW50PSJQb3J0YWxmb3JzaWRlIiAvPg0KPG1ldGEgbmFtZT0iREMuRm9ybWF0IiBjb250ZW50PSJ0ZXh0L2h0bWwiIC8+DQo8bWV0YSBuYW1lPSJEQy5JZGVudGlmaWVyLlVSTCIgY29udGVudD0iL2VuLmh0bWw/aWQ9NCIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlLlByZWZlcmVuY2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iREMuUHVibGlzaGVyIiBjb250ZW50PSJyZWdqZXJpbmdlbi5ubyIgLz4NCjxtZXRhIG5hbWU9IkFVVEhPUiIgY29udGVudD0iR292ZXJubWVudC5ubyIgLz4NCjxtZXRhIG5hbWU9ImNyZWF0aW9uX2RhdGUiIGNvbnRlbnQ9IkZyaSwgMTcgTm92IDIwMDYgMTM6NDY6MDAgR01UIiAvPg0KPG1ldGEgbmFtZT0iTEFTVC1NT0RJRklFRCIgY29udGVudD0iVGh1LCAyNyBNYXkgMjAxMCAxMDo0MTozNiBHTVQiIC8+DQo8bWV0YSBuYW1lPSJSRVZJU0VEIiBjb250ZW50PSJUaHUsIDI3IE1heSAyMDEwIDEwOjQxOjM2IEdNVCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVudD0iZW4iIC8+DQpkAgEPFgIeB1Zpc2libGVoZAICDxYCHgtfIUl0ZW1Db3VudGZkAgMQZGQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILDxYCHwFoFgJmDxUBECNBcmVhQ29udGFjdEluZm9kAg0PZBYCZg9kFgJmD2QWAgIBD2QWCGYPDxYGHgdUb29sVGlwBS5LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkZW4gcMOlIGJva23DpWwuHwAFB0Jva23DpWweC05hdmlnYXRlVXJsBSEvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9bm9kZAIBDw8WBh8DBS1LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkYSBww6Ugbnlub3Jzay4fAAUHTnlub3Jzax8EBSQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9bm4tTk9kZAICDw8WBh8DBTRDb2Foa2thbCBkw6Fra28gZGUgb2Fpbm7DoXQgZMOhbiBzaWlkZHUgc8OhbWVnaWxsaWkuHwAFC1PDoW1lZ2llbGxhHwQFJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1zZS1OT2RkAgMPDxYGHwMFIlRoaXMgcGFnZSBpcyBkaXNwbGF5ZWQgaW4gZW5nbGlzaC4fAAUHRW5nbGlzaB8EBSQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0JkZAICDxUBASBkAgMPZBYMZg8VASQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgEPFQELUG9ydGFsIGhvbWVkAgIPZBYEZg8VASQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgIPFQM6L3RlbXBsYXRlcy9HZW5lcmVsbEZvcnNpZGUuYXNweD9pZD04NTg0MyZlcHNsYW5ndWFnZT1lbi1HQhxTdG9sdGVuYmVyZydzIDJuZCBHb3Zlcm5tZW50Mi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9OTMzJmVwc2xhbmd1YWdlPWVuLUdCZAIDDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCBA8VAQ1Hb3Zlcm5tZW50Lm5vZAIGD2QWEmYPZBYEZg9kFgJmD2QWBAICDxUEG1NlYXJjaCBhbGwgb2YgZ292ZXJubWVudC5ubwZTZWFyY2gRUXVpY2tTZWFyY2hCdXR0b24GU2VhcmNoZAIDDw8WBB8ABRtTZWFyY2ggYWxsIG9mIGdvdmVybm1lbnQubm8fAWhkZAIBDw8WAh4LX2lzRWRpdGFibGVoZGQCAQ8VAR4vc3R5bGVzL0ltYWdlcy9zeW1ib2xfdGlwcy5naWZkAgUPFQEhL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3ByaW50X3QuZ2lmZAIIDxUDIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9zbWFsbFRleHQuZ2lmJC9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9tZWRpdW1UZXh0LmdpZiMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbGFyZ2VUZXh0LmdpZmQCCQ9kFgJmDxUCY2h0dHA6Ly9pc2kucGhvbmV0aWNvbS5jb20vY2dpLWJpbi9yc3h0P3VybD1odHRwOi8vd3d3LnJlZ2plcmluZ2VuLm5vL2VuLmh0bWw/aWQ9NCZhbXA7Y3VzdG9tZXJpZD0xOR8vc3R5bGVzL0ltYWdlcy9zeW1ib2xfbHlkX3QuZ2lmZAIKD2QWAgIBDw8WBB8EBTYvdGVtcGxhdGVzL1RlbWFJbmRla3MuYXNweD9pZD0yMjM0ODYmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUKVG9waWNzIEEtWmRkAgsPZBYCAgEPDxYEHwQFOS90ZW1wbGF0ZXMvTmV0dHN0ZWRza2FydC5hc3B4P2lkPTIyMzI3NCZlcHNsYW5ndWFnZT1lbi1HQh8ABQhTaXRlIE1hcGRkAgwPDxYEHwQFNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDg4NjQxJmVwc2xhbmd1YWdlPWVuLUdCHwAFBEhlbHBkZAINDw8WBB8EBUAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MjI0NjM3JmVwc2xhbmd1YWdlPWVuLUdCHwAFB0NvbnRhY3RkZAIED2QWHGYPZBYCZg8VAjEvdGVtcGxhdGVzL055aGV0LmFzcHg/aWQ9NjEyNDg5JmVwc2xhbmd1YWdlPWVuLUdCHklMTyBhbmQgSU1GIGNvbmZlcmVuY2UgaW4gT3Nsb2QCAg8WAh8BaBYCZg8VAgAAZAIDDxYEHgRocmVmZB8BaBYCZg8VAQBkAgQPFgQfBmQfAWgWAmYPFQEAZAIFDxYEHwZkHwFoFgJmDxUBAGQCBg8WBB8GZB8BaBYCZg8VAQBkAgcPFQEHRlBTbWFsbGQCCA9kFgJmDxUB1ANTZXZlcmFsIHRhcmdldGVkIHBvbGljeSBtZWFzdXJlcyBoZWxwZWQgbWl0aWdhdGluZyB0aGUgZWZmZWN0cyBvZiB0aGUgaW50ZXJuYXRpb25hbCBmaW5hbmNpYWwgY3Jpc2lzIG9uIHRoZSBOb3J3ZWdpYW4gZWNvbm9teS4gRm9sbG93aW5nIGEgZGVjbGluZSBpbiBtYWlubGFuZCBvdXRwdXQgb2YgMS40IHBlciBjZW50IGluIDIwMDksIGdyb3d0aCBpbiB0aGUgTWFpbmxhbmQgZWNvbm9teSBpcyBub3cgZm9yZWNhc3QgYXQgMS43IHBlciBjZW50IGluIDIwMTAgYW5kIDMuMSBwZXIgY2VudCBpbiAyMDExLCB0aGUgbGF0dGVyIGFib3V0IGhhbGYgYSBwZXJjZW50YWdlIHBvaW50IGFib3ZlIHRyZW5kIGdyb3d0aC4gVW5lbXBsb3ltZW50IGhhcyBiZWVuIGtlcHQgYXQgbG93IGxldmVscyB0aHJvdWdob3V0IHRoZSBkb3dudHVybiBhbmQgaXMgZm9yZWNhc3QgYXQgM8K9IHBlciBjZW50IGJvdGggaW4gMjAxMCBhbmQgMjAxMS5kAgkPFgIfAWgWAmYPFQEAZAIKDxYCHgVTdHlsZQUQZm9udC1zaXplOjIuMGVtOxYEZg8VAjkvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD02MTk3MjMmZXBzbGFuZ3VhZ2U9ZW4tR0I1PHA+RmlzY2FsIEJ1ZGdldCAyMDExOiBBIG1vZGVzdCBmaXNjYWwgdGlnaHRlbmluZzwvcD5kAgEPFQE1PHA+RmlzY2FsIEJ1ZGdldCAyMDExOiBBIG1vZGVzdCBmaXNjYWwgdGlnaHRlbmluZzwvcD5kAgsPZBYCZg8VASEoTWluaXN0cnkgb2YgRmluYW5jZSwgMDUuMTAuMjAxMClkAgwPDxYEHwVoHglfbGFzdFR5cGUFB0RlZmF1bHRkFgJmD2QWAmYPFgIeCGRpc2FibGVkZGQCDw9kFgoCAQ9kFgRmDxUCOC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xMTUwJmVwc2xhbmd1YWdlPWVuLUdCCVdoYXRzIG5ld2QCAQ8WAh4JX3BhZ2VMaW5rKCluRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZSwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcEMTE1MBYIAgEPZBYCZg8VBDgvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9MTE3MCZlcHNsYW5ndWFnZT1lbi1HQgVfc2VsZgAETmV3c2QCAg9kFgJmDxUEMi90ZW1wbGF0ZXMvY2FsZW5kYXIuYXNweD9pZD0xMzMwJmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmAAhDYWxlbmRhcmQCAw9kFgJmDxUEOC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xMzM0JmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmABVTcGVlY2hlcyBhbmQgYXJ0aWNsZXNkAgQPZBYCZg8VBDcvdGVtcGxhdGVzL1JTU092ZXJzaWt0LmFzcHg/aWQ9NDc4ODEyJmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmAANSU1NkAgIPZBYEZg8VAkAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDM3NDk1JmVwc2xhbmd1YWdlPWVuLUdCB1dlYmNhc3RkAgEPFgIfCigrBAY0Mzc0OTVkAgMPZBYEZg8VAkAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDM5Mjc5JmVwc2xhbmd1YWdlPWVuLUdCCURvY3VtZW50c2QCAQ8WAh8KKCsEBjQzOTI3ORYKAgEPZBYCZg8VBEAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDM4NzU0JmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmABRBY3RzIGFuZCByZWd1bGF0aW9uc2QCAg9kFgJmDxUEOC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xNzYyJmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmAAhDaXJjdWxhcmQCAw9kFgJmDxUEOC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xNzY3JmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmABpPZmZpY2lhbCBOb3J3ZWdpYW4gUmVwb3J0c2QCBA9kFgJmDxUEQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00Mzg4MTcmZXBzbGFuZ3VhZ2U9ZW4tR0IFX3NlbGYAEVJlcG9ydHMgYW5kIHBsYW5zZAIFD2QWAmYPFQQ6L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTQzODgyMiZlcHNsYW5ndWFnZT1lbi1HQgVfc2VsZgAYR3VpZGVsaW5lcyBhbmQgYnJvY2h1cmVzZAIED2QWBGYPFQI2L3RlbXBsYXRlcy9TZWFyY2hQYWdlLmFzcHg/aWQ9MTE1MzIyJmVwc2xhbmd1YWdlPWVuLUdCEERvY3VtZW50IEFyY2hpdmVkAgEPFgIfCigrBAYxMTUzMjJkAgUPZBYCZg8VAQBkAhAPZBYGAgEPZBYEZg8VAjovdGVtcGxhdGVzL1BvcnRhbFRlbWFGb3JzaWRlLmFzcHg/aWQ9MjA4JmVwc2xhbmd1YWdlPWVuLUdCBlRvcGljc2QCAQ8WAh8KKCsEAzIwOBYqAgEPZBYCZg8VBC0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05MjYmZXBzbGFuZ3VhZ2U9ZW4tR0IFX3NlbGYAFUJ1c2luZXNzIGFuZCBpbmR1c3RyeWQCAg9kFgJmDxUELS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTIxNSZlcHNsYW5ndWFnZT1lbi1HQgVfc2VsZgAcQ2l2aWwgcHJvdGVjdGlvbiBhbmQgZGVmZW5jZWQCAw9kFgJmDxUELS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTIxNCZlcHNsYW5ndWFnZT1lbi1HQgVfc2VsZgAJQ29uc3VtZXJzZAIED2QWAmYPFQQtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTIwJmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmACNDdWx0dXJlLCBsZWlzdXJlIGFuZCBiZWxpZWYgc3lzdGVtc2QCBQ9kFgJmDxUELS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTkzMCZlcHNsYW5ndWFnZT1lbi1HQgVfc2VsZgAWRWR1Y2F0aW9uIGFuZCByZXNlYXJjaGQCBg9kFgJmDxUELS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTIxMiZlcHNsYW5ndWFnZT1lbi1HQgVfc2VsZgAGRW5lcmd5ZAIHD2QWAmYPFQQtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTIyJmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmAAhFcXVhbGl0eWQCCA9kFgJmDxUELS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTIxMyZlcHNsYW5ndWFnZT1lbi1HQgVfc2VsZgAXRmFtaWxpZXMgYW5kIHVwYnJpbmdpbmdkAgkPZBYCZg8VBC0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05MjQmZXBzbGFuZ3VhZ2U9ZW4tR0IFX3NlbGYAH0Zvb2QsIGZpc2hlcmllcyBhbmQgYWdyaWN1bHR1cmVkAgoPZBYCZg8VBC0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05MTcmZXBzbGFuZ3VhZ2U9ZW4tR0IFX3NlbGYAD0hlYWx0aCBhbmQgY2FyZWQCCw9kFgJmDxUELS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTIxMSZlcHNsYW5ndWFnZT1lbi1HQgVfc2VsZgAUSG91c2luZyBhbmQgcHJvcGVydHlkAgwPZBYCZg8VBC0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05MTgmZXBzbGFuZ3VhZ2U9ZW4tR0IFX3NlbGYAIEltbWlncmF0aW9uIGFuZCBzb2NpYWwgaW5jbHVzaW9uZAIND2QWAmYPFQQtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTI5JmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmACFJbmRpZ2Vub3VzIHBlb3BsZXMgYW5kIG1pbm9yaXRpZXNkAg4PZBYCZg8VBC0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05MTkmZXBzbGFuZ3VhZ2U9ZW4tR0IFX3NlbGYAF0ludGVybmF0aW9uYWwgcmVsYXRpb25zZAIPD2QWAmYPFQQtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MjEwJmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmABJMYWJvdXIgYW5kIHdlbGZhcmVkAhAPZBYCZg8VBC0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05MjMmZXBzbGFuZ3VhZ2U9ZW4tR0IFX3NlbGYADUxhdyBhbmQgb3JkZXJkAhEPZBYCZg8VBC0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05MjEmZXBzbGFuZ3VhZ2U9ZW4tR0IFX3NlbGYAGk11bmljaXBhbGl0aWVzIGFuZCByZWdpb25zZAISD2QWAmYPFQQtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTI3JmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmABVQdWJsaWMgYWRtaW5pc3RyYXRpb25kAhMPZBYCZg8VBC0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05MzEmZXBzbGFuZ3VhZ2U9ZW4tR0IFX3NlbGYAC1RoZSBlY29ub215ZAIUD2QWAmYPFQQtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTI1JmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmAA9UaGUgZW52aXJvbm1lbnRkAhUPZBYCZg8VBC0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05MjgmZXBzbGFuZ3VhZ2U9ZW4tR0IFX3NlbGYAHFRyYW5zcG9ydCBhbmQgY29tbXVuaWNhdGlvbnNkAgIPZBYEZg8VAjQvdGVtcGxhdGVzL0thbXBhbmplLmFzcHg/aWQ9NDQzMzE0JmVwc2xhbmd1YWdlPWVuLUdCDlRoZSBHb3Zlcm5tZW50ZAIBDxYCHwooKwQGNDQzMzE0FgYCAQ9kFgJmDxUEOi90ZW1wbGF0ZXMvR2VuZXJlbGxGb3JzaWRlLmFzcHg/aWQ9ODU4NDMmZXBzbGFuZ3VhZ2U9ZW4tR0IFX3NlbGYAHFN0b2x0ZW5iZXJnJ3MgMm5kIEdvdmVybm1lbnRkAgIPZBYCZg8VBD8vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9ODU4NDcmZXBzbGFuZ3VhZ2U9ZW4tR0IFX3NlbGYAH05vcndheSdzIEdvdmVybm1lbnRzIHNpbmNlIDE4MTRkAgMPZBYCZg8VBDQvdGVtcGxhdGVzL0thbXBhbmplLmFzcHg/aWQ9NDQzNzgxJmVwc2xhbmd1YWdlPWVuLUdCBV9zZWxmABZUaGUgR292ZXJubWVudCBhdCBXb3JrZAIDD2QWAmYPFQEAZAIFD2QWAgIBD2QWAmYPFQH6ATxwPkdvdmVybm1lbnQgQWRtaW5pc3RyYXRpb24gU2VydmljZXMsIEVpbmFyIEdlcmhhcmRzZW5zIHBsYXNzIDMsIFBvc3Rib3ggODEyOSBEZXAsIDAwMzIgT1NMTywgTm9yd2F5Jm5ic3A7PGJyIC8+VGxmOiArIDQ3IDIyIDI0IDkwIDkwIHwgRS1tYWlsOiA8YSBocmVmPSJtYWlsdG86cmVkYWtzam9uZW5AZHNzLmRlcC5ubyI+PGZvbnQgY29sb3I9IiM4MDAwODAiPnJlZGFrc2pvbmVuQGRzcy5kZXAubm88L2ZvbnQ+PC9hPiZuYnNwOzwvcD5kAgUPZBYCZg8VARgvc2NyaXB0L2pzL3NkY18wOTA4MTkuanNkGAsFKmN0bDAwJEZ1bGxSZWdpb24kbGlzdE1lbnVSaWdodCRjdGwwMSRjdGwwMA8PZmRkBSljdGwwMCRGdWxsUmVnaW9uJGxpc3RNZW51TGVmdCRjdGwwMiRjdGwwMA8PZmRkBSpjdGwwMCRGdWxsUmVnaW9uJGxpc3RNZW51UmlnaHQkY3RsMDIkY3RsMDAPD2ZkZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkdXhWaWV3cw8PZGZkBR1jdGwwMCRGdWxsUmVnaW9uJGxpc3RNZW51TGVmdA8PZmRkBR5jdGwwMCRGdWxsUmVnaW9uJGxpc3RNZW51UmlnaHQPD2ZkZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkTXVsdGlQYWdlTGlzdA8PZmRkBSljdGwwMCRGdWxsUmVnaW9uJGxpc3RNZW51TGVmdCRjdGwwMSRjdGwwMA8PZmRkBSljdGwwMCRGdWxsUmVnaW9uJGxpc3RNZW51TGVmdCRjdGwwNCRjdGwwMA8PZmRkBSJjdGwwMCRGdWxsUmVnaW9uJEZyb250UGFnZU5ld3NMaXN0Dw9mZGQFKWN0bDAwJEZ1bGxSZWdpb24kbGlzdE1lbnVMZWZ0JGN0bDAzJGN0bDAwDw9mZGS7ff+NtCN/Gcxf8yjDtdlO7fl0fQ==" />
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/en.html?id=4" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzc5OTIwMzU1ZBgwBR1jdGwwMCRSZXF1aXJlZFJlc291cmNlc0hlYWRlcg8FBkhlYWRlcmQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJHV4Vmlld3MPD2RmZAVSY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkUmVsYXRlZENvbnRhY3QxJFBhZ2VMaXN0MQ8PZmRkBU9jdGwwMCRGcm9udFBhZ2VzRnVsbFJlZ2lvbiRGUEhvcml6b250YWxNZW51JEhvcml6b250YWxNZW51Q29udHJvbCRzaW5nZWxrb2xvbm5lDw9mZGQFbWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJHVjUmVnamVyaW5nZW5Ob3JtYWxQcmVzZW50YXRpb24kY3RsMDUkU2VhcmNoVGFiVmlld3MPD2QCAWQFSGN0bDAwJEZyb250UGFnZXNGdWxsUmVnaW9uJEdvdmVybm1lbnRQcmVzZW50YXRpb24kUmVnamVyaW5nc1ByZXNlbnRhc2pvbg8PZmRkBWZjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRDb250ZW50cyRTZWFyY2hSZXN1bHRzTGlzdCRsc3RVbml2ZXJzYWwPD2ZkZAVhY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkdWNSZWdqZXJpbmdlbk5vcm1hbFByZXNlbnRhdGlvbiR0b3BWaWV3cw8PZAIBZAU1Y3RsMDAkRnJvbnRQYWdlc0Z1bGxSZWdpb24kQ2hvb3Nlbk5ld3NMZWZ0JENob3Nlbk5ld3MPD2ZkZAVlY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkdWNSZWdqZXJpbmdlbk5vcm1hbFByZXNlbnRhdGlvbiRoZWFyaW5nVmlld3MPD2QCAWQFgwFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCR1Y1JlZ2plcmluZ2VuTm9ybWFsUHJlc2VudGF0aW9uJGN0bDExJEF1dGhvckxpc3QxJFJlbGF0aW9uc09uZUhvcFBhZ2VMaXN0MQ8PZmRkBVZjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRDb250ZW50cyRTZWFyY2hUYWJWaWV3cw8PZAIBZAVHY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDAkQ29udGVudHMPMqcCAAEAAAD/////AQAAAAAAAAAMAgAAAEZSZWdqZXJpbmdlbiwgVmVyc2lvbj0xLjAuMC4xNTc1OSwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBQEAAABiUmVnamVyaW5nZW4udGVtcGxhdGVzLlVuaXRzLkxvbmdEb2N1bWVudFNlYXJjaEFuZE5hdmlnYXRpb25Db250cm9sK1NlYXJjaEFuZE5hdmlnYXRpb25Db250cm9sU3RhdGUCAAAAKjxTZWFyY2hBbmRMaXN0UGFuZWxWaXNpYmxlPmtfX0JhY2tpbmdGaWVsZCc8VGFibGVPZkNvbnRlbnRzVmlzaWJsZT5rX19CYWNraW5nRmllbGQAAAEBAgAAAAABC2QFfWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJHVjUmVnamVyaW5nZW5Ob3JtYWxQcmVzZW50YXRpb24kY3RsMDUkU2VhcmNoUmVzdWx0c0xpc3QkbHN0VW5pdmVyc2FsDw9mZGQFUWN0bDAwJEZyb250UGFnZXNGdWxsUmVnaW9uJEZQSG9yaXpvbnRhbE1lbnUkSG9yaXpvbnRhbE1lbnVDb250cm9sJGxpc3RNZW51Q29sdW1uNQ8PZmRkBVFjdGwwMCRGcm9udFBhZ2VzRnVsbFJlZ2lvbiRGUEhvcml6b250YWxNZW51JEhvcml6b250YWxNZW51Q29udHJvbCRsaXN0TWVudUNvbHVtbjQPD2ZkZAVRY3RsMDAkRnJvbnRQYWdlc0Z1bGxSZWdpb24kRlBIb3Jpem9udGFsTWVudSRIb3Jpem9udGFsTWVudUNvbnRyb2wkbGlzdE1lbnVDb2x1bW4zDw9mZGQFUWN0bDAwJEZyb250UGFnZXNGdWxsUmVnaW9uJEZQSG9yaXpvbnRhbE1lbnUkSG9yaXpvbnRhbE1lbnVDb250cm9sJGxpc3RNZW51Q29sdW1uMg8PZmRkBXRjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRwYWdlaGVhZGluZ2luZm8xJEF1dGhvckxpc3QxJFJlbGF0aW9uc09uZUhvcFBhZ2VMaXN0MQ8PZmRkBW9jdGwwMCRGcm9udFBhZ2VzRnVsbFJlZ2lvbiRGUEhvcml6b250YWxNZW51JEhvcml6b250YWxNZW51Q29udHJvbCRsaXN0TWVudUNvbHVtbjMkY3RsMDIkUGFnZUxpc3RMYW5ndWFnZVN0cmljdDEPD2ZkZAVoY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkdWNSZWdqZXJpbmdlbk5vcm1hbFByZXNlbnRhdGlvbiRjdGwwMSRib2R5Vmlld3MPD2QCAWQFWGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJENvbnRlbnRzJENvbnRlbnRzVGFiVmlld3MPD2RmZAViY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAVvY3RsMDAkRnJvbnRQYWdlc0Z1bGxSZWdpb24kRlBIb3Jpem9udGFsTWVudSRIb3Jpem9udGFsTWVudUNvbnRyb2wkbGlzdE1lbnVDb2x1bW4zJGN0bDAxJFBhZ2VMaXN0TGFuZ3VhZ2VTdHJpY3QxDw9mZGQFZmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJHVjUmVnamVyaW5nZW5Ob3JtYWxQcmVzZW50YXRpb24kZG9jdW1lbnRWaWV3cw8PZAIBZAVvY3RsMDAkRnJvbnRQYWdlc0Z1bGxSZWdpb24kRlBIb3Jpem9udGFsTWVudSRIb3Jpem9udGFsTWVudUNvbnRyb2wkbGlzdE1lbnVDb2x1bW41JGN0bDAxJFBhZ2VMaXN0TGFuZ3VhZ2VTdHJpY3QxDw9mZGQFX2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJGN0bDAwJFN1YnBhZ2VUYWJsZU9mQ29udGVudHMkUGFnZUxpc3QyDw9mZGQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJE11bHRpUGFnZUxpc3QPD2ZkZAVeY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkdWNSZWdqZXJpbmdlbk5vcm1hbFByZXNlbnRhdGlvbiRjdGwwNQ8ypwIAAQAAAP////8BAAAAAAAAAAwCAAAARlJlZ2plcmluZ2VuLCBWZXJzaW9uPTEuMC4wLjE1NzU5LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGwFAQAAAGJSZWdqZXJpbmdlbi50ZW1wbGF0ZXMuVW5pdHMuTG9uZ0RvY3VtZW50U2VhcmNoQW5kTmF2aWdhdGlvbkNvbnRyb2wrU2VhcmNoQW5kTmF2aWdhdGlvbkNvbnRyb2xTdGF0ZQIAAAAqPFNlYXJjaEFuZExpc3RQYW5lbFZpc2libGU+a19fQmFja2luZ0ZpZWxkJzxUYWJsZU9mQ29udGVudHNWaXNpYmxlPmtfX0JhY2tpbmdGaWVsZAAAAQECAAAAAAELZAVvY3RsMDAkRnJvbnRQYWdlc0Z1bGxSZWdpb24kRlBIb3Jpem9udGFsTWVudSRIb3Jpem9udGFsTWVudUNvbnRyb2wkbGlzdE1lbnVDb2x1bW4yJGN0bDAxJFBhZ2VMaXN0TGFuZ3VhZ2VTdHJpY3QxDw9mZGQFVGN0bDAwJEZyb250UGFnZXNGdWxsUmVnaW9uJEdvdmVybm1lbnRQcmVzZW50YXRpb24kTWVkaWFTb3NpYWwkUmVnamVyaW5nc1ByZXNlbnRhc2pvbg8PZmRkBX5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJFJlbGF0ZWRMb3ZGb3Jza3JpZnQkUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAWAAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFUWN0bDAwJEZyb250UGFnZXNGdWxsUmVnaW9uJEZQSG9yaXpvbnRhbE1lbnUkSG9yaXpvbnRhbE1lbnVDb250cm9sJGxpc3RNZW51Q29sdW1uMQ8PZmRkBXhjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCR1Y1JlZ2plcmluZ2VuTm9ybWFsUHJlc2VudGF0aW9uJGN0bDA1JFRhYmxlT2ZDb250ZW50cyRQYWdlTGlzdDIPD2ZkZAWBAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkRG9jdW1lbnRSZWxhdGlvbnNoaXAyJFJlbGF0aW9uc09uZUhvcFBhZ2VMaXN0MQ8PZmRkBT5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRWaWV3cw8PZAIBZAVhY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDAkY3RsMDAkQ29udGVudHMkVGFibGVPZkNvbnRlbnRzJFBhZ2VMaXN0Mg8PZmRkBWFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCRjdGwwMCRDb250ZW50cyRUYWJsZU9mQ29udGVudHMkUGFnZUxpc3QxDw9mZGQFb2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJHVjUmVnamVyaW5nZW5Ob3JtYWxQcmVzZW50YXRpb24kY2lsZHJlbkxpc3QkY2hpbGRwYWdlcw8PZmRkBW9jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMCR1Y1JlZ2plcmluZ2VuTm9ybWFsUHJlc2VudGF0aW9uJGN0bDA1JENvbnRlbnRzVGFiVmlld3MPD2RmZAVPY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRUaXBBRnJpZW5kUGxhY2Vob2xkZXIkVGlwQUZyaWVuZCRUaXBWaWV3cw8PZAIBZAV4Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRIb2VyaW5nc05vdGF0JFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFaGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJHVjUmVnamVyaW5nZW5Ob3JtYWxQcmVzZW50YXRpb24kY3RsMDYkUGFnZUxpc3QyDw9mZGQFeGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJHVjUmVnamVyaW5nZW5Ob3JtYWxQcmVzZW50YXRpb24kY3RsMDUkVGFibGVPZkNvbnRlbnRzJFBhZ2VMaXN0MQ8PZmRkBW9jdGwwMCRGcm9udFBhZ2VzRnVsbFJlZ2lvbiRGUEhvcml6b250YWxNZW51JEhvcml6b250YWxNZW51Q29udHJvbCRsaXN0TWVudUNvbHVtbjEkY3RsMDEkUGFnZUxpc3RMYW5ndWFnZVN0cmljdDEPD2ZkZAWDAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAwJHVjUmVnamVyaW5nZW5Ob3JtYWxQcmVzZW50YXRpb24kY3RsMTQkQXV0aG9yTGlzdDEkUmVsYXRpb25zT25lSG9wUGFnZUxpc3QxDw9mZGQFdWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkSG9lcmluZ0ZvciRSZWxhdGlvbk9uZUhvcFBhZ2VMaXN0MQ8PZmRkttDROGkzdkRRUn1K6CiDrGNRHeg=" />
 </div>
 
+
+<script src="/script/js/fancybox/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">Go to search</a><a href="#AreaFullContent" tabindex="3">Go to content</a><a href="#AreaTopSiteNav" tabindex="4">Go to top menu</a><a href="#BottomMenu" tabindex="5">Go to left menu</a>
+    
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb.html?id=4">Bokmål</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn.html?id=4">Nynorsk</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se.html?id=4">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en.html?id=4">English</a></li>
+        <li class="First Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb.html?id=4">Bokmål</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn.html?id=4">Nynorsk</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se.html?id=4">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="This page is displayed in english." class="ISI_IGNORE" href="/en.html?id=4">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/en.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/en.html?id=4" tabindex="20">
+                                            government.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/en/the-government/solberg/members-of-the-government-2.html?id=543170' class="ISI_MENU" tabindex="21">Solberg’s Government</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/en/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Ministries
+                                        </a>
+                                        
     <ul>
   
     <li>
@@ -112,7 +121,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+        <a href="/en/dep/asd.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour and Social Affairs</a>
     </li>
   
     <li>
@@ -124,14 +133,6 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
-    </li>
-  
-    <li>
         <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
     </li>
   
@@ -140,15 +141,19 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and Public Security</a>
     </li>
   
     <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
+        <a href="/en/dep/kld.html?id=668" class="NormalLink ISI_MENU">Ministry of Climate and Environment</a>
     </li>
   
     <li>
-        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
+        <a href="/en/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Modernisation</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
     </li>
   
     <li>
@@ -160,11 +165,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+        <a href="/en/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade, Industry and Fisheries</a>
     </li>
   
     <li>
@@ -183,260 +184,576 @@ function printPage()
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en.html?id=4"><img class="ProfileLogo" src="/styles/Images/DEP/DEP_en.gif" alt='Government.no' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/en.html?id=4" tabindex="34"><img class="ProfileLogo" src="/styles/Images/DEP/DEP_en.gif" alt='Government.no' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
     <label for="quicksearchinput" class="QuickSearchHeader">Search all of government.no</label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Search" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Search" />        
     <span></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en.html?id=4&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/sitemap.html?id=223274">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/contact.html?id=224637">Contact</a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Click here to print this page' />Print</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/default.aspx?id=4&amp;epslanguage=en-GB&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal font size' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/default.aspx?id=4&amp;epslanguage=en-GB&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium font size' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/default.aspx?id=4&amp;epslanguage=en-GB&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Large font size' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en.html?id=4&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/en/sitemap.html?id=223274">Site Map</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/en/contact.html?id=224637">Contact</a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
-    <div id="FPMainContent">
-        <div id="FPMainSubject">
-            <!-- politisk tema -->
-            <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
-            <h1>                <a href='/en/dep/fin/News/news/2010/ilo-and-imf-conference-in-oslo-to-addres.html?id=612489'>ILO and IMF conference in Oslo</a>            </h1>            <div class="ArticleContent"><p>A joint conference with The International Labour Organization (ILO) and the International Monetary Fund (IMF) was hosted by the Prime Minister of Norway, Jens Stoltenberg, 13 September 2010, in Oslo.</p>
-<p>The conference on “The Challenges of Growth, Employment and Social Cohesion”, the first of its kind, explored new ways of forging a sustainable, job-rich recovery from the global economic crisis.</p></div>                                    
-            
-            
-            
-        </div>
-        <div id="FPMainArticle" class='FPSmall'>
-            <div class="ArticleContent">Several targeted policy measures helped mitigating the effects of the international financial crisis on the Norwegian economy. Following a decline in mainland output of 1.4 per cent in 2009, growth in the Mainland economy is now forecast at 1.7 per cent in 2010 and 3.1 per cent in 2011, the latter about half a percentage point above trend growth. Unemployment has been kept at low levels throughout the downturn and is forecast at 3½ per cent both in 2010 and 2011.</div>
-            
-            <h2 Style="font-size:2.0em;">
-                
-                <a href='/en/dep/fin/press-center/Press-releases/2010/fiscal-budget-2011-a-modest-fiscal-tight.html?id=619723' style="font-weight:bold;"><p>Fiscal Budget 2011: A modest fiscal tightening</p></a>
-                </h2>
-            <p class="ArticleComment">(Ministry of Finance, 05.10.2010)</p>
-        </div>        
-        <img src="/upload/PORTAL/Portrettbilder/165x250/sigbjorn_johnsen_b_165x250.jpg" alt="Minister of Finance, Sigbjørn Johnsen" class="FPMainImg" />
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
+                    
+     
+<div id="FocusBoxSingel">
+    <div id="FocusBoxLeftSingel">
+        <h1 style="font-size: 2.4em;">
+            <a href='/en/dep/ud/press/news/2014/russia_measures.html?id=765506'>Foreign Minister Brende: ‘Norway likely to align itself with EU’s new restrictive measures against Russia’</a>
+        </h1>
         
-    </div>
-
-    <div id="FPBottomContent">
+            <p id="P1">
+                ‘The EU’s new restrictive measures against Russia reflect the gravity of the deteriorating situation in Ukraine. Norway will study the measures closely. Given the important foreign policy considerations involved, there is good reason for Norway to align itself with the new measures. We will consult the Storting before a final decision is taken,’ said Minister of Foreign Affairs Børge Brende.  
+                <span id="ingressDepName"></span>
+            </p>
         
-        
-              <div id="FPNews">
-                <div id="FPNewsList">
-                <h1>News</h1>
-            
-                <div class="FPnewsHolder">
-                    <div class="FPImgHolder">
-                        
-                        <a href="/en/dep/ud/press/news/2010/diplomatic_presence.html?id=620269" class="ISI_IGNORE">
-                            <img src="/upload/UD/Ingressbilder/Kgl_no_amb.jpg" alt="" class="" />
-                        </a>
-                        
-                    </div>
-                    <div class="FPTextHolder">
-                        <h2><a href="/en/dep/ud/press/news/2010/diplomatic_presence.html?id=620269" title="">Changes in Norway’s diplomatic presence abroad</a></h2>
-                        
-                        <p>The Ministry of Foreign Affairs will increase its diplomatic presence in a number of countries in 2011, for example in Brazil, India, Indonesia, China and Russia. In order to free resources for these new missions, five missions will be closed, and there will be staff reductions at some other missions next year.</p>   
-                        
-                        
-                        <p>
-                            
-                            (Ministry of Foreign Affairs, 05.10.2010) 
-                        </p>            
-                        
-                    </div>
-                </div>
-            
-                <div class="FPnewsHolder">
-                    <div class="FPImgHolder">
-                        
-                        <a href="/en/dep/oed/press-center/Press-releases/2010/full-steam-ahead-on-the-norwegian-contin.html?id=619685" class="ISI_IGNORE">
-                            <img src="/upload/OED/Bilder - ingress/Plattformer/Statfjord_A_Foto_StatoilHydro.jpg" alt="" class="" />
-                        </a>
-                        
-                    </div>
-                    <div class="FPTextHolder">
-                        <h2><a href="/en/dep/oed/press-center/Press-releases/2010/full-steam-ahead-on-the-norwegian-contin.html?id=619685" title="">Full steam ahead on the Norwegian Continental Shelf</a></h2>
-                        
-                        <p>The activity level in the Norwegian petroleum industry is still high. Exploration activity has the last few years increased substantially and several new discoveries are being made. The Pension Fund is still growing, now approaching NOK 3000 billion. This is more than one million per family in Norway, says the Minister of Petroleum and Energy, Terje Riis-Johansen.</p>   
-                        
-                        
-                        <p>
-                            
-                            (Ministry of Petroleum and Energy, 05.10.2010) 
-                        </p>            
-                        
-                    </div>
-                </div>
-            
-                <div class="FPnewsHolder">
-                    <div class="FPImgHolder">
-                        
-                        <a href="/en/dep/fin/press-center/Press-releases/2010/new-strategy-council-for-the-government-.html?id=619587" class="ISI_IGNORE">
-                            <img src="/Upload/FIN/Ingresssbilder/pressrelease.gif" alt="Illustration" class="" />
-                        </a>
-                        
-                    </div>
-                    <div class="FPTextHolder">
-                        <h2><a href="/en/dep/fin/press-center/Press-releases/2010/new-strategy-council-for-the-government-.html?id=619587" title="">New Strategy Council for the Government Pension Fund Global</a></h2>
-                        
-                        <p>In the National Budget 2011 the Ministry today announced the establishment of a new Strategy Council with four external members. The Strategy Council has been asked to write a report on the long term investment strategy of the Government Pension Fund Global and present this no later than 1 December 2010.</p>   
-                        
-                        
-                        <p>
-                            
-                            (Ministry of Finance, 05.10.2010) 
-                        </p>            
-                        
-                    </div>
-                </div>
-                              
-                  <a href="/en/whatsnew.html?id=1150" class="FPBottomLink">More news</a>
-                </div>
-              </div>
-            
-      <div id="FPSubjects">
-        <h1 style="display:none">Menu overview</h1>
-                        
-                <div class="FPSubjectList">
-            <div class="FPSubjectHolder">
-                <h2><a href='/en/whatsnew.html?id=1150' class="ISI_MENU">Whats new</a></h2>
-                <ul><li><a href="/en/whatsnew/news.html?id=1170" class="ISI_MENU" target='_self' title=''>News</a></li><li><a href="/en/whatsnew/Calendar.html?id=1330" class="ISI_MENU" target='_self' title=''>Calendar</a></li><li><a href="/en/whatsnew/speeches_articles.html?id=1334" class="ISI_MENU" target='_self' title=''>Speeches and articles</a></li><li><a href="/en/whatsnew/rss.html?id=478812" class="ISI_MENU" target='_self' title=''>RSS</a></li></ul>
-            </div><div class="FPSubjectHolder">
-                <h2><a href='/en/webcast.html?id=437495' class="ISI_MENU">Webcast</a></h2>
-                
-            </div><div class="FPSubjectHolder">
-                <h2><a href='/en/doc.html?id=439279' class="ISI_MENU">Documents</a></h2>
-                <ul><li><a href="/en/doc/Laws.html?id=438754" class="ISI_MENU" target='_self' title=''>Acts and regulations</a></li><li><a href="/en/doc/consultation-papers.html?id=1762" class="ISI_MENU" target='_self' title=''>Circular</a></li><li><a href="/en/doc/norwegian-official-reports.html?id=1767" class="ISI_MENU" target='_self' title=''>Official Norwegian Reports</a></li><li><a href="/en/doc/Reports-and-plans.html?id=438817" class="ISI_MENU" target='_self' title=''>Reports and plans</a></li><li><a href="/en/doc/Guidelines-and-brochures.html?id=438822" class="ISI_MENU" target='_self' title=''>Guidelines and brochures</a></li></ul>
-            </div><div class="FPSubjectHolder">
-                <h2><a href='/en/archive.html?id=115322' class="ISI_MENU">Document Archive</a></h2>
-                
-            </div>
-                
-                </div>
-            
-        
-                        
-                <div class="FPSubjectList">
-            <div class="FPSubjectHolder">
-                <h2><a href='/en/topics.html?id=208' class="ISI_MENU">Topics</a></h2>
-                <ul><li><a href="/en/topics/Business-and-industry.html?id=926" class="ISI_MENU" target='_self' title=''>Business and industry</a></li><li><a href="/en/topics/Civil-protection-and-defence.html?id=215" class="ISI_MENU" target='_self' title=''>Civil protection and defence</a></li><li><a href="/en/topics/consumers.html?id=214" class="ISI_MENU" target='_self' title=''>Consumers</a></li><li><a href="/en/topics/Culture-leisure-and-belief-systems.html?id=920" class="ISI_MENU" target='_self' title=''>Culture, leisure and belief systems</a></li><li><a href="/en/topics/Education-and-research.html?id=930" class="ISI_MENU" target='_self' title=''>Education and research</a></li><li><a href="/en/topics/energy.html?id=212" class="ISI_MENU" target='_self' title=''>Energy</a></li><li><a href="/en/topics/Equality.html?id=922" class="ISI_MENU" target='_self' title=''>Equality</a></li><li><a href="/en/topics/families-and-upbringing.html?id=213" class="ISI_MENU" target='_self' title=''>Families and upbringing</a></li><li><a href="/en/topics/Food-fisheries-and-agriculture.html?id=924" class="ISI_MENU" target='_self' title=''>Food, fisheries and agriculture</a></li><li><a href="/en/topics/Health-and-care.html?id=917" class="ISI_MENU" target='_self' title=''>Health and care</a></li><li><a href="/en/topics/housing-and-property.html?id=211" class="ISI_MENU" target='_self' title=''>Housing and property</a></li><li><a href="/en/topics/Immigration-and-social-inclusion.html?id=918" class="ISI_MENU" target='_self' title=''>Immigration and social inclusion</a></li><li><a href="/en/topics/Indigenous-peoples-and-minorities.html?id=929" class="ISI_MENU" target='_self' title=''>Indigenous peoples and minorities</a></li><li><a href="/en/topics/International-relations.html?id=919" class="ISI_MENU" target='_self' title=''>International relations</a></li><li><a href="/en/topics/engelsk-tema.html?id=210" class="ISI_MENU" target='_self' title=''>Labour and welfare</a></li><li><a href="/en/topics/Law-and-order.html?id=923" class="ISI_MENU" target='_self' title=''>Law and order</a></li><li><a href="/en/topics/Municipalities-and-regions.html?id=921" class="ISI_MENU" target='_self' title=''>Municipalities and regions</a></li><li><a href="/en/topics/Public-administration.html?id=927" class="ISI_MENU" target='_self' title=''>Public administration</a></li><li><a href="/en/topics/The-economy.html?id=931" class="ISI_MENU" target='_self' title=''>The economy</a></li><li><a href="/en/topics/The-environment.html?id=925" class="ISI_MENU" target='_self' title=''>The environment</a></li><li><a href="/en/topics/Transport-and-communications.html?id=928" class="ISI_MENU" target='_self' title=''>Transport and communications</a></li></ul>
-            </div><div class="FPSubjectHolder">
-                <h2><a href='/en/the-government.html?id=443314' class="ISI_MENU">The Government</a></h2>
-                <ul><li><a href="/en/the-government/stoltenberg-ii.html?id=85843" class="ISI_MENU" target='_self' title=''>Stoltenberg's 2nd Government</a></li><li><a href="/en/the-government/previous-governments.html?id=85847" class="ISI_MENU" target='_self' title=''>Norway's Governments since 1814</a></li><li><a href="/en/the-government/the-government-at-work.html?id=443781" class="ISI_MENU" target='_self' title=''>The Government at Work</a></li></ul>
-            </div>
-                
-                </div>
-            
-        
-      </div></div>
-        
-      <div style="clear:both;"></div> 
-
-                    <!-- ISI_STOP -->
-                </div>
-                </div>
-            </div>
-        </div>
         
          
-<div id="PageFooter"><p>Government Administration Services, Einar Gerhardsens plass 3, Postbox 8129 Dep, 0032 OSLO, Norway&nbsp;<br />Tlf: + 47 22 24 90 90 | E-mail: <img id='Eoi_1' class='obfimg' src='/images/emailimages/cc8068e7cd4930f223ca4cb5bf0fccf1.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', 'BE80DF918280CAD0D1D89182D1D090CEDBDA90CDCDDAFED0DBD0D1D4CDD5DFDADBCC809C8E868E8E8E869D9C83CCD1D2D1DD9ECAD0D1D882809CD1D090CEDBDA90CDCDDAFED0DBD0D1D4CDD5DFDADBCC84D1CAD2D7DFD39C83D8DBCCD69EDF82'));//--></script>&nbsp;</p></div>
-        
-        
-                    
-        
-    </form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
-	
-} else
-{    
-    //setAreaHeights();
-}
+    </div>
+    <div id="FocusBoxRightSingel">
+        <div class="MediaContent">
+            
+            
+                <a href='/en/dep/ud/press/news/2014/russia_measures.html?id=765506'>
+                    <img id="FrontPagesFullRegion_FocusAreaPortal_focusImageRight" title="Minister of Foreign Affairs Børge Brende" src="http://www.regjeringen.no/imgpreviews/00/00/04/10/41085_img___1405001101284.jpg" alt="Minister of Foreign Affairs Børge Brende" />
+                </a>
+            
+            <p class="MediaText">Minister of Foreign Affairs B&#248;rge Brende</p>
+        </div>
+    </div>
+</div>
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
-
-<div id="ctl00_externalPageTrackers">
-	
-
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
-<script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
-//--></script>
-<!-- END Xtractor client tracker script -->
+     <div id="MainContent">      
+        
 
 
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
+<div class="ContentHolder">
+    <div class="ArticleHolder">
+        
+    
+            <a href="/en/dep/jd/press-center/pressemeldinger/2014/The-threat-against-Norway-is-downgraded.html?id=765519">
+                <img src="http://www.regjeringen.no/pages/38771760/pk_nedjustering_536x302.jpg" alt="Anders Anundsen, Benedicte Bjørnland and Odd Reidar Humlegård" title="Anders Anundsen, Benedicte Bjørnland and Odd Reidar Humlegård" />
+            </a>
+        
+            <h2><a href="/en/dep/jd/press-center/pressemeldinger/2014/The-threat-against-Norway-is-downgraded.html?id=765519" title=""> The threat against Norway is downgraded</a></h2>
+                    
+                    <p>
+		                The Norwegian Police Security Service (PST) states that the threat level in Norway is on the way back to where it was when they presented their threat assessment in February 2014.
+                        <span class="DepDato">(Ministry of Justice and Public Security, 31.07.2014)</span> 
+		            </p>
+            </div>
+            
+                 <div class="NewsListHeadingContainer">
+                    <h3>MORE NEWS</h3>
+                 </div>
+             
+            <div class="LinkHolder">
+        
+            <div class="link">
+                <div class="linkInner">
+                    <a href="/en/dep/ud/press/news/2014/Foreign-Minister-Brende-concerned-about-South-Sudan-peace-talks-.html?id=765554" title="">Foreign Minister Brende concerned about South Sudan peace talks </a>
+                </div>
+                <span class="DepDato">(Ministry of Foreign Affairs, 05.08.2014)</span> 
+            </div>
+        
+            <div class="link">
+                <div class="linkInner">
+                    <a href="/en/dep/smk/Whats-new/news/2014/Final-effort-to-reach-the-Millennium-Development-Goals.html?id=764989" title="">Final effort to reach the Millennium Development Goals</a>
+                </div>
+                <span class="DepDato">(The Office of the Prime Minister, 03.07.2014)</span> 
+            </div>
+        
+                <a href="/en/whatsnew.html?id=1150" class="mooreNewsLink">
+                    All news
+                </a>
+        
+                
+    </div>
+</div>
+        
+
+<div class="ContentHolder">
+    <div class="ArticleHolder ArticleHolderLessMargin">
+        <a href="/en/dep/ud/whats-new/news/2014/celebrating_abroad.html?id=754199">
+            <img src="/imgpreviews/00/00/04/00/40005_img___1396960646053.jpg" alt="The Constitution - hand written. (Photo: MFA)" title="The Constitution - hand written. (Photo: MFA)" />
+        </a>
+            <h2>
+                <a href="/en/dep/ud/whats-new/news/2014/celebrating_abroad.html?id=754199">Celebrating the Constitution abroad</a>
+            </h2>
+            <p>
+                Nearly 150 different events to celebrate the bicentenary of the Norwegian Constitution will be held by our missions abroad in 2014.
+                <span class="DepDato"></span>
+            </p>          
+    </div>
+    <div class="LinkHolder">
+        
+                    <div class="link">
+                        <div class="linkInner">
+                            <a href="https://www.stortinget.no/en/Grunnlovsjubileet/In-English/" target="_blank">See more about the celebration at the Storting&#39;s web site (the Parliament)</a>
+                        </div>
+                    </div>
+                
+    </div>
+</div>
+        
+
+<div class="ContentHolder">
+    <div class="ArticleHolder ArticleHolderLessMargin">
+        <a href="/en/dep/smk/press-center/Press-releases/2013/fields-of-responsibility-in-erna-solberg.html?id=742934">
+            <img src="/imgpreviews/00/00/03/67/36784_img___1382091761859.png" alt="" title="" />
+         </a>
+            <h2>
+                <a href="/en/dep/smk/press-center/Press-releases/2013/fields-of-responsibility-in-erna-solberg.html?id=742934">Fields of responsibility in Erna Solberg’s government </a>
+            </h2>
+            <p>
+                Erna Solberg’s Government was appointed by the King in a session of the Council of State on 16 October 2013. It represents the Conservative Party (C) and  the Progress Party (PrP).
+                <span class="DepDato">
+                    
+                </span>
+            </p>      
+    </div>
+    <div class="LinkHolder">
+        
+                    <div class="link">
+                        <div class="linkInner">
+                            <a href="/en/the-government/solberg/members-of-the-government-2.html?id=543170" title="">Members of the Government</a>
+                        </div>
+                    </div>
+                
+    </div>
+    
+    
+<div class="LinkHolder">
+    
+</div>
+
 
 
 </div>
+
+
+
+                        
+            <div id="BottomMenu">
+                
+
+<!--
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+-->
+                    
+            <div class="SubjectList">
+        
+            <div class="SubjectHolder">
+                <h3>    
+                    <a href='/en/whatsnew.html?id=1150' class="ISI_MENU">WHATS NEW</a>
+                </h3>
+                
+                        <ul>
+                    
+                        <li>
+                            <a href="/en/whatsnew/news.html?id=1170" class="ISI_MENU" target="_self" title="">News</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/en/whatsnew/Calendar.html?id=1330" class="ISI_MENU" target="_self" title="">Calendar</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/en/whatsnew/speeches_articles.html?id=1334" class="ISI_MENU" target="_self" title="">Speeches and articles</a>
+                        </li>
+                    
+                        </ul>
+                    
+            </div>
+        
+            </div>
+        
+
+                    
+            <div class="SubjectList">
+        
+            <div class="SubjectHolder">
+                <h3>    
+                    <a href='/en/webcast.html?id=437495' class="ISI_MENU">WEBCAST</a>
+                </h3>
+                
+            </div>
+        
+            </div>
+        
+
+                    
+            <div class="SubjectList">
+        
+            <div class="SubjectHolder">
+                <h3>    
+                    <a href='/en/doc.html?id=439279' class="ISI_MENU">DOCUMENTS</a>
+                </h3>
+                
+                        <ul>
+                    
+                        <li>
+                            <a href="/en/doc/propositions-and-reports-.html?id=1751" class="ISI_MENU" target="_self" title="">Draft resolutions, bills and white papers</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/en/doc/laws.html?id=438754" class="ISI_MENU" target="_self" title="">Acts and regulations</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/en/doc/consultation-papers.html?id=1762" class="ISI_MENU" target="_self" title="">Circular</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/en/doc/norwegian-official-reports.html?id=1767" class="ISI_MENU" target="_self" title="">Official Norwegian Reports</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/en/doc/reports-and-plans.html?id=438817" class="ISI_MENU" target="_self" title="">Reports and plans</a>
+                        </li>
+                    
+                        <li>
+                            <a href="/en/doc/Guidelines-and-brochures.html?id=438822" class="ISI_MENU" target="_self" title="">Guidelines and brochures</a>
+                        </li>
+                    
+                        </ul>
+                    
+            </div>
+        
+            <div class="SubjectHolder">
+                <h3>    
+                    <a href='/en/archive.html?id=115322' class="ISI_MENU">DOCUMENT ARCHIVE</a>
+                </h3>
+                
+            </div>
+        
+            </div>
+        
+
+                    
+            <div class="SubjectList">
+        
+            <div class="SubjectHolder">
+                <h3>    
+                    <a href='/en/Vises-ikke-i-meny/useful-pages.html?id=471986' class="ISI_MENU">USEFUL PAGES</a>
+                </h3>
+                
+                        <ul>
+                    
+                        <li>
+                            <a href="https://www.altinn.no/en/" class="ISI_MENU" target="_self" title="">Altinn</a>
+                        </li>
+                    
+                        <li>
+                            <a href="http://www.norway.no/omnorgeno/" class="ISI_MENU" target="_self" title="">Norway.no</a>
+                        </li>
+                    
+                        <li>
+                            <a href="http://www.stortinget.no/en/In-English/" class="ISI_MENU" target="_self" title="">Storting (Norwegian Parliament)</a>
+                        </li>
+                    
+                        </ul>
+                    
+            </div>
+        
+            </div>
+        
+
+                    
+            <div class="SubjectList">
+            <div class="SubjectHolder">
+                <h3>          
+                    <a href='/en/topics.html?id=208' class="ISI_MENU">TOPICS</a>
+                </h3>
+            <ul>
+                   
+            <li>
+                <a href='/en/topics/business-and-industry.html?id=926' class="ISI_MENU">Business and industry</a>
+            </li>              
+                   
+            <li>
+                <a href='/en/topics/civil-protection-and-defence.html?id=215' class="ISI_MENU">Civil protection and defence</a>
+            </li>              
+                   
+            <li>
+                <a href='/en/topics/consumers.html?id=214' class="ISI_MENU">Consumers</a>
+            </li>              
+                   
+            <li>
+                <a href='/en/topics/culture-leisure-and-belief-systems.html?id=920' class="ISI_MENU">Culture, leisure and belief systems</a>
+            </li>              
+                   
+            <li>
+                <a href='/en/topics/education-and-research.html?id=930' class="ISI_MENU">Education and research</a>
+            </li>              
+                   
+            <li>
+                <a href='/en/topics/energy.html?id=212' class="ISI_MENU">Energy</a>
+            </li>              
+                   
+            <li>
+                <a href='/en/topics/equality.html?id=922' class="ISI_MENU">Equality</a>
+            </li>              
+                   
+            <li>
+                <a href='/en/topics/families-and-upbringing.html?id=213' class="ISI_MENU">Families and upbringing</a>
+            </li>              
+                   
+            <li>
+                <a href='/en/topics/food-fisheries-and-agriculture.html?id=924' class="ISI_MENU">Food, fisheries and agriculture</a>
+            </li>              
+                   
+            <li>
+                <a href='/en/topics/health-and-care.html?id=917' class="ISI_MENU">Health and care</a>
+            </li>              
+                   
+            <li>
+                <a href='/en/topics/housing-and-property.html?id=211' class="ISI_MENU">Housing and property</a>
+            </li>              
+        
+            </ul>
+            </div>
+            </div>
+        
+
+                    
+        <div class="SubjectListLastColumn2">
+        <div class="SubjectHolder">
+        <ul>
+    
+        <li>
+            <a href='/en/topics/immigration-and-social-inclusion.html?id=918' class="ISI_MENU">Immigration and social inclusion</a>
+        </li>
+    
+        <li>
+            <a href='/en/topics/indigenous-peoples-and-minorities.html?id=929' class="ISI_MENU">Indigenous peoples and minorities</a>
+        </li>
+    
+        <li>
+            <a href='/en/topics/international-relations.html?id=919' class="ISI_MENU">International relations</a>
+        </li>
+    
+        <li>
+            <a href='/en/topics/engelsk-tema.html?id=210' class="ISI_MENU">Labour and welfare</a>
+        </li>
+    
+        <li>
+            <a href='/en/topics/law-and-order.html?id=923' class="ISI_MENU">Law and order</a>
+        </li>
+    
+        <li>
+            <a href='/en/topics/municipalities-and-regions.html?id=921' class="ISI_MENU">Municipalities and regions</a>
+        </li>
+    
+        <li>
+            <a href='/en/topics/public-administration.html?id=927' class="ISI_MENU">Public administration</a>
+        </li>
+    
+        <li>
+            <a href='/en/topics/the-economy.html?id=931' class="ISI_MENU">The economy</a>
+        </li>
+    
+        <li>
+            <a href='/en/topics/the-environment.html?id=925' class="ISI_MENU">The environment</a>
+        </li>
+    
+        <li>
+            <a href='/en/topics/transport-and-communications.html?id=928' class="ISI_MENU">Transport and communications</a>
+        </li>
+    
+        </ul>
+        </div>
+        </div>
+    
+         
+            </div>
+    </div>
+
+                    <!-- ISI_STOP -->
+                </div>
+            </div>
+        </div>
+    </div>
+    
+        
+<div id="PageFooter"><p>Government Administration Services, Postbox 8129 Dep, 0032 OSLO, Norway&nbsp;<br />Tlf: + 47 22 24 90 90 | E-mail: <img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/7e9be61f8efe803a769b5c63116adc10.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, '605E014F5C5E0E0110134F5C0F0E4E1005044E131304200E050E0F0A130B010405125E425B50585050505843405A120F0C0F03425D050C191413400E0110135C5E420F0E4E1005044E131304200E050E0F0A130B010405125A0F140C09010D425D0605120840015C'));//--></script>&nbsp;</p></div>
+<div title="web02" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web02" /></div>
+    
+    
+    
+        
+
+
+    
+    </form>
+    <div id="externalPageTrackers">
+	
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
+    
+</div>       
+    
+    
+
+<div>
+    
+<script type="text/javascript"><!--
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no uses cookies to improve our service to the users. The cookies are mainly used for traffic measuring and for optimizing the site. Find more information on ",
+            messagepart2: ", or go back to regjeringen.no if you accept this.",
+            readMoreUrl: "http://www.regjeringen.no/en/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "use of cookies",
+            closeText: "Close"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
+//--></script>
+
+</div>
+
+
+    
+
 </body>
 </html>

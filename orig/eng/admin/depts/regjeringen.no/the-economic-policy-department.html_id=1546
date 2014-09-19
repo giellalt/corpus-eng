@@ -1,17 +1,23 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
+    <!-- ISI_NOAUTOLANG -->
+    <title>
 	Economic Policy Department - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="Economic Policy Department" />
+<meta name="WT.ti" content="Economic Policy Department" />
 <meta name="DCSext.regj.pagetype" content="Avdeling" />
-<meta name="DCSext.regj.pageid" content="1546" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
 <meta name="DCSext.regj.owner" content="fin" />
 <meta name="DCSext.regj.language" content="en-GB" />
+<meta name="DCSext.regj_lv2" content="dep" />
+<meta name="DCSext.regj_lv3" content="fin" />
+<meta name="DCSext.regj_lv4" content="the-ministry" />
+<meta name="DCSext.regj_lv5" content="about-the-ministry" />
+<meta name="DCSext.regj_lv6" content="Departments" />
+<meta name="DCSext.regj_lv7" content="the-economic-policy-department" />
+<meta name="DCSext.regj_g-page" content="1546-g-page" />
 <meta name="TITLE" content="Economic Policy Department" />
 <meta name="description" content="The Economic Policy Department monitors and analyses economic trends in Norway and abroad, and gives advice in a number of areas of economic policy. The Economic Policy Department is responsible for raising and servicing government loans at home and ab..." />
 <meta name="DC.Title" content="The Economic Policy Department" />
@@ -22,9 +28,10 @@
 <meta name="DC.Type.Status" content="Gyldig" />
 <meta name="DC.Type" content="Avdeling" />
 <meta name="DC.Format" content="text/html" />
-<meta name="DC.Identifier.URL" content="/en/dep/fin/The-Ministry/About-the-Ministry/Departments/The-Economic-Policy-Department.html?id=1546" />
+<meta name="DC.Identifier.URL" content="/en/dep/fin/the-ministry/about-the-ministry/Departments/the-economic-policy-department.html?id=1546" />
 <meta name="DC.Language" content="en-GB" />
 <meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DCSext.regj.lang-pref" content="en-GB" />
 <meta name="DC.Publisher" content="regjeringen.no" />
 <meta name="AUTHOR" content="Ministry of Finance" />
 <meta name="creation_date" content="Wed, 01 Nov 2006 19:52:00 GMT" />
@@ -34,82 +41,96 @@
 <meta http-equiv="Content-Language" content="en" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
-
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/fin.css" media="all" /> 
-
-
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
-
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
 
 
 
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+    <!-- default styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/default_styles_combined_45D29949909B2B10854E130AC37BCE3C.css" />
+    <!--[if lt IE 6]
+        <link rel="stylesheet" type="text/css" href="/styles/ie55.css?v=2.1.11776" media="screen">
+
+    <![endif]-->
+
+
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/3Col_AF432B5349630A9B3C4A0BDD3743237C.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+<link rel="stylesheet" type="text/css" media="all" href="/styles/Profiles/fin_B97F5CE7DB432C0DBD74B2A84E694127.css" />
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
+
+
+
+
+<link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web02.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=1546" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web02.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=1546" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en/dep/fin/The-Ministry/About-the-Ministry/Departments/The-Economic-Policy-Department.html?id=1546" id="aspnetForm" enctype="multipart/form-data">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1NjA0MDAxMjgPZBYCZg9kFghmDxUCAmVuAmVuZAIBEGRkFgICAg9kFgZmDxYCHgRUZXh0BYEQPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZW5hbWUiIGNvbnRlbnQ9IkVjb25vbWljIFBvbGljeSBEZXBhcnRtZW50IiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXR5cGUiIGNvbnRlbnQ9IkF2ZGVsaW5nIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZWlkIiBjb250ZW50PSIxNTQ2IiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oub3duZXIiIGNvbnRlbnQ9ImZpbiIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLmxhbmd1YWdlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IlRJVExFIiBjb250ZW50PSJFY29ub21pYyBQb2xpY3kgRGVwYXJ0bWVudCIgLz4NCjxtZXRhIG5hbWU9ImRlc2NyaXB0aW9uIiBjb250ZW50PSJUaGUgRWNvbm9taWMgUG9saWN5IERlcGFydG1lbnQgbW9uaXRvcnMgYW5kIGFuYWx5c2VzIGVjb25vbWljIHRyZW5kcyBpbiBOb3J3YXkgYW5kIGFicm9hZCwgYW5kIGdpdmVzIGFkdmljZSBpbiBhIG51bWJlciBvZiBhcmVhcyBvZiBlY29ub21pYyBwb2xpY3kuIFRoZSBFY29ub21pYyBQb2xpY3kgRGVwYXJ0bWVudCBpcyByZXNwb25zaWJsZSBmb3IgcmFpc2luZyBhbmQgc2VydmljaW5nIGdvdmVybm1lbnQgbG9hbnMgYXQgaG9tZSBhbmQgYWIuLi4iIC8+DQo8bWV0YSBuYW1lPSJEQy5UaXRsZSIgY29udGVudD0iVGhlIEVjb25vbWljIFBvbGljeSBEZXBhcnRtZW50IiAvPg0KPG1ldGEgbmFtZT0iREMuQ3JlYXRvciIgY29udGVudD0iTWluaXN0cnkgb2YgRmluYW5jZSIgLz4NCjxtZXRhIG5hbWU9IkRDLkRlc2NyaXB0aW9uIiBjb250ZW50PSJUaGUgRWNvbm9taWMgUG9saWN5IERlcGFydG1lbnQgbW9uaXRvcnMgYW5kIGFuYWx5c2VzIGVjb25vbWljIHRyZW5kcyBpbiBOb3J3YXkgYW5kIGFicm9hZCwgYW5kIGdpdmVzIGFkdmljZSBpbiBhIG51bWJlciBvZiBhcmVhcyBvZiBlY29ub21pYyBwb2xpY3kuIFRoZSBFY29ub21pYyBQb2xpY3kgRGVwYXJ0bWVudCBpcyByZXNwb25zaWJsZSBmb3IgcmFpc2luZyBhbmQgc2VydmljaW5nIGdvdmVybm1lbnQgbG9hbnMgYXQgaG9tZSBhbmQgYWIuLi4iIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlIiBjb250ZW50PSIyMDA2LTExLTAxIiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZS5BdmFpbGFibGUiIGNvbnRlbnQ9IjIwMDYtMTEtMDEiIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlLlN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZSIgY29udGVudD0iQXZkZWxpbmciIC8+DQo8bWV0YSBuYW1lPSJEQy5Gb3JtYXQiIGNvbnRlbnQ9InRleHQvaHRtbCIgLz4NCjxtZXRhIG5hbWU9IkRDLklkZW50aWZpZXIuVVJMIiBjb250ZW50PSIvZW4vZGVwL2Zpbi9UaGUtTWluaXN0cnkvQWJvdXQtdGhlLU1pbmlzdHJ5L0RlcGFydG1lbnRzL1RoZS1FY29ub21pYy1Qb2xpY3ktRGVwYXJ0bWVudC5odG1sP2lkPTE1NDYiIC8+DQo8bWV0YSBuYW1lPSJEQy5MYW5ndWFnZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJEQy5MYW5ndWFnZS5QcmVmZXJlbmNlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IkRDLlB1Ymxpc2hlciIgY29udGVudD0icmVnamVyaW5nZW4ubm8iIC8+DQo8bWV0YSBuYW1lPSJBVVRIT1IiIGNvbnRlbnQ9Ik1pbmlzdHJ5IG9mIEZpbmFuY2UiIC8+DQo8bWV0YSBuYW1lPSJjcmVhdGlvbl9kYXRlIiBjb250ZW50PSJXZWQsIDAxIE5vdiAyMDA2IDE5OjUyOjAwIEdNVCIgLz4NCjxtZXRhIG5hbWU9IkxBU1QtTU9ESUZJRUQiIGNvbnRlbnQ9IldlZCwgMDEgTm92IDIwMDYgMTk6NTI6NDggR01UIiAvPg0KPG1ldGEgbmFtZT0iUkVWSVNFRCIgY29udGVudD0iV2VkLCAwMSBOb3YgMjAwNiAxOTo1Mjo0OCBHTVQiIC8+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtTGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuIiAvPg0KZAIBDxYCHgdWaXNpYmxlaGQCAg8WAh4LXyFJdGVtQ291bnRmZAIDEGRkFgoCAQ9kFgYCAg8VAREjcXVpY2tzZWFyY2hpbnB1dGQCCw9kFgJmDxUBaSNjdGwwMF9GdWxsUmVnaW9uX0NlbnRlckFuZFJpZ2h0UmVnaW9uX1JpZ2h0UmVnaW9uX1JpZ2h0UmVnaW9uQ29udGFjdEluZm9fUmVsYXRlZENvbnRhY3QxX0FyZWFDb250YWN0SW5mb2QCDQ9kFgJmD2QWAmYPZBYCAgEPZBYIZg8PFgYeB1Rvb2xUaXAFLktsaWtrIGhlciBmb3Igw6UgdmlzZSBkZW5uZSBzaWRlbiBww6UgYm9rbcOlbC4fAAUHQm9rbcOlbB4LTmF2aWdhdGVVcmwFLy90ZW1wbGF0ZXMvQXZkZWxpbmcuYXNweD9pZD0xNTQ2JmVwc2xhbmd1YWdlPW5vZGQCAQ8PFgYfAwUtS2xpa2sgaGVyIGZvciDDpSB2aXNlIGRlbm5lIHNpZGEgcMOlIG55bm9yc2suHwAFB055bm9yc2sfBAUyL3RlbXBsYXRlcy9BdmRlbGluZy5hc3B4P2lkPTE1NDYmZXBzbGFuZ3VhZ2U9bm4tTk9kZAICDw8WBh8DBTRDb2Foa2thbCBkw6Fra28gZGUgb2Fpbm7DoXQgZMOhbiBzaWlkZHUgc8OhbWVnaWxsaWkuHwAFC1PDoW1lZ2llbGxhHwQFMi90ZW1wbGF0ZXMvQXZkZWxpbmcuYXNweD9pZD0xNTQ2JmVwc2xhbmd1YWdlPXNlLU5PZGQCAw8PFgYfAwUiVGhpcyBwYWdlIGlzIGRpc3BsYXllZCBpbiBlbmdsaXNoLh8ABQdFbmdsaXNoHwQFMi90ZW1wbGF0ZXMvQXZkZWxpbmcuYXNweD9pZD0xNTQ2JmVwc2xhbmd1YWdlPWVuLUdCZGQCAg8VAQEgZAIDD2QWDGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAIBDxUBC1BvcnRhbCBob21lZAICD2QWBGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAICDxUDOi90ZW1wbGF0ZXMvR2VuZXJlbGxGb3JzaWRlLmFzcHg/aWQ9ODU4NDMmZXBzbGFuZ3VhZ2U9ZW4tR0IcU3RvbHRlbmJlcmcncyAybmQgR292ZXJubWVudDIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTkzMyZlcHNsYW5ndWFnZT1lbi1HQmQCAw8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MjE2JmVwc2xhbmd1YWdlPWVuLUdCZAIEDxUBE01pbmlzdHJ5IG9mIEZpbmFuY2VkAgYPZBYSZg9kFgRmD2QWAmYPZBYEAgIPFQQeU2VhcmNoIHRoZSBNaW5pc3RyeSBvZiBGaW5hbmNlBlNlYXJjaBFRdWlja1NlYXJjaEJ1dHRvbgZTZWFyY2hkAgMPDxYCHwAFG1NlYXJjaCBhbGwgb2YgZ292ZXJubWVudC5ub2RkAgEPDxYCHgtfaXNFZGl0YWJsZWhkZAIBDxUBHi9zdHlsZXMvSW1hZ2VzL3N5bWJvbF90aXBzLmdpZmQCBQ8VASEvc3R5bGVzL0ltYWdlcy9zeW1ib2xfcHJpbnRfdC5naWZkAggPFQMjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL3NtYWxsVGV4dC5naWYkL3N0eWxlcy9JbWFnZXMvR2xvYmFsL21lZGl1bVRleHQuZ2lmIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9sYXJnZVRleHQuZ2lmZAIJD2QWAmYPFQK5AWh0dHA6Ly9pc2kucGhvbmV0aWNvbS5jb20vY2dpLWJpbi9yc3h0P3VybD1odHRwOi8vd3d3LnJlZ2plcmluZ2VuLm5vL2VuL2RlcC9maW4vVGhlLU1pbmlzdHJ5L0Fib3V0LXRoZS1NaW5pc3RyeS9EZXBhcnRtZW50cy9UaGUtRWNvbm9taWMtUG9saWN5LURlcGFydG1lbnQuaHRtbD9pZD0xNTQ2JmFtcDtjdXN0b21lcmlkPTE5Hy9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9seWRfdC5naWZkAgoPZBYCAgEPDxYEHwQFNi90ZW1wbGF0ZXMvVGVtYUluZGVrcy5hc3B4P2lkPTIyMzQ4NiZlcHNsYW5ndWFnZT1lbi1HQh8ABQpUb3BpY3MgQS1aZGQCCw9kFgICAQ8PFgQfBAU5L3RlbXBsYXRlcy9OZXR0c3RlZHNrYXJ0LmFzcHg/aWQ9MzEzNzMzJmVwc2xhbmd1YWdlPWVuLUdCHwAFCFNpdGUgTWFwZGQCDA8PFgQfBAU1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00ODg2NDEmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUESGVscGRkAg0PDxYEHwQFQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0yNzA0MTEmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUHQ29udGFjdGRkAgQPZBYEAgEPZBYGAgEPZBYCAgEPZBYEZg8PFgIfAWhkZAIBD2QWEAIDDw8WAh8ABR1SZWNpcGllbnTigJlzIGUtbWFpbCBhZGRyZXNzOmRkAgcPDxYCHgxFcnJvck1lc3NhZ2UFJVlvdSBtdXN0IGdpdmUgYSB2YWxpZCBlLW1haWwgYWRkcmVzcy5kZAIJDw8WAh8GBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCCw8PFgIfAAUUWW91ciBlLW1haWwgYWRkcmVzczpkZAIPDw8WAh8GBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCEQ8PFgIfBgUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAhMPDxYCHwAFCE1lc3NhZ2U6ZGQCFw8PFgIfAAUJU2VuZCBtYWlsZGQCAw9kFhACAw9kFg5mD2QWAmYPFgIfAAXcA1lvdSBhcmUgaGVyZTogPGEgaHJlZj0iL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCIj5Hb3Zlcm5tZW50Lm5vPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yMTYmZXBzbGFuZ3VhZ2U9ZW4tR0IiPk1pbmlzdHJ5IG9mIEZpbmFuY2U8L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTIyMSZlcHNsYW5ndWFnZT1lbi1HQiI+VGhlIE1pbmlzdHJ5PC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0yNDAmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkFib3V0IHRoZSBNaW5pc3RyeTwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTI0MyZlcHNsYW5ndWFnZT1lbi1HQiI+RGVwYXJ0bWVudHM8L2E+IC8gPHNwYW4+RWNvbm9taWMgUG9saWN5IERlcGFydG1lbnQ8L3NwYW4+ZAIBDxUBAGQCAg9kFgJmDxYCHwAF3ANZb3UgYXJlIGhlcmU6IDxhIGhyZWY9Ii9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQiI+R292ZXJubWVudC5ubzwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MjE2JmVwc2xhbmd1YWdlPWVuLUdCIj5NaW5pc3RyeSBvZiBGaW5hbmNlPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0yMjEmZXBzbGFuZ3VhZ2U9ZW4tR0IiPlRoZSBNaW5pc3RyeTwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MjQwJmVwc2xhbmd1YWdlPWVuLUdCIj5BYm91dCB0aGUgTWluaXN0cnk8L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD0yNDMmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkRlcGFydG1lbnRzPC9hPiAvIDxzcGFuPkVjb25vbWljIFBvbGljeSBEZXBhcnRtZW50PC9zcGFuPmQCAw9kFggCAQ9kFgYCAQ8VAQdTdGF0dXM6ZAICDxYCHwFoFgJmDxUBOA0KICAgICAgICAgICAgICAgICAgICAgICAgQXJjaGl2ZWQNCiAgICAgICAgICAgICAgICAgICAgZAIEDxYCHwFoFgJmDxUBOA0KICAgICAgICAgICAgICAgICAgICAgICAgUmVwbGFjZWQNCiAgICAgICAgICAgICAgICAgICAgZAICDxUBHlRoZSBFY29ub21pYyBQb2xpY3kgRGVwYXJ0bWVudGQCAw8WAh8BaBYCZg8VAQBkAgUPZBYCZg8VAekSPHAgYWxpZ249ImxlZnQiPlRoZSByZXNwb25zaWJpbGl0eSBvZiB0aGUgbWluaXN0ZXIgb2YgZmluYW5jZSBhcyBhIG1lbWJlciBvZiB0aGUgZ292ZXJubWVudCBpcyB0byBkZXZlbG9wIGFuZCBjb29yZGluYXRlIHRoZSBnb3Zlcm5tZW50J3MgZWNvbm9taWMgcG9saWN5LiBBbHRob3VnaCB0aGUgcG9saXRpY2FsIGF1dGhvcml0aWVzIC0gdGhlIGdvdmVybm1lbnQgYW5kIHRoZSBTdG9ydGluZyAtIG1ha2UgdGhlIGRlY2lzaW9ucywgdGhlIE1pbmlzdHJ5IG9mIEZpbmFuY2UgaXMgcmVxdWlyZWQgdG8gZ2l2ZSBleHBlcnQgYWR2aWNlIGJlZm9yZSBkZWNpc2lvbnMgYXJlIG1hZGUgYW5kIGxhdGVyIGZvbGxvdy4gPC9wPg0KPHAgYWxpZ249ImxlZnQiPlRoZSBnb3Zlcm5tZW50IHByZXNlbnRzIGl0cyBwbGFucyBhbmQgcHJvcG9zYWxzIHRvIHRoZSBTdG9ydGluZyBldmVyeSBhdXR1bW4gaW4gdGhlIE5hdGlvbmFsIEJ1ZGdldCBhbmQgdGhlIGZpc2NhbCBidWRnZXQsIGFuZCBlYWNoIHNwcmluZyBpbiB0aGUgUmV2aXNlZCBOYXRpb25hbCBCdWRnZXQuIEJlZm9yZSB0aGUgYnVkZ2V0cyBhcmUgcHJlc2VudGVkLCB0aGUgTWluaXN0cnkgb2YgRmluYW5jZSBnaXZlcyBhZHZpY2Ugb24gaG93IG11Y2ggZ292ZXJubWVudCBleHBlbmRpdHVyZSBjYW4gaW5jcmVhc2UsIHRoZSBsZXZlbCBvZiBpbmNvbWUgdGF4IGFuZCB3aGF0IHRheGVzIHNob3VsZCBiZSBpbXBvc2VkIHRvIGVuc3VyZSB0aGF0IHRoZSBjZW50cmFsIGdvdmVybm1lbnQgY2FuIGNvdmVyIGl0cyBleHBlbmRpdHVyZXMuIDwvcD4NCjxwIGFsaWduPSJsZWZ0Ij5UaGUgRWNvbm9taWMgUG9saWN5IERlcGFydG1lbnQgbW9uaXRvcnMgYW5kIGFuYWx5c2VzIGVjb25vbWljIHRyZW5kcyBpbiBOb3J3YXkgYW5kIGFicm9hZCwgYW5kIGdpdmVzIGFkdmljZSBpbiBhIG51bWJlciBvZiBhcmVhcyBvZiBlY29ub21pYyBwb2xpY3kuIDwvcD4NCjxwIGFsaWduPSJsZWZ0Ij5JbXBvcnRhbnQgYXJlYXMgaW5jbHVkZSBwcm9kdWN0aW9uLCBjb25zdW1wdGlvbiBhbmQgaW52ZXN0bWVudHMsIHByaWNlcywgd2FnZXMsIHRoZSBsYWJvdXIgbWFya2V0LCBmb3JlaWduIHRyYWRlLCBhbmQgbW9uZXRhcnkgYW5kIGV4Y2hhbmdlIHJhdGUgcG9saWN5LiBUaGUgTWluaXN0cnkgb2YgRmluYW5jZSBhbHNvIGFuYWx5c2VzIHRoZSBlZmZlY3RzIG9mIHRoZSBhbm51YWwgd2FnZSBuZWdvdGlhdGlvbnMgYW5kIHdhZ2Ugc2V0dGxlbWVudHMgb24gdGhlIG5hdGlvbmFsIGFuZCBjZW50cmFsIGdvdmVybm1lbnQgZWNvbm9teS4gVGhlIHRyYW5zZmVyIG9mIGZ1bmRzIGZyb20gY2VudHJhbCB0byBsb2NhbCBnb3Zlcm5tZW50IGlzIGFub3RoZXIgaW1wb3J0YW50IHBhcnQgb2YgdGhlIE1pbmlzdHJ5J3Mgd29yay4gVGhlIEVjb25vbWljIFBvbGljeSBEZXBhcnRtZW50IGlzIHJlc3BvbnNpYmxlIGZvciBjb29yZGluYXRpbmcgd29yayBvbiB0aGUgbmF0aW9uYWwgYnVkZ2V0LiA8L3A+DQo8cCBhbGlnbj0ibGVmdCI+VGhlIEVjb25vbWljIFBvbGljeSBEZXBhcnRtZW50IGlzIHJlc3BvbnNpYmxlIGZvciByYWlzaW5nIGFuZCBzZXJ2aWNpbmcgZ292ZXJubWVudCBsb2FucyBhdCBob21lIGFuZCBhYnJvYWQgYW5kIGhhcyB0aGUgb3ZlcmFsbCByZXNwb25zaWJpbGl0eSBmb3IgTm9yd2F5J3MgY2FzaCByZXNlcnZlcyBhbmQgc2hvcnQtdGVybSBjbGFpbXMsIHdoaWNoIGFyZSBsYXJnZWx5IGRlcG9zaXRzIGluIE5vcmdlcyBCYW5rIChOb3J3YXkncyBjZW50cmFsIGJhbmspLiA8L3A+DQo8cCBhbGlnbj0ibGVmdCI+VGhlIERlcGFydG1lbnQgYWxzbyBwcm9kdWNlcyBsb25nZXItdGVybSBhbmFseXNlcyBhbmQgcmVwb3J0cyBvbiBzdWJqZWN0cyBzdWNoIGFzIHBvcHVsYXRpb24gdHJlbmRzLCBkZXZlbG9wbWVudHMgaW4gaW5jb21lIGFuZCBsaXZpbmcgY29uZGl0aW9ucywgZW52aXJvbm1lbnRhbCBpc3N1ZXMsIGxhYm91ciBtYXJrZXQgdHJlbmRzLCBhbmQgb24gdGhlIHN1YmplY3Qgb2YgcHVibGljIHNlcnZpY2VzIGFuZCBwdWJsaWMgc2VjdG9yIHRyYW5zZmVycy4gVGhlc2UgYW5hbHlzZXMgY2FuIGJlIGluY2x1ZGVkIGluIG9mZmljaWFsIGdvdmVybm1lbnQgcmVwb3J0cywgUmVwb3J0cyB0byB0aGUgU3RvcnRpbmcgKFdoaXRlIFBhcGVycyB0byB0aGUgTm9yd2VnaWFuIHBhcmxpYW1lbnQpIG9yIGluIHRoZSBhbm51YWwgYnVkZ2V0IGRvY3VtZW50cy4gVGhlIEVjb25vbWljIFBvbGljeSBEZXBhcnRtZW50IGFsc28gaGFzIGEgc3BlY2lhbCByZXNwb25zaWJpbGl0eSBmb3IgaXNzdWVzIG9mIG1ldGhvZG9sb2d5IHdpdGggcmVnYXJkIHRvIGVjb25vbWljIHBsYW5uaW5nIGFuZCB0aGVyZWZvcmUgbWFpbnRhaW5zIGNsb3NlIGxpbmtzIHdpdGggYWNhZGVtaWMgYW5kIHJlc2VhcmNoIGNvbW11bml0aWVzLiA8L3A+ZAIED2QWAmYPFgIfAAXcA1lvdSBhcmUgaGVyZTogPGEgaHJlZj0iL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCIj5Hb3Zlcm5tZW50Lm5vPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yMTYmZXBzbGFuZ3VhZ2U9ZW4tR0IiPk1pbmlzdHJ5IG9mIEZpbmFuY2U8L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTIyMSZlcHNsYW5ndWFnZT1lbi1HQiI+VGhlIE1pbmlzdHJ5PC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0yNDAmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkFib3V0IHRoZSBNaW5pc3RyeTwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTI0MyZlcHNsYW5ndWFnZT1lbi1HQiI+RGVwYXJ0bWVudHM8L2E+IC8gPHNwYW4+RWNvbm9taWMgUG9saWN5IERlcGFydG1lbnQ8L3NwYW4+ZAIFD2QWBgIBD2QWAmYPFgIfAWhkAgIPFQMeVGhlIEVjb25vbWljIFBvbGljeSBEZXBhcnRtZW50DGRpc3BsYXk6bm9uZQBkAgMPZBYCZg8VAekSPHAgYWxpZ249ImxlZnQiPlRoZSByZXNwb25zaWJpbGl0eSBvZiB0aGUgbWluaXN0ZXIgb2YgZmluYW5jZSBhcyBhIG1lbWJlciBvZiB0aGUgZ292ZXJubWVudCBpcyB0byBkZXZlbG9wIGFuZCBjb29yZGluYXRlIHRoZSBnb3Zlcm5tZW50J3MgZWNvbm9taWMgcG9saWN5LiBBbHRob3VnaCB0aGUgcG9saXRpY2FsIGF1dGhvcml0aWVzIC0gdGhlIGdvdmVybm1lbnQgYW5kIHRoZSBTdG9ydGluZyAtIG1ha2UgdGhlIGRlY2lzaW9ucywgdGhlIE1pbmlzdHJ5IG9mIEZpbmFuY2UgaXMgcmVxdWlyZWQgdG8gZ2l2ZSBleHBlcnQgYWR2aWNlIGJlZm9yZSBkZWNpc2lvbnMgYXJlIG1hZGUgYW5kIGxhdGVyIGZvbGxvdy4gPC9wPg0KPHAgYWxpZ249ImxlZnQiPlRoZSBnb3Zlcm5tZW50IHByZXNlbnRzIGl0cyBwbGFucyBhbmQgcHJvcG9zYWxzIHRvIHRoZSBTdG9ydGluZyBldmVyeSBhdXR1bW4gaW4gdGhlIE5hdGlvbmFsIEJ1ZGdldCBhbmQgdGhlIGZpc2NhbCBidWRnZXQsIGFuZCBlYWNoIHNwcmluZyBpbiB0aGUgUmV2aXNlZCBOYXRpb25hbCBCdWRnZXQuIEJlZm9yZSB0aGUgYnVkZ2V0cyBhcmUgcHJlc2VudGVkLCB0aGUgTWluaXN0cnkgb2YgRmluYW5jZSBnaXZlcyBhZHZpY2Ugb24gaG93IG11Y2ggZ292ZXJubWVudCBleHBlbmRpdHVyZSBjYW4gaW5jcmVhc2UsIHRoZSBsZXZlbCBvZiBpbmNvbWUgdGF4IGFuZCB3aGF0IHRheGVzIHNob3VsZCBiZSBpbXBvc2VkIHRvIGVuc3VyZSB0aGF0IHRoZSBjZW50cmFsIGdvdmVybm1lbnQgY2FuIGNvdmVyIGl0cyBleHBlbmRpdHVyZXMuIDwvcD4NCjxwIGFsaWduPSJsZWZ0Ij5UaGUgRWNvbm9taWMgUG9saWN5IERlcGFydG1lbnQgbW9uaXRvcnMgYW5kIGFuYWx5c2VzIGVjb25vbWljIHRyZW5kcyBpbiBOb3J3YXkgYW5kIGFicm9hZCwgYW5kIGdpdmVzIGFkdmljZSBpbiBhIG51bWJlciBvZiBhcmVhcyBvZiBlY29ub21pYyBwb2xpY3kuIDwvcD4NCjxwIGFsaWduPSJsZWZ0Ij5JbXBvcnRhbnQgYXJlYXMgaW5jbHVkZSBwcm9kdWN0aW9uLCBjb25zdW1wdGlvbiBhbmQgaW52ZXN0bWVudHMsIHByaWNlcywgd2FnZXMsIHRoZSBsYWJvdXIgbWFya2V0LCBmb3JlaWduIHRyYWRlLCBhbmQgbW9uZXRhcnkgYW5kIGV4Y2hhbmdlIHJhdGUgcG9saWN5LiBUaGUgTWluaXN0cnkgb2YgRmluYW5jZSBhbHNvIGFuYWx5c2VzIHRoZSBlZmZlY3RzIG9mIHRoZSBhbm51YWwgd2FnZSBuZWdvdGlhdGlvbnMgYW5kIHdhZ2Ugc2V0dGxlbWVudHMgb24gdGhlIG5hdGlvbmFsIGFuZCBjZW50cmFsIGdvdmVybm1lbnQgZWNvbm9teS4gVGhlIHRyYW5zZmVyIG9mIGZ1bmRzIGZyb20gY2VudHJhbCB0byBsb2NhbCBnb3Zlcm5tZW50IGlzIGFub3RoZXIgaW1wb3J0YW50IHBhcnQgb2YgdGhlIE1pbmlzdHJ5J3Mgd29yay4gVGhlIEVjb25vbWljIFBvbGljeSBEZXBhcnRtZW50IGlzIHJlc3BvbnNpYmxlIGZvciBjb29yZGluYXRpbmcgd29yayBvbiB0aGUgbmF0aW9uYWwgYnVkZ2V0LiA8L3A+DQo8cCBhbGlnbj0ibGVmdCI+VGhlIEVjb25vbWljIFBvbGljeSBEZXBhcnRtZW50IGlzIHJlc3BvbnNpYmxlIGZvciByYWlzaW5nIGFuZCBzZXJ2aWNpbmcgZ292ZXJubWVudCBsb2FucyBhdCBob21lIGFuZCBhYnJvYWQgYW5kIGhhcyB0aGUgb3ZlcmFsbCByZXNwb25zaWJpbGl0eSBmb3IgTm9yd2F5J3MgY2FzaCByZXNlcnZlcyBhbmQgc2hvcnQtdGVybSBjbGFpbXMsIHdoaWNoIGFyZSBsYXJnZWx5IGRlcG9zaXRzIGluIE5vcmdlcyBCYW5rIChOb3J3YXkncyBjZW50cmFsIGJhbmspLiA8L3A+DQo8cCBhbGlnbj0ibGVmdCI+VGhlIERlcGFydG1lbnQgYWxzbyBwcm9kdWNlcyBsb25nZXItdGVybSBhbmFseXNlcyBhbmQgcmVwb3J0cyBvbiBzdWJqZWN0cyBzdWNoIGFzIHBvcHVsYXRpb24gdHJlbmRzLCBkZXZlbG9wbWVudHMgaW4gaW5jb21lIGFuZCBsaXZpbmcgY29uZGl0aW9ucywgZW52aXJvbm1lbnRhbCBpc3N1ZXMsIGxhYm91ciBtYXJrZXQgdHJlbmRzLCBhbmQgb24gdGhlIHN1YmplY3Qgb2YgcHVibGljIHNlcnZpY2VzIGFuZCBwdWJsaWMgc2VjdG9yIHRyYW5zZmVycy4gVGhlc2UgYW5hbHlzZXMgY2FuIGJlIGluY2x1ZGVkIGluIG9mZmljaWFsIGdvdmVybm1lbnQgcmVwb3J0cywgUmVwb3J0cyB0byB0aGUgU3RvcnRpbmcgKFdoaXRlIFBhcGVycyB0byB0aGUgTm9yd2VnaWFuIHBhcmxpYW1lbnQpIG9yIGluIHRoZSBhbm51YWwgYnVkZ2V0IGRvY3VtZW50cy4gVGhlIEVjb25vbWljIFBvbGljeSBEZXBhcnRtZW50IGFsc28gaGFzIGEgc3BlY2lhbCByZXNwb25zaWJpbGl0eSBmb3IgaXNzdWVzIG9mIG1ldGhvZG9sb2d5IHdpdGggcmVnYXJkIHRvIGVjb25vbWljIHBsYW5uaW5nIGFuZCB0aGVyZWZvcmUgbWFpbnRhaW5zIGNsb3NlIGxpbmtzIHdpdGggYWNhZGVtaWMgYW5kIHJlc2VhcmNoIGNvbW11bml0aWVzLiA8L3A+ZAIGDw8WAh8BaGRkAgUPZBYCZg8WBB4JX3BhZ2VMaW5rKCluRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZSwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcEMTU0Nh4KX3NvcnRPcmRlcgspc0VQaVNlcnZlci5GaWx0ZXJzLkZpbHRlclNvcnRPcmRlciwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcAFgJmD2QWAmYPDxYCHwFoZBYCZg8VAQBkAgkPZBYCZg8VARpFY29ub21pYyBQb2xpY3kgRGVwYXJ0bWVudGQCCw8WAh4EaHJlZgUcbWFpbHRvOnBvc3Rtb3R0YWtAZmluLmRlcC5ub2QCDA8VARpFY29ub21pYyBQb2xpY3kgRGVwYXJ0bWVudGQCDw9kFgJmDxUBQzxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3MjIyNDQ1MDMiPis0NyAyMiAyNCA0NSAwMzwvYT5kAhMPZBYCZg8VAUM8YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0NzIyMjQ5NTA5Ij4rNDcgMjIgMjQgOTUgMDk8L2E+ZAIXDw8WBB8FaB4JX2xhc3RUeXBlBQdEZWZhdWx0ZGQCBQ9kFgYCAQ9kFgICAQ9kFgJmDxYCHgVjbGFzcwUKRGVwUHJvZmlsZRYCZg8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9MjE2JmVwc2xhbmd1YWdlPWVuLUdCZAIHD2QWAgIBDw8WAh8BaGQWAmYPZBYCAgEPFgQfCAsrBQgfAWhkAg0PZBYMAgMPZBYCZg8VARpFY29ub21pYyBQb2xpY3kgRGVwYXJ0bWVudGQCBQ8WAh8JBRxtYWlsdG86cG9zdG1vdHRha0BmaW4uZGVwLm5vZAIGDxUBGkVjb25vbWljIFBvbGljeSBEZXBhcnRtZW50ZAIJD2QWAmYPFQFDPGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0NDUwMyI+KzQ3IDIyIDI0IDQ1IDAzPC9hPmQCDQ9kFgJmDxUBQzxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3MjIyNDk1MDkiPis0NyAyMiAyNCA5NSAwOTwvYT5kAhEPDxYEHwVoHwoFB0RlZmF1bHRkZAIDD2QWAgIBD2QWBAIBD2QWAmYPFQI0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTIxNiZlcHNsYW5ndWFnZT1lbi1HQg1NaW5pc3RyeSBob21lZAIDDxYGHglfUGFnZUxpbmsoKwQDMjE2Hg9fTnVtYmVyT2ZMZXZlbHMCCh4KX0V4cGFuZEFsbGgWPAIBD2QWAmYPFQEAZAICD2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTIxNyZlcHNsYW5ndWFnZT1lbi1HQgAKV2hhdCdzIG5ld2QCBA9kFgJmDxUBAGQCBQ9kFgJmDxUDPy90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnRUZW1hRm9yc2lkZS5hc3B4P2lkPTIxOCZlcHNsYW5ndWFnZT1lbi1HQgAPU2VsZWN0ZWQgVG9waWNzZAIHD2QWAmYPFQEAZAIID2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTIxOSZlcHNsYW5ndWFnZT1lbi1HQgAMUHJlc3MgY2VudHJlZAIKD2QWAmYPFQEAZAILD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTI3NjczMCZlcHNsYW5ndWFnZT1lbi1HQgAaRG9jdW1lbnRzIGFuZCBwdWJsaWNhdGlvbnNkAg0PZBYCZg8VAQhTZWxlY3RlZGQCDg9kFgJmDxUEAD0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MjIxJmVwc2xhbmd1YWdlPWVuLUdCAAxUaGUgTWluaXN0cnlkAhAPZBYCZg8VAQBkAhEPZBYCZg8VA0EvdGVtcGxhdGVzL1BlcnNvblBvbGl0aXNrTGVkZWxzZS5hc3B4P2lkPTU4MjM2NCZlcHNsYW5ndWFnZT1lbi1HQgAlTWluaXN0ZXIgb2YgRmluYW5jZSBTaWdiasO4cm4gSm9obnNlbmQCEw9kFgJmDxUBAGQCFA9kFgJmDxUDMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9MjM4JmVwc2xhbmd1YWdlPWVuLUdCABVPdGhlciBQb2xpdGljYWwgU3RhZmZkAhYPZBYCZg8VAQBkAhcPZBYCZg8VAzIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTIzOSZlcHNsYW5ndWFnZT1lbi1HQgAbU2VuaW9yIGFkbWluaXN0cmF0aXZlIHN0YWZmZAIZD2QWAmYPFQEIU2VsZWN0ZWRkAhoPZBYCZg8VBAA9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTI0MCZlcHNsYW5ndWFnZT1lbi1HQgASQWJvdXQgdGhlIE1pbmlzdHJ5ZAIcD2QWAmYPFQEAZAIdD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTI0MiZlcHNsYW5ndWFnZT1lbi1HQgAST3JnYW5pc2F0aW9uIENoYXJ0ZAIfD2QWAmYPFQEIU2VsZWN0ZWRkAiAPZBYCZg8VBAhTZWxlY3RlZDIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTI0MyZlcHNsYW5ndWFnZT1lbi1HQgALRGVwYXJ0bWVudHNkAiQPZBYCZg8VAQBkAiUPZBYCZg8VAzUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTExNTE5MiZlcHNsYW5ndWFnZT1lbi1HQgAUU3Vib3JkaW5hdGUgQWdlbmNpZXNkAicPZBYCZg8VAQBkAigPZBYCZg8VAzUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTExNTE5MyZlcHNsYW5ndWFnZT1lbi1HQgAUUmVsYXRlZCBJbnN0aXR1dGlvbnNkAioPZBYCZg8VAQBkAisPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MjcwNDExJmVwc2xhbmd1YWdlPWVuLUdCAAdDb250YWN0ZAIvD2QWAmYPFQEAZAIwD2QWAmYPFQM2L3RlbXBsYXRlcy9TZWFyY2hQYWdlLmFzcHg/aWQ9MTE1MzIyJmVwc2xhbmd1YWdlPWVuLWdiAAdBcmNoaXZlZAIFD2QWAgIBD2QWAmYPFQHaA01pbmlzdHJ5Jm5ic3A7b2YgRmluYW5jZSwgJm5ic3A7QWtlcnNnYXRhIDQwLCBQb3N0Ym94IDgwMDggRGVwLCAwMDMwIE9zbG8mbmJzcDsmbmJzcDsgfCZuYnNwOyAmbmJzcDtUZWw6ICs0NyAyMiAyNCA5MCA5MCwgRmF4OiArNDcgMjIgMjQgOTUgMTAgPGJyIC8+RS1tYWlsOiA8YSBocmVmPSJtYWlsdG86YXJraXYucG9zdG1vdHRha0BmaW4uZGVwLm5vIj48Zm9udCBjb2xvcj0iIzAwMzE3MyI+cG9zdG1vdHRha0BmaW4uZGVwLm5vPC9mb250PjwvYT4mbmJzcDsmbmJzcDsgfCZuYnNwOyBXZWItZWRpdG9yOiA8YSBocmVmPSJtYWlsdG86dG9yLW1hcnRpbi5iYXJ1bUBmaW4uZGVwLm5vIj48Zm9udCBjb2xvcj0iIzAwMzE3MyI+VG9yIE1hcnRpbiBCw6ZydW08L2ZvbnQ+PC9hPiZuYnNwOyZuYnNwOyB8Jm5ic3A7IEVkaXRvcjogPGEgaHJlZj0ibWFpbHRvOnJ1bmFyLm1hbGtlbmVzQGZpbi5kZXAubm8iPlJ1bmFyIE1hbGtlbmVzPC9hPmQCBQ9kFgJmDxUBGC9zY3JpcHQvanMvc2RjXzA5MDgxOS5qc2QYBwViY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAV6Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRBc3NvY2lhdGVkRXh0ZXJuYWxPcmckVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkTXVsdGlQYWdlTGlzdA8PZmRkBURjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0JGxzdFVuaXZlcnNhbA8PZmRkBSVjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSR1eFZpZXdzDw9kZmQFYWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGxpc3RpbmdVbml2ZXJzYWxIZWFkZXIkY2hpbGRyZW5saXN0JGNoaWxkcGFnZXMPD2ZkZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRkeEPX+cOJ07j67j/okuGt7FjjpzQ=" />
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/en/dep/fin/the-ministry/about-the-ministry/Departments/the-economic-policy-department.html?id=1546" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY5OTk5NzI3OGQYCgV6Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRBc3NvY2lhdGVkRXh0ZXJuYWxPcmckUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAVQY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDEkY2hpbGRyZW5saXN0JGNoaWxkcGFnZXMPD2ZkZAVYY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJGN0bDAxJFBhZ2VMaXN0MQ8PZmRkBStjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwMSRNdWx0aVBhZ2VMaXN0Dw9mZGQFPmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAxJFZpZXdzDw9kZmQFHWN0bDAwJFJlcXVpcmVkUmVzb3VyY2VzSGVhZGVyDwUGSGVhZGVyZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDEkdXhWaWV3cw8PZGZkBUJjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMyRQYWdlTGlzdDEPD2ZkZAVEY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdCRsc3RVbml2ZXJzYWwPD2ZkZAVPY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRUaXBBRnJpZW5kUGxhY2Vob2xkZXIkVGlwQUZyaWVuZCRUaXBWaWV3cw8PZAIBZLAiFpND5GAKf3WNzugvrYE/HR9Q" />
 </div>
 
+
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAiKS3oISMW/mVRF83lMqHM0rya5utHaP3uHQRI8Uid46QTFRMbyqbI0sloRc3Uw10HWXWl/SJpEFyAqi99OHjtE9II++VEPX1O6J4griigfdC7aBgEb6tB38M3Q+QtcT5dc3Ehi7iZ59S7JzT6xst29Aj7CbHcl1x8vt8oSwlXRyXAP5ruci1pMZDv5QwYNVsYuAj+I" />
+</div>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Go to contact information</a></li>
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">Go to search</a><a href="#Content" tabindex="3">Go to content</a><a href="#AreaTopSiteNav" tabindex="4">Go to top menu</a><a href="#AreaLeft" tabindex="5">Go to left menu</a>
+    <a href="#AreaContactInfo" tabindex="6">Go to contact information</a>
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/fin/dep/org/avdelinger/okonomiavdelingen.html?id=1546">Bokmål</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/dep/fin/Om-Departementet/Organisasjon/Avdelingar/okonomiavdelinga.html?id=1546">Nynorsk</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/fin/Departemeantta-birra/Organisauvdna/Ossodagat/Ekonomiijaossodat-.html?id=1546">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/fin/The-Ministry/About-the-Ministry/Departments/The-Economic-Policy-Department.html?id=1546">English</a></li>
+        <li class="First Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/fin/dep/org/avdelinger/okonomiavdelingen.html?id=1546">Bokmål</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/dep/fin/om-departementet/organisasjon/Avdelingar/okonomiavdelinga.html?id=1546">Nynorsk</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/fin/Departemeantta-birra/organisauvdna/ossodagat/ekonomiijaossodat-.html?id=1546">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/fin/the-ministry/about-the-ministry/Departments/the-economic-policy-department.html?id=1546">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/en.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/en.html?id=4" tabindex="20">
+                                            government.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/en/the-government/solberg/members-of-the-government-2.html?id=543170' class="ISI_MENU" tabindex="21">Solberg’s Government</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/en/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Ministries
+                                        </a>
+                                        
     <ul>
   
     <li>
@@ -117,7 +138,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+        <a href="/en/dep/asd.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour and Social Affairs</a>
     </li>
   
     <li>
@@ -129,14 +150,6 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
-    </li>
-  
-    <li>
         <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
     </li>
   
@@ -145,15 +158,19 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and Public Security</a>
     </li>
   
     <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
+        <a href="/en/dep/kld.html?id=668" class="NormalLink ISI_MENU">Ministry of Climate and Environment</a>
     </li>
   
     <li>
-        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
+        <a href="/en/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Modernisation</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
     </li>
   
     <li>
@@ -165,11 +182,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+        <a href="/en/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade, Industry and Fisheries</a>
     </li>
   
     <li>
@@ -188,262 +201,69 @@ function printPage()
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en/dep/fin.html?id=216"><img class="ProfileLogo" src="/styles/Images/fin/fin_en.gif" alt='Ministry of Finance' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/en/dep/fin.html?id=216" tabindex="34"><img class="ProfileLogo" src="/styles/Images/fin/fin_en.gif" alt='Ministry of Finance' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
     <label for="quicksearchinput" class="QuickSearchHeader">Search the Ministry of Finance</label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
-    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack('ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch','')">Search all of government.no</a></span>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Search" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Search" />        
+    <span><a id="TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" tabindex="32" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack(&#39;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&#39;,&#39;&#39;)">Search all of government.no</a></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Share/Send' /><span class="open" id="open">Share/Send</span><span class="display-none" id="close">Close</span></a></li>
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/fin/The-Ministry/About-the-Ministry/Departments/The-Economic-Policy-Department.html?id=1546&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/dep/fin/Site-Map.html?id=313733">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/dep/fin/The-Ministry/Contact.html?id=270411">Contact</a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+        <li class="Share">
+            <noscript>
+                <a href="http://www.regjeringen.no/templates/Avdeling.aspx?id=1546&amp;epslanguage=en-GB&amp;tipafriend=1" id="noScriptTipLink" rel="nofollow" tabindex="72"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                        vertical-align: middle; height: 1em;" alt='Share/Send' />Share/Send</a></noscript>
+            <a onclick="return displayTipAFriendForm();" id="TopRegion_TopRightRegion_ctl00_tipAFriendLink" tabindex="34" class="display-none" href="javascript:__doPostBack(&#39;ctl00$TopRegion$TopRightRegion$ctl00$tipAFriendLink&#39;,&#39;&#39;)"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                    vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Share/Send' /><span id="open">Share/Send</span><span id="close" style="display: none;">Close</span></a>
+        </li>
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Click here to print this page' />Print</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/templates/Avdeling.aspx?id=1546&amp;epslanguage=en-GB&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal font size' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Avdeling.aspx?id=1546&amp;epslanguage=en-GB&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium font size' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Avdeling.aspx?id=1546&amp;epslanguage=en-GB&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Large font size' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/fin/the-ministry/about-the-ministry/Departments/the-economic-policy-department.html?id=1546&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/en/dep/fin/Site-Map.html?id=313733">Site Map</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/en/dep/fin/the-ministry/contact.html?id=270411">Contact</a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
-                        <div id="AreaContentAndRight">
-                            
-                                <div id="AreaContent">
-                                    <div id="slickbox" style="display:none;">
-                                       
-                                            
-<script type="text/javascript"><!--
-function fbs_click() 
-{
-    u=location.href;
-    t=document.title;
-    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
-    return false;
-}
-function nettby_click(pageurl,pagename)
-{
-    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
-    wnd.focus();
-    return false;
-}
-function GetThis(T, C, U, L) 
-{
-	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
-	wnd = window.open(targetUrl);
-	wnd.focus();
-	return false;
-}
---></script>
-
-
-
-    <div id="thankyouview">
-        <div id="thankyoudiv"></div>        
-    </div>
-    <div id="tipafriend">
-        <div id="tipafriendContent">
-            
-            <div>
-	  
-                <p><strong>Share this page with a friend </strong></p>
-                <ol>
-                    <li>
-                        
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
-                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
-                    </li>
-                    <li>
-                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
-                    </li>
-                    <li>
-                                                         
-                    </li>
-                </ol>                          
-            
-</div>
-        </div> 
-    </div>
-    <div id="ShareArticle">
-        <p><strong>Share</strong></p>
-        <ul class="communities">        
-            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/fin/The-Ministry/About-the-Ministry/Departments/The-Economic-Policy-Department.html?id=1546" target="_blank">Facebook</a></li>            
-            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/en/dep/fin/The-Ministry/About-the-Ministry/Departments/The-Economic-Policy-Department.html?id=1546', 'Economic Policy Department')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/en/dep/fin/The-Ministry/About-the-Ministry/Departments/The-Economic-Policy-Department.html?id=1546&amp;description=Economic Policy Department' target="_blank">Nettby</a></li>
-            <li><a class="share_myspace" href="#" onclick="return GetThis('Economic Policy Department','','http://www.regjeringen.no/en/dep/fin/The-Ministry/About-the-Ministry/Departments/The-Economic-Policy-Department.html?id=1546',3)">Myspace</a></li>
-            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
-        </ul>
-    </div>
-
-
-
-                                        
-                                    </div>
-                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
-                                    
-
-    
-
-    
-    <p class="breadcrumbs">You are here: <a href="/en.html?id=4">Government.no</a> / <a href="/en/dep/fin.html?id=216">Ministry of Finance</a> / <a href="/en/dep/fin/The-Ministry.html?id=221">The Ministry</a> / <a href="/en/dep/fin/The-Ministry/About-the-Ministry.html?id=240">About the Ministry</a> / <a href="/en/dep/fin/The-Ministry/About-the-Ministry/Departments.html?id=243">Departments</a> / <span>Economic Policy Department</span>
-</p>
-    <div class="documentTop">        
-        
-        <h1>The Economic Policy Department</h1>
-        
-        <div class="pageDescription"><p align="left">The responsibility of the minister of finance as a member of the government is to develop and coordinate the government's economic policy. Although the political authorities - the government and the Storting - make the decisions, the Ministry of Finance is required to give expert advice before decisions are made and later follow. </p>
-<p align="left">The government presents its plans and proposals to the Storting every autumn in the National Budget and the fiscal budget, and each spring in the Revised National Budget. Before the budgets are presented, the Ministry of Finance gives advice on how much government expenditure can increase, the level of income tax and what taxes should be imposed to ensure that the central government can cover its expenditures. </p>
-<p align="left">The Economic Policy Department monitors and analyses economic trends in Norway and abroad, and gives advice in a number of areas of economic policy. </p>
-<p align="left">Important areas include production, consumption and investments, prices, wages, the labour market, foreign trade, and monetary and exchange rate policy. The Ministry of Finance also analyses the effects of the annual wage negotiations and wage settlements on the national and central government economy. The transfer of funds from central to local government is another important part of the Ministry's work. The Economic Policy Department is responsible for coordinating work on the national budget. </p>
-<p align="left">The Economic Policy Department is responsible for raising and servicing government loans at home and abroad and has the overall responsibility for Norway's cash reserves and short-term claims, which are largely deposits in Norges Bank (Norway's central bank). </p>
-<p align="left">The Department also produces longer-term analyses and reports on subjects such as population trends, developments in income and living conditions, environmental issues, labour market trends, and on the subject of public services and public sector transfers. These analyses can be included in official government reports, Reports to the Storting (White Papers to the Norwegian parliament) or in the annual budget documents. The Economic Policy Department also has a special responsibility for issues of methodology with regard to economic planning and therefore maintains close links with academic and research communities. </p></div>        
-     </div>
-     
-    <div class="documentBody">
-        
-    
- 
-
-    </div>
-    <div class="printContact">
-		<div class="Toolbox">   
-        <h2 class="ToolboxHeader">
-            
-                        Contact information
-                    
-        </h2>
-        <div class="ToolboxContent">
-            <h3 class="relatedContactHead">Economic Policy Department</h3>            
-            <p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/images/emailimages/a16f8b7dc64ab480ab52fd98e2aeb242.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', 'FBC59AD4C797929A96D69EDB9F959EA8C5D99495D58B9E9FD595929DBB909A8F8F94968F88948BC1948F97929A96D9C69D9E8993DB9AC7'));//--></script></p>
-                <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Economic Policy Department">
-                    <tr>
-                        <td>
-                        Telephone:
-                    </td>
-
-                        <td><a class="telephoneLink" href="tel:+4722244503">+47 22 24 45 03</a></td>
-
-                    </tr>
-                    <tr>
-                        <td>
-                        Fax:
-                    </td>
-
-                        <td><a class="telephoneLink" href="tel:+4722249509">+47 22 24 95 09</a></td>
-
-                    </tr>  
-                </table>
-                <h3 class="noPadBtm">
-                        Address
-                    </h3>
-                <p>The Ministry of Finance<br />Economic Policy Department<br />P.O. Box&nbsp;8008 Dep<br />0030 Oslo <br />Norway</p>
-        </div>
-    </div>
-     
-    </div>
-
-                                </div>
-                                <div id="AreaRight"> 
-                                    
-                                        
-                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/en/dep/fin.html?id=216'><img src="/upload/FIN/rullerende forside/bilder_FIN_dep09.jpg" alt="Ministry of Finance " /></a></div>
-                                        
-                                        
-                                        
-                                        
-    
-        
-                                        
-                                                                        
-                                        
-    <div id="AreaContactInfo" class="Toolbox">   
-        <h2 class="ToolboxHeader">
-            
-                        Contact information
-                    
-        </h2>
-        <div class="ToolboxContent">
-            <h3 class="relatedContactHead">Economic Policy Department</h3>            
-            <p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/images/emailimages/a16f8b7dc64ab480ab52fd98e2aeb242.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_2', '2A144B051646434B47074F0A4E444F7914081B6B75454C44635E494B5E4445694445434D4F785E424D4378754445434D4F785E424D4378754445434D4F785E424D43784E446B584F5E444F69754445434D4F7846465F6C751A1A465E4908174E430A084544045A4F4E0444434C6A414B5E5E45475E59455A10455E46434B4708174C4F58420A4B16'));//--></script></p>
-                <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Economic Policy Department">
-                    <tr>
-                        <td>
-                        Telephone:
-                    </td>
-
-                        <td><a class="telephoneLink" href="tel:+4722244503">+47 22 24 45 03</a></td>
-
-                    </tr>
-                    <tr>
-                        <td>
-                        Fax:
-                    </td>
-
-                        <td><a class="telephoneLink" href="tel:+4722249509">+47 22 24 95 09</a></td>
-
-                    </tr>  
-                </table>
-                <h3 class="noPadBtm">
-                        Address
-                    </h3>
-                <p>The Ministry of Finance<br />Economic Policy Department<br />P.O. Box&nbsp;8008 Dep<br />0030 Oslo <br />Norway</p>
-        </div>
-    </div>
-     
-
-                                                                                                   
-                                </div>
-                            
-                        </div>
                         <div id="AreaLeft">
-                              
+                            
                                 <div id="AreaLeftNav" class="NavListV">
                                     
 
@@ -451,126 +271,564 @@ document.write(dc('Eoi_2', '2A144B051646434B47074F0A4E444F7914081B6B75454C44635E
 <a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
 
     <ul>
-        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/fin.html?id=216">
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/fin.html?id=216" tabindex="41">
             Ministry home</a></li></ul>
 
 <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/fin/News.html?id=217" title=''>
+        <a class="ISI_MENU" href="/en/dep/fin/news.html?id=217" title="" tabindex="42">
             What's new</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/fin/Selected-topics.html?id=218" title=''>
+        <a class="ISI_MENU" href="/en/dep/fin/campaign.html?id=479173" title="" tabindex="43">
+            Campaign </a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/fin/Selected-topics.html?id=218" title="" tabindex="44">
             Selected Topics</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/fin/press-center.html?id=219" title=''>
+        <a class="ISI_MENU" href="/en/dep/fin/press-center.html?id=219" title="" tabindex="45">
             Press centre</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/fin/Documents-and-publications.html?id=276730" title=''>
+        <a class="ISI_MENU" href="/en/dep/fin/Documents-and-publications.html?id=276730" title="" tabindex="46">
             Documents and publications</a>
     </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/dep/fin/The-Ministry.html?id=221" title=''>
+        <a class="ISI_MENU " href="/en/dep/fin/the-ministry.html?id=221" title="" tabindex="47">
             The Ministry</a>
     <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/fin/The-Ministry/minister-of-finance-sigbjorn-johnsen.html?id=582364" title=''>
-            Minister of Finance Sigbjørn Johnsen</a>
+        <a class="ISI_MENU" href="/en/dep/fin/the-ministry/minister-of-finance-siv-jensen.html?id=742945" title="" tabindex="48">
+            Minister of Finance Siv Jensen</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/fin/The-Ministry/Other-Political-Staff.html?id=238" title=''>
+        <a class="ISI_MENU" href="/en/dep/fin/the-ministry/Other-Political-Staff.html?id=238" title="" tabindex="49">
             Other Political Staff</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/fin/The-Ministry/Senior-administrative-staff.html?id=239" title=''>
+        <a class="ISI_MENU" href="/en/dep/fin/the-ministry/Senior-administrative-staff.html?id=239" title="" tabindex="50">
             Senior administrative staff</a>
     </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/dep/fin/The-Ministry/About-the-Ministry.html?id=240" title=''>
+        <a class="ISI_MENU " href="/en/dep/fin/the-ministry/about-the-ministry.html?id=240" title="" tabindex="51">
             About the Ministry</a>
     <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/fin/The-Ministry/About-the-Ministry/Organisation-Chart.html?id=242" title=''>
+        <a class="ISI_MENU" href="/en/dep/fin/the-ministry/about-the-ministry/organisation-chart.html?id=242" title="" tabindex="52">
             Organisation Chart</a>
     </li><li class="Selected">
-        <a class="ISI_MENU Selected" href="/en/dep/fin/The-Ministry/About-the-Ministry/Departments.html?id=243" title=''>
+        <a class="ISI_MENU Selected" href="/en/dep/fin/the-ministry/about-the-ministry/Departments.html?id=243" title="" tabindex="53">
             Departments</a>
     </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/fin/The-Ministry/Underliggende-etater.html?id=115192" title=''>
+        <a class="ISI_MENU" href="/en/dep/fin/the-ministry/Underliggende-etater.html?id=115192" title="" tabindex="54">
             Subordinate Agencies</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/fin/The-Ministry/Related-Institutions.html?id=115193" title=''>
+        <a class="ISI_MENU" href="/en/dep/fin/the-ministry/Related-Institutions.html?id=115193" title="" tabindex="55">
             Related Institutions</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/fin/The-Ministry/Contact.html?id=270411" title=''>
+        <a class="ISI_MENU" href="/en/dep/fin/the-ministry/contact.html?id=270411" title="" tabindex="56">
             Contact</a>
     </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/archive.html?id=115322" title=''>
+        <a class="ISI_MENU" href="/en/archive.html?id=115322" title="" tabindex="57">
             Archive</a>
     </li></ul>
 
                                 </div>
-                              
+                                
+                                
+                            
+                        </div>
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="FullRegion_CenterAndRightRegion_slickbox" class="slickbox" style="display: none;">
+                                        
+                                            
+<script type="text/javascript"><!--
+    function facebook_click() {
+        u = location.href;
+        t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+        return false;
+    }
+    function twitter_click() {
+        u = location.href;
+        t = encodeURIComponent('Economic Policy Department');
+        window.open('http://twitter.com/share?url=' + encodeURIComponent(u) + '&text=' + t, 'sharer', 'toolbar=0,status=0,width=350,height=230');
+        return false;
+    }
+--></script>
+<div id="thankyouview">
+    <div id="thankyoudiv">
+        
+    </div>
+</div>
+<div id="tipafriend">
+    <div id="tipafriendContent">
+        
+                <div>
+	
+                    <div id="TipAFriendForm">
+                        <fieldset>
+                            <legend><strong>
+                                Share this page with a friend 
+                            </strong></legend>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
+                                <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;">
+</textarea>
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="setTipClicked();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitTextBox" style="display: none;
+                                    width: 10px;" />
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                
+                            </div>
+                        </fieldset>
+                    </div>
+                
+</div>
+            
+    </div>
+</div>
+<div id="ShareArticle">
+    <p>
+        <strong>
+            Share
+        </strong>
+    </p>
+    <ul class="communities">
+        <li><a class="share_facebook" onclick="return facebook_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/fin/the-ministry/about-the-ministry/Departments/the-economic-policy-department.html?id=1546" target="_blank">
+            Facebook</a></li>
+        <li><a class="share_twitter" onclick="return twitter_click()" href="http://twitter.com/share?url=http://www.regjeringen.no/en/dep/fin/the-ministry/about-the-ministry/Departments/the-economic-policy-department.html?id=1546&amp;text=Economic Policy Department" target="_blank">
+            Twitter</a></li>
+        <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">
+            Origo</a></li>
+    </ul>
+</div>
+
+                                        
+                                    </div>
+                                    
+    
+
+
+    
+        
+
+<div class="breadcrumbs ">
+
+    
+               <span>
+                   You are here: 
+               </span>
+                
+                <ul class="breadcrumbmenu">
+            
+                <li><a href="/en.html?id=4" title="Government.no">Government.no</a> / </li>
+            
+                <li><a href="/en/dep/fin.html?id=216" title="Ministry of Finance">Ministry of Finance</a> / </li>
+            
+                <li><a href="/en/dep/fin/the-ministry.html?id=221" title="The Ministry">The Ministry</a> / </li>
+            
+                <li><a href="/en/dep/fin/the-ministry/about-the-ministry.html?id=240" title="About the Ministry">About the Ministry</a> / </li>
+            
+                <li><a href="/en/dep/fin/the-ministry/about-the-ministry/Departments.html?id=243" title="Departments">Departments</a> / </li>
+            
+                <li><span>Economic Policy Department</span></li>
+            
+                </ul>
+            
+</div>
+        
+            <div class="documentTop">
+                
+                <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+                <h1>The Economic Policy Department</h1>
+                
+                    <div class="pageDescription"><p>The responsibility of the minister of finance as a member of the government is to develop and coordinate the government's economic policy. Although the political authorities - the government and the Storting - make the decisions, the Ministry of Finance is required to give expert advice before decisions are made.</p>
+<p>The government presents its plans and proposals to the Storting every autumn in the National Budget and the fiscal budget, and each spring in the Revised National Budget. Before the budgets are presented, the Ministry of Finance gives advice on how much government expenditure can increase, the level of income tax and what taxes should be imposed to ensure that the central government can cover its expenditures.</p>
+<p>The Economic Policy Department monitors and analyses economic trends in Norway and abroad, and gives advice in a number of areas of economic policy.</p>
+<p>Important areas include production, consumption and investments, prices, wages, the labour market, foreign trade, and monetary and exchange rate policy. The Ministry of Finance also analyses the effects of the annual wage negotiations and wage settlements on the national and central government economy. The transfer of funds from central to local government is another important part of the Ministry's work. The Economic Policy Department is responsible for coordinating work on the national budget.</p>
+<p>The Department also produces longer-term analyses and reports on subjects such as population trends, developments in income and living conditions, environmental issues, labour market trends, and on the subject of public services and public sector transfers. These analyses can be included in official government reports, Reports to the Storting (White Papers to the Norwegian parliament) or in the annual budget documents. The Economic Policy Department also has a special responsibility for issues of methodology with regard to economic planning and therefore maintains close links with academic and research communities.</p></div>        
+                
+            </div>
+        
+    
+    <div class="documentBody">
+        
+        
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/fin/the-ministry/about-the-ministry/Departments/the-economic-policy-department/srp.html?id=445850" title="">
+                    Seksjon for realøkonomi og pengepolitikk (SRP)
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                Seksjonsleder: Avdelingsdirektør Yngvar Tveit.
+<i>Oppgaver</i>:
+Analyse og vurdering av stabiliseringspolitikken, konjunkturutviklingen og landets konkurranseevne, herunder lønns- og prisutviklingen. Koordinering av arbeidet med nasjonalbudsjettet. Inntektspolitiske spørsmål, herunder inntektsoppgjør der staten er part. Vedlikehold og videreutvikling av avdelingens modell- og analyseapparat, herunder avdelingens bruk av IKT-tekniske hjelpemidler. Beregninger i tilknytning til utarbeidelsen av nasjonalbudsjettene og avdelingens løpende virksomhet.
+            </p>
+            
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/fin/the-ministry/about-the-ministry/Departments/the-economic-policy-department/sap.html?id=445853" title="">
+                    Seksjon for arbeid og pensjon (SAP)
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                Seksjonsleder: Avdelingsdirektør Sigrid Russwurm.
+
+<i>Oppgaver</i>:
+Seksjonen vurderer utformingen av sysselsettingspolitikken, herunder regelverk og ordninger som påvirker arbeidsmarkedets virkemåte, samt utviklingen i arbeidstilbudet og etterspørselen etter arbeidskraft. Seksjonen har ansvar for analyser av pensjonspolitiske spørsmål. Videre arbeider seksjonen med problemstillinger knyttet til modernisering og effektivisering av offentlig sektor og har ansvaret for etatsstyringen av Statistisk sentralbyrå.
+            </p>
+            
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/fin/the-ministry/about-the-ministry/Departments/the-economic-policy-department/seksjon-for-internasjonal-okonomi-sio.html?id=445851" title="">
+                    Seksjon for internasjonal økonomi (SIØ)
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                Seksjonsleder: Avdelingsdirektør Halvor Hvideberg.
+
+<i>Oppgaver</i>:
+Internasjonal konjunkturovervåkning og internasjonalt økonomisk samarbeid, arbeid i forhold til EØS, EFTA, EU, OECD, IMF, Verdensbanken, EBRD, WTO og nordiske saker, herunder Den nordiske investeringsbanken. Seksjonen har et særlig ansvar for å koordinere departementets arbeid med EØS- og EU-saker og statsrådens internasjonale møter.
+            </p>
+            
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/fin/the-ministry/about-the-ministry/Departments/the-economic-policy-department/soa.html?id=445852" title="">
+                    Seksjon for offentlige finanser og makroøkonomisk analyse (SOA)
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                Seksjonsleder: Avdelingsdirektør Per Mathis Kongsrud.
+
+<i>Oppgaver</i>:
+Analyser av offentlige finanser, herunder finanspolitiske indikatorer og beregninger av statsbudsjettets inntektsside. Arbeid med kommuneøkonomi og det generelle økonomiske opplegget overfor kommunesektoren. Analyse av den økonomiske politikken. Utredninger og analyser av langsiktig og sektorovergripende karakter for å vurdere virkninger av politikken på prioriterte områder. Analysene omfatter blant annet langsiktige økonomiske utviklingstrekk, miljøutviklingen og befolkningsutviklingen, samt virkninger av regelendringer og tiltak på ulike områder. Metodespørsmål knyttet til økonomisk planlegging. Vedlikehold og videreutvikling av avdelingens modell- og analyseapparat.
+            </p>
+            
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/en/dep/fin/the-ministry/about-the-ministry/Departments/the-economic-policy-department/sbu.html?id=445854" title="">
+                    Sekretariatet for bærekraftig utvikling
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                Sekretariatsleder: Avdelingsdirektør Inge Skeie.
+
+<i>Oppgaver</i>:
+Finansdepartementet har ansvaret for å samordne regjeringens arbeid med bærekraftig utvikling. Sekretariatet bidrar med analyser og koordinerer departementets arbeid på dette området. Sekretariatet er også sentral i departementets arbeid med nasjonale og internasjonale klimapolitiske problemstillinger. Ansvaret for, i samarbeid med SOA, framskrivinger av miljøskadelige utslipp til luft og analyse av makroøkonomiske konsekvenser av klimatiltak. 
+            </p>
+            
+        </div>
+    
+
+    </div>
+    
+     <div class="printContact">
+        <div class="Toolbox">
+            
+
+<h2 class="ToolboxHeader">
+                        Contact information
+                    </h2>
+<div class="ToolboxContent">
+    <h3 class="relatedContactHead">Economic Policy Department</h3>
+    
+    <p class="noPadBtm">
+        
+            <img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/5f8a67b8c63c1b2eb3aaa6a8138f0f38.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, '6D530C425101040C0040084D0903083E534F0203431D08094303040B2D060C19190200191E021D57021901040C004F500B081F054D0C51'));//--></script>
+        
+    </p>
+    <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Economic Policy Department">
+        
+            <tr>
+                <td>
+                        Telephone:
+                    </td>
+                <td><span>+47 22 24 45 03</span></td>
+            </tr>
+        
+        
+            <tr>
+                <td>
+                        Fax:
+                    </td>
+                <td><span>+47 22 24 95 09</span></td>
+            </tr>  
+        
+    </table>
+    
+    
+        <h3 class="noPadBtm">
+                        Address
+                    </h3>
+        <div>
+	<p>The Ministry of Finance<br />Economic Policy Department<br />P.O. Box&nbsp;8008 Dep<br />0030 Oslo <br />Norway</p>
+</div>
+</div>
+        </div>
+         
+    </div>
+
+                                    
+                                        
+
+<div class="bottomChangedDate">
+    Last updated: 10.01.2014
+</div>
+                                    
+
+                                    
+
+                                </div>
+                                <div id="AreaRight">
+                                    
+                                        
+                                            
+    <div class="DepProfile"><a href='/en/dep/fin.html?id=216' tabindex="61"><img src="/upload/FIN/rullerende forside/bilder_FIN_dep09.jpg" alt="Ministry of Finance " /></a></div>
+
+                                        
+                                        
+                                        
+                                        
+                                            
+    
+
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+    <div id="AreaContactInfo" class="Toolbox">   
+        
+
+<h2 class="ToolboxHeader">
+                        Contact information
+                    </h2>
+<div class="ToolboxContent">
+    <h3 class="relatedContactHead">Economic Policy Department</h3>
+    
+    <p class="noPadBtm">
+        
+            <img id='Eoi_2' class='obfimg' src='/upload/system/emailimages/5f8a67b8c63c1b2eb3aaa6a8138f0f38.png' alt='' /><script type="text/javascript" id="Eos_2"><!--
+document.write(dc(2, '053B642A39696C6468286025616B60563B276A6B2B7560612B6B6C63456E6471716A6871766A753F6A71696C646827386360776D256439'));//--></script>
+        
+    </p>
+    <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Economic Policy Department">
+        
+            <tr>
+                <td>
+                        Telephone:
+                    </td>
+                <td><span>+47 22 24 45 03</span></td>
+            </tr>
+        
+        
+            <tr>
+                <td>
+                        Fax:
+                    </td>
+                <td><span>+47 22 24 95 09</span></td>
+            </tr>  
+        
+    </table>
+    
+    
+        <h3 class="noPadBtm">
+                        Address
+                    </h3>
+        <div>
+	<p>The Ministry of Finance<br />Economic Policy Department<br />P.O. Box&nbsp;8008 Dep<br />0030 Oslo <br />Norway</p>
+</div>
+</div>
+    </div>
+     
+
+                                        
+                                    
+                                </div>
                             
                         </div>
                     
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
+                    
                     <!-- ISI_STOP -->
-                </div>
                 </div>
             </div>
         </div>
-        
-         
-<div id="PageFooter">Ministry&nbsp;of Finance, &nbsp;Akersgata 40, Postbox 8008 Dep, 0030 Oslo&nbsp;&nbsp; |&nbsp; &nbsp;Tel: +47 22 24 90 90, Fax: +47 22 24 95 10 <br />E-mail: <img id='Eoi_3' class='obfimg' src='/images/emailimages/e307bd29b111715e25f69d1564450731.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_3', '3A045B1506044E54555C15065554144A5F5E1454535C7A515B4E4E55574E49554A0418090D0B090A0A19180748555655591A4E54555C0604185554144A5F5E1454535C7A515B4E4E55574E49554A144C5351485B00554E56535B5718075C5F48521A5B06'));//--></script>&nbsp;&nbsp; |&nbsp; Web-editor: <img id='Eoi_4' class='obfimg' src='/images/emailimages/32f656fb48ff689222ee7008a8da605d.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_4', 'A698C7899A98D2C8C9C0899ACBD3D440E486C8CFD2D4C7EB86D4C9F2988495919795969685849BD4C9CAC9C586D2C8C9C09A9884C9C888D6C3C288C8CFC0E6CBD3D4C7C488C8CFD2D4C7CB8BD4C9D29CC9D2CACFC7CB849BC0C3D4CE86C79A'));//--></script>&nbsp;&nbsp; |&nbsp; Editor: <img id='Eoi_5' class='obfimg' src='/images/emailimages/d9711f50301c46b444d4519449235e01.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_5', '774916584B041219121C1B163A570516190225495518195907121359191E1137041219121C1B161A5905161902054D18031B1E161A554A1112051F57164B'));//--></script></div>
-        
-        
-                    
-        
-    </form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
-	
-} else
-{    
-    //setAreaHeights();
-}
+    </div>
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
+        
+<div id="PageFooter"><p>Ministry&nbsp;of Finance, &nbsp;Akersgata 40, Postbox 8008 Dep, 0030 Oslo&nbsp; |&nbsp;&nbsp;Tel: +47 22 24 90 90, Fax: +47 22 24 95&nbsp;14&nbsp;&nbsp;|&nbsp;Org. no&nbsp; 972 417 807<br />E-mail: <img id='Eoi_3' class='obfimg' src='/upload/system/emailimages/a04b88f6835501a6949cec940eb779ff.png' alt='' /><script type="text/javascript" id="Eos_3"><!--
+document.write(dc(3, '211F400E1D4E4F0F5144450F4F4847614A4055554E4C55524E511F034E4F0F5144450F4F4847614A4055554E4C55524E510F57484A53401B4E554D48404C031C4744534901401D'));//--></script>&nbsp;&nbsp; | &nbsp; Web-editor: <img id='Eoi_4' class='obfimg' src='/upload/system/emailimages/0168216d18cd680bfebbbed2f5d920d6.png' alt='' /><script type="text/javascript" id="Eos_4"><!--
+document.write(dc(4, 'A09EC18F9CCDD5D246E280CEC9D4D2C1ED80D2CFF49E82CFCE8ED0C5C48ECEC9C6E0CDD5D2C1C28ECEC9D4D2C1CD8DD2CFD49ACFD4CCC9C1CD829DC6C5D2C880C19C'));//--></script>&nbsp;&nbsp; |&nbsp;&nbsp; Editor: <img id='Eoi_5' class='obfimg' src='/upload/system/emailimages/8cbecbb88edfdad5e997629a30e17fac.png' alt='' /><script type="text/javascript" id="Eos_5"><!--
+document.write(dc(5, 'AE90CF8192DDCBC0CBC5C2CFE38EDCCFC0DBFC908CC1C080DECBCA80C0C7C8EEDDCBC0CBC5C2CFC380DCCFC0DBDC94C1DAC2C7CFC38C93C8CBDCC68ECF92'));//--></script></p></div>
+<div title="web02" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web02" /></div>
+    
+    
+    
+        
 
-<div id="ctl00_externalPageTrackers">
+
+    
+    </form>
+    <div id="externalPageTrackers">
 	
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
+    
+</div>       
+    
+    
 
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<div>
+    
 <script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no uses cookies to improve our service to the users. The cookies are mainly used for traffic measuring and for optimizing the site. Find more information on ",
+            messagepart2: ", or go back to regjeringen.no if you accept this.",
+            readMoreUrl: "http://www.regjeringen.no/en/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "use of cookies",
+            closeText: "Close"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
 //--></script>
-<!-- END Xtractor client tracker script -->
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
 
 </div>
+
+
+    
+
 </body>
 </html>

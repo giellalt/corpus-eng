@@ -1,32 +1,35 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
+    <!-- ISI_NOAUTOLANG -->
+    <title>
 	Circular - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="Circular" />
-<meta name="DCSext.regj.pagetype" content="Konfigurert Søk" />
-<meta name="DCSext.regj.pageid" content="1762" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
+<meta name="WT.ti" content="Circular" />
+<meta name="DCSext.regj.pagetype" content="KonfigurertSok" />
 <meta name="DCSext.regj.owner" content="gov_no" />
 <meta name="DCSext.regj.language" content="en-GB" />
+<meta name="DCSext.regj_lv2" content="doc" />
+<meta name="DCSext.regj_lv3" content="consultation-papers" />
+<meta name="DCSext.regj_g-page" content="1762-g-page" />
 <meta name="TITLE" content="Circular" />
-<meta name="description" content="Circular are information from the ministry to affected parties about interpretations of laws and regulations. This is an overview of&amp;amp;nbsp;Circulars from the Ministries.&amp;amp;nbsp; 
-You can narow the focus of the overview by using the navigator in t..." />
+<meta name="description" content="Circular are information from the ministry to affected parties about interpretations of laws and regulations. This is an overview of&amp;nbsp;Circulars from the Ministries.&amp;nbsp;
+You can narow the focus of the overview by using the navigator in the right ..." />
 <meta name="DC.Title" content="Circular" />
 <meta name="DC.Creator" content="Government.no" />
-<meta name="DC.Description" content="Circular are information from the ministry to affected parties about interpretations of laws and regulations. This is an overview of&amp;amp;nbsp;Circulars from the Ministries.&amp;amp;nbsp; 
-You can narow the focus of the overview by using the navigator in t..." />
+<meta name="DC.Description" content="Circular are information from the ministry to affected parties about interpretations of laws and regulations. This is an overview of&amp;nbsp;Circulars from the Ministries.&amp;nbsp;
+You can narow the focus of the overview by using the navigator in the right ..." />
 <meta name="DC.Date" content="2007-01-17" />
 <meta name="DC.Date.Available" content="2007-01-17" />
 <meta name="DC.Type.Status" content="Gyldig" />
-<meta name="DC.Type" content="Konfigurert Søk" />
+<meta name="DC.Type" content="KonfigurertSok" />
 <meta name="DC.Format" content="text/html" />
 <meta name="DC.Identifier.URL" content="/en/doc/consultation-papers.html?id=1762" />
 <meta name="DC.Language" content="en-GB" />
 <meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DCSext.regj.lang-pref" content="en-GB" />
 <meta name="DC.Publisher" content="regjeringen.no" />
 <meta name="AUTHOR" content="Government.no" />
 <meta name="creation_date" content="Wed, 17 Jan 2007 12:05:00 GMT" />
@@ -36,80 +39,99 @@ You can narow the focus of the overview by using the navigator in t..." />
 <meta http-equiv="Content-Language" content="en" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
-
-
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
-
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
 
 
 
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+    <!-- default styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/default_styles_combined_45D29949909B2B10854E130AC37BCE3C.css" />
+    <!--[if lt IE 6]
+        <link rel="stylesheet" type="text/css" href="/styles/ie55.css?v=2.1.11776" media="screen">
+
+    <![endif]-->
+
+
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/3Col_AF432B5349630A9B3C4A0BDD3743237C.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
+
+        <link rel="alternate" type="application/rss+xml" title="Circular (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1762&amp;language=en-GB
+" />
+    
+
+
+
+<meta name="DCSext.oss_sort" content="sist-publisert" /><link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web01.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=1762" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web01.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=1762" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en/doc/consultation-papers.html?id=1762" id="aspnetForm" enctype="multipart/form-data">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTU3MDM0MzI3D2QWAmYPZBYIZg8VAgJlbgJlbmQCARBkZBYCAgIPZBYGZg8WAh4EVGV4dAWrDzxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VuYW1lIiBjb250ZW50PSJDaXJjdWxhciIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2V0eXBlIiBjb250ZW50PSJLb25maWd1cmVydCBTJiMyNDg7ayIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VpZCIgY29udGVudD0iMTc2MiIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VzdGF0dXMiIGNvbnRlbnQ9Ikd5bGRpZyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLm93bmVyIiBjb250ZW50PSJnb3Zfbm8iIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5sYW5ndWFnZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJUSVRMRSIgY29udGVudD0iQ2lyY3VsYXIiIC8+DQo8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iQ2lyY3VsYXIgYXJlIGluZm9ybWF0aW9uIGZyb20gdGhlIG1pbmlzdHJ5IHRvIGFmZmVjdGVkIHBhcnRpZXMgYWJvdXQgaW50ZXJwcmV0YXRpb25zIG9mIGxhd3MgYW5kIHJlZ3VsYXRpb25zLiBUaGlzIGlzIGFuIG92ZXJ2aWV3IG9mJmFtcDthbXA7bmJzcDtDaXJjdWxhcnMgZnJvbSB0aGUgTWluaXN0cmllcy4mYW1wO2FtcDtuYnNwOyANCllvdSBjYW4gbmFyb3cgdGhlIGZvY3VzIG9mIHRoZSBvdmVydmlldyBieSB1c2luZyB0aGUgbmF2aWdhdG9yIGluIHQuLi4iIC8+DQo8bWV0YSBuYW1lPSJEQy5UaXRsZSIgY29udGVudD0iQ2lyY3VsYXIiIC8+DQo8bWV0YSBuYW1lPSJEQy5DcmVhdG9yIiBjb250ZW50PSJHb3Zlcm5tZW50Lm5vIiAvPg0KPG1ldGEgbmFtZT0iREMuRGVzY3JpcHRpb24iIGNvbnRlbnQ9IkNpcmN1bGFyIGFyZSBpbmZvcm1hdGlvbiBmcm9tIHRoZSBtaW5pc3RyeSB0byBhZmZlY3RlZCBwYXJ0aWVzIGFib3V0IGludGVycHJldGF0aW9ucyBvZiBsYXdzIGFuZCByZWd1bGF0aW9ucy4gVGhpcyBpcyBhbiBvdmVydmlldyBvZiZhbXA7YW1wO25ic3A7Q2lyY3VsYXJzIGZyb20gdGhlIE1pbmlzdHJpZXMuJmFtcDthbXA7bmJzcDsgDQpZb3UgY2FuIG5hcm93IHRoZSBmb2N1cyBvZiB0aGUgb3ZlcnZpZXcgYnkgdXNpbmcgdGhlIG5hdmlnYXRvciBpbiB0Li4uIiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZSIgY29udGVudD0iMjAwNy0wMS0xNyIgLz4NCjxtZXRhIG5hbWU9IkRDLkRhdGUuQXZhaWxhYmxlIiBjb250ZW50PSIyMDA3LTAxLTE3IiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZS5TdGF0dXMiIGNvbnRlbnQ9Ikd5bGRpZyIgLz4NCjxtZXRhIG5hbWU9IkRDLlR5cGUiIGNvbnRlbnQ9IktvbmZpZ3VyZXJ0IFMmIzI0ODtrIiAvPg0KPG1ldGEgbmFtZT0iREMuRm9ybWF0IiBjb250ZW50PSJ0ZXh0L2h0bWwiIC8+DQo8bWV0YSBuYW1lPSJEQy5JZGVudGlmaWVyLlVSTCIgY29udGVudD0iL2VuL2RvYy9jb25zdWx0YXRpb24tcGFwZXJzLmh0bWw/aWQ9MTc2MiIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlLlByZWZlcmVuY2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iREMuUHVibGlzaGVyIiBjb250ZW50PSJyZWdqZXJpbmdlbi5ubyIgLz4NCjxtZXRhIG5hbWU9IkFVVEhPUiIgY29udGVudD0iR292ZXJubWVudC5ubyIgLz4NCjxtZXRhIG5hbWU9ImNyZWF0aW9uX2RhdGUiIGNvbnRlbnQ9IldlZCwgMTcgSmFuIDIwMDcgMTI6MDU6MDAgR01UIiAvPg0KPG1ldGEgbmFtZT0iTEFTVC1NT0RJRklFRCIgY29udGVudD0iV2VkLCAxNyBKYW4gMjAwNyAxMjoxMDozMyBHTVQiIC8+DQo8bWV0YSBuYW1lPSJSRVZJU0VEIiBjb250ZW50PSJXZWQsIDE3IEphbiAyMDA3IDEyOjEwOjMzIEdNVCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVudD0iZW4iIC8+DQpkAgEPFgIeB1Zpc2libGVoZAICDxYCHgtfIUl0ZW1Db3VudGZkAgMQZGQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILD2QWAmYPFQFpI2N0bDAwX0Z1bGxSZWdpb25fQ2VudGVyQW5kUmlnaHRSZWdpb25fUmlnaHRSZWdpb25fUmlnaHRSZWdpb25Db250YWN0SW5mb19SZWxhdGVkQ29udGFjdDFfQXJlYUNvbnRhY3RJbmZvZAIND2QWAmYPZBYCZg9kFgICAQ9kFghmDw8WBh4HVG9vbFRpcAUuS2xpa2sgaGVyIGZvciDDpSB2aXNlIGRlbm5lIHNpZGVuIHDDpSBib2ttw6VsLh8ABQdCb2ttw6VsHgtOYXZpZ2F0ZVVybAU1L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE3NjImZXBzbGFuZ3VhZ2U9bm9kZAIBDw8WBh8DBS1LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkYSBww6Ugbnlub3Jzay4fAAUHTnlub3Jzax8EBTgvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9MTc2MiZlcHNsYW5ndWFnZT1ubi1OT2RkAgIPDxYGHwMFNENvYWhra2FsIGTDoWtrbyBkZSBvYWlubsOhdCBkw6FuIHNpaWRkdSBzw6FtZWdpbGxpaS4fAAULU8OhbWVnaWVsbGEfBAU4L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE3NjImZXBzbGFuZ3VhZ2U9c2UtTk9kZAIDDw8WBh8DBSJUaGlzIHBhZ2UgaXMgZGlzcGxheWVkIGluIGVuZ2xpc2guHwAFB0VuZ2xpc2gfBAU4L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE3NjImZXBzbGFuZ3VhZ2U9ZW4tR0JkZAICDxUBASBkAgMPZBYMZg8VASQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgEPFQELUG9ydGFsIGhvbWVkAgIPZBYEZg8VASQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgIPFQM6L3RlbXBsYXRlcy9HZW5lcmVsbEZvcnNpZGUuYXNweD9pZD04NTg0MyZlcHNsYW5ndWFnZT1lbi1HQhxTdG9sdGVuYmVyZydzIDJuZCBHb3Zlcm5tZW50Mi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9OTMzJmVwc2xhbmd1YWdlPWVuLUdCZAIDDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCBA8VAQ1Hb3Zlcm5tZW50Lm5vZAIGD2QWEmYPZBYEZg9kFgJmD2QWBAICDxUEG1NlYXJjaCBhbGwgb2YgZ292ZXJubWVudC5ubwZTZWFyY2gRUXVpY2tTZWFyY2hCdXR0b24GU2VhcmNoZAIDDw8WBB8ABRtTZWFyY2ggYWxsIG9mIGdvdmVybm1lbnQubm8fAWhkZAIBDw8WAh4LX2lzRWRpdGFibGVoZGQCAQ8VAR4vc3R5bGVzL0ltYWdlcy9zeW1ib2xfdGlwcy5naWZkAgUPFQEhL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3ByaW50X3QuZ2lmZAIIDxUDIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9zbWFsbFRleHQuZ2lmJC9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9tZWRpdW1UZXh0LmdpZiMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbGFyZ2VUZXh0LmdpZmQCCQ9kFgJmDxUCfmh0dHA6Ly9pc2kucGhvbmV0aWNvbS5jb20vY2dpLWJpbi9yc3h0P3VybD1odHRwOi8vd3d3LnJlZ2plcmluZ2VuLm5vL2VuL2RvYy9jb25zdWx0YXRpb24tcGFwZXJzLmh0bWw/aWQ9MTc2MiZhbXA7Y3VzdG9tZXJpZD0xOR8vc3R5bGVzL0ltYWdlcy9zeW1ib2xfbHlkX3QuZ2lmZAIKD2QWAgIBDw8WBB8EBTYvdGVtcGxhdGVzL1RlbWFJbmRla3MuYXNweD9pZD0yMjM0ODYmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUKVG9waWNzIEEtWmRkAgsPZBYCAgEPDxYEHwQFOS90ZW1wbGF0ZXMvTmV0dHN0ZWRza2FydC5hc3B4P2lkPTIyMzI3NCZlcHNsYW5ndWFnZT1lbi1HQh8ABQhTaXRlIE1hcGRkAgwPDxYEHwQFNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDg4NjQxJmVwc2xhbmd1YWdlPWVuLUdCHwAFBEhlbHBkZAINDw8WBB8EBUAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MjI0NjM3JmVwc2xhbmd1YWdlPWVuLUdCHwAFB0NvbnRhY3RkZAIED2QWBAIBD2QWBgIBD2QWAgIBD2QWBGYPDxYCHwFoZGQCAQ9kFhACAw8PFgIfAAUdUmVjaXBpZW504oCZcyBlLW1haWwgYWRkcmVzczpkZAIHDw8WAh4MRXJyb3JNZXNzYWdlBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCCQ8PFgIfBgUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAgsPDxYCHwAFFFlvdXIgZS1tYWlsIGFkZHJlc3M6ZGQCDw8PFgIfBgUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAhEPDxYCHwYFJVlvdSBtdXN0IGdpdmUgYSB2YWxpZCBlLW1haWwgYWRkcmVzcy5kZAITDw8WAh8ABQhNZXNzYWdlOmRkAhcPDxYCHwAFCVNlbmQgbWFpbGRkAgMPZBYQAgEPFgIfAWhkAgMPZBYCZg8WAh8ABcEBWW91IGFyZSBoZXJlOiA8YSBocmVmPSIvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkdvdmVybm1lbnQubm88L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQzOTI3OSZlcHNsYW5ndWFnZT1lbi1HQiI+RG9jdW1lbnRzPC9hPiAvIDxzcGFuPkNpcmN1bGFyPC9zcGFuPmQCBA8VAQhDaXJjdWxhcmQCBQ8WAh8BaBYCZg8VAQBkAgYPFQGSAjxwPkNpcmN1bGFyIGFyZSBpbmZvcm1hdGlvbiBmcm9tIHRoZSBtaW5pc3RyeSB0byBhZmZlY3RlZCBwYXJ0aWVzIGFib3V0IGludGVycHJldGF0aW9ucyBvZiBsYXdzIGFuZCByZWd1bGF0aW9ucy4gVGhpcyBpcyBhbiBvdmVydmlldyBvZiZuYnNwO0NpcmN1bGFycyBmcm9tIHRoZSBNaW5pc3RyaWVzLiZuYnNwOyA8L3A+DQo8cD5Zb3UgY2FuIG5hcm93IHRoZSBmb2N1cyBvZiB0aGUgb3ZlcnZpZXcgYnkgdXNpbmcgdGhlIG5hdmlnYXRvciBpbiB0aGUgcmlnaHQgY29sdW1uLjwvcD5kAgcPZBYCAgYPZBYKAgEPZBYEAgMPDxYCHwBlZGQCBw8PFgIfAGVkZAIDD2QWAgIBD2QWCgIRDw8WAh8GBUMNCiAgICAgICAgICAgICAgICAgICAgICAgIEUtbWFpbCBpcyBtYW5kYXRvcnkNCiAgICAgICAgICAgICAgICAgICAgZGQCEw8PFgIfBgVFDQogICAgICAgICAgICAgICAgICAgICAgICBJbnZhbGlkIGUtbWFpbCBmb3JtYXQNCiAgICAgICAgICAgICAgICAgICAgZGQCFQ9kFgICAw8QDxYCHgtfIURhdGFCb3VuZGdkZBYAZAIXDw8WAh8ABQhDb250aW51ZWRkAhkPDxYCHwAFBkNhbmNlbGRkAgQPZBYCAgMPDxYCHwAFCENvbnRpbnVlZGQCBQ9kFgQCBw8PFgIfAAUTQ2FuY2VsIHN1YnNjcmlwdGlvbmRkAgkPDxYCHwAFFUNvbnRpbnVlIHN1YnNjcmlwdGlvbmRkAgYPZBYCAgMPDxYCHwAFCENvbnRpbnVlZGQCCA8PFgIfAWhkFgRmDxYCHwFoZAICDxYCHwFoZAIJD2QWAgIDD2QWAmYPFgIeCl9zb3J0T3JkZXILKXNFUGlTZXJ2ZXIuRmlsdGVycy5GaWx0ZXJTb3J0T3JkZXIsIEVQaVNlcnZlciwgVmVyc2lvbj01LjIuMzc1LjIzNiwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3ABYIZg9kFhACAQ8WBB4EaHJlZgU1L3RlbXBsYXRlcy9SdW5kc2tyaXYuYXNweD9pZD00MjA2NzAmZXBzbGFuZ3VhZ2U9ZW4tR0IfAWgWAgIBDw8WBh8FaB4OX2JvdW5kUGFnZUxpbmsCvtYZHglfbGFzdFR5cGUFB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATI1L3RlbXBsYXRlcy9SdW5kc2tyaXYuYXNweD9pZD00MjA2NzAmZXBzbGFuZ3VhZ2U9ZW4tR0IAG1B1YmxpY2F0aW9uIG51bWJlciBILTIxMjAgRQEyATMASFRoZSBtYWluIGZ1bmN0aW9ucyBvZiBjb3VudHkgbWluaWNpcGFsaXRpZXMgYW5kIG11bmljaXBhbGl0aWVzIGluIE5vcndheQEzXjxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W01pbmlzdHJ5IG9mIExvY2FsIEdvdmVybm1lbnQgYW5kIFJlZ2lvbmFsIERldmVsb3BtZW50LCAwNy4xMS4yMDAwXTwvcD5kAgMPZBYCZg8PFgYfBWgfCgK+1hkfCwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwoCvtYZHwsFB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8JZB8BaBYEAgEPDxYCHg1fbGFuZ3VhZ2VUZXh0BTYvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19ydW5kc2tyaXZkZAICDxUBAGQCCQ8WBB8JZB8BaBYCAgEPDxYCHwwFOi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19ydW5kc2tyaXZkZAILDw8WAh8BaGQWAmYPFQEAZAIBD2QWEAIBDxYEHwkFNS90ZW1wbGF0ZXMvUnVuZHNrcml2LmFzcHg/aWQ9MTA4NDM5JmVwc2xhbmd1YWdlPWVuLUdCHwFoFgICAQ8PFgYfBWgfCgKXzwYfCwUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjUvdGVtcGxhdGVzL1J1bmRza3Jpdi5hc3B4P2lkPTEwODQzOSZlcHNsYW5ndWFnZT1lbi1HQgAdVC01Lzk5RSBBY2Nlc3NpYmlsaXR5IGZvciBhbGwBMgEzDGRpc3BsYXk6bm9uZQABM0Q8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltNaW5pc3RyeSBvZiB0aGUgRW52aXJvbm1lbnQsIDI5LjEyLjE5OTldPC9wPmQCAw8WAh8BaBYCZg8PFgYfBWgfCgKXzwYfCwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwoCl88GHwsFB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8JZB8BaBYEAgEPDxYCHwwFNi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3J1bmRza3JpdmRkAgIPFQEAZAIJDxYEHwlkHwFoFgICAQ8PFgIfDAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3J1bmRza3JpdmRkAgsPDxYCHwFoZBYCZg8VAQBkAgIPZBYQAgEPFgQfCQU1L3RlbXBsYXRlcy9SdW5kc2tyaXYuYXNweD9pZD0xMDc4NTEmZXBzbGFuZ3VhZ2U9ZW4tR0IfAWgWAgIBDw8WBh8FaB8KAsvKBh8LBQdEZWZhdWx0ZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyNS90ZW1wbGF0ZXMvUnVuZHNrcml2LmFzcHg/aWQ9MTA3ODUxJmVwc2xhbmd1YWdlPWVuLUdCAFFULTEwNDkgTmF0aW9uYWwgUG9saWN5IEd1aWRlbGluZXMgZm9yIGNvb3JkaW5hdGVkIGxhbmQtdXNlIGFuZCB0cmFuc3BvcnQgcGxhbm5pbmcBMgEzAIABTGFpZCBkb3duIGJ5IFJveWFsIERlY3JlZSBvZiAyMCBBdWd1c3QgMTk5MyBwdXJzdWFudCB0byB0aGUgUGxhbm5pbmcgYW5kIEJ1aWxkaW5nIEFjdCBvZiAxNCBKdW5lIDE5ODUsIMKnIDE3LSAxLCBmaXJzdCBwYXJhZ3JhcGgBM0Q8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltNaW5pc3RyeSBvZiB0aGUgRW52aXJvbm1lbnQsIDIwLjA4LjE5OTNdPC9wPmQCAw8WAh8BaBYCZg8PFgYfBWgfCgLLygYfCwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwoCy8oGHwsFB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8JZB8BaBYEAgEPDxYCHwwFNi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3J1bmRza3JpdmRkAgIPFQEAZAIJDxYEHwlkHwFoFgICAQ8PFgIfDAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3J1bmRza3JpdmRkAgsPDxYCHwFoZBYCZg8VAQBkAgMPZBYQAgEPFgQfCQU1L3RlbXBsYXRlcy9SdW5kc2tyaXYuYXNweD9pZD0xMDc4NDcmZXBzbGFuZ3VhZ2U9ZW4tR0IfAWgWAgIBDw8WBh8FaB8KAsfKBh8LBQdEZWZhdWx0ZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyNS90ZW1wbGF0ZXMvUnVuZHNrcml2LmFzcHg/aWQ9MTA3ODQ3JmVwc2xhbmd1YWdlPWVuLUdCAGJULTEwNDggTmF0aW9uYWwgUG9saWN5IEd1aWRlbGluZXMgZm9yIHBsYW5uaW5nIGluIGNvYXN0YWwgYW5kIG1hcmluZSBhcmVhcyBpbiB0aGUgT3Nsb2Zqb3JkIHJlZ2lvbgEyATMAeVN1cHBsZW1lbnRhcnkgY29tbWVudHMgb24gdGhlIE5hdGlvbmFsIFBvbGljeSBHdWlkZWxpbmVzIGZvciBwbGFubmluZyBpbiBjb2FzdGFsIGFuZCBtYXJpbmUgYXJlYXMgaW4gdGhlIE9zbG9mam9yZCByZWdpb24BM0Q8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltNaW5pc3RyeSBvZiB0aGUgRW52aXJvbm1lbnQsIDIzLjA3LjE5OTNdPC9wPmQCAw8WAh8BaBYCZg8PFgYfBWgfCgLHygYfCwUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwVoHwoCx8oGHwsFB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8JZB8BaBYEAgEPDxYCHwwFNi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3J1bmRza3JpdmRkAgIPFQEAZAIJDxYEHwlkHwFoFgICAQ8PFgIfDAU6L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2F0dGFjaG1lbnRsaW5rX3J1bmRza3JpdmRkAgsPDxYCHwFoZBYCZg8VAQBkAgUPZBYEAgEPZBYCAgEPZBYCZg8WAh4FY2xhc3MFEERlcFByb2ZpbGVOb1Nob3cWAmYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAIHD2QWAgIBD2QWCgICDw8WAh8BaGQWAmYPZBYCAgEPFgQfCAsrBAgfAWhkAgQPDxYCHwFoZBYCZg9kFgICAQ8WBB8ICysECB8BaGQCBg8PFgIfAWhkFgJmD2QWAgIBDxYEHwgLKwQIHwFoZAIIDw8WAh8BaGQWAmYPZBYCAgEPFgIfAWhkAgoPDxYCHwFoZBYCZg9kFgICAQ8WBB8ICysEAx8BaGQCAw9kFgICAQ9kFgQCAQ9kFgJmDxUCJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQgtQb3J0YWwgaG9tZWQCAw8WBh4JX1BhZ2VMaW5rKCluRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZSwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcBNB4PX051bWJlck9mTGV2ZWxzAgoeCl9FeHBhbmRBbGxoFiwCAQ9kFgJmDxUBAGQCAg9kFgJmDxUDOC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xMTUwJmVwc2xhbmd1YWdlPWVuLUdCAAlXaGF0cyBuZXdkAgQPZBYCZg8VAQBkAgUPZBYCZg8VAzovdGVtcGxhdGVzL1BvcnRhbFRlbWFGb3JzaWRlLmFzcHg/aWQ9MjA4JmVwc2xhbmd1YWdlPWVuLUdCAAZUb3BpY3NkAgcPZBYCZg8VAQhTZWxlY3RlZGQCCA9kFgJmDxUEAEAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDM5Mjc5JmVwc2xhbmd1YWdlPWVuLUdCAAlEb2N1bWVudHNkAgoPZBYCZg8VAQBkAgsPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDM4NzU0JmVwc2xhbmd1YWdlPWVuLUdCABRBY3RzIGFuZCByZWd1bGF0aW9uc2QCDQ9kFgJmDxUBCFNlbGVjdGVkZAIOD2QWAmYPFQM4L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE3NjImZXBzbGFuZ3VhZ2U9ZW4tR0IACENpcmN1bGFyZAIQD2QWAmYPFQEAZAIRD2QWAmYPFQM4L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTE3NjcmZXBzbGFuZ3VhZ2U9ZW4tR0IAGk9mZmljaWFsIE5vcndlZ2lhbiBSZXBvcnRzZAITD2QWAmYPFQEAZAIUD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQzODgxNyZlcHNsYW5ndWFnZT1lbi1HQgARUmVwb3J0cyBhbmQgcGxhbnNkAhYPZBYCZg8VAQBkAhcPZBYCZg8VAzovdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9NDM4ODIyJmVwc2xhbmd1YWdlPWVuLUdCABhHdWlkZWxpbmVzIGFuZCBicm9jaHVyZXNkAhsPZBYCZg8VAQBkAhwPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDM3NDk1JmVwc2xhbmd1YWdlPWVuLUdCAAdXZWJjYXN0ZAIeD2QWAmYPFQEAZAIfD2QWAmYPFQM0L3RlbXBsYXRlcy9LYW1wYW5qZS5hc3B4P2lkPTQ0MzMxNCZlcHNsYW5ndWFnZT1lbi1HQgAOVGhlIEdvdmVybm1lbnRkAiEPZBYCZg8VAQBkAiIPZBYCZg8VAzYvdGVtcGxhdGVzL1NlYXJjaFBhZ2UuYXNweD9pZD0xMTUzMjImZXBzbGFuZ3VhZ2U9ZW4tR0IAEERvY3VtZW50IEFyY2hpdmVkAgUPZBYCAgEPZBYCZg8VAfoBPHA+R292ZXJubWVudCBBZG1pbmlzdHJhdGlvbiBTZXJ2aWNlcywgRWluYXIgR2VyaGFyZHNlbnMgcGxhc3MgMywgUG9zdGJveCA4MTI5IERlcCwgMDAzMiBPU0xPLCBOb3J3YXkmbmJzcDs8YnIgLz5UbGY6ICsgNDcgMjIgMjQgOTAgOTAgfCBFLW1haWw6IDxhIGhyZWY9Im1haWx0bzpyZWRha3Nqb25lbkBkc3MuZGVwLm5vIj48Zm9udCBjb2xvcj0iIzgwMDA4MCI+cmVkYWtzam9uZW5AZHNzLmRlcC5ubzwvZm9udD48L2E+Jm5ic3A7PC9wPmQCBQ9kFgJmDxUBGC9zY3JpcHQvanMvc2RjXzA5MDgxOS5qc2QYCwVHY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kZW1haWxBbGVydCRtdWx0aVZpZXcPD2RmZAWRAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkSG9yaW5nc0ZseXQkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAWZAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkUmVsYXRlZExvdkZvcnNrcmlmdCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBZsBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSREb2N1bWVudFJlbGF0aW9uc2hpcDIkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAWbAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JHV4Vmlld3MPD2RmZAVQY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbCRsc3RVbml2ZXJzYWwPD2ZkZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkTXVsdGlQYWdlTGlzdA8PZmRkBUxjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRSZWxhdGVkQ29udGFjdDIkUGFnZUxpc3QxDw9mZGQFYmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRSZWxhdGVkQ29udGFjdDEkUGFnZUxpc3QxDw9mZGQFkgFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JFN0YW5kYXJkR3JvdXBpbmdEb2N1bWVudENvbnRleHQxJEhvcmluZ3NOb3RhdCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkdCJOBAP8trZFaYEb6+Zl5DAdxtg=" />
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/en/doc/consultation-papers.html?id=1762" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0Nzg4MjE3NDRkGA0FTGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJFJlbGF0ZWRDb250YWN0MiRQYWdlTGlzdDEPD2ZkZAWAAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFfmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkUmVsYXRlZExvdkZvcnNrcmlmdCRSZWxhdGlvbk9uZUhvcFBhZ2VMaXN0MQ8PZmRkBYEBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCREb2N1bWVudFJlbGF0aW9uc2hpcDIkUmVsYXRpb25zT25lSG9wUGFnZUxpc3QxDw9mZGQFeGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkSG9lcmluZ3NOb3RhdCRSZWxhdGlvbk9uZUhvcFBhZ2VMaXN0MQ8PZmRkBUdjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRlbWFpbEFsZXJ0JG11bHRpVmlldw8PZAIBZAViY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDEkTXVsdGlQYWdlTGlzdA8PZmRkBXVjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJEhvZXJpbmdGb3IkUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAUdY3RsMDAkUmVxdWlyZWRSZXNvdXJjZXNIZWFkZXIPBQZIZWFkZXJkBSVjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwMSR1eFZpZXdzDw9kZmQFUGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGxpc3RpbmdVbml2ZXJzYWwkbHN0VW5pdmVyc2FsDw9mZGQFT2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kVGlwQUZyaWVuZFBsYWNlaG9sZGVyJFRpcEFGcmllbmQkVGlwVmlld3MPD2QCAWRc1M1FmwUPu7oO3InlVHXwOzR3cw==" />
 </div>
 
+
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAs3lM3YTfpMVTPMmBxbcFh3BMVExvKpsjSyWhFzdTDXQdZdaX9ImkQXICqL304eO0T0gj75UQ9fU7oniCuKKB90LtoGARvq0HfwzdD5C1xPl1zcSGLuJnn1LsnNPrGy3b0CPsJsdyXXHy+3yhLCVdHJKIvHpWJ+3sCMPzaMLbUjklQ1UPsbVrsJ1Du+zxQSwC6/toK6zMFMCfCNL00pg3Ny7n9sa3Qdqzw6z6bhv7wNUdV46j8itIrMcZl8fAkV4uSCcuq9" />
+</div>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Go to contact information</a></li>
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">Go to search</a><a href="#Content" tabindex="3">Go to content</a><a href="#AreaTopSiteNav" tabindex="4">Go to top menu</a><a href="#AreaLeft" tabindex="5">Go to left menu</a>
+    
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dok/rundskriv.html?id=1762">Bokmål</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/dok/Rundskriv.html?id=1762">Nynorsk</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dok/Johtoallosat-.html?id=1762">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/doc/consultation-papers.html?id=1762">English</a></li>
+        <li class="First Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dok/rundskriv.html?id=1762">Bokmål</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/dok/rundskriv.html?id=1762">Nynorsk</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dok/johtoallosat-.html?id=1762">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="This page is displayed in english." class="ISI_IGNORE" href="/en/doc/consultation-papers.html?id=1762">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/en.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/en.html?id=4" tabindex="20">
+                                            government.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/en/the-government/solberg/members-of-the-government-2.html?id=543170' class="ISI_MENU" tabindex="21">Solberg’s Government</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/en/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Ministries
+                                        </a>
+                                        
     <ul>
   
     <li>
@@ -117,7 +139,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+        <a href="/en/dep/asd.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour and Social Affairs</a>
     </li>
   
     <li>
@@ -129,14 +151,6 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
-    </li>
-  
-    <li>
         <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
     </li>
   
@@ -145,15 +159,19 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and Public Security</a>
     </li>
   
     <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
+        <a href="/en/dep/kld.html?id=668" class="NormalLink ISI_MENU">Ministry of Climate and Environment</a>
     </li>
   
     <li>
-        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
+        <a href="/en/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Modernisation</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
     </li>
   
     <li>
@@ -165,11 +183,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+        <a href="/en/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade, Industry and Fisheries</a>
     </li>
   
     <li>
@@ -188,278 +202,370 @@ function printPage()
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en.html?id=4"><img class="ProfileLogo" src="/styles/Images/DEP/DEP_en.gif" alt='Government.no' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/en.html?id=4" tabindex="34"><img class="ProfileLogo" src="/styles/Images/DEP/DEP_en.gif" alt='Government.no' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
     <label for="quicksearchinput" class="QuickSearchHeader">Search all of government.no</label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Search" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Search" />        
     <span></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/doc/consultation-papers.html?id=1762&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/sitemap.html?id=223274">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/contact.html?id=224637">Contact</a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+        <li class="Share">
+            <noscript>
+                <a href="http://www.regjeringen.no/templates/KonfigurertSok.aspx?id=1762&amp;epslanguage=en-GB&amp;tipafriend=1" id="noScriptTipLink" rel="nofollow" tabindex="72"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                        vertical-align: middle; height: 1em;" alt='Share/Send' />Share/Send</a></noscript>
+            <a onclick="return displayTipAFriendForm();" id="TopRegion_TopRightRegion_ctl00_tipAFriendLink" tabindex="34" class="display-none" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$ctl00$tipAFriendLink&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                    vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Share/Send' /><span id="open">Share/Send</span><span id="close" style="display: none;">Close</span></a>
+        </li>
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Click here to print this page' />Print</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/templates/KonfigurertSok.aspx?id=1762&amp;epslanguage=en-GB&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal font size' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/KonfigurertSok.aspx?id=1762&amp;epslanguage=en-GB&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium font size' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/KonfigurertSok.aspx?id=1762&amp;epslanguage=en-GB&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Large font size' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/doc/consultation-papers.html?id=1762&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/en/sitemap.html?id=223274">Site Map</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/en/contact.html?id=224637">Contact</a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
+                        <div id="AreaLeft">
+                            
+                                <div id="AreaLeftNav" class="NavListV">
+                                    
+
+
+<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
+
+    <ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en.html?id=4" tabindex="41">
+            Portal home</a></li></ul>
+
+<ul><li class="">
+        <a class="ISI_MENU" href="/en/whatsnew.html?id=1150" title="" tabindex="42">
+            Whats new</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/topics.html?id=208" title="" tabindex="43">
+            Topics</a>
+    </li><li class="Selected">
+        <a class="ISI_MENU " href="/en/doc.html?id=439279" title="" tabindex="44">
+            Documents</a>
+    <ul><li class="">
+        <a class="ISI_MENU" href="/en/doc/propositions-and-reports-.html?id=1751" title="" tabindex="45">
+            Draft resolutions, bills and white papers</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/doc/laws.html?id=438754" title="" tabindex="46">
+            Acts and regulations</a>
+    </li><li class="Selected">
+        <a class="Selected ISI_MENU" href="/en/doc/consultation-papers.html?id=1762" title="" tabindex="47">
+            Circular</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/doc/norwegian-official-reports.html?id=1767" title="" tabindex="48">
+            Official Norwegian Reports</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/doc/reports-and-plans.html?id=438817" title="" tabindex="49">
+            Reports and plans</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/doc/Guidelines-and-brochures.html?id=438822" title="" tabindex="50">
+            Guidelines and brochures</a>
+    </li></ul></li><li class="">
+        <a class="ISI_MENU" href="/en/webcast.html?id=437495" title="" tabindex="51">
+            Webcast</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/the-government.html?id=443314" title="" tabindex="52">
+            The Government</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/archive.html?id=115322" title="" tabindex="53">
+            Document Archive</a>
+    </li></ul>
+
+                                </div>
+                                
+                                
+                            
+                        </div>
                         <div id="AreaContentAndRight">
                             
                                 <div id="AreaContent">
-                                    <div id="slickbox" style="display:none;">
-                                       
+                                    <div id="FullRegion_CenterAndRightRegion_slickbox" class="slickbox" style="display: none;">
+                                        
                                             
 <script type="text/javascript"><!--
-function fbs_click() 
-{
-    u=location.href;
-    t=document.title;
-    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
-    return false;
-}
-function nettby_click(pageurl,pagename)
-{
-    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
-    wnd.focus();
-    return false;
-}
-function GetThis(T, C, U, L) 
-{
-	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
-	wnd = window.open(targetUrl);
-	wnd.focus();
-	return false;
-}
+    function facebook_click() {
+        u = location.href;
+        t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+        return false;
+    }
+    function twitter_click() {
+        u = location.href;
+        t = encodeURIComponent('Circular');
+        window.open('http://twitter.com/share?url=' + encodeURIComponent(u) + '&text=' + t, 'sharer', 'toolbar=0,status=0,width=350,height=230');
+        return false;
+    }
 --></script>
-
-
-
-    <div id="thankyouview">
-        <div id="thankyoudiv"></div>        
+<div id="thankyouview">
+    <div id="thankyoudiv">
+        
     </div>
-    <div id="tipafriend">
-        <div id="tipafriendContent">
-            
-            <div>
-	  
-                <p><strong>Share this page with a friend </strong></p>
-                <ol>
-                    <li>
-                        
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
-                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
-                    </li>
-                    <li>
-                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
-                    </li>
-                    <li>
-                                                         
-                    </li>
-                </ol>                          
-            
 </div>
-        </div> 
+<div id="tipafriend">
+    <div id="tipafriendContent">
+        
+                <div>
+	
+                    <div id="TipAFriendForm">
+                        <fieldset>
+                            <legend><strong>
+                                Share this page with a friend 
+                            </strong></legend>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
+                                <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;">
+</textarea>
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="setTipClicked();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitTextBox" style="display: none;
+                                    width: 10px;" />
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                
+                            </div>
+                        </fieldset>
+                    </div>
+                
+</div>
+            
     </div>
-    <div id="ShareArticle">
-        <p><strong>Share</strong></p>
-        <ul class="communities">        
-            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/doc/consultation-papers.html?id=1762" target="_blank">Facebook</a></li>            
-            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/en/doc/consultation-papers.html?id=1762', 'Circular')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/en/doc/consultation-papers.html?id=1762&amp;description=Circular' target="_blank">Nettby</a></li>
-            <li><a class="share_myspace" href="#" onclick="return GetThis('Circular','','http://www.regjeringen.no/en/doc/consultation-papers.html?id=1762',3)">Myspace</a></li>
-            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
-        </ul>
-    </div>
-
-
+</div>
+<div id="ShareArticle">
+    <p>
+        <strong>
+            Share
+        </strong>
+    </p>
+    <ul class="communities">
+        <li><a class="share_facebook" onclick="return facebook_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/doc/consultation-papers.html?id=1762" target="_blank">
+            Facebook</a></li>
+        <li><a class="share_twitter" onclick="return twitter_click()" href="http://twitter.com/share?url=http://www.regjeringen.no/en/doc/consultation-papers.html?id=1762&amp;text=Circular" target="_blank">
+            Twitter</a></li>
+        <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">
+            Origo</a></li>
+    </ul>
+</div>
 
                                         
                                     </div>
-                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
-                                             
+                                    
     
     
 
+
     
-   <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_HitInfo"></span>
-    <p class="breadcrumbs">You are here: <a href="/en.html?id=4">Government.no</a> / <a href="/en/doc.html?id=439279">Documents</a> / <span>Circular</span>
-</p>
+    <span id="FullRegion_CenterAndRightRegion_CenterRegion_HitInfo"></span>
+    
+
+<div class="breadcrumbs ">
+
+    
+               <span>
+                   You are here: 
+               </span>
+                
+                <ul class="breadcrumbmenu">
+            
+                <li><a href="/en.html?id=4" title="Government.no">Government.no</a> / </li>
+            
+                <li><a href="/en/doc.html?id=439279" title="Documents">Documents</a> / </li>
+            
+                <li><span>Circular</span></li>
+            
+                </ul>
+            
+</div>
+    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
     <div class="documentTop">
-      <h1>Circular</h1>
-      
-      <p>Circular are information from the ministry to affected parties about interpretations of laws and regulations. This is an overview of&nbsp;Circulars from the Ministries.&nbsp; </p>
-<p>You can narow the focus of the overview by using the navigator in the right column.</p>      
-      <div style="clear:both"></div>
-      
+        <h1>
+            Circular</h1>
+        
+        <div>
+	<p>Circular are information from the ministry to affected parties about interpretations of laws and regulations. This is an overview of&nbsp;Circulars from the Ministries.&nbsp;</p>
+<p>You can narow the focus of the overview by using the navigator in the right column.</p>
+</div>
+        <div style="clear: both">
+        </div>
+        
+            <div class="documentLinks">
+                <input name="ctl00$FullRegion$CenterAndRightRegion$CenterRegion$emailAlert$htbUserid" type="hidden" id="FullRegion_CenterAndRightRegion_CenterRegion_emailAlert_htbUserid" />
+<input name="ctl00$FullRegion$CenterAndRightRegion$CenterRegion$emailAlert$htbPageId" type="hidden" id="FullRegion_CenterAndRightRegion_CenterRegion_emailAlert_htbPageId" />
+<input name="ctl00$FullRegion$CenterAndRightRegion$CenterRegion$emailAlert$htbRegistrationId" type="hidden" id="FullRegion_CenterAndRightRegion_CenterRegion_emailAlert_htbRegistrationId" />
+
+        <div class="linkItem">
+        <img id="FullRegion_CenterAndRightRegion_CenterRegion_emailAlert_emailIcon" class="feedIcon" alt="" src="/images/email-icon.gif" />
+        <span id="FullRegion_CenterAndRightRegion_CenterRegion_emailAlert_lblSubscriptionPrefix"></span>                
+        <a id="FullRegion_CenterAndRightRegion_CenterRegion_emailAlert_lnkSubscribe" title="Subscribe to e-mail alert: Circular (Government.no)" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$CenterRegion$emailAlert$lnkSubscribe&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"> Subscribe to e-mail alert</a>
+        <span id="FullRegion_CenterAndRightRegion_CenterRegion_emailAlert_lblSubscriptionSuffix"></span>    
+        </div>
+    
+<div id="FullRegion_CenterAndRightRegion_CenterRegion_RSSLinkRender1_divRSSItem" class="linkItem">
+<img class="feedIcon" src="/Images/rss.gif" alt="" /><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1762&amp;language=en-GB" type="application/rss+xml" title="Subscribe to RSS feed: Circular (Government.no)">Subscribe to RSS feed</a>
+</div>
+
+            </div>
+        
     </div>
-   
-    <div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_divPageContent">  
-         
+    <div id="FullRegion_CenterAndRightRegion_CenterRegion_divPageContent">
          
 
+
+        <div class="documentBody">
             
-       
-        <div class="documentBody">                  
-            
-        <div class="ArticleView"> 
-            
-            <div class="ArticleContent">
-                <h2>
-                    <a href="/en/dep/krd/documents/rundskriv/2000/Publication-number-H-2120-E.html?id=420670" title="">
-                        Publication number H-2120 E
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="">The main functions of county minicipalities and municipalities in Norway</h3>
-                <p class="ArticleInfo">[Ministry of Local Government and Regional Development, 07.11.2000]</p>
-                <p>The main functions of county municipalities and municipalities in Norway.</p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                                 
-           </div>
-        </div> 
-    
-        <hr class="seperator" />   
-    
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/md/documents-and-publications/Circulars/1999/T-599E-Accessibility-for-all.html?id=108439" title="">
-                        T-5/99E Accessibility for all
-                    </a>
+                    <a href="/en/dep/sd/documents/circular/2013/circular-concerning-cabotage-in-goods-tr.html?id=734389" title="">
+                        Circular concerning cabotage in goods transport by road – N-1/2013</a>
                 </h2>
                 <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Ministry of the Environment, 29.12.1999]</p>
-                
-                
-                
+                <p class="ArticleInfo">[Ministry of Transport and Communications, 27.08.2013]</p>
                 <p>
-                    
-                    
-                </p>
-                                 
-           </div>
-        </div> 
+                    This Circular concerns the interpretation of section 2a in the Regulation on International Transport of Passengers and Goods, and Cabotage, of 26 March 2003 No. 402, which entered into force on 1 July 2011. Section 2a regulates cabotage in transport of goods by road. </p>
+                
+                
+                
+                
+            </div>
+        </div>
     
-        <hr class="seperator" />   
+        <hr class="seperator" />
     
-        <div class="ArticleView"> 
+        <div class="ArticleView">
             
             <div class="ArticleContent">
                 <h2>
-                    <a href="/en/dep/md/documents-and-publications/Circulars/1993/National-Policy-Guidelines-for-coordinated-land-use-and-transport-planning.html?id=107851" title="">
-                        T-1049 National Policy Guidelines for coordinated land-use and transport planning
-                    </a>
+                    <a href="/en/dep/kmd/documents/rundskriv/2000/Publication-number-H-2120-E.html?id=420670" title="">
+                        Publication number H-2120 E</a>
+                </h2>
+                <h3 class="subDescription" style="">The main functions of county minicipalities and municipalities in Norway</h3>
+                <p class="ArticleInfo">[Ministry of Local Government and Modernisation, 07.11.2000]</p>
+                <p>
+                    The main functions of county municipalities and municipalities in Norway.</p>
+                
+                
+                
+                
+            </div>
+        </div>
+    
+        <hr class="seperator" />
+    
+        <div class="ArticleView">
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/en/dep/kld/documents-and-publications/Circulars/1999/T-599E-Accessibility-for-all.html?id=108439" title="">
+                        T-5/99E Accessibility for all</a>
+                </h2>
+                <h3 class="subDescription" style="display:none"></h3>
+                <p class="ArticleInfo">[Ministry of Climate and Environment, 29.12.1999]</p>
+                
+                
+                
+                
+                
+            </div>
+        </div>
+    
+        <hr class="seperator" />
+    
+        <div class="ArticleView">
+            
+            <div class="ArticleContent">
+                <h2>
+                    <a href="/en/dep/kld/documents-and-publications/Circulars/1993/National-Policy-Guidelines-for-coordinated-land-use-and-transport-planning.html?id=107851" title="">
+                        T-1049 National Policy Guidelines for coordinated land-use and transport planning</a>
                 </h2>
                 <h3 class="subDescription" style="">Laid down by Royal Decree of 20 August 1993 pursuant to the Planning and Building Act of 14 June 1985, § 17- 1, first paragraph</h3>
-                <p class="ArticleInfo">[Ministry of the Environment, 20.08.1993]</p>
+                <p class="ArticleInfo">[Ministry of Climate and Environment, 20.08.1993]</p>
                 
                 
                 
-                <p>
-                    
-                    
-                </p>
-                                 
-           </div>
-        </div> 
+                
+                
+            </div>
+        </div>
     
-        <hr class="seperator" />   
+        <hr class="seperator" />
     
-        <div class="ArticleView"> 
-            
-            <div class="ArticleContent">
-                <h2>
-                    <a href="/en/dep/md/documents-and-publications/Circulars/1993/National-Policy-Guidelines-for-planning-.html?id=107847" title="">
-                        T-1048 National Policy Guidelines for planning in coastal and marine areas in the Oslofjord region
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="">Supplementary comments on the National Policy Guidelines for planning in coastal and marine areas in the Oslofjord region</h3>
-                <p class="ArticleInfo">[Ministry of the Environment, 23.07.1993]</p>
-                
-                
-                
-                <p>
-                    
-                    
-                </p>
-                                 
-           </div>
-        </div> 
-    
-        <hr class="seperator" />   
-    
- 
-           
-        </div>  
-       
+
+        </div>
          
 
-    
-         
-    </div>  
-	<div class="printContact">
-		
-	</div>
 
-                                </div>
-                                <div id="AreaRight"> 
+    </div>
+    <div class="printContact">
+        
+    </div>
+
                                     
                                         
-                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfileNoShow"><a href='/en.html?id=4'></a></div>
+                                    
+
+                                    
+
+                                </div>
+                                <div id="AreaRight">
+                                    
+                                        
+                                            
                                         
                                         
     
@@ -483,11 +589,15 @@ function GetThis(T, C, U, L)
             
             
                     <li class="normallink0">
-                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=dcownername,S,504,S,Dokumenteier,S,504&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!Konfigurert+S%c3%b8k,,%2bshowforlanguages,en,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=50&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">Ministry of Local Government and Regional Development (1)</a>
+                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=dcownername,S,668,S,Dokumenteier,S,668&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!KonfigurertSok,,%2bgeneric3,!a1762b,,%2bshowforlanguageslist,en,,%3c%3edcdate,min,2014-09-19T04:40:44Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside,,%2bformat,!pdf&amp;hits=10&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">Ministry of Climate and Environment (2)</a>
 				   </li>
 				
                     <li class="normallink0">
-                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=dcownername,S,668,S,Dokumenteier,S,668&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!Konfigurert+S%c3%b8k,,%2bshowforlanguages,en,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=50&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">Ministry of the Environment (3)</a>
+                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=dcownername,S,504,S,Dokumenteier,S,504&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!KonfigurertSok,,%2bgeneric3,!a1762b,,%2bshowforlanguageslist,en,,%3c%3edcdate,min,2014-09-19T04:40:44Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside,,%2bformat,!pdf&amp;hits=10&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">Ministry of Local Government and Modernisation (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=dcownername,S,791,S,Dokumenteier,S,791&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!KonfigurertSok,,%2bgeneric3,!a1762b,,%2bshowforlanguageslist,en,,%3c%3edcdate,min,2014-09-19T04:40:44Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside,,%2bformat,!pdf&amp;hits=10&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">Ministry of Transport and Communications (1)</a>
 				   </li>
 				
         </ul></div></div>
@@ -510,23 +620,27 @@ function GetThis(T, C, U, L)
             
             
                     <li class="normallink0">
-                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=docdatetime,S,%5b2010-09-28;%5d,S,Timestamp,S,Siste++uke&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!Konfigurert+S%c3%b8k,,%2bshowforlanguages,en&amp;hits=50&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">Last week (0)</a>
+                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=docdatetime,S,%5b2014-09-13;%5d,S,Timestamp,S,Siste++uke&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!KonfigurertSok,,%2bgeneric3,!a1762b,,%2bshowforlanguageslist,en,,%3c%3edcdate,min,2014-09-19T04:40:44Z&amp;hits=10&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">Last week (0)</a>
 				   </li>
 				
                     <li class="normallink0">
-                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=docdatetime,S,%5b2010-09-05;%5d,S,Timestamp,S,Siste++30+dager&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!Konfigurert+S%c3%b8k,,%2bshowforlanguages,en&amp;hits=50&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">Last month (0)</a>
+                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=docdatetime,S,%5b2014-08-19;%5d,S,Timestamp,S,Siste++30+dager&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!KonfigurertSok,,%2bgeneric3,!a1762b,,%2bshowforlanguageslist,en,,%3c%3edcdate,min,2014-09-19T04:40:44Z&amp;hits=10&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">Last month (0)</a>
 				   </li>
 				
                     <li class="normallink0">
-                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2000,S,Date+Taxonomy,S,2000&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!Konfigurert+S%c3%b8k,,%2bshowforlanguages,en,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=50&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">2000 (1)</a>
+                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2013,S,Date+Taxonomy,S,2013&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!KonfigurertSok,,%2bgeneric3,!a1762b,,%2bshowforlanguageslist,en,,%3c%3edcdate,min,2014-09-19T04:40:44Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside,,%2bformat,!pdf&amp;hits=10&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">2013 (1)</a>
 				   </li>
 				
                     <li class="normallink0">
-                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1999,S,Date+Taxonomy,S,1999&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!Konfigurert+S%c3%b8k,,%2bshowforlanguages,en,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=50&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">1999 (1)</a>
+                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e2000,S,Date+Taxonomy,S,2000&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!KonfigurertSok,,%2bgeneric3,!a1762b,,%2bshowforlanguageslist,en,,%3c%3edcdate,min,2014-09-19T04:40:44Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside,,%2bformat,!pdf&amp;hits=10&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">2000 (1)</a>
 				   </li>
 				
                     <li class="normallink0">
-                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1993,S,Date+Taxonomy,S,1993&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!Konfigurert+S%c3%b8k,,%2bshowforlanguages,en,,%2bdctypestatus,gyldig,,%2bdctypename,!underside&amp;hits=50&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">1993 (2)</a>
+                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1999,S,Date+Taxonomy,S,1999&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!KonfigurertSok,,%2bgeneric3,!a1762b,,%2bshowforlanguageslist,en,,%3c%3edcdate,min,2014-09-19T04:40:44Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside,,%2bformat,!pdf&amp;hits=10&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">1999 (1)</a>
+				   </li>
+				
+                    <li class="normallink0">
+                        <a class="ISI_MENU" href="/en/doc/consultation-papers.html?querystring=&amp;navigators=dcdocmonthyeartaxonomy,S,%5e1993,S,Date+Taxonomy,S,1993&amp;offset=0&amp;sortby=dcdate&amp;filters=%2bdctypename,Rundskriv,!KonfigurertSok,,%2bgeneric3,!a1762b,,%2bshowforlanguageslist,en,,%3c%3edcdate,min,2014-09-19T04:40:44Z,,%2bdctypestatus,gyldig,,%2bdctypename,!underside,,%2bformat,!pdf&amp;hits=10&amp;searchview=governmentensppublished&amp;solution=cust&amp;lang=en&amp;shownavigators=dcownernamenavigator,dcdocmonthyeartaxonomynavigator&amp;id=1762">1993 (1)</a>
 				   </li>
 				
         </ul></div></div>
@@ -538,138 +652,172 @@ function GetThis(T, C, U, L)
 
                                         
                                         
-    
-
-     
-     
-    
-    
-     
-        
                                         
-                                                                        
-                                        
-     
+                                            
 
-                                                                                                   
-                                </div>
-                            
-                        </div>
-                        <div id="AreaLeft">
-                              
-                                <div id="AreaLeftNav" class="NavListV">
+
+
+
+
+
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                            
+                                        
+                                        
                                     
-
-
-<a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
-
-    <ul>
-        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en.html?id=4">
-            Portal home</a></li></ul>
-
-<ul><li class="">
-        <a class="ISI_MENU" href="/en/whatsnew.html?id=1150" title=''>
-            Whats new</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/topics.html?id=208" title=''>
-            Topics</a>
-    </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/doc.html?id=439279" title=''>
-            Documents</a>
-    <ul><li class="">
-        <a class="ISI_MENU" href="/en/doc/Laws.html?id=438754" title=''>
-            Acts and regulations</a>
-    </li><li class="Selected">
-        <a class="Selected ISI_MENU" href="/en/doc/consultation-papers.html?id=1762" title=''>
-            Circular</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/doc/norwegian-official-reports.html?id=1767" title=''>
-            Official Norwegian Reports</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/doc/Reports-and-plans.html?id=438817" title=''>
-            Reports and plans</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/doc/Guidelines-and-brochures.html?id=438822" title=''>
-            Guidelines and brochures</a>
-    </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/webcast.html?id=437495" title=''>
-            Webcast</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/the-government.html?id=443314" title=''>
-            The Government</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/archive.html?id=115322" title=''>
-            Document Archive</a>
-    </li></ul>
-
                                 </div>
-                              
                             
                         </div>
+                    
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
                     
                     <!-- ISI_STOP -->
                 </div>
-                </div>
             </div>
         </div>
-        
-         
-<div id="PageFooter"><p>Government Administration Services, Einar Gerhardsens plass 3, Postbox 8129 Dep, 0032 OSLO, Norway&nbsp;<br />Tlf: + 47 22 24 90 90 | E-mail: <img id='Eoi_1' class='obfimg' src='/images/emailimages/cc8068e7cd4930f223ca4cb5bf0fccf1.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', '427C236D7E7C362C2D246D7E2D2C6C3227266C313126022C272C2D283129232627307C60727A7272727A61607F302D2E2D2162362C2D247E7C602D2C6C3227266C313126022C272C2D28312923262730782D362E2B232F607F2427302A62237E'));//--></script>&nbsp;</p></div>
-        
-        
-                    
-        
-    </form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
-	
-} else
-{    
-    //setAreaHeights();
-}
+    </div>
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
+        
+<div id="PageFooter"><p>Government Administration Services, Postbox 8129 Dep, 0032 OSLO, Norway&nbsp;<br />Tlf: + 47 22 24 90 90 | E-mail: <img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/7e9be61f8efe803a769b5c63116adc10.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, 'E1DF80CEDDDF8F809192CEDD8E8FCF918485CF929285A18F848F8E8B928A80858493DFC3DAD1D9D1D1D1D9C2C1DB938E8D8E82C3DC848D989592C18F809192DDDFC38E8FCF918485CF929285A18F848F8E8B928A80858493DB8E958D88808CC3DC87849389C180DD'));//--></script>&nbsp;</p></div>
+<div title="web01" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web01" /></div>
+    
+    
+    
+        
 
-<div id="ctl00_externalPageTrackers">
+
+    
+    </form>
+    <div id="externalPageTrackers">
 	
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
+    
+</div>       
+    
+    
 
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<div>
+    
 <script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no uses cookies to improve our service to the users. The cookies are mainly used for traffic measuring and for optimizing the site. Find more information on ",
+            messagepart2: ", or go back to regjeringen.no if you accept this.",
+            readMoreUrl: "http://www.regjeringen.no/en/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "use of cookies",
+            closeText: "Close"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
 //--></script>
-<!-- END Xtractor client tracker script -->
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
 
 </div>
+
+
+    
+
 </body>
 </html>

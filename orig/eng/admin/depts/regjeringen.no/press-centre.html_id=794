@@ -1,34 +1,36 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
+    <!-- ISI_NOAUTOLANG -->
+    <title>
 	Press centre - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="Press centre" />
-<meta name="DCSext.regj.pagetype" content="Konfigurert Søk" />
-<meta name="DCSext.regj.pageid" content="794" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
+<meta name="WT.ti" content="Press centre" />
+<meta name="DCSext.regj.pagetype" content="KonfigurertSok" />
 <meta name="DCSext.regj.owner" content="sd" />
 <meta name="DCSext.regj.language" content="en-GB" />
+<meta name="DCSext.regj_lv2" content="dep" />
+<meta name="DCSext.regj_lv3" content="sd" />
+<meta name="DCSext.regj_lv4" content="press-centre" />
+<meta name="DCSext.regj_g-page" content="794-g-page" />
 <meta name="TITLE" content="Press centre" />
 <meta name="description" content="Welcome to the press centre of the Ministry of Transport and Communications.
-For all press queries, please contact us&amp;amp;nbsp;(Monday - Friday 08:00-16:00) by phone (+) 47 919 14 777, or e-mail: sdinfoatsd.dep.no.
-&amp;amp;nbsp;" />
+For all press queries, please contact us&amp;nbsp;(Monday - Friday 08:00-16:00) by phone (+) 47 919 14 777, or e-mail: sdinfoatsd.dep.no." />
 <meta name="DC.Title" content="Press centre" />
 <meta name="DC.Creator" content="Ministry of Transport and Communications" />
 <meta name="DC.Description" content="Welcome to the press centre of the Ministry of Transport and Communications.
-For all press queries, please contact us&amp;amp;nbsp;(Monday - Friday 08:00-16:00) by phone (+) 47 919 14 777, or e-mail: sdinfoatsd.dep.no.
-&amp;amp;nbsp;" />
+For all press queries, please contact us&amp;nbsp;(Monday - Friday 08:00-16:00) by phone (+) 47 919 14 777, or e-mail: sdinfoatsd.dep.no." />
 <meta name="DC.Date" content="2007-02-08" />
 <meta name="DC.Date.Available" content="2007-02-08" />
 <meta name="DC.Type.Status" content="Gyldig" />
-<meta name="DC.Type" content="Konfigurert Søk" />
+<meta name="DC.Type" content="KonfigurertSok" />
 <meta name="DC.Format" content="text/html" />
 <meta name="DC.Identifier.URL" content="/en/dep/sd/press-centre.html?id=794" />
 <meta name="DC.Language" content="en-GB" />
 <meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DCSext.regj.lang-pref" content="en-GB" />
 <meta name="DC.Publisher" content="regjeringen.no" />
 <meta name="AUTHOR" content="Ministry of Transport and Communications" />
 <meta name="creation_date" content="Thu, 08 Feb 2007 22:26:00 GMT" />
@@ -38,82 +40,96 @@ For all press queries, please contact us&amp;amp;nbsp;(Monday - Friday 08:00-16:
 <meta http-equiv="Content-Language" content="en" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
-
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/sd.css" media="all" /> 
-
-
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
-
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
 
 
 
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+    <!-- default styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/default_styles_combined_45D29949909B2B10854E130AC37BCE3C.css" />
+    <!--[if lt IE 6]
+        <link rel="stylesheet" type="text/css" href="/styles/ie55.css?v=2.1.11776" media="screen">
+
+    <![endif]-->
+
+
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/3Col_AF432B5349630A9B3C4A0BDD3743237C.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+<link rel="stylesheet" type="text/css" media="all" href="/styles/Profiles/sd_976535C23ED3EE2FC707E6460CEB9CAC.css" />
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
+
+
+
+
+<link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web04.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=794" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web04.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=794" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en/dep/sd/press-centre.html?id=794" id="aspnetForm" enctype="multipart/form-data">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJLTU3MDM0MzI3D2QWAmYPZBYIZg8VAgJlbgJlbmQCARBkZBYCAgIPZBYGZg8WAh4EVGV4dAWrDzxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VuYW1lIiBjb250ZW50PSJQcmVzcyBjZW50cmUiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdldHlwZSIgY29udGVudD0iS29uZmlndXJlcnQgUyYjMjQ4O2siIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlaWQiIGNvbnRlbnQ9Ijc5NCIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VzdGF0dXMiIGNvbnRlbnQ9Ikd5bGRpZyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLm93bmVyIiBjb250ZW50PSJzZCIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLmxhbmd1YWdlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IlRJVExFIiBjb250ZW50PSJQcmVzcyBjZW50cmUiIC8+DQo8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iV2VsY29tZSB0byB0aGUgcHJlc3MgY2VudHJlIG9mIHRoZSBNaW5pc3RyeSBvZiBUcmFuc3BvcnQgYW5kIENvbW11bmljYXRpb25zLg0KRm9yIGFsbCBwcmVzcyBxdWVyaWVzLCBwbGVhc2UgY29udGFjdCB1cyZhbXA7YW1wO25ic3A7KE1vbmRheSAtIEZyaWRheSAwODowMC0xNjowMCkgYnkgcGhvbmUgKCspIDQ3IDkxOSAxNCA3NzcsIG9yIGUtbWFpbDogc2RpbmZvYXRzZC5kZXAubm8uDQomYW1wO2FtcDtuYnNwOyIgLz4NCjxtZXRhIG5hbWU9IkRDLlRpdGxlIiBjb250ZW50PSJQcmVzcyBjZW50cmUiIC8+DQo8bWV0YSBuYW1lPSJEQy5DcmVhdG9yIiBjb250ZW50PSJNaW5pc3RyeSBvZiBUcmFuc3BvcnQgYW5kIENvbW11bmljYXRpb25zIiAvPg0KPG1ldGEgbmFtZT0iREMuRGVzY3JpcHRpb24iIGNvbnRlbnQ9IldlbGNvbWUgdG8gdGhlIHByZXNzIGNlbnRyZSBvZiB0aGUgTWluaXN0cnkgb2YgVHJhbnNwb3J0IGFuZCBDb21tdW5pY2F0aW9ucy4NCkZvciBhbGwgcHJlc3MgcXVlcmllcywgcGxlYXNlIGNvbnRhY3QgdXMmYW1wO2FtcDtuYnNwOyhNb25kYXkgLSBGcmlkYXkgMDg6MDAtMTY6MDApIGJ5IHBob25lICgrKSA0NyA5MTkgMTQgNzc3LCBvciBlLW1haWw6IHNkaW5mb2F0c2QuZGVwLm5vLg0KJmFtcDthbXA7bmJzcDsiIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlIiBjb250ZW50PSIyMDA3LTAyLTA4IiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZS5BdmFpbGFibGUiIGNvbnRlbnQ9IjIwMDctMDItMDgiIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlLlN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZSIgY29udGVudD0iS29uZmlndXJlcnQgUyYjMjQ4O2siIC8+DQo8bWV0YSBuYW1lPSJEQy5Gb3JtYXQiIGNvbnRlbnQ9InRleHQvaHRtbCIgLz4NCjxtZXRhIG5hbWU9IkRDLklkZW50aWZpZXIuVVJMIiBjb250ZW50PSIvZW4vZGVwL3NkL3ByZXNzLWNlbnRyZS5odG1sP2lkPTc5NCIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlLlByZWZlcmVuY2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iREMuUHVibGlzaGVyIiBjb250ZW50PSJyZWdqZXJpbmdlbi5ubyIgLz4NCjxtZXRhIG5hbWU9IkFVVEhPUiIgY29udGVudD0iTWluaXN0cnkgb2YgVHJhbnNwb3J0IGFuZCBDb21tdW5pY2F0aW9ucyIgLz4NCjxtZXRhIG5hbWU9ImNyZWF0aW9uX2RhdGUiIGNvbnRlbnQ9IlRodSwgMDggRmViIDIwMDcgMjI6MjY6MDAgR01UIiAvPg0KPG1ldGEgbmFtZT0iTEFTVC1NT0RJRklFRCIgY29udGVudD0iVGh1LCAwOCBGZWIgMjAwNyAyMjoyODo0NCBHTVQiIC8+DQo8bWV0YSBuYW1lPSJSRVZJU0VEIiBjb250ZW50PSJUaHUsIDA4IEZlYiAyMDA3IDIyOjI4OjQ0IEdNVCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1MYW5ndWFnZSIgY29udGVudD0iZW4iIC8+DQpkAgEPFgIeB1Zpc2libGVoZAICDxYCHgtfIUl0ZW1Db3VudGZkAgMQZGQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILD2QWAmYPFQFpI2N0bDAwX0Z1bGxSZWdpb25fQ2VudGVyQW5kUmlnaHRSZWdpb25fUmlnaHRSZWdpb25fUmlnaHRSZWdpb25Db250YWN0SW5mb19SZWxhdGVkQ29udGFjdDFfQXJlYUNvbnRhY3RJbmZvZAIND2QWAmYPZBYCZg9kFgICAQ9kFghmDw8WBh4HVG9vbFRpcAUuS2xpa2sgaGVyIGZvciDDpSB2aXNlIGRlbm5lIHNpZGVuIHDDpSBib2ttw6VsLh8ABQdCb2ttw6VsHgtOYXZpZ2F0ZVVybAU0L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTc5NCZlcHNsYW5ndWFnZT1ub2RkAgEPDxYGHwMFLUtsaWtrIGhlciBmb3Igw6UgdmlzZSBkZW5uZSBzaWRhIHDDpSBueW5vcnNrLh8ABQdOeW5vcnNrHwQFNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD03OTQmZXBzbGFuZ3VhZ2U9bm4tTk9kZAICDw8WBh8DBVhEw6F0IHNpaWR1IGlpIGfDoXZkbm8gc8OhbWVnaWxsaWkuIENvYWhra2FsIGTDoWtrbyBkZSBvYWlubsOhdCBzw6FtZWdpbGxpaSByw6FtbWHEjW9haGtpHwAFC1PDoW1lZ2llbGxhHwQFNC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD03OTQmZXBzbGFuZ3VhZ2U9c2VkZAIDDw8WBh8DBSJUaGlzIHBhZ2UgaXMgZGlzcGxheWVkIGluIGVuZ2xpc2guHwAFB0VuZ2xpc2gfBAU3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTc5NCZlcHNsYW5ndWFnZT1lbi1HQmRkAgIPFQEBIGQCAw9kFgxmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCAQ8VAQtQb3J0YWwgaG9tZWQCAg9kFgRmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCAg8VAzovdGVtcGxhdGVzL0dlbmVyZWxsRm9yc2lkZS5hc3B4P2lkPTg1ODQzJmVwc2xhbmd1YWdlPWVuLUdCHFN0b2x0ZW5iZXJnJ3MgMm5kIEdvdmVybm1lbnQyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD05MzMmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgMPFQE0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTc5MSZlcHNsYW5ndWFnZT1lbi1HQmQCBA8VAShNaW5pc3RyeSBvZiBUcmFuc3BvcnQgYW5kIENvbW11bmljYXRpb25zZAIGD2QWEmYPZBYEZg9kFgJmD2QWBAICDxUENFNlYXJjaCB0aGUgTWluaXN0cnkgb2YgVHJhbnNwb3J0IGFuZCBDb21tdW5pY2F0aW9ucyAGU2VhcmNoEVF1aWNrU2VhcmNoQnV0dG9uBlNlYXJjaGQCAw8PFgIfAAUbU2VhcmNoIGFsbCBvZiBnb3Zlcm5tZW50Lm5vZGQCAQ8PFgIeC19pc0VkaXRhYmxlaGRkAgEPFQEeL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3RpcHMuZ2lmZAIFDxUBIS9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9wcmludF90LmdpZmQCCA8VAyMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvc21hbGxUZXh0LmdpZiQvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbWVkaXVtVGV4dC5naWYjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL2xhcmdlVGV4dC5naWZkAgkPZBYCZg8VAnlodHRwOi8vaXNpLnBob25ldGljb20uY29tL2NnaS1iaW4vcnN4dD91cmw9aHR0cDovL3d3dy5yZWdqZXJpbmdlbi5uby9lbi9kZXAvc2QvcHJlc3MtY2VudHJlLmh0bWw/aWQ9Nzk0JmFtcDtjdXN0b21lcmlkPTE5Hy9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9seWRfdC5naWZkAgoPZBYCAgEPDxYEHwQFNi90ZW1wbGF0ZXMvVGVtYUluZGVrcy5hc3B4P2lkPTIyMzQ4NiZlcHNsYW5ndWFnZT1lbi1HQh8ABQpUb3BpY3MgQS1aZGQCCw9kFgICAQ8PFgQfBAU5L3RlbXBsYXRlcy9OZXR0c3RlZHNrYXJ0LmFzcHg/aWQ9MzEzODcxJmVwc2xhbmd1YWdlPWVuLUdCHwAFCFNpdGUgTWFwZGQCDA8PFgQfBAU1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00ODg2NDEmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUESGVscGRkAg0PDxYEHwQFPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD03OTkmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUHQ29udGFjdGRkAgQPZBYEAgEPZBYGAgEPZBYCAgEPZBYEZg8PFgIfAWhkZAIBD2QWEAIDDw8WAh8ABR1SZWNpcGllbnTigJlzIGUtbWFpbCBhZGRyZXNzOmRkAgcPDxYCHgxFcnJvck1lc3NhZ2UFJVlvdSBtdXN0IGdpdmUgYSB2YWxpZCBlLW1haWwgYWRkcmVzcy5kZAIJDw8WAh8GBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCCw8PFgIfAAUUWW91ciBlLW1haWwgYWRkcmVzczpkZAIPDw8WAh8GBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCEQ8PFgIfBgUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAhMPDxYCHwAFCE1lc3NhZ2U6ZGQCFw8PFgIfAAUJU2VuZCBtYWlsZGQCAw9kFhACAQ8WAh8BaGQCAw9kFgJmDxYCHwAFzgFZb3UgYXJlIGhlcmU6IDxhIGhyZWY9Ii9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQiI+R292ZXJubWVudC5ubzwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NzkxJmVwc2xhbmd1YWdlPWVuLUdCIj5NaW5pc3RyeSBvZiBUcmFuc3BvcnQgYW5kIEMuLi48L2E+IC8gPHNwYW4+UHJlc3MgY2VudHJlPC9zcGFuPmQCBA8VAQxQcmVzcyBjZW50cmVkAgUPFgIfAWgWAmYPFQEAZAIGDxUBlQI8cD5XZWxjb21lIHRvIHRoZSBwcmVzcyBjZW50cmUgb2YgdGhlIE1pbmlzdHJ5IG9mIFRyYW5zcG9ydCBhbmQgQ29tbXVuaWNhdGlvbnMuPC9wPg0KPHA+Rm9yIGFsbCBwcmVzcyBxdWVyaWVzLCBwbGVhc2UgY29udGFjdCB1cyZuYnNwOyhNb25kYXkgLSBGcmlkYXkgMDg6MDAtMTY6MDApIGJ5IHBob25lICgrKSA0NyA5MTkgMTQgNzc3LCBvciBlLW1haWw6IDxhIGhyZWY9Im1haWx0bzpzZGluZm9Ac2QuZGVwLm5vIj5zZGluZm9Ac2QuZGVwLm5vPC9hPi48L3A+DQo8cD4mbmJzcDs8L3A+ZAIHD2QWAgIGD2QWCgIBD2QWBAIDDw8WAh8AZWRkAgcPDxYCHwBlZGQCAw9kFgICAQ9kFgoCEQ8PFgIfBgVDDQogICAgICAgICAgICAgICAgICAgICAgICBFLW1haWwgaXMgbWFuZGF0b3J5DQogICAgICAgICAgICAgICAgICAgIGRkAhMPDxYCHwYFRQ0KICAgICAgICAgICAgICAgICAgICAgICAgSW52YWxpZCBlLW1haWwgZm9ybWF0DQogICAgICAgICAgICAgICAgICAgIGRkAhUPZBYCAgMPEA8WAh4LXyFEYXRhQm91bmRnZGQWAGQCFw8PFgIfAAUIQ29udGludWVkZAIZDw8WAh8ABQZDYW5jZWxkZAIED2QWAgIDDw8WAh8ABQhDb250aW51ZWRkAgUPZBYEAgcPDxYCHwAFE0NhbmNlbCBzdWJzY3JpcHRpb25kZAIJDw8WAh8ABRVDb250aW51ZSBzdWJzY3JpcHRpb25kZAIGD2QWAgIDDw8WAh8ABQhDb250aW51ZWRkAggPDxYCHwFoZBYEZg8WAh8BaGQCAg8WAh8BaGQCCQ9kFgICAw9kFgJmDxYCHgpfc29ydE9yZGVyCylzRVBpU2VydmVyLkZpbHRlcnMuRmlsdGVyU29ydE9yZGVyLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwAWCmYPZBYEAgEPDxYGHwVoHg5fYm91bmRQYWdlTGluawKP9yEeCV9sYXN0VHlwZQUHRGVmYXVsdGQWAmYPZBYCZg8WAh4IZGlzYWJsZWRkZAIDDxYCHgVjbGFzcwUHY29udGVudBYKZg8VCgEyQC90ZW1wbGF0ZXMvUGVyc29uQWRtaW5pc3RyYXNqb24uYXNweD9pZD01NTU5MTkmZXBzbGFuZ3VhZ2U9ZW4tR0IAIkRpcmVjdG9yIEdlbmVyYWwgQW5uZSBNYXJpZSBTdG9ybGkBMgEzDGRpc3BsYXk6bm9uZQ1QcmVzcyBjb250YWN0ATMAZAIBDxYCHwFoFgICAQ8PFgYfBWgfCQKP9yEfCgUHRGVmYXVsdGRkAgMPFgQeCV9wYWdlTGluaygpbkVQaVNlcnZlci5Db3JlLlBhZ2VSZWZlcmVuY2UsIEVQaVNlcnZlciwgVmVyc2lvbj01LjIuMzc1LjIzNiwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3BjU1NTkxOR4LX3BhZ2VUeXBlSUQCNGQCBQ8WBB4EaHJlZgVAL3RlbXBsYXRlcy9QZXJzb25BZG1pbmlzdHJhc2pvbi5hc3B4P2lkPTU1NTkxOSZlcHNsYW5ndWFnZT1lbi1HQh8BaGQCBw8WAh4Hc3VtbWFyeQUWVGFibGUgb2YgcGVyc29uYWwgZGF0YRYIZg9kFgICAQ9kFgRmDxUBIm1haWx0bzpBbm5lLU1hcmllLlN0b3JsaUBzZC5kZXAubm9kAgEPDxYGHwVoHwkCj/chHwoFB0RlZmF1bHRkZAIBD2QWAgIBD2QWAmYPFQFEPGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0ODMyMiI+KyA0NyAyMiAyNCA4MyAyMjwvYT5kAgIPZBYCAgEPZBYCZg8VAUM8YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0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dGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9Mjc2Njc3JmVwc2xhbmd1YWdlPWVuLUdCAAlEb2N1bWVudHNkAg8PZBYCZg8VAQBkAhAPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9Nzk2JmVwc2xhbmd1YWdlPWVuLUdCABJBYm91dCB0aGUgbWluaXN0cnlkAgUPZBYCAgEPZBYCZg8VAbkDPHAgYWxpZ249ImNlbnRlciI+TWluaXN0cnkgb2YgVHJhbnNwb3J0IGFuZCBDb21tdW5pY2F0aW9ucywgQWtlcnNnYXRhIDU5IChSNSksIFBPIEJveCA4MDEwIERlcCwgMDAzMCBPc2xvLCBOb3J3YXkmbmJzcDs8YnIgLz5UZWxlcGhvbmUgKzQ3Jm5ic3A7MjIgMjQgOTAgOTAsJm5ic3A7ZmF4ICs0NyZuYnNwOzIyIDI0Jm5ic3A7OTUgNzEuIEUtbWFpbDogPGEgdGl0bGU9IkUtcG9zdCB0aWwgU0QiIGhyZWY9Im1haWx0bzpwb3N0bW90dGFrQHNkLmRlcC5ubyI+PGZvbnQgY29sb3I9IiMwMDMxNzMiPnBvc3Rtb3R0YWtAc2QuZGVwLm5vPC9mb250PjwvYT48YnIgLz5XZWIgRWRpdG9yOiZuYnNwOzxhIHRpdGxlPSJUb3IgTWlkdGLDuCIgaHJlZj0ibWFpbHRvOnRvci5taWR0Ym9Ac2QuZGVwLm5vIj5Ub3IgTWlkdGLDuDwvYT4sIEVkaXRvcjogQW5uZSBNYXJpZSBTdG9ybGk8L3A+ZAIFD2QWAmYPFQEYL3NjcmlwdC9qcy9zZGNfMDkwODE5LmpzZBgQBZIBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSRIb3JpbmdzTm90YXQkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRkBUdjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRlbWFpbEFsZXJ0JG11bHRpVmlldw8PZGZkBZEBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSRIb3JpbmdzRmx5dCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBZkBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSRSZWxhdGVkTG92Rm9yc2tyaWZ0JFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFYGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGxpc3RpbmdVbml2ZXJzYWwkbHN0VW5pdmVyc2FsJGN0bDAxJFBhZ2VMaXN0MQ8PZmRkBWBjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0aW5nVW5pdmVyc2FsJGxzdFVuaXZlcnNhbCRjdGwwNCRQYWdlTGlzdDEPD2ZkZAWbAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JHV4Vmlld3MPD2RmZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkTXVsdGlQYWdlTGlzdA8PZmRkBWJjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kUmVsYXRlZENvbnRhY3QxJFBhZ2VMaXN0MQ8PZmRkBWBjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0aW5nVW5pdmVyc2FsJGxzdFVuaXZlcnNhbCRjdGwwMyRQYWdlTGlzdDEPD2ZkZAVgY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbCRsc3RVbml2ZXJzYWwkY3RsMDIkUGFnZUxpc3QxDw9mZGQFYGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGxpc3RpbmdVbml2ZXJzYWwkbHN0VW5pdmVyc2FsJGN0bDAwJFBhZ2VMaXN0MQ8PZmRkBVBjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0aW5nVW5pdmVyc2FsJGxzdFVuaXZlcnNhbA8PZmRkBZsBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSREb2N1bWVudFJlbGF0aW9uc2hpcDIkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZIlhaAGDBv8+8EC6FIerms80uIE3" />
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/en/dep/sd/press-centre.html?id=794" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0Nzg4MjE3NDRkGBUFXGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGxpc3RpbmdVbml2ZXJzYWwkbHN0VW5pdmVyc2FsJGN0bDAwJGN0bDA0Dw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJHV4Vmlld3MPD2RmZAVcY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbCRsc3RVbml2ZXJzYWwkY3RsMDEkY3RsMDQPD2ZkZAVQY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbCRsc3RVbml2ZXJzYWwPD2ZkZAVcY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbCRsc3RVbml2ZXJzYWwkY3RsMDYkY3RsMDQPD2ZkZAVHY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kZW1haWxBbGVydCRtdWx0aVZpZXcPD2RmZAWBAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkRG9jdW1lbnRSZWxhdGlvbnNoaXAyJFJlbGF0aW9uc09uZUhvcFBhZ2VMaXN0MQ8PZmRkBYABY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRBc3NvY2lhdGVkRXh0ZXJuYWxPcmckUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRkBR1jdGwwMCRSZXF1aXJlZFJlc291cmNlc0hlYWRlcg8FBkhlYWRlcmQFXGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGxpc3RpbmdVbml2ZXJzYWwkbHN0VW5pdmVyc2FsJGN0bDAzJGN0bDA0Dw9mZGQFdWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkSG9lcmluZ0ZvciRSZWxhdGlvbk9uZUhvcFBhZ2VMaXN0MQ8PZmRkBVxjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0aW5nVW5pdmVyc2FsJGxzdFVuaXZlcnNhbCRjdGwwNyRjdGwwNA8PZmRkBXhjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJEhvZXJpbmdzTm90YXQkUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAVcY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbCRsc3RVbml2ZXJzYWwkY3RsMDQkY3RsMDQPD2ZkZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDEkTXVsdGlQYWdlTGlzdA8PZmRkBU9jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFRpcEFGcmllbmRQbGFjZWhvbGRlciRUaXBBRnJpZW5kJFRpcFZpZXdzDw9kAgFkBX5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJFJlbGF0ZWRMb3ZGb3Jza3JpZnQkUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAViY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAVcY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbCRsc3RVbml2ZXJzYWwkY3RsMDUkY3RsMDQPD2ZkZAVcY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbCRsc3RVbml2ZXJzYWwkY3RsMDIkY3RsMDQPD2ZkZIoKuwBvSbpjkM/xHodZeqrYCVmE" />
 </div>
 
+
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAt3mY9W6yFExAQnak+8X8yHrya5utHaP3uHQRI8Uid46QTFRMbyqbI0sloRc3Uw10HWXWl/SJpEFyAqi99OHjtE9II++VEPX1O6J4griigfdC7aBgEb6tB38M3Q+QtcT5dc3Ehi7iZ59S7JzT6xst29Aj7CbHcl1x8vt8oSwlXRySiLx6Vift7AjD82jC21I5JUNVD7G1a7CdQ7vs8UEsAuv7aCuszBTAnwjS9NKYNzciMIFL/DiEGgJsY42zqY9Fy/SON8" />
+</div>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Go to contact information</a></li>
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">Go to search</a><a href="#Content" tabindex="3">Go to content</a><a href="#AreaTopSiteNav" tabindex="4">Go to top menu</a><a href="#AreaLeft" tabindex="5">Go to left menu</a>
+    <a href="#FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo" tabindex="6">Go to contact information</a>
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/sd/pressesenter.html?id=794">Bokmål</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/dep/sd/pressesenter.html?id=794">Nynorsk</a></li>
-        <li class=""><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Dát siidu ii gávdno sámegillii. Coahkkal dákko de oainnát sámegillii rámmačoahki" class="ISI_NOREWRITE" href="/se/dep/sd/pressesenter.html?id=794">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/sd/press-centre.html?id=794">English</a></li>
+        <li class="First Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/sd/pressesenter.html?id=794">Bokmål</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/dep/sd/pressesenter.html?id=794">Nynorsk</a></li>
+        <li class=""><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Dát siidu ii gávdno sámegillii. Coahkkal dákko de oainnát sámegillii rámmačoahki" class="ISI_NOREWRITE" href="/se/dep/sd/pressesenter.html?id=794">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/sd/press-centre.html?id=794">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/en.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/en.html?id=4" tabindex="20">
+                                            government.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/en/the-government/solberg/members-of-the-government-2.html?id=543170' class="ISI_MENU" tabindex="21">Solberg’s Government</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/en/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Ministries
+                                        </a>
+                                        
     <ul>
   
     <li>
@@ -121,7 +137,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+        <a href="/en/dep/asd.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour and Social Affairs</a>
     </li>
   
     <li>
@@ -133,14 +149,6 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
-    </li>
-  
-    <li>
         <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
     </li>
   
@@ -149,15 +157,19 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and Public Security</a>
     </li>
   
     <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
+        <a href="/en/dep/kld.html?id=668" class="NormalLink ISI_MENU">Ministry of Climate and Environment</a>
     </li>
   
     <li>
-        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
+        <a href="/en/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Modernisation</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
     </li>
   
     <li>
@@ -169,11 +181,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+        <a href="/en/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade, Industry and Fisheries</a>
     </li>
   
     <li>
@@ -192,476 +200,69 @@ function printPage()
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en/dep/sd.html?id=791"><img class="ProfileLogo" src="/styles/Images/sd/sd_en.gif" alt='Ministry of Transport and Communications' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/en/dep/sd.html?id=791" tabindex="34"><img class="ProfileLogo" src="/styles/Images/sd/sd_en.gif" alt='Ministry of Transport and Communications' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
     <label for="quicksearchinput" class="QuickSearchHeader">Search the Ministry of Transport and Communications </label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
-    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Search all of government.no</a></span>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Search" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Search" />        
+    <span><a id="TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" tabindex="32" class="QuickSearchLinkToMainSearch" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Search all of government.no</a></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/sd/press-centre.html?id=794&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/dep/sd/Site-Map.html?id=313871">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/dep/sd/about-the-ministry/contact.html?id=799">Contact</a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+        <li class="Share">
+            <noscript>
+                <a href="http://www.regjeringen.no/templates/KonfigurertSok.aspx?id=794&amp;epslanguage=en-GB&amp;tipafriend=1" id="noScriptTipLink" rel="nofollow" tabindex="72"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                        vertical-align: middle; height: 1em;" alt='Share/Send' />Share/Send</a></noscript>
+            <a onclick="return displayTipAFriendForm();" id="TopRegion_TopRightRegion_ctl00_tipAFriendLink" tabindex="34" class="display-none" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$ctl00$tipAFriendLink&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                    vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Share/Send' /><span id="open">Share/Send</span><span id="close" style="display: none;">Close</span></a>
+        </li>
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Click here to print this page' />Print</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/templates/KonfigurertSok.aspx?id=794&amp;epslanguage=en-GB&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal font size' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/KonfigurertSok.aspx?id=794&amp;epslanguage=en-GB&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium font size' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/KonfigurertSok.aspx?id=794&amp;epslanguage=en-GB&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Large font size' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/sd/press-centre.html?id=794&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/en/dep/sd/Site-Map.html?id=313871">Site Map</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/en/dep/sd/about-the-ministry/contact.html?id=799">Contact</a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
-                        <div id="AreaContentAndRight">
-                            
-                                <div id="AreaContent">
-                                    <div id="slickbox" style="display:none;">
-                                       
-                                            
-<script type="text/javascript"><!--
-function fbs_click() 
-{
-    u=location.href;
-    t=document.title;
-    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
-    return false;
-}
-function nettby_click(pageurl,pagename)
-{
-    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
-    wnd.focus();
-    return false;
-}
-function GetThis(T, C, U, L) 
-{
-	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
-	wnd = window.open(targetUrl);
-	wnd.focus();
-	return false;
-}
---></script>
-
-
-
-    <div id="thankyouview">
-        <div id="thankyoudiv"></div>        
-    </div>
-    <div id="tipafriend">
-        <div id="tipafriendContent">
-            
-            <div>
-	  
-                <p><strong>Share this page with a friend </strong></p>
-                <ol>
-                    <li>
-                        
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
-                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
-                    </li>
-                    <li>
-                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
-                    </li>
-                    <li>
-                                                         
-                    </li>
-                </ol>                          
-            
-</div>
-        </div> 
-    </div>
-    <div id="ShareArticle">
-        <p><strong>Share</strong></p>
-        <ul class="communities">        
-            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/sd/press-centre.html?id=794" target="_blank">Facebook</a></li>            
-            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/en/dep/sd/press-centre.html?id=794', 'Press centre')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/en/dep/sd/press-centre.html?id=794&amp;description=Press centre' target="_blank">Nettby</a></li>
-            <li><a class="share_myspace" href="#" onclick="return GetThis('Press centre','','http://www.regjeringen.no/en/dep/sd/press-centre.html?id=794',3)">Myspace</a></li>
-            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
-        </ul>
-    </div>
-
-
-
-                                        
-                                    </div>
-                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
-                                             
-    
-    
-
-    
-   <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_HitInfo"></span>
-    <p class="breadcrumbs">You are here: <a href="/en.html?id=4">Government.no</a> / <a href="/en/dep/sd.html?id=791">Ministry of Transport and C...</a> / <span>Press centre</span>
-</p>
-    <div class="documentTop">
-      <h1>Press centre</h1>
-      
-      <p>Welcome to the press centre of the Ministry of Transport and Communications.</p>
-<p>For all press queries, please contact us&nbsp;(Monday - Friday 08:00-16:00) by phone (+) 47 919 14 777, or e-mail: <img id='Eoi_1' class='obfimg' src='/images/emailimages/271e6ed544ba2e8813066383fd3972d1.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', '635D024C5F0C0D4D1306074D0710230C050D0A07105D410C0D4D1306074D0710230C050D0A0710590C170F0A020E415E0506110B43025F'));//--></script>.</p>
-<p>&nbsp;</p>      
-      <div style="clear:both"></div>
-      
-    </div>
-   
-    <div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_divPageContent">  
-         
-         
-
-            
-       
-        <div class="documentBody">                  
-            
-        <div class="BoxDepartments expDiv">
-            <img src="/upload/SD/Portrettbilder/anne-marie-storli_samfoto_133x180.jpg" alt="" class="portrait" />
-            <div class="content">
-            <h2>
-                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/director-general-anne-marie-storli.html?id=555919" title="">
-                    Director General Anne Marie Storli
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none">Press contact</h3>
-                
-                
-                
-                
-                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl00_Tr1">
-		<th>
-                            E-mail: 
-                        </th>
-		<td>
-                            <img id='Eoi_2' class='obfimg' src='/images/emailimages/ed5ff08ef762869d08ec66484557a0fd.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_2', '90AEF1BFACB0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B09A9DAEFEF1E0E3BFACFFFEBEE0F5F4BEF4E3D0F9FCE2FFE4C3BEF5F9E2F1DDBDF5FEFED1AEFEF1E0E3ACB0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B0B09A9DAEB7FFFEBEE0F5F4BEF4E3D0F9FCE2FFE4C3BEF5F9E2F1DDBDF5FEFED1AAFFE4FCF9F1FDB7ADF6F5E2F8B0F1AC'));//--></script>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl00_Tr2">
-		<th>
-                            Telephone: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4722248322">+ 47 22 24 83 22</a>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl00_Tr3">
-		<th>
-                            Cell phone: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4791733650">+ 47 917 33 650</a>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl00_Tr4">
-		<th>
-                            Fax: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4722249571">+ 47 22 24 95 71</a>
-                        </td>
-	</tr>
-</table>
-
-            </div>
-        </div>
-    
-        <hr class="seperator" />   
-    
-        <div class="BoxDepartments expDiv">
-            <img src="/upload/SD/Portrettbilder/ivartorvik_133x180.jpg" alt="" class="portrait" />
-            <div class="content">
-            <h2>
-                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/head-of-information-ivar-torvik.html?id=332358" title="">
-                    Head of Information Ivar Torvik
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none">Press contact</h3>
-                
-                
-                
-                
-                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl01_Tr1">
-		<th>
-                            E-mail: 
-                        </th>
-		<td>
-                            <img id='Eoi_3' class='obfimg' src='/images/emailimages/cd32ddaf6f04457417032dd8bf340be4.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_3', '2F114E00130F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F252211414E5F5C00134041015F4A4B014B5C6F4446595D405B015D4E594611414E5F5C130F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F0F252211084041015F4A4B014B5C6F4446595D405B015D4E594615405B43464E420812494A5D470F4E13'));//--></script>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl01_Tr2">
-		<th>
-                            Telephone: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4722248108">+ 47 22 24 81 08</a>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl01_Tr3">
-		<th>
-                            Cell phone: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4790510886">+ 47 905 10 886</a>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl01_Tr4">
-		<th>
-                            Fax: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4722249571">+ 47 22 24 95 71</a>
-                        </td>
-	</tr>
-</table>
-
-            </div>
-        </div>
-    
-        <hr class="seperator" />   
-    
-        <div class="BoxDepartments expDiv">
-            <img src="/upload/SD/Portrettbilder/daghnestegard_133x180.jpg" alt="" class="portrait" />
-            <div class="content">
-            <h2>
-                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/senior-adviser.html?id=503120" title="">
-                    Senior Adviser Dag H. Nestegard
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none">Press contact</h3>
-                
-                
-                
-                
-                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl02_Tr1">
-		<th>
-                            E-mail: 
-                        </th>
-		<td>
-                            <img id='Eoi_4' class='obfimg' src='/images/emailimages/978e96ab4be16f19bb104e5c0a4e343e.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_4', '013F602E3D212121212121212121212121212121212121212121212121212121210B0C3F6F6071722E3D6E6F2F7164652F65724165736066647572646F2F6660653F6F6071723D21212121212121212121212121212121212121212121212121212121212121210B0C3F266E6F2F7164652F65724165736066647572646F2F6660653B6E756D68606C263C6764736921603D'));//--></script>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl02_Tr2">
-		<th>
-                            Telephone: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4722248152">+ 47 22 24 81 52 </a>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl02_Tr3">
-		<th>
-                            Cell phone: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4748170209">+ 47 481 70 209</a>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl02_Tr4">
-		<th>
-                            Fax: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4722249571">+ 47 22 24 95 71</a>
-                        </td>
-	</tr>
-</table>
-
-            </div>
-        </div>
-    
-        <hr class="seperator" />   
-    
-        <div class="BoxDepartments expDiv">
-            <img src="/upload/SD/Portrettbilder/tormidtbo_133x180b.jpg" alt="" class="portrait" />
-            <div class="content">
-            <h2>
-                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/tor-midtbo.html?id=477113" title="">
-                    Senior Adviser Tor Midtbø
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none">Press contact</h3>
-                
-                
-                
-                
-                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl03_Tr1">
-		<th>
-                            E-mail: 
-                        </th>
-		<td>
-                            <img id='Eoi_5' class='obfimg' src='/images/emailimages/42a54499134ecd9249e3f5d3254e859c.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_5', '1A247B35263A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A101724747B6A6935267574346A7F7E347E695A75786E7E73773468756E24747B6A69263A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A3A1017243D7574346A7F7E347E695A75786E7E73773468756E20756E76737B773D277C7F68723A7B26'));//--></script>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl03_Tr2">
-		<th>
-                            Telephone: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4722248123">+ 47 22 24 81 23</a>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl03_Tr4">
-		<th>
-                            Fax: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4722249571">+ 47 22 24 95 71</a>
-                        </td>
-	</tr>
-</table>
-
-            </div>
-        </div>
-    
-        <hr class="seperator" />   
-    
-        <div class="BoxDepartments expDiv">
-            <img src="/upload/SD/Portrettbilder/edvardandersen_133x180.jpg" alt="" class="portrait" />
-            <div class="content">
-            <h2>
-                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/adviser-edvard-andersen.html?id=503116" title="">
-                    Senior Adviser Edvard Andersen
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none">Press contact</h3>
-                
-                
-                
-                
-                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl04_Tr1">
-		<th>
-                            E-mail: 
-                        </th>
-		<td>
-                            <img id='Eoi_6' class='obfimg' src='/images/emailimages/6df9ad7606c5331fccabe46b27bdeecc.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_6', '7947185645595959595959595959595959595959595959595959595959595959597374471718090A5645161757091C1D571D0A39171C0A0B1C1D1718571D0B180F1D1C471718090A4559595959595959595959595959595959595959595959595959595959595959597374475E161757091C1D571D0A39171C0A0B1C1D1718571D0B180F1D1C43160D151018145E441F1C0B11591845'));//--></script>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl04_Tr2">
-		<th>
-                            Telephone: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4722248379">+ 47 22 24 83 79</a>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl04_Tr3">
-		<th>
-                            Cell phone: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4790511667">+ 47 905 11 667</a>
-                        </td>
-	</tr>
-	<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_listingUniversal_lstUniversal_ctl04_Tr4">
-		<th>
-                            Fax: 
-                        </th>
-		<td>
-                            <a class="telephoneLink" href="tel:+4722249571">+ 47 22 24 95 71</a>
-                        </td>
-	</tr>
-</table>
-
-            </div>
-        </div>
-    
-        <hr class="seperator" />   
-    
- 
-           
-        </div>  
-       
-         
-
-    
-         
-    </div>  
-	<div class="printContact">
-		
-	</div>
-
-                                </div>
-                                <div id="AreaRight"> 
-                                    
-                                        
-                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/en/dep/sd.html?id=791'><img src="/upload/SD/Profilelementer/SD_web_rute_01.gif" alt="Ministry of Transport and Communications" /></a></div>
-                                        
-                                        
-    
-    
-
-                                        
-                                        
-    
-
-     
-     
-    
-    
-     
-        
-                                        
-                                                                        
-                                        
-     
-
-                                                                                                   
-                                </div>
-                            
-                        </div>
                         <div id="AreaLeft">
-                              
+                            
                                 <div id="AreaLeftNav" class="NavListV">
                                     
 
@@ -669,95 +270,780 @@ document.write(dc('Eoi_6', '7947185645595959595959595959595959595959595959595959
 <a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
 
     <ul>
-        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/sd.html?id=791">
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/sd.html?id=791" tabindex="41">
             Ministry home</a></li></ul>
 
 <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/sd/Whats-new.html?id=792" title=''>
+        <a class="ISI_MENU" href="/en/dep/sd/Whats-new.html?id=792" title="" tabindex="42">
             What's new</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/sd/selected-topics.html?id=793" title="" tabindex="43">
+            Selected topics</a>
     </li><li class="Selected">
-        <a class="Selected ISI_MENU" href="/en/dep/sd/press-centre.html?id=794" title=''>
+        <a class="Selected ISI_MENU" href="/en/dep/sd/press-centre.html?id=794" title="" tabindex="44">
             Press centre</a>
     <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/sd/press-centre/Press-releases.html?id=810" title=''>
+        <a class="ISI_MENU" href="/en/dep/sd/press-centre/press-releases.html?id=810" title="" tabindex="45">
             Press releases</a>
     </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/sd/Documents.html?id=276677" title=''>
+        <a class="ISI_MENU" href="/en/dep/sd/documents.html?id=276677" title="" tabindex="46">
             Documents</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/sd/about-the-ministry.html?id=796" title=''>
+        <a class="ISI_MENU" href="/en/dep/sd/about-the-ministry.html?id=796" title="" tabindex="47">
             About the ministry</a>
     </li></ul>
 
                                 </div>
-                              
+                                
+                                
+                            
+                        </div>
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="FullRegion_CenterAndRightRegion_slickbox" class="slickbox" style="display: none;">
+                                        
+                                            
+<script type="text/javascript"><!--
+    function facebook_click() {
+        u = location.href;
+        t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+        return false;
+    }
+    function twitter_click() {
+        u = location.href;
+        t = encodeURIComponent('Press centre');
+        window.open('http://twitter.com/share?url=' + encodeURIComponent(u) + '&text=' + t, 'sharer', 'toolbar=0,status=0,width=350,height=230');
+        return false;
+    }
+--></script>
+<div id="thankyouview">
+    <div id="thankyoudiv">
+        
+    </div>
+</div>
+<div id="tipafriend">
+    <div id="tipafriendContent">
+        
+                <div>
+	
+                    <div id="TipAFriendForm">
+                        <fieldset>
+                            <legend><strong>
+                                Share this page with a friend 
+                            </strong></legend>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
+                                <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;">
+</textarea>
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="setTipClicked();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitTextBox" style="display: none;
+                                    width: 10px;" />
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                
+                            </div>
+                        </fieldset>
+                    </div>
+                
+</div>
+            
+    </div>
+</div>
+<div id="ShareArticle">
+    <p>
+        <strong>
+            Share
+        </strong>
+    </p>
+    <ul class="communities">
+        <li><a class="share_facebook" onclick="return facebook_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/sd/press-centre.html?id=794" target="_blank">
+            Facebook</a></li>
+        <li><a class="share_twitter" onclick="return twitter_click()" href="http://twitter.com/share?url=http://www.regjeringen.no/en/dep/sd/press-centre.html?id=794&amp;text=Press centre" target="_blank">
+            Twitter</a></li>
+        <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">
+            Origo</a></li>
+    </ul>
+</div>
+
+                                        
+                                    </div>
+                                    
+    
+    
+
+
+    
+    <span id="FullRegion_CenterAndRightRegion_CenterRegion_HitInfo"></span>
+    
+
+<div class="breadcrumbs ">
+
+    
+               <span>
+                   You are here: 
+               </span>
+                
+                <ul class="breadcrumbmenu">
+            
+                <li><a href="/en.html?id=4" title="Government.no">Government.no</a> / </li>
+            
+                <li><a href="/en/dep/sd.html?id=791" title="Ministry of Transport and C...">Ministry of Transport and C...</a> / </li>
+            
+                <li><span>Press centre</span></li>
+            
+                </ul>
+            
+</div>
+    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+    <div class="documentTop">
+        <h1>
+            Press centre</h1>
+        
+        <div>
+	<p>Welcome to the press centre of the Ministry of Transport and Communications.</p>
+<p>For all press queries, please contact us&nbsp;(Monday - Friday 08:00-16:00) by phone (+) 47 919 14 777, or e-mail: <img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/c23d46bd3d642bd5e36a67771313ebb0.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, 'A39DC28C9FCCCD8DD3C6C78DC7D0E3CCC5CDCAC7D09D81CCCD8DD3C6C78DC7D0E3CCC5CDCAC7D099CCD7CFCAC2CE819EC5C6D1CB83C29F'));//--></script>.</p>
+</div>
+        <div style="clear: both">
+        </div>
+        
+            <div class="documentLinks">
+                <input name="ctl00$FullRegion$CenterAndRightRegion$CenterRegion$emailAlert$htbUserid" type="hidden" id="FullRegion_CenterAndRightRegion_CenterRegion_emailAlert_htbUserid" />
+<input name="ctl00$FullRegion$CenterAndRightRegion$CenterRegion$emailAlert$htbPageId" type="hidden" id="FullRegion_CenterAndRightRegion_CenterRegion_emailAlert_htbPageId" />
+<input name="ctl00$FullRegion$CenterAndRightRegion$CenterRegion$emailAlert$htbRegistrationId" type="hidden" id="FullRegion_CenterAndRightRegion_CenterRegion_emailAlert_htbRegistrationId" />
+        
+    
+
+            </div>
+        
+    </div>
+    <div id="FullRegion_CenterAndRightRegion_CenterRegion_divPageContent">
+         
+
+
+        <div class="documentBody">
+            
+        <div class="BoxDepartments expDiv">
+            <img src="/upload/SD/Portrettbilder/ams_web_180_2011.jpg" alt="Anne Marie Storli" title="Anne Marie Storli" class="portrait" />
+            <div class="content">
+                <h2>
+                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/director-general-anne-marie-storli.html?id=555919" title="">
+                    Director General Anne Marie Storli</a>
+            </h2>
+                <h3 class="subDescription" style="display:none">Press contact - Department of Press and Information</h3>
+                
+                <p>
+                    Department of Press and Information
+                </p>
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
+	<tr>
+		<th>
+                            E-mail: 
+                        </th>
+		<td>
+                            <img id='Eoi_2' class='obfimg' src='/upload/system/emailimages/67df494e6181d8f4ecf71ace34338f41.png' alt='' /><script type="text/javascript" id="Eos_2"><!--
+document.write(dc(2, '506E317F6C707070707070707070707070707070707070707070707070707070705A5D6E3E3120237F6C3F3E7E2035347E342310393C223F24037E353922311D7D353E3E116E3E3120236C70707070707070707070707070707070707070707070707070707070707070705A5D6E773F3E7E2035347E342310393C223F24037E353922311D7D353E3E116A3F243C39313D776D3635223870316C'));//--></script>
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Telephone: 
+                        </th>
+		<td>
+                            + 47 22 24 83 22
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Cell phone: 
+                        </th>
+		<td>
+                            + 47 917 33 650
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <hr class="seperator" />
+    
+        <div class="BoxDepartments expDiv">
+            <img src="/upload/SD/Portrettbilder/susanne_ny_web_133x180.jpg" alt="Susanne Moen Stephansen. Photo: S E Dahl/Samfoto" title="Susanne Moen Stephansen. Photo: S E Dahl/Samfoto" class="portrait" />
+            <div class="content">
+                <h2>
+                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/senior-adviser-susanne-moen-stephansen.html?id=630462" title="">
+                    Assistant Director Susanne Moen Stephansen</a>
+            </h2>
+                <h3 class="subDescription" style="display:none">Press contact - Department of Press and Information</h3>
+                
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
+	<tr>
+		<th>
+                            E-mail: 
+                        </th>
+		<td>
+                            <img id='Eoi_3' class='obfimg' src='/upload/system/emailimages/38c9e615524e7ec2a2f1e7f48f977c70.png' alt='' /><script type="text/javascript" id="Eos_3"><!--
+document.write(dc(3, '8CB2EDA3B0ACACACACACACACACACACACACACACACACACACACACACACACACACACACAC8681B2E2EDFCFFA3B0E3E2A2FCE9E8A2E8FFCCE2E9FFE2EDE4FCE9F8FFA2E9E2E2EDFFF9FFB2E2EDFCFFB0ACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACACAC8681B2ABE3E2A2FCE9E8A2E8FFCCE2E9FFE2EDE4FCE9F8FFA2E9E2E2EDFFF9FFB6E3F8E0E5EDE1ABB1EAE9FEE4ACEDB0'));//--></script>
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Telephone: 
+                        </th>
+		<td>
+                            + 47 22 24 81 52
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Cell phone: 
+                        </th>
+		<td>
+                            + 47 480 32 792
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <hr class="seperator" />
+    
+        <div class="BoxDepartments expDiv">
+            <img src="/upload/SD/Portrettbilder/ivartorvik_133x180.jpg" alt="" title="" class="portrait" />
+            <div class="content">
+                <h2>
+                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/head-of-information-ivar-torvik.html?id=332358" title="">
+                    Head of Information Ivar Torvik</a>
+            </h2>
+                <h3 class="subDescription" style="display:none">Press contact - Department of Press and Information</h3>
+                
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
+	<tr>
+		<th>
+                            E-mail: 
+                        </th>
+		<td>
+                            <img id='Eoi_4' class='obfimg' src='/upload/system/emailimages/4571957526b4521aa356e46bb8ef8df9.png' alt='' /><script type="text/javascript" id="Eos_4"><!--
+document.write(dc(4, 'A09EC18F9C80808080808080808080808080808080808080808080808080808080AAAD9ECEC1D0D38F9CCFCE8ED0C5C48EC4D3E0CBC9D6D2CFD48ED2C1D6C99ECEC1D0D39C8080808080808080808080808080808080808080808080808080808080808080AAAD9E87CFCE8ED0C5C48EC4D3E0CBC9D6D2CFD48ED2C1D6C99ACFD4CCC9C1CD879DC6C5D2C880C19C'));//--></script>
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Telephone: 
+                        </th>
+		<td>
+                            + 47 22 24 81 08
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Cell phone: 
+                        </th>
+		<td>
+                            + 47 905 10 886
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <hr class="seperator" />
+    
+        <div class="BoxDepartments expDiv">
+            <img src="/imgpreviews/00/00/04/09/40997_img___1404137771469.jpg" alt="Tor Midtbø" title="Tor Midtbø" class="portrait" />
+            <div class="content">
+                <h2>
+                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/tor-midtbo.html?id=477113" title="">
+                    Senior Adviser Tor Midtbø</a>
+            </h2>
+                <h3 class="subDescription" style="display:none">Press contact - Department of Press and Information</h3>
+                
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
+	<tr>
+		<th>
+                            E-mail: 
+                        </th>
+		<td>
+                            <img id='Eoi_5' class='obfimg' src='/upload/system/emailimages/ef241e010d31981d4546b60635a01f24.png' alt='' /><script type="text/javascript" id="Eos_5"><!--
+document.write(dc(5, 'BF81DE90839F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FB5B281D1DECFCC9083D0D191CFDADB91DBCCFFD0DDCBDBD6D291CDD0CB81D1DECFCC839F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9F9FB5B28198D0D191CFDADB91DBCCFFD0DDCBDBD6D291CDD0CB85D0CBD3D6DED29882D9DACDD79FDE83'));//--></script>
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Telephone: 
+                        </th>
+		<td>
+                            + 47 22 24 81 23
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <hr class="seperator" />
+    
+        <div class="BoxDepartments expDiv">
+            <img src="/upload/SD/Portrettbilder/ruth_lillegraven_180x133_sedahl.jpg" alt="Ruth Lillegraven (Photo: S. E. Dahl/Samfoto)" title="Ruth Lillegraven (Photo: S. E. Dahl/Samfoto)" class="portrait" />
+            <div class="content">
+                <h2>
+                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/senior-adviser-ruth-lillegraven.html?id=555920" title="">
+                    Senior Adviser Ruth Lillegraven</a>
+            </h2>
+                <h3 class="subDescription" style="display:none">Speechwriter - Department of Press and Information</h3>
+                
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
+	<tr>
+		<th>
+                            E-mail: 
+                        </th>
+		<td>
+                            <img id='Eoi_6' class='obfimg' src='/upload/system/emailimages/896d205c58d77aa591403da550670735.png' alt='' /><script type="text/javascript" id="Eos_6"><!--
+document.write(dc(6, 'AB95CA84978B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8BA1A695C5CADBD88497C4C585DBCECF85CFD8EBC5CEDDCAD9CCCEC7C7C2E785C3DFDEF995C5CADBD8978B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8B8BA1A6958CC4C585DBCECF85CFD8EBC5CEDDCAD9CCCEC7C7C2E785C3DFDEF991C4DFC7C2CAC68C96CDCED9C38BCA97'));//--></script>
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <hr class="seperator" />
+    
+        <div class="BoxDepartments expDiv">
+            <img src="/upload/SD/Portrettbilder/edvardandersen_133x180.jpg" alt="" title="" class="portrait" />
+            <div class="content">
+                <h2>
+                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/adviser-edvard-andersen.html?id=503116" title="">
+                    Senior Adviser Edvard Andersen</a>
+            </h2>
+                <h3 class="subDescription" style="display:none">Press contact - Department of Press and Information</h3>
+                
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
+	<tr>
+		<th>
+                            E-mail: 
+                        </th>
+		<td>
+                            <img id='Eoi_7' class='obfimg' src='/upload/system/emailimages/71e4c3f96b936aa7a8cfbedf661d62f3.png' alt='' /><script type="text/javascript" id="Eos_7"><!--
+document.write(dc(7, 'AF91CE80938F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8FA5A291C1CEDFDC8093C0C181DFCACB81CBDCEFC1CADCDDCACBC1CE81CBDDCED9CBCA91C1CEDFDC938F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8F8FA5A29188C0C181DFCACB81CBDCEFC1CADCDDCACBC1CE81CBDDCED9CBCA95C0DBC3C6CEC28892C9CADDC78FCE93'));//--></script>
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Telephone: 
+                        </th>
+		<td>
+                            + 47 22 24 83 79
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Cell phone: 
+                        </th>
+		<td>
+                            + 47 905 11 667
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <hr class="seperator" />
+    
+        <div class="BoxDepartments expDiv">
+            <img src="/upload/SD/Portrettbilder/merete_ny_web_133x180.jpg" alt="Merete Jebsen. Photo: S E Dahl/Samfoto" title="Merete Jebsen. Photo: S E Dahl/Samfoto" class="portrait" />
+            <div class="content">
+                <h2>
+                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/senior-adviser-merete-bergeland-jebsen.html?id=632759" title="">
+                    Senior Adviser Merete Bergeland Jebsen</a>
+            </h2>
+                <h3 class="subDescription" style="display:none">Press contact - Department of Press and Information</h3>
+                
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
+	<tr>
+		<th>
+                            E-mail: 
+                        </th>
+		<td>
+                            <img id='Eoi_8' class='obfimg' src='/upload/system/emailimages/bae73130aaf71c8e03e3ae660e5f238a.png' alt='' /><script type="text/javascript" id="Eos_8"><!--
+document.write(dc(8, '310F501E0D111111111111111111111111111111111111111111111111111111113B3C0F5F5041421E0D5E5F1F4154551F5542715F544253545B1F54455443545C0F5F5041420D11111111111111111111111111111111111111111111111111111111111111113B3C0F165E5F1F4154551F5542715F544253545B1F54455443545C0B5E455D58505C160C5754435911500D'));//--></script>
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Telephone: 
+                        </th>
+		<td>
+                            + 47 22 24 81 18
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Cell phone: 
+                        </th>
+		<td>
+                            + 47 932 56 552
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <hr class="seperator" />
+    
+        <div class="BoxDepartments expDiv">
+            <img src="/imgpreviews/00/00/04/09/40996_img___1404137114278.jpg" alt="Frøydis Tornøe" title="Frøydis Tornøe" class="portrait" />
+            <div class="content">
+                <h2>
+                <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department/communication-advisor-frodis-tornoe.html?id=542676" title="">
+                    Communication Advisor Frøydis Tornøe</a>
+            </h2>
+                <h3 class="subDescription" style="display:none">Press contact - Department of Press and Information</h3>
+                
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Table of personal data">
+	<tr>
+		<th>
+                            E-mail: 
+                        </th>
+		<td>
+                            <img id='Eoi_9' class='obfimg' src='/upload/system/emailimages/8ce706ce341a9d34ee5825b202d18ec2.png' alt='' /><script type="text/javascript" id="Eos_9"><!--
+document.write(dc(9, 'C1FFA0EEFDE1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1CBCCFFAFA0B1B2EEFDAEAFEFB1A4A5EFA5B281A4AEAFB3AEB5EFB2A8A5B8AEB3A7FFAFA0B1B2FDE1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1E1CBCCFFE6AEAFEFB1A4A5EFA5B281A4AEAFB3AEB5EFB2A8A5B8AEB3A7FBAEB5ADA8A0ACE6FCA7A4B3A9E1A0FD'));//--></script>
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Telephone: 
+                        </th>
+		<td>
+                            +47 22 24 65 25
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Cell phone: 
+                        </th>
+		<td>
+                            +47 970 97 855
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <hr class="seperator" />
+    
+
+        </div>
+         
+
+
+    </div>
+    <div class="printContact">
+        <div id="FullRegion_CenterAndRightRegion_CenterRegion_RelatedContact2_AreaContactInfo" class="Toolbox" tabindex="66">
+    
+        <h2 class="ToolboxHeader">
+           
+                        Contact information
+                    
+        </h2>
+    
+                 
+            <div class="ToolboxContent">
+					<h3 class="relatedContactHead">
+						 <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department.html?id=555839" class="structuredDataEmail">Department of Press and Information</a>
+					</h3>
+					<p class="noPadBtm"><img id='Eoi_10' class='obfimg' src='/upload/system/emailimages/c23d46bd3d642bd5e36a67771313ebb0.png' alt='' /><script type="text/javascript" id="Eos_10"><!--
+document.write(dc(10, 'AB95CA8497C7C2CAC686CE8BCFC5CEF8958C8C96CEC7D2DFD88B8CC4C585DBCECF85CFD8EBC4CDC5C2CFD891C4DFC7C2CAC68C96CDCED9C38BCA97'));//--></script></p>
+					<p class="contactInfo">
+                        
+                            <span class="label">
+                        Telephone:
+                    </span>
+                            + 47 22 24 90 90<br />
+                        
+                        
+                        
+                    </p>
+					
+					    <h3 class="noPadBtm">
+                        Address
+                    </h3>
+					    <div>
+	<p>Street address:<br />Akersgata 59 (R5), Oslo</p>
+<p>Postal address:<br />PO Box 8010 Dep<br />N-0030 Oslo Norway</p>
+</div>
+            </div>
+         
+</div>
+    </div>
+
+                                    
+                                        
+                                    
+
+                                    
+
+                                </div>
+                                <div id="AreaRight">
+                                    
+                                        
+                                            
+    <div class="DepProfile"><a href='/en/dep/sd.html?id=791' tabindex="61"><img src="/upload/SD/Profilelementer/SD_web_rute_01.gif" alt="Ministry of Transport and Communications" /></a></div>
+
+                                        
+                                        
+    
+    
+
+                                        
+                                        
+                                        
+                                            
+
+
+
+
+
+
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                            <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo" class="Toolbox" tabindex="66">
+    
+        <h2 class="ToolboxHeader">
+           
+                        Contact information
+                    
+        </h2>
+    
+                 
+            <div class="ToolboxContent">
+					<h3 class="relatedContactHead">
+						 <a href="/en/dep/sd/about-the-ministry/organisation/departments/communications-department.html?id=555839" class="structuredDataEmail">Department of Press and Information</a>
+					</h3>
+					<p class="noPadBtm"><img id='Eoi_11' class='obfimg' src='/upload/system/emailimages/c23d46bd3d642bd5e36a67771313ebb0.png' alt='' /><script type="text/javascript" id="Eos_11"><!--
+document.write(dc(11, 'AC92CD8390C0C5CDC181C98CC8C2C9FF928B8B91C9C0D5D8DF8C8BC3C282DCC9C882C8DFECC3CAC2C5C8DF96C3D8C0C5CDC18B91CAC9DEC48CCD90'));//--></script></p>
+					<p class="contactInfo">
+                        
+                            <span class="label">
+                        Telephone:
+                    </span>
+                            + 47 22 24 90 90<br />
+                        
+                        
+                        
+                    </p>
+					
+					    <h3 class="noPadBtm">
+                        Address
+                    </h3>
+					    <div>
+	<p>Street address:<br />Akersgata 59 (R5), Oslo</p>
+<p>Postal address:<br />PO Box 8010 Dep<br />N-0030 Oslo Norway</p>
+</div>
+            </div>
+         
+</div>
+                                        
+                                        
+                                    
+                                </div>
                             
                         </div>
                     
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
+                    
                     <!-- ISI_STOP -->
-                </div>
                 </div>
             </div>
         </div>
-        
-         
-<div id="PageFooter"><p align="center">Ministry of Transport and Communications, Akersgata 59 (R5), PO Box 8010 Dep, 0030 Oslo, Norway&nbsp;<br />Telephone +47&nbsp;22 24 90 90,&nbsp;fax +47&nbsp;22 24&nbsp;95 71. E-mail: <img id='Eoi_7' class='obfimg' src='/images/emailimages/3eacdf2dc4840bea0da4cb8c98e6b076.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_7', 'AB95CA849795DFC5C4CD8497C4C585DBCECF85CFD8EBC0CADFDFC4C6DFD8C4DB9589989C9A989B9B888996D9C4C7C4C88BDFC5C4CD979589C4C585DBCECF85CFD8EBC0CADFDFC4C6DFD8C4DB91C4DFC7C2CAC68996CDCED9C38B89EFF88BC7C2DF8BDFD8C4DB86EE8996CEC7DFC2DF8BCA97'));//--></script><br />Web Editor:&nbsp;<img id='Eoi_8' class='obfimg' src='/images/emailimages/42a54499134ecd9249e3f5d3254e859c.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_8', 'D8E6B9F7E420BAACBCB195F8AAB78CE6FAB7B6F6A8BDBCF6BCAB98B7BAACBCB1B5F6AAB7ACE2B7ACB4B1B9B5FAE5BEBDAAB0F8FA20BAACBCB195F8AAB78CFAE5BDB4ACB1ACF8B9E4'));//--></script>, Editor: Anne Marie Storli</p></div>
-        
-        
-                    
-        
-    </form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
-	
-} else
-{    
-    //setAreaHeights();
-}
+    </div>
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
+        
+<div id="PageFooter"><p>Ministry of Transport and Communications, Akersgata 59 (R5), PO Box 8010 Dep, 0030 Oslo, Norway&nbsp;<br />Telephone +47&nbsp;22 24 90 90,&nbsp;fax +47&nbsp;22 24&nbsp;95 71. E-mail: <img id='Eoi_12' class='obfimg' src='/upload/system/emailimages/582d725c864e91cb3c972e87d4f2bc34.png' alt='' /><script type="text/javascript" id="Eos_12"><!--
+document.write(dc(12, '9BA5FAB4A7A5F5FAEBE8B4A7F4F5B5EBFEFFB5FFE8DBF0FAEFEFF4F6EFE8F4EBA5B9A0A8ACAAA8ABABB8BBA1E9F4F7F4F8B9A6FEF7E2EFE8BBF5FAEBE8A7A5B9F4F5B5EBFEFFB5FFE8DBF0FAEFEFF4F6EFE8F4EBA1F4EFF7F2FAF6B9A6FDFEE9F3BBB9DFC8BBF7F2EFBBEFE8F4EBB6DEB9A6FEF7EFF2EFBBFAA7'));//--></script><br />Web Editor:&nbsp;<img id='Eoi_13' class='obfimg' src='/upload/system/emailimages/ef241e010d31981d4546b60635a01f24.png' alt='' /><script type="text/javascript" id="Eos_13"><!--
+document.write(dc(13, '94AAF5BBA86CF6E0F0FDD9B4E6FBC0AAB6FBFABAE4F1F0BAF0E7D4FBF6E0F0FDF9BAE6FBE0AEFBE0F8FDF5F9B6A9F2F1E6FCB4B66CF6E0F0FDD9B4E6FBC0B6A9F1F8E0FDE0B4F5A8'));//--></script>, Editor: Anne Marie Storli</p></div>
+<div title="web01" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web01" /></div>
+    
+    
+    
+        
 
-<div id="ctl00_externalPageTrackers">
+
+    
+    </form>
+    <div id="externalPageTrackers">
 	
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
+    
+</div>       
+    
+    
 
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<div>
+    
 <script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no uses cookies to improve our service to the users. The cookies are mainly used for traffic measuring and for optimizing the site. Find more information on ",
+            messagepart2: ", or go back to regjeringen.no if you accept this.",
+            readMoreUrl: "http://www.regjeringen.no/en/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "use of cookies",
+            closeText: "Close"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
 //--></script>
-<!-- END Xtractor client tracker script -->
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
 
 </div>
+
+
+    
+
 </body>
 </html>

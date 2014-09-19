@@ -1,32 +1,35 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
+    <!-- ISI_NOAUTOLANG -->
+    <title>
 	Consumers - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="Consumers" />
+<meta name="WT.ti" content="Consumers" />
 <meta name="DCSext.regj.pagetype" content="Tema" />
-<meta name="DCSext.regj.pageid" content="214" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
 <meta name="DCSext.regj.owner" content="gov_no" />
 <meta name="DCSext.regj.language" content="en-GB" />
+<meta name="DCSext.regj_lv2" content="topics" />
+<meta name="DCSext.regj_lv3" content="consumers" />
+<meta name="DCSext.regj_g-page" content="214-g-page" />
 <meta name="TITLE" content="Consumers" />
-<meta name="description" content="The chief goals of consumer policy are to promote consumers’ rights, interests and safety. " />
+<meta name="description" content="Consumer policy cuts across organisational boundaries and involves issues that are the responsibility of a number of different ministries. The Ministry of Children, Equality and Social Inclusion endeavours to strengthen consumer rights, interests and s..." />
 <meta name="KEYWORDS" content="Consumers" />
 <meta name="DC.Title" content="Consumers" />
 <meta name="DC.Creator" content="Government.no" />
 <meta name="DC.Subject" content="Consumers" />
-<meta name="DC.Description" content="The chief goals of consumer policy are to promote consumers’ rights, interests and safety. " />
+<meta name="DC.Description" content="Consumer policy cuts across organisational boundaries and involves issues that are the responsibility of a number of different ministries. The Ministry of Children, Equality and Social Inclusion endeavours to strengthen consumer rights, interests and s..." />
 <meta name="DC.Date" content="2007-02-09" />
-<meta name="DC.Date.Available" content="2007-02-09" />
+<meta name="DC.Date.Available" content="2013-10-16" />
 <meta name="DC.Type.Status" content="Gyldig" />
 <meta name="DC.Type" content="Tema" />
 <meta name="DC.Format" content="text/html" />
 <meta name="DC.Identifier.URL" content="/en/topics/consumers.html?id=214" />
 <meta name="DC.Language" content="en-GB" />
 <meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DCSext.regj.lang-pref" content="en-GB" />
 <meta name="DC.Publisher" content="regjeringen.no" />
 <meta name="AUTHOR" content="Government.no" />
 <meta name="creation_date" content="Fri, 09 Feb 2007 14:40:00 GMT" />
@@ -36,81 +39,99 @@
 <meta http-equiv="Content-Language" content="en" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
-
-
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
-
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
 
 
 
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+    <!-- default styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/default_styles_combined_45D29949909B2B10854E130AC37BCE3C.css" />
+    <!--[if lt IE 6]
+        <link rel="stylesheet" type="text/css" href="/styles/ie55.css?v=2.1.11776" media="screen">
+
+    <![endif]-->
+
+
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/3Col_AF432B5349630A9B3C4A0BDD3743237C.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
+
+
+
+
+<link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web04.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=214" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web04.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=214" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en/topics/consumers.html?id=214" id="aspnetForm" enctype="multipart/form-data">
-<div>
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/en/topics/consumers.html?id=214" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
 <input type="hidden" name="__WPPS" id="__WPPS" value="s" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTU2Nzk5NDM4NQ9kFgJmD2QWCGYPFQICZW4CZW5kAgEQZGQWAgICD2QWBmYPFgIeBFRleHQFjw08bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlbmFtZSIgY29udGVudD0iQ29uc3VtZXJzIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXR5cGUiIGNvbnRlbnQ9IlRlbWEiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlaWQiIGNvbnRlbnQ9IjIxNCIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VzdGF0dXMiIGNvbnRlbnQ9Ikd5bGRpZyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLm93bmVyIiBjb250ZW50PSJnb3Zfbm8iIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5sYW5ndWFnZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJUSVRMRSIgY29udGVudD0iQ29uc3VtZXJzIiAvPg0KPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IlRoZSBjaGllZiBnb2FscyBvZiBjb25zdW1lciBwb2xpY3kgYXJlIHRvIHByb21vdGUgY29uc3VtZXJz4oCZIHJpZ2h0cywgaW50ZXJlc3RzIGFuZCBzYWZldHkuICIgLz4NCjxtZXRhIG5hbWU9IktFWVdPUkRTIiBjb250ZW50PSJDb25zdW1lcnMiIC8+DQo8bWV0YSBuYW1lPSJEQy5UaXRsZSIgY29udGVudD0iQ29uc3VtZXJzIiAvPg0KPG1ldGEgbmFtZT0iREMuQ3JlYXRvciIgY29udGVudD0iR292ZXJubWVudC5ubyIgLz4NCjxtZXRhIG5hbWU9IkRDLlN1YmplY3QiIGNvbnRlbnQ9IkNvbnN1bWVycyIgLz4NCjxtZXRhIG5hbWU9IkRDLkRlc2NyaXB0aW9uIiBjb250ZW50PSJUaGUgY2hpZWYgZ29hbHMgb2YgY29uc3VtZXIgcG9saWN5IGFyZSB0byBwcm9tb3RlIGNvbnN1bWVyc+KAmSByaWdodHMsIGludGVyZXN0cyBhbmQgc2FmZXR5LiAiIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlIiBjb250ZW50PSIyMDA3LTAyLTA5IiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZS5BdmFpbGFibGUiIGNvbnRlbnQ9IjIwMDctMDItMDkiIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlLlN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZSIgY29udGVudD0iVGVtYSIgLz4NCjxtZXRhIG5hbWU9IkRDLkZvcm1hdCIgY29udGVudD0idGV4dC9odG1sIiAvPg0KPG1ldGEgbmFtZT0iREMuSWRlbnRpZmllci5VUkwiIGNvbnRlbnQ9Ii9lbi90b3BpY3MvY29uc3VtZXJzLmh0bWw/aWQ9MjE0IiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UuUHJlZmVyZW5jZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJEQy5QdWJsaXNoZXIiIGNvbnRlbnQ9InJlZ2plcmluZ2VuLm5vIiAvPg0KPG1ldGEgbmFtZT0iQVVUSE9SIiBjb250ZW50PSJHb3Zlcm5tZW50Lm5vIiAvPg0KPG1ldGEgbmFtZT0iY3JlYXRpb25fZGF0ZSIgY29udGVudD0iRnJpLCAwOSBGZWIgMjAwNyAxNDo0MDowMCBHTVQiIC8+DQo8bWV0YSBuYW1lPSJMQVNULU1PRElGSUVEIiBjb250ZW50PSJGcmksIDA5IEZlYiAyMDA3IDE0OjQzOjM3IEdNVCIgLz4NCjxtZXRhIG5hbWU9IlJFVklTRUQiIGNvbnRlbnQ9IkZyaSwgMDkgRmViIDIwMDcgMTQ6NDM6MzcgR01UIiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LUxhbmd1YWdlIiBjb250ZW50PSJlbiIgLz4NCmQCAQ8WAh4HVmlzaWJsZWhkAgIPFgIeC18hSXRlbUNvdW50ZmQCAxAWAh4GYWN0aW9uBSAvZW4vdG9waWNzL2NvbnN1bWVycy5odG1sP2lkPTIxNGQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILD2QWAmYPFQFfI2N0bDAwX0Z1bGxSZWdpb25fQ2VudGVyQW5kUmlnaHRSZWdpb25fUmlnaHRSZWdpb25fUmlnaHRSZWdpb25Db250YWN0SW5mb19jdGwwMV9BcmVhQ29udGFjdEluZm9kAg0PZBYCZg9kFgJmD2QWAgIBD2QWCGYPDxYGHgdUb29sVGlwBS5LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkZW4gcMOlIGJva23DpWwuHwAFB0Jva23DpWweC05hdmlnYXRlVXJsBSovdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0yMTQmZXBzbGFuZ3VhZ2U9bm9kZAIBDw8WBh8EBS1LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkYSBww6Ugbnlub3Jzay4fAAUHTnlub3Jzax8FBS0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0yMTQmZXBzbGFuZ3VhZ2U9bm4tTk9kZAICDw8WBh8EBTRDb2Foa2thbCBkw6Fra28gZGUgb2Fpbm7DoXQgZMOhbiBzaWlkZHUgc8OhbWVnaWxsaWkuHwAFC1PDoW1lZ2llbGxhHwUFLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTIxNCZlcHNsYW5ndWFnZT1zZS1OT2RkAgMPDxYGHwQFIlRoaXMgcGFnZSBpcyBkaXNwbGF5ZWQgaW4gZW5nbGlzaC4fAAUHRW5nbGlzaB8FBS0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0yMTQmZXBzbGFuZ3VhZ2U9ZW4tR0JkZAICDxUBASBkAgMPZBYMZg8VASQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgEPFQELUG9ydGFsIGhvbWVkAgIPZBYEZg8VASQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgIPFQM6L3RlbXBsYXRlcy9HZW5lcmVsbEZvcnNpZGUuYXNweD9pZD04NTg0MyZlcHNsYW5ndWFnZT1lbi1HQhxTdG9sdGVuYmVyZydzIDJuZCBHb3Zlcm5tZW50Mi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9OTMzJmVwc2xhbmd1YWdlPWVuLUdCZAIDDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCBA8VAQ1Hb3Zlcm5tZW50Lm5vZAIGD2QWEmYPZBYEZg9kFgJmD2QWBAICDxUEG1NlYXJjaCBhbGwgb2YgZ292ZXJubWVudC5ubwZTZWFyY2gRUXVpY2tTZWFyY2hCdXR0b24GU2VhcmNoZAIDDw8WBB8ABRtTZWFyY2ggYWxsIG9mIGdvdmVybm1lbnQubm8fAWhkZAIBDw8WAh4LX2lzRWRpdGFibGVoZGQCAQ8VAR4vc3R5bGVzL0ltYWdlcy9zeW1ib2xfdGlwcy5naWZkAgUPFQEhL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3ByaW50X3QuZ2lmZAIIDxUDIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9zbWFsbFRleHQuZ2lmJC9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9tZWRpdW1UZXh0LmdpZiMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbGFyZ2VUZXh0LmdpZmQCCQ9kFgJmDxUCdmh0dHA6Ly9pc2kucGhvbmV0aWNvbS5jb20vY2dpLWJpbi9yc3h0P3VybD1odHRwOi8vd3d3LnJlZ2plcmluZ2VuLm5vL2VuL3RvcGljcy9jb25zdW1lcnMuaHRtbD9pZD0yMTQmYW1wO2N1c3RvbWVyaWQ9MTkfL3N0eWxlcy9JbWFnZXMvc3ltYm9sX2x5ZF90LmdpZmQCCg9kFgICAQ8PFgQfBQU2L3RlbXBsYXRlcy9UZW1hSW5kZWtzLmFzcHg/aWQ9MjIzNDg2JmVwc2xhbmd1YWdlPWVuLUdCHwAFClRvcGljcyBBLVpkZAILD2QWAgIBDw8WBB8FBTkvdGVtcGxhdGVzL05ldHRzdGVkc2thcnQuYXNweD9pZD0yMjMyNzQmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUIU2l0ZSBNYXBkZAIMDw8WBB8FBTUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTQ4ODY0MSZlcHNsYW5ndWFnZT1lbi1HQh8ABQRIZWxwZGQCDQ8PFgQfBQVAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lk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AgMPZBYCZg8VAj0vdGVtcGxhdGVzL0Vrc3Rlcm5WaXJrc29taGV0LmFzcHg/aWQ9NDI2MTM3JmVwc2xhbmd1YWdlPWVuLUdCFlRoZSBDb25zdW1lciBPbWJ1ZHNtYW5kAgUPZBYCZg8WAh8BZxYCAgMPZBYCZg9kFgwCAQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yOTgmZXBzbGFuZ3VhZ2U9ZW4tR0IzTWluaXN0cnkgb2YgQ2hpbGRyZW4sIEVxdWFsaXR5IGFuZCBTb2NpYWwgSW5jbHVzaW9uZAICDxUCHG1haWx0bzpwb3N0bW90dGFrQGJsZC5kZXAubm8AZAIFD2QWAgIBD2QWAmYPFQFDPGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0OTA5MCI+KzQ3IDIyIDI0IDkwIDkwPC9hPmQCBw8WAh8BaBYEZg9kFgJmDw8WAh8BaGRkAgEPZBYCZg8VAQBkAgkPZBYCAgEPZBYCZg8VAUM8YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0NzIyMjQ5NTE1Ij4rNDcgMjIgMjQgOTUgMTU8L2E+ZAINDw8WBh8GaB8QAqoCHwsFB0RlZmF1bHRkZAIDD2QWAgIBD2QWBAIBD2QWAmYPFQIkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCC1BvcnRhbCBob21lZAIDDxYGHglfUGFnZUxpbmsoKW5FUGlTZXJ2ZXIuQ29yZS5QYWdlUmVmZXJlbmNlLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwE0Hg9fTnVtYmVyT2ZMZXZlbHMCCh4KX0V4cGFuZEFsbGgWbAIBD2QWAmYPFQEAZAICD2QWAmYPFQM4L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTExNTAmZXBzbGFuZ3VhZ2U9ZW4tR0IACVdoYXRzIG5ld2QCBA9kFgJmDxUBCFNlbGVjdGVkZAIFD2QWAmYPFQQAOi90ZW1wbGF0ZXMvUG9ydGFsVGVtYUZvcnNpZGUuYXNweD9pZD0yMDgmZXBzbGFuZ3VhZ2U9ZW4tR0IABlRvcGljc2QCBw9kFgJmDxUBAGQCCA9kFgJmDxUDLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTkyNiZlcHNsYW5ndWFnZT1lbi1HQgAVQnVzaW5lc3MgYW5kIGluZHVzdHJ5ZAIKD2QWAmYPFQEAZAILD2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MjE1JmVwc2xhbmd1YWdlPWVuLUdCABxDaXZpbCBwcm90ZWN0aW9uIGFuZCBkZWZlbmNlZAIND2QWAmYPFQEIU2VsZWN0ZWRkAg4PZBYCZg8VAy0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0yMTQmZXBzbGFuZ3VhZ2U9ZW4tR0IACUNvbnN1bWVyc2QCEA9kFgJmDxUBAGQCEQ9kFgJmDxUDLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTkyMCZlcHNsYW5ndWFnZT1lbi1HQgAjQ3VsdHVyZSwgbGVpc3VyZSBhbmQgYmVsaWVmIHN5c3RlbXNkAhMPZBYCZg8VAQBkAhQPZBYCZg8VAy0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05MzAmZXBzbGFuZ3VhZ2U9ZW4tR0IAFkVkdWNhdGlvbiBhbmQgcmVzZWFyY2hkAhYPZBYCZg8VAQBkAhcPZBYCZg8VAy0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0yMTImZXBzbGFuZ3VhZ2U9ZW4tR0IABkVuZXJneWQCGQ9kFgJmDxUBAGQCGg9kFgJmDxUDLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTkyMiZlcHNsYW5ndWFnZT1lbi1HQgAIRXF1YWxpdHlkAhwPZBYCZg8VAQBkAh0PZBYCZg8VAy0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0yMTMmZXBzbGFuZ3VhZ2U9ZW4tR0IAF0ZhbWlsaWVzIGFuZCB1cGJyaW5naW5nZAIfD2QWAmYPFQEAZAIgD2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTI0JmVwc2xhbmd1YWdlPWVuLUdCAB9Gb29kLCBmaXNoZXJpZXMgYW5kIGFncmljdWx0dXJlZAIiD2QWAmYPFQEAZAIjD2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTE3JmVwc2xhbmd1YWdlPWVuLUdCAA9IZWFsdGggYW5kIGNhcmVkAiUPZBYCZg8VAQBkAiYPZBYCZg8VAy0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0yMTEmZXBzbGFuZ3VhZ2U9ZW4tR0IAFEhvdXNpbmcgYW5kIHByb3BlcnR5ZAIoD2QWAmYPFQEAZAIpD2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTE4JmVwc2xhbmd1YWdlPWVuLUdCACBJbW1pZ3JhdGlvbiBhbmQgc29jaWFsIGluY2x1c2lvbmQCKw9kFgJmDxUBAGQCLA9kFgJmDxUDLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTkyOSZlcHNsYW5ndWFnZT1lbi1HQgAhSW5kaWdlbm91cyBwZW9wbGVzIGFuZCBtaW5vcml0aWVzZAIuD2QWAmYPFQEAZAIvD2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTE5JmVwc2xhbmd1YWdlPWVuLUdCABdJbnRlcm5hdGlvbmFsIHJlbGF0aW9uc2QCMQ9kFgJmDxUBAGQCMg9kFgJmDxUDLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTIxMCZlcHNsYW5ndWFnZT1lbi1HQgASTGFib3VyIGFuZCB3ZWxmYXJlZAI0D2QWAmYPFQEAZAI1D2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTIzJmVwc2xhbmd1YWdlPWVuLUdCAA1MYXcgYW5kIG9yZGVyZAI3D2QWAmYPFQEAZAI4D2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTIxJmVwc2xhbmd1YWdlPWVuLUdCABpNdW5pY2lwYWxpdGllcyBhbmQgcmVnaW9uc2QCOg9kFgJmDxUBAGQCOw9kFgJmDxUDLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTkyNyZlcHNsYW5ndWFnZT1lbi1HQgAVUHVibGljIGFkbWluaXN0cmF0aW9uZAI9D2QWAmYPFQEAZAI+D2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTMxJmVwc2xhbmd1YWdlPWVuLUdCAAtUaGUgZWNvbm9teWQCQA9kFgJmDxUBAGQCQQ9kFgJmDxUDLS90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTkyNSZlcHNsYW5ndWFnZT1lbi1HQgAPVGhlIGVudmlyb25tZW50ZAJDD2QWAmYPFQEAZAJED2QWAmYPFQMtL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9OTI4JmVwc2xhbmd1YWdlPWVuLUdCABxUcmFuc3BvcnQgYW5kIGNvbW11bmljYXRpb25zZAJID2QWAmYPFQEAZAJJD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQzOTI3OSZlcHNsYW5ndWFnZT1lbi1HQgAJRG9jdW1lbnRzZAJLD2QWAmYPFQEAZAJMD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQzNzQ5NSZlcHNsYW5ndWFnZT1lbi1HQgAHV2ViY2FzdGQCTg9kFgJmDxUBAGQCTw9kFgJmDxUDNC90ZW1wbGF0ZXMvS2FtcGFuamUuYXNweD9pZD00NDMzMTQmZXBzbGFuZ3VhZ2U9ZW4tR0IADlRoZSBHb3Zlcm5tZW50ZAJRD2QWAmYPFQEAZAJSD2QWAmYPFQM2L3RlbXBsYXRlcy9TZWFyY2hQYWdlLmFzcHg/aWQ9MTE1MzIyJmVwc2xhbmd1YWdlPWVuLUdCABBEb2N1bWVudCBBcmNoaXZlZAIFD2QWAgIBD2QWAmYPFQH6ATxwPkdvdmVybm1lbnQgQWRtaW5pc3RyYXRpb24gU2VydmljZXMsIEVpbmFyIEdlcmhhcmRzZW5zIHBsYXNzIDMsIFBvc3Rib3ggODEyOSBEZXAsIDAwMzIgT1NMTywgTm9yd2F5Jm5ic3A7PGJyIC8+VGxmOiArIDQ3IDIyIDI0IDkwIDkwIHwgRS1tYWlsOiA8YSBocmVmPSJtYWlsdG86cmVkYWtzam9uZW5AZHNzLmRlcC5ubyI+PGZvbnQgY29sb3I9IiM4MDAwODAiPnJlZGFrc2pvbmVuQGRzcy5kZXAubm88L2ZvbnQ+PC9hPiZuYnNwOzwvcD5kAgUPZBYCZg8VARgvc2NyaXB0L2pzL3NkY18wOTA4MTkuanNkGAcFR2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGVtYWlsQWxlcnQkbXVsdGlWaWV3Dw9kZmQFWGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRjdGwwMSRQYWdlTGlzdDEPD2ZkZAVmY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJGN0bDAwJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JE11bHRpUGFnZUxpc3QPD2ZkZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRkBW9jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kdWNMb3ZGb3Jza3JpZnQkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkdXhWaWV3cw8PZGZkEOuL7X1ulArsQgFwvO4iyORYEOI=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0MDE2MTEwMjlkGA4FR2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGVtYWlsQWxlcnQkbXVsdGlWaWV3Dw9kZmQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJE11bHRpUGFnZUxpc3QPD2ZkZAV+Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRSZWxhdGVkTG92Rm9yc2tyaWZ0JFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJHV4Vmlld3MPD2RmZAWBAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkRG9jdW1lbnRSZWxhdGlvbnNoaXAyJFJlbGF0aW9uc09uZUhvcFBhZ2VMaXN0MQ8PZmRkBXVjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJEhvZXJpbmdGb3IkUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAVvY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJHVjTG92Rm9yc2tyaWZ0JFJlbGF0aW9uc09uZUhvcFBhZ2VMaXN0Dw9mZGQFWGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRjdGwwMSRQYWdlTGlzdDEPD2ZkZAWAAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFeGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkSG9lcmluZ3NOb3RhdCRSZWxhdGlvbk9uZUhvcFBhZ2VMaXN0MQ8PZmRkBWZjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kY3RsMDAkUmVsYXRpb25zT25lSG9wUGFnZUxpc3QPD2ZkZAVPY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRUaXBBRnJpZW5kUGxhY2Vob2xkZXIkVGlwQUZyaWVuZCRUaXBWaWV3cw8PZAIBZAUdY3RsMDAkUmVxdWlyZWRSZXNvdXJjZXNIZWFkZXIPBQZIZWFkZXJkBUxjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRSZWxhdGVkQ29udGFjdDIkUGFnZUxpc3QxDw9mZGTPCDa0dbsPWi+iPJX84kUN1poL2g==" />
 </div>
 
+
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EqeggJn66n4UBdY8MbXhpm4B0qmJ6qTeldD4gI_YWoLk0slZiV09hPpkSC4kPPQHqw2oiG3D3eL-K2zLMn-5JELP2CBBmZJgNWx919bugEX654QdMSv3E13cFAeeqwRm_knJDg2&amp;t=6fd2091f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=argtXe0SlTRDlv1m2KtPxbf_kJUIvOYZaBh8WARFoIMmDh9A_6vgcztE7W4MTCqUngWQOBE2qv2FwX84zF7vwOLGXuY6zcROPGasP6n0LXyd3AmuBCfmgmG9SyZEPj1LfcuoMg2&amp;t=6fd2091f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=DHYmz5vqrxkn_XcNHT0cRdAjLwN8MlDs6WOsro3_Nuocyo2bgQ8XplNUAV-oAjlIMZ3uXsArqzgOSaJHTEOX3t9ja476kI7FQqhUJXCcFgBwVu8ahCP6ZDMDmckHSmGIsKzDHA2&amp;t=6fd2091f" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAnZ1Y7gZhuXGiqOlaMzZa4nBMVExvKpsjSyWhFzdTDXQdZdaX9ImkQXICqL304eO0T0gj75UQ9fU7oniCuKKB90LtoGARvq0HfwzdD5C1xPl1zcSGLuJnn1LsnNPrGy3b0CPsJsdyXXHy+3yhLCVdHJMHfbnZJ8y7x5WOV20f4I7wflHDmU9Y76ApbWzcBWcw2EUBLN6DOXRbqug5WOSZCHkzp/3w==" />
+</div>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo">Go to contact information</a></li>
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">Go to search</a><a href="#Content" tabindex="3">Go to content</a><a href="#AreaTopSiteNav" tabindex="4">Go to top menu</a><a href="#AreaLeft" tabindex="5">Go to left menu</a>
+    <a href="#FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo" tabindex="6">Go to contact information</a>
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/tema/forbruker.html?id=214">Bokmål</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/tema/forbrukar.html?id=214">Nynorsk</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/Fattat/geavaheaddji.html?id=214">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/topics/consumers.html?id=214">English</a></li>
+        <li class="First Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/tema/forbruker.html?id=214">Bokmål</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/tema/forbrukar.html?id=214">Nynorsk</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/Fattat/geavaheaddji.html?id=214">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="This page is displayed in english." class="ISI_IGNORE" href="/en/topics/consumers.html?id=214">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/en.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/en.html?id=4" tabindex="20">
+                                            government.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/en/the-government/solberg/members-of-the-government-2.html?id=543170' class="ISI_MENU" tabindex="21">Solberg’s Government</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/en/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Ministries
+                                        </a>
+                                        
     <ul>
   
     <li>
@@ -118,7 +139,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+        <a href="/en/dep/asd.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour and Social Affairs</a>
     </li>
   
     <li>
@@ -130,14 +151,6 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
-    </li>
-  
-    <li>
         <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
     </li>
   
@@ -146,15 +159,19 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and Public Security</a>
     </li>
   
     <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
+        <a href="/en/dep/kld.html?id=668" class="NormalLink ISI_MENU">Ministry of Climate and Environment</a>
     </li>
   
     <li>
-        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
+        <a href="/en/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Modernisation</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
     </li>
   
     <li>
@@ -166,11 +183,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+        <a href="/en/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade, Industry and Fisheries</a>
     </li>
   
     <li>
@@ -189,321 +202,69 @@ function printPage()
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en.html?id=4"><img class="ProfileLogo" src="/styles/Images/DEP/DEP_en.gif" alt='Government.no' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/en.html?id=4" tabindex="34"><img class="ProfileLogo" src="/styles/Images/DEP/DEP_en.gif" alt='Government.no' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
     <label for="quicksearchinput" class="QuickSearchHeader">Search all of government.no</label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Search" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Search" />        
     <span></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Share/Send' /><span class="open" id="open">Share/Send</span><span class="display-none" id="close">Close</span></a></li>
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/topics/consumers.html?id=214&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/sitemap.html?id=223274">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/contact.html?id=224637">Contact</a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+        <li class="Share">
+            <noscript>
+                <a href="http://www.regjeringen.no/templates/Tema.aspx?id=214&amp;epslanguage=en-GB&amp;tipafriend=1" id="noScriptTipLink" rel="nofollow" tabindex="72"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                        vertical-align: middle; height: 1em;" alt='Share/Send' />Share/Send</a></noscript>
+            <a onclick="return displayTipAFriendForm();" id="TopRegion_TopRightRegion_ctl00_tipAFriendLink" tabindex="34" class="display-none" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$ctl00$tipAFriendLink&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                    vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Share/Send' /><span id="open">Share/Send</span><span id="close" style="display: none;">Close</span></a>
+        </li>
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Click here to print this page' />Print</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/templates/Tema.aspx?id=214&amp;epslanguage=en-GB&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal font size' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Tema.aspx?id=214&amp;epslanguage=en-GB&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium font size' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Tema.aspx?id=214&amp;epslanguage=en-GB&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Large font size' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/topics/consumers.html?id=214&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/en/sitemap.html?id=223274">Site Map</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/en/contact.html?id=224637">Contact</a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
-                        <div id="AreaContentAndRight">
-                            
-                                <div id="AreaContent">
-                                    <div id="slickbox" style="display:none;">
-                                       
-                                            
-<script type="text/javascript"><!--
-function fbs_click() 
-{
-    u=location.href;
-    t=document.title;
-    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
-    return false;
-}
-function nettby_click(pageurl,pagename)
-{
-    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
-    wnd.focus();
-    return false;
-}
-function GetThis(T, C, U, L) 
-{
-	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
-	wnd = window.open(targetUrl);
-	wnd.focus();
-	return false;
-}
---></script>
-
-
-
-    <div id="thankyouview">
-        <div id="thankyoudiv"></div>        
-    </div>
-    <div id="tipafriend">
-        <div id="tipafriendContent">
-            
-            <div>
-	  
-                <p><strong>Share this page with a friend </strong></p>
-                <ol>
-                    <li>
-                        
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
-                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
-                    </li>
-                    <li>
-                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
-                    </li>
-                    <li>
-                                                         
-                    </li>
-                </ol>                          
-            
-</div>
-        </div> 
-    </div>
-    <div id="ShareArticle">
-        <p><strong>Share</strong></p>
-        <ul class="communities">        
-            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/topics/consumers.html?id=214" target="_blank">Facebook</a></li>            
-            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/en/topics/consumers.html?id=214', 'Consumers')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/en/topics/consumers.html?id=214&amp;description=Consumers' target="_blank">Nettby</a></li>
-            <li><a class="share_myspace" href="#" onclick="return GetThis('Consumers','','http://www.regjeringen.no/en/topics/consumers.html?id=214',3)">Myspace</a></li>
-            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
-        </ul>
-    </div>
-
-
-
-                                        
-                                    </div>
-                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
-                                    
-    
-    
-
-    
-    
-
-         <p class="breadcrumbs">You are here: <a href="/en.html?id=4">Government.no</a> / <a href="/en/topics.html?id=208">Topics</a> / <span>Consumers</span>
-</p>
-         <div class="documentTop SubjectPage">            
-                     
-            <h1>Consumers</h1>
-            <div class="temaMobIngressImg" style="display: none;"><img src="/Upload/PORTAL/Temabilder/forbruker_150x113.jpg" alt="Use of bankcard" /></div>
-            <p class="textIngress">The chief goals of consumer policy are to promote consumers’ rights, interests and safety. </p>
-            <img src="/Upload/PORTAL/Temabilder/forbruker_150x113.jpg" alt="Use of bankcard" class="temaIngressImg" />
-            <div class="descriptionText"><p>Consumer policy cuts across organisational boundaries and involves issues that are the responsibility of a number of different ministries. <em>The</em> <em>Ministry of Children, Equality and Social Inclusion</em> endeavours to strengthen consumer rights, interests and safety. </p>
-<p>On this page you will find general information and documents relating to consumer policy. You can explore this topic in more detail by using the menu on the right.</p></div>
-	    <div style="clear:both"></div>
-	      
-         </div>
-         
-         
-                                
-        
-        
-        
-                            
-    <div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_divPageContent" class="documentBody">  
-                
-    </div> 
-	<div class="printContact">
-		<div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_RelatedContact2_AreaContactInfo" class="Toolbox">   
-    <h2 id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_RelatedContact2_H2Header" class="ToolboxHeader">
-       
-                        Contact information
-                    
-    </h2>
-                 
-            <div class="ToolboxContent">
-					<h3 class="relatedContactHead">
-						 <a href="/en/dep/bld.html?id=298" class="structuredDataEmail">Ministry of Children, Equality and Social Inclusion</a>
-					</h3>
-					<p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/images/emailimages/20062e429b07fbde11c01b6b7a3b1585.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', 'BA84DB9586D6D3DBD797DF9ADED4DFE9849D9D87DFD6C3CEC99A9DD5D494CADFDE94DED6D8FAD1DBCECED5D7CEC9D5CA80D5CED6D3DBD79D87DCDFC8D29ADB86'));//--></script></p>
-					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
-						 <tr>
-	<td>
-                        Telephone:
-                    </td>
-	<td><a class="telephoneLink" href="tel:+4722249090">+47 22 24 90 90</a></td>
-</tr>
-
-						  
-						 <tr>
-	<td>
-                        Fax:
-                    </td>
-	<td><a class="telephoneLink" href="tel:+4722249515">+47 22 24 95 15</a></td>
-</tr>
-
-					</table>
-					<h3 class="noPadBtm">
-						 
-                        Address
-                    </h3>
-					<p>Akersgata 59<br />Postbox 8036 Dep<br />0030 Oslo<br />Norway<br /></p>            
-					<!-- Separator -->
-            </div>
-         
-</div>
-	</div>
-
-                                </div>
-                                <div id="AreaRight"> 
-                                    
-                                        
-                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfileNoShow"><a href='/en.html?id=4'></a></div>
-                                        
-                                        
-        <div class="Toolbox GlobalNavMain TemaSearch">
-            <div class="ToolboxContent GlobalNav" style=';'>
-                <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_Panel1">
-	
-                    <h2 class="GlobalNavSubheading"><label>
-                    Search within topic
-                </label></h2>
-                    <div class="searchtermtext"><h3>Consumers</h3></div>
-                    <input name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$searchText" type="text" id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_searchText" class="searchField" /> 
-                    <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ExecuteSearch" class="searchBut" />
-                
-</div>
-             </div>
-         </div>
-    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divHeading" class="Toolbox GlobalNavMain">  
-    
-        
-        <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divChildren" class="ToolboxContent GlobalNav">  
-            <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2ChildSubjects" class="GlobalNavSubheading">
-                
-                        Narrow by topic
-                    
-            </h2>
-        <h3>Ministry of Children, Equality and Social Inclusion</h3><ul><li><a href="/en/dep/bld/Topics/Consumer-affairs.html?id=1092" title="" class="ISI_MENU">Consumer affairs</a></li></ul><h3>Ministry of Petroleum and Energy</h3><ul><li><a href="/en/dep/oed/Subject/Power-and-consumers.html?id=86980" title="" class="ISI_MENU">Power and consumers</a></li></ul></div>
-
-        
-</div> 
-
-                                        
-                                                
-                                        
-        
-        
-
-                                                                        
-                                        
-    
-    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl00_divToolbox" class="Toolbox">  
-
-        <h2 class="ToolboxHeader">Responsible organization</h2>
-        <div class="ToolboxContent">
-            <ul>
-    
-        <li><a href="/en/dep/bld/BLD-arbeider-for-at/Offices-and-agencies-associated-with-the-Ministry-of-Children-and-Equality/The-Consumer-Dispute-Commission.html?id=426145" title="" class="ISI_MENU">The Consumer Dispute Commission</a></li>
-    
-        <li><a href="/en/dep/bld/BLD-arbeider-for-at/Offices-and-agencies-associated-with-the-Ministry-of-Children-and-Equality/The-Consumer-Dispute-Commission-2.html?id=426139" title="" class="ISI_MENU">The Consumer Dispute Commission</a></li>
-    
-        <li><a href="/en/dep/bld/BLD-arbeider-for-at/Offices-and-agencies-associated-with-the-Ministry-of-Children-and-Equality/The-Consumer-Ombudsman.html?id=426137" title="" class="ISI_MENU">The Consumer Ombudsman</a></li>
-    
-            </ul>
-        </div>
-           
-</div>
-    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo" class="Toolbox">   
-    <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_H2Header" class="ToolboxHeader">
-       
-                        Contact information
-                    
-    </h2>
-                 
-            <div class="ToolboxContent">
-					<h3 class="relatedContactHead">
-						 <a href="/en/dep/bld.html?id=298" class="structuredDataEmail">Ministry of Children, Equality and Social Inclusion</a>
-					</h3>
-					<p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/images/emailimages/20062e429b07fbde11c01b6b7a3b1585.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_2', 'B28CD39D8EDEDBD3DF9FD792D6DCD7E18C95958FD7DECBC6C19295DDDC9CC2D7D69CD6DED0F2D9D3C6C6DDDFC6C1DDC288DDC6DEDBD3DF958FD4D7C0DA92D38E'));//--></script></p>
-					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
-						 <tr>
-	<td>
-                        Telephone:
-                    </td>
-	<td><a class="telephoneLink" href="tel:+4722249090">+47 22 24 90 90</a></td>
-</tr>
-
-						  
-						 <tr>
-	<td>
-                        Fax:
-                    </td>
-	<td><a class="telephoneLink" href="tel:+4722249515">+47 22 24 95 15</a></td>
-</tr>
-
-					</table>
-					<h3 class="noPadBtm">
-						 
-                        Address
-                    </h3>
-					<p>Akersgata 59<br />Postbox 8036 Dep<br />0030 Oslo<br />Norway<br /></p>            
-					<!-- Separator -->
-            </div>
-         
-</div>  
-
-                                                                                                   
-                                </div>
-                            
-                        </div>
                         <div id="AreaLeft">
-                              
+                            
                                 <div id="AreaLeftNav" class="NavListV">
                                     
 
@@ -511,171 +272,558 @@ document.write(dc('Eoi_2', 'B28CD39D8EDEDBD3DF9FD792D6DCD7E18C95958FD7DECBC6C192
 <a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
 
     <ul>
-        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en.html?id=4">
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en.html?id=4" tabindex="41">
             Portal home</a></li></ul>
 
 <ul><li class="">
-        <a class="ISI_MENU" href="/en/whatsnew.html?id=1150" title=''>
+        <a class="ISI_MENU" href="/en/whatsnew.html?id=1150" title="" tabindex="42">
             Whats new</a>
     </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/topics.html?id=208" title=''>
+        <a class="ISI_MENU " href="/en/topics.html?id=208" title="" tabindex="43">
             Topics</a>
     <ul><li class="">
-        <a class="ISI_MENU" href="/en/topics/Business-and-industry.html?id=926" title=''>
+        <a class="ISI_MENU" href="/en/topics/business-and-industry.html?id=926" title="" tabindex="44">
             Business and industry</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/Civil-protection-and-defence.html?id=215" title=''>
+        <a class="ISI_MENU" href="/en/topics/civil-protection-and-defence.html?id=215" title="" tabindex="45">
             Civil protection and defence</a>
     </li><li class="Selected">
-        <a class="Selected ISI_MENU" href="/en/topics/consumers.html?id=214" title=''>
+        <a class="Selected ISI_MENU" href="/en/topics/consumers.html?id=214" title="" tabindex="46">
             Consumers</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/Culture-leisure-and-belief-systems.html?id=920" title=''>
+        <a class="ISI_MENU" href="/en/topics/culture-leisure-and-belief-systems.html?id=920" title="" tabindex="47">
             Culture, leisure and belief systems</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/Education-and-research.html?id=930" title=''>
+        <a class="ISI_MENU" href="/en/topics/education-and-research.html?id=930" title="" tabindex="48">
             Education and research</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/energy.html?id=212" title=''>
+        <a class="ISI_MENU" href="/en/topics/energy.html?id=212" title="" tabindex="49">
             Energy</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/Equality.html?id=922" title=''>
+        <a class="ISI_MENU" href="/en/topics/equality.html?id=922" title="" tabindex="50">
             Equality</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/families-and-upbringing.html?id=213" title=''>
+        <a class="ISI_MENU" href="/en/topics/families-and-upbringing.html?id=213" title="" tabindex="51">
             Families and upbringing</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/Food-fisheries-and-agriculture.html?id=924" title=''>
+        <a class="ISI_MENU" href="/en/topics/food-fisheries-and-agriculture.html?id=924" title="" tabindex="52">
             Food, fisheries and agriculture</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/Health-and-care.html?id=917" title=''>
+        <a class="ISI_MENU" href="/en/topics/health-and-care.html?id=917" title="" tabindex="53">
             Health and care</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/housing-and-property.html?id=211" title=''>
+        <a class="ISI_MENU" href="/en/topics/housing-and-property.html?id=211" title="" tabindex="54">
             Housing and property</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/Immigration-and-social-inclusion.html?id=918" title=''>
+        <a class="ISI_MENU" href="/en/topics/immigration-and-social-inclusion.html?id=918" title="" tabindex="55">
             Immigration and social inclusion</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/Indigenous-peoples-and-minorities.html?id=929" title=''>
+        <a class="ISI_MENU" href="/en/topics/indigenous-peoples-and-minorities.html?id=929" title="" tabindex="56">
             Indigenous peoples and minorities</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/International-relations.html?id=919" title=''>
+        <a class="ISI_MENU" href="/en/topics/international-relations.html?id=919" title="" tabindex="57">
             International relations</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/engelsk-tema.html?id=210" title=''>
+        <a class="ISI_MENU" href="/en/topics/engelsk-tema.html?id=210" title="" tabindex="58">
             Labour and welfare</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/Law-and-order.html?id=923" title=''>
+        <a class="ISI_MENU" href="/en/topics/law-and-order.html?id=923" title="" tabindex="59">
             Law and order</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/Municipalities-and-regions.html?id=921" title=''>
+        <a class="ISI_MENU" href="/en/topics/municipalities-and-regions.html?id=921" title="" tabindex="60">
             Municipalities and regions</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/Public-administration.html?id=927" title=''>
+        <a class="ISI_MENU" href="/en/topics/public-administration.html?id=927" title="" tabindex="61">
             Public administration</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/The-economy.html?id=931" title=''>
+        <a class="ISI_MENU" href="/en/topics/the-economy.html?id=931" title="" tabindex="62">
             The economy</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/The-environment.html?id=925" title=''>
+        <a class="ISI_MENU" href="/en/topics/the-environment.html?id=925" title="" tabindex="63">
             The environment</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/topics/Transport-and-communications.html?id=928" title=''>
+        <a class="ISI_MENU" href="/en/topics/transport-and-communications.html?id=928" title="" tabindex="64">
             Transport and communications</a>
     </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/doc.html?id=439279" title=''>
+        <a class="ISI_MENU" href="/en/doc.html?id=439279" title="" tabindex="65">
             Documents</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/webcast.html?id=437495" title=''>
+        <a class="ISI_MENU" href="/en/webcast.html?id=437495" title="" tabindex="66">
             Webcast</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/the-government.html?id=443314" title=''>
+        <a class="ISI_MENU" href="/en/the-government.html?id=443314" title="" tabindex="67">
             The Government</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/archive.html?id=115322" title=''>
+        <a class="ISI_MENU" href="/en/archive.html?id=115322" title="" tabindex="68">
             Document Archive</a>
     </li></ul>
 
                                 </div>
-                              
+                                
+                                
+                            
+                        </div>
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="FullRegion_CenterAndRightRegion_slickbox" class="slickbox" style="display: none;">
+                                        
+                                            
+<script type="text/javascript"><!--
+    function facebook_click() {
+        u = location.href;
+        t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+        return false;
+    }
+    function twitter_click() {
+        u = location.href;
+        t = encodeURIComponent('Consumers');
+        window.open('http://twitter.com/share?url=' + encodeURIComponent(u) + '&text=' + t, 'sharer', 'toolbar=0,status=0,width=350,height=230');
+        return false;
+    }
+--></script>
+<div id="thankyouview">
+    <div id="thankyoudiv">
+        
+    </div>
+</div>
+<div id="tipafriend">
+    <div id="tipafriendContent">
+        
+                <div>
+	
+                    <div id="TipAFriendForm">
+                        <fieldset>
+                            <legend><strong>
+                                Share this page with a friend 
+                            </strong></legend>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
+                                <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;">
+</textarea>
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="setTipClicked();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitTextBox" style="display: none;
+                                    width: 10px;" />
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                
+                            </div>
+                        </fieldset>
+                    </div>
+                
+</div>
+            
+    </div>
+</div>
+<div id="ShareArticle">
+    <p>
+        <strong>
+            Share
+        </strong>
+    </p>
+    <ul class="communities">
+        <li><a class="share_facebook" onclick="return facebook_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/topics/consumers.html?id=214" target="_blank">
+            Facebook</a></li>
+        <li><a class="share_twitter" onclick="return twitter_click()" href="http://twitter.com/share?url=http://www.regjeringen.no/en/topics/consumers.html?id=214&amp;text=Consumers" target="_blank">
+            Twitter</a></li>
+        <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">
+            Origo</a></li>
+    </ul>
+</div>
+
+                                        
+                                    </div>
+                                    
+    
+
+
+    
+
+<div class="breadcrumbs ">
+
+    
+               <span>
+                   You are here: 
+               </span>
+                
+                <ul class="breadcrumbmenu">
+            
+                <li><a href="/en.html?id=4" title="Government.no">Government.no</a> / </li>
+            
+                <li><a href="/en/topics.html?id=208" title="Topics">Topics</a> / </li>
+            
+                <li><span>Consumers</span></li>
+            
+                </ul>
+            
+</div>
+    <div class="documentTop SubjectPage">            
+                 
+        <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+        <h1>Consumers</h1>
+            <div class="temaMobIngressImg" style="display: none;"><img src="/Upload/PORTAL/Temabilder/forbruker_150x113.jpg" alt="Use of bankcard" title="Use of bankcard" /></div>
+        
+            <img src="/Upload/PORTAL/Temabilder/forbruker_150x113.jpg" alt="Use of bankcard" title="Use of bankcard" class="temaIngressImg" />
+        <div class="descriptionText"><div>
+	<p>Consumer policy cuts across organisational boundaries and involves issues that are the responsibility of a number of different ministries. <em>The</em> <em>Ministry of Children, Equality and Social Inclusion</em> endeavours to strengthen consumer rights, interests and safety.</p>
+<p>On this page you will find general information and documents relating to consumer policy. You can explore this topic in more detail by using the menu on the right.</p>
+</div></div>
+        <div style="clear:both"></div>
+        
+		  <div class="documentLinks">
+				<div id="FullRegion_CenterAndRightRegion_CenterRegion_RSSLinkRender1_divRSSItem" class="linkItem">
+<img class="feedIcon" src="/Images/rss.gif" alt="" /><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=214&amp;language=en-GB" type="application/rss+xml" title="Subscribe to RSS feed: Consumers (Government.no)">Subscribe to RSS feed</a>
+</div>
+
+		  </div>
+        
+     </div>
+         
+    
+                            
+    <div id="FullRegion_CenterAndRightRegion_CenterRegion_divPageContent" class="documentBody">
+        
+    </div> 
+	<div class="printContact">
+		<div id="FullRegion_CenterAndRightRegion_CenterRegion_RelatedContact2_AreaContactInfo" class="Toolbox" tabindex="66">
+    
+        <h2 class="ToolboxHeader">
+           
+                        Contact information
+                    
+        </h2>
+    
+                 
+            <div class="ToolboxContent">
+					<h3 class="relatedContactHead">
+						 <a href="/en/dep/bld.html?id=298" class="structuredDataEmail">Ministry of Children, Equality and Social Inclusion</a>
+					</h3>
+					<p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/131f6dc9a737358c5d888e1d398ad807.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, '1A247B352676737B77377F3A7E747F49243D3D277F76636E693A3D7574346A7F7E347E76785A717B6E6E75776E69756A20756E76737B773D277C7F68723A7B26'));//--></script></p>
+					<p class="contactInfo">
+                        
+                            <span class="label">
+                        Telephone:
+                    </span>
+                            +47 22 24 90 90<br />
+                        
+                        
+                        
+                            <span class="label">
+                        Fax:
+                    </span>
+                            +47 22 24 95 15<br />
+                        
+                    </p>
+					
+					    <h3 class="noPadBtm">
+                        Address
+                    </h3>
+					    <div>
+	<p>Akersgata 59<br />Postbox 8036 Dep<br />0030 Oslo<br />Norway</p>
+</div>
+            </div>
+         
+</div>
+	</div>
+
+                                    
+                                        
+                                    
+
+                                    
+
+                                </div>
+                                <div id="AreaRight">
+                                    
+                                        
+                                            
+                                        
+                                        
+        <div class="Toolbox GlobalNavMain TemaSearch">
+        
+            <div class="ToolboxContent GlobalNav">
+                <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_Panel1">
+	
+                    <h2 class="GlobalNavSubheading"><label>
+                    Search within topic
+                </label></h2>
+                    <div class="searchtermtext"><h3>Consumers</h3></div>
+                    <input name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$searchText" type="text" id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_searchText" class="searchField" /> 
+                    <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ExecuteSearch" class="searchBut" />
+                
+</div>
+             </div>
+         
+     </div>
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divHeading" class="Toolbox GlobalNavMain">  
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divParents" class="ToolboxContent GlobalNav">  
+        <h2 id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2ParentSubjects" class="GlobalNavSubheading">
+            
+                        Expand by topic
+                                
+        </h2>
+    <h3>Government.no</h3><ul><li><a href="/en/topics.html?id=208" title="" class="ISI_MENU">Topics</a></li></ul></div>
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divChildren" class="ToolboxContent GlobalNav">  
+        <h2 id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2ChildSubjects" class="GlobalNavSubheading">
+            
+                        Narrow by topic
+                                
+        </h2>
+    <h3>Ministry of Children, Equality and Social Inclusion</h3><ul><li><a href="/en/dep/bld/topics/consumer-affairs.html?id=1092" title="" class="ISI_MENU">Consumer policy</a></li></ul></div>
+
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divRelated" class="ToolboxContent GlobalNav">
+        <h2 id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2HeaderRelated" class="GlobalNavSubheading">
+            
+                        Related
+                                
+        </h2> 
+    <h3>Ministry of Trade, Industry and Fisheries</h3><ul><li><a href="/en/dep/nfd/selected-topics/safe-and-healthy-seafood.html?id=1273" title="" class="ISI_MENU">Safe and healthy seafood</a></li></ul></div>
+</div>
+
+                                        
+                                        
+                                        
+                                            
+
+
+
+
+
+
+                                        
+                                        
+                                        
+                                        
+    
+
+                                        
+                                        
+                                        
+        
+    
+
+<div class="Toolbox">  
+    
+            <h2 class="ToolboxHeader">Responsible organization</h2>
+            <div class="ToolboxContent">               
+                <ul>
+        
+            <li><a href="http://www.forbrukertvistutvalget.no/" title="" class="ISI_MENU">The Consumer Dispute Commission</a></li>
+        
+            <li><a href="http://www.forbrukerradet.no/" title="" class="ISI_MENU">The Consumer Dispute Commission</a></li>
+        
+            <li><a href="http://www.forbrukerombudet.no/" title="" class="ISI_MENU">The Consumer Ombudsman</a></li>
+        
+                </ul>                
+            </div>
+                
+</div>    
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo" class="Toolbox" tabindex="66">
+    
+        <h2 class="ToolboxHeader">
+           
+                        Contact information
+                    
+        </h2>
+    
+                 
+            <div class="ToolboxContent">
+					<h3 class="relatedContactHead">
+						 <a href="/en/dep/bld.html?id=298" class="structuredDataEmail">Ministry of Children, Equality and Social Inclusion</a>
+					</h3>
+					<p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/upload/system/emailimages/131f6dc9a737358c5d888e1d398ad807.png' alt='' /><script type="text/javascript" id="Eos_2"><!--
+document.write(dc(2, '9FA1FEB0A3F3F6FEF2B2FABFFBF1FACCA1B8B8A2FAF3E6EBECBFB8F0F1B1EFFAFBB1FBF3FDDFF4FEEBEBF0F2EBECF0EFA5F0EBF3F6FEF2B8A2F9FAEDF7BFFEA3'));//--></script></p>
+					<p class="contactInfo">
+                        
+                            <span class="label">
+                        Telephone:
+                    </span>
+                            +47 22 24 90 90<br />
+                        
+                        
+                        
+                            <span class="label">
+                        Fax:
+                    </span>
+                            +47 22 24 95 15<br />
+                        
+                    </p>
+					
+					    <h3 class="noPadBtm">
+                        Address
+                    </h3>
+					    <div>
+	<p>Akersgata 59<br />Postbox 8036 Dep<br />0030 Oslo<br />Norway</p>
+</div>
+            </div>
+         
+</div>     
+
+                                        
+                                    
+                                </div>
                             
                         </div>
                     
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
+                    
                     <!-- ISI_STOP -->
-                </div>
                 </div>
             </div>
         </div>
-        
-         
-<div id="PageFooter"><p>Government Administration Services, Einar Gerhardsens plass 3, Postbox 8129 Dep, 0032 OSLO, Norway&nbsp;<br />Tlf: + 47 22 24 90 90 | E-mail: <img id='Eoi_3' class='obfimg' src='/images/emailimages/cc8068e7cd4930f223ca4cb5bf0fccf1.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_3', 'CAF4ABE5F6F4BEA4A5ACE5F6A5A4E4BAAFAEE4B9B9AE8AA4AFA4A5A0B9A1ABAEAFB8F4E8FAF2FAFAFAF2E9E8F7B8A5A6A5A9EABEA4A5ACF6F4E8A5A4E4BAAFAEE4B9B9AE8AA4AFA4A5A0B9A1ABAEAFB8F0A5BEA6A3ABA7E8F7ACAFB8A2EAABF6'));//--></script>&nbsp;</p></div>
-        
-        
-        
-   
+    </div>
     
-
- 
+        
+<div id="PageFooter"><p>Government Administration Services, Postbox 8129 Dep, 0032 OSLO, Norway&nbsp;<br />Tlf: + 47 22 24 90 90 | E-mail: <img id='Eoi_3' class='obfimg' src='/upload/system/emailimages/7e9be61f8efe803a769b5c63116adc10.png' alt='' /><script type="text/javascript" id="Eos_3"><!--
+document.write(dc(3, 'B789D6988B89D9D6C7C4988BD8D999C7D2D399C4C4D3F7D9D2D9D8DDC4DCD6D3D2C589958C878F8787878F94978DC5D8DBD8D4958AD2DBCEC3C497D9D6C7C48B8995D8D999C7D2D399C4C4D3F7D9D2D9D8DDC4DCD6D3D2C58DD8C3DBDED6DA958AD1D2C5DF97D68B'));//--></script>&nbsp;</p></div>
+<div title="web01" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web01" /></div>
     
+    
+    
+        
+
 
     
-
-<script type="text/javascript">
-//<![CDATA[
-var __wpmExportWarning='';var __wpmCloseProviderWarning='';var __wpmDeleteWarning='';//]]>
-</script>
-</form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
+    </form>
+    <div id="externalPageTrackers">
 	
-} else
-{    
-    //setAreaHeights();
-}
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
+</div>       
+    
+    
 
-<div id="ctl00_externalPageTrackers">
-	
-
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<div>
+    
 <script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no uses cookies to improve our service to the users. The cookies are mainly used for traffic measuring and for optimizing the site. Find more information on ",
+            messagepart2: ", or go back to regjeringen.no if you accept this.",
+            readMoreUrl: "http://www.regjeringen.no/en/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "use of cookies",
+            closeText: "Close"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
 //--></script>
-<!-- END Xtractor client tracker script -->
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
 
 </div>
+
+
+    
+
 </body>
 </html>

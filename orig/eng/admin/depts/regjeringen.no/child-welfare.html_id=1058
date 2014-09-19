@@ -1,34 +1,37 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
+    <!-- ISI_NOAUTOLANG -->
+    <title>
 	Child welfare - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="Child welfare" />
+<meta name="WT.ti" content="Child welfare" />
 <meta name="DCSext.regj.pagetype" content="Tema" />
-<meta name="DCSext.regj.pageid" content="1058" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
 <meta name="DCSext.regj.owner" content="bld" />
 <meta name="DCSext.regj.language" content="en-GB" />
+<meta name="DCSext.regj_lv2" content="dep" />
+<meta name="DCSext.regj_lv3" content="bld" />
+<meta name="DCSext.regj_lv4" content="topics" />
+<meta name="DCSext.regj_lv5" content="child-welfare" />
+<meta name="DCSext.regj_g-page" content="1058-g-page" />
 <meta name="TITLE" content="Child welfare" />
-<meta name="description" content="The main purpose of the child welfare service is to provide timely help and support to children and young people who live in conditions that may be harmful to their health or development, and to make sure they grow up in safe and secure surroundings.
-" />
+<meta name="description" content="The primary duty of the child welfare services is to ensure that children and young people living under conditions that may harm their health and development will receive the necessary assistance when they need it, and to contribute to giving children ..." />
 <meta name="KEYWORDS" content="Child welfare" />
 <meta name="DC.Title" content="Child welfare" />
 <meta name="DC.Creator" content="Ministry of Children, Equality and Social Inclusion" />
 <meta name="DC.Subject" content="Child welfare" />
-<meta name="DC.Description" content="The main purpose of the child welfare service is to provide timely help and support to children and young people who live in conditions that may be harmful to their health or development, and to make sure they grow up in safe and secure surroundings.
-" />
+<meta name="DC.Description" content="The primary duty of the child welfare services is to ensure that children and young people living under conditions that may harm their health and development will receive the necessary assistance when they need it, and to contribute to giving children ..." />
 <meta name="DC.Date" content="2008-01-15" />
 <meta name="DC.Date.Available" content="2008-01-15" />
 <meta name="DC.Type.Status" content="Gyldig" />
 <meta name="DC.Type" content="Tema" />
 <meta name="DC.Format" content="text/html" />
-<meta name="DC.Identifier.URL" content="/en/dep/bld/Topics/Child-welfare.html?id=1058" />
+<meta name="DC.Identifier.URL" content="/en/dep/bld/topics/child-welfare.html?id=1058" />
 <meta name="DC.Language" content="en-GB" />
 <meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DCSext.regj.lang-pref" content="en-GB" />
 <meta name="DC.Publisher" content="regjeringen.no" />
 <meta name="AUTHOR" content="Ministry of Children, Equality and Social Inclusion" />
 <meta name="creation_date" content="Tue, 15 Jan 2008 13:27:00 GMT" />
@@ -38,760 +41,232 @@
 <meta http-equiv="Content-Language" content="en" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
-
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/bld.css" media="all" /> 
-
-
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
-
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
 
 
 
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+    <!-- default styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/default_styles_combined_45D29949909B2B10854E130AC37BCE3C.css" />
+    <!--[if lt IE 6]
+        <link rel="stylesheet" type="text/css" href="/styles/ie55.css?v=2.1.11776" media="screen">
+
+    <![endif]-->
+
+
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/3Col_AF432B5349630A9B3C4A0BDD3743237C.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+<link rel="stylesheet" type="text/css" media="all" href="/styles/Profiles/bld_B8721AD971F0AD7B1FBD93A324D68FE9.css" />
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
+
+
+
+
+<link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web02.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=1058" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web02.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=1058" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en/dep/bld/Topics/Child-welfare.html?id=1058" id="aspnetForm" enctype="multipart/form-data">
-<div>
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/en/dep/bld/topics/child-welfare.html?id=1058" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
 <input type="hidden" name="__WPPS" id="__WPPS" value="s" />
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTU2Nzk5NDM4NQ9kFgJmD2QWCGYPFQICZW4CZW5kAgEQZGQWAgICD2QWBmYPFgIeBFRleHQFuBA8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlbmFtZSIgY29udGVudD0iQ2hpbGQgd2VsZmFyZSIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2V0eXBlIiBjb250ZW50PSJUZW1hIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZWlkIiBjb250ZW50PSIxMDU4IiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oub3duZXIiIGNvbnRlbnQ9ImJsZCIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLmxhbmd1YWdlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IlRJVExFIiBjb250ZW50PSJDaGlsZCB3ZWxmYXJlIiAvPg0KPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IlRoZSBtYWluIHB1cnBvc2Ugb2YgdGhlIGNoaWxkIHdlbGZhcmUgc2VydmljZSBpcyB0byBwcm92aWRlIHRpbWVseSBoZWxwIGFuZCBzdXBwb3J0IHRvIGNoaWxkcmVuIGFuZCB5b3VuZyBwZW9wbGUgd2hvIGxpdmUgaW4gY29uZGl0aW9ucyB0aGF0IG1heSBiZSBoYXJtZnVsIHRvIHRoZWlyIGhlYWx0aCBvciBkZXZlbG9wbWVudCwgYW5kIHRvIG1ha2Ugc3VyZSB0aGV5IGdyb3cgdXAgaW4gc2FmZSBhbmQgc2VjdXJlIHN1cnJvdW5kaW5ncy4NCiIgLz4NCjxtZXRhIG5hbWU9IktFWVdPUkRTIiBjb250ZW50PSJDaGlsZCB3ZWxmYXJlIiAvPg0KPG1ldGEgbmFtZT0iREMuVGl0bGUiIGNvbnRlbnQ9IkNoaWxkIHdlbGZhcmUiIC8+DQo8bWV0YSBuYW1lPSJEQy5DcmVhdG9yIiBjb250ZW50PSJNaW5pc3RyeSBvZiBDaGlsZHJlbiwgRXF1YWxpdHkgYW5kIFNvY2lhbCBJbmNsdXNpb24iIC8+DQo8bWV0YSBuYW1lPSJEQy5TdWJqZWN0IiBjb250ZW50PSJDaGlsZCB3ZWxmYXJlIiAvPg0KPG1ldGEgbmFtZT0iREMuRGVzY3JpcHRpb24iIGNvbnRlbnQ9IlRoZSBtYWluIHB1cnBvc2Ugb2YgdGhlIGNoaWxkIHdlbGZhcmUgc2VydmljZSBpcyB0byBwcm92aWRlIHRpbWVseSBoZWxwIGFuZCBzdXBwb3J0IHRvIGNoaWxkcmVuIGFuZCB5b3VuZyBwZW9wbGUgd2hvIGxpdmUgaW4gY29uZGl0aW9ucyB0aGF0IG1heSBiZSBoYXJtZnVsIHRvIHRoZWlyIGhlYWx0aCBvciBkZXZlbG9wbWVudCwgYW5kIHRvIG1ha2Ugc3VyZSB0aGV5IGdyb3cgdXAgaW4gc2FmZSBhbmQgc2VjdXJlIHN1cnJvdW5kaW5ncy4NCiIgLz4NCjxtZXRhIG5hbWU9IkRDLkRhdGUiIGNvbnRlbnQ9IjIwMDgtMDEtMTUiIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlLkF2YWlsYWJsZSIgY29udGVudD0iMjAwOC0wMS0xNSIgLz4NCjxtZXRhIG5hbWU9IkRDLlR5cGUuU3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlIiBjb250ZW50PSJUZW1hIiAvPg0KPG1ldGEgbmFtZT0iREMuRm9ybWF0IiBjb250ZW50PSJ0ZXh0L2h0bWwiIC8+DQo8bWV0YSBuYW1lPSJEQy5JZGVudGlmaWVyLlVSTCIgY29udGVudD0iL2VuL2RlcC9ibGQvVG9waWNzL0NoaWxkLXdlbGZhcmUuaHRtbD9pZD0xMDU4IiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UuUHJlZmVyZW5jZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJEQy5QdWJsaXNoZXIiIGNvbnRlbnQ9InJlZ2plcmluZ2VuLm5vIiAvPg0KPG1ldGEgbmFtZT0iQVVUSE9SIiBjb250ZW50PSJNaW5pc3RyeSBvZiBDaGlsZHJlbiwgRXF1YWxpdHkgYW5kIFNvY2lhbCBJbmNsdXNpb24iIC8+DQo8bWV0YSBuYW1lPSJjcmVhdGlvbl9kYXRlIiBjb250ZW50PSJUdWUsIDE1IEphbiAyMDA4IDEzOjI3OjAwIEdNVCIgLz4NCjxtZXRhIG5hbWU9IkxBU1QtTU9ESUZJRUQiIGNvbnRlbnQ9IlR1ZSwgMTUgSmFuIDIwMDggMTM6Mjg6MzUgR01UIiAvPg0KPG1ldGEgbmFtZT0iUkVWSVNFRCIgY29udGVudD0iVHVlLCAxNSBKYW4gMjAwOCAxMzoyODozNSBHTVQiIC8+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtTGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuIiAvPg0KZAIBDxYCHgdWaXNpYmxlaGQCAg8WAh4LXyFJdGVtQ291bnRmZAIDEBYCHgZhY3Rpb24FLS9lbi9kZXAvYmxkL1RvcGljcy9DaGlsZC13ZWxmYXJlLmh0bWw/aWQ9MTA1OGQWCgIBD2QWBgICDxUBESNxdWlja3NlYXJjaGlucHV0ZAILD2QWAmYPFQFfI2N0bDAwX0Z1bGxSZWdpb25fQ2VudGVyQW5kUmlnaHRSZWdpb25fUmlnaHRSZWdpb25fUmlnaHRSZWdpb25Db250YWN0SW5mb19jdGwwMV9BcmVhQ29udGFjdEluZm9kAg0PZBYCZg9kFgJmD2QWAgIBD2QWCGYPDxYGHgdUb29sVGlwBS5LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkZW4gcMOlIGJva23DpWwuHwAFB0Jva23DpWweC05hdmlnYXRlVXJsBSsvdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMDU4JmVwc2xhbmd1YWdlPW5vZGQCAQ8PFgYfBAVLRGVubmUgc2lkYSBmaW5zdCBpa2tqZSBww6Ugbnlub3Jzay4gS2xpa2sgaGVyIGZvciDDpSB2aXNlIG55bm9yc2sgcmFtbWV2ZXJrHwAFB055bm9yc2sfBQUrL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTA1OCZlcHNsYW5ndWFnZT1ubmRkAgIPDxYGHwQFNENvYWhra2FsIGTDoWtrbyBkZSBvYWlubsOhdCBkw6FuIHNpaWRkdSBzw6FtZWdpbGxpaS4fAAULU8OhbWVnaWVsbGEfBQUuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTA1OCZlcHNsYW5ndWFnZT1zZS1OT2RkAgMPDxYGHwQFIlRoaXMgcGFnZSBpcyBkaXNwbGF5ZWQgaW4gZW5nbGlzaC4fAAUHRW5nbGlzaB8FBS4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMDU4JmVwc2xhbmd1YWdlPWVuLUdCZGQCAg8VAQEgZAIDD2QWDGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAIBDxUBC1BvcnRhbCBob21lZAICD2QWBGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAICDxUDOi90ZW1wbGF0ZXMvR2VuZXJlbGxGb3JzaWRlLmFzcHg/aWQ9ODU4NDMmZXBzbGFuZ3VhZ2U9ZW4tR0IcU3RvbHRlbmJlcmcncyAybmQgR292ZXJubWVudDIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTkzMyZlcHNsYW5ndWFnZT1lbi1HQmQCAw8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9Mjk4JmVwc2xhbmd1YWdlPWVuLUdCZAIEDxUBM01pbmlzdHJ5IG9mIENoaWxkcmVuLCBFcXVhbGl0eSBhbmQgU29jaWFsIEluY2x1c2lvbmQCBg9kFhJmD2QWBGYPZBYCZg9kFgQCAg8VBD5TZWFyY2ggdGhlIE1pbmlzdHJ5IG9mIENoaWxkcmVuLCBFcXVhbGl0eSBhbmQgU29jaWFsIEluY2x1c2lvbgZTZWFyY2gRUXVpY2tTZWFyY2hCdXR0b24GU2VhcmNoZAIDDw8WAh8ABRtTZWFyY2ggYWxsIG9mIGdvdmVybm1lbnQubm9kZAIBDw8WAh4LX2lzRWRpdGFibGVoZGQCAQ8VAR4vc3R5bGVzL0ltYWdlcy9zeW1ib2xfdGlwcy5naWZkAgUPFQEhL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3ByaW50X3QuZ2lmZAIIDxUDIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9zbWFsbFRleHQuZ2lmJC9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9tZWRpdW1UZXh0LmdpZiMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbGFyZ2VUZXh0LmdpZmQCCQ9kFgJmDxUCgwFodHRwOi8vaXNpLnBob25ldGljb20uY29tL2NnaS1iaW4vcnN4dD91cmw9aHR0cDovL3d3dy5yZWdqZXJpbmdlbi5uby9lbi9kZXAvYmxkL1RvcGljcy9DaGlsZC13ZWxmYXJlLmh0bWw/aWQ9MTA1OCZhbXA7Y3VzdG9tZXJpZD0xOR8vc3R5bGVzL0ltYWdlcy9zeW1ib2xfbHlkX3QuZ2lmZAIKD2QWAgIBDw8WBB8FBTYvdGVtcGxhdGVzL1RlbWFJbmRla3MuYXNweD9pZD0yMjM0ODYmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUKVG9waWNzIEEtWmRkAgsPZBYCAgEPDxYEHwUFOS90ZW1wbGF0ZXMvTmV0dHN0ZWRza2FydC5hc3B4P2lkPTI3MDM1OSZlcHNsYW5ndWFnZT1lbi1HQh8ABQhTaXRlIE1hcGRkAgwPDxYEHwUFNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDg4NjQxJmVwc2xhbmd1YWdlPWVuLUdCHwAFBEhlbHBkZAINDw8WBB8FBT0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzA2JmVwc2xhbmd1YWdlPWVuLUdCHwAFB0NvbnRhY3RkZAIED2QWBAIBD2QWBgIBD2QWAgIBD2QWBGYPDxYCHwFoZGQCAQ9kFhACAw8PFgIfAAUdUmVjaXBpZW504oCZcyBlLW1haWwgYWRkcmVzczpkZAIHDw8WAh4MRXJyb3JNZXNzYWdlBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCCQ8PFgIfBwUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAgsPDxYCHwAFFFlvdXIgZS1tYWlsIGFkZHJlc3M6ZGQCDw8PFgIfBwUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAhEPDxYCHwcFJVlvdSBtdXN0IGdpdmUgYSB2YWxpZCBlLW1haWwgYWRkcmVzcy5kZAITDw8WAh8ABQhNZXNzYWdlOmRkAhcPDxYCHwAFCVNlbmQgbWFpbGRkAgMPZBYYAgEPFgYeGkV4cG9ydFNlbnNpdGl2ZURhdGFXYXJuaW5nZR4UQ2xvc2VQcm92aWRlcldhcm5pbmdlHg1EZWxldGVXYXJuaW5nZRYKBQt3cDc3NjcxMDEyNg9kFgJmD2QWBgICDxUCRS9lbi9kZXAvYmxkL1RvcGljcy9DaGlsZC13ZWxmYXJlL0NoaWxkLXdlbGZhcmUtc2VydmljZS5odG1sP2lkPTQ3NjMzNBVDaGlsZCB3ZWxmYXJlIHNlcnZpY2VkAgQPFQJFL2VuL2RlcC9ibGQvVG9waWNzL0NoaWxkLXdlbGZhcmUvQ2hpbGQtd2VsZmFyZS1zZXJ2aWNlLmh0bWw/aWQ9NDc2MzM0CVJlYWQgbW9yZWQCBQ8VAkUvZW4vZGVwL2JsZC9Ub3BpY3MvQ2hpbGQtd2VsZmFyZS9DaGlsZC13ZWxmYXJlLXNlcnZpY2UuaHRtbD9pZD00NzYzMzQVQ2hpbGQgd2VsZmFyZSBzZXJ2aWNlZAUMd3AxNjU0ODQyMjI4D2QWAmYPZBYGAgIPFQJYL2VuL2RlcC9ibGQvVG9waWNzL0NoaWxkLXdlbGZhcmUvRHV0aWVzLWFuZC1yZXNwb25zaWJpbGl0aWVzLXJlbGF0ZWQtdG8tYy5odG1sP2lkPTQ3NjMzMzREdXRpZXMgYW5kIHJlc3BvbnNpYmlsaXRpZXMgcmVsYXRlZCB0byBjaGlsZCB3ZWxmYXJlZAIEDxUCWC9lbi9kZXAvYmxkL1RvcGljcy9DaGlsZC13ZWxmYXJlL0R1dGllcy1hbmQtcmVzcG9uc2liaWxpdGllcy1yZWxhdGVkLXRvLWMuaHRtbD9pZD00NzYzMzMJUmVhZCBtb3JlZAIFDxUCWC9lbi9kZXAvYmxkL1RvcGljcy9DaGlsZC13ZWxmYXJlL0R1dGllcy1hbmQtcmVzcG9uc2liaWxpdGllcy1yZWxhdGVkLXRvLWMuaHRtbD9pZD00NzYzMzM0RHV0aWVzIGFuZCByZXNwb25zaWJpbGl0aWVzIHJlbGF0ZWQgdG8gY2hpbGQgd2VsZmFyZWQFC3dwNTk1NTcwNDg4D2QWAmYPZBYCAgEPZBYCZg8WAh4KX3NvcnRPcmRlcgspc0VQaVNlcnZlci5GaWx0ZXJzLkZpbHRlclNvcnRPcmRlciwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcAFhRmD2QWEAIBDxYEHgRocmVmBUAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTg5MjkzJmVwc2xhbmd1YWdlPWVuLUdCHwFoFgICAQ8PFgYfBmgeDl9ib3VuZFBhZ2VMaW5rAu37Ix4JX2xhc3RUeXBlBQdEZWZhdWx0ZGQCAg8VCw5BcnRpY2xlQ29udGVudAEyQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD01ODkyOTMmZXBzbGFuZ3VhZ2U9ZW4tR0IAL0NoaWxkIFdlbGZhcmUgU2VydmljZSBDb25mbGljdCBSZXNvbHV0aW9uIEJvYXJkATIBMwxkaXNwbGF5Om5vbmVGRXN0YWJsaXNoaW5nIGEgY29uZmxpY3QgcmVzb2x1dGlvbiBib2FyZCBmb3IgdGhlIGNoaWxkIHdlbGZhcmUgc2VydmljZQEzejxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W0VOX0dCIFN0eXJlciwgcsOlZCBvZyB1dHZhbGcsIE1pbmlzdHJ5IG9mIENoaWxkcmVuLCBFcXVhbGl0eSBhbmQgU29jaWFsIEluY2x1c2lvbiwgMDEuMDEuMjAxMF08L3A+ZAIDDxYCHwFoFgJmDw8WBh8GaB8NAu37Ix8OBQdEZWZhdWx0ZGQCBQ9kFgJmDw8WBh8GaB8NAu37Ix8OBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDGQfAWgWBAIBDw8WAh4NX2xhbmd1YWdlVGV4dAU+L3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfc3R5cmUvcsOlZC91dHZhbGdkZAICDxUBAGQCCQ8WBB8MZB8BaBYCAgEPDxYCHw8FQi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19zdHlyZS9yw6VkL3V0dmFsZ2RkAgsPZBYCZg8VAQBkAgEPZBYQAgEPFgQfDAU5L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NTcwMzY5JmVwc2xhbmd1YWdlPWVuLUdCHwFoFgICAQ8PFgYfBmgfDQKB6CIfDgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjkvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD01NzAzNjkmZXBzbGFuZ3VhZ2U9ZW4tR0IAY0RlbGF5IGluIHRyYW5zZmVyIG9mIGNhcmUgcmVzcG9uc2liaWxpdHkgZnJvbSBpbW1pZ3JhdGlvbiBhdXRob3JpdGllcyB0byB0aGUgY2hpbGQgd2VsZmFyZSBzZXJ2aWNlIAEyATMMZGlzcGxheTpub25lAAEzazxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W1ByZXNzIHJlbGVhc2UsIE1pbmlzdHJ5IG9mIENoaWxkcmVuLCBFcXVhbGl0eSBhbmQgU29jaWFsIEluY2x1c2lvbiwgMjkuMDYuMjAwOV08L3A+ZAIDD2QWAmYPDxYGHwZoHw0CgegiHw4FB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8GaB8NAoHoIh8OBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDGQfAWgWBAIBDw8WAh8PBTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19wcmVzc2VtZWxkaW5nZGQCAg8VAQBkAgkPFgQfDGQfAWgWAgIBDw8WAh8PBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcHJlc3NlbWVsZGluZ2RkAgsPZBYCZg8VAQBkAgIPZBYQAgEPFgQfDAUxL3RlbXBsYXRlcy9OeWhldC5hc3B4P2lkPTU2NzY5OSZlcHNsYW5ndWFnZT1lbi1HQh8BaBYCAgEPDxYGHwZoHw0Ck9MiHw4FB0RlZmF1bHRkZAICDxULDkFydGljbGVDb250ZW50ATIxL3RlbXBsYXRlcy9OeWhldC5hc3B4P2lkPTU2NzY5OSZlcHNsYW5ndWFnZT1lbi1HQgAyRW1lcmdlbmN5IHRlbGVwaG9uZSAxMTYxMTEgZm9yIGNoaWxkcmVuIGFuZCB5b3V0aHMBMgEzDGRpc3BsYXk6bm9uZQABM2g8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltOZXdzIHN0b3J5LCBNaW5pc3RyeSBvZiBDaGlsZHJlbiwgRXF1YWxpdHkgYW5kIFNvY2lhbCBJbmNsdXNpb24sIDE4LjA2LjIwMDldPC9wPmQCAw9kFgJmDw8WBh8GaB8NApPTIh8OBQdEZWZhdWx0ZGQCBQ8WAh8BaBYCZg8PFgYfBmgfDQKT0yIfDgUHRGVmYXVsdGRkAgYPFQEAZAIHDxYEHwxkHwFoFgQCAQ8PFgIfDwUyL3RlbXBsYXRlcy91bml0cy9saXN0aW5ndW5pdmVyc2FsL2V4dGVybmxpbmtfbnloZXRkZAICDxUBAGQCCQ8WBB8MZB8BaBYCAgEPDxYCHw8FNi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19ueWhldGRkAgsPZBYCZg8VAQBkAgMPZBYQAgEPFgQfDAU5L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NTU3NTg1JmVwc2xhbmd1YWdlPWVuLUdCHwFoFgICAQ8PFgYfBmgfDQKRhCIfDgUHRGVmYXVsdGRkAgIPFQsOQXJ0aWNsZUNvbnRlbnQBMjkvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD01NTc1ODUmZXBzbGFuZ3VhZ2U9ZW4tR0IAJkJldHRlciBwcm90ZWN0aW9uIG9mIGNoaWxkcmVuJ3MgcmlnaHRzATIBMwxkaXNwbGF5Om5vbmUAATNrPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bUHJlc3MgcmVsZWFzZSwgTWluaXN0cnkgb2YgQ2hpbGRyZW4sIEVxdWFsaXR5IGFuZCBTb2NpYWwgSW5jbHVzaW9uLCAyNC4wNC4yMDA5XTwvcD5kAgMPZBYCZg8PFgYfBmgfDQKRhCIfDgUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwZoHw0CkYQiHw4FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8MZB8BaBYEAgEPDxYCHw8FOi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3ByZXNzZW1lbGRpbmdkZAICDxUBAGQCCQ8WBB8MZB8BaBYCAgEPDxYCHw8FPi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19wcmVzc2VtZWxkaW5nZGQCCw9kFgJmDxUBAGQCBA9kFhACAQ8WAh8MBUAvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NTM3MDc5JmVwc2xhbmd1YWdlPWVuLUdCFgICAQ8PFgYfBmgfDQL34yAfDgUHRGVmYXVsdGQWAmYPZBYCZg8WAh4IZGlzYWJsZWRkZAICDxULEUFydGljbGVJbWdDb250ZW50ATJAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTUzNzA3OSZlcHNsYW5ndWFnZT1lbi1HQgASQ2FsbCBjaGlsZCB3ZWxmYXJlATIBMwxkaXNwbGF5Om5vbmUAATNvPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bRWRpdG9yaWFsIGFydGljbGUsIE1pbmlzdHJ5IG9mIENoaWxkcmVuLCBFcXVhbGl0eSBhbmQgU29jaWFsIEluY2x1c2lvbiwgMjEuMTEuMjAwOF08L3A+ZAIDD2QWAmYPDxYGHwZoHw0C9+MgHw4FB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8GaB8NAvfjIB8OBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDGQfAWgWBAIBDw8WAh8PBUIvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19yZWRha3Nqb25lbGxfYXJ0aWtrZWxkZAICDxUBAGQCCQ8WBB8MZB8BaBYCAgEPDxYCHw8FRi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19yZWRha3Nqb25lbGwgYXJ0aWtrZWxkZAILD2QWAmYPFQEAZAIFD2QWEAIBDxYCHwwFOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTUzNzA1MiZlcHNsYW5ndWFnZT1lbi1HQhYCAgEPDxYGHwZoHw0C3OMgHw4FB0RlZmF1bHRkFgJmD2QWAmYPFgIfEGRkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMjkvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD01MzcwNTImZXBzbGFuZ3VhZ2U9ZW4tR0IAKkNsZWFyIHByb2hpYml0aW9uIGFnYWluc3QgY2hpbGQgcHVuaXNobWVudAEyATMMZGlzcGxheTpub25lAAEzazxwIGNsYXNzPSJBcnRpY2xlSW5mbyI+W1ByZXNzIHJlbGVhc2UsIE1pbmlzdHJ5IG9mIENoaWxkcmVuLCBFcXVhbGl0eSBhbmQgU29jaWFsIEluY2x1c2lvbiwgMjEuMTEuMjAwOF08L3A+ZAIDD2QWAmYPDxYGHwZoHw0C3OMgHw4FB0RlZmF1bHRkZAIFDxYCHwFoFgJmDw8WBh8GaB8NAtzjIB8OBQdEZWZhdWx0ZGQCBg8VAQBkAgcPFgQfDGQfAWgWBAIBDw8WAh8PBTovdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvZXh0ZXJubGlua19wcmVzc2VtZWxkaW5nZGQCAg8VAQBkAgkPFgQfDGQfAWgWAgIBDw8WAh8PBT4vdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfcHJlc3NlbWVsZGluZ2RkAgsPZBYCZg8VAQBkAgYPZBYQAgEPFgIfDAU5L3RlbXBsYXRlcy9QcmVzc2VtZWxkaW5nLmFzcHg/aWQ9NTM0MzU3JmVwc2xhbmd1YWdlPWVuLUdCFgICAQ8PFgYfBmgfDQLVziAfDgUHRGVmYXVsdGQWAmYPZBYCZg8WAh8QZGQCAg8VCxFBcnRpY2xlSW1nQ29udGVudAEyOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTUzNDM1NyZlcHNsYW5ndWFnZT1lbi1HQgAwSW1wcm92ZWQgc3RhYmlsaXR5IGZvciBzdGF0ZS1mdW5kZWQgZm9zdGVyIGhvbWVzATIBMwxkaXNwbGF5Om5vbmUAATNrPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bUHJlc3MgcmVsZWFzZSwgTWluaXN0cnkgb2YgQ2hpbGRyZW4sIEVxdWFsaXR5IGFuZCBTb2NpYWwgSW5jbHVzaW9uLCAzMS4xMC4yMDA4XTwvcD5kAgMPZBYCZg8PFgYfBmgfDQLVziAfDgUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwZoHw0C1c4gHw4FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8MZB8BaBYEAgEPDxYCHw8FOi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3ByZXNzZW1lbGRpbmdkZAICDxUBAGQCCQ8WBB8MZB8BaBYCAgEPDxYCHw8FPi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19wcmVzc2VtZWxkaW5nZGQCCw9kFgJmDxUBAGQCBw9kFhACAQ8WAh8MBTEvdGVtcGxhdGVzL055aGV0LmFzcHg/aWQ9NTA0NDM1JmVwc2xhbmd1YWdlPWVuLUdCFgICAQ8PFgYfBmgfDQLz5B4fDgUHRGVmYXVsdGQWAmYPZBYCZg8WAh8QZGQCAg8VCxFBcnRpY2xlSW1nQ29udGVudAEyMS90ZW1wbGF0ZXMvTnloZXQuYXNweD9pZD01MDQ0MzUmZXBzbGFuZ3VhZ2U9ZW4tR0IAC05pZ2h0aW5nYWxlATIBMwxkaXNwbGF5Om5vbmUAATNoPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bTmV3cyBzdG9yeSwgTWluaXN0cnkgb2YgQ2hpbGRyZW4sIEVxdWFsaXR5IGFuZCBTb2NpYWwgSW5jbHVzaW9uLCAyNi4wMy4yMDA4XTwvcD5kAgMPZBYCZg8PFgYfBmgfDQLz5B4fDgUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwZoHw0C8+QeHw4FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8MZB8BaBYEAgEPDxYCHw8FMi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX255aGV0ZGQCAg8VAQBkAgkPFgQfDGQfAWgWAgIBDw8WAh8PBTYvdGVtcGxhdGVzL3VuaXRzL2xpc3Rpbmd1bml2ZXJzYWwvYXR0YWNobWVudGxpbmtfbnloZXRkZAILD2QWAmYPFQEAZAIID2QWEAIBDxYCHwwFOS90ZW1wbGF0ZXMvUHJlc3NlbWVsZGluZy5hc3B4P2lkPTQ4OTUzNSZlcHNsYW5ndWFnZT1lbi1HQhYCAgEPDxYGHwZoHw0Cv/AdHw4FB0RlZmF1bHRkFgJmD2QWAmYPFgIfEGRkAgIPFQsRQXJ0aWNsZUltZ0NvbnRlbnQBMjkvdGVtcGxhdGVzL1ByZXNzZW1lbGRpbmcuYXNweD9pZD00ODk1MzUmZXBzbGFuZ3VhZ2U9ZW4tR0IAEVByZS1uYXRhbCBzdXBwb3J0ATIBMwxkaXNwbGF5Om5vbmUAATNrPHAgY2xhc3M9IkFydGljbGVJbmZvIj5bUHJlc3MgcmVsZWFzZSwgTWluaXN0cnkgb2YgQ2hpbGRyZW4sIEVxdWFsaXR5IGFuZCBTb2NpYWwgSW5jbHVzaW9uLCAxNC4xMS4yMDA3XTwvcD5kAgMPZBYCZg8PFgYfBmgfDQK/8B0fDgUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwZoHw0Cv/AdHw4FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8MZB8BaBYEAgEPDxYCHw8FOi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3ByZXNzZW1lbGRpbmdkZAICDxUBAGQCCQ8WBB8MZB8BaBYCAgEPDxYCHw8FPi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua19wcmVzc2VtZWxkaW5nZGQCCw9kFgJmDxUBAGQCCQ9kFhACAQ8WAh8MBTovdGVtcGxhdGVzL1RhbGVvZ0FydGlra2VsLmFzcHg/aWQ9NDg4NTI2JmVwc2xhbmd1YWdlPWVuLUdCFgICAQ8PFgYfBmgfDQLO6B0fDgUHRGVmYXVsdGQWAmYPZBYCZg8WAh8QZGQCAg8VCxFBcnRpY2xlSW1nQ29udGVudAEyOi90ZW1wbGF0ZXMvVGFsZW9nQXJ0aWtrZWwuYXNweD9pZD00ODg1MjYmZXBzbGFuZ3VhZ2U9ZW4tR0IAKENyZWF0aW5nIGEgc2FmZSBlbnZpcm9ubWVudCBmb3IgY2hpbGRyZW4BMgEzDGRpc3BsYXk6bm9uZQABM2w8cCBjbGFzcz0iQXJ0aWNsZUluZm8iPltTcGVlY2gvYXJ0aWNsZSwgTWluaXN0cnkgb2YgQ2hpbGRyZW4sIEVxdWFsaXR5IGFuZCBTb2NpYWwgSW5jbHVzaW9uLCAwNS4xMS4yMDA3XTwvcD5kAgMPZBYCZg8PFgYfBmgfDQLO6B0fDgUHRGVmYXVsdGRkAgUPFgIfAWgWAmYPDxYGHwZoHw0CzugdHw4FB0RlZmF1bHRkZAIGDxUBAGQCBw8WBB8MZB8BaBYEAgEPDxYCHw8FOi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9leHRlcm5saW5rX3RhbGUvYXJ0aWtrZWxkZAICDxUBAGQCCQ8WBB8MZB8BaBYCAgEPDxYCHw8FPi90ZW1wbGF0ZXMvdW5pdHMvbGlzdGluZ3VuaXZlcnNhbC9hdHRhY2htZW50bGlua190YWxlL2FydGlra2VsZGQCCw9kFgJmDxUBAGQFDHdwMjEyNTc1MTA5OQ9kFgJmD2QWBgICDxUCQi9lbi9kZXAvYmxkL1RvcGljcy9DaGlsZC13ZWxmYXJlL2NhbGwtY2hpbGQtd2VsZmFyZS5odG1sP2lkPTUzNzA3ORJDYWxsIGNoaWxkIHdlbGZhcmVkAgQPFQJCL2VuL2RlcC9ibGQvVG9waWNzL0NoaWxkLXdlbGZhcmUvY2FsbC1jaGlsZC13ZWxmYXJlLmh0bWw/aWQ9NTM3MDc5CVJlYWQgbW9yZWQCBQ8VAkIvZW4vZGVwL2JsZC9Ub3BpY3MvQ2hpbGQtd2VsZmFyZS9jYWxsLWNoaWxkLXdlbGZhcmUuaHRtbD9pZD01MzcwNzkSQ2FsbCBjaGlsZCB3ZWxmYXJlZAUMd3AxMDU4Mzg4MzcwD2QWAmYPZBYGAgIPFQJQL2VuL2RlcC9ibGQvVG9waWNzL0NoaWxkLXdlbGZhcmUvaW4taG9tZS1jaGlsZC13ZWxmYXJlLWFzc2lzdGFuY2UuaHRtbD9pZD00OTI5MjcgSW4taG9tZSBjaGlsZCB3ZWxmYXJlIGFzc2lzdGFuY2VkAgQPFQJQL2VuL2RlcC9ibGQvVG9waWNzL0NoaWxkLXdlbGZhcmUvaW4taG9tZS1jaGlsZC13ZWxmYXJlLWFzc2lzdGFuY2UuaHRtbD9pZD00OTI5MjcJUmVhZCBtb3JlZAIFDxUCUC9lbi9kZXAvYmxkL1RvcGljcy9DaGlsZC13ZWxmYXJlL2luLWhvbWUtY2hpbGQtd2VsZmFyZS1hc3Npc3RhbmNlLmh0bWw/aWQ9NDkyOTI3IEluLWhvbWUgY2hpbGQgd2VsZmFyZSBhc3Npc3RhbmNlZAICD2QWAmYPFgIfAAWmAllvdSBhcmUgaGVyZTogPGEgaHJlZj0iL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCIj5Hb3Zlcm5tZW50Lm5vPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yOTgmZXBzbGFuZ3VhZ2U9ZW4tR0IiPk1pbmlzdHJ5IG9mIENoaWxkcmVuLCBFcXVhbC4uLjwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0RlcGFydGVtZW50VGVtYUZvcnNpZGUuYXNweD9pZD0zMDAmZXBzbGFuZ3VhZ2U9ZW4tR0IiPlRvcGljczwvYT4gLyA8c3Bhbj5DaGlsZCB3ZWxmYXJlPC9zcGFuPmQCAw9kFgYCAQ8VAQdTdGF0dXM6ZAICDxYCHwFoFgJmDxUBOA0KICAgICAgICAgICAgICAgICAgICAgICAgQXJjaGl2ZWQNCiAgICAgICAgICAgICAgICAgICAgZAIEDxYCHwFoFgJmDxUBOA0KICAgICAgICAgICAgICAgICAgICAgICAgUmVwbGFjZWQNCiAgICAgICAgICAgICAgICAgICAgZAIEDxUBDUNoaWxkIHdlbGZhcmVkAgUPDxYEHwZoHw4FB0RlZmF1bHRkFgJmD2QWAmYPFgIfEGRkAgYPZBYCZg8PFgQfBmgfDgUHRGVmYXVsdGRkAgcPDxYEHwZoHw4FB0RlZmF1bHRkFgJmD2QWAmYPFgIfEGRkAggPFgIeBWNsYXNzBQ9kZXNjcmlwdGlvblRleHQWAmYPDxYEHwZoHw4FB0RlZmF1bHRkZAIJD2QWAgIGD2QWCgIBD2QWBAIDDw8WAh8AZWRkAgcPDxYCHwBlZGQCAw9kFgICAQ9kFgoCEQ8PFgIfBwVDDQogICAgICAgICAgICAgICAgICAgICAgICBFLW1haWwgaXMgbWFuZGF0b3J5DQogICAgICAgICAgICAgICAgICAgIGRkAhMPDxYCHwcFRQ0KICAgICAgICAgICAgICAgICAgICAgICAgSW52YWxpZCBlLW1haWwgZm9ybWF0DQogICAgICAgICAgICAgICAgICAgIGRkAhUPZBYCAgMPEA8WAh4LXyFEYXRhQm91bmRnZGQWAGQCFw8PFgIfAAUIQ29udGludWVkZAIZDw8WAh8ABQZDYW5jZWxkZAIED2QWAgIDDw8WAh8ABQhDb250aW51ZWRkAgUPZBYEAgcPDxYCHwAFE0NhbmNlbCBzdWJzY3JpcHRpb25kZAIJDw8WAh8ABRVDb250aW51ZSBzdWJzY3JpcHRpb25kZAIGD2QWAgIDDw8WAh8ABQhDb250aW51ZWRkAgoPFgIfAWgWAgIBDw8WBB8GaB8OBQdEZWZhdWx0ZGQCCw9kFgICAQ88KwASBAQWBB8ABQZEZWxldGUeC0Rlc2NyaXB0aW9uBQxEZWxldGUgJ3swfScFFgQfAAUERWRpdB8TBQpFZGl0ICd7MH0nBxYEHwAFCE1pbmltaXplHxMFDk1pbmltaXplICd7MH0nCBYEHwAFB1Jlc3RvcmUfEwUNUmVzdG9yZSAnezB9J2QCDA9kFgJmDxYCHwFnFgICAw9kFgJmD2QWDgIBD2QWAmYPFQIwL3RlbXBsYXRlcy9BdmRlbGluZy5hc3B4P2lkPTgxJmVwc2xhbmd1YWdlPWVuLUdCJ0RlcGFydG1lbnQgT2YgQ2hpbGRyZW4gYW5kIFlvdXRoIFBvbGljeWQCAg8VAhxtYWlsdG86cG9zdG1vdHRha0BibGQuZGVwLm5vAGQCBQ9kFgICAQ9kFgJmDxUBRDxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3LTIyMjQyNjAxIj4wMDQ3IC0gMjIyNDI2MDE8L2E+ZAIHDxYCHwFoFgRmD2QWAmYPDxYCHwFoZGQCAQ9kFgJmDxUBAGQCCQ8WAh8BaBYEZg9kFgJmDw8WAh8BaGRkAgEPZBYCZg8VAQBkAgsPFgIfAWgWAgIBDw8WAh8BaGRkAg0PDxYIHwZoHw0CUR8OBQdEZWZhdWx0HwFoZGQCBQ9kFggCAQ9kFgICAQ9kFgJmDxYCHxEFCkRlcFByb2ZpbGUWAmYPFQE0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTI5OCZlcHNsYW5ndWFnZT1lbi1HQmQCAw9kFgZmDxUBAGQCAQ9kFgRmDxUCOw0KICAgICAgICAgICAgICAgICAgICBTZWFyY2ggd2l0aGluIHRvcGljDQogICAgICAgICAgICAgICAgDUNoaWxkIHdlbGZhcmVkAgMPDxYCHwAFBlNlYXJjaGRkAgMPZBYCZg9kFgICAQ8WAh8BZ2QCCQ9kFgICAQ8UKwASPCsACQEADxYCHwFoZGRkZBYEHwAFBkRlbGV0ZR8TBQxEZWxldGUgJ3swfScWBB8ABQRFZGl0HxMFCkVkaXQgJ3swfSdkFgQfAAUITWluaW1pemUfEwUOTWluaW1pemUgJ3swfScWBB8ABQdSZXN0b3JlHxMFDVJlc3RvcmUgJ3swfSdkZGRkZGRkZGRkAg0PZBYGAgEPDxYCHwFoZBYCZg9kFgICAQ8WAh8BaGQCAw9kFgJmD2QWAgIBD2QWBGYPZBYCZg8VARhSZXNwb25zaWJsZSBvcmdhbml6YXRpb25kAgEPZBYCZg8VAj0vdGVtcGxhdGVzL0Vrc3Rlcm5WaXJrc29taGV0LmFzcHg/aWQ9NDE4MDM1JmVwc2xhbmd1YWdlPWVuLUdCPE5vcndlZ2lhbiBEaXJlY3RvcmF0ZSBmb3IgQ2hpbGRyZW4sIFlvdXRoIGFuZCBGYW1pbHkgQWZmYWlyc2QCBQ9kFgJmDxYCHwFnFgICAw9kFgJmD2QWDgIBD2QWAmYPFQIwL3RlbXBsYXRlcy9BdmRlbGluZy5hc3B4P2lkPTgxJmVwc2xhbmd1YWdlPWVuLUdCJ0RlcGFydG1lbnQgT2YgQ2hpbGRyZW4gYW5kIFlvdXRoIFBvbGljeWQCAg8VAhxtYWlsdG86cG9zdG1vdHRha0BibGQuZGVwLm5vAGQCBQ9kFgICAQ9kFgJmDxUBRDxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3LTIyMjQyNjAxIj4wMDQ3IC0gMjIyNDI2MDE8L2E+ZAIHDxYCHwFoFgRmD2QWAmYPDxYCHwFoZGQCAQ9kFgJmDxUBAGQCCQ8WAh8BaBYEZg9kFgJmDw8WAh8BaGRkAgEPZBYCZg8VAQBkAgsPFgIfAWgWAgIBDw8WAh8BaGRkAg0PDxYIHwZoHw0CUR8OBQdEZWZhdWx0HwFoZGQCAw9kFgICAQ9kFgQCAQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yOTgmZXBzbGFuZ3VhZ2U9ZW4tR0INTWluaXN0cnkgaG9tZWQCAw8WBh4JX1BhZ2VMaW5rKCluRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZSwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcDMjk4Hg9fTnVtYmVyT2ZMZXZlbHMCCh4KX0V4cGFuZEFsbGgWUAIBD2QWAmYPFQEAZAICD2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTI5OSZlcHNsYW5ndWFnZT1lbi1HQgAMV2hhdOKAmXMgbmV3ZAIED2QWAmYPFQEIU2VsZWN0ZWRkAgUPZBYCZg8VBAA/L3RlbXBsYXRlcy9EZXBhcnRlbWVudFRlbWFGb3JzaWRlLmFzcHg/aWQ9MzAwJmVwc2xhbmd1YWdlPWVuLUdCAAZUb3BpY3NkAgcPZBYCZg8VAQBkAggPZBYCZg8VAy4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMDUwJmVwc2xhbmd1YWdlPWVuLUdCAAhBZG9wdGlvbmQCCg9kFgJmDxUBCFNlbGVjdGVkZAILD2QWAmYPFQMuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTA1OCZlcHNsYW5ndWFnZT1lbi1HQgANQ2hpbGQgd2VsZmFyZWQCDQ9kFgJmDxUBAGQCDg9kFgJmDxUDLi90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTEwMTUmZXBzbGFuZ3VhZ2U9ZW4tR0IAEkNoaWxkcmVuIGFuZCB5b3V0aGQCEA9kFgJmDxUBAGQCEQ9kFgJmDxUDLi90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTEwOTImZXBzbGFuZ3VhZ2U9ZW4tR0IAEENvbnN1bWVyIGFmZmFpcnNkAhMPZBYCZg8VAQBkAhQPZBYCZg8VAy4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMTQ1JmVwc2xhbmd1YWdlPWVuLUdCABVFdGhuaWMgZGlzY3JpbWluYXRpb25kAhYPZBYCZg8VAQBkAhcPZBYCZg8VAy4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMDE5JmVwc2xhbmd1YWdlPWVuLUdCAA9GYW1pbHkgZmluYW5jZXNkAhkPZBYCZg8VAQBkAhoPZBYCZg8VAy4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMjQ2JmVwc2xhbmd1YWdlPWVuLUdCAA9HZW5kZXIgZXF1YWxpdHlkAhwPZBYCZg8VAQBkAh0PZBYCZg8VAy8vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD04NzExNSZlcHNsYW5ndWFnZT1lbi1HQgANSG9tb3NleHVhbGl0eWQCHw9kFgJmDxUBAGQCIA9kFgJmDxUDLi90ZW1wbGF0ZXMvVGVtYS5hc3B4P2lkPTExMzgmZXBzbGFuZ3VhZ2U9ZW4tR0IAGUludGVncmF0aW9uIGFuZCBkaXZlcnNpdHlkAiIPZBYCZg8VAQBkAiMPZBYCZg8VAy4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMDE4JmVwc2xhbmd1YWdlPWVuLUdCABlNYXJyaWFnZSBhbmQgY29oYWJpdGF0aW9uZAIlD2QWAmYPFQEAZAImD2QWAmYPFQMuL3RlbXBsYXRlcy9UZW1hLmFzcHg/aWQ9MTAxNiZlcHNsYW5ndWFnZT1lbi1HQgAUUGFyZW50cyBhbmQgY2hpbGRyZW5kAigPZBYCZg8VAQBkAikPZBYCZg8VAy0vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD05ODcmZXBzbGFuZ3VhZ2U9ZW4tR0IAGVBlcnNvbnMgd2l0aCBkaXNhYmlsaXRpZXNkAisPZBYCZg8VAQBkAiwPZBYCZg8VAy4vdGVtcGxhdGVzL1RlbWEuYXNweD9pZD0xMDIyJmVwc2xhbmd1YWdlPWVuLUdCAClWaW9sZW5jZSBhbmQgYWJ1c2UgaW4gY2xvc2UgcmVsYXRpb25zaGlwc2QCMA9kFgJmDxUBAGQCMQ9kFgJmDxUDNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0zMDEmZXBzbGFuZ3VhZ2U9ZW4tR0IADFByZXNzIGNlbnRyZWQCMw9kFgJmDxUBAGQCNA9kFgJmDxUDQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0yNzUyMzQmZXBzbGFuZ3VhZ2U9ZW4tR0IACURvY3VtZW50c2QCNg9kFgJmDxUBAGQCNw9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0zMDMmZXBzbGFuZ3VhZ2U9ZW4tR0IAEkFib3V0IHRoZSBtaW5pc3RyeWQCOQ9kFgJmDxUBAGQCOg9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD0zMDQmZXBzbGFuZ3VhZ2U9ZW4tR0IAEVNvdW5kIGFuZCBwaWN0dXJlZAI8D2QWAmYPFQEAZAI9D2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTQzNzMzOSZlcHNsYW5ndWFnZT1lbi1HQgAQRG9jdW1lbnQgQXJjaGl2ZWQCBQ9kFgICAQ9kFgJmDxUB/gM8cD5NaW5pc3RyeSBvZiBDaGlsZHJlbiwgRXF1YWxpdHkgYW5kIFNvY2lhbCBJbmNsdXNpb24sICZuYnNwO0FrZXJzZ2F0YSA1OSwgUG9zdGJveCA4MDM2IERlcCwgMDAzMCBPc2xvJm5ic3A7Jm5ic3A7IHwmbmJzcDsgJm5ic3A7VGxmOiZuYnNwOys0NyAyMiAyNCA5MCA5MCwgRmFrczombmJzcDsrNDcgMjIgMjQgOTUgMTUgPGJyIC8+RS1tYWlsOiA8YSBocmVmPSJtYWlsdG86UG9zdG1vdHRha0BibGQuZGVwLm5vIj5Qb3N0bW90dGFrQGJsZC5kZXAubm88L2E+Jm5ic3A7IHwmbmJzcDsgV2ViLWVkaXRvcjombmJzcDs8YSB0aXRsZT0iTWFyaXQgU2tyYW0tTHVuZCIgaHJlZj0ibWFpbHRvOk1hcml0LlNrcmFtLUx1bmRAYmxkLmRlcC5ubyI+TWFyaXQgU2tyYW0tTHVuZCZuYnNwOzwvYT4gfCZuYnNwOyBFZGl0b3I6IDxhIHRpdGxlPSJNYXJpYSBCcml0IEVzcGlub3phIiBocmVmPSJtYWlsdG86TWFyaWEtQnJpdC5Fc3Bpbm96YUBibGQuZGVwLm5vIj5NYXJpYSBCcml0IEVzcGlub3phPC9hPjwvcD5kAgUPZBYCZg8VARgvc2NyaXB0L2pzL3NkY18wOTA4MTkuanNkGAgFR2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGVtYWlsQWxlcnQkbXVsdGlWaWV3Dw9kZmQFWGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRjdGwwMSRQYWdlTGlzdDEPD2ZkZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkdXhWaWV3cw8PZGZkBStjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSRNdWx0aVBhZ2VMaXN0Dw9mZGQFTGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJFJlbGF0ZWRDb250YWN0MiRQYWdlTGlzdDEPD2ZkZAVvY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJHVjTG92Rm9yc2tyaWZ0JFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFZmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRjdGwwMCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBXdjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRTdWJqZWN0TWFuYWdlciR3cDU5NTU3MDQ4OCR3cDE4NzI3ODI2MjgkbHN0U2VhcmNoUmVzdWx0JGxzdFVuaXZlcnNhbA8PZmRkg1njPAluQjDHnLR+8DPPNEXzIF0=" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE0MDE2MTEwMjlkGA4FK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJE11bHRpUGFnZUxpc3QPD2ZkZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDEkdXhWaWV3cw8PZGZkBXVjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJEhvZXJpbmdGb3IkUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAVPY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRUaXBBRnJpZW5kUGxhY2Vob2xkZXIkVGlwQUZyaWVuZCRUaXBWaWV3cw8PZAIBZAVHY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kZW1haWxBbGVydCRtdWx0aVZpZXcPD2RmZAVYY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJGN0bDAxJFBhZ2VMaXN0MQ8PZmRkBYEBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCREb2N1bWVudFJlbGF0aW9uc2hpcDIkUmVsYXRpb25zT25lSG9wUGFnZUxpc3QxDw9mZGQFeGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkSG9lcmluZ3NOb3RhdCRSZWxhdGlvbk9uZUhvcFBhZ2VMaXN0MQ8PZmRkBWZjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kY3RsMDAkUmVsYXRpb25zT25lSG9wUGFnZUxpc3QPD2ZkZAUdY3RsMDAkUmVxdWlyZWRSZXNvdXJjZXNIZWFkZXIPBQZIZWFkZXJkBW9jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kdWNMb3ZGb3Jza3JpZnQkUmVsYXRpb25zT25lSG9wUGFnZUxpc3QPD2ZkZAV+Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRSZWxhdGVkTG92Rm9yc2tyaWZ0JFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFgAFjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJEFzc29jaWF0ZWRFeHRlcm5hbE9yZyRSZWxhdGlvbk9uZUhvcFBhZ2VMaXN0MQ8PZmRkBUxjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRSZWxhdGVkQ29udGFjdDIkUGFnZUxpc3QxDw9mZGTflbOM8WiodgVHTt8KbvaIAOjpSA==" />
 </div>
 
+
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=EqeggJn66n4UBdY8MbXhpm4B0qmJ6qTeldD4gI_YWoLk0slZiV09hPpkSC4kPPQHqw2oiG3D3eL-K2zLMn-5JELP2CBBmZJgNWx919bugEX654QdMSv3E13cFAeeqwRm_knJDg2&amp;t=6fd2091f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=argtXe0SlTRDlv1m2KtPxbf_kJUIvOYZaBh8WARFoIMmDh9A_6vgcztE7W4MTCqUngWQOBE2qv2FwX84zF7vwOLGXuY6zcROPGasP6n0LXyd3AmuBCfmgmG9SyZEPj1LfcuoMg2&amp;t=6fd2091f" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=DHYmz5vqrxkn_XcNHT0cRdAjLwN8MlDs6WOsro3_Nuocyo2bgQ8XplNUAV-oAjlIMZ3uXsArqzgOSaJHTEOX3t9ja476kI7FQqhUJXCcFgBwVu8ahCP6ZDMDmckHSmGIsKzDHA2&amp;t=6fd2091f" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAArz1R7OCk9wP75NGRtfalfxrya5utHaP3uHQRI8Uid46QTFRMbyqbI0sloRc3Uw10HWXWl/SJpEFyAqi99OHjtE9II++VEPX1O6J4griigfdC7aBgEb6tB38M3Q+QtcT5dc3Ehi7iZ59S7JzT6xst29Aj7CbHcl1x8vt8oSwlXRyTB3252SfMu8eVjldtH+CO8H5Rw5lPWO+gKW1s3AVnMNyBwRXLjqrUx+tUMGmUtJi2IjxCM=" />
+</div>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo">Go to contact information</a></li>
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">Go to search</a><a href="#Content" tabindex="3">Go to content</a><a href="#AreaTopSiteNav" tabindex="4">Go to top menu</a><a href="#AreaLeft" tabindex="5">Go to left menu</a>
+    <a href="#FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo" tabindex="6">Go to contact information</a>
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/bld/tema/barnevern.html?id=1058">Bokmål</a></li>
-        <li class=""><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Denne sida finst ikkje på nynorsk. Klikk her for å vise nynorsk rammeverk" class="ISI_IGNORE" href="/nn/dep/bld/tema/barnevern.html?id=1058">Nynorsk</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/bld/tema/manaidsuodjalus.html?id=1058">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/bld/Topics/Child-welfare.html?id=1058">English</a></li>
+        <li class="First Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/bld/tema/barnevern.html?id=1058">Bokmål</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/dep/bld/Tema/barnevernet.html?id=1058">Nynorsk</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/bld/tema/manaidsuodjalus.html?id=1058">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/bld/topics/child-welfare.html?id=1058">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/en.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/en.html?id=4" tabindex="20">
+                                            government.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/en/the-government/solberg/members-of-the-government-2.html?id=543170' class="ISI_MENU" tabindex="21">Solberg’s Government</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/en/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Ministries
+                                        </a>
+                                        
     <ul>
   
     <li>
-        <a href="/en/dep/smk.html?id=875" class="NormalLink ISI_MENU">Statsministerens kontor</a>
+        <a href="/en/dep/smk.html?id=875" class="NormalLink ISI_MENU">The Office of the Prime Minister</a>
     </li>
   
     <li>
-        <a href="/en/dep/ad.html?id=165" class="NormalLink ISI_MENU">Arbeidsdepartementet</a>
+        <a href="/en/dep/asd.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour and Social Affairs</a>
     </li>
   
     <li class="Selected">
-        <a href="/en/dep/bld.html?id=298" class="NormalLink ISI_MENU">Barne-, likestillings- og inkluderingsdepartementet</a>
+        <a href="/en/dep/bld.html?id=298" class="NormalLink ISI_MENU">Ministry of Children, Equality and Social Inclusion</a>
     </li>
   
     <li>
-        <a href="/en/dep/fin.html?id=216" class="NormalLink ISI_MENU">Finansdepartementet</a>
+        <a href="/en/dep/fin.html?id=216" class="NormalLink ISI_MENU">Ministry of Finance</a>
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Fiskeri- og kystdepartementet</a>
+        <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
     </li>
   
     <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Fornyings-, administrasjons- og kirkedepartementet</a>
+        <a href="/en/dep/hod.html?id=421" class="NormalLink ISI_MENU">Ministry of Health and Care Services</a>
     </li>
   
     <li>
-        <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Forsvarsdepartementet</a>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and Public Security</a>
     </li>
   
     <li>
-        <a href="/en/dep/hod.html?id=421" class="NormalLink ISI_MENU">Helse- og omsorgsdepartementet</a>
+        <a href="/en/dep/kld.html?id=668" class="NormalLink ISI_MENU">Ministry of Climate and Environment</a>
     </li>
   
     <li>
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Justis- og politidepartementet</a>
+        <a href="/en/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Modernisation</a>
     </li>
   
     <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Kommunal- og regionaldepartementet</a>
+        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
     </li>
   
     <li>
-        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Kulturdepartementet</a>
+        <a href="/en/dep/kd.html?id=586" class="NormalLink ISI_MENU">Ministry of Education and Research</a>
     </li>
   
     <li>
-        <a href="/en/dep/kd.html?id=586" class="NormalLink ISI_MENU">Kunnskapsdepartementet</a>
+        <a href="/en/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Ministry of Agriculture and Food</a>
     </li>
   
     <li>
-        <a href="/en/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Landbruks- og matdepartementet</a>
+        <a href="/en/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade, Industry and Fisheries</a>
     </li>
   
     <li>
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Miljøverndepartementet</a>
+        <a href="/en/dep/oed.html?id=750" class="NormalLink ISI_MENU">Ministry of Petroleum and Energy</a>
     </li>
   
     <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Nærings- og handelsdepartementet</a>
+        <a href="/en/dep/sd.html?id=791" class="NormalLink ISI_MENU">Ministry of Transport and Communications</a>
     </li>
   
     <li>
-        <a href="/en/dep/oed.html?id=750" class="NormalLink ISI_MENU">Olje- og energidepartementet</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/sd.html?id=791" class="NormalLink ISI_MENU">Samferdselsdepartementet</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/ud.html?id=833" class="NormalLink ISI_MENU">Utenriksdepartementet</a>
+        <a href="/en/dep/ud.html?id=833" class="NormalLink ISI_MENU">Ministry of Foreign Affairs</a>
     </li>
   
     </ul>
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en/dep/bld.html?id=298"><img class="ProfileLogo" src="/styles/Images/bld/bld_en.gif" alt='Ministry of Children, Equality and Social Inclusion' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/en/dep/bld.html?id=298" tabindex="34"><img class="ProfileLogo" src="/styles/Images/bld/bld_en.gif" alt='Ministry of Children, Equality and Social Inclusion' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
     <label for="quicksearchinput" class="QuickSearchHeader">Search the Ministry of Children, Equality and Social Inclusion</label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
-    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Search all of government.no</a></span>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Search" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Search" />        
+    <span><a id="TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" tabindex="32" class="QuickSearchLinkToMainSearch" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))">Search all of government.no</a></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Share/Send' /><span class="open" id="open">Share/Send</span><span class="display-none" id="close">Close</span></a></li>
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/bld/Topics/Child-welfare.html?id=1058&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/dep/bld/Site-Map.html?id=270359">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/dep/bld/BLD-arbeider-for-at/contact.html?id=306">Contact</a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+        <li class="Share">
+            <noscript>
+                <a href="http://www.regjeringen.no/templates/Tema.aspx?id=1058&amp;epslanguage=en-GB&amp;tipafriend=1" id="noScriptTipLink" rel="nofollow" tabindex="72"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                        vertical-align: middle; height: 1em;" alt='Share/Send' />Share/Send</a></noscript>
+            <a onclick="return displayTipAFriendForm();" id="TopRegion_TopRightRegion_ctl00_tipAFriendLink" tabindex="34" class="display-none" href="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$TopRegion$TopRightRegion$ctl00$tipAFriendLink&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, true))"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                    vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Share/Send' /><span id="open">Share/Send</span><span id="close" style="display: none;">Close</span></a>
+        </li>
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Click here to print this page' />Print</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/templates/Tema.aspx?id=1058&amp;epslanguage=en-GB&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal font size' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Tema.aspx?id=1058&amp;epslanguage=en-GB&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium font size' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Tema.aspx?id=1058&amp;epslanguage=en-GB&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Large font size' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/bld/topics/child-welfare.html?id=1058&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/en/dep/bld/Site-Map.html?id=270359">Site Map</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/en/dep/bld/BLD-arbeider-for-at/contact.html?id=306">Contact</a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
-                        <div id="AreaContentAndRight">
-                            
-                                <div id="AreaContent">
-                                    <div id="slickbox" style="display:none;">
-                                       
-                                            
-<script type="text/javascript"><!--
-function fbs_click() 
-{
-    u=location.href;
-    t=document.title;
-    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
-    return false;
-}
-function nettby_click(pageurl,pagename)
-{
-    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
-    wnd.focus();
-    return false;
-}
-function GetThis(T, C, U, L) 
-{
-	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
-	wnd = window.open(targetUrl);
-	wnd.focus();
-	return false;
-}
---></script>
-
-
-
-    <div id="thankyouview">
-        <div id="thankyoudiv"></div>        
-    </div>
-    <div id="tipafriend">
-        <div id="tipafriendContent">
-            
-            <div>
-	  
-                <p><strong>Share this page with a friend </strong></p>
-                <ol>
-                    <li>
-                        
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
-                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
-                    </li>
-                    <li>
-                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
-                    </li>
-                    <li>
-                                                         
-                    </li>
-                </ol>                          
-            
-</div>
-        </div> 
-    </div>
-    <div id="ShareArticle">
-        <p><strong>Share</strong></p>
-        <ul class="communities">        
-            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/bld/Topics/Child-welfare.html?id=1058" target="_blank">Facebook</a></li>            
-            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/en/dep/bld/Topics/Child-welfare.html?id=1058', 'Child welfare')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/en/dep/bld/Topics/Child-welfare.html?id=1058&amp;description=Child welfare' target="_blank">Nettby</a></li>
-            <li><a class="share_myspace" href="#" onclick="return GetThis('Child welfare','','http://www.regjeringen.no/en/dep/bld/Topics/Child-welfare.html?id=1058',3)">Myspace</a></li>
-            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
-        </ul>
-    </div>
-
-
-
-                                        
-                                    </div>
-                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
-                                    
-    
-    
-
-    
-    
-
-         <p class="breadcrumbs">You are here: <a href="/en.html?id=4">Government.no</a> / <a href="/en/dep/bld.html?id=298">Ministry of Children, Equal...</a> / <a href="/en/dep/bld/Topics.html?id=300">Topics</a> / <span>Child welfare</span>
-</p>
-         <div class="documentTop SubjectPage">            
-                     
-            <h1>Child welfare</h1>
-            <div class="temaMobIngressImg" style="display: none;"><img src="/Upload/BLD/Temabilder/Hovedtemabilder/Barnevern_Tema_150x113.jpg" alt="Barnevern
-Barnevern" /></div>
-            <p class="textIngress">The main purpose of the child welfare service is to provide timely help and support to children and young people who live in conditions that may be harmful to their health or development, and to make sure they grow up in safe and secure surroundings.
-</p>
-            <img src="/Upload/BLD/Temabilder/Hovedtemabilder/Barnevern_Tema_150x113.jpg" alt="Barnevern
-Barnevern" class="temaIngressImg" />
-            <div class="descriptionText"><p>Municipalities and the state both have duties and responsibilities related to child welfare. All municipalities must have a child welfare service that carries out day-to-day activities in fulfillment of the law. This service provides advice and guidance, conducts surveys, rules on matters assigned to it under the law and prepares cases for consideration by the County Social Welfare Board. It also implements and follows through on projects and programmes.<br /></p></div>
-	    <div style="clear:both"></div>
-	      
-         </div>
-         
-         
-                                
-        
-        
-        
-                            
-    <div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_divPageContent" class="documentBody">  
-                
-
-<div class="ArticleView">
-        <img src="/upload/BLD/Ingresssbilder/barns_rettigheter_150x113.jpg" alt="" class="ArticleImg" />
-        
-        
-        <div class="ArticleImgContent">
-            <h2><a href="/en/dep/bld/Topics/Child-welfare/call-child-welfare.html?id=537079">Call child welfare</a></h2>        
-                
-            <p>
-               Anyone with worries about a child's development or care to take contact with the child welfare service.
-            </p>
-            
-        </div>
-    </div>
-    
-    
-
-
-<div class="ArticleView">
-        <img src="/upload/BLD/Temabilder/Hjelpetiltak_i_hjemmet_150x.jpg" alt="Hjelpetiltak i hjemmet" class="ArticleImg" />
-        
-        
-        <div class="ArticleImgContent">
-            <h2><a href="/en/dep/bld/Topics/Child-welfare/in-home-child-welfare-assistance.html?id=492927">In-home child welfare assistance</a></h2>        
-                
-            <p>
-               The child welfare service provides assistive measures when conditions in the home, or other conditions, make it necessary for a child to receive special support and help.
-            </p>
-            
-        </div>
-    </div>
-    
-    
-
-
-<div class="ArticleView">
-        <img src="/Upload/BLD/Ingresssbilder/Barnevern__opg_150x113.jpg" alt="" class="ArticleImg" />
-        
-        
-        <div class="ArticleImgContent">
-            <h2><a href="/en/dep/bld/Topics/Child-welfare/Child-welfare-service.html?id=476334">Child welfare service</a></h2>        
-                
-            <p>
-               The main purpose of the child welfare service is to provide timely help and support to children and young people who live in conditions that may be harmful to their health or development, and to make sure they grow up in safe and secure surroundings.
-            </p>
-            
-        </div>
-    </div>
-    
-    
-
-
-<div class="ArticleView">
-        <img src="/Upload/BLD/Ingresssbilder/Barnevern_ansv_150x113.jpg" alt="" class="ArticleImg" />
-        
-        
-        <div class="ArticleImgContent">
-            <h2><a href="/en/dep/bld/Topics/Child-welfare/Duties-and-responsibilities-related-to-c.html?id=476333">Duties and responsibilities related to child welfare</a></h2>        
-                
-            <p>
-               Municipalities and the state both have duties and responsibilities related to child welfare. All municipalities must have a child welfare service that carries out day-to-day activities in fulfillment of the law. This service provides advice and guidance, conducts surveys, rules on matters assigned to it under the law and prepares cases for consideration by the County Social Welfare Board. It also implements and follows through on projects and programmes.
-            </p>
-            
-        </div>
-    </div>
-    
-    
-
-<hr class="hrSkille" />
-
-
-     
-        <div class="ArticleView"> 
-            
-            <div class="ArticleContent">
-                <h2>
-                    <a href="/en/dep/bld/BLD-arbeider-for-at/Styrer-rad-og-utvalg/Child-Welfare-Service-Conflict-Resolution-Board.html?id=589293" title="">
-                        Child Welfare Service Conflict Resolution Board
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none">Establishing a conflict resolution board for the child welfare service</h3>
-                <p class="ArticleInfo">[EN_GB Styrer, råd og utvalg, Ministry of Children, Equality and Social Inclusion, 01.01.2010]</p>
-                
-                <p><span>Establishing a conflict resolution board for the child welfare service</span></p>
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp595570488_wp1872782628_lstSearchResult_lstUniversal_ctl00_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
-            
-            <div class="ArticleContent">
-                <h2>
-                    <a href="/en/dep/bld/Press-Center/Press-releases/2009/Delay-in-transfer-of-care-responsibility-from-immigration-authorities-to-the-child-welfare-service-.html?id=570369" title="">
-                        Delay in transfer of care responsibility from immigration authorities to the child welfare service 
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Press release, Ministry of Children, Equality and Social Inclusion, 29.06.2009]</p>
-                <p>Ministry of Children and Equality   Ministry of Labour and Social Inclusion Contact: Ministry of Children and Equality, communications office: +47 97 77 36 34 Ministry of Labour and Social Inclusion, media and communications: +47 22 24 51 04 The government has decided to delay, until after 2010, the transfer of administrative responsibility for the care of unaccompanied asylum-seekers under the age of 15. The reason is that Norway in recent years has experienced a major increase in the arrival of asylum-seekers who declare themselves to be unaccompanied minors. </p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp595570488_wp1872782628_lstSearchResult_lstUniversal_ctl01_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
-            
-            <div class="ArticleContent">
-                <h2>
-                    <a href="/en/dep/bld/Whats-new/News/2009/Emergency-telephone-116111-for-children-and-youths.html?id=567699" title="">
-                        Emergency telephone 116111 for children and youths
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[News story, Ministry of Children, Equality and Social Inclusion, 18.06.2009]</p>
-                <p>This emergency telephone line is a free telephone hotline service for children and youths exposed to neglect, violence or abuse. Adults worried about children or young people may also use the emergency telephone line. The service is open when the local child welfare service is closed.</p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp595570488_wp1872782628_lstSearchResult_lstUniversal_ctl02_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
-            
-            <div class="ArticleContent">
-                <h2>
-                    <a href="/en/dep/bld/Press-Center/Press-releases/2009/Better-protection-of-childrens-rights.html?id=557585" title="">
-                        Better protection of children's rights
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Press release, Ministry of Children, Equality and Social Inclusion, 24.04.2009]</p>
-                <p>Minister of Children and Equality Anniken Huitfeldt proposes changes to the Child Welfare Act that include a strengthening of follow-up care and clarifications designed to make sure children's interests come first in all evaluations that are undertaken. Cooperation between the child welfare service and other public bodies is to be improved. The goal is to provide vulnerable children and youths the same opportunities enjoyed by other young people in the community.</p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp595570488_wp1872782628_lstSearchResult_lstUniversal_ctl03_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
-            <a href="/en/dep/bld/Topics/Child-welfare/call-child-welfare.html?id=537079" class="ISI_IGNORE">
-                <img src="/upload/BLD/Ingresssbilder/barns_rettigheter_150x113.jpg" alt="" class="ArticleImg" />
-            </a>
-            <div class="ArticleImgContent">
-                <h2>
-                    <a href="/en/dep/bld/Topics/Child-welfare/call-child-welfare.html?id=537079" title="">
-                        Call child welfare
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Editorial article, Ministry of Children, Equality and Social Inclusion, 21.11.2008]</p>
-                <p>Anyone with worries about a child's development or care to take contact with the child welfare service.</p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp595570488_wp1872782628_lstSearchResult_lstUniversal_ctl04_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
-            <a href="/en/dep/bld/Press-Center/Press-releases/2008/clear-prohbition-against-child-punishmen.html?id=537052" class="ISI_IGNORE">
-                <img src="/upload/BLD/Ingresssbilder/Barnefordelingsaker_100x75.jpg" alt="" class="ArticleImg" />
-            </a>
-            <div class="ArticleImgContent">
-                <h2>
-                    <a href="/en/dep/bld/Press-Center/Press-releases/2008/clear-prohbition-against-child-punishmen.html?id=537052" title="">
-                        Clear prohibition against child punishment
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Press release, Ministry of Children, Equality and Social Inclusion, 21.11.2008]</p>
-                <p>- There should be no more doubt over whether we've abolished with the right of parents to punish children physically and psychologically in Norway. Clarifications to the law are intended to remove all discussion about its provisions," says Minister of Children and Equality Anniken Huitfeldt. She's now seeking comments on a proposal for changes to the Children Act.</p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp595570488_wp1872782628_lstSearchResult_lstUniversal_ctl05_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
-            <a href="/en/dep/bld/Press-Center/Press-releases/2008/improved-stability-for-state-funded-fost.html?id=534357" class="ISI_IGNORE">
-                <img src="/upload/BLD/Temabilder/mekling_for_foreldre_150x113.jpg" alt="mekling for foreldre
-mekling for foreldre" class="ArticleImg" />
-            </a>
-            <div class="ArticleImgContent">
-                <h2>
-                    <a href="/en/dep/bld/Press-Center/Press-releases/2008/improved-stability-for-state-funded-fost.html?id=534357" title="">
-                        Improved stability for state-funded foster homes
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Press release, Ministry of Children, Equality and Social Inclusion, 31.10.2008]</p>
-                <p>Families that agree to provide family or emergency homes on assignment for the state will now be given new rights. New standard contracts provide these families with increased economic security, including rights to occupational pensions, paid sick leave and reimbursement of expenses for work-related injury insurance. </p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp595570488_wp1872782628_lstSearchResult_lstUniversal_ctl06_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
-            <a href="/en/dep/bld/Whats-new/News/2008/nightingale.html?id=504435" class="ISI_IGNORE">
-                <img src="/upload/BLD/Ingresssbilder/Standardbilder/Barnevern_100x75.jpg" alt="Nightingale" class="ArticleImg" />
-            </a>
-            <div class="ArticleImgContent">
-                <h2>
-                    <a href="/en/dep/bld/Whats-new/News/2008/nightingale.html?id=504435" title="">
-                        Nightingale
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[News story, Ministry of Children, Equality and Social Inclusion, 26.03.2008]</p>
-                <p>As part of the Government’s strategy for increasing the multicultural knowledge in the child welfare service, the Ministry of Children, Equality and Social Inclusion has initiated the mentoring programme Nightingale. The programme runs at eight universities and university colleges in Norway and is funded by the Ministry of Children, Equality and Social Inclusion. </p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp595570488_wp1872782628_lstSearchResult_lstUniversal_ctl07_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
-            <a href="/en/dep/bld/Press-Center/Press-releases/2007/Pre-natal-support.html?id=489535" class="ISI_IGNORE">
-                <img src="/Upload/BLD/Ingresssbilder/Bufdir_100x75.jpg" alt="" class="ArticleImg" />
-            </a>
-            <div class="ArticleImgContent">
-                <h2>
-                    <a href="/en/dep/bld/Press-Center/Press-releases/2007/Pre-natal-support.html?id=489535" title="">
-                        Pre-natal support
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Press release, Ministry of Children, Equality and Social Inclusion, 14.11.2007]</p>
-                <p>"Children with parents who are mentally ill or who abuse alcohol or drugs must be followed closely from before birth to the start of school. We have initiated a major project in which specialized teams will guide and assist municipalities in their efforts to improve the lives of vulnerable children," says Minister of Children and Equality Manuela Ramin-Osmundsen.</p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp595570488_wp1872782628_lstSearchResult_lstUniversal_ctl08_Label1"></span>                 
-           </div>
-        </div> 
-    
-        <div class="ArticleView"> 
-            <a href="/en/dep/bld/Whats-new/Speeches-and-articles/minister/barne_og_likestillingsminister_ramin_osm/2007/Creating-a-safe-environment-for-children.html?id=488526" class="ISI_IGNORE">
-                <img src="/Upload/BLD/Ingresssbilder/barn_og_ungdom_deltagelse_og_inflytelse_150x113.jpg" alt="barn og ungdom deltagelse og inflytelse
-barn og ungdom deltagelse og inflytelse" class="ArticleImg" />
-            </a>
-            <div class="ArticleImgContent">
-                <h2>
-                    <a href="/en/dep/bld/Whats-new/Speeches-and-articles/minister/barne_og_likestillingsminister_ramin_osm/2007/Creating-a-safe-environment-for-children.html?id=488526" title="">
-                        Creating a safe environment for children
-                    </a>
-                </h2>
-                <h3 class="subDescription" style="display:none"></h3>
-                <p class="ArticleInfo">[Speech/article, Ministry of Children, Equality and Social Inclusion, 05.11.2007]</p>
-                <p>Unfortunately, children and young people with behavioural problems often find themselves outside of local support structures. These children are socially stigmatized, and often face defeat after defeat. It is about time we recognize that these children represent far more than their negative behaviour. They are people with hopes, dreams, sorrows and longings.</p>
-                
-                
-                <p>
-                    
-                    
-                </p>
-                <span id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp595570488_wp1872782628_lstSearchResult_lstUniversal_ctl09_Label1"></span>                 
-           </div>
-        </div> 
-    
- 
-
-   
-            
-            <a id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_SubjectManager_wp595570488_wp1872782628_lnkSubjectSearch" class="WebPartGeneralListReadMore" href="/en/search.html?tema=1058&amp;id=86008">More documents about this subject</a>
-
-            
-
-    </div> 
-	<div class="printContact">
-		<div id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_RelatedContact2_AreaContactInfo" class="Toolbox">   
-    <h2 id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_RelatedContact2_H2Header" class="ToolboxHeader">
-       
-                        Contact information
-                    
-    </h2>
-                 
-            <div class="ToolboxContent">
-					<h3 class="relatedContactHead">
-						 <a href="/en/dep/bld/BLD-arbeider-for-at/organisation/departments/Department-Of-Children-and-Youth-Policy.html?id=81" class="structuredDataEmail">Department Of Children and Youth Policy</a>
-					</h3>
-					<p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/images/emailimages/20062e429b07fbde11c01b6b7a3b1585.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', 'C2FCA3EDFEAEABA3AFEFA7E2A6ACA791FCE5E5FFA7AEBBB6B1E2E5ADACECB2A7A6ECA6AEA082A9A3B6B6ADAFB6B1ADB2F8ADB6AEABA3AFE5FFA4A7B0AAE2A3FE'));//--></script></p>
-					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
-						 <tr>
-	<td>
-                        Telephone:
-                    </td>
-	<td><a class="telephoneLink" href="tel:+47-22242601">0047 - 22242601</a></td>
-</tr>
-
-						  
-						 
-					</table>
-					
-					            
-					<!-- Separator -->
-            </div>
-         
-</div>
-	</div>
-
-                                </div>
-                                <div id="AreaRight"> 
-                                    
-                                        
-                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/en/dep/bld.html?id=298'><img src="/upload/BLD/Profilelementer/Banner-BLD-lovetann-198x123.JPG" alt="Ministry of Children and Equality" /></a></div>
-                                        
-                                        
-        <div class="Toolbox GlobalNavMain TemaSearch">
-            <div class="ToolboxContent GlobalNav" style=';'>
-                <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_Panel1">
-	
-                    <h2 class="GlobalNavSubheading"><label>
-                    Search within topic
-                </label></h2>
-                    <div class="searchtermtext"><h3>Child welfare</h3></div>
-                    <input name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$searchText" type="text" id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_searchText" class="searchField" /> 
-                    <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ExecuteSearch" class="searchBut" />
-                
-</div>
-             </div>
-         </div>
-    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divHeading" class="Toolbox GlobalNavMain">  
-    
-        <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divParents" class="ToolboxContent GlobalNav">  
-            <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2ParentSubjects" class="GlobalNavSubheading">
-                
-                        Expand by topic
-                    
-            </h2>
-        <h3>Government.no</h3><ul><li><a href="/en/topics/families-and-upbringing.html?id=213" title="" class="ISI_MENU">Families and upbringing</a></li></ul></div>
-        
-
-        
-</div> 
-
-                                        
-                                                
-                                        
-        
-        
-
-                                                                        
-                                        
-    
-    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl00_divToolbox" class="Toolbox">  
-
-        <h2 class="ToolboxHeader">Responsible organization</h2>
-        <div class="ToolboxContent">
-            <ul>
-    
-        <li><a href="/en/dep/bld/BLD-arbeider-for-at/Offices-and-agencies-associated-with-the-Ministry-of-Children-and-Equality/Norwegian-Directorate-for-Children-Youth.html?id=418035" title="" class="ISI_MENU">Norwegian Directorate for Children, Youth and Family Affairs</a></li>
-    
-            </ul>
-        </div>
-           
-</div>
-    <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_AreaContactInfo" class="Toolbox">   
-    <h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_ctl01_H2Header" class="ToolboxHeader">
-       
-                        Contact information
-                    
-    </h2>
-                 
-            <div class="ToolboxContent">
-					<h3 class="relatedContactHead">
-						 <a href="/en/dep/bld/BLD-arbeider-for-at/organisation/departments/Department-Of-Children-and-Youth-Policy.html?id=81" class="structuredDataEmail">Department Of Children and Youth Policy</a>
-					</h3>
-					<p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/images/emailimages/20062e429b07fbde11c01b6b7a3b1585.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_2', 'A799C6889BCBCEC6CA8AC287C3C9C2F49980809AC2CBDED3D48780C8C989D7C2C389C3CBC5E7CCC6D3D3C8CAD3D4C8D79DC8D3CBCEC6CA809AC1C2D5CF87C69B'));//--></script></p>
-					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
-						 <tr>
-	<td>
-                        Telephone:
-                    </td>
-	<td><a class="telephoneLink" href="tel:+47-22242601">0047 - 22242601</a></td>
-</tr>
-
-						  
-						 
-					</table>
-					
-					            
-					<!-- Separator -->
-            </div>
-         
-</div>  
-
-                                                                                                   
-                                </div>
-                            
-                        </div>
                         <div id="AreaLeft">
-                              
+                            
                                 <div id="AreaLeftNav" class="NavListV">
                                     
 
@@ -799,152 +274,570 @@ document.write(dc('Eoi_2', 'A799C6889BCBCEC6CA8AC287C3C9C2F49980809AC2CBDED3D487
 <a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
 
     <ul>
-        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/bld.html?id=298">
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/bld.html?id=298" tabindex="41">
             Ministry home</a></li></ul>
 
 <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Whats-new.html?id=299" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/whats-new.html?id=299" title="" tabindex="42">
             What’s new</a>
     </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/dep/bld/Topics.html?id=300" title=''>
+        <a class="ISI_MENU " href="/en/dep/bld/topics.html?id=300" title="" tabindex="43">
             Topics</a>
-    <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics/adoption.html?id=1050" title=''>
-            Adoption</a>
-    </li><li class="Selected">
-        <a class="Selected ISI_MENU" href="/en/dep/bld/Topics/Child-welfare.html?id=1058" title=''>
+    <ul><li class="Selected">
+        <a class="Selected ISI_MENU" href="/en/dep/bld/topics/child-welfare.html?id=1058" title="" tabindex="44">
             Child welfare</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics/Children-and-youth.html?id=1015" title=''>
-            Children and youth</a>
+        <a class="ISI_MENU" href="/en/dep/bld/topics/children-and-youth.html?id=1015" title="" tabindex="45">
+            Children and young people</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics/Consumer-affairs.html?id=1092" title=''>
-            Consumer affairs</a>
+        <a class="ISI_MENU" href="/en/dep/bld/topics/consumer-affairs.html?id=1092" title="" tabindex="46">
+            Consumer policy</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics/ethnic-discrimination.html?id=1145" title=''>
-            Ethnic discrimination</a>
+        <a class="ISI_MENU" href="/en/dep/bld/topics/equality-and-discrimination.html?id=670163" title="" tabindex="47">
+            Equality and discrimination</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics/Family-finances.html?id=1019" title=''>
-            Family finances</a>
+        <a class="ISI_MENU" href="/en/dep/bld/topics/family-policies.html?id=670153" title="" tabindex="48">
+            Family policy</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics/equality.html?id=1246" title=''>
-            Gender equality</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics/homosexuality.html?id=87115" title=''>
-            Homosexuality</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics/Integration-and-diversity.html?id=1138" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/topics/integration-and-diversity.html?id=1138" title="" tabindex="49">
             Integration and diversity</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics/Marriage-and-cohabitation.html?id=1018" title=''>
-            Marriage and cohabitation</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics/Parents-and-children.html?id=1016" title=''>
-            Parents and children</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics/disabled-people.html?id=987" title=''>
-            Persons with disabilities</a>
-    </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics/Violence-and-abuse-in-close-relationship.html?id=1022" title=''>
-            Violence and abuse in close relationships</a>
     </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Press-Center.html?id=301" title=''>
-            Press centre</a>
+        <a class="ISI_MENU" href="/en/dep/bld/press-center.html?id=301" title="" tabindex="50">
+            Press Centre</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Documents.html?id=275234" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/documents.html?id=275234" title="" tabindex="51">
             Documents</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/BLD-arbeider-for-at.html?id=303" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/BLD-arbeider-for-at.html?id=303" title="" tabindex="52">
             About the ministry</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Sound-and-picture.html?id=304" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/Sound-and-picture.html?id=304" title="" tabindex="53">
             Sound and picture</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Document-Archive.html?id=437339" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/Document-Archive.html?id=437339" title="" tabindex="54">
             Document Archive</a>
     </li></ul>
 
                                 </div>
-                              
+                                
+                                
+                            
+                        </div>
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="FullRegion_CenterAndRightRegion_slickbox" class="slickbox" style="display: none;">
+                                        
+                                            
+<script type="text/javascript"><!--
+    function facebook_click() {
+        u = location.href;
+        t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+        return false;
+    }
+    function twitter_click() {
+        u = location.href;
+        t = encodeURIComponent('Child welfare');
+        window.open('http://twitter.com/share?url=' + encodeURIComponent(u) + '&text=' + t, 'sharer', 'toolbar=0,status=0,width=350,height=230');
+        return false;
+    }
+--></script>
+<div id="thankyouview">
+    <div id="thankyoudiv">
+        
+    </div>
+</div>
+<div id="tipafriend">
+    <div id="tipafriendContent">
+        
+                <div>
+	
+                    <div id="TipAFriendForm">
+                        <fieldset>
+                            <legend><strong>
+                                Share this page with a friend 
+                            </strong></legend>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
+                                <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;">
+</textarea>
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="setTipClicked();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitTextBox" style="display: none;
+                                    width: 10px;" />
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                
+                            </div>
+                        </fieldset>
+                    </div>
+                
+</div>
+            
+    </div>
+</div>
+<div id="ShareArticle">
+    <p>
+        <strong>
+            Share
+        </strong>
+    </p>
+    <ul class="communities">
+        <li><a class="share_facebook" onclick="return facebook_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/bld/topics/child-welfare.html?id=1058" target="_blank">
+            Facebook</a></li>
+        <li><a class="share_twitter" onclick="return twitter_click()" href="http://twitter.com/share?url=http://www.regjeringen.no/en/dep/bld/topics/child-welfare.html?id=1058&amp;text=Child welfare" target="_blank">
+            Twitter</a></li>
+        <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">
+            Origo</a></li>
+    </ul>
+</div>
+
+                                        
+                                    </div>
+                                    
+    
+
+
+    
+
+<div class="breadcrumbs ">
+
+    
+               <span>
+                   You are here: 
+               </span>
+                
+                <ul class="breadcrumbmenu">
+            
+                <li><a href="/en.html?id=4" title="Government.no">Government.no</a> / </li>
+            
+                <li><a href="/en/dep/bld.html?id=298" title="Ministry of Children, Equal...">Ministry of Children, Equal...</a> / </li>
+            
+                <li><a href="/en/dep/bld/topics.html?id=300" title="Topics">Topics</a> / </li>
+            
+                <li><span>Child welfare</span></li>
+            
+                </ul>
+            
+</div>
+    <div class="documentTop SubjectPage">            
+                 
+        <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+        <h1>Child welfare</h1>
+            <div class="temaMobIngressImg" style="display: none;"></div>
+        
+            <p class="textIngress">The primary duty of the child welfare services is to ensure that children and young people living under conditions that may harm their health and development will receive the necessary assistance when they need it, and to contribute to giving children and young people safe conditions for growing up. 
+</p>
+        
+            
+        <div class="descriptionTextFull"><div>
+	<p>Both the local and central authorities have duties and responsibilities in the child welfare field. All municipalities must have child welfare services that are responsible for the day-to-day work pursuant to the Act. The child welfare services are responsible for giving advice and guidance, undertaking investigations, making decisions pursuant to the Act or preparing cases for the county social welfare board, and for implementing and following up measures.<br /></p>
+</div></div>
+        <div style="clear:both"></div>
+        
+     </div>
+         
+    
+                            
+    <div id="FullRegion_CenterAndRightRegion_CenterRegion_divPageContent" class="documentBody">
+        <a id="ctl03_wp1014082950_wp30786138_hyperLink1"><img id="ctl03_wp1014082950_wp30786138_Image1" class="bannerimg" src="/imgpreviews/00/00/02/68/26860_img___201204161003.jpg" /></a>
+
+
+<div class="ArticleView">
+        
+        
+        <div class="ArticleContent">
+            <h2><a href="/en/dep/bld/topics/child-welfare/assistance-measures-in-child-welfare.html?id=678701">Assistance measures in child welfare</a></h2>        
+                
+            <p>
+               When a child has special needs due to conditions in the home or for other reasons, the child welfare services must initiate appropriate assistance measures for the child and the family.
+
+            </p>
+            
+        </div>
+    </div>
+    
+    
+
+
+
+<div class="ArticleView">
+        
+        
+        <div class="ArticleContent">
+            <h2><a href="/en/dep/bld/topics/child-welfare/child-in-jeopardy-report-to-the-child-we.html?id=678702">Child-in-jeopardy report to the child welfare services</a></h2>        
+                
+            <p>
+               Any person who is concerned about a child's development or care may report this to the child welfare services.
+
+            </p>
+            
+        </div>
+    </div>
+    
+    
+
+
+
+<div class="ArticleView">
+        
+        
+        <div class="ArticleContent">
+            <h2><a href="/en/dep/bld/topics/child-welfare/child-welfare-service.html?id=476334">Child welfare institutions</a></h2>        
+                
+            <p>
+               Child welfare institutions in Norway are operated by the public authorities (Bufetat – the five regional offices under the central authority of the Directorate for Children, Youth and Family Affairs and the local authorities), charitable organisations and other private actors.
+
+
+            </p>
+            
+        </div>
+    </div>
+    
+    
+
+
+
+<div class="ArticleView">
+        
+        
+        <div class="ArticleContent">
+            <h2><a href="/en/dep/bld/topics/child-welfare/child-welfare-measures-outside-the-home.html?id=678700">Child welfare measures outside the home</a></h2>        
+                
+            <p>
+               Assistance measures in the home are sufficient for the majority of families who come in contact with the child welfare services. Placement of a child outside the home is only considered if home assistance measures are not enough to ensure the child a good care situation.
+
+
+            </p>
+            
+        </div>
+    </div>
+    
+    
+
+
+
+<div class="ArticleView">
+        
+        
+        <div class="ArticleContent">
+            <h2><a href="/en/dep/bld/topics/child-welfare/division-of-responsibility-in-the-child-.html?id=678695">Division of responsibility in the child welfare services </a></h2>        
+                
+            <p>
+               Both the local and central authorities have duties and responsibilities in the child welfare field. All municipalities must have child welfare services that are responsible for the day-to-day work pursuant to the Act. 
+
+            </p>
+            
+        </div>
+    </div>
+    
+    
+
+
+
+<div class="ArticleView">
+        
+        
+        <div class="ArticleContent">
+            <h2><a href="/en/dep/bld/topics/child-welfare/measures-the-child-welfare-services-have.html?id=678703">Measures the child welfare services have for youth 18 years of age and over</a></h2>        
+                
+            <p>
+               The most recent amendment in the provision relating to aftercare in the Child Welfare Services Act came into force on 1 July 2009. This provision now establishes that the child welfare services must give grounds if NO offer of aftercare is given to a young person.
+
+            </p>
+            
+        </div>
+    </div>
+    
+    
+
+
+
+<div class="ArticleView">
+        
+        
+        <div class="ArticleContent">
+            <h2><a href="/en/dep/bld/topics/child-welfare/duties-and-responsibilities-related-to-c.html?id=476333">The duties of the child welfare services</a></h2>        
+                
+            <p>
+               The main duty of the child welfare services is to ensure that children and young people living under conditions that might impair their health and development receive the necessary assistance and care when they need it, and to contribute to giving them safe conditions for their early development.
+
+            </p>
+            
+        </div>
+    </div>
+    
+    
+
+    </div> 
+	<div class="printContact">
+		
+	</div>
+
+                                    
+                                        
+                                    
+
+                                    
+
+                                </div>
+                                <div id="AreaRight">
+                                    
+                                        
+                                            
+    <div class="DepProfile"><a href='/en/dep/bld.html?id=298' tabindex="61"><img src="/upload/BLD/Profilelementer/Banner-BLD-lovetann-198x123.JPG" alt="Ministry of Children and Equality" /></a></div>
+
+                                        
+                                        
+        <div class="Toolbox GlobalNavMain TemaSearch">
+        
+            <div class="ToolboxContent GlobalNav">
+                <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_Panel1">
+	
+                    <h2 class="GlobalNavSubheading"><label>
+                    Search within topic
+                </label></h2>
+                    <div class="searchtermtext"><h3>Child welfare</h3></div>
+                    <input name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$searchText" type="text" id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_searchText" class="searchField" /> 
+                    <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$RightRegion$RightRegionHierarchyNavigation$ExecuteSearch&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ExecuteSearch" class="searchBut" />
+                
+</div>
+             </div>
+         
+     </div>
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divHeading" class="Toolbox GlobalNavMain">  
+    <div id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_divParents" class="ToolboxContent GlobalNav">  
+        <h2 id="FullRegion_CenterAndRightRegion_RightRegion_RightRegionHierarchyNavigation_ucHierarchyNavigation_H2ParentSubjects" class="GlobalNavSubheading">
+            
+                        Expand by topic
+                                
+        </h2>
+    <h3>Government.no</h3><ul><li><a href="/en/topics/families-and-upbringing.html?id=213" title="" class="ISI_MENU">Families and upbringing</a></li></ul></div>
+    
+
+    
+</div>
+
+                                        
+                                        
+                                        
+                                            
+
+
+
+
+
+
+                                        
+                                        
+                                        
+                                        
+    
+
+                                        
+                                        
+                                        
+    
+
+<div class="Toolbox">  
+
+    
+          <h2 class="ToolboxHeader">
+                        Associated law/regulation
+                    </h2>
+          <div id="textpanel" class="ToolboxContent">
+            <ul>
+        
+            <li><a href="/en/doc/laws/acts/the-child-welfare-act.html?id=448398" class="ISI_MENU" title="Lov:Act of 17 July 1992 No. 100 Relating to Child Welfare Services (The Child Welfare Act) / Ministry of Children, Equality and Social Inclusion">The Child Welfare Act</a></li> 
+        
+            </ul>
+          </div> 
+              
+
+</div>
+    
+    
+
+<div class="Toolbox">  
+    
+            <h2 class="ToolboxHeader">Responsible organization</h2>
+            <div class="ToolboxContent">               
+                <ul>
+        
+            <li><a href="http://www.bufetat.no/" title="" class="ISI_MENU">Norwegian Directorate for Children, Youth and Family Affairs</a></li>
+        
+            <li><a href="/en/dep/bld/BLD-arbeider-for-at/Offices-and-agencies-associated-with-the-Ministry-of-Children-and-Equality/The-Ombudsman-for-Children-in-Norway.html?id=418030" title="" class="ISI_MENU">The Ombudsman for Children in Norway</a></li>
+        
+                </ul>                
+            </div>
+                
+</div>    
+         
+
+                                        
+                                    
+                                </div>
                             
                         </div>
                     
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
+                    
                     <!-- ISI_STOP -->
-                </div>
                 </div>
             </div>
         </div>
-        
-         
-<div id="PageFooter"><p>Ministry of Children, Equality and Social Inclusion, &nbsp;Akersgata 59, Postbox 8036 Dep, 0030 Oslo&nbsp;&nbsp; |&nbsp; &nbsp;Tlf:&nbsp;+47 22 24 90 90, Faks:&nbsp;+47 22 24 95 15 <br />E-mail: <img id='Eoi_3' class='obfimg' src='/images/emailimages/e5611cf08b40d66a440e70820ffbe3e6.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_3', '6856094754070646180D0C460C040A2803091C1C07051C1B0738564A070646180D0C460C040A2803091C1C07051C1B073852071C040109054A550E0D1A00480954'));//--></script>&nbsp; |&nbsp; Web-editor:&nbsp;<img id='Eoi_4' class='obfimg' src='/images/emailimages/a1ffc6f3a24791ca4ff5fdcb30ea6716.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_4', '093768263532797A6B672F6D677C452464687B625A297D607B6844372B666727796C6D276D656B496D677C452464687B625A277D607B684433667D656068642B346F6C7B61292B6D677C452464687B625A297D607B68442B346C657D607D296835'));//--></script> |&nbsp; Editor: <img id='Eoi_5' class='obfimg' src='/images/emailimages/f67071c75ce2c6a9c4730698498b802a.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_5', '0B356A24376A716465627B784E2B7F6279492B6A62796A4635296465257B6E6F256F67694B6A716465627B784E257F627949266A62796A4631647F67626A6629366D6E79632B296A716465627B784E2B7F6279492B6A62796A4629366E677F627F2B6A37'));//--></script></p></div>
-        
-        
-        
-   
+    </div>
     
+        
+<div id="PageFooter"><p>The Ministry og Children, Equality and Social Inclusion, Akersgata 59, Postboks 8036 Dep, 0030 Oslo&nbsp;&nbsp; |&nbsp; Phone:&nbsp;22 24 90 90 <br />E-mail: <img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/e2cdfaf3afbe2d31c2fe4d6394c95fa1.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, '8DB3ECA2B1E2E3A3FDE8E9A3E9E1EFCDE6ECF9F9E2E0F9FEE2DDB3AFE2E3A3FDE8E9A3E9E1EFCDE6ECF9F9E2E0F9FEE2DDB7E2F9E1E4ECE0AFB0EBE8FFE5ADECB1'));//--></script>&nbsp; |&nbsp;Web editor: <a href="/en/dep/bld/BLD-arbeider-for-at/organisation/departments/information-secretariat/consultant-elisabeth-johansen.html?id=589640">Elisabeth Johansen</a> |&nbsp;Responsible editor: <img id='Eoi_2' class='obfimg' src='/upload/system/emailimages/88f5c421279e082f130488d96e19fd7f.png' alt='' /><script type="text/javascript" id="Eos_2"><!--
+document.write(dc(2, '053B642A39647F6A6B6C75764025716C774725646C7764483B276A6B2B7560612B61696745647F6A6B6C7576402B716C774728646C7764483F6A71696C646827386360776D2527647F6A6B6C75764025716C774725646C77644827386069716C71256439'));//--></script></p></div>
+<div title="web02" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web02" /></div>
+    
+    
+    
+        
 
- 
-    
 
     
-
-<script type="text/javascript">
-//<![CDATA[
-var __wpmExportWarning='';var __wpmCloseProviderWarning='';var __wpmDeleteWarning='';//]]>
-</script>
-</form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
+    </form>
+    <div id="externalPageTrackers">
 	
-} else
-{    
-    //setAreaHeights();
-}
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
+</div>       
+    
+    
 
-<div id="ctl00_externalPageTrackers">
-	
-
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<div>
+    
 <script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no uses cookies to improve our service to the users. The cookies are mainly used for traffic measuring and for optimizing the site. Find more information on ",
+            messagepart2: ", or go back to regjeringen.no if you accept this.",
+            readMoreUrl: "http://www.regjeringen.no/en/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "use of cookies",
+            closeText: "Close"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
 //--></script>
-<!-- END Xtractor client tracker script -->
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
 
 </div>
+
+
+    
+
 </body>
 </html>

@@ -1,22 +1,29 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
+    <!-- ISI_NOAUTOLANG -->
+    <title>
 	Section for Central Europe and the EEA Financial Mechanisms - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="Section for Central Europe and the EEA Financial Mechanisms" />
+<meta name="WT.ti" content="Section for Central Europe and the EEA Financial Mechanisms" />
 <meta name="DCSext.regj.pagetype" content="Seksjon" />
-<meta name="DCSext.regj.pageid" content="85979" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
 <meta name="DCSext.regj.owner" content="ud" />
 <meta name="DCSext.regj.language" content="en-GB" />
+<meta name="DCSext.regj_lv2" content="dep" />
+<meta name="DCSext.regj_lv3" content="ud" />
+<meta name="DCSext.regj_lv4" content="about_mfa" />
+<meta name="DCSext.regj_lv5" content="organisation" />
+<meta name="DCSext.regj_lv6" content="departments" />
+<meta name="DCSext.regj_lv7" content="department_european" />
+<meta name="DCSext.regj_lv8" content="central_europe" />
+<meta name="DCSext.regj_g-page" content="85979-g-page" />
 <meta name="TITLE" content="Section for Central Europe and the EEA Financial Mechanisms" />
-<meta name="description" content="The EEA Financial Mechanisms. Budget and performance management, dialogue with the 13 Beneficiary States. Responsible for the Financial Mechanism Office in Brussels and coordination between the ministries and other actors in Norway. Desk responsibility..." />
+<meta name="description" content="The EEA and Norway Grants: Budget and performance management, dialogue with the 15 Beneficiary States. Responsible for the Financial Mechanism Office in Brussels and coordination between the ministries and other actors in Norway. Desk responsibility fo..." />
 <meta name="DC.Title" content="Section for Central Europe and the EEA Financial Mechanisms" />
 <meta name="DC.Creator" content="Ministry of Foreign Affairs" />
-<meta name="DC.Description" content="The EEA Financial Mechanisms. Budget and performance management, dialogue with the 13 Beneficiary States. Responsible for the Financial Mechanism Office in Brussels and coordination between the ministries and other actors in Norway. Desk responsibility..." />
+<meta name="DC.Description" content="The EEA and Norway Grants: Budget and performance management, dialogue with the 15 Beneficiary States. Responsible for the Financial Mechanism Office in Brussels and coordination between the ministries and other actors in Norway. Desk responsibility fo..." />
 <meta name="DC.Date" content="2009-10-13" />
 <meta name="DC.Date.Available" content="2006-10-09" />
 <meta name="DC.Type.Status" content="Gyldig" />
@@ -25,6 +32,7 @@
 <meta name="DC.Identifier.URL" content="/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979" />
 <meta name="DC.Language" content="en-GB" />
 <meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DCSext.regj.lang-pref" content="en-GB" />
 <meta name="DC.Publisher" content="regjeringen.no" />
 <meta name="AUTHOR" content="Ministry of Foreign Affairs" />
 <meta name="creation_date" content="Tue, 13 Oct 2009 13:28:00 GMT" />
@@ -34,82 +42,96 @@
 <meta http-equiv="Content-Language" content="en" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
-
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/ud.css" media="all" /> 
-
-
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
-
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
 
 
 
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+    <!-- default styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/default_styles_combined_45D29949909B2B10854E130AC37BCE3C.css" />
+    <!--[if lt IE 6]
+        <link rel="stylesheet" type="text/css" href="/styles/ie55.css?v=2.1.11776" media="screen">
+
+    <![endif]-->
+
+
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/3Col_AF432B5349630A9B3C4A0BDD3743237C.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+<link rel="stylesheet" type="text/css" media="all" href="/styles/Profiles/ud_044CA9498997EF8869D578A9971136F9.css" />
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
+
+
+
+
+<link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web01.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=85979" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web01.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=85979" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979" id="aspnetForm" enctype="multipart/form-data">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTI2Mjg4MjI0Ng9kFgJmD2QWCGYPFQICZW4CZW5kAgEQZGQWAgICD2QWBmYPFgIeBFRleHQF6RA8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlbmFtZSIgY29udGVudD0iU2VjdGlvbiBmb3IgQ2VudHJhbCBFdXJvcGUgYW5kIHRoZSBFRUEgRmluYW5jaWFsIE1lY2hhbmlzbXMiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdldHlwZSIgY29udGVudD0iU2Vrc2pvbiIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VpZCIgY29udGVudD0iODU5NzkiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlc3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5vd25lciIgY29udGVudD0idWQiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5sYW5ndWFnZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJUSVRMRSIgY29udGVudD0iU2VjdGlvbiBmb3IgQ2VudHJhbCBFdXJvcGUgYW5kIHRoZSBFRUEgRmluYW5jaWFsIE1lY2hhbmlzbXMiIC8+DQo8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iVGhlIEVFQSBGaW5hbmNpYWwgTWVjaGFuaXNtcy4gQnVkZ2V0IGFuZCBwZXJmb3JtYW5jZSBtYW5hZ2VtZW50LCBkaWFsb2d1ZSB3aXRoIHRoZSAxMyBCZW5lZmljaWFyeSBTdGF0ZXMuIFJlc3BvbnNpYmxlIGZvciB0aGUgRmluYW5jaWFsIE1lY2hhbmlzbSBPZmZpY2UgaW4gQnJ1c3NlbHMgYW5kIGNvb3JkaW5hdGlvbiBiZXR3ZWVuIHRoZSBtaW5pc3RyaWVzIGFuZCBvdGhlciBhY3RvcnMgaW4gTm9yd2F5LiBEZXNrIHJlc3BvbnNpYmlsaXR5Li4uIiAvPg0KPG1ldGEgbmFtZT0iREMuVGl0bGUiIGNvbnRlbnQ9IlNlY3Rpb24gZm9yIENlbnRyYWwgRXVyb3BlIGFuZCB0aGUgRUVBIEZpbmFuY2lhbCBNZWNoYW5pc21zIiAvPg0KPG1ldGEgbmFtZT0iREMuQ3JlYXRvciIgY29udGVudD0iTWluaXN0cnkgb2YgRm9yZWlnbiBBZmZhaXJzIiAvPg0KPG1ldGEgbmFtZT0iREMuRGVzY3JpcHRpb24iIGNvbnRlbnQ9IlRoZSBFRUEgRmluYW5jaWFsIE1lY2hhbmlzbXMuIEJ1ZGdldCBhbmQgcGVyZm9ybWFuY2UgbWFuYWdlbWVudCwgZGlhbG9ndWUgd2l0aCB0aGUgMTMgQmVuZWZpY2lhcnkgU3RhdGVzLiBSZXNwb25zaWJsZSBmb3IgdGhlIEZpbmFuY2lhbCBNZWNoYW5pc20gT2ZmaWNlIGluIEJydXNzZWxzIGFuZCBjb29yZGluYXRpb24gYmV0d2VlbiB0aGUgbWluaXN0cmllcyBhbmQgb3RoZXIgYWN0b3JzIGluIE5vcndheS4gRGVzayByZXNwb25zaWJpbGl0eS4uLiIgLz4NCjxtZXRhIG5hbWU9IkRDLkRhdGUiIGNvbnRlbnQ9IjIwMDktMTAtMTMiIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlLkF2YWlsYWJsZSIgY29udGVudD0iMjAwNi0xMC0wOSIgLz4NCjxtZXRhIG5hbWU9IkRDLlR5cGUuU3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlIiBjb250ZW50PSJTZWtzam9uIiAvPg0KPG1ldGEgbmFtZT0iREMuRm9ybWF0IiBjb250ZW50PSJ0ZXh0L2h0bWwiIC8+DQo8bWV0YSBuYW1lPSJEQy5JZGVudGlmaWVyLlVSTCIgY29udGVudD0iL2VuL2RlcC91ZC9hYm91dF9tZmEvb3JnYW5pc2F0aW9uL2RlcGFydG1lbnRzL2RlcGFydG1lbnRfZXVyb3BlYW4vY2VudHJhbF9ldXJvcGUuaHRtbD9pZD04NTk3OSIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IkRDLkxhbmd1YWdlLlByZWZlcmVuY2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iREMuUHVibGlzaGVyIiBjb250ZW50PSJyZWdqZXJpbmdlbi5ubyIgLz4NCjxtZXRhIG5hbWU9IkFVVEhPUiIgY29udGVudD0iTWluaXN0cnkgb2YgRm9yZWlnbiBBZmZhaXJzIiAvPg0KPG1ldGEgbmFtZT0iY3JlYXRpb25fZGF0ZSIgY29udGVudD0iVHVlLCAxMyBPY3QgMjAwOSAxMzoyODowMCBHTVQiIC8+DQo8bWV0YSBuYW1lPSJMQVNULU1PRElGSUVEIiBjb250ZW50PSJUdWUsIDEzIE9jdCAyMDA5IDEzOjMyOjAxIEdNVCIgLz4NCjxtZXRhIG5hbWU9IlJFVklTRUQiIGNvbnRlbnQ9IlR1ZSwgMTMgT2N0IDIwMDkgMTM6MzI6MDEgR01UIiAvPg0KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiIC8+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LUxhbmd1YWdlIiBjb250ZW50PSJlbiIgLz4NCmQCAQ8WAh4HVmlzaWJsZWhkAgIPFgIeC18hSXRlbUNvdW50ZmQCAxBkZBYKAgEPZBYGAgIPFQERI3F1aWNrc2VhcmNoaW5wdXRkAgsPZBYCZg8VAWkjY3RsMDBfRnVsbFJlZ2lvbl9DZW50ZXJBbmRSaWdodFJlZ2lvbl9SaWdodFJlZ2lvbl9SaWdodFJlZ2lvbkNvbnRhY3RJbmZvX1JlbGF0ZWRDb250YWN0MV9BcmVhQ29udGFjdEluZm9kAg0PZBYCZg9kFgJmD2QWAgIBD2QWCGYPDxYGHgdUb29sVGlwBS5LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkZW4gcMOlIGJva23DpWwuHwAFB0Jva23DpWweC05hdmlnYXRlVXJsBS8vdGVtcGxhdGVzL1Nla3Nqb24uYXNweD9pZD04NTk3OSZlcHNsYW5ndWFnZT1ub2RkAgEPDxYGHwMFS0Rlbm5lIHNpZGEgZmluc3QgaWtramUgcMOlIG55bm9yc2suIEtsaWtrIGhlciBmb3Igw6UgdmlzZSBueW5vcnNrIHJhbW1ldmVyax8ABQdOeW5vcnNrHwQFLy90ZW1wbGF0ZXMvU2Vrc2pvbi5hc3B4P2lkPTg1OTc5JmVwc2xhbmd1YWdlPW5uZGQCAg8PFgYfAwU0Q29haGtrYWwgZMOha2tvIGRlIG9haW5uw6F0IGTDoW4gc2lpZGR1IHPDoW1lZ2lsbGlpLh8ABQtTw6FtZWdpZWxsYR8EBTIvdGVtcGxhdGVzL1Nla3Nqb24uYXNweD9pZD04NTk3OSZlcHNsYW5ndWFnZT1zZS1OT2RkAgMPDxYGHwMFIlRoaXMgcGFnZSBpcyBkaXNwbGF5ZWQgaW4gZW5nbGlzaC4fAAUHRW5nbGlzaB8EBTIvdGVtcGxhdGVzL1Nla3Nqb24uYXNweD9pZD04NTk3OSZlcHNsYW5ndWFnZT1lbi1HQmRkAgIPFQEBIGQCAw9kFgxmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCAQ8VAQtQb3J0YWwgaG9tZWQCAg9kFgRmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCAg8VAzovdGVtcGxhdGVzL0dlbmVyZWxsRm9yc2lkZS5hc3B4P2lkPTg1ODQzJmVwc2xhbmd1YWdlPWVuLUdCHFN0b2x0ZW5iZXJnJ3MgMm5kIEdvdmVybm1lbnQyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD05MzMmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgMPFQE0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTgzMyZlcHNsYW5ndWFnZT1lbi1HQmQCBA8VARtNaW5pc3RyeSBvZiBGb3JlaWduIEFmZmFpcnNkAgYPZBYSZg9kFgRmD2QWAmYPZBYEAgIPFQQmU2VhcmNoIHRoZSBNaW5pc3RyeSBvZiBGb3JlaWduIEFmZmFpcnMGU2VhcmNoEVF1aWNrU2VhcmNoQnV0dG9uBlNlYXJjaGQCAw8PFgIfAAUbU2VhcmNoIGFsbCBvZiBnb3Zlcm5tZW50Lm5vZGQCAQ8PFgIeC19pc0VkaXRhYmxlaGRkAgEPFQEeL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3RpcHMuZ2lmZAIFDxUBIS9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9wcmludF90LmdpZmQCCA8VAyMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvc21hbGxUZXh0LmdpZiQvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbWVkaXVtVGV4dC5naWYjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL2xhcmdlVGV4dC5naWZkAgkPZBYCZg8VArQBaHR0cDovL2lzaS5waG9uZXRpY29tLmNvbS9jZ2ktYmluL3JzeHQ/dXJsPWh0dHA6Ly93d3cucmVnamVyaW5nZW4ubm8vZW4vZGVwL3VkL2Fib3V0X21mYS9vcmdhbmlzYXRpb24vZGVwYXJ0bWVudHMvZGVwYXJ0bWVudF9ldXJvcGVhbi9jZW50cmFsX2V1cm9wZS5odG1sP2lkPTg1OTc5JmFtcDtjdXN0b21lcmlkPTE5Hy9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9seWRfdC5naWZkAgoPZBYCAgEPDxYEHwQFNi90ZW1wbGF0ZXMvVGVtYUluZGVrcy5hc3B4P2lkPTIyMzQ4NiZlcHNsYW5ndWFnZT1lbi1HQh8ABQpUb3BpY3MgQS1aZGQCCw9kFgICAQ8PFgQfBAU5L3RlbXBsYXRlcy9OZXR0c3RlZHNrYXJ0LmFzcHg/aWQ9MzEzODgzJmVwc2xhbmd1YWdlPWVuLUdCHwAFCFNpdGUgTWFwZGQCDA8PFgQfBAU1L3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD00ODg2NDEmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUESGVscGRkAg0PDxYEHwQFPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD04NDEmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUIQ29udGFjdCBkZAIED2QWBAIBD2QWBgIBD2QWAgIBD2QWBGYPDxYCHwFoZGQCAQ9kFhACAw8PFgIfAAUdUmVjaXBpZW504oCZcyBlLW1haWwgYWRkcmVzczpkZAIHDw8WAh4MRXJyb3JNZXNzYWdlBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCCQ8PFgIfBgUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAgsPDxYCHwAFFFlvdXIgZS1tYWlsIGFkZHJlc3M6ZGQCDw8PFgIfBgUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAhEPDxYCHwYFJVlvdSBtdXN0IGdpdmUgYSB2YWxpZCBlLW1haWwgYWRkcmVzcy5kZAITDw8WAh8ABQhNZXNzYWdlOmRkAhcPDxYCHwAFCVNlbmQgbWFpbGRkAgMPZBYQAgEPZBYOZg9kFgJmDxYCHwAFhgRZb3UgYXJlIGhlcmU6IDxhIGhyZWY9Ii9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQiI+R292ZXJubWVudC5ubzwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9ODMzJmVwc2xhbmd1YWdlPWVuLUdCIj5NaW5pc3RyeSBvZiBGb3JlaWduIEFmZmFpcnM8L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTgzOCZlcHNsYW5ndWFnZT1lbi1HQiI+QWJvdXQgdGhlIE1pbmlzdHJ5IDwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9ODU3JmVwc2xhbmd1YWdlPWVuLUdCIj5PcmdhbmlzYXRpb248L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD04NjAmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkRlcGFydG1lbnRzPC9hPiAvIDxzcGFuPlNlY3Rpb24gZm9yIENlbnRyYWwgRXVyb3BlIGFuZCB0aGUgRUVBIEZpbmFuY2lhbCBNZWNoYW5pc21zPC9zcGFuPmQCAQ8VAQBkAgIPZBYCZg8WAh8ABYYEWW91IGFyZSBoZXJlOiA8YSBocmVmPSIvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkdvdmVybm1lbnQubm88L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTgzMyZlcHNsYW5ndWFnZT1lbi1HQiI+TWluaXN0cnkgb2YgRm9yZWlnbiBBZmZhaXJzPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD04MzgmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkFib3V0IHRoZSBNaW5pc3RyeSA8L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTg1NyZlcHNsYW5ndWFnZT1lbi1HQiI+T3JnYW5pc2F0aW9uPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9ODYwJmVwc2xhbmd1YWdlPWVuLUdCIj5EZXBhcnRtZW50czwvYT4gLyA8c3Bhbj5TZWN0aW9uIGZvciBDZW50cmFsIEV1cm9wZSBhbmQgdGhlIEVFQSBGaW5hbmNpYWwgTWVjaGFuaXNtczwvc3Bhbj5kAgMPZBYIAgEPZBYGAgEPFQEHU3RhdHVzOmQCAg8WAh8BaBYCZg8VATgNCiAgICAgICAgICAgICAgICAgICAgICAgIEFyY2hpdmVkDQogICAgICAgICAgICAgICAgICAgIGQCBA8WAh8BaBYCZg8VATgNCiAgICAgICAgICAgICAgICAgICAgICAgIFJlcGxhY2VkDQogICAgICAgICAgICAgICAgICAgIGQCAg8VATtTZWN0aW9uIGZvciBDZW50cmFsIEV1cm9wZSBhbmQgdGhlIEVFQSBGaW5hbmNpYWwgTWVjaGFuaXNtc2QCAw8WAh8BaBYCZg8VAQBkAgUPZBYCZg8VAeECPHA+VGhlIEVFQSBGaW5hbmNpYWwgTWVjaGFuaXNtcy4gQnVkZ2V0IGFuZCBwZXJmb3JtYW5jZSBtYW5hZ2VtZW50LCBkaWFsb2d1ZSB3aXRoIHRoZSAxMyBCZW5lZmljaWFyeSBTdGF0ZXMuIFJlc3BvbnNpYmxlIGZvciB0aGUgRmluYW5jaWFsIE1lY2hhbmlzbSBPZmZpY2UgaW4gQnJ1c3NlbHMgYW5kIGNvb3JkaW5hdGlvbiBiZXR3ZWVuIHRoZSBtaW5pc3RyaWVzIGFuZCBvdGhlciBhY3RvcnMgaW4gTm9yd2F5LiBEZXNrIHJlc3BvbnNpYmlsaXR5IGZvciB0aGUgQ3plY2ggUmVwdWJsaWMsIEVzdG9uaWEsIEh1bmdhcnksIExhdHZpYSwgTGl0aHVhbmlhLCBQb2xhbmQsIFNsb3Zha2lhIGFuZCBTbG92ZW5pYS48L3A+DQpkAgQPZBYCZg8WAh8ABYYEWW91IGFyZSBoZXJlOiA8YSBocmVmPSIvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkdvdmVybm1lbnQubm88L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTgzMyZlcHNsYW5ndWFnZT1lbi1HQiI+TWluaXN0cnkgb2YgRm9yZWlnbiBBZmZhaXJzPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD04MzgmZXBzbGFuZ3VhZ2U9ZW4tR0IiPkFib3V0IHRoZSBNaW5pc3RyeSA8L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTg1NyZlcHNsYW5ndWFnZT1lbi1HQiI+T3JnYW5pc2F0aW9uPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9ODYwJmVwc2xhbmd1YWdlPWVuLUdCIj5EZXBhcnRtZW50czwvYT4gLyA8c3Bhbj5TZWN0aW9uIGZvciBDZW50cmFsIEV1cm9wZSBhbmQgdGhlIEVFQSBGaW5hbmNpYWwgTWVjaGFuaXNtczwvc3Bhbj5kAgUPZBYGAgEPZBYCZg8WAh8BaGQCAg8VAztTZWN0aW9uIGZvciBDZW50cmFsIEV1cm9wZSBhbmQgdGhlIEVFQSBGaW5hbmNpYWwgTWVjaGFuaXNtcwxkaXNwbGF5Om5vbmUAZAIDD2QWAmYPFQHhAjxwPlRoZSBFRUEgRmluYW5jaWFsIE1lY2hhbmlzbXMuIEJ1ZGdldCBhbmQgcGVyZm9ybWFuY2UgbWFuYWdlbWVudCwgZGlhbG9ndWUgd2l0aCB0aGUgMTMgQmVuZWZpY2lhcnkgU3RhdGVzLiBSZXNwb25zaWJsZSBmb3IgdGhlIEZpbmFuY2lhbCBNZWNoYW5pc20gT2ZmaWNlIGluIEJydXNzZWxzIGFuZCBjb29yZGluYXRpb24gYmV0d2VlbiB0aGUgbWluaXN0cmllcyBhbmQgb3RoZXIgYWN0b3JzIGluIE5vcndheS4gRGVzayByZXNwb25zaWJpbGl0eSBmb3IgdGhlIEN6ZWNoIFJlcHVibGljLCBFc3RvbmlhLCBIdW5nYXJ5LCBMYXR2aWEsIExpdGh1YW5pYSwgUG9sYW5kLCBTbG92YWtpYSBhbmQgU2xvdmVuaWEuPC9wPg0KZAIGDw8WAh8BaGRkAgMPZBYCZg8WBB4JX3BhZ2VMaW5rKCluRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZSwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcFODU5NzkeCl9zb3J0T3JkZXILKXNFUGlTZXJ2ZXIuRmlsdGVycy5GaWx0ZXJTb3J0T3JkZXIsIEVQaVNlcnZlciwgVmVyc2lvbj01LjIuMzc1LjIzNiwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04ZmU4M2RlYTczOGI0NWI3ABYCZg9kFgJmDw8WAh8BaGQWAmYPFQEAZAIHD2QWAgIBDw8WBB8FaB4JX2xhc3RUeXBlBQdEZWZhdWx0ZGQCCA8VAhJtYWlsdG86c2VlZkBtZmEubm8AZAILD2QWAgIBD2QWAmYPFQFDPGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0MzUwNiI+KzQ3IDIyIDI0IDM1IDA2PC9hPmQCDQ8WAh8BaBYCAgEPZBYCZg8VAQBkAg8PFgIfAWhkAhEPDxYEHwVoHwkFB0RlZmF1bHRkZAIFD2QWBAIBD2QWAgIBD2QWAmYPFgIeBWNsYXNzBQpEZXBQcm9maWxlFgJmDxUBNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD04MzMmZXBzbGFuZ3VhZ2U9ZW4tR0JkAg0PZBYMAgMPZBYCAgEPDxYEHwVoHwkFB0RlZmF1bHRkZAIEDxUCEm1haWx0bzpzZWVmQG1mYS5ubwBkAgcPZBYCAgEPZBYCZg8VAUM8YSBjbGFzcz0idGVsZXBob25lTGluayIgaHJlZj0idGVsOis0NzIyMjQzNTA2Ij4rNDcgMjIgMjQgMzUgMDY8L2E+ZAIJDxYCHwFoFgICAQ9kFgJmDxUBAGQCCw8WAh8BaGQCDQ8PFgQfBWgfCQUHRGVmYXVsdGRkAgMPZBYCAgEPZBYEAgEPZBYCZg8VAjQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9ODMzJmVwc2xhbmd1YWdlPWVuLUdCDU1pbmlzdHJ5IGhvbWVkAgMPFgYeCV9QYWdlTGluaygrBAM4MzMeD19OdW1iZXJPZkxldmVscwIKHgpfRXhwYW5kQWxsaBY8AgEPZBYCZg8VAQBkAgIPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9ODM0JmVwc2xhbmd1YWdlPWVuLUdCAApXaGF0J3MgbmV3ZAIED2QWAmYPFQEAZAIFD2QWAmYPFQM/L3RlbXBsYXRlcy9EZXBhcnRlbWVudFRlbWFGb3JzaWRlLmFzcHg/aWQ9ODM1JmVwc2xhbmd1YWdlPWVuLUdCAA9TZWxlY3RlZCB0b3BpY3NkAgcPZBYCZg8VAQBkAggPZBYCZg8VAzcvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9ODM2JmVwc2xhbmd1YWdlPWVuLUdCAAxQcmVzcyBjZW50cmVkAgoPZBYCZg8VAQBkAgsPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MjcyNTE4JmVwc2xhbmd1YWdlPWVuLUdCAAlEb2N1bWVudHNkAg0PZBYCZg8VAQhTZWxlY3RlZGQCDg9kFgJmDxUEAD0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9ODM4JmVwc2xhbmd1YWdlPWVuLUdCABNBYm91dCB0aGUgTWluaXN0cnkgZAIQD2QWAmYPFQEAZAIRD2QWAmYPFQM/L3RlbXBsYXRlcy9QZXJzb25Qb2xpdGlza0xlZGVsc2UuYXNweD9pZD0xMzQ2JmVwc2xhbmd1YWdlPWVuLUdCAC1NaW5pc3RlciBvZiBGb3JlaWduIEFmZmFpcnMgSm9uYXMgR2FociBTdMO4cmVkAhMPZBYCZg8VAQBkAhQPZBYCZg8VA0AvdGVtcGxhdGVzL1BlcnNvblBvbGl0aXNrTGVkZWxzZS5hc3B4P2lkPTg1ODk3JmVwc2xhbmd1YWdlPWVuLUdCAEZNaW5pc3RlciBvZiB0aGUgRW52aXJvbm1lbnQgYW5kIEludGVybmF0aW9uYWwgRGV2ZWxvcG1lbnQgRXJpayBTb2xoZWltZAIWD2QWAmYPFQEAZAIXD2QWAmYPFQMyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD04NTUmZXBzbGFuZ3VhZ2U9ZW4tR0IAFU90aGVyIHBvbGl0aWNhbCBzdGFmZmQCGQ9kFgJmDxUBAGQCGg9kFgJmDxUDMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9ODU2JmVwc2xhbmd1YWdlPWVuLUdCABtTZW5pb3IgYWRtaW5pc3RyYXRpdmUgc3RhZmZkAhwPZBYCZg8VAQhTZWxlY3RlZGQCHQ9kFgJmDxUEAD0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9ODU3JmVwc2xhbmd1YWdlPWVuLUdCAAxPcmdhbmlzYXRpb25kAh8PZBYCZg8VAQBkAiAPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9ODU5JmVwc2xhbmd1YWdlPWVuLUdCAAxPcmdhbmlzYXRpb25kAiIPZBYCZg8VAQhTZWxlY3RlZGQCIw9kFgJmDxUEADIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTg2MCZlcHNsYW5ndWFnZT1lbi1HQgALRGVwYXJ0bWVudHNkAicPZBYCZg8VAQBkAigPZBYCZg8VAzUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTU0MjYzOCZlcHNsYW5ndWFnZT1lbi1HQgAVR3VpZGVsaW5lcyBmb3IgZ3JhbnRzZAIqD2QWAmYPFQEAZAIrD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTg0MSZlcHNsYW5ndWFnZT1lbi1HQgAIQ29udGFjdCBkAi8PZBYCZg8VAQBkAjAPZBYCZg8VAz0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9ODM5JmVwc2xhbmd1YWdlPWVuLUdCABFTb3VuZCBhbmQgcGljdHVyZWQCBQ9kFgICAQ9kFgJmDxUBuwM8cCBhbGlnbj0iY2VudGVyIj48c3Ryb25nPkUtbWFpbDo8L3N0cm9uZz4gPGEgaHJlZj0ibWFpbHRvOnBvc3RAbWZhLm5vIj5NaW5pc3RyeSBvZiBGb3JlaWduIEFmZmFpcnM8L2E+PGJyIC8+PHN0cm9uZz5QaG9uZTo8L3N0cm9uZz4gMjIgMjQgMzYgMDAgPHN0cm9uZz5GYXg6PC9zdHJvbmc+IDIyIDI0IDk1IDgwLzgxPGJyIC8+PHN0cm9uZz5BZGRyZXNzOjwvc3Ryb25nPiA3LiBqdW5pLXBsYXNzZW4vIFZpY3RvcmlhIFRlcnJhc3NlLiBQQiA4MTE0IERlcC4gTi0wMDMyIE9zbG88YnIgLz48c3Ryb25nPkVkaXRvcjwvc3Ryb25nPjombmJzcDs8YSBocmVmPSJtYWlsdG86YmpAbWZhLm5vIj5CasO4cm4gUy4gSmFobnNlbjwvYT4mbmJzcDs8c3Ryb25nPldlYi1lZGl0b3I6PC9zdHJvbmc+IDxhIGhyZWY9Im1haWx0bzpqdGpAbWZhLm5vIj5Kb2hhbiBULiBKZW5zZW48L2E+PC9wPmQCBQ9kFgJmDxUBGC9zY3JpcHQvanMvc2RjXzA5MDgxOS5qc2QYBgViY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDUkTXVsdGlQYWdlTGlzdA8PZmRkBURjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0JGxzdFVuaXZlcnNhbA8PZmRkBSVjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSR1eFZpZXdzDw9kZmQFYWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGxpc3RpbmdVbml2ZXJzYWxIZWFkZXIkY2hpbGRyZW5saXN0JGNoaWxkcGFnZXMPD2ZkZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRkpXv0W0XXT13yJck2kjgWFZka7dA=" />
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMjkwNDM2MjEwZBgOBUJjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMSRQYWdlTGlzdDEPD2ZkZAUrY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDEkTXVsdGlQYWdlTGlzdA8PZmRkBX5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uRG9jdW1lbnRDb250ZXh0JGN0bDAwJFJlbGF0ZWRMb3ZGb3Jza3JpZnQkUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDEkdXhWaWV3cw8PZGZkBYEBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCREb2N1bWVudFJlbGF0aW9uc2hpcDIkUmVsYXRpb25zT25lSG9wUGFnZUxpc3QxDw9mZGQFT2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kVGlwQUZyaWVuZFBsYWNlaG9sZGVyJFRpcEFGcmllbmQkVGlwVmlld3MPD2QCAWQFYWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGxpc3RpbmdVbml2ZXJzYWxIZWFkZXIkY2hpbGRyZW5saXN0JGNoaWxkcGFnZXMPD2ZkZAVPY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbEhlYWRlciRWaWV3cw8PZGZkBURjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0JGxzdFVuaXZlcnNhbA8PZmRkBYABY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRBc3NvY2lhdGVkRXh0ZXJuYWxPcmckUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAV4Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRIb2VyaW5nc05vdGF0JFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFdWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkSG9lcmluZ0ZvciRSZWxhdGlvbk9uZUhvcFBhZ2VMaXN0MQ8PZmRkBR1jdGwwMCRSZXF1aXJlZFJlc291cmNlc0hlYWRlcg8FBkhlYWRlcmQFYmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRSZWxhdGVkQ29udGFjdDEkUGFnZUxpc3QxDw9mZGTPnGfETMLP+lg1m8sMBujy2vgG0g==" />
 </div>
 
+
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAgkDVAvvje67e3/MLKpArZHrya5utHaP3uHQRI8Uid46QTFRMbyqbI0sloRc3Uw10HWXWl/SJpEFyAqi99OHjtE9II++VEPX1O6J4griigfdC7aBgEb6tB38M3Q+QtcT5dc3Ehi7iZ59S7JzT6xst29Aj7CbHcl1x8vt8oSwlXRyb+QNAhLf4Q/L8WvcMyCSB4KYAN9" />
+</div>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Go to contact information</a></li>
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">Go to search</a><a href="#Content" tabindex="3">Go to content</a><a href="#AreaTopSiteNav" tabindex="4">Go to top menu</a><a href="#AreaLeft" tabindex="5">Go to left menu</a>
+    <a href="#AreaContactInfo" tabindex="6">Go to contact information</a>
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/ud/dep/org/avdelinger/europaavdelingen/seksjon_for_sentral-europa_og_eos-finans.html?id=85979">Bokmål</a></li>
-        <li class=""><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Denne sida finst ikkje på nynorsk. Klikk her for å vise nynorsk rammeverk" class="ISI_IGNORE" href="/nn/dep/ud/dep/org/avdelinger/europaavdelingen/seksjon_for_sentral-europa_og_eos-finans.html?id=85979">Nynorsk</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/ud/Departemeantta-birra/Organisauvdna/Ossodagat/Eurohpa-ja-gavpeossodat/Gaska-Eurohpa-ja-EESa-ruhtadanortnegiid-sekuvdna-SEEF.html?id=85979">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979">English</a></li>
+        <li class="First Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/ud/dep/org/avdelinger/europaavd/seef.html?id=85979">Bokmål</a></li>
+        <li class=""><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Denne sida finst ikkje på nynorsk. Klikk her for å vise nynorsk rammeverk" class="ISI_IGNORE" href="/nn/dep/ud/om-departementet/organisasjon/Avdelingar/europaavd/seef.html?id=85979">Nynorsk</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/ud/departemeantta-birra/organisauvdna/Ossodagat/eurohpa-ja-gavpeossodat/gaska-eurohpa-ja-eesa-ruhtadanortnegiid-.html?id=85979">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/en.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/en.html?id=4" tabindex="20">
+                                            government.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/en/the-government/solberg/members-of-the-government-2.html?id=543170' class="ISI_MENU" tabindex="21">Solberg’s Government</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/en/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Ministries
+                                        </a>
+                                        
     <ul>
   
     <li>
@@ -117,7 +139,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+        <a href="/en/dep/asd.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour and Social Affairs</a>
     </li>
   
     <li>
@@ -129,14 +151,6 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
-    </li>
-  
-    <li>
         <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
     </li>
   
@@ -145,15 +159,19 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and Public Security</a>
     </li>
   
     <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
+        <a href="/en/dep/kld.html?id=668" class="NormalLink ISI_MENU">Ministry of Climate and Environment</a>
     </li>
   
     <li>
-        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
+        <a href="/en/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Modernisation</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
     </li>
   
     <li>
@@ -165,11 +183,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+        <a href="/en/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade, Industry and Fisheries</a>
     </li>
   
     <li>
@@ -188,249 +202,69 @@ function printPage()
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en/dep/ud.html?id=833"><img class="ProfileLogo" src="/styles/Images/ud/ud_en.gif" alt='Ministry of Foreign Affairs' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/en/dep/ud.html?id=833" tabindex="34"><img class="ProfileLogo" src="/styles/Images/ud/ud_en.gif" alt='Ministry of Foreign Affairs' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
     <label for="quicksearchinput" class="QuickSearchHeader">Search the Ministry of Foreign Affairs</label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
-    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack('ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch','')">Search all of government.no</a></span>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Search" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Search" />        
+    <span><a id="TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" tabindex="32" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack(&#39;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&#39;,&#39;&#39;)">Search all of government.no</a></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Share/Send' /><span class="open" id="open">Share/Send</span><span class="display-none" id="close">Close</span></a></li>
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/dep/ud/Site-Map.html?id=313883">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/dep/ud/about_mfa/contact.html?id=841">Contact </a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+        <li class="Share">
+            <noscript>
+                <a href="http://www.regjeringen.no/templates/Seksjon.aspx?id=85979&amp;epslanguage=en-GB&amp;tipafriend=1" id="noScriptTipLink" rel="nofollow" tabindex="72"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                        vertical-align: middle; height: 1em;" alt='Share/Send' />Share/Send</a></noscript>
+            <a onclick="return displayTipAFriendForm();" id="TopRegion_TopRightRegion_ctl00_tipAFriendLink" tabindex="34" class="display-none" href="javascript:__doPostBack(&#39;ctl00$TopRegion$TopRightRegion$ctl00$tipAFriendLink&#39;,&#39;&#39;)"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                    vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Share/Send' /><span id="open">Share/Send</span><span id="close" style="display: none;">Close</span></a>
+        </li>
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Click here to print this page' />Print</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/templates/Seksjon.aspx?id=85979&amp;epslanguage=en-GB&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal font size' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Seksjon.aspx?id=85979&amp;epslanguage=en-GB&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium font size' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Seksjon.aspx?id=85979&amp;epslanguage=en-GB&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Large font size' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/en/dep/ud/Site-Map.html?id=313883">Site Map</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/en/dep/ud/about_mfa/contact.html?id=841">Contact </a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
-                        <div id="AreaContentAndRight">
-                            
-                                <div id="AreaContent">
-                                    <div id="slickbox" style="display:none;">
-                                       
-                                            
-<script type="text/javascript"><!--
-function fbs_click() 
-{
-    u=location.href;
-    t=document.title;
-    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
-    return false;
-}
-function nettby_click(pageurl,pagename)
-{
-    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
-    wnd.focus();
-    return false;
-}
-function GetThis(T, C, U, L) 
-{
-	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
-	wnd = window.open(targetUrl);
-	wnd.focus();
-	return false;
-}
---></script>
-
-
-
-    <div id="thankyouview">
-        <div id="thankyoudiv"></div>        
-    </div>
-    <div id="tipafriend">
-        <div id="tipafriendContent">
-            
-            <div>
-	  
-                <p><strong>Share this page with a friend </strong></p>
-                <ol>
-                    <li>
-                        
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
-                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
-                    </li>
-                    <li>
-                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
-                    </li>
-                    <li>
-                                                         
-                    </li>
-                </ol>                          
-            
-</div>
-        </div> 
-    </div>
-    <div id="ShareArticle">
-        <p><strong>Share</strong></p>
-        <ul class="communities">        
-            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979" target="_blank">Facebook</a></li>            
-            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979', 'Section for Central Europe and the EEA Financial Mechanisms')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979&amp;description=Section for Central Europe and the EEA Financial Mechanisms' target="_blank">Nettby</a></li>
-            <li><a class="share_myspace" href="#" onclick="return GetThis('Section for Central Europe and the EEA Financial Mechanisms','','http://www.regjeringen.no/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979',3)">Myspace</a></li>
-            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
-        </ul>
-    </div>
-
-
-
-                                        
-                                    </div>
-                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
-                                    
-	
-    <p class="breadcrumbs">You are here: <a href="/en.html?id=4">Government.no</a> / <a href="/en/dep/ud.html?id=833">Ministry of Foreign Affairs</a> / <a href="/en/dep/ud/about_mfa.html?id=838">About the Ministry </a> / <a href="/en/dep/ud/about_mfa/organisation.html?id=857">Organisation</a> / <a href="/en/dep/ud/about_mfa/organisation/departments.html?id=860">Departments</a> / <span>Section for Central Europe and the EEA Financial Mechanisms</span>
-</p>
-    <div class="documentTop">        
-        
-        <h1>Section for Central Europe and the EEA Financial Mechanisms</h1>
-        
-        <div class="pageDescription"><p>The EEA Financial Mechanisms. Budget and performance management, dialogue with the 13 Beneficiary States. Responsible for the Financial Mechanism Office in Brussels and coordination between the ministries and other actors in Norway. Desk responsibility for the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Slovakia and Slovenia.</p>
-</div>        
-     </div>
-    
-	<div class="documentBody">
-		
-    
- 
-
-	</div>
-	<div class="printContact">
-		<div id="Div1" class="Toolbox">
-		<h2 id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_H2_2" class="ToolboxHeader">
-			
-                        Contact information
-                    
-		</h2>
-		<div class="ToolboxContent">
-			<h3 id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_H3_2" class="relatedContactHead">
-				<span>Section for Central Europe and the EEA Financial Mechanisms</span>
-			</h3>
-			<p class="noPadBtm">
-				<img id='Eoi_1' class='obfimg' src='/images/emailimages/8df9c5a07213ecb2095ae5b79a4a912b.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', '043A652B380D0D0D0D0E09686D6569296124606A61570D0D0D0D0D0E093A23233961687D707724236B6A2A65626944626161773E6B70686D656923396261766C246538'));//--></script>
-			</p>
-			<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
-				<tr id="ctl00_FullRegion_CenterAndRightRegion_CenterRegion_Tr3">
-	<th>
-						
-                        Telephone:
-                    
-					</th>
-	<td>
-                        <a class="telephoneLink" href="tel:+4722243506">+47 22 24 35 06</a>					
-					</td>
-</tr>
-
-				
-			</table>
-			
-			
-		</div>
-	</div>
-     
-	</div>
-
-                                </div>
-                                <div id="AreaRight"> 
-                                    
-                                        
-                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/en/dep/ud.html?id=833'><img src="/upload/UD/Profilelementer/UDprofil.jpg" alt="Ministry of Foreign Affairs" /></a></div>
-                                        
-                                        
-                                        
-                                                
-                                        
-                                                                        
-                                        
-	<div id="AreaContactInfo" class="Toolbox">
-		<h2 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_H2_1" class="ToolboxHeader">
-			
-                        Contact information
-                    
-		</h2>
-		<div class="ToolboxContent">
-			<h3 id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_H3_1" class="relatedContactHead">
-				<span>Section for Central Europe and the EEA Financial Mechanisms</span>
-			</h3>
-			<p class="noPadBtm">
-				<img id='Eoi_2' class='obfimg' src='/images/emailimages/8df9c5a07213ecb2095ae5b79a4a912b.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_2', 'AA94CB8596A3A3A3A3A0A7C6C3CBC787CF8ACEC4CFF9A3A3A3A3A3A0A7948D8D97CFC6D3DED98A8DC5C484CBCCC7EACCCFCFD990C5DEC6C3CBC78D97CCCFD8C28ACB96'));//--></script>
-			</p>
-			<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
-				<tr id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_Tr1">
-	<th>
-						
-                        Telephone:
-                    
-					</th>
-	<td>
-						<a class="telephoneLink" href="tel:+4722243506">+47 22 24 35 06</a>
-					</td>
-</tr>
-
-				
-			</table>
-			
-			
-		</div>
-	</div>
-	
-
-                                                                                                   
-                                </div>
-                            
-                        </div>
                         <div id="AreaLeft">
-                              
+                            
                                 <div id="AreaLeftNav" class="NavListV">
                                     
 
@@ -438,126 +272,450 @@ document.write(dc('Eoi_2', 'AA94CB8596A3A3A3A3A0A7C6C3CBC787CF8ACEC4CFF9A3A3A3A3
 <a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
 
     <ul>
-        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/ud.html?id=833">
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/ud.html?id=833" tabindex="41">
             Ministry home</a></li></ul>
 
 <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/Whats-new.html?id=834" title=''>
+        <a class="ISI_MENU" href="/en/dep/ud/whats-new.html?id=834" title="" tabindex="42">
             What's new</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/selected-topics.html?id=835" title=''>
+        <a class="ISI_MENU" href="/en/dep/ud/campaigns.html?id=450622" title="" tabindex="43">
+            Campaigns</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/en/dep/ud/selected-topics.html?id=835" title="" tabindex="44">
             Selected topics</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/press.html?id=836" title=''>
+        <a class="ISI_MENU" href="/en/dep/ud/press.html?id=836" title="" tabindex="45">
             Press centre</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/Documents.html?id=272518" title=''>
+        <a class="ISI_MENU" href="/en/dep/ud/documents.html?id=272518" title="" tabindex="46">
             Documents</a>
     </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/dep/ud/about_mfa.html?id=838" title=''>
+        <a class="ISI_MENU " href="/en/dep/ud/about_mfa.html?id=838" title="" tabindex="47">
             About the Ministry </a>
     <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/minister_foreign.html?id=1346" title=''>
-            Minister of Foreign Affairs Jonas Gahr Støre</a>
+        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/minister_bb.html?id=742868" title="" tabindex="48">
+            Minister of Foreign Affairs Børge Brende</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/minister_development.html?id=85897" title=''>
-            Minister of the Environment and International Development Erik Solheim</a>
+        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/minister_vh.html?id=746199" title="" tabindex="49">
+            Minister of EEA and EU Affairs Vidar Helgesen</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/Other-political-staff.html?id=855" title=''>
-            Other political staff</a>
+        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/political_staff.html?id=748488" title="" tabindex="50">
+            Political staff</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/senior-administrative-staff-2.html?id=856" title=''>
-            Senior administrative staff</a>
+        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/diplomatic_relations.html?id=447053" title="" tabindex="51">
+            Diplomatic relations</a>
     </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/dep/ud/about_mfa/organisation.html?id=857" title=''>
+        <a class="ISI_MENU " href="/en/dep/ud/about_mfa/organisation.html?id=857" title="" tabindex="52">
             Organisation</a>
     <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/organisation/organisation.html?id=859" title=''>
+        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/organisation/organisation.html?id=859" title="" tabindex="53">
             Organisation</a>
     </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/dep/ud/about_mfa/organisation/departments.html?id=860" title=''>
+        <a class="ISI_MENU " href="/en/dep/ud/about_mfa/organisation/departments.html?id=860" title="" tabindex="54">
             Departments</a>
     </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/guidelines-for-grants.html?id=542638" title=''>
-            Guidelines for grants</a>
+        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/grants.html?id=620650" title="" tabindex="55">
+            Grants</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/contact.html?id=841" title=''>
+        <a class="ISI_MENU" href="/en/dep/ud/about_mfa/contact.html?id=841" title="" tabindex="56">
             Contact </a>
     </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/ud/audio.html?id=839" title=''>
+        <a class="ISI_MENU" href="/en/dep/ud/audio.html?id=839" title="" tabindex="57">
             Sound and picture</a>
     </li></ul>
 
                                 </div>
-                              
+                                
+                                
+                            
+                        </div>
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="FullRegion_CenterAndRightRegion_slickbox" class="slickbox" style="display: none;">
+                                        
+                                            
+<script type="text/javascript"><!--
+    function facebook_click() {
+        u = location.href;
+        t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+        return false;
+    }
+    function twitter_click() {
+        u = location.href;
+        t = encodeURIComponent('Section for Central Europe and the EEA Financial Mechanisms');
+        window.open('http://twitter.com/share?url=' + encodeURIComponent(u) + '&text=' + t, 'sharer', 'toolbar=0,status=0,width=350,height=230');
+        return false;
+    }
+--></script>
+<div id="thankyouview">
+    <div id="thankyoudiv">
+        
+    </div>
+</div>
+<div id="tipafriend">
+    <div id="tipafriendContent">
+        
+                <div>
+	
+                    <div id="TipAFriendForm">
+                        <fieldset>
+                            <legend><strong>
+                                Share this page with a friend 
+                            </strong></legend>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
+                                <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;">
+</textarea>
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="setTipClicked();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitTextBox" style="display: none;
+                                    width: 10px;" />
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                
+                            </div>
+                        </fieldset>
+                    </div>
+                
+</div>
+            
+    </div>
+</div>
+<div id="ShareArticle">
+    <p>
+        <strong>
+            Share
+        </strong>
+    </p>
+    <ul class="communities">
+        <li><a class="share_facebook" onclick="return facebook_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979" target="_blank">
+            Facebook</a></li>
+        <li><a class="share_twitter" onclick="return twitter_click()" href="http://twitter.com/share?url=http://www.regjeringen.no/en/dep/ud/about_mfa/organisation/departments/department_european/central_europe.html?id=85979&amp;text=Section for Central Europe and the EEA Financial Mechanisms" target="_blank">
+            Twitter</a></li>
+        <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">
+            Origo</a></li>
+    </ul>
+</div>
+
+                                        
+                                    </div>
+                                    
+	
+        
+
+<div class="breadcrumbs ">
+
+    
+               <span>
+                   You are here: 
+               </span>
+                
+                <ul class="breadcrumbmenu">
+            
+                <li><a href="/en.html?id=4" title="Government.no">Government.no</a> / </li>
+            
+                <li><a href="/en/dep/ud.html?id=833" title="Ministry of Foreign Affairs">Ministry of Foreign Affairs</a> / </li>
+            
+                <li><a href="/en/dep/ud/about_mfa.html?id=838" title="About the Ministry ">About the Ministry </a> / </li>
+            
+                <li><a href="/en/dep/ud/about_mfa/organisation.html?id=857" title="Organisation">Organisation</a> / </li>
+            
+                <li><a href="/en/dep/ud/about_mfa/organisation/departments.html?id=860" title="Departments">Departments</a> / </li>
+            
+                <li><span>Section for Central Europe and the EEA Financial Mechanisms</span></li>
+            
+                </ul>
+            
+</div>
+        
+            <div class="documentTop">
+                
+                <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+                <h1>Section for Central Europe and the EEA Financial Mechanisms</h1>
+                
+                    <div class="pageDescription"><p>The EEA and Norway Grants: Budget and performance management, dialogue with the 15 Beneficiary States. Responsible for the Financial Mechanism Office in Brussels and coordination between the ministries and other actors in Norway. Desk responsibility for Bulgaria, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Romania,&nbsp;Slovakia and Slovenia.</p>
+<p>Director Mr Steinar Hagen.</p></div>        
+                
+            </div>
+        
+    
+	<div class="documentBody">
+		
+        
+    
+
+	</div>
+	<div class="printContact">
+        <div class="Toolbox">
+            
+
+<h2 class="ToolboxHeader">
+                        Contact information
+                    </h2>
+<div class="ToolboxContent">
+    <h3 class="relatedContactHead">Section for Central Europe and the EEA Financial Mechanisms</h3>
+    
+    <p class="noPadBtm">
+        
+            <img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/0a76671a3396ec145bf470ff21d88a97.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, '8DB3ECA2B1E1E4ECE0A0E8ADE9E3E8DEB3AFE2E3A3ECEBE0CDEBE8E8FEB7E2F9E1E4ECE0AFB0EBE8FFE5ADECB1'));//--></script>
+        
+    </p>
+    <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Section for Central Europe and the EEA Financial Mechanisms">
+        
+            <tr>
+                <td>
+                        Telephone:
+                    </td>
+                <td><span>+47 23 95 05 29</span></td>
+            </tr>
+        
+        
+    </table>
+    
+    
+</div>
+        </div>
+         
+    </div>
+
+                                    
+                                        
+
+<div class="bottomChangedDate">
+    Last updated: 20.06.2013
+</div>
+                                    
+
+                                    
+
+                                </div>
+                                <div id="AreaRight">
+                                    
+                                        
+                                            
+    <div class="DepProfile"><a href='/en/dep/ud.html?id=833' tabindex="61"><img src="/upload/UD/Profilelementer/UDprofil.jpg" alt="Ministry of Foreign Affairs" /></a></div>
+
+                                        
+                                        
+                                            
+                                        
+                                        
+                                        
+                                        
+                                            
+
+
+
+
+
+
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+    <div id="AreaContactInfo" class="Toolbox">   
+        
+
+<h2 class="ToolboxHeader">
+                        Contact information
+                    </h2>
+<div class="ToolboxContent">
+    <h3 class="relatedContactHead">Section for Central Europe and the EEA Financial Mechanisms</h3>
+    
+    <p class="noPadBtm">
+        
+            <img id='Eoi_2' class='obfimg' src='/upload/system/emailimages/0a76671a3396ec145bf470ff21d88a97.png' alt='' /><script type="text/javascript" id="Eos_2"><!--
+document.write(dc(2, '320C531D0E5E5B535F1F5712565C57610C105D5C1C53545F7254575741085D465E5B535F100F5457405A12530E'));//--></script>
+        
+    </p>
+    <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Section for Central Europe and the EEA Financial Mechanisms">
+        
+            <tr>
+                <td>
+                        Telephone:
+                    </td>
+                <td><span>+47 23 95 05 29</span></td>
+            </tr>
+        
+        
+    </table>
+    
+    
+</div>
+    </div>
+     
+
+                                        
+                                    
+                                </div>
                             
                         </div>
                     
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
+                    
                     <!-- ISI_STOP -->
-                </div>
                 </div>
             </div>
         </div>
-        
-         
-<div id="PageFooter"><p align="center"><strong>E-mail:</strong> <img id='Eoi_3' class='obfimg' src='/images/emailimages/300c489c884621e83040d43b1739e745.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_3', '0B356A24377879626A6D6D4A2B656C626E79644D2B6D642B72797F786265624635296465256A6D664B7F78647B31647F67626A6629366D6E79632B6A37'));//--></script><br /><strong>Phone:</strong> 22 24 36 00 <strong>Fax:</strong> 22 24 95 80/81<br /><strong>Address:</strong> 7. juni-plassen/ Victoria Terrasse. PB 8114 Dep. N-0032 Oslo<br /><strong>Editor</strong>:&nbsp;<img id='Eoi_4' class='obfimg' src='/images/emailimages/5cb8b9cfa73c191b3c579e196e57b33f.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_4', '734D125C4F1D16001D1B1239535D20531D018B19314D511C1D5D12151E331911491C071F1A121E514E1516011B53124F'));//--></script>&nbsp;<strong>Web-editor:</strong> <img id='Eoi_5' class='obfimg' src='/images/emailimages/b36fb8443d3e8e4d5799839b77a933df.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_5', 'D2ECB3FDEEBCB7A1BCB798F2FC86F2BCB3BABD98ECF0BDBCFCB3B4BF92B8A6B8E8BDA6BEBBB3BFF0EFB4B7A0BAF2B3EE'));//--></script></p></div>
-        
-        
-                    
-        
-    </form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
-	
-} else
-{    
-    //setAreaHeights();
-}
+    </div>
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
+        
+<div id="PageFooter"><p><strong>E-mail:</strong> <img id='Eoi_3' class='obfimg' src='/upload/system/emailimages/a1aaa1841d968c309769ff4c0b50fc14.png' alt='' /><script type="text/javascript" id="Eos_3"><!--
+document.write(dc(3, '1B257A34276869727A7D7D5A3B757C727E69745D3B7D743B62696F687275725625397475357A7D765B6F68746B21746F77727A7639267D7E69733B7A27'));//--></script><br /><strong>Phone:</strong> 23 95 00 00&nbsp; <strong>Fax:</strong> 23 95 00 99<br /><strong>Address:</strong> 7. juni-plassen/ Victoria Terrasse. PB 8114 Dep. N-0032 Oslo<br /><strong>Editor</strong>:&nbsp;<img id='Eoi_4' class='obfimg' src='/upload/system/emailimages/5bd9c50dd46d88efa380cb067530c82c.png' alt='' /><script type="text/javascript" id="Eos_4"><!--
+document.write(dc(4, '556B347A693B30262730313B14757B1A7530313A27136B773A3B7B343338153B3021303D3B30263B3A3F26343E3C3B2038383A3E6F3A21393C343877683330273D753469'));//--></script>&nbsp;<strong>Web-editor:</strong> <img id='Eoi_5' class='obfimg' src='/upload/system/emailimages/40dcc8d567b445399248e0005d1aa94d.png' alt='' /><script type="text/javascript" id="Eos_5"><!--
+document.write(dc(5, '7B451A5447151E08151E315B552F5B151A13143145591415551A1D163B110F1141140F17121A1659461D1E09135B1A47'));//--></script></p></div>
+<div title="web01" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web01" /></div>
+    
+    
+    
+        
 
-<div id="ctl00_externalPageTrackers">
+
+    
+    </form>
+    <div id="externalPageTrackers">
 	
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
+    
+</div>       
+    
+    
 
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<div>
+    
 <script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no uses cookies to improve our service to the users. The cookies are mainly used for traffic measuring and for optimizing the site. Find more information on ",
+            messagepart2: ", or go back to regjeringen.no if you accept this.",
+            readMoreUrl: "http://www.regjeringen.no/en/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "use of cookies",
+            closeText: "Close"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
 //--></script>
-<!-- END Xtractor client tracker script -->
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
 
 </div>
+
+
+    
+
 </body>
 </html>

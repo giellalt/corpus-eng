@@ -1,50 +1,55 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
+    <!-- ISI_NOAUTOLANG -->
+    <title>
 	Calendar - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="Calendar" />
+<meta name="WT.ti" content="Calendar" />
 <meta name="DCSext.regj.pagetype" content="Kalender" />
-<meta name="DCSext.regj.pageid" content="308" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
 <meta name="DCSext.regj.owner" content="bld" />
 <meta name="DCSext.regj.language" content="en-GB" />
+<meta name="DCSext.regj_lv2" content="dep" />
+<meta name="DCSext.regj_lv3" content="bld" />
+<meta name="DCSext.regj_lv4" content="whats-new" />
+<meta name="DCSext.regj_lv5" content="calendar-for-the-ministry-of-children-an" />
+<meta name="DCSext.regj_g-page" content="308-g-page" />
 <meta name="TITLE" content="Calendar" />
 <meta name="description" content="
 
 
 
-&amp;amp;nbsp;
-&amp;amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
 This is an overview of selected events from the calendar of the Minister of Children, Equality and Social Inclusion. 
-Please contact the press centre for more information&amp;amp;nbsp;
+Please contact the press centre for more information&amp;nbsp;
 
-&amp;amp;nbsp;&amp;amp;nbsp; 
-&amp;amp;nbsp;" />
+&amp;nbsp;&amp;nbsp; 
+&amp;nbsp;" />
 <meta name="DC.Title" content="Calendar" />
 <meta name="DC.Creator" content="Ministry of Children, Equality and Social Inclusion" />
 <meta name="DC.Description" content="
 
 
 
-&amp;amp;nbsp;
-&amp;amp;nbsp;
+&amp;nbsp;
+&amp;nbsp;
 This is an overview of selected events from the calendar of the Minister of Children, Equality and Social Inclusion. 
-Please contact the press centre for more information&amp;amp;nbsp;
+Please contact the press centre for more information&amp;nbsp;
 
-&amp;amp;nbsp;&amp;amp;nbsp; 
-&amp;amp;nbsp;" />
+&amp;nbsp;&amp;nbsp; 
+&amp;nbsp;" />
 <meta name="DC.Date" content="2007-01-23" />
 <meta name="DC.Date.Available" content="2007-01-23" />
 <meta name="DC.Type.Status" content="Gyldig" />
 <meta name="DC.Type" content="Kalender" />
 <meta name="DC.Format" content="text/html" />
-<meta name="DC.Identifier.URL" content="/en/dep/bld/Whats-new/calendar-for-the-ministry-of-children-an.html?id=308" />
+<meta name="DC.Identifier.URL" content="/en/dep/bld/whats-new/calendar-for-the-ministry-of-children-an.html?id=308" />
 <meta name="DC.Language" content="en-GB" />
 <meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DCSext.regj.lang-pref" content="en-GB" />
 <meta name="DC.Publisher" content="regjeringen.no" />
 <meta name="AUTHOR" content="Ministry of Children, Equality and Social Inclusion" />
 <meta name="creation_date" content="Tue, 23 Jan 2007 09:22:00 GMT" />
@@ -54,82 +59,96 @@ Please contact the press centre for more information&amp;amp;nbsp;
 <meta http-equiv="Content-Language" content="en" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
-
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/bld.css" media="all" /> 
-
-
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
-
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
 
 
 
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+    <!-- default styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/default_styles_combined_45D29949909B2B10854E130AC37BCE3C.css" />
+    <!--[if lt IE 6]
+        <link rel="stylesheet" type="text/css" href="/styles/ie55.css?v=2.1.11776" media="screen">
+
+    <![endif]-->
+
+
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/3Col_AF432B5349630A9B3C4A0BDD3743237C.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+<link rel="stylesheet" type="text/css" media="all" href="/styles/Profiles/bld_B8721AD971F0AD7B1FBD93A324D68FE9.css" />
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
+
+
+
+
+<link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web02.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=308" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web02.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=308" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en/dep/bld/Whats-new/calendar-for-the-ministry-of-children-an.html?id=308" id="aspnetForm" enctype="multipart/form-data">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTExMTA1MjExOTgPZBYCZg9kFghmDxUCAmVuAmVuZAIBEGRkFgICAg9kFgZmDxYCHgRUZXh0BZMQPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZW5hbWUiIGNvbnRlbnQ9IkNhbGVuZGFyIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXR5cGUiIGNvbnRlbnQ9IkthbGVuZGVyIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZWlkIiBjb250ZW50PSIzMDgiIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5wYWdlc3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQ1NleHQucmVnai5vd25lciIgY29udGVudD0iYmxkIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oubGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iVElUTEUiIGNvbnRlbnQ9IkNhbGVuZGFyIiAvPg0KPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9Ig0KDQoNCg0KJmFtcDthbXA7bmJzcDsNCiZhbXA7YW1wO25ic3A7DQpUaGlzIGlzIGFuIG92ZXJ2aWV3IG9mIHNlbGVjdGVkIGV2ZW50cyBmcm9tIHRoZSBjYWxlbmRhciBvZiB0aGUgTWluaXN0ZXIgb2YgQ2hpbGRyZW4sIEVxdWFsaXR5IGFuZCBTb2NpYWwgSW5jbHVzaW9uLiANClBsZWFzZSBjb250YWN0IHRoZSBwcmVzcyBjZW50cmUgZm9yIG1vcmUgaW5mb3JtYXRpb24mYW1wO2FtcDtuYnNwOw0KDQomYW1wO2FtcDtuYnNwOyZhbXA7YW1wO25ic3A7IA0KJmFtcDthbXA7bmJzcDsiIC8+DQo8bWV0YSBuYW1lPSJEQy5UaXRsZSIgY29udGVudD0iQ2FsZW5kYXIiIC8+DQo8bWV0YSBuYW1lPSJEQy5DcmVhdG9yIiBjb250ZW50PSJNaW5pc3RyeSBvZiBDaGlsZHJlbiwgRXF1YWxpdHkgYW5kIFNvY2lhbCBJbmNsdXNpb24iIC8+DQo8bWV0YSBuYW1lPSJEQy5EZXNjcmlwdGlvbiIgY29udGVudD0iDQoNCg0KDQomYW1wO2FtcDtuYnNwOw0KJmFtcDthbXA7bmJzcDsNClRoaXMgaXMgYW4gb3ZlcnZpZXcgb2Ygc2VsZWN0ZWQgZXZlbnRzIGZyb20gdGhlIGNhbGVuZGFyIG9mIHRoZSBNaW5pc3RlciBvZiBDaGlsZHJlbiwgRXF1YWxpdHkgYW5kIFNvY2lhbCBJbmNsdXNpb24uIA0KUGxlYXNlIGNvbnRhY3QgdGhlIHByZXNzIGNlbnRyZSBmb3IgbW9yZSBpbmZvcm1hdGlvbiZhbXA7YW1wO25ic3A7DQoNCiZhbXA7YW1wO25ic3A7JmFtcDthbXA7bmJzcDsgDQomYW1wO2FtcDtuYnNwOyIgLz4NCjxtZXRhIG5hbWU9IkRDLkRhdGUiIGNvbnRlbnQ9IjIwMDctMDEtMjMiIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlLkF2YWlsYWJsZSIgY29udGVudD0iMjAwNy0wMS0yMyIgLz4NCjxtZXRhIG5hbWU9IkRDLlR5cGUuU3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlIiBjb250ZW50PSJLYWxlbmRlciIgLz4NCjxtZXRhIG5hbWU9IkRDLkZvcm1hdCIgY29udGVudD0idGV4dC9odG1sIiAvPg0KPG1ldGEgbmFtZT0iREMuSWRlbnRpZmllci5VUkwiIGNvbnRlbnQ9Ii9lbi9kZXAvYmxkL1doYXRzLW5ldy9jYWxlbmRhci1mb3ItdGhlLW1pbmlzdHJ5LW9mLWNoaWxkcmVuLWFuLmh0bWw/aWQ9MzA4IiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UuUHJlZmVyZW5jZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJEQy5QdWJsaXNoZXIiIGNvbnRlbnQ9InJlZ2plcmluZ2VuLm5vIiAvPg0KPG1ldGEgbmFtZT0iQVVUSE9SIiBjb250ZW50PSJNaW5pc3RyeSBvZiBDaGlsZHJlbiwgRXF1YWxpdHkgYW5kIFNvY2lhbCBJbmNsdXNpb24iIC8+DQo8bWV0YSBuYW1lPSJjcmVhdGlvbl9kYXRlIiBjb250ZW50PSJUdWUsIDIzIEphbiAyMDA3IDA5OjIyOjAwIEdNVCIgLz4NCjxtZXRhIG5hbWU9IkxBU1QtTU9ESUZJRUQiIGNvbnRlbnQ9IlR1ZSwgMjMgSmFuIDIwMDcgMDk6MjM6MzYgR01UIiAvPg0KPG1ldGEgbmFtZT0iUkVWSVNFRCIgY29udGVudD0iVHVlLCAyMyBKYW4gMjAwNyAwOToyMzozNiBHTVQiIC8+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtTGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuIiAvPg0KZAIBDxYCHgdWaXNpYmxlaGQCAg8WAh4LXyFJdGVtQ291bnRmZAIDEGRkFgoCAQ9kFgYCAg8VAREjcXVpY2tzZWFyY2hpbnB1dGQCCw8WAh8BaBYCZg8VAUwjY3RsMDBfRnVsbFJlZ2lvbl9DZW50ZXJBbmRSaWdodFJlZ2lvbl9jdGwwMF9SZWxhdGVkQ29udGFjdDFfQXJlYUNvbnRhY3RJbmZvZAIND2QWAmYPZBYCZg9kFgICAQ9kFghmDw8WBh4HVG9vbFRpcAUuS2xpa2sgaGVyIGZvciDDpSB2aXNlIGRlbm5lIHNpZGVuIHDDpSBib2ttw6VsLh8ABQdCb2ttw6VsHgtOYXZpZ2F0ZVVybAUuL3RlbXBsYXRlcy9jYWxlbmRhci5hc3B4P2lkPTMwOCZlcHNsYW5ndWFnZT1ub2RkAgEPDxYGHwMFLUtsaWtrIGhlciBmb3Igw6UgdmlzZSBkZW5uZSBzaWRhIHDDpSBueW5vcnNrLh8ABQdOeW5vcnNrHwQFMS90ZW1wbGF0ZXMvY2FsZW5kYXIuYXNweD9pZD0zMDgmZXBzbGFuZ3VhZ2U9bm4tTk9kZAICDw8WBh8DBTRDb2Foa2thbCBkw6Fra28gZGUgb2Fpbm7DoXQgZMOhbiBzaWlkZHUgc8OhbWVnaWxsaWkuHwAFC1PDoW1lZ2llbGxhHwQFMS90ZW1wbGF0ZXMvY2FsZW5kYXIuYXNweD9pZD0zMDgmZXBzbGFuZ3VhZ2U9c2UtTk9kZAIDDw8WBh8DBSJUaGlzIHBhZ2UgaXMgZGlzcGxheWVkIGluIGVuZ2xpc2guHwAFB0VuZ2xpc2gfBAUxL3RlbXBsYXRlcy9jYWxlbmRhci5hc3B4P2lkPTMwOCZlcHNsYW5ndWFnZT1lbi1HQmRkAgIPFQEBIGQCAw9kFgxmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCAQ8VAQtQb3J0YWwgaG9tZWQCAg9kFgRmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCAg8VAzovdGVtcGxhdGVzL0dlbmVyZWxsRm9yc2lkZS5hc3B4P2lkPTg1ODQzJmVwc2xhbmd1YWdlPWVuLUdCHFN0b2x0ZW5iZXJnJ3MgMm5kIEdvdmVybm1lbnQyL3RlbXBsYXRlcy9MaXN0ZXNpZGUuYXNweD9pZD05MzMmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgMPFQE0L3RlbXBsYXRlcy9EZXBhcnRlbWVudC5hc3B4P2lkPTI5OCZlcHNsYW5ndWFnZT1lbi1HQmQCBA8VATNNaW5pc3RyeSBvZiBDaGlsZHJlbiwgRXF1YWxpdHkgYW5kIFNvY2lhbCBJbmNsdXNpb25kAgYPZBYSZg9kFgRmD2QWAmYPZBYEAgIPFQQ+U2VhcmNoIHRoZSBNaW5pc3RyeSBvZiBDaGlsZHJlbiwgRXF1YWxpdHkgYW5kIFNvY2lhbCBJbmNsdXNpb24GU2VhcmNoEVF1aWNrU2VhcmNoQnV0dG9uBlNlYXJjaGQCAw8PFgIfAAUbU2VhcmNoIGFsbCBvZiBnb3Zlcm5tZW50Lm5vZGQCAQ8PFgIeC19pc0VkaXRhYmxlaGRkAgEPFQEeL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3RpcHMuZ2lmZAIFDxUBIS9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9wcmludF90LmdpZmQCCA8VAyMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvc21hbGxUZXh0LmdpZiQvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbWVkaXVtVGV4dC5naWYjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL2xhcmdlVGV4dC5naWZkAgkPZBYCZg8VAqABaHR0cDovL2lzaS5waG9uZXRpY29tLmNvbS9jZ2ktYmluL3JzeHQ/dXJsPWh0dHA6Ly93d3cucmVnamVyaW5nZW4ubm8vZW4vZGVwL2JsZC9XaGF0cy1uZXcvY2FsZW5kYXItZm9yLXRoZS1taW5pc3RyeS1vZi1jaGlsZHJlbi1hbi5odG1sP2lkPTMwOCZhbXA7Y3VzdG9tZXJpZD0xOR8vc3R5bGVzL0ltYWdlcy9zeW1ib2xfbHlkX3QuZ2lmZAIKD2QWAgIBDw8WBB8EBTYvdGVtcGxhdGVzL1RlbWFJbmRla3MuYXNweD9pZD0yMjM0ODYmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUKVG9waWNzIEEtWmRkAgsPZBYCAgEPDxYEHwQFOS90ZW1wbGF0ZXMvTmV0dHN0ZWRza2FydC5hc3B4P2lkPTI3MDM1OSZlcHNsYW5ndWFnZT1lbi1HQh8ABQhTaXRlIE1hcGRkAgwPDxYEHwQFNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDg4NjQxJmVwc2xhbmd1YWdlPWVuLUdCHwAFBEhlbHBkZAINDw8WBB8EBT0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9MzA2JmVwc2xhbmd1YWdlPWVuLUdCHwAFB0NvbnRhY3RkZAIED2QWBAIBD2QWAgIBD2QWFgIDD2QWAmYPFgIfAAWfAllvdSBhcmUgaGVyZTogPGEgaHJlZj0iL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCIj5Hb3Zlcm5tZW50Lm5vPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yOTgmZXBzbGFuZ3VhZ2U9ZW4tR0IiPk1pbmlzdHJ5IG9mIENoaWxkcmVuLCBFcXVhbC4uLjwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9Mjk5JmVwc2xhbmd1YWdlPWVuLUdCIj5XaGF04oCZcyBuZXc8L2E+IC8gPHNwYW4+Q2FsZW5kYXI8L3NwYW4+ZAIFD2QWBgIBDxUBB1N0YXR1czpkAgIPFgIfAWgWAmYPFQE4DQogICAgICAgICAgICAgICAgICAgICAgICBBcmNoaXZlZA0KICAgICAgICAgICAgICAgICAgICBkAgQPFgIfAWgWAmYPFQE4DQogICAgICAgICAgICAgICAgICAgICAgICBSZXBsYWNlZA0KICAgICAgICAgICAgICAgICAgICBkAgcPZBYCZg8WAh8BaGQCCA8VAQhDYWxlbmRhcmQCCQ9kFgQCAQ9kFgJmDxUBsAM8dGFibGUgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCI+DQo8dGJvZHk+DQo8dHIgdmFsaWduPSJ0b3AiPg0KPHRkPg0KPHA+Jm5ic3A7PC9wPg0KPHA+Jm5ic3A7PC9wPg0KPHA+VGhpcyBpcyBhbiBvdmVydmlldyBvZiBzZWxlY3RlZCBldmVudHMgZnJvbSB0aGUgY2FsZW5kYXIgb2YgdGhlIE1pbmlzdGVyIG9mIENoaWxkcmVuLCBFcXVhbGl0eSBhbmQgU29jaWFsIEluY2x1c2lvbi4gPC9wPjxhIGhyZWY9Ii90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0zMDEmZXBzbGFuZ3VhZ2U9RU4tR0IiPg0KPHA+UGxlYXNlIGNvbnRhY3QgdGhlIHByZXNzIGNlbnRyZSBmb3IgbW9yZSBpbmZvcm1hdGlvbjwvcD48L2E+Jm5ic3A7PC90ZD4NCjx0ZD48L3RkPjwvdHI+PC90Ym9keT48L3RhYmxlPg0KPHA+Jm5ic3A7Jm5ic3A7IDwvcD4NCjxwPiZuYnNwOzwvcD5kAgMPFgYeFE51bWJlck9mRGF5c1RvUmVuZGVyAgoeClBhZ2VUeXBlSUQCQB4JX3BhZ2VMaW5rKCluRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZSwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcDMjk4ZAINDxYCHwFoFgICAQ8WAh8BaGQCEQ9kFgJmD2QWAmYPFgIeBWNsYXNzBQpEZXBQcm9maWxlFgJmDxUBNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yOTgmZXBzbGFuZ3VhZ2U9ZW4tR0JkAhMPFgIfAWgWBGYPFQEAZAIBD2QWBmYPFQETU2VhcmNoIHRoZSBDYWxlbmRhcmQCAQ8PFgIfAGVkZAIDDw8WAh8ABQZTZWFyY2hkZAIVD2QWAgIDDzwrAAoBAA8WAh4CU0QWCgYAsDLK7zLNiAYAcJz0uDPNiAYAMAYfgjTNiAYA8G9JSzXNiAYAsNlzFDbNiAYAcEOe3TbNiAYAMK3IpjfNiAYA8BbzbzjNiAYAsIAdOTnNiAYAcOpHAjrNiGRkAhkPDxYCHwFoZBYCZg9kFgICAQ8WAh8BaGQCGw9kFgJmDxYCHwFnFgICAw9kFgJmD2QWDAIBD2QWAmYPFQIzL3RlbXBsYXRlcy9BdmRlbGluZy5hc3B4P2lkPTg3MDg2JmVwc2xhbmd1YWdlPWVuLUdCHURlcGFydGVtZW50IG9mIENvbW11bmljYXRpb25zZAICDxUCGm1haWx0bzpibGQtaW5mb0BibGQuZGVwLm5vAGQCBQ9kFgICAQ9kFgJmDxUBQzxhIGNsYXNzPSJ0ZWxlcGhvbmVMaW5rIiBocmVmPSJ0ZWw6KzQ3OTc3NzM2MzQiPis0NyA5NyA3NyAzNiAzNDwvYT5kAgcPFgIfAWgWBGYPZBYCZg8PFgIfAWhkZAIBD2QWAmYPFQEAZAIJD2QWAgIBD2QWAmYPFQFDPGEgY2xhc3M9InRlbGVwaG9uZUxpbmsiIGhyZWY9InRlbDorNDcyMjI0MjQxOCI+KzQ3IDIyIDI0IDI0IDE4PC9hPmQCDQ8PFgYfBWgeDl9ib3VuZFBhZ2VMaW5rAq6oBR4JX2xhc3RUeXBlBQdEZWZhdWx0ZGQCAw9kFgICAQ9kFgQCAQ9kFgJmDxUCNC90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnQuYXNweD9pZD0yOTgmZXBzbGFuZ3VhZ2U9ZW4tR0INTWluaXN0cnkgaG9tZWQCAw8WBh4JX1BhZ2VMaW5rKCsEAzI5OB4PX051bWJlck9mTGV2ZWxzAgoeCl9FeHBhbmRBbGxoFjACAQ9kFgJmDxUBCFNlbGVjdGVkZAICD2QWAmYPFQQANy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0yOTkmZXBzbGFuZ3VhZ2U9ZW4tR0IADFdoYXTigJlzIG5ld2QCBA9kFgJmDxUBAGQCBQ9kFgJmDxUDNy90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0zMDcmZXBzbGFuZ3VhZ2U9ZW4tR0IABE5ld3NkAgcPZBYCZg8VAQhTZWxlY3RlZGQCCA9kFgJmDxUDMS90ZW1wbGF0ZXMvY2FsZW5kYXIuYXNweD9pZD0zMDgmZXBzbGFuZ3VhZ2U9ZW4tR0IACENhbGVuZGFyZAIKD2QWAmYPFQEAZAILD2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTMwOSZlcHNsYW5ndWFnZT1lbi1HQgAVU3BlZWNoZXMgYW5kIGFydGljbGVzZAIND2QWAmYPFQEAZAIOD2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTMxMCZlcHNsYW5ndWFnZT1lbi1HQgAXUmVwbGllcyB0byB0aGUgU3RvcnRpbmdkAhAPZBYCZg8VAQBkAhEPZBYCZg8VAz8vdGVtcGxhdGVzL1JTU0xlZGlnZVN0aWxsaW5nZXIuYXNweD9pZD00Njg2NzcmZXBzbGFuZ3VhZ2U9ZW4tR0IAQkF2YWlsYWJsZSBwb3NpdGlvbnMgaW4gdGhlIENoaWxkcmVuLCBFcXVhbGl0eSBhbmQgU29jaWFsIEluY2x1c2lvbmQCFQ9kFgJmDxUBAGQCFg9kFgJmDxUDPy90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnRUZW1hRm9yc2lkZS5hc3B4P2lkPTMwMCZlcHNsYW5ndWFnZT1lbi1HQgAGVG9waWNzZAIYD2QWAmYPFQEAZAIZD2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTMwMSZlcHNsYW5ndWFnZT1lbi1HQgAMUHJlc3MgY2VudHJlZAIbD2QWAmYPFQEAZAIcD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTI3NTIzNCZlcHNsYW5ndWFnZT1lbi1HQgAJRG9jdW1lbnRzZAIeD2QWAmYPFQEAZAIfD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTMwMyZlcHNsYW5ndWFnZT1lbi1HQgASQWJvdXQgdGhlIG1pbmlzdHJ5ZAIhD2QWAmYPFQEAZAIiD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTMwNCZlcHNsYW5ndWFnZT1lbi1HQgARU291bmQgYW5kIHBpY3R1cmVkAiQPZBYCZg8VAQBkAiUPZBYCZg8VA0AvdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9NDM3MzM5JmVwc2xhbmd1YWdlPWVuLUdCABBEb2N1bWVudCBBcmNoaXZlZAIFD2QWAgIBD2QWAmYPFQH+AzxwPk1pbmlzdHJ5IG9mIENoaWxkcmVuLCBFcXVhbGl0eSBhbmQgU29jaWFsIEluY2x1c2lvbiwgJm5ic3A7QWtlcnNnYXRhIDU5LCBQb3N0Ym94IDgwMzYgRGVwLCAwMDMwIE9zbG8mbmJzcDsmbmJzcDsgfCZuYnNwOyAmbmJzcDtUbGY6Jm5ic3A7KzQ3IDIyIDI0IDkwIDkwLCBGYWtzOiZuYnNwOys0NyAyMiAyNCA5NSAxNSA8YnIgLz5FLW1haWw6IDxhIGhyZWY9Im1haWx0bzpQb3N0bW90dGFrQGJsZC5kZXAubm8iPlBvc3Rtb3R0YWtAYmxkLmRlcC5ubzwvYT4mbmJzcDsgfCZuYnNwOyBXZWItZWRpdG9yOiZuYnNwOzxhIHRpdGxlPSJNYXJpdCBTa3JhbS1MdW5kIiBocmVmPSJtYWlsdG86TWFyaXQuU2tyYW0tTHVuZEBibGQuZGVwLm5vIj5NYXJpdCBTa3JhbS1MdW5kJm5ic3A7PC9hPiB8Jm5ic3A7IEVkaXRvcjogPGEgdGl0bGU9Ik1hcmlhIEJyaXQgRXNwaW5vemEiIGhyZWY9Im1haWx0bzpNYXJpYS1Ccml0LkVzcGlub3phQGJsZC5kZXAubm8iPk1hcmlhIEJyaXQgRXNwaW5vemE8L2E+PC9wPmQCBQ9kFgJmDxUBGC9zY3JpcHQvanMvc2RjXzA5MDgxOS5qc2QYBgVZY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRjdGwwMCREb2N1bWVudFJlbGF0aW9uc2hpcDEkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAVDY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRjdGwwMCRjaGlsZHJlbmxpc3QkY2hpbGRwYWdlcw8PZmRkBStjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSRNdWx0aVBhZ2VMaXN0Dw9mZGQFO2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kY3RsMDAkYXJjaGl2ZUxpc3RpbmcyDw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JHV4Vmlld3MPD2RmZAVFY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRjdGwwMCRSZWxhdGVkQ29udGFjdDEkUGFnZUxpc3QxDw9mZGRYPU7hsHwAvjdVudanf7AUiv1ung==" />
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/en/dep/bld/whats-new/calendar-for-the-ministry-of-children-an.html?id=308" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzMjQ0OTgxMDZkGAgFSWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2FsZW5kYXIxJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAUdY3RsMDAkUmVxdWlyZWRSZXNvdXJjZXNIZWFkZXIPBQZIZWFkZXJkBUdjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENhbGVuZGFyMSRjaGlsZHJlbmxpc3QkY2hpbGRwYWdlcw8PZmRkBStjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwMSRNdWx0aVBhZ2VMaXN0Dw9mZGQFP2N0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2FsZW5kYXIxJGFyY2hpdmVMaXN0aW5nMg8PZmRkBUljdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENhbGVuZGFyVjIxJGNoaWxkcmVubGlzdCRjaGlsZHBhZ2VzDw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJHV4Vmlld3MPD2RmZAVeY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDYWxlbmRhcjEkRG9jdW1lbnRSZWxhdGlvbnNoaXAxJFJlbGF0aW9uc09uZUhvcFBhZ2VMaXN0MQ8PZmRk9wgnIu03n5q8A/TPkSllEdT9iQY=" />
 </div>
 
+
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdADWvkihAP7WOD08X0J257/wirya5utHaP3uHQRI8Uid46USlzscturzB5DNLGqBU6lVA5KxKwgfN4fSFFSFuk8wHzzcTEPBsQOKgi/LDUhRf+r4RApUKGN5fbEOslPAi3cFCSmOs85hSWRqxgyof5lj5De/Tn9KmUBX3Ptf4wXyIGiLkCrCS+zViUxvqC6ZVhUB3d+GzmpwuNvdZhCTeNJN5cj4toO0cOfo7BXDlMifDP4uWVQUvXLdEm+nPHiUKx3rqEoHNC3Zq1Ez6zd65DKR2rfmD7sg8oJh5VGuPiGQTOHi8/0uLj0F2sTKVIzG9y58NGrjrLjt9T+R9rVK8KhvzG6jrVc86275m7NYYXw/7cj4tx1qT2cfU5jc8MC6H2+QqwN09BsvPBrRT+OvVIeEwB2CUrAPH8mRPOpFxCeh0u+i84y6nZixHhsuS0Sg14wRV9Wo7v2TDzWuLYQhsjLOrdTKsgNeIWtecqdVsLXWzC535DYCwykuWBcw6PiC/anciTeO/i1N+x06zatamNMCpxvdU98LBvDtvqiZNQojnKwe5bHq2JxhpYyx+/bj9lqAhMSwJgHFzhOdOUhl6C5MdmWBJmdauE1QWY3FZpZIVGO+NXy5zZZUO6VkO6QSxQHxQgk+JHby/soHhwdKmkJQOR6XLaM22MCSG0Y9hzV969g90LLiiobUx3CQOXxRZSeK0WKs1yqCEfwpkgm8qtYx+33hopk5d5VqSrcOm3wNjc8mfB9QhOwlXIzreQ5fZqP8Hq03akkVLXFkV5osr914JDnpX0/JPjdkSUhy3HAHX61u0XLdjlD9sOhoPO+M53lZWid5E1ZSHaLngGn4GlOglVFdKcm+YKOqVMGah/U+oNQAuU585wo1VlFFl7muuuhzHGTGN/GRrN2u4bd8cDHuFsPSvrcINcuVqzaMMiAm5AbvXI19jiao/Y2zz4Seu66HtaDK8+fOJkCnPkd/HwkLjGkhFh9IofUD4AdPztPZTLY0ypOf5FA5gIPx6uLajw2WiROf3qMgV+gHIWWVlI6hyTN+vM67lQqbGMGFJoWDNDA1xPyb/T1Wi/n5ZtpsenDTKuRtZHJmcHUOsVoV9gT4kvNJRW+yDC0C1n0vqRBpZJga4wgTbSFoM0981Oc3fiNEfhm6A" />
+</div>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">Go to search</a><a href="#Content" tabindex="3">Go to content</a><a href="#AreaTopSiteNav" tabindex="4">Go to top menu</a><a href="#AreaLeft" tabindex="5">Go to left menu</a>
+    
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/bld/aktuelt/kalender.html?id=308">Bokmål</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/dep/bld/Aktuelt/kalender.html?id=308">Nynorsk</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/bld/Aigeguovdilis-ait/Manaid--ja-dassearvodepartemeantta-kaleanddar.html?id=308">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/bld/Whats-new/calendar-for-the-ministry-of-children-an.html?id=308">English</a></li>
+        <li class="First Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/bld/aktuelt/kalender.html?id=308">Bokmål</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/dep/bld/aktuelt/kalender.html?id=308">Nynorsk</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/bld/Aigeguovdilis-ait/Manaid--ja-dassearvodepartemeantta-kaleanddar.html?id=308">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/bld/whats-new/calendar-for-the-ministry-of-children-an.html?id=308">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/en.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/en.html?id=4" tabindex="20">
+                                            government.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/en/the-government/solberg/members-of-the-government-2.html?id=543170' class="ISI_MENU" tabindex="21">Solberg’s Government</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/en/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Ministries
+                                        </a>
+                                        
     <ul>
   
     <li>
@@ -137,7 +156,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+        <a href="/en/dep/asd.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour and Social Affairs</a>
     </li>
   
     <li class="Selected">
@@ -149,14 +168,6 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
-    </li>
-  
-    <li>
         <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
     </li>
   
@@ -165,15 +176,19 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and Public Security</a>
     </li>
   
     <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
+        <a href="/en/dep/kld.html?id=668" class="NormalLink ISI_MENU">Ministry of Climate and Environment</a>
     </li>
   
     <li>
-        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
+        <a href="/en/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Modernisation</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
     </li>
   
     <li>
@@ -185,11 +200,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+        <a href="/en/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade, Industry and Fisheries</a>
     </li>
   
     <li>
@@ -208,166 +219,61 @@ function printPage()
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en/dep/bld.html?id=298"><img class="ProfileLogo" src="/styles/Images/bld/bld_en.gif" alt='Ministry of Children, Equality and Social Inclusion' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/en/dep/bld.html?id=298" tabindex="34"><img class="ProfileLogo" src="/styles/Images/bld/bld_en.gif" alt='Ministry of Children, Equality and Social Inclusion' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
     <label for="quicksearchinput" class="QuickSearchHeader">Search the Ministry of Children, Equality and Social Inclusion</label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
-    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack('ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch','')">Search all of government.no</a></span>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Search" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Search" />        
+    <span><a id="TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" tabindex="32" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack(&#39;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&#39;,&#39;&#39;)">Search all of government.no</a></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Share/Send' /><span class="open" id="open">Share/Send</span><span class="display-none" id="close">Close</span></a></li>
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/bld/Whats-new/calendar-for-the-ministry-of-children-an.html?id=308&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/dep/bld/Site-Map.html?id=270359">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/dep/bld/BLD-arbeider-for-at/contact.html?id=306">Contact</a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Click here to print this page' />Print</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/templates/calendar.aspx?id=308&amp;epslanguage=en-GB&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal font size' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/calendar.aspx?id=308&amp;epslanguage=en-GB&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium font size' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/calendar.aspx?id=308&amp;epslanguage=en-GB&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Large font size' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/bld/whats-new/calendar-for-the-ministry-of-children-an.html?id=308&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/en/dep/bld/Site-Map.html?id=270359">Site Map</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/en/dep/bld/BLD-arbeider-for-at/contact.html?id=306">Contact</a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
-                        <div id="AreaContentAndRight">
-                            
-	<a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
-	
-
-<div id="AreaContent">
-	
-    
-
-	<p class="breadcrumbs">You are here: <a href="/en.html?id=4">Government.no</a> / <a href="/en/dep/bld.html?id=298">Ministry of Children, Equal...</a> / <a href="/en/dep/bld/Whats-new.html?id=299">What’s new</a> / <span>Calendar</span>
-</p>
-	<div class="documentTop">
-      
-	   
-	   <h1>Calendar</h1>	 	   	   
-	</div>
-	  
-	<div id="ctl00_FullRegion_CenterAndRightRegion_ctl00_calenderListingDiv" class="documentBody">	
-	    <div id="ctl00_FullRegion_CenterAndRightRegion_ctl00_Div3">
-	        <table width="100%" border="0">
-<tbody>
-<tr valign="top">
-<td>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>This is an overview of selected events from the calendar of the Minister of Children, Equality and Social Inclusion. </p><a href="/en/dep/bld/Press-Center.html?id=301">
-<p>Please contact the press centre for more information</p></a>&nbsp;</td>
-<td></td></tr></tbody></table>
-<p>&nbsp;&nbsp; </p>
-<p>&nbsp;</p>
-	    </div>
-	         
-		</div>
-		
-        <h2 id="ctl00_FullRegion_CenterAndRightRegion_ctl00_pagingControlTop_H2_1" class="subHeading"></h2> 
-
-
-        
-				
-		
-        <h2 id="ctl00_FullRegion_CenterAndRightRegion_ctl00_pagingControlBottom_H2_1" class="subHeading"></h2> 
-
-        
-
-   </div>
-   <div id="AreaRight">   
-    <div id="ctl00_FullRegion_CenterAndRightRegion_ctl00_ProfileImageDiv"><div id="ctl00_FullRegion_CenterAndRightRegion_ctl00_ctl00_Div1" class="DepProfile"><a href='/en/dep/bld.html?id=298'><img src="/upload/BLD/Profilelementer/Banner-BLD-lovetann-198x123.JPG" alt="Ministry of Children and Equality" /></a></div></div>
-   
-   <div id="ctl00_FullRegion_CenterAndRightRegion_ctl00_ToolBoxDiv" class="Toolbox">
-     <h2 class="ToolboxHeader">Browse calendar</h2>
-	<div class="monthcalendararea">
-		<table id="ctl00_FullRegion_CenterAndRightRegion_ctl00_monthCalendar" class="calendar" cellspacing="1" cellpadding="2" title="Calendar" border="0" style="background-color:White;border-color:#F0F0F0;border-width:1px;border-style:solid;">
-	<tr><td colspan="8" style="background-color:Silver;"><table class="calendar" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;">
-		<tr><td style="width:15%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','V3896')" style="color:Black" title="Go to the previous month"><<</a></td><td align="center" style="width:70%;">October 2010</td><td align="right" style="width:15%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','V3957')" style="color:Black" title="Go to the next month">>></a></td></tr>
-	</table></td></tr><tr><td align="center"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','R392631')" style="color:Black" title="Select the whole month">&gt;&gt;</a></td><th class="calendaritem dayweekheader" align="center" abbr="Monday" scope="col">Mo</th><th class="calendaritem dayweekheader" align="center" abbr="Tuesday" scope="col">Tu</th><th class="calendaritem dayweekheader" align="center" abbr="Wednesday" scope="col">We</th><th class="calendaritem dayweekheader" align="center" abbr="Thursday" scope="col">Th</th><th class="calendaritem dayweekheader" align="center" abbr="Friday" scope="col">Fr</th><th class="calendaritem dayweekheader" align="center" abbr="Saturday" scope="col">Sa</th><th class="calendaritem dayweekheader" align="center" abbr="Sunday" scope="col">Su</th></tr><tr><td align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','R392207')" style="color:Black" title="Select week 1">&gt;</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3922')" style="color:Black" title="27 September">27</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3923')" style="color:Black" title="28 September">28</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3924')" style="color:Black" title="29 September">29</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3925')" style="color:Black" title="30 September">30</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3926')" style="color:Black" title="01 October">1</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3927')" style="color:Black" title="02 October">2</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3928')" style="color:Black" title="03 October">3</a></td></tr><tr><td align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','R392907')" style="color:Black" title="Select week 2">&gt;</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3929')" style="color:Black" title="04 October">4</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3930')" style="color:Black" title="05 October">5</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3931')" style="color:Black" title="06 October">6</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3932')" style="color:Black" title="07 October">7</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3933')" style="color:Black" title="08 October">8</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3934')" style="color:Black" title="09 October">9</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3935')" style="color:Black" title="10 October">10</a></td></tr><tr><td align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','R393607')" style="color:Black" title="Select week 3">&gt;</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3936')" style="color:Black" title="11 October">11</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3937')" style="color:Black" title="12 October">12</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3938')" style="color:Black" title="13 October">13</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3939')" style="color:Black" title="14 October">14</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3940')" style="color:Black" title="15 October">15</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3941')" style="color:Black" title="16 October">16</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3942')" style="color:Black" title="17 October">17</a></td></tr><tr><td align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','R394307')" style="color:Black" title="Select week 4">&gt;</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3943')" style="color:Black" title="18 October">18</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3944')" style="color:Black" title="19 October">19</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3945')" style="color:Black" title="20 October">20</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3946')" style="color:Black" title="21 October">21</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3947')" style="color:Black" title="22 October">22</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3948')" style="color:Black" title="23 October">23</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3949')" style="color:Black" title="24 October">24</a></td></tr><tr><td align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','R395007')" style="color:Black" title="Select week 5">&gt;</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3950')" style="color:Black" title="25 October">25</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3951')" style="color:Black" title="26 October">26</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3952')" style="color:Black" title="27 October">27</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3953')" style="color:Black" title="28 October">28</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3954')" style="color:Black" title="29 October">29</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3955')" style="color:Black" title="30 October">30</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3956')" style="color:Black" title="31 October">31</a></td></tr><tr><td align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','R395707')" style="color:Black" title="Select week 6">&gt;</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3957')" style="color:Black" title="01 November">1</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3958')" style="color:Black" title="02 November">2</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3959')" style="color:Black" title="03 November">3</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3960')" style="color:Black" title="04 November">4</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3961')" style="color:Black" title="05 November">5</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3962')" style="color:Black" title="06 November">6</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack('ctl00$FullRegion$CenterAndRightRegion$ctl00$monthCalendar','3963')" style="color:Black" title="07 November">7</a></td></tr>
-</table>
-		</div>		
-		</div>
-	
-	<div class="CalendarTopicMapsContainer">
-    
-     
-    <div id="ctl00_FullRegion_CenterAndRightRegion_ctl00_RelatedContact1_AreaContactInfo" class="Toolbox">   
-    <h2 id="ctl00_FullRegion_CenterAndRightRegion_ctl00_RelatedContact1_H2Header" class="ToolboxHeader">
-       
-                        Contact information
-                    
-    </h2>
-                 
-            <div class="ToolboxContent">
-					<h3 class="relatedContactHead">
-						 <a href="/en/dep/bld/BLD-arbeider-for-at/organisation/departments/information-secretariat.html?id=87086" class="structuredDataEmail">Departement of Communications</a>
-					</h3>
-					<p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/images/emailimages/32a2857c2fba4aaa47931a6af272874d.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', '3E005F110252575F53135B1E5A505B6D001919035B52474A4D1E195150104E5B5A105A525C7E51585057135A525C04514A52575F531903585B4C561E5F02'));//--></script></p>
-					<table cellpadding="0" cellspacing="0" border="0" summary="kontaktinformasjon">
-						 <tr>
-	<td>
-                        Telephone:
-                    </td>
-	<td><a class="telephoneLink" href="tel:+4797773634">+47 97 77 36 34</a></td>
-</tr>
-
-						  
-						 <tr>
-	<td>
-                        Fax:
-                    </td>
-	<td><a class="telephoneLink" href="tel:+4722242418">+47 22 24 24 18</a></td>
-</tr>
-
-					</table>
-					<h3 class="noPadBtm">
-						 
-                        Address
-                    </h3>
-					<p>Akersgata 59<br />Postbox 8036 Dep<br />0030 Oslo<br />Norway</p>            
-					<!-- Separator -->
-            </div>
-         
-</div> 
-    </div>
-</div>
-
-                        </div>
                         <div id="AreaLeft">
-                              
+                            
                                 <div id="AreaLeftNav" class="NavListV">
                                     
 
@@ -375,117 +281,355 @@ document.write(dc('Eoi_1', '3E005F110252575F53135B1E5A505B6D001919035B52474A4D1E
 <a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
 
     <ul>
-        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/bld.html?id=298">
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/bld.html?id=298" tabindex="41">
             Ministry home</a></li></ul>
 
 <ul><li class="Selected">
-        <a class="ISI_MENU " href="/en/dep/bld/Whats-new.html?id=299" title=''>
+        <a class="ISI_MENU " href="/en/dep/bld/whats-new.html?id=299" title="" tabindex="42">
             What’s new</a>
     <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Whats-new/News.html?id=307" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/whats-new/news.html?id=307" title="" tabindex="43">
             News</a>
     </li><li class="Selected">
-        <a class="Selected ISI_MENU" href="/en/dep/bld/Whats-new/calendar-for-the-ministry-of-children-an.html?id=308" title=''>
+        <a class="Selected ISI_MENU" href="/en/dep/bld/whats-new/calendar-for-the-ministry-of-children-an.html?id=308" title="" tabindex="44">
             Calendar</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Whats-new/Speeches-and-articles.html?id=309" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/whats-new/Speeches-and-articles.html?id=309" title="" tabindex="45">
             Speeches and articles</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Whats-new/Replies-to-the-Storting.html?id=310" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/whats-new/replies-to-the-storting.html?id=310" title="" tabindex="46">
             Replies to the Storting</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Whats-new/available-positions-in-the-children-equa.html?id=468677" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/whats-new/available-positions-in-the-children-equa.html?id=468677" title="" tabindex="47">
             Available positions in the Children, Equality and Social Inclusion</a>
     </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Topics.html?id=300" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/topics.html?id=300" title="" tabindex="48">
             Topics</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Press-Center.html?id=301" title=''>
-            Press centre</a>
+        <a class="ISI_MENU" href="/en/dep/bld/press-center.html?id=301" title="" tabindex="49">
+            Press Centre</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Documents.html?id=275234" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/documents.html?id=275234" title="" tabindex="50">
             Documents</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/BLD-arbeider-for-at.html?id=303" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/BLD-arbeider-for-at.html?id=303" title="" tabindex="51">
             About the ministry</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Sound-and-picture.html?id=304" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/Sound-and-picture.html?id=304" title="" tabindex="52">
             Sound and picture</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/bld/Document-Archive.html?id=437339" title=''>
+        <a class="ISI_MENU" href="/en/dep/bld/Document-Archive.html?id=437339" title="" tabindex="53">
             Document Archive</a>
     </li></ul>
 
                                 </div>
-                              
+                                
+                                
                             
                         </div>
+                        <div id="AreaContentAndRight">
+                            
+    
+
+<div id="AreaContent">
+    
+
+
+    
+
+<div class="breadcrumbs ">
+
+    
+               <span>
+                   You are here: 
+               </span>
+                
+                <ul class="breadcrumbmenu">
+            
+                <li><a href="/en.html?id=4" title="Government.no">Government.no</a> / </li>
+            
+                <li><a href="/en/dep/bld.html?id=298" title="Ministry of Children, Equal...">Ministry of Children, Equal...</a> / </li>
+            
+                <li><a href="/en/dep/bld/whats-new.html?id=299" title="What’s new">What’s new</a> / </li>
+            
+                <li><span>Calendar</span></li>
+            
+                </ul>
+            
+</div>
+    <div class="documentTop">
+        
+        
+        <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+        <h1>
+            Calendar</h1>
+    </div>
+    <div id="FullRegion_CenterAndRightRegion_Calendar1_calenderListingDiv" class="documentBody">
+        
+            <div>
+                <table width="100%" border="0">
+<tbody>
+<tr valign="top">
+<td>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>This is an overview of selected events from the calendar of the Minister of Children, Equality and Social Inclusion. </p><a href="/en/dep/bld/press-center.html?id=301">
+<p>Please contact the press centre for more information</p></a>&nbsp;</td>
+<td></td></tr></tbody></table>
+<p>&nbsp;&nbsp; </p>
+<p>&nbsp;</p>
+            </div>
+        
+        
+                <div class="CalendarListing">
+                    <h2>
+                        Wednesday
+                        24.
+                        september
+                        2014</h2>
+            
+                <div class="CalendarListItem">
+                    <div id="FullRegion_CenterAndRightRegion_Calendar1_calendarList_ctl01_CalendarListItemDate" class="CalendarListItemDate">
+                        <abbr title='Time:'>Time</abbr> 10.00–11.00
+                    </div>
+                    <div class="CalendarListItemDetails">
+                        <h3>
+                            <a class="linklist" href="/en/dep/bld/BLD-arbeider-for-at/minister-of-children-equality-and-soci-2/barne--likestillings--og-inkluderingsmin/Overrekkelse-av-tolkeutvalgets-utredning-.html?id=767092">Overrekkelse av tolkeutvalgets utredning </a>
+                        </h3>
+                        
+                            <p>
+                                24. september 2014 kl 10.00 vil regjeringens offentlige utvalg som har utredet bruk av tolk i offentlig sektor legge fram sin utredning og anbefalinger til statsråd Solveig Horne. Overleveringen finner sted i R5, Akersgata 59.
+                            </p>
+                        
+                    </div>
+                </div>
+            
+                </div>
+            
+    </div>
+    <h2 id="FullRegion_CenterAndRightRegion_Calendar1_pagingControlTop_H2_1" class="subHeading"></h2> 
+
+
+    
+    <h2 id="FullRegion_CenterAndRightRegion_Calendar1_pagingControlBottom_H2_1" class="subHeading"></h2> 
+
+
+    
+
+</div>
+<div id="AreaRight">
+    <div id="FullRegion_CenterAndRightRegion_Calendar1_ProfileImageDiv">
+        
+    <div class="DepProfile"><a href='/en/dep/bld.html?id=298' tabindex="61"><img src="/upload/BLD/Profilelementer/Banner-BLD-lovetann-198x123.JPG" alt="Ministry of Children and Equality" /></a></div>
+
+    </div>
+    
+    <div id="FullRegion_CenterAndRightRegion_Calendar1_ToolBoxDiv" class="Toolbox">
+        <h2 class="ToolboxHeader">
+            Browse calendar
+        </h2>
+        <div class="monthcalendararea">
+            <table id="FullRegion_CenterAndRightRegion_Calendar1_monthCalendar" class="calendar" cellspacing="1" cellpadding="2" title="Calendar" style="background-color:White;border-color:#F0F0F0;border-width:1px;border-style:solid;">
+	<tr><td colspan="8" style="background-color:Silver;"><table class="calendar" cellspacing="0" style="width:100%;border-collapse:collapse;">
+		<tr><td style="width:15%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;V5326&#39;)" style="color:Black" title="Go to the previous month"><<</a></td><td align="center" style="width:70%;">september 2014</td><td align="right" style="width:15%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;V5387&#39;)" style="color:Black" title="Go to the next month">>></a></td></tr>
+	</table></td></tr><tr><td align="center"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;R535730&#39;)" style="color:Black" title="Select the whole month">&gt;&gt;</a></td><th class="calendaritem dayweekheader" align="center" abbr="mandag" scope="col">ma</th><th class="calendaritem dayweekheader" align="center" abbr="tirsdag" scope="col">ti</th><th class="calendaritem dayweekheader" align="center" abbr="onsdag" scope="col">on</th><th class="calendaritem dayweekheader" align="center" abbr="torsdag" scope="col">to</th><th class="calendaritem dayweekheader" align="center" abbr="fredag" scope="col">fr</th><th class="calendaritem dayweekheader" align="center" abbr="lørdag" scope="col">lø</th><th class="calendaritem dayweekheader" align="center" abbr="søndag" scope="col">sø</th></tr><tr><td align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;R535007&#39;)" style="color:Black" title="Select week 1">&gt;</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5350&#39;)" style="color:Black" title="25. august">25</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5351&#39;)" style="color:Black" title="26. august">26</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5352&#39;)" style="color:Black" title="27. august">27</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5353&#39;)" style="color:Black" title="28. august">28</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5354&#39;)" style="color:Black" title="29. august">29</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5355&#39;)" style="color:Black" title="30. august">30</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5356&#39;)" style="color:Black" title="31. august">31</a></td></tr><tr><td align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;R535707&#39;)" style="color:Black" title="Select week 2">&gt;</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5357&#39;)" style="color:Black" title="1. september">1</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5358&#39;)" style="color:Black" title="2. september">2</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5359&#39;)" style="color:Black" title="3. september">3</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5360&#39;)" style="color:Black" title="4. september">4</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5361&#39;)" style="color:Black" title="5. september">5</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5362&#39;)" style="color:Black" title="6. september">6</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5363&#39;)" style="color:Black" title="7. september">7</a></td></tr><tr><td align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;R536407&#39;)" style="color:Black" title="Select week 3">&gt;</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5364&#39;)" style="color:Black" title="8. september">8</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5365&#39;)" style="color:Black" title="9. september">9</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5366&#39;)" style="color:Black" title="10. september">10</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5367&#39;)" style="color:Black" title="11. september">11</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5368&#39;)" style="color:Black" title="12. september">12</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5369&#39;)" style="color:Black" title="13. september">13</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5370&#39;)" style="color:Black" title="14. september">14</a></td></tr><tr><td align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;R537107&#39;)" style="color:Black" title="Select week 4">&gt;</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5371&#39;)" style="color:Black" title="15. september">15</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5372&#39;)" style="color:Black" title="16. september">16</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5373&#39;)" style="color:Black" title="17. september">17</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5374&#39;)" style="color:Black" title="18. september">18</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5375&#39;)" style="color:Black" title="19. september">19</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5376&#39;)" style="color:Black" title="20. september">20</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5377&#39;)" style="color:Black" title="21. september">21</a></td></tr><tr><td align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;R537807&#39;)" style="color:Black" title="Select week 5">&gt;</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5378&#39;)" style="color:Black" title="22. september">22</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5379&#39;)" style="color:Black" title="23. september">23</a></td><td class="calendaritem selecteddatecell datecellactive" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5380&#39;)" style="color:Black" title="24. september">24</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5381&#39;)" style="color:Black" title="25. september">25</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5382&#39;)" style="color:Black" title="26. september">26</a></td><td class="calendaritem selecteddatecell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5383&#39;)" style="color:Black" title="27. september">27</a></td><td class="calendaritem weekendcell" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5384&#39;)" style="color:Black" title="28. september">28</a></td></tr><tr><td align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;R538507&#39;)" style="color:Black" title="Select week 6">&gt;</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5385&#39;)" style="color:Black" title="29. september">29</a></td><td class="calendaritem" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5386&#39;)" style="color:Black" title="30. september">30</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5387&#39;)" style="color:Black" title="1. oktober">1</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5388&#39;)" style="color:Black" title="2. oktober">2</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5389&#39;)" style="color:Black" title="3. oktober">3</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5390&#39;)" style="color:Black" title="4. oktober">4</a></td><td class="calendaritem datecellothermonth" align="center" style="width:12%;"><a href="javascript:__doPostBack(&#39;ctl00$FullRegion$CenterAndRightRegion$Calendar1$monthCalendar&#39;,&#39;5391&#39;)" style="color:Black" title="5. oktober">5</a></td></tr>
+</table>
+        </div>
+    </div>
+    <div class="CalendarTopicMapsContainer">
+        
+        
+        <div id="FullRegion_CenterAndRightRegion_Calendar1_RelatedContact1_AreaContactInfo" class="Toolbox" tabindex="66">
+    
+        <h2 class="ToolboxHeader">
+           
+                        Contact information
+                    
+        </h2>
+    
+                 
+            <div class="ToolboxContent">
+					<h3 class="relatedContactHead">
+						 <a href="/en/dep/bld/BLD-arbeider-for-at/organisation/departments/information-secretariat.html?id=87086" class="structuredDataEmail">Departement of Communications</a>
+					</h3>
+					<p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/6888e11fc784762f5ffb39c374c35487.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, '4D732C627121242C2060286D2923281E736A6A70282134393E6D6A2223633D28296329212F0D222B23246029212F77223921242C206A702B283F256D2C71'));//--></script></p>
+					<p class="contactInfo">
+                        
+                            <span class="label">
+                        Telephone:
+                    </span>
+                            +47 97 77 36 34<br />
+                        
+                        
+                        
+                            <span class="label">
+                        Fax:
+                    </span>
+                            +47 22 24 24 18<br />
+                        
+                    </p>
+					
+					    <h3 class="noPadBtm">
+                        Address
+                    </h3>
+					    <div>
+	<p>Ministry of Children, Equality and Social Inclusion<br />Akersgata 59<br />Postboks 8036 Dep<br />N-0030&nbsp; OSLO</p>
+</div>
+            </div>
+         
+</div>
+    </div>
+</div>
+
+    
+
+                        </div>
+                    
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
                     
                     <!-- ISI_STOP -->
                 </div>
-                </div>
             </div>
         </div>
-        
-         
-<div id="PageFooter"><p>Ministry of Children, Equality and Social Inclusion, &nbsp;Akersgata 59, Postbox 8036 Dep, 0030 Oslo&nbsp;&nbsp; |&nbsp; &nbsp;Tlf:&nbsp;+47 22 24 90 90, Faks:&nbsp;+47 22 24 95 15 <br />E-mail: <img id='Eoi_2' class='obfimg' src='/images/emailimages/e5611cf08b40d66a440e70820ffbe3e6.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_2', 'A49AC58B98CBCA8AD4C1C08AC0C8C6E4CFC5D0D0CBC9D0D7CBF49A86CBCA8AD4C1C08AC0C8C6E4CFC5D0D0CBC9D0D7CBF49ECBD0C8CDC5C98699C2C1D6CC84C598'));//--></script>&nbsp; |&nbsp; Web-editor:&nbsp;<img id='Eoi_3' class='obfimg' src='/images/emailimages/a1ffc6f3a24791ca4ff5fdcb30ea6716.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_3', 'F0CE91DFCCCB8083929ED6949E85BCDD9D91829BA3D084998291BDCED29F9EDE809594DE949C92B0949E85BCDD9D91829BA3DE84998291BDCA9F849C99919DD2CD96958298D0D2949E85BCDD9D91829BA3D084998291BDD2CD959C849984D091CC'));//--></script> |&nbsp; Editor: <img id='Eoi_4' class='obfimg' src='/images/emailimages/f67071c75ce2c6a9c4730698498b802a.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_4', '58663977643922373631282B1D782C312A1A7839312A3915667A373676283D3C763C343A183922373631282B1D762C312A1A7539312A391562372C343139357A653E3D2A30787A3922373631282B1D782C312A1A7839312A39157A653D342C312C783964'));//--></script></p></div>
-        
-        
-                    
-        
-    </form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
-	
-} else
-{    
-    //setAreaHeights();
-}
+    </div>
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
+        
+<div id="PageFooter"><p>The Ministry og Children, Equality and Social Inclusion, Akersgata 59, Postboks 8036 Dep, 0030 Oslo&nbsp;&nbsp; |&nbsp; Phone:&nbsp;22 24 90 90 <br />E-mail: <img id='Eoi_2' class='obfimg' src='/upload/system/emailimages/e2cdfaf3afbe2d31c2fe4d6394c95fa1.png' alt='' /><script type="text/javascript" id="Eos_2"><!--
+document.write(dc(2, '675906485B08094917020349030B05270C061313080A13140837594508094917020349030B05270C061313080A131408375D08130B0E060A455A0102150F47065B'));//--></script>&nbsp; |&nbsp;Web editor: <a href="/en/dep/bld/BLD-arbeider-for-at/organisation/departments/information-secretariat/consultant-elisabeth-johansen.html?id=589640">Elisabeth Johansen</a> |&nbsp;Responsible editor: <img id='Eoi_3' class='obfimg' src='/upload/system/emailimages/88f5c421279e082f130488d96e19fd7f.png' alt='' /><script type="text/javascript" id="Eos_3"><!--
+document.write(dc(3, '6D530C42510C170203041D1E284D19041F2F4D0C041F0C20534F0203431D08094309010F2D0C170203041D1E284319041F2F400C041F0C2057021901040C004F500B081F054D4F0C170203041D1E284D19041F2F4D0C041F0C204F5008011904194D0C51'));//--></script></p></div>
+<div title="web02" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web02" /></div>
+    
+    
+    
+        
 
-<div id="ctl00_externalPageTrackers">
+
+    
+    </form>
+    <div id="externalPageTrackers">
 	
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
+    
+</div>       
+    
+    
 
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<div>
+    
 <script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no uses cookies to improve our service to the users. The cookies are mainly used for traffic measuring and for optimizing the site. Find more information on ",
+            messagepart2: ", or go back to regjeringen.no if you accept this.",
+            readMoreUrl: "http://www.regjeringen.no/en/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "use of cookies",
+            closeText: "Close"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
 //--></script>
-<!-- END Xtractor client tracker script -->
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
 
 </div>
+
+
+    
+
 </body>
 </html>

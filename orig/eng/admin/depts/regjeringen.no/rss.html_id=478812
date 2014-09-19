@@ -1,19 +1,21 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
+    <!-- ISI_NOAUTOLANG -->
+    <title>
 	RSS - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="RSS" />
+<meta name="WT.ti" content="RSS" />
 <meta name="DCSext.regj.pagetype" content="RSSOversikt" />
-<meta name="DCSext.regj.pageid" content="478812" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
 <meta name="DCSext.regj.owner" content="gov_no" />
 <meta name="DCSext.regj.language" content="en-GB" />
+<meta name="DCSext.regj_lv2" content="whatsnew" />
+<meta name="DCSext.regj_lv3" content="rss" />
+<meta name="DCSext.regj_g-page" content="478812-g-page" />
 <meta name="TITLE" content="RSS" />
-<meta name="DC.Title" content="RSS" />
+<meta name="DC.Title" content="RSS-feed" />
 <meta name="DC.Creator" content="Government.no" />
 <meta name="DC.Date" content="2009-09-03" />
 <meta name="DC.Date.Available" content="2009-09-03" />
@@ -23,6 +25,7 @@
 <meta name="DC.Identifier.URL" content="/en/whatsnew/rss.html?id=478812" />
 <meta name="DC.Language" content="en-GB" />
 <meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DCSext.regj.lang-pref" content="en-GB" />
 <meta name="DC.Publisher" content="regjeringen.no" />
 <meta name="AUTHOR" content="Government.no" />
 <meta name="creation_date" content="Thu, 03 Sep 2009 12:56:00 GMT" />
@@ -32,90 +35,198 @@
 <meta http-equiv="Content-Language" content="en" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
 
 
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
 
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
-        
-        <link rel="alternate" type="application/rss+xml" title="News (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1170&amp;language=en-GB " />
-             
-        <link rel="alternate" type="application/rss+xml" title="Press releases (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1781&amp;language=en-GB " />
-             
-        <link rel="alternate" type="application/rss+xml" title="Official Norwegian Reports (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1767&amp;language=en-GB " />
-             
-        <link rel="alternate" type="application/rss+xml" title="Speeches and articles (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1334&amp;language=en-GB " />
-             
-        <link rel="alternate" type="application/rss+xml" title="Whats new (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1150&amp;language=en-GB " />
-     
+    <!-- default styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/default_styles_combined_45D29949909B2B10854E130AC37BCE3C.css" />
+    <!--[if lt IE 6]
+        <link rel="stylesheet" type="text/css" href="/styles/ie55.css?v=2.1.11776" media="screen">
+
+    <![endif]-->
 
 
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/3Col_AF432B5349630A9B3C4A0BDD3743237C.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
+
+        <link rel="alternate" type="application/rss+xml" title="The environment (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=925&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Housing and property (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=211&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="International relations (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=919&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Culture, leisure and belief systems (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=920&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Terrorism (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1114&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Civil protection and defence (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=215&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Business and industry (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=926&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Law and order (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=923&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Crime and abuse (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1261&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Transport and communications (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=928&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Circular (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1762&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Speeches and articles (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1334&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Food, fisheries and agriculture (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=924&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Webcasts: Forthcoming  (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=538183&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Indigenous peoples and minorities (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=929&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Press releases (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1781&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Draft resolutions and bills  (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1753&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="The economy (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=931&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Labour and welfare (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=210&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="White papers  (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1754&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Whats new (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1150&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Official Norwegian Reports (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1767&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="International cooperation (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1166&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Families and upbringing (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=213&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Education and research (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=930&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Consumers (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=214&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Equality (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=922&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Agriculture (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=85943&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Public administration (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=927&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Health and care (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=917&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Energy (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=212&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Immigration and social inclusion (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=918&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="Municipalities and regions (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=921&amp;language=en-GB
+" />
+    
+        <link rel="alternate" type="application/rss+xml" title="News (Government.no) RSS feed" href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1170&amp;language=en-GB
+" />
+    
+
+
+
+<link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web02.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=478812" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web02.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=478812" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en/whatsnew/rss.html?id=478812" id="aspnetForm" enctype="multipart/form-data">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzNjkwMTc2MTgPZBYCZg9kFghmDxUCAmVuAmVuZAIBEGRkFgICAg9kFgZmDxYCHgRUZXh0BaIKPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZW5hbWUiIGNvbnRlbnQ9IlJTUyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2V0eXBlIiBjb250ZW50PSJSU1NPdmVyc2lrdCIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VpZCIgY29udGVudD0iNDc4ODEyIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZXN0YXR1cyIgY29udGVudD0iR3lsZGlnIiAvPg0KPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oub3duZXIiIGNvbnRlbnQ9Imdvdl9ubyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLmxhbmd1YWdlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IlRJVExFIiBjb250ZW50PSJSU1MiIC8+DQo8bWV0YSBuYW1lPSJEQy5UaXRsZSIgY29udGVudD0iUlNTIiAvPg0KPG1ldGEgbmFtZT0iREMuQ3JlYXRvciIgY29udGVudD0iR292ZXJubWVudC5ubyIgLz4NCjxtZXRhIG5hbWU9IkRDLkRhdGUiIGNvbnRlbnQ9IjIwMDktMDktMDMiIC8+DQo8bWV0YSBuYW1lPSJEQy5EYXRlLkF2YWlsYWJsZSIgY29udGVudD0iMjAwOS0wOS0wMyIgLz4NCjxtZXRhIG5hbWU9IkRDLlR5cGUuU3RhdHVzIiBjb250ZW50PSJHeWxkaWciIC8+DQo8bWV0YSBuYW1lPSJEQy5UeXBlIiBjb250ZW50PSJSU1NPdmVyc2lrdCIgLz4NCjxtZXRhIG5hbWU9IkRDLkZvcm1hdCIgY29udGVudD0idGV4dC9odG1sIiAvPg0KPG1ldGEgbmFtZT0iREMuSWRlbnRpZmllci5VUkwiIGNvbnRlbnQ9Ii9lbi93aGF0c25ldy9yc3MuaHRtbD9pZD00Nzg4MTIiIC8+DQo8bWV0YSBuYW1lPSJEQy5MYW5ndWFnZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJEQy5MYW5ndWFnZS5QcmVmZXJlbmNlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IkRDLlB1Ymxpc2hlciIgY29udGVudD0icmVnamVyaW5nZW4ubm8iIC8+DQo8bWV0YSBuYW1lPSJBVVRIT1IiIGNvbnRlbnQ9IkdvdmVybm1lbnQubm8iIC8+DQo8bWV0YSBuYW1lPSJjcmVhdGlvbl9kYXRlIiBjb250ZW50PSJUaHUsIDAzIFNlcCAyMDA5IDEyOjU2OjAwIEdNVCIgLz4NCjxtZXRhIG5hbWU9IkxBU1QtTU9ESUZJRUQiIGNvbnRlbnQ9IlRodSwgMDMgU2VwIDIwMDkgMTI6NTk6MTIgR01UIiAvPg0KPG1ldGEgbmFtZT0iUkVWSVNFRCIgY29udGVudD0iVGh1LCAwMyBTZXAgMjAwOSAxMjo1OToxMiBHTVQiIC8+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtTGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuIiAvPg0KZAIBDxYCHgdWaXNpYmxlaGQCAg8WAh4LXyFJdGVtQ291bnQCBRYKZg9kFgJmDxUCHU5ld3MgKEdvdmVybm1lbnQubm8pIFJTUyBmZWVkXWh0dHA6Ly93d3cucmVnamVyaW5nZW4ubm8vVXRpbGl0aWVzL1JTU0VuZ2luZS9yc3Nwcm92aWRlci5hc3B4P3BhZ2VpZD0xMTcwJmFtcDtsYW5ndWFnZT1lbi1HQmQCAQ9kFgJmDxUCJ1ByZXNzIHJlbGVhc2VzIChHb3Zlcm5tZW50Lm5vKSBSU1MgZmVlZF1odHRwOi8vd3d3LnJlZ2plcmluZ2VuLm5vL1V0aWxpdGllcy9SU1NFbmdpbmUvcnNzcHJvdmlkZXIuYXNweD9wYWdlaWQ9MTc4MSZhbXA7bGFuZ3VhZ2U9ZW4tR0JkAgIPZBYCZg8VAjNPZmZpY2lhbCBOb3J3ZWdpYW4gUmVwb3J0cyAoR292ZXJubWVudC5ubykgUlNTIGZlZWRdaHR0cDovL3d3dy5yZWdqZXJpbmdlbi5uby9VdGlsaXRpZXMvUlNTRW5naW5lL3Jzc3Byb3ZpZGVyLmFzcHg/cGFnZWlkPTE3NjcmYW1wO2xhbmd1YWdlPWVuLUdCZAIDD2QWAmYPFQIuU3BlZWNoZXMgYW5kIGFydGljbGVzIChHb3Zlcm5tZW50Lm5vKSBSU1MgZmVlZF1odHRwOi8vd3d3LnJlZ2plcmluZ2VuLm5vL1V0aWxpdGllcy9SU1NFbmdpbmUvcnNzcHJvdmlkZXIuYXNweD9wYWdlaWQ9MTMzNCZhbXA7bGFuZ3VhZ2U9ZW4tR0JkAgQPZBYCZg8VAiJXaGF0cyBuZXcgKEdvdmVybm1lbnQubm8pIFJTUyBmZWVkXWh0dHA6Ly93d3cucmVnamVyaW5nZW4ubm8vVXRpbGl0aWVzL1JTU0VuZ2luZS9yc3Nwcm92aWRlci5hc3B4P3BhZ2VpZD0xMTUwJmFtcDtsYW5ndWFnZT1lbi1HQmQCAxBkZBYKAgEPZBYGAgIPFQERI3F1aWNrc2VhcmNoaW5wdXRkAgsPZBYCZg8VAWkjY3RsMDBfRnVsbFJlZ2lvbl9DZW50ZXJBbmRSaWdodFJlZ2lvbl9SaWdodFJlZ2lvbl9SaWdodFJlZ2lvbkNvbnRhY3RJbmZvX1JlbGF0ZWRDb250YWN0MV9BcmVhQ29udGFjdEluZm9kAg0PZBYCZg9kFgJmD2QWAgIBD2QWCGYPDxYGHgdUb29sVGlwBS5LbGlrayBoZXIgZm9yIMOlIHZpc2UgZGVubmUgc2lkZW4gcMOlIGJva23DpWwuHwAFB0Jva23DpWweC05hdmlnYXRlVXJsBTQvdGVtcGxhdGVzL1JTU092ZXJzaWt0LmFzcHg/aWQ9NDc4ODEyJmVwc2xhbmd1YWdlPW5vZGQCAQ8PFgYfAwUtS2xpa2sgaGVyIGZvciDDpSB2aXNlIGRlbm5lIHNpZGEgcMOlIG55bm9yc2suHwAFB055bm9yc2sfBAU3L3RlbXBsYXRlcy9SU1NPdmVyc2lrdC5hc3B4P2lkPTQ3ODgxMiZlcHNsYW5ndWFnZT1ubi1OT2RkAgIPDxYGHwMFNENvYWhra2FsIGTDoWtrbyBkZSBvYWlubsOhdCBkw6FuIHNpaWRkdSBzw6FtZWdpbGxpaS4fAAULU8OhbWVnaWVsbGEfBAU3L3RlbXBsYXRlcy9SU1NPdmVyc2lrdC5hc3B4P2lkPTQ3ODgxMiZlcHNsYW5ndWFnZT1zZS1OT2RkAgMPDxYGHwMFIlRoaXMgcGFnZSBpcyBkaXNwbGF5ZWQgaW4gZW5nbGlzaC4fAAUHRW5nbGlzaB8EBTcvdGVtcGxhdGVzL1JTU092ZXJzaWt0LmFzcHg/aWQ9NDc4ODEyJmVwc2xhbmd1YWdlPWVuLUdCZGQCAg8VAQEgZAIDD2QWDGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAIBDxUBC1BvcnRhbCBob21lZAICD2QWBGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAICDxUDOi90ZW1wbGF0ZXMvR2VuZXJlbGxGb3JzaWRlLmFzcHg/aWQ9ODU4NDMmZXBzbGFuZ3VhZ2U9ZW4tR0IcU3RvbHRlbmJlcmcncyAybmQgR292ZXJubWVudDIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTkzMyZlcHNsYW5ndWFnZT1lbi1HQmQCAw8VASQvZGVmYXVsdC5hc3B4P2lkPTQmZXBzbGFuZ3VhZ2U9ZW4tR0JkAgQPFQENR292ZXJubWVudC5ub2QCBg9kFhJmD2QWBGYPZBYCZg9kFgQCAg8VBBtTZWFyY2ggYWxsIG9mIGdvdmVybm1lbnQubm8GU2VhcmNoEVF1aWNrU2VhcmNoQnV0dG9uBlNlYXJjaGQCAw8PFgQfAAUbU2VhcmNoIGFsbCBvZiBnb3Zlcm5tZW50Lm5vHwFoZGQCAQ8PFgIeC19pc0VkaXRhYmxlaGRkAgEPFQEeL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3RpcHMuZ2lmZAIFDxUBIS9zdHlsZXMvSW1hZ2VzL3N5bWJvbF9wcmludF90LmdpZmQCCA8VAyMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvc21hbGxUZXh0LmdpZiQvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbWVkaXVtVGV4dC5naWYjL3N0eWxlcy9JbWFnZXMvR2xvYmFsL2xhcmdlVGV4dC5naWZkAgkPZBYCZg8VAnVodHRwOi8vaXNpLnBob25ldGljb20uY29tL2NnaS1iaW4vcnN4dD91cmw9aHR0cDovL3d3dy5yZWdqZXJpbmdlbi5uby9lbi93aGF0c25ldy9yc3MuaHRtbD9pZD00Nzg4MTImYW1wO2N1c3RvbWVyaWQ9MTkfL3N0eWxlcy9JbWFnZXMvc3ltYm9sX2x5ZF90LmdpZmQCCg9kFgICAQ8PFgQfBAU2L3RlbXBsYXRlcy9UZW1hSW5kZWtzLmFzcHg/aWQ9MjIzNDg2JmVwc2xhbmd1YWdlPWVuLUdCHwAFClRvcGljcyBBLVpkZAILD2QWAgIBDw8WBB8EBTkvdGVtcGxhdGVzL05ldHRzdGVkc2thcnQuYXNweD9pZD0yMjMyNzQmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUIU2l0ZSBNYXBkZAIMDw8WBB8EBTUvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTQ4ODY0MSZlcHNsYW5ndWFnZT1lbi1HQh8ABQRIZWxwZGQCDQ8PFgQfBAVAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTIyNDYzNyZlcHNsYW5ndWFnZT1lbi1HQh8ABQdDb250YWN0ZGQCBA9kFgQCAQ9kFgYCAQ9kFgICAQ9kFgRmDw8WAh8BaGRkAgEPZBYQAgMPDxYCHwAFHVJlY2lwaWVudOKAmXMgZS1tYWlsIGFkZHJlc3M6ZGQCBw8PFgIeDEVycm9yTWVzc2FnZQUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAgkPDxYCHwYFJVlvdSBtdXN0IGdpdmUgYSB2YWxpZCBlLW1haWwgYWRkcmVzcy5kZAILDw8WAh8ABRRZb3VyIGUtbWFpbCBhZGRyZXNzOmRkAg8PDxYCHwYFJVlvdSBtdXN0IGdpdmUgYSB2YWxpZCBlLW1haWwgYWRkcmVzcy5kZAIRDw8WAh8GBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCEw8PFgIfAAUITWVzc2FnZTpkZAIXDw8WAh8ABQlTZW5kIG1haWxkZAIDD2QWBAIDD2QWAmYPFgIfAAW0AVlvdSBhcmUgaGVyZTogPGEgaHJlZj0iL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCIj5Hb3Zlcm5tZW50Lm5vPC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xMTUwJmVwc2xhbmd1YWdlPWVuLUdCIj5XaGF0cyBuZXc8L2E+IC8gPHNwYW4+UlNTPC9zcGFuPmQCBQ9kFgZmDxUBA1JTU2QCAQ8WAh8BaBYCZg8VAQBkAgMPFgIfAWgWAmYPFQEAZAIFD2QWBAIBD2QWAgIBD2QWAmYPFgIeBWNsYXNzBRBEZXBQcm9maWxlTm9TaG93FgJmDxUBJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQmQCBw9kFgICAQ9kFgoCAg8PFgIfAWhkFgJmD2QWAgIBDxYEHgpfc29ydE9yZGVyCylzRVBpU2VydmVyLkZpbHRlcnMuRmlsdGVyU29ydE9yZGVyLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwgfAWhkAgQPDxYCHwFoZBYCZg9kFgICAQ8WBB8ICysECB8BaGQCBg8PFgIfAWhkFgJmD2QWAgIBDxYEHwgLKwQIHwFoZAIIDw8WAh8BaGQWAmYPZBYCAgEPFgIfAWhkAgoPDxYCHwFoZBYCZg9kFgICAQ8WBB8ICysEAx8BaGQCAw9kFgICAQ9kFgQCAQ9kFgJmDxUCJC9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQgtQb3J0YWwgaG9tZWQCAw8WBh4JX1BhZ2VMaW5rKCluRVBpU2VydmVyLkNvcmUuUGFnZVJlZmVyZW5jZSwgRVBpU2VydmVyLCBWZXJzaW9uPTUuMi4zNzUuMjM2LCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPThmZTgzZGVhNzM4YjQ1YjcBNB4PX051bWJlck9mTGV2ZWxzAgoeCl9FeHBhbmRBbGxoFigCAQ9kFgJmDxUBCFNlbGVjdGVkZAICD2QWAmYPFQQAOC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xMTUwJmVwc2xhbmd1YWdlPWVuLUdCAAlXaGF0cyBuZXdkAgQPZBYCZg8VAQBkAgUPZBYCZg8VAzgvdGVtcGxhdGVzL0tvbmZpZ3VyZXJ0U29rLmFzcHg/aWQ9MTE3MCZlcHNsYW5ndWFnZT1lbi1HQgAETmV3c2QCBw9kFgJmDxUBAGQCCA9kFgJmDxUDMi90ZW1wbGF0ZXMvY2FsZW5kYXIuYXNweD9pZD0xMzMwJmVwc2xhbmd1YWdlPWVuLUdCAAhDYWxlbmRhcmQCCg9kFgJmDxUBAGQCCw9kFgJmDxUDOC90ZW1wbGF0ZXMvS29uZmlndXJlcnRTb2suYXNweD9pZD0xMzM0JmVwc2xhbmd1YWdlPWVuLUdCABVTcGVlY2hlcyBhbmQgYXJ0aWNsZXNkAg0PZBYCZg8VAQhTZWxlY3RlZGQCDg9kFgJmDxUDNy90ZW1wbGF0ZXMvUlNTT3ZlcnNpa3QuYXNweD9pZD00Nzg4MTImZXBzbGFuZ3VhZ2U9ZW4tR0IAA1JTU2QCEg9kFgJmDxUBAGQCEw9kFgJmDxUDOi90ZW1wbGF0ZXMvUG9ydGFsVGVtYUZvcnNpZGUuYXNweD9pZD0yMDgmZXBzbGFuZ3VhZ2U9ZW4tR0IABlRvcGljc2QCFQ9kFgJmDxUBAGQCFg9kFgJmDxUDQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00MzkyNzkmZXBzbGFuZ3VhZ2U9ZW4tR0IACURvY3VtZW50c2QCGA9kFgJmDxUBAGQCGQ9kFgJmDxUDQC90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD00Mzc0OTUmZXBzbGFuZ3VhZ2U9ZW4tR0IAB1dlYmNhc3RkAhsPZBYCZg8VAQBkAhwPZBYCZg8VAzQvdGVtcGxhdGVzL0thbXBhbmplLmFzcHg/aWQ9NDQzMzE0JmVwc2xhbmd1YWdlPWVuLUdCAA5UaGUgR292ZXJubWVudGQCHg9kFgJmDxUBAGQCHw9kFgJmDxUDNi90ZW1wbGF0ZXMvU2VhcmNoUGFnZS5hc3B4P2lkPTExNTMyMiZlcHNsYW5ndWFnZT1lbi1HQgAQRG9jdW1lbnQgQXJjaGl2ZWQCBQ9kFgICAQ9kFgJmDxUB+gE8cD5Hb3Zlcm5tZW50IEFkbWluaXN0cmF0aW9uIFNlcnZpY2VzLCBFaW5hciBHZXJoYXJkc2VucyBwbGFzcyAzLCBQb3N0Ym94IDgxMjkgRGVwLCAwMDMyIE9TTE8sIE5vcndheSZuYnNwOzxiciAvPlRsZjogKyA0NyAyMiAyNCA5MCA5MCB8IEUtbWFpbDogPGEgaHJlZj0ibWFpbHRvOnJlZGFrc2pvbmVuQGRzcy5kZXAubm8iPjxmb250IGNvbG9yPSIjODAwMDgwIj5yZWRha3Nqb25lbkBkc3MuZGVwLm5vPC9mb250PjwvYT4mbmJzcDs8L3A+ZAIFD2QWAmYPFQEYL3NjcmlwdC9qcy9zZGNfMDkwODE5LmpzZBgLBZsBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSRBc3NvY2lhdGVkRXh0ZXJuYWxPcmckVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAWZAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkUmVsYXRlZExvdkZvcnNrcmlmdCRUb3BpY01hcE9uZUhvcFBhZ2VMaXN0MQ8PZmRkBZsBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRTdGFuZGFyZEdyb3VwaW5nRG9jdW1lbnRDb250ZXh0MSREb2N1bWVudFJlbGF0aW9uc2hpcDIkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAVCY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kcG9kY2FzdFBhZ2VMaXN0Dw9mZGQFJWN0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JHV4Vmlld3MPD2RmZAWSAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkSG9yaW5nc05vdGF0JFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JE11bHRpUGFnZUxpc3QPD2ZkZAWRAWN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkU3RhbmRhcmRHcm91cGluZ0RvY3VtZW50Q29udGV4dDEkSG9yaW5nc0ZseXQkVG9waWNNYXBPbmVIb3BQYWdlTGlzdDEPD2ZkZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRkBWJjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uJFJpZ2h0UmVnaW9uQ29udGFjdEluZm8kUmVsYXRlZENvbnRhY3QxJFBhZ2VMaXN0MQ8PZmRkBT5jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRyc3NQYWdlTGlzdA8PZmRkf2dhHKu7H3s36HH14PSw9+pTaas=" />
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/en/whatsnew/rss.html?id=478812" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTgyNzExNTE1OWQYDAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRkBYABY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRBc3NvY2lhdGVkRXh0ZXJuYWxPcmckUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAV+Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRSZWxhdGVkTG92Rm9yc2tyaWZ0JFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFPmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJHJzc1BhZ2VMaXN0Dw9mZGQFeGN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkY3RsMDAkSG9lcmluZ3NOb3RhdCRSZWxhdGlvbk9uZUhvcFBhZ2VMaXN0MQ8PZmRkBYEBY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCREb2N1bWVudFJlbGF0aW9uc2hpcDIkUmVsYXRpb25zT25lSG9wUGFnZUxpc3QxDw9mZGQFYmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Db250YWN0SW5mbyRSZWxhdGVkQ29udGFjdDEkUGFnZUxpc3QxDw9mZGQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDAxJE11bHRpUGFnZUxpc3QPD2ZkZAV1Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRjdGwwMCRIb2VyaW5nRm9yJFJlbGF0aW9uT25lSG9wUGFnZUxpc3QxDw9mZGQFHWN0bDAwJFJlcXVpcmVkUmVzb3VyY2VzSGVhZGVyDwUGSGVhZGVyZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDEkdXhWaWV3cw8PZGZkBU9jdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJFRpcEFGcmllbmRQbGFjZWhvbGRlciRUaXBBRnJpZW5kJFRpcFZpZXdzDw9kAgFkR6+LSnOpsgho0gIFiHJXrEGDd9A=" />
 </div>
 
+
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAdp9/db940s6+Ic0LuFaxVkBMVExvKpsjSyWhFzdTDXQdZdaX9ImkQXICqL304eO0T0gj75UQ9fU7oniCuKKB90LtoGARvq0HfwzdD5C1xPl1zcSGLuJnn1LsnNPrGy3b0CPsJsdyXXHy+3yhLCVdHJQ+63V3xiKKHQZ7IBCTCsKMrfW8w=" />
+</div>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Go to contact information</a></li>
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">Go to search</a><a href="#Content" tabindex="3">Go to content</a><a href="#AreaTopSiteNav" tabindex="4">Go to top menu</a><a href="#AreaLeft" tabindex="5">Go to left menu</a>
+    
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/aktuelt/rss.html?id=478812">Bokmål</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/aktuelt/RSS.html?id=478812">Nynorsk</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/aigeguovdil/RSS.html?id=478812">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/whatsnew/rss.html?id=478812">English</a></li>
+        <li class="First Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/aktuelt/rss.html?id=478812">Bokmål</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Klikk her for å vise denne sida på nynorsk." class="ISI_IGNORE" href="/nn/aktuelt/rss.html?id=478812">Nynorsk</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/aigeguovdil/rss.html?id=478812">Sámegiella</a></li>
+        <li class="Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="This page is displayed in english." class="ISI_IGNORE" href="/en/whatsnew/rss.html?id=478812">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/en.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/en.html?id=4" tabindex="20">
+                                            government.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/en/the-government/solberg/members-of-the-government-2.html?id=543170' class="ISI_MENU" tabindex="21">Solberg’s Government</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/en/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Ministries
+                                        </a>
+                                        
     <ul>
   
     <li>
@@ -123,7 +234,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+        <a href="/en/dep/asd.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour and Social Affairs</a>
     </li>
   
     <li>
@@ -135,14 +246,6 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
-    </li>
-  
-    <li>
         <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
     </li>
   
@@ -151,15 +254,19 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
+        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and Public Security</a>
     </li>
   
     <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
+        <a href="/en/dep/kld.html?id=668" class="NormalLink ISI_MENU">Ministry of Climate and Environment</a>
     </li>
   
     <li>
-        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
+        <a href="/en/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Modernisation</a>
+    </li>
+  
+    <li>
+        <a href="/en/dep/kud.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
     </li>
   
     <li>
@@ -171,11 +278,7 @@ function printPage()
     </li>
   
     <li>
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+        <a href="/en/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade, Industry and Fisheries</a>
     </li>
   
     <li>
@@ -194,235 +297,69 @@ function printPage()
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en.html?id=4"><img class="ProfileLogo" src="/styles/Images/DEP/DEP_en.gif" alt='Government.no' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/en.html?id=4" tabindex="34"><img class="ProfileLogo" src="/styles/Images/DEP/DEP_en.gif" alt='Government.no' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
     <label for="quicksearchinput" class="QuickSearchHeader">Search all of government.no</label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Search" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Search" />        
     <span></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Share/Send' /><span class="open" id="open">Share/Send</span><span class="display-none" id="close">Close</span></a></li>
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/whatsnew/rss.html?id=478812&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/sitemap.html?id=223274">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/contact.html?id=224637">Contact</a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+        <li class="Share">
+            <noscript>
+                <a href="http://www.regjeringen.no/templates/RSSOversikt.aspx?id=478812&amp;epslanguage=en-GB&amp;tipafriend=1" id="noScriptTipLink" rel="nofollow" tabindex="72"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                        vertical-align: middle; height: 1em;" alt='Share/Send' />Share/Send</a></noscript>
+            <a onclick="return displayTipAFriendForm();" id="TopRegion_TopRightRegion_ctl00_tipAFriendLink" tabindex="34" class="display-none" href="javascript:__doPostBack(&#39;ctl00$TopRegion$TopRightRegion$ctl00$tipAFriendLink&#39;,&#39;&#39;)"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                    vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Share/Send' /><span id="open">Share/Send</span><span id="close" style="display: none;">Close</span></a>
+        </li>
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Click here to print this page' />Print</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/templates/RSSOversikt.aspx?id=478812&amp;epslanguage=en-GB&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal font size' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/RSSOversikt.aspx?id=478812&amp;epslanguage=en-GB&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium font size' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/RSSOversikt.aspx?id=478812&amp;epslanguage=en-GB&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Large font size' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/whatsnew/rss.html?id=478812&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Click here to activate ReadSpeaker' />Listen to the text
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/en/sitemap.html?id=223274">Site Map</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/en/contact.html?id=224637">Contact</a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
-                        <div id="AreaContentAndRight">
-                            
-                                <div id="AreaContent">
-                                    <div id="slickbox" style="display:none;">
-                                       
-                                            
-<script type="text/javascript"><!--
-function fbs_click() 
-{
-    u=location.href;
-    t=document.title;
-    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
-    return false;
-}
-function nettby_click(pageurl,pagename)
-{
-    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
-    wnd.focus();
-    return false;
-}
-function GetThis(T, C, U, L) 
-{
-	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
-	wnd = window.open(targetUrl);
-	wnd.focus();
-	return false;
-}
---></script>
-
-
-
-    <div id="thankyouview">
-        <div id="thankyoudiv"></div>        
-    </div>
-    <div id="tipafriend">
-        <div id="tipafriendContent">
-            
-            <div>
-	  
-                <p><strong>Share this page with a friend </strong></p>
-                <ol>
-                    <li>
-                        
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
-                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
-                    </li>
-                    <li>
-                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
-                    </li>
-                    <li>
-                                                         
-                    </li>
-                </ol>                          
-            
-</div>
-        </div> 
-    </div>
-    <div id="ShareArticle">
-        <p><strong>Share</strong></p>
-        <ul class="communities">        
-            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/whatsnew/rss.html?id=478812" target="_blank">Facebook</a></li>            
-            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/en/whatsnew/rss.html?id=478812', 'RSS')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/en/whatsnew/rss.html?id=478812&amp;description=RSS' target="_blank">Nettby</a></li>
-            <li><a class="share_myspace" href="#" onclick="return GetThis('RSS','','http://www.regjeringen.no/en/whatsnew/rss.html?id=478812',3)">Myspace</a></li>
-            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
-        </ul>
-    </div>
-
-
-
-                                        
-                                    </div>
-                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
-                                    
-    
-    
-    
-    
-    <p class="breadcrumbs">You are here: <a href="/en.html?id=4">Government.no</a> / <a href="/en/whatsnew.html?id=1150">Whats new</a> / <span>RSS</span>
-</p>
-    <div class="documentTop">        
-        <h1>RSS</h1>
-        
-                
-     </div>
-    
-    
-            <div class="documentBody">
-        
-            <div class="ArticleView"> 
-                <h2><a href="/en/whatsnew/news.html?id=1170" title="News (Government.no)">News</a></h2>
-                <p>(Government.no) </p>
-                <p>Press releases and news articles from the Office of the Prime Minister and the Ministries.
-</p>
-                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1170&amp;language=en-GB" title='Subscribe to RSS feed: News (Government.no)'><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
-            </div>            
-        
-            <div class="ArticleView"> 
-                <h2><a href="/en/doc/norwegian-official-reports.html?id=1767" title="Official Norwegian Reports (Government.no)">Official Norwegian Reports</a></h2>
-                <p>(Government.no) </p>
-                <p>Official Norwegian Reports from the Office of the Prime Minister and the Ministries.  
-</p>
-                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1767&amp;language=en-GB" title='Subscribe to RSS feed: Official Norwegian Reports (Government.no)'><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
-            </div>            
-        
-            <div class="ArticleView"> 
-                <h2><a href="/en/presse/press-releases.html?id=1781" title="Press releases (Government.no)">Press releases</a></h2>
-                <p>(Government.no) </p>
-                <p>Press releases from the Office of the Prime Minister and the Ministries.</p>
-                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1781&amp;language=en-GB" title='Subscribe to RSS feed: Press releases (Government.no)'><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
-            </div>            
-        
-            <div class="ArticleView"> 
-                <h2><a href="/en/whatsnew/speeches_articles.html?id=1334" title="Speeches and articles (Government.no)">Speeches and articles</a></h2>
-                <p>(Government.no) </p>
-                <p></p>
-                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1334&amp;language=en-GB" title='Subscribe to RSS feed: Speeches and articles (Government.no)'><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
-            </div>            
-        
-            <div class="ArticleView"> 
-                <h2><a href="/en/whatsnew.html?id=1150" title="Whats new (Government.no)">Whats new</a></h2>
-                <p>(Government.no) </p>
-                <p></p>
-                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1150&amp;language=en-GB" title='Subscribe to RSS feed: Whats new (Government.no)'><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
-            </div>            
-        
-            </div>
-        
-    
-    
-                  
-	<div class="printContact">
-		
-	</div>
-
-                                </div>
-                                <div id="AreaRight"> 
-                                    
-                                        
-                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfileNoShow"><a href='/en.html?id=4'></a></div>
-                                        
-                                        
-    
-
-                                        
-                                        
-    
-
-     
-     
-    
-    
-     
-        
-                                        
-                                                                        
-                                        
-     
-
-                                                                                                   
-                                </div>
-                            
-                        </div>
                         <div id="AreaLeft">
-                              
+                            
                                 <div id="AreaLeftNav" class="NavListV">
                                     
 
@@ -430,109 +367,595 @@ function GetThis(T, C, U, L)
 <a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
 
     <ul>
-        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en.html?id=4">
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en.html?id=4" tabindex="41">
             Portal home</a></li></ul>
 
 <ul><li class="Selected">
-        <a class="ISI_MENU " href="/en/whatsnew.html?id=1150" title=''>
+        <a class="ISI_MENU Selected" href="/en/whatsnew.html?id=1150" title="" tabindex="42">
             Whats new</a>
     <ul><li class="">
-        <a class="ISI_MENU" href="/en/whatsnew/news.html?id=1170" title=''>
+        <a class="ISI_MENU" href="/en/whatsnew/news.html?id=1170" title="" tabindex="43">
             News</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/whatsnew/Calendar.html?id=1330" title=''>
+        <a class="ISI_MENU" href="/en/whatsnew/Calendar.html?id=1330" title="" tabindex="44">
             Calendar</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/whatsnew/speeches_articles.html?id=1334" title=''>
+        <a class="ISI_MENU" href="/en/whatsnew/speeches_articles.html?id=1334" title="" tabindex="45">
             Speeches and articles</a>
-    </li><li class="Selected">
-        <a class="Selected ISI_MENU" href="/en/whatsnew/rss.html?id=478812" title=''>
-            RSS</a>
     </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/topics.html?id=208" title=''>
+        <a class="ISI_MENU" href="/en/topics.html?id=208" title="" tabindex="46">
             Topics</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/doc.html?id=439279" title=''>
+        <a class="ISI_MENU" href="/en/doc.html?id=439279" title="" tabindex="47">
             Documents</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/webcast.html?id=437495" title=''>
+        <a class="ISI_MENU" href="/en/webcast.html?id=437495" title="" tabindex="48">
             Webcast</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/the-government.html?id=443314" title=''>
+        <a class="ISI_MENU" href="/en/the-government.html?id=443314" title="" tabindex="49">
             The Government</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/archive.html?id=115322" title=''>
+        <a class="ISI_MENU" href="/en/archive.html?id=115322" title="" tabindex="50">
             Document Archive</a>
     </li></ul>
 
                                 </div>
-                              
+                                
+                                
+                            
+                        </div>
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="FullRegion_CenterAndRightRegion_slickbox" class="slickbox" style="display: none;">
+                                        
+                                            
+<script type="text/javascript"><!--
+    function facebook_click() {
+        u = location.href;
+        t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+        return false;
+    }
+    function twitter_click() {
+        u = location.href;
+        t = encodeURIComponent('RSS');
+        window.open('http://twitter.com/share?url=' + encodeURIComponent(u) + '&text=' + t, 'sharer', 'toolbar=0,status=0,width=350,height=230');
+        return false;
+    }
+--></script>
+<div id="thankyouview">
+    <div id="thankyoudiv">
+        
+    </div>
+</div>
+<div id="tipafriend">
+    <div id="tipafriendContent">
+        
+                <div>
+	
+                    <div id="TipAFriendForm">
+                        <fieldset>
+                            <legend><strong>
+                                Share this page with a friend 
+                            </strong></legend>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
+                                <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;">
+</textarea>
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="setTipClicked();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitTextBox" style="display: none;
+                                    width: 10px;" />
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                
+                            </div>
+                        </fieldset>
+                    </div>
+                
+</div>
+            
+    </div>
+</div>
+<div id="ShareArticle">
+    <p>
+        <strong>
+            Share
+        </strong>
+    </p>
+    <ul class="communities">
+        <li><a class="share_facebook" onclick="return facebook_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/whatsnew/rss.html?id=478812" target="_blank">
+            Facebook</a></li>
+        <li><a class="share_twitter" onclick="return twitter_click()" href="http://twitter.com/share?url=http://www.regjeringen.no/en/whatsnew/rss.html?id=478812&amp;text=RSS" target="_blank">
+            Twitter</a></li>
+        <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">
+            Origo</a></li>
+    </ul>
+</div>
+
+                                        
+                                    </div>
+                                    
+    
+
+    
+    
+    
+
+<div class="breadcrumbs ">
+
+    
+               <span>
+                   You are here: 
+               </span>
+                
+                <ul class="breadcrumbmenu">
+            
+                <li><a href="/en.html?id=4" title="Government.no">Government.no</a> / </li>
+            
+                <li><a href="/en/whatsnew.html?id=1150" title="Whats new">Whats new</a> / </li>
+            
+                <li><span>RSS</span></li>
+            
+                </ul>
+            
+</div>
+    
+        <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+        <div class="documentTop">        
+            <h1>RSS-feed</h1>
+            
+         </div>
+     
+    
+    
+            <div class="documentBody">
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/food-fisheries-and-agriculture/agriculture.html?id=85943" title="Agriculture (Government.no)">Agriculture</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=85943&amp;language=en-GB" title="Subscribe to RSS feed: Agriculture (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/business-and-industry.html?id=926" title="Business and industry (Government.no)">Business and industry</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=926&amp;language=en-GB" title="Subscribe to RSS feed: Business and industry (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/doc/consultation-papers.html?id=1762" title="Circular (Government.no)">Circular</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1762&amp;language=en-GB" title="Subscribe to RSS feed: Circular (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/civil-protection-and-defence.html?id=215" title="Civil protection and defence (Government.no)">Civil protection and defence</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=215&amp;language=en-GB" title="Subscribe to RSS feed: Civil protection and defence (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/consumers.html?id=214" title="Consumers (Government.no)">Consumers</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=214&amp;language=en-GB" title="Subscribe to RSS feed: Consumers (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/law-and-order/crime-and-abuse.html?id=1261" title="Crime and abuse (Government.no)">Crime and abuse</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1261&amp;language=en-GB" title="Subscribe to RSS feed: Crime and abuse (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/culture-leisure-and-belief-systems.html?id=920" title="Culture, leisure and belief systems (Government.no)">Culture, leisure and belief systems</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=920&amp;language=en-GB" title="Subscribe to RSS feed: Culture, leisure and belief systems (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/doc/propositions-and-reports-/draft-resolutions-and-bills-.html?id=1753" title="Draft resolutions and bills  (Government.no)">Draft resolutions and bills </a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1753&amp;language=en-GB" title="Subscribe to RSS feed: Draft resolutions and bills  (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/education-and-research.html?id=930" title="Education and research (Government.no)">Education and research</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=930&amp;language=en-GB" title="Subscribe to RSS feed: Education and research (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/energy.html?id=212" title="Energy (Government.no)">Energy</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=212&amp;language=en-GB" title="Subscribe to RSS feed: Energy (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/equality.html?id=922" title="Equality (Government.no)">Equality</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=922&amp;language=en-GB" title="Subscribe to RSS feed: Equality (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/families-and-upbringing.html?id=213" title="Families and upbringing (Government.no)">Families and upbringing</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=213&amp;language=en-GB" title="Subscribe to RSS feed: Families and upbringing (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/food-fisheries-and-agriculture.html?id=924" title="Food, fisheries and agriculture (Government.no)">Food, fisheries and agriculture</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=924&amp;language=en-GB" title="Subscribe to RSS feed: Food, fisheries and agriculture (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/health-and-care.html?id=917" title="Health and care (Government.no)">Health and care</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=917&amp;language=en-GB" title="Subscribe to RSS feed: Health and care (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/housing-and-property.html?id=211" title="Housing and property (Government.no)">Housing and property</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=211&amp;language=en-GB" title="Subscribe to RSS feed: Housing and property (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/immigration-and-social-inclusion.html?id=918" title="Immigration and social inclusion (Government.no)">Immigration and social inclusion</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=918&amp;language=en-GB" title="Subscribe to RSS feed: Immigration and social inclusion (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/indigenous-peoples-and-minorities.html?id=929" title="Indigenous peoples and minorities (Government.no)">Indigenous peoples and minorities</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=929&amp;language=en-GB" title="Subscribe to RSS feed: Indigenous peoples and minorities (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/international-relations/international-cooperation.html?id=1166" title="International cooperation (Government.no)">International cooperation</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1166&amp;language=en-GB" title="Subscribe to RSS feed: International cooperation (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/international-relations.html?id=919" title="International relations (Government.no)">International relations</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=919&amp;language=en-GB" title="Subscribe to RSS feed: International relations (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/engelsk-tema.html?id=210" title="Labour and welfare (Government.no)">Labour and welfare</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=210&amp;language=en-GB" title="Subscribe to RSS feed: Labour and welfare (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/law-and-order.html?id=923" title="Law and order (Government.no)">Law and order</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=923&amp;language=en-GB" title="Subscribe to RSS feed: Law and order (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/municipalities-and-regions.html?id=921" title="Municipalities and regions (Government.no)">Municipalities and regions</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=921&amp;language=en-GB" title="Subscribe to RSS feed: Municipalities and regions (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/whatsnew/news.html?id=1170" title="News (Government.no)">News</a></h2>
+                <p>(Government.no) </p>
+                <p>Press releases and news articles from the Office of the Prime Minister and the Ministries.
+</p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1170&amp;language=en-GB" title="Subscribe to RSS feed: News (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/doc/norwegian-official-reports.html?id=1767" title="Official Norwegian Reports (Government.no)">Official Norwegian Reports</a></h2>
+                <p>(Government.no) </p>
+                <p>Official Norwegian Reports from the Office of the Prime Minister and the Ministries.  
+</p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1767&amp;language=en-GB" title="Subscribe to RSS feed: Official Norwegian Reports (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/presse/press-releases.html?id=1781" title="Press releases (Government.no)">Press releases</a></h2>
+                <p>(Government.no) </p>
+                <p>Press releases from the Office of the Prime Minister and the Ministries.</p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1781&amp;language=en-GB" title="Subscribe to RSS feed: Press releases (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/public-administration.html?id=927" title="Public administration (Government.no)">Public administration</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=927&amp;language=en-GB" title="Subscribe to RSS feed: Public administration (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/whatsnew/speeches_articles.html?id=1334" title="Speeches and articles (Government.no)">Speeches and articles</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1334&amp;language=en-GB" title="Subscribe to RSS feed: Speeches and articles (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/civil-protection-and-defence/Terrorism.html?id=1114" title="Terrorism (Government.no)">Terrorism</a></h2>
+                <p>(Government.no) </p>
+                <p>Norway is strongly involved in the war on international terrorism. It can only be won by making use of a wide range of methods, including political, humanitarian, economic, legal and military means.</p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1114&amp;language=en-GB" title="Subscribe to RSS feed: Terrorism (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/the-economy.html?id=931" title="The economy (Government.no)">The economy</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=931&amp;language=en-GB" title="Subscribe to RSS feed: The economy (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/the-environment.html?id=925" title="The environment (Government.no)">The environment</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=925&amp;language=en-GB" title="Subscribe to RSS feed: The environment (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/topics/transport-and-communications.html?id=928" title="Transport and communications (Government.no)">Transport and communications</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=928&amp;language=en-GB" title="Subscribe to RSS feed: Transport and communications (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/webcast/gamle-sider/webcasts-forthcoming-.html?id=538183" title="Webcasts: Forthcoming  (Government.no)">Webcasts: Forthcoming </a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=538183&amp;language=en-GB" title="Subscribe to RSS feed: Webcasts: Forthcoming  (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/whatsnew.html?id=1150" title="Whats new (Government.no)">Whats new</a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1150&amp;language=en-GB" title="Subscribe to RSS feed: Whats new (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            <div class="ArticleView"> 
+                <h2><a href="/en/doc/propositions-and-reports-/white-papers-.html?id=1754" title="White papers  (Government.no)">White papers </a></h2>
+                <p>(Government.no) </p>
+                <p></p>
+                <p class="ArticleViewRSS"><a href="http://www.regjeringen.no/Utilities/RSSEngine/rssprovider.aspx?pageid=1754&amp;language=en-GB" title="Subscribe to RSS feed: White papers  (Government.no)"><img alt="" class="feedIcon" src="/Images/rss.gif" /> RSS feed</a></p>
+            </div>            
+        
+            </div>
+        
+                     
+    <div class="printContact">
+        
+    </div>
+    
+
+                                    
+                                        
+                                    
+
+                                    
+
+                                </div>
+                                <div id="AreaRight">
+                                    
+                                        
+                                            
+                                        
+                                        
+                                            
+                                        
+                                        
+                                        
+                                        
+                                            
+
+
+
+
+
+
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                            
+                                        
+                                        
+                                    
+                                </div>
                             
                         </div>
                     
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
+                    
                     <!-- ISI_STOP -->
-                </div>
                 </div>
             </div>
         </div>
-        
-         
-<div id="PageFooter"><p>Government Administration Services, Einar Gerhardsens plass 3, Postbox 8129 Dep, 0032 OSLO, Norway&nbsp;<br />Tlf: + 47 22 24 90 90 | E-mail: <img id='Eoi_1' class='obfimg' src='/images/emailimages/cc8068e7cd4930f223ca4cb5bf0fccf1.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', 'DBE5BAF4E7E5AFB5B4BDF4E7B4B5F5ABBEBFF5A8A8BF9BB5BEB5B4B1A8B0BABFBEA9E5F9EBE3EBEBEBE3F8F9E6A9B4B7B4B8FBAFB5B4BDE7E5F9B4B5F5ABBEBFF5A8A8BF9BB5BEB5B4B1A8B0BABFBEA9E1B4AFB7B2BAB6F9E6BDBEA9B3FBBAE7'));//--></script>&nbsp;</p></div>
-        
-        
-                    
-        
-    </form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
-	
-} else
-{    
-    //setAreaHeights();
-}
+    </div>
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
+        
+<div id="PageFooter"><p>Government Administration Services, Postbox 8129 Dep, 0032 OSLO, Norway&nbsp;<br />Tlf: + 47 22 24 90 90 | E-mail: <img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/7e9be61f8efe803a769b5c63116adc10.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, '6D530C425153030C1D1E42510203431D0809431E1E092D03080302071E060C09081F534F565D555D5D5D554E4D571F0201020E4F50080114191E4D030C1D1E51534F0203431D0809431E1E092D03080302071E060C09081F57021901040C004F500B081F054D0C51'));//--></script>&nbsp;</p></div>
+<div title="web02" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web02" /></div>
+    
+    
+    
+        
 
-<div id="ctl00_externalPageTrackers">
+
+    
+    </form>
+    <div id="externalPageTrackers">
 	
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
+    
+</div>       
+    
+    
 
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<div>
+    
 <script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no uses cookies to improve our service to the users. The cookies are mainly used for traffic measuring and for optimizing the site. Find more information on ",
+            messagepart2: ", or go back to regjeringen.no if you accept this.",
+            readMoreUrl: "http://www.regjeringen.no/en/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "use of cookies",
+            closeText: "Close"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
 //--></script>
-<!-- END Xtractor client tracker script -->
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
 
 </div>
+
+
+    
+
 </body>
 </html>

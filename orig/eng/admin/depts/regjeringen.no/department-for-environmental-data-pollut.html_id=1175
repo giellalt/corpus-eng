@@ -1,513 +1,271 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="no" lang="no">
 <head>
-<!-- ISI_NOAUTOLANG -->
-<title>
-	Department for Climate Change and Pollution Control - regjeringen.no
+    <!-- ISI_NOAUTOLANG -->
+    <title>
+	Klimaavdelingen - regjeringen.no
 </title>
 <meta name="format-detection" content="telephone=no" />
-<meta name="DCSext.regj.pagename" content="Department for Climate Change and Pollution Control" />
+<meta name="WT.ti" content="Klimaavdelingen" />
 <meta name="DCSext.regj.pagetype" content="Avdeling" />
-<meta name="DCSext.regj.pageid" content="1175" />
-<meta name="DCSext.regj.pagestatus" content="Gyldig" />
-<meta name="DCSext.regj.owner" content="md" />
-<meta name="DCSext.regj.language" content="en-GB" />
-<meta name="TITLE" content="Department for Climate Change and Pollution Control" />
-<meta name="description" content="The department consists of three sections and an administrative unit. The department’s responsibilities includes development of environmental policies and strategies in the areas of climate and energy, including the Governments International Climate an..." />
-<meta name="DC.Title" content="Department for Climate Change and Pollution Control" />
-<meta name="DC.Creator" content="Ministry of the Environment" />
-<meta name="DC.Description" content="The department consists of three sections and an administrative unit. The department’s responsibilities includes development of environmental policies and strategies in the areas of climate and energy, including the Governments International Climate an..." />
-<meta name="DC.Date" content="2006-11-08" />
-<meta name="DC.Date.Available" content="2006-11-08" />
+<meta name="DCSext.regj.owner" content="kld" />
+<meta name="DCSext.regj.language" content="no" />
+<meta name="DCSext.regj_lv2" content="dep" />
+<meta name="DCSext.regj_lv3" content="kld" />
+<meta name="DCSext.regj_lv4" content="dep" />
+<meta name="DCSext.regj_lv5" content="organsisasjon" />
+<meta name="DCSext.regj_lv6" content="avdelinger" />
+<meta name="DCSext.regj_lv7" content="klimaavdelingen" />
+<meta name="DCSext.regj_g-page" content="1175-g-page" />
+<meta name="TITLE" content="Klimaavdelingen" />
+<meta name="description" content="Avdelingen består av 4 enheter, inkludert Regjeringens klima- og skogprosjekt samt en administrativ enhet. Avdelingen har ansvar for internasjonalt arbeid og nasjonal politikkutvikling innenfor klimaområdet samt lokal luftkvalitet og støy. 
+Avdelingen..." />
+<meta name="DC.Title" content="Klimaavdelingen" />
+<meta name="DC.Creator" content="Klima- og miljødepartementet" />
+<meta name="DC.Description" content="Avdelingen består av 4 enheter, inkludert Regjeringens klima- og skogprosjekt samt en administrativ enhet. Avdelingen har ansvar for internasjonalt arbeid og nasjonal politikkutvikling innenfor klimaområdet samt lokal luftkvalitet og støy. 
+Avdelingen..." />
+<meta name="DC.Date" content="2006-06-16" />
+<meta name="DC.Date.Available" content="2006-06-16" />
 <meta name="DC.Type.Status" content="Gyldig" />
 <meta name="DC.Type" content="Avdeling" />
 <meta name="DC.Format" content="text/html" />
-<meta name="DC.Identifier.URL" content="/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut.html?id=1175" />
-<meta name="DC.Language" content="en-GB" />
-<meta name="DC.Language.Preference" content="en-GB" />
+<meta name="DC.Identifier.URL" content="/nb/dep/kld/dep/organsisasjon/avdelinger/klimaavdelingen.html?id=1175" />
+<meta name="DC.Language" content="no" />
+<meta name="DC.Language.Preference" content="no" />
+<meta name="DCSext.regj.lang-pref" content="no" />
 <meta name="DC.Publisher" content="regjeringen.no" />
-<meta name="AUTHOR" content="Ministry of the Environment" />
-<meta name="creation_date" content="Wed, 08 Nov 2006 15:19:00 GMT" />
-<meta name="LAST-MODIFIED" content="Wed, 08 Nov 2006 15:25:28 GMT" />
-<meta name="REVISED" content="Wed, 08 Nov 2006 15:25:28 GMT" />
+<meta name="AUTHOR" content="Klima- og miljødepartementet" />
+<meta name="creation_date" content="Fri, 16 Jun 2006 09:43:00 GMT" />
+<meta name="LAST-MODIFIED" content="Fri, 16 Jun 2006 09:45:16 GMT" />
+<meta name="REVISED" content="Fri, 16 Jun 2006 09:45:16 GMT" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta http-equiv="Content-Language" content="en" />
-
-
-<link rel="stylesheet" type="text/css" href="/styles/OdinStyles.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/General.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Design.css" media="all" />
-<link rel="stylesheet" type="text/css" href="/styles/Print.css" media="print" />
-<link rel="stylesheet" type="text/css" href="/styles/3Col.css" media="screen" />
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/DEP.css" media="all" />
-
-<link rel="stylesheet" type="text/css" href="/styles/Profiles/md.css" media="all" /> 
-
-
-<link rel="stylesheet" type="text/css" href="/styles/Regjeringenwebparts.css" media="all" />
-
-<link rel="Stylesheet" type="text/css" href="/styles/flexigridOverrides.css" />
-<!--[if lt IE 6]
-    <link rel="stylesheet" type="text/css" href="/styles/ie55.css" media="screen">
-<![endif]-->
-<script type="text/javascript" src='/script/skalertekst.js'></script>
-<script type="text/javascript" src="/script/js/swfobject.js"></script>
-<script type="text/javascript" src="/script/js/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/script/js/custom.js"></script>
- 
-<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css" title="Medium font" />
-<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css" title="Large font" />
+<meta http-equiv="Content-Language" content="nb" />
 
 
 
-<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=634183451760000000"></script>
+
+
+    <!-- default styles -->
+    <link rel="stylesheet" type="text/css" media="all" href="/styles/default_styles_combined_45D29949909B2B10854E130AC37BCE3C.css" />
+    <!--[if lt IE 6]
+        <link rel="stylesheet" type="text/css" href="/styles/ie55.css?v=2.1.11776" media="screen">
+
+    <![endif]-->
+
+
+<!-- Theme styles start -->
+<link rel="stylesheet" type="text/css" media="screen" href="/styles/3Col_AF432B5349630A9B3C4A0BDD3743237C.css" />
+<link rel="stylesheet" type="text/css" media="all" href="/styles/combined_C4BA85CC07A914240369725D2DC08A7C.css" />
+<!-- Print styles -->
+<link rel="stylesheet" type="text/css" media="print" href="/styles/Print_AEBC6467A18C7B85A8BBCFC23CF53483.css" />
+<!-- Profile styles -->
+<link rel="stylesheet" type="text/css" media="all" href="/styles/Profiles/kld_E7FF927870AA561DF0509AB692B40743.css" />
+<!-- Profile styles end -->
+
+<link rel="alternate stylesheet" type="text/css" href="/styles/mediumfont.css?v=2.1.11776" title="Medium font" />
+<link rel="alternate stylesheet" type="text/css" href="/styles/largefont.css?v=2.1.11776" title="Large font" />
+<script type="text/javascript" src="/script/combined_B91DA11F4A67BA678869B4A467303826.js"></script>
+
+
+
+
+<link rel="EditURI" type="application/rsd+xml" href="http://dss-p-rg-web04.prodno.osl.basefarm.net/util/xmlrpc/RSD.aspx?pageid=1175" title="edit uri" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dss-p-rg-web04.prodno.osl.basefarm.net/util/xmlrpc/Manifest.aspx?pageid=1175" title="windows livewriter manifest" />
+
+<script id="Epinova.EmailObfuscator" type="text/javascript" src="/WebResource.axd?d=ydzm_YyMk7vT_qXf3WkMAMaHlVOmyBicjUIXKXy8LaGzzAx2zsl7-xjB_44mrGEGMODedHzG7DHxmnn0v6qZXy7gDWhluivAuc-BdBJvaOZ7ZzCh-Ta6Vhek2R590z3wwspfyVDUlO_a9h_jOkJkCJM1ewls2ajUFWJOmLniRtf-kcY40&amp;t=635367986920000000"></script>
 </head>
-<body onload="javascript:Operatest();">
-<script type="text/javascript" language="JavaScript"><!--
-function printPage() 
-{	
-	window.print();
-}
-//--></script>
-
-    <form name="aspnetForm" method="post" action="/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut.html?id=1175" id="aspnetForm" enctype="multipart/form-data">
-<div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE1NjA0MDAxMjgPZBYCZg9kFghmDxUCAmVuAmVuZAIBEGRkFgICAg9kFgZmDxYCHgRUZXh0BeQQPG1ldGEgbmFtZT0iRENTZXh0LnJlZ2oucGFnZW5hbWUiIGNvbnRlbnQ9IkRlcGFydG1lbnQgZm9yIENsaW1hdGUgQ2hhbmdlIGFuZCBQb2xsdXRpb24gQ29udHJvbCIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2V0eXBlIiBjb250ZW50PSJBdmRlbGluZyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VpZCIgY29udGVudD0iMTE3NSIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLnBhZ2VzdGF0dXMiIGNvbnRlbnQ9Ikd5bGRpZyIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLm93bmVyIiBjb250ZW50PSJtZCIgLz4NCjxtZXRhIG5hbWU9IkRDU2V4dC5yZWdqLmxhbmd1YWdlIiBjb250ZW50PSJlbi1HQiIgLz4NCjxtZXRhIG5hbWU9IlRJVExFIiBjb250ZW50PSJEZXBhcnRtZW50IGZvciBDbGltYXRlIENoYW5nZSBhbmQgUG9sbHV0aW9uIENvbnRyb2wiIC8+DQo8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iVGhlIGRlcGFydG1lbnQgY29uc2lzdHMgb2YgdGhyZWUgc2VjdGlvbnMgYW5kIGFuIGFkbWluaXN0cmF0aXZlIHVuaXQuIFRoZSBkZXBhcnRtZW504oCZcyByZXNwb25zaWJpbGl0aWVzIGluY2x1ZGVzIGRldmVsb3BtZW50IG9mIGVudmlyb25tZW50YWwgcG9saWNpZXMgYW5kIHN0cmF0ZWdpZXMgaW4gdGhlIGFyZWFzIG9mIGNsaW1hdGUgYW5kIGVuZXJneSwgaW5jbHVkaW5nIHRoZSBHb3Zlcm5tZW50cyBJbnRlcm5hdGlvbmFsIENsaW1hdGUgYW4uLi4iIC8+DQo8bWV0YSBuYW1lPSJEQy5UaXRsZSIgY29udGVudD0iRGVwYXJ0bWVudCBmb3IgQ2xpbWF0ZSBDaGFuZ2UgYW5kIFBvbGx1dGlvbiBDb250cm9sIiAvPg0KPG1ldGEgbmFtZT0iREMuQ3JlYXRvciIgY29udGVudD0iTWluaXN0cnkgb2YgdGhlIEVudmlyb25tZW50IiAvPg0KPG1ldGEgbmFtZT0iREMuRGVzY3JpcHRpb24iIGNvbnRlbnQ9IlRoZSBkZXBhcnRtZW50IGNvbnNpc3RzIG9mIHRocmVlIHNlY3Rpb25zIGFuZCBhbiBhZG1pbmlzdHJhdGl2ZSB1bml0LiBUaGUgZGVwYXJ0bWVudOKAmXMgcmVzcG9uc2liaWxpdGllcyBpbmNsdWRlcyBkZXZlbG9wbWVudCBvZiBlbnZpcm9ubWVudGFsIHBvbGljaWVzIGFuZCBzdHJhdGVnaWVzIGluIHRoZSBhcmVhcyBvZiBjbGltYXRlIGFuZCBlbmVyZ3ksIGluY2x1ZGluZyB0aGUgR292ZXJubWVudHMgSW50ZXJuYXRpb25hbCBDbGltYXRlIGFuLi4uIiAvPg0KPG1ldGEgbmFtZT0iREMuRGF0ZSIgY29udGVudD0iMjAwNi0xMS0wOCIgLz4NCjxtZXRhIG5hbWU9IkRDLkRhdGUuQXZhaWxhYmxlIiBjb250ZW50PSIyMDA2LTExLTA4IiAvPg0KPG1ldGEgbmFtZT0iREMuVHlwZS5TdGF0dXMiIGNvbnRlbnQ9Ikd5bGRpZyIgLz4NCjxtZXRhIG5hbWU9IkRDLlR5cGUiIGNvbnRlbnQ9IkF2ZGVsaW5nIiAvPg0KPG1ldGEgbmFtZT0iREMuRm9ybWF0IiBjb250ZW50PSJ0ZXh0L2h0bWwiIC8+DQo8bWV0YSBuYW1lPSJEQy5JZGVudGlmaWVyLlVSTCIgY29udGVudD0iL2VuL2RlcC9tZC9BYm91dC10aGUtTWluaXN0cnkvb3JnYW5pc2F0aW9uL0RlcGFydG1lbnRzL2RlcGFydG1lbnQtZm9yLWVudmlyb25tZW50YWwtZGF0YS1wb2xsdXQuaHRtbD9pZD0xMTc1IiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuLUdCIiAvPg0KPG1ldGEgbmFtZT0iREMuTGFuZ3VhZ2UuUHJlZmVyZW5jZSIgY29udGVudD0iZW4tR0IiIC8+DQo8bWV0YSBuYW1lPSJEQy5QdWJsaXNoZXIiIGNvbnRlbnQ9InJlZ2plcmluZ2VuLm5vIiAvPg0KPG1ldGEgbmFtZT0iQVVUSE9SIiBjb250ZW50PSJNaW5pc3RyeSBvZiB0aGUgRW52aXJvbm1lbnQiIC8+DQo8bWV0YSBuYW1lPSJjcmVhdGlvbl9kYXRlIiBjb250ZW50PSJXZWQsIDA4IE5vdiAyMDA2IDE1OjE5OjAwIEdNVCIgLz4NCjxtZXRhIG5hbWU9IkxBU1QtTU9ESUZJRUQiIGNvbnRlbnQ9IldlZCwgMDggTm92IDIwMDYgMTU6MjU6MjggR01UIiAvPg0KPG1ldGEgbmFtZT0iUkVWSVNFRCIgY29udGVudD0iV2VkLCAwOCBOb3YgMjAwNiAxNToyNToyOCBHTVQiIC8+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCIgLz4NCjxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtTGFuZ3VhZ2UiIGNvbnRlbnQ9ImVuIiAvPg0KZAIBDxYCHgdWaXNpYmxlaGQCAg8WAh4LXyFJdGVtQ291bnRmZAIDEGRkFgoCAQ9kFgYCAg8VAREjcXVpY2tzZWFyY2hpbnB1dGQCCw9kFgJmDxUBaSNjdGwwMF9GdWxsUmVnaW9uX0NlbnRlckFuZFJpZ2h0UmVnaW9uX1JpZ2h0UmVnaW9uX1JpZ2h0UmVnaW9uQ29udGFjdEluZm9fUmVsYXRlZENvbnRhY3QxX0FyZWFDb250YWN0SW5mb2QCDQ9kFgJmD2QWAmYPZBYCAgEPZBYIZg8PFgYeB1Rvb2xUaXAFLktsaWtrIGhlciBmb3Igw6UgdmlzZSBkZW5uZSBzaWRlbiBww6UgYm9rbcOlbC4fAAUHQm9rbcOlbB4LTmF2aWdhdGVVcmwFLy90ZW1wbGF0ZXMvQXZkZWxpbmcuYXNweD9pZD0xMTc1JmVwc2xhbmd1YWdlPW5vZGQCAQ8PFgYfAwVLRGVubmUgc2lkYSBmaW5zdCBpa2tqZSBww6Ugbnlub3Jzay4gS2xpa2sgaGVyIGZvciDDpSB2aXNlIG55bm9yc2sgcmFtbWV2ZXJrHwAFB055bm9yc2sfBAUvL3RlbXBsYXRlcy9BdmRlbGluZy5hc3B4P2lkPTExNzUmZXBzbGFuZ3VhZ2U9bm5kZAICDw8WBh8DBTRDb2Foa2thbCBkw6Fra28gZGUgb2Fpbm7DoXQgZMOhbiBzaWlkZHUgc8OhbWVnaWxsaWkuHwAFC1PDoW1lZ2llbGxhHwQFMi90ZW1wbGF0ZXMvQXZkZWxpbmcuYXNweD9pZD0xMTc1JmVwc2xhbmd1YWdlPXNlLU5PZGQCAw8PFgYfAwUiVGhpcyBwYWdlIGlzIGRpc3BsYXllZCBpbiBlbmdsaXNoLh8ABQdFbmdsaXNoHwQFMi90ZW1wbGF0ZXMvQXZkZWxpbmcuYXNweD9pZD0xMTc1JmVwc2xhbmd1YWdlPWVuLUdCZGQCAg8VAQEgZAIDD2QWDGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAIBDxUBC1BvcnRhbCBob21lZAICD2QWBGYPFQEkL2RlZmF1bHQuYXNweD9pZD00JmVwc2xhbmd1YWdlPWVuLUdCZAICDxUDOi90ZW1wbGF0ZXMvR2VuZXJlbGxGb3JzaWRlLmFzcHg/aWQ9ODU4NDMmZXBzbGFuZ3VhZ2U9ZW4tR0IcU3RvbHRlbmJlcmcncyAybmQgR292ZXJubWVudDIvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTkzMyZlcHNsYW5ndWFnZT1lbi1HQmQCAw8VATQvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NjY4JmVwc2xhbmd1YWdlPWVuLUdCZAIEDxUBG01pbmlzdHJ5IG9mIHRoZSBFbnZpcm9ubWVudGQCBg9kFhJmD2QWBGYPZBYCZg9kFgQCAg8VBCZTZWFyY2ggdGhlIE1pbmlzdHJ5IG9mIHRoZSBFbnZpcm9ubWVudAZTZWFyY2gRUXVpY2tTZWFyY2hCdXR0b24GU2VhcmNoZAIDDw8WAh8ABRtTZWFyY2ggYWxsIG9mIGdvdmVybm1lbnQubm9kZAIBDw8WAh4LX2lzRWRpdGFibGVoZGQCAQ8VAR4vc3R5bGVzL0ltYWdlcy9zeW1ib2xfdGlwcy5naWZkAgUPFQEhL3N0eWxlcy9JbWFnZXMvc3ltYm9sX3ByaW50X3QuZ2lmZAIIDxUDIy9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9zbWFsbFRleHQuZ2lmJC9zdHlsZXMvSW1hZ2VzL0dsb2JhbC9tZWRpdW1UZXh0LmdpZiMvc3R5bGVzL0ltYWdlcy9HbG9iYWwvbGFyZ2VUZXh0LmdpZmQCCQ9kFgJmDxUCwgFodHRwOi8vaXNpLnBob25ldGljb20uY29tL2NnaS1iaW4vcnN4dD91cmw9aHR0cDovL3d3dy5yZWdqZXJpbmdlbi5uby9lbi9kZXAvbWQvQWJvdXQtdGhlLU1pbmlzdHJ5L29yZ2FuaXNhdGlvbi9EZXBhcnRtZW50cy9kZXBhcnRtZW50LWZvci1lbnZpcm9ubWVudGFsLWRhdGEtcG9sbHV0Lmh0bWw/aWQ9MTE3NSZhbXA7Y3VzdG9tZXJpZD0xOR8vc3R5bGVzL0ltYWdlcy9zeW1ib2xfbHlkX3QuZ2lmZAIKD2QWAgIBDw8WBB8EBTYvdGVtcGxhdGVzL1RlbWFJbmRla3MuYXNweD9pZD0yMjM0ODYmZXBzbGFuZ3VhZ2U9ZW4tR0IfAAUKVG9waWNzIEEtWmRkAgsPZBYCAgEPDxYEHwQFOS90ZW1wbGF0ZXMvTmV0dHN0ZWRza2FydC5hc3B4P2lkPTMxMzg2MSZlcHNsYW5ndWFnZT1lbi1HQh8ABQhTaXRlIE1hcGRkAgwPDxYEHwQFNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NDg4NjQxJmVwc2xhbmd1YWdlPWVuLUdCHwAFBEhlbHBkZAINDw8WBB8EBT0vdGVtcGxhdGVzL1JlZGFrc2pvbmVsbEFydGlra2VsLmFzcHg/aWQ9Njc2JmVwc2xhbmd1YWdlPWVuLUdCHwAFB0NvbnRhY3RkZAIED2QWBAIBD2QWBgIBD2QWAgIBD2QWBGYPDxYCHwFoZGQCAQ9kFhACAw8PFgIfAAUdUmVjaXBpZW504oCZcyBlLW1haWwgYWRkcmVzczpkZAIHDw8WAh4MRXJyb3JNZXNzYWdlBSVZb3UgbXVzdCBnaXZlIGEgdmFsaWQgZS1tYWlsIGFkZHJlc3MuZGQCCQ8PFgIfBgUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAgsPDxYCHwAFFFlvdXIgZS1tYWlsIGFkZHJlc3M6ZGQCDw8PFgIfBgUlWW91IG11c3QgZ2l2ZSBhIHZhbGlkIGUtbWFpbCBhZGRyZXNzLmRkAhEPDxYCHwYFJVlvdSBtdXN0IGdpdmUgYSB2YWxpZCBlLW1haWwgYWRkcmVzcy5kZAITDw8WAh8ABQhNZXNzYWdlOmRkAhcPDxYCHwAFCVNlbmQgbWFpbGRkAgMPZBYQAgMPZBYOZg9kFgJmDxYCHwAFrgNZb3UgYXJlIGhlcmU6IDxhIGhyZWY9Ii9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQiI+R292ZXJubWVudC5ubzwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NjY4JmVwc2xhbmd1YWdlPWVuLUdCIj5NaW5pc3RyeSBvZiB0aGUgRW52aXJvbm1lbnQ8L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTY3MyZlcHNsYW5ndWFnZT1lbi1HQiI+QWJvdXQgdGhlIE1pbmlzdHJ5PC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD02OTImZXBzbGFuZ3VhZ2U9ZW4tR0IiPk9yZ2FuaXNhdGlvbjwvYT4gLyA8c3Bhbj5EZXBhcnRtZW50IGZvciBDbGltYXRlIENoYW5nZSBhbmQgUG9sbHV0aW9uIENvbnRyb2w8L3NwYW4+ZAIBDxUBAGQCAg9kFgJmDxYCHwAFrgNZb3UgYXJlIGhlcmU6IDxhIGhyZWY9Ii9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQiI+R292ZXJubWVudC5ubzwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NjY4JmVwc2xhbmd1YWdlPWVuLUdCIj5NaW5pc3RyeSBvZiB0aGUgRW52aXJvbm1lbnQ8L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTY3MyZlcHNsYW5ndWFnZT1lbi1HQiI+QWJvdXQgdGhlIE1pbmlzdHJ5PC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD02OTImZXBzbGFuZ3VhZ2U9ZW4tR0IiPk9yZ2FuaXNhdGlvbjwvYT4gLyA8c3Bhbj5EZXBhcnRtZW50IGZvciBDbGltYXRlIENoYW5nZSBhbmQgUG9sbHV0aW9uIENvbnRyb2w8L3NwYW4+ZAIDD2QWCAIBD2QWBgIBDxUBB1N0YXR1czpkAgIPFgIfAWgWAmYPFQE4DQogICAgICAgICAgICAgICAgICAgICAgICBBcmNoaXZlZA0KICAgICAgICAgICAgICAgICAgICBkAgQPFgIfAWgWAmYPFQE4DQogICAgICAgICAgICAgICAgICAgICAgICBSZXBsYWNlZA0KICAgICAgICAgICAgICAgICAgICBkAgIPFQEzRGVwYXJ0bWVudCBmb3IgQ2xpbWF0ZSBDaGFuZ2UgYW5kIFBvbGx1dGlvbiBDb250cm9sZAIDDxYCHwFoFgJmDxUBAGQCBQ9kFgJmDxUBmgk8cD5UaGUgZGVwYXJ0bWVudCBjb25zaXN0cyBvZiB0aHJlZSBzZWN0aW9ucyBhbmQgYW4gYWRtaW5pc3RyYXRpdmUgdW5pdC4gVGhlIGRlcGFydG1lbnTigJlzIHJlc3BvbnNpYmlsaXRpZXMgaW5jbHVkZXMgZGV2ZWxvcG1lbnQgb2YgZW52aXJvbm1lbnRhbCBwb2xpY2llcyBhbmQgc3RyYXRlZ2llcyBpbiB0aGUgYXJlYXMgb2YgY2xpbWF0ZSBhbmQgZW5lcmd5LCBpbmNsdWRpbmcgdGhlIEdvdmVybm1lbnRzIEludGVybmF0aW9uYWwgQ2xpbWF0ZSBhbmQgRm9yZXN0IEluaXRpYXRpdmUuIEl0IGZ1cnRoZXJzIGNvdmVycyBoYXphcmRvdXMgY2hlbWljYWxzLCB3YXN0ZXMsIGxvY2FsIGFpciBwb2xsdXRpb24gYW5kIG5vaXNlLCBhbmQgZW52aXJvbm1lbnRhbCBkYXRhIGFuZCBtb25pdG9yaW5nLiBUaGUgZGVwYXJ0bWVudCBpcyByZXNwb25zaWJsZSBmb3IgdGhlIE5vcndlZ2lhbiBQb2xsdXRpb24gQ29udHJvbCBBdXRob3JpdHksIGFuZCBmb3IgdGhlIE5vcndlZ2lhbiBNYXJpdGltZSBEaXJlY3RvcmF0ZSBvbiBlbnZpcm9ubWVudGFsIHJlbGF0ZWQgaXNzdWVzLiBUbyBhIGxhcmdlIGRlZ3JlZSB0aGUgZGVwYXJ0bWVudOKAmXMgd29yayBpcyByZWxhdGVkIHRvIGRldmVsb3BtZW50IG9mIGxlZ2FsLCBhZG1pbmlzdHJhdGl2ZSBhbmQgZWNvbm9taWMgaW5zdHJ1bWVudHMuIEZ1cnRoZXIsIG9uIHRoZSBkZXZlbG9wbWVudCBhbmQgaW1wbGVtZW50YXRpb24gb2YgaW50ZXJuYXRpb25hbCBsZWdhbCBpbnN0cnVtZW50cywgcGFydGljdWxhcmx5IHdpdGhpbiB0aGUgRUVBLCBUaGUgZGVwYXJ0bWVudCBpcyByZXNwb25zaWJsZSBmb3IgYSBudW1iZXIgb2YgaW50ZXJuYXRpb25hbCBlbnZpcm9ubWVudGFsIGFncmVlbWVudHMsIGluY2x1ZGluZyB0aGUgVU4gRnJhbWV3b3JrIENvbnZlbnRpb24gb24gQ2xpbWF0ZSBDaGFuZ2UgYW5kIHRoZSBLeW90byBQcm90b2NvbCwgdGhlIFVORUNFIENvbnZlbnRpb24gb24gTG9uZy1yYW5nZSBUcmFuc2JvdW5kYXJ5IEFpciBQb2xsdXRpb24sIFVOIEludGVybmF0aW9uYWwgTWFyaXRpbWUgT3JnYW5pc2F0aW9uIChJTU8pIGNvbnZlbnRpb25zLCBhbmQgY2hlbWljYWwgY29udmVudGlvbnMgbGlrZSB0aGUgQmFzZWwgQ29udmVudGlvbiwgdGhlIFN0b2NraG9sbSBDb252ZW50aW9uIGFuZCB0aGUgUm90dGVyZGFtIENvbnZlbnRpb24uPC9wPmQCBA9kFgJmDxYCHwAFrgNZb3UgYXJlIGhlcmU6IDxhIGhyZWY9Ii9kZWZhdWx0LmFzcHg/aWQ9NCZlcHNsYW5ndWFnZT1lbi1HQiI+R292ZXJubWVudC5ubzwvYT4gLyA8YSBocmVmPSIvdGVtcGxhdGVzL0RlcGFydGVtZW50LmFzcHg/aWQ9NjY4JmVwc2xhbmd1YWdlPWVuLUdCIj5NaW5pc3RyeSBvZiB0aGUgRW52aXJvbm1lbnQ8L2E+IC8gPGEgaHJlZj0iL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTY3MyZlcHNsYW5ndWFnZT1lbi1HQiI+QWJvdXQgdGhlIE1pbmlzdHJ5PC9hPiAvIDxhIGhyZWY9Ii90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD02OTImZXBzbGFuZ3VhZ2U9ZW4tR0IiPk9yZ2FuaXNhdGlvbjwvYT4gLyA8c3Bhbj5EZXBhcnRtZW50IGZvciBDbGltYXRlIENoYW5nZSBhbmQgUG9sbHV0aW9uIENvbnRyb2w8L3NwYW4+ZAIFD2QWBgIBD2QWAmYPFgIfAWhkAgIPFQMzRGVwYXJ0bWVudCBmb3IgQ2xpbWF0ZSBDaGFuZ2UgYW5kIFBvbGx1dGlvbiBDb250cm9sDGRpc3BsYXk6bm9uZQBkAgMPZBYCZg8VAZoJPHA+VGhlIGRlcGFydG1lbnQgY29uc2lzdHMgb2YgdGhyZWUgc2VjdGlvbnMgYW5kIGFuIGFkbWluaXN0cmF0aXZlIHVuaXQuIFRoZSBkZXBhcnRtZW504oCZcyByZXNwb25zaWJpbGl0aWVzIGluY2x1ZGVzIGRldmVsb3BtZW50IG9mIGVudmlyb25tZW50YWwgcG9saWNpZXMgYW5kIHN0cmF0ZWdpZXMgaW4gdGhlIGFyZWFzIG9mIGNsaW1hdGUgYW5kIGVuZXJneSwgaW5jbHVkaW5nIHRoZSBHb3Zlcm5tZW50cyBJbnRlcm5hdGlvbmFsIENsaW1hdGUgYW5kIEZvcmVzdCBJbml0aWF0aXZlLiBJdCBmdXJ0aGVycyBjb3ZlcnMgaGF6YXJkb3VzIGNoZW1pY2Fscywgd2FzdGVzLCBsb2NhbCBhaXIgcG9sbHV0aW9uIGFuZCBub2lzZSwgYW5kIGVudmlyb25tZW50YWwgZGF0YSBhbmQgbW9uaXRvcmluZy4gVGhlIGRlcGFydG1lbnQgaXMgcmVzcG9uc2libGUgZm9yIHRoZSBOb3J3ZWdpYW4gUG9sbHV0aW9uIENvbnRyb2wgQXV0aG9yaXR5LCBhbmQgZm9yIHRoZSBOb3J3ZWdpYW4gTWFyaXRpbWUgRGlyZWN0b3JhdGUgb24gZW52aXJvbm1lbnRhbCByZWxhdGVkIGlzc3Vlcy4gVG8gYSBsYXJnZSBkZWdyZWUgdGhlIGRlcGFydG1lbnTigJlzIHdvcmsgaXMgcmVsYXRlZCB0byBkZXZlbG9wbWVudCBvZiBsZWdhbCwgYWRtaW5pc3RyYXRpdmUgYW5kIGVjb25vbWljIGluc3RydW1lbnRzLiBGdXJ0aGVyLCBvbiB0aGUgZGV2ZWxvcG1lbnQgYW5kIGltcGxlbWVudGF0aW9uIG9mIGludGVybmF0aW9uYWwgbGVnYWwgaW5zdHJ1bWVudHMsIHBhcnRpY3VsYXJseSB3aXRoaW4gdGhlIEVFQSwgVGhlIGRlcGFydG1lbnQgaXMgcmVzcG9uc2libGUgZm9yIGEgbnVtYmVyIG9mIGludGVybmF0aW9uYWwgZW52aXJvbm1lbnRhbCBhZ3JlZW1lbnRzLCBpbmNsdWRpbmcgdGhlIFVOIEZyYW1ld29yayBDb252ZW50aW9uIG9uIENsaW1hdGUgQ2hhbmdlIGFuZCB0aGUgS3lvdG8gUHJvdG9jb2wsIHRoZSBVTkVDRSBDb252ZW50aW9uIG9uIExvbmctcmFuZ2UgVHJhbnNib3VuZGFyeSBBaXIgUG9sbHV0aW9uLCBVTiBJbnRlcm5hdGlvbmFsIE1hcml0aW1lIE9yZ2FuaXNhdGlvbiAoSU1PKSBjb252ZW50aW9ucywgYW5kIGNoZW1pY2FsIGNvbnZlbnRpb25zIGxpa2UgdGhlIEJhc2VsIENvbnZlbnRpb24sIHRoZSBTdG9ja2hvbG0gQ29udmVudGlvbiBhbmQgdGhlIFJvdHRlcmRhbSBDb252ZW50aW9uLjwvcD5kAgYPDxYCHwFoZGQCBQ9kFgJmDxYEHglfcGFnZUxpbmsoKW5FUGlTZXJ2ZXIuQ29yZS5QYWdlUmVmZXJlbmNlLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwQxMTc1Hgpfc29ydE9yZGVyCylzRVBpU2VydmVyLkZpbHRlcnMuRmlsdGVyU29ydE9yZGVyLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4yMzYsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwAWDGYPZBYCZg8PFgIfAWhkFgJmDxUBAGQCAQ9kFgQCAQ8PFgYfBWgeDl9ib3VuZFBh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FQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTY2OSZlcHNsYW5ndWFnZT1lbi1HQgAKV2hhdCdzIG5ld2QCBA9kFgJmDxUBAGQCBQ9kFgJmDxUDPy90ZW1wbGF0ZXMvRGVwYXJ0ZW1lbnRUZW1hRm9yc2lkZS5hc3B4P2lkPTY3MCZlcHNsYW5ndWFnZT1lbi1HQgAPU2VsZWN0ZWQgdG9waWNzZAIHD2QWAmYPFQEAZAIID2QWAmYPFQM3L3RlbXBsYXRlcy9Lb25maWd1cmVydFNvay5hc3B4P2lkPTY3MSZlcHNsYW5ndWFnZT1lbi1HQgAMUHJlc3MgY2VudHJlZAIKD2QWAmYPFQEAZAILD2QWAmYPFQNAL3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTI3MDQyMCZlcHNsYW5ndWFnZT1lbi1HQgAJRG9jdW1lbnRzZAIND2QWAmYPFQEIU2VsZWN0ZWRkAg4PZBYCZg8VBAA9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTY3MyZlcHNsYW5ndWFnZT1lbi1HQgASQWJvdXQgdGhlIE1pbmlzdHJ5ZAIQD2QWAmYPFQEAZAIRD2QWAmYPFQNBL3RlbXBsYXRlcy9QZXJzb25Qb2xpdGlza0xlZGVsc2UuYXNweD9pZD00ODYzMzgmZXBzbGFuZ3VhZ2U9ZW4tR0IAOU1pbmlzdGVyIG9mIHRoZSBFbnZpcm9ubWVudCBhbmQgSW50ZXJuYXRpb25hbCBEZXZlbG9wbWVudGQCEw9kFgJmDxUBAGQCFA9kFgJmDxUDMi90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9NjkwJmVwc2xhbmd1YWdlPWVuLUdCABVPdGhlciBwb2xpdGljYWwgc3RhZmZkAhYPZBYCZg8VAQBkAhcPZBYCZg8VAzQvdGVtcGxhdGVzL0xpc3Rlc2lkZS5hc3B4P2lkPTg1Njk2JmVwc2xhbmd1YWdlPWVuLUdCABtTZW5pb3IgYWRtaW5pc3RyYXRpdmUgc3RhZmZkAhkPZBYCZg8VAQhTZWxlY3RlZGQCGg9kFgJmDxUECFNlbGVjdGVkPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD02OTImZXBzbGFuZ3VhZ2U9ZW4tR0IADE9yZ2FuaXNhdGlvbmQCHA9kFgJmDxUBAGQCHQ9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD02OTYmZXBzbGFuZ3VhZ2U9ZW4tR0IAFUhpc3RvcmljYWwgYmFja2dyb3VuZGQCIQ9kFgJmDxUBAGQCIg9kFgJmDxUDNS90ZW1wbGF0ZXMvTGlzdGVzaWRlLmFzcHg/aWQ9MTE1MjEyJmVwc2xhbmd1YWdlPWVuLUdCABRTdWJvcmRpbmF0ZSBhZ2VuY2llc2QCJA9kFgJmDxUBAGQCJQ9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD02OTMmZXBzbGFuZ3VhZ2U9ZW4tR0IAF0FyZWFzIG9mIHJlc3BvbnNpYmlsaXR5ZAInD2QWAmYPFQEAZAIoD2QWAmYPFQM9L3RlbXBsYXRlcy9SZWRha3Nqb25lbGxBcnRpa2tlbC5hc3B4P2lkPTY3NiZlcHNsYW5ndWFnZT1lbi1HQgAHQ29udGFjdGQCLA9kFgJmDxUBAGQCLQ9kFgJmDxUDPS90ZW1wbGF0ZXMvUmVkYWtzam9uZWxsQXJ0aWtrZWwuYXNweD9pZD02NzQmZXBzbGFuZ3VhZ2U9ZW4tR0IAEVNvdW5kIGFuZCBwaWN0dXJlZAIvD2QWAmYPFQEAZAIwD2QWAmYPFQM2L3RlbXBsYXRlcy9TZWFyY2hQYWdlLmFzcHg/aWQ9MTE1MzIyJmVwc2xhbmd1YWdlPWVuLWdiABBEb2N1bWVudCBBcmNoaXZlZAIFD2QWAgIBD2QWAmYPFQHGAjxwIGFsaWduPSJjZW50ZXIiPk1pbmlzdHJ5IG9mIHRoZSBFbnZpcm9ubWVudCwgUC5PLiBCb3ggODAxMyBEZXAsIDAwMzAgT3NsbyB8IFRlbDogKzQ3IDIyIDI0IDkwIDkwLCBGYXg6ICs0NyAyMiAyNCA5NSA2MDxiciAvPkUtbWFpbDogPGEgdGl0bGU9InBvc3Rtb3R0YWtAbWQuZGVwLm5vIiBocmVmPSJtYWlsdG86cG9zdG1vdHRha0BtZC5kZXAubm8iPnBvc3Rtb3R0YWtAbWQuZGVwLm5vPC9hPiZuYnNwO3wgV2ViLWVkaXRvcjogPGEgdGl0bGU9IkFuZHJlYXMgS2V1cyIgaHJlZj0ibWFpbHRvOmFuZHJlYXMua2V1c0BtZC5kZXAubm8iPkFuZHJlYXMgS2V1czwvYT48L3A+ZAIFD2QWAmYPFQEYL3NjcmlwdC9qcy9zZGNfMDkwODE5LmpzZBgIBSVjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwNSR1eFZpZXdzDw9kZmQFemN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kUmlnaHRSZWdpb24kUmlnaHRSZWdpb25Eb2N1bWVudENvbnRleHQkQXNzb2NpYXRlZEV4dGVybmFsT3JnJFRvcGljTWFwT25lSG9wUGFnZUxpc3QxDw9mZGQFK2N0bDAwJFRvcExhbmd1YWdlUmVnaW9uJGN0bDA1JE11bHRpUGFnZUxpc3QPD2ZkZAVEY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdCRsc3RVbml2ZXJzYWwPD2ZkZAVhY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdGluZ1VuaXZlcnNhbEhlYWRlciRjaGlsZHJlbmxpc3QkY2hpbGRwYWdlcw8PZmRkBVRjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0JGxzdFVuaXZlcnNhbCRjdGwwMSRQYWdlTGlzdDEPD2ZkZAViY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJFJlbGF0ZWRDb250YWN0MSRQYWdlTGlzdDEPD2ZkZAVMY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kUmVsYXRlZENvbnRhY3QyJFBhZ2VMaXN0MQ8PZmRkBUn9gV658MrdHLOOCJNme8CEbck=" />
+<body>
+    <script type="text/javascript" language="JavaScript"><!--
+        function printPage() {
+            window.print();
+        }
+    //--></script>
+    <form method="post" action="/nb/dep/kld/dep/organsisasjon/avdelinger/klimaavdelingen.html?id=1175" id="Default" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__WPPS" id="__WPPS" value="s" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY5OTk5NzI3OGQYCwV6Y3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkRvY3VtZW50Q29udGV4dCRBc3NvY2lhdGVkRXh0ZXJuYWxPcmckUmVsYXRpb25PbmVIb3BQYWdlTGlzdDEPD2ZkZAVQY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kY3RsMDEkY2hpbGRyZW5saXN0JGNoaWxkcGFnZXMPD2ZkZAVYY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbiRSaWdodFJlZ2lvbkNvbnRhY3RJbmZvJGN0bDAxJFBhZ2VMaXN0MQ8PZmRkBVBjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRsaXN0JGxzdFVuaXZlcnNhbCRjdGwwMSRjdGwwNA8PZmRkBStjdGwwMCRUb3BMYW5ndWFnZVJlZ2lvbiRjdGwwMSRNdWx0aVBhZ2VMaXN0Dw9mZGQFPmN0bDAwJEZ1bGxSZWdpb24kQ2VudGVyQW5kUmlnaHRSZWdpb24kQ2VudGVyUmVnaW9uJGN0bDAxJFZpZXdzDw9kZmQFHWN0bDAwJFJlcXVpcmVkUmVzb3VyY2VzSGVhZGVyDwUGSGVhZGVyZAUlY3RsMDAkVG9wTGFuZ3VhZ2VSZWdpb24kY3RsMDEkdXhWaWV3cw8PZGZkBUJjdGwwMCRGdWxsUmVnaW9uJENlbnRlckFuZFJpZ2h0UmVnaW9uJENlbnRlclJlZ2lvbiRjdGwwMyRQYWdlTGlzdDEPD2ZkZAVEY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRDZW50ZXJSZWdpb24kbGlzdCRsc3RVbml2ZXJzYWwPD2ZkZAVPY3RsMDAkRnVsbFJlZ2lvbiRDZW50ZXJBbmRSaWdodFJlZ2lvbiRUaXBBRnJpZW5kUGxhY2Vob2xkZXIkVGlwQUZyaWVuZCRUaXBWaWV3cw8PZAIBZGaMvu3f854XoeOxXfi1uObZ6wwV" />
 </div>
 
+
+<script src="/ScriptResource.axd?d=Z7zejsxrPxkWp9RuJk0d7N2TfgzSuOulJykcBjxIDAjHCG8-dT9WhGPS9p87qVXiMnT1frOF2kmogYW8vgdxIMrMNH-uVFQIdaah2D27oo0Bb0KL_ungroZpvKfRy8Cpgy07C30IxvQljFrDuiAVy9SfcWA1&amp;t=348b0da" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAj3br2gZNOzooNBqwexL0TArya5utHaP3uHQRI8Uid46QTFRMbyqbI0sloRc3Uw10HWXWl/SJpEFyAqi99OHjtE9II++VEPX1O6J4griigfdC7aBgEb6tB38M3Q+QtcT5dc3Ehi7iZ59S7JzT6xst29Aj7CbHcl1x8vt8oSwlXRyc3OeMfAh3OrXfV7a0BzjgUzTbmA" />
+</div>
+    
+    
+    <div id="AreaFullPageCenter">
         
-        <div id="AreaFullPageCenter">
+            <div></div>
             
-                <div></div>
-                <ul class="QuickNav">
-                    <li><a href="#quicksearchinput">Go to search</a></li>
-                    <li><a href="#Content">Go to content</a></li>
-                    <li><a href="#AreaTopSiteNav">Go to top menu</a></li>
-                    <li><a href="#AreaLeft">Go to left menu</a></li>
-                    <li><a href="#ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionContactInfo_RelatedContact1_AreaContactInfo">Go to contact information</a></li>
-                </ul>
-                
+<div class="QuickNav">
+    <a href="#quicksearchinput" tabindex="2">G&#229; til s&#248;k</a><a href="#Content" tabindex="3">G&#229; til innhold</a><a href="#AreaTopSiteNav" tabindex="4">G&#229; til toppnavigasjon</a><a href="#AreaLeft" tabindex="5">G&#229; til lokalnavigasjon</a>
+    <a href="#AreaContactInfo" tabindex="6">G&#229; til kontaktinformasjon</a>
+</div>
+            
         
     <ul id="AreaTopLanguageNav" class="container NavListH">
-        <li class="First Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNB" title="Klikk her for å vise denne siden på bokmål." class="ISI_IGNORE" href="/nb/dep/md/dep/org/avdelinger/forurensningssaker.html?id=1175">Bokmål</a></li>
-        <li class=""><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangNN" title="Denne sida finst ikkje på nynorsk. Klikk her for å vise nynorsk rammeverk" class="ISI_IGNORE" href="/nn/dep/md/dep/org/avdelinger/forurensningssaker.html?id=1175">Nynorsk</a></li>
-        <li class="Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangSE" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/md/Departemeanta-birra/Organisasvdna/Ossodagat-/Nuoskkidanaiid-ossodat.html?id=1175">Sámegiella</a></li>
-        <li class="Selected Selectable"><a id="ctl00_TopLanguageRegion_ctl05_ctl00_LangEN" title="This page is displayed in english." class="ISI_IGNORE" href="/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut.html?id=1175">English</a></li>
+        <li class="First Selected Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangNB" tabindex="15" title="Siden vises på bokmål (aktivt språkvalg)." class="ISI_IGNORE" href="/nb/dep/kld/dep/organsisasjon/avdelinger/klimaavdelingen.html?id=1175">Bokmål</a></li>
+        <li class=""><a id="TopLanguageRegion_ctl01_ctl00_LangNN" tabindex="16" title="Denne sida finst ikkje på nynorsk. Klikk her for å vise nynorsk rammeverk" class="ISI_IGNORE" href="/nn/dep/kld/om-departementet/organisasjon/avdelingar/klimaavdelingen.html?id=1175">Nynorsk</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangSE" tabindex="17" title="Coahkkal dákko de oainnát dán siiddu sámegillii." class="ISI_NOREWRITE" href="/se/dep/kld/departemeanta-birra/organisasvdna/ossodagat/dalkkadatossodat.html?id=1175">Sámegiella</a></li>
+        <li class="Selectable"><a id="TopLanguageRegion_ctl01_ctl00_LangEN" tabindex="18" title="Click here to display this page in english" class="ISI_IGNORE" href="/en/dep/kld/about-the-ministry/organisation/departments/department-climate-change.html?id=1175">English</a></li>
     </ul>
 
     
-            
-            <div id="AreaFullPageBorder" class="expDiv">
-                <div id="AreaTop" class=" ">
-                    
-                        <a href="/en.html?id=4"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portal home' /></a>
-                        <div id="AreaTopLeft">
-                            
-                                <div id="AreaTopSiteNav">
-                                    <ul class="NavDropdown">
-                                        <li id="AreaTopSiteNav1" class="First"><a accesskey="3" class="ISI_MENU" href="/en.html?id=4">government.no</a></li>
-                                        <li id="AreaTopSiteNav2"><a href='/en/the-government/stoltenberg-ii.html?id=85843' class="ISI_MENU">Stoltenberg's 2nd Government</a></li>
-                                        <li id="AreaTopSiteNav3" onmouseover="this.className='onhover'" onmouseout="this.className = '';">
-                                            <a href="/en/dep.html?id=933" class="ISI_MENU">Ministries</a>
-                                            
+        
+        <div id="AreaFullPageBorder" class="expDiv">
+            <div id="AreaTop">
+                
+                    <a href="/nb.html?id=4" tabindex="10"><img class="MainLogo" src="/styles/Images/DEP_symbol.gif" alt='Portalens forside' /></a>
+                    <div id="AreaTopLeft">
+                        
+                            <div id="AreaTopSiteNav">
+                                <ul class="NavDropdown no-js">
+                                    <li id="AreaTopSiteNav1" class="First">
+                                        <a accesskey="3" class="ISI_MENU" href="/nb.html?id=4" tabindex="20">
+                                            regjeringen.no
+                                        </a>
+                                    </li>
+                                    <li id="AreaTopSiteNav2"><a href='/nb/om_regjeringen/solberg/Regjeringen-Solberg.html?id=753980' class="ISI_MENU" tabindex="21">Regjeringen Solberg</a></li>
+                                    <li id="AreaTopSiteNav3">
+                                        <a id="MinistriesMenuLink" href="/nb/dep.html?id=933" class="ISI_MENU" tabindex="22">
+                                            Departementene
+                                        </a>
+                                        
     <ul>
   
     <li>
-        <a href="/en/dep/smk.html?id=875" class="NormalLink ISI_MENU">The Office of the Prime Minister</a>
+        <a href="/nb/dep/smk.html?id=875" class="NormalLink ISI_MENU">Statsministerens kontor</a>
     </li>
   
     <li>
-        <a href="/en/dep/aid.html?id=165" class="NormalLink ISI_MENU">Ministry of Labour</a>
+        <a href="/nb/dep/asd.html?id=165" class="NormalLink ISI_MENU">Arbeids- og sosialdepartementet</a>
     </li>
   
     <li>
-        <a href="/en/dep/bld.html?id=298" class="NormalLink ISI_MENU">Ministry of Children, Equality and Social Inclusion</a>
+        <a href="/nb/dep/bld.html?id=298" class="NormalLink ISI_MENU">Barne-, likestillings- og inkluderingsdepartementet</a>
     </li>
   
     <li>
-        <a href="/en/dep/fin.html?id=216" class="NormalLink ISI_MENU">Ministry of Finance</a>
+        <a href="/nb/dep/fin.html?id=216" class="NormalLink ISI_MENU">Finansdepartementet</a>
     </li>
   
     <li>
-        <a href="/en/dep/fkd.html?id=257" class="NormalLink ISI_MENU">Ministry of Fisheries and Coastal Affairs</a>
+        <a href="/nb/dep/fd.html?id=380" class="NormalLink ISI_MENU">Forsvarsdepartementet</a>
     </li>
   
     <li>
-        <a href="/en/dep/fad.html?id=339" class="NormalLink ISI_MENU">Ministry of Government Administration, Reform and Church Affairs</a>
+        <a href="/nb/dep/hod.html?id=421" class="NormalLink ISI_MENU">Helse- og omsorgsdepartementet</a>
     </li>
   
     <li>
-        <a href="/en/dep/fd.html?id=380" class="NormalLink ISI_MENU">Ministry of Defence</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/hod.html?id=421" class="NormalLink ISI_MENU">Ministry of Health and Care Services</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/jd.html?id=463" class="NormalLink ISI_MENU">Ministry of Justice and the Police</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/krd.html?id=504" class="NormalLink ISI_MENU">Ministry of Local Government and Regional Development</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/kkd.html?id=545" class="NormalLink ISI_MENU">Ministry of Culture </a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/kd.html?id=586" class="NormalLink ISI_MENU">Ministry of Education and Research</a>
-    </li>
-  
-    <li>
-        <a href="/en/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Ministry of Agriculture and Food</a>
+        <a href="/nb/dep/jd.html?id=463" class="NormalLink ISI_MENU">Justis- og beredskapsdepartementet</a>
     </li>
   
     <li class="Selected">
-        <a href="/en/dep/md.html?id=668" class="NormalLink ISI_MENU">Ministry of the Environment</a>
+        <a href="/nb/dep/kld.html?id=668" class="NormalLink ISI_MENU">Klima- og miljødepartementet</a>
     </li>
   
     <li>
-        <a href="/en/dep/nhd.html?id=709" class="NormalLink ISI_MENU">Ministry of Trade and Industry</a>
+        <a href="/nb/dep/kmd.html?id=504" class="NormalLink ISI_MENU">Kommunal- og moderniseringsdepartementet</a>
     </li>
   
     <li>
-        <a href="/en/dep/oed.html?id=750" class="NormalLink ISI_MENU">Ministry of Petroleum and Energy</a>
+        <a href="/nb/dep/kud.html?id=545" class="NormalLink ISI_MENU">Kulturdepartementet</a>
     </li>
   
     <li>
-        <a href="/en/dep/sd.html?id=791" class="NormalLink ISI_MENU">Ministry of Transport and Communications</a>
+        <a href="/nb/dep/kd.html?id=586" class="NormalLink ISI_MENU">Kunnskapsdepartementet</a>
     </li>
   
     <li>
-        <a href="/en/dep/ud.html?id=833" class="NormalLink ISI_MENU">Ministry of Foreign Affairs</a>
+        <a href="/nb/dep/lmd.html?id=627" class="NormalLink ISI_MENU">Landbruks- og matdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nb/dep/nfd.html?id=709" class="NormalLink ISI_MENU">Nærings- og fiskeridepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nb/dep/oed.html?id=750" class="NormalLink ISI_MENU">Olje- og energidepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nb/dep/sd.html?id=791" class="NormalLink ISI_MENU">Samferdselsdepartementet</a>
+    </li>
+  
+    <li>
+        <a href="/nb/dep/ud.html?id=833" class="NormalLink ISI_MENU">Utenriksdepartementet</a>
     </li>
   
     </ul>
   
 
 
-                                        </li>
-                                    </ul>
-                                </div>    
-                            
-                            <a href="/en/dep/md.html?id=668"><img class="ProfileLogo" src="/styles/Images/md/md_en.gif" alt='Ministry of the Environment' /></a>
-                        </div>
-                        <div id="AreaTopRight">
-                            
-                            
-                                <div id="AreaSearch">
-                                    <div id="ctl00_TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
+                                    </li>
+                                </ul>
+                            </div>
+                        
+                        <a href="/nb/dep/kld.html?id=668" tabindex="34"><img class="ProfileLogo" src="/styles/Images/kld/kld_no.gif" alt='Klima- og miljødepartementet' /></a>
+                    </div>
+                    <div id="AreaTopRight">
+                        
+                        
+                            <div id="AreaSearch">
+                                <div id="TopRegion_TopRightRegion_QuickSearch_QuickSearchSpan" class="QuickSearchSpan">
 	
     
-    <label for="quicksearchinput" class="QuickSearchHeader">Search the Ministry of the Environment</label>
-    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" title='Search' accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('quicksearchsubmit').click();return false;}} else {return true};" />
-    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='QuickSearchButton' value='Search' />    
-    
-    <span><a id="ctl00_TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack('ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch','')">Search all of government.no</a></span>
+    <label for="quicksearchinput" class="QuickSearchHeader">Søk hos Klima- og miljødepartementet</label>
+    <input id="quicksearchinput" name="quicksearchinput" type="text" class="QuickSearchInput" tabindex="30" title="Søk" accesskey="2" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById(&#39;quicksearchsubmit&#39;).click();return false;}} else {return true};" />
+    <input id="quicksearchsubmit" name="quicksearchsubmit" type="submit" class='' tabindex="31" value="Søk" />        
+    <span><a id="TopRegion_TopRightRegion_QuickSearch_btn_portalSearch" tabindex="32" class="QuickSearchLinkToMainSearch" href="javascript:__doPostBack(&#39;ctl00$TopRegion$TopRightRegion$QuickSearch$btn_portalSearch&#39;,&#39;&#39;)">Søk på hele regjeringen.no</a></span>
 
 </div>
-                                </div>
-                                <ul id="AreaTopPrintMeny" class="NavListH">
-                                    <li class="Share"><a href="#" id="slick-toggle"><img src='/styles/Images/symbol_tips.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Share/Send' /><span class="open" id="open">Share/Send</span><span class="display-none" id="close">Close</span></a></li>
-                                    <li class="First"><a href="#" onclick="javascript:printPage();return null;"><img src='/styles/Images/symbol_print_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to print this page' />Print</a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Normal font',1);" title="Normal fontstørrelse"><img src='/styles/Images/Global/smallText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Normal fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize"><a href="#" onclick="javascript:setActiveStyleSheet('Medium font',1);" title="Medium fontstørrelse"><img src='/styles/Images/Global/mediumText.gif' style="border: 0; vertical-align: middle;margin-right:5px" alt='Medium fontstørrelse' /></a></li>
-                                    <li class="ChangeTextSize Last"><a href="#" onclick="javascript:setActiveStyleSheet('Large font',1);" title="Stor fontstørrelse"><img src='/styles/Images/Global/largeText.gif' style="border: 0; vertical-align: middle;" alt='Stor fontstørrelse' /></a></li>
-                                        
-                                            <li class="First">
-                                                <a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut.html?id=1175&amp;customerid=19'>
-                                                    <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0; vertical-align: middle;padding-right: 0.5em;" alt='Click here to activate ReadSpeaker' />Listen to the text
-                                                </a>
-                                            </li>
-                                                                            
-                                </ul>
-                                <ul id="AreaTopShortcutNav" class="NavDropdown">                               
-                                    
-                                        <li id="AreaTopShortcutNav1"><a id="ctl00_TopRegion_TopRightRegion_linkTemaIndexPage" href="/en/Topics_a-z.html?id=223486">Topics A-Z</a></li>
-                                    
-                                      
-                                        <li id="AreaTopShortcutNav2"><a id="ctl00_TopRegion_TopRightRegion_linkSitemapPage" href="/en/dep/md/Guided-tour.html?id=313861">Site Map</a></li>
-                                    
-                                    <li id="AreaTopShortcutNav3"><a id="ctl00_TopRegion_TopRightRegion_linkHelpPage" href="/en/Om-nettstedet/Help.html?id=488641">Help</a></li>
-                                    <li id="AreaTopShortcutNav4"><a id="ctl00_TopRegion_TopRightRegion_linkContactPage" href="/en/dep/md/About-the-Ministry/contact-information.html?id=676">Contact</a></li>
-                                </ul>
+                            </div>
                             
-                        </div>
-                    
-                </div>
-                <div id="AreaFull" class="clearBoth">
+<ul id="AreaTopPrintMeny" class="NavListH">
+    
+        <li class="Share">
+            <noscript>
+                <a href="http://www.regjeringen.no/templates/Avdeling.aspx?id=1175&amp;epslanguage=no&amp;tipafriend=1" id="noScriptTipLink" rel="nofollow" tabindex="72"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                        vertical-align: middle; height: 1em;" alt='Del/Tips' />Del/Tips</a></noscript>
+            <a onclick="return displayTipAFriendForm();" id="TopRegion_TopRightRegion_ctl00_tipAFriendLink" tabindex="34" class="display-none" href="javascript:__doPostBack(&#39;ctl00$TopRegion$TopRightRegion$ctl00$tipAFriendLink&#39;,&#39;&#39;)"><img src='/styles/Images/symbol_tips.gif' style="border: 0;
+                    vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Del/Tips' /><span id="open">Del/Tips</span><span id="close" style="display: none;">Lukk</span></a>
+        </li>
+    
+    <li class="First"><a href="#" onclick="javascript:printPage();return null;" tabindex="35"><img src='/styles/Images/symbol_print_t.gif' style="border: 0;
+            vertical-align: middle; height: 1em; padding-right: 0.3em;" alt='Klikk for å skrive ut siden' />Utskrift</a></li>
+    <li class="ChangeTextSize First"><a href="http://www.regjeringen.no/templates/Avdeling.aspx?id=1175&amp;epslanguage=no&amp;wstyle=Normal%20font" data-wsize="Normal font" rel="nofollow" title='Normal skriftstørrelse' tabindex="36" id="ChangeTextSizeNormal">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Avdeling.aspx?id=1175&amp;epslanguage=no&amp;wstyle=Medium%20font" data-wsize="Medium font" rel="nofollow" title='Medium skriftstørrelse' tabindex="37" id="ChangeTextSizeMedium">a</a>&nbsp;<a href="http://www.regjeringen.no/templates/Avdeling.aspx?id=1175&amp;epslanguage=no&amp;wstyle=Large%20font" data-wsize="Large font" rel="nofollow" title='Stor skriftstørrelse' tabindex="38" id="ChangeTextSizeLarge">a</a></li>
+
+    
+        <li class="First"><a class="ISI_REMOVE" accesskey="5" href='http://isi.phoneticom.com/cgi-bin/rsxt?url=http://www.regjeringen.no/nb/dep/kld/dep/organsisasjon/avdelinger/klimaavdelingen.html?id=1175&amp;customerid=19' tabindex="39">
+            <img src='/styles/Images/symbol_lyd_t.gif' style="border: 0;
+                vertical-align: middle; padding-right: 0.3em; height: 1em;" alt='Klikk for å aktivere ReadSpeaker' />Lytt til teksten
+        </a></li>
+    
+</ul>
+
+                            <ul id="AreaTopShortcutNav" class="NavDropdown">
+                                
+                                    <li id="AreaTopShortcutNav1"><a id="TopRegion_TopRightRegion_linkTemaIndexPage" tabindex="23" href="/nb/tema_a-aa.html?id=223486">Tema A-Å</a></li>
+                                
+                                
+                                    <li id="AreaTopShortcutNav2"><a id="TopRegion_TopRightRegion_linkSitemapPage" tabindex="24" href="/nb/dep/kld/nettstedskart.html?id=313861">Nettstedskart</a></li>
+                                
+                                <li id="AreaTopShortcutNav3"><a id="TopRegion_TopRightRegion_linkHelpPage" tabindex="25" href="/nb/Om-nettstedet/hjelp.html?id=488641">Hjelp</a></li>
+                                <li id="AreaTopShortcutNav4"><a id="TopRegion_TopRightRegion_linkContactPage" tabindex="26" href="/nb/dep/kld/dep/kontakt.html?id=676">Kontakt</a></li>
+                            </ul>
+                        
+                    </div>
+                
+            </div>
+            <div id="AreaFull" class="clearBoth">
                 <div id="AreaFullContent">
                     <!-- ISI_START -->
                     
-                        <div id="AreaContentAndRight">
-                            
-                                <div id="AreaContent">
-                                    <div id="slickbox" style="display:none;">
-                                       
-                                            
-<script type="text/javascript"><!--
-function fbs_click() 
-{
-    u=location.href;
-    t=document.title;
-    window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
-    return false;
-}
-function nettby_click(pageurl,pagename)
-{
-    wnd=window.open('http://www.nettby.no/user/edit_link.php?name=regjeringen.no&url='+pageurl+'&description='+pagename,'edit_link','scrollbars=no,width=450,height=430');
-    wnd.focus();
-    return false;
-}
-function GetThis(T, C, U, L) 
-{
-	var targetUrl = 'http://www.myspace.com/index.cfm?fuseaction=postto&' + 't=' + encodeURIComponent(T) + '&c=' + encodeURIComponent(C) + '&u=' + encodeURIComponent(U) + '&l=' + L;
-	wnd = window.open(targetUrl);
-	wnd.focus();
-	return false;
-}
---></script>
-
-
-
-    <div id="thankyouview">
-        <div id="thankyoudiv"></div>        
-    </div>
-    <div id="tipafriend">
-        <div id="tipafriendContent">
-            
-            <div>
-	  
-                <p><strong>Share this page with a friend </strong></p>
-                <ol>
-                    <li>
-                        
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Recipient’s e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Your e-mail address:</label>
-                        <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
-                        &nbsp;
-                        &nbsp;
-                    </li>
-                    <li>
-                        <label for="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Message:</label>
-                        <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;"></textarea>
-                    </li>
-                    <li>
-                        <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send mail" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="ctl00_FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
-                    </li>
-                    <li>
-                                                         
-                    </li>
-                </ol>                          
-            
-</div>
-        </div> 
-    </div>
-    <div id="ShareArticle">
-        <p><strong>Share</strong></p>
-        <ul class="communities">        
-            <li><a class="share_facebook" onclick="return fbs_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut.html?id=1175" target="_blank">Facebook</a></li>            
-            <li><a class="share_nettby" onclick="return nettby_click('http://www.regjeringen.no/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut.html?id=1175', 'Department for Climate Change and Pollution Control')" href='http://www.nettby.no/user/edit_link.php?name=regjeringen.no&amp;url=http://www.regjeringen.no/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut.html?id=1175&amp;description=Department for Climate Change and Pollution Control' target="_blank">Nettby</a></li>
-            <li><a class="share_myspace" href="#" onclick="return GetThis('Department for Climate Change and Pollution Control','','http://www.regjeringen.no/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut.html?id=1175',3)">Myspace</a></li>
-            <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">Origo</a></li>
-        </ul>
-    </div>
-
-
-
-                                        
-                                    </div>
-                                    <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
-                                    
-
-    
-
-    
-    <p class="breadcrumbs">You are here: <a href="/en.html?id=4">Government.no</a> / <a href="/en/dep/md.html?id=668">Ministry of the Environment</a> / <a href="/en/dep/md/About-the-Ministry.html?id=673">About the Ministry</a> / <a href="/en/dep/md/About-the-Ministry/organisation.html?id=692">Organisation</a> / <span>Department for Climate Change and Pollution Control</span>
-</p>
-    <div class="documentTop">        
-        
-        <h1>Department for Climate Change and Pollution Control</h1>
-        
-        <div class="pageDescription"><p>The department consists of three sections and an administrative unit. The department’s responsibilities includes development of environmental policies and strategies in the areas of climate and energy, including the Governments International Climate and Forest Initiative. It furthers covers hazardous chemicals, wastes, local air pollution and noise, and environmental data and monitoring. The department is responsible for the Norwegian Pollution Control Authority, and for the Norwegian Maritime Directorate on environmental related issues. To a large degree the department’s work is related to development of legal, administrative and economic instruments. Further, on the development and implementation of international legal instruments, particularly within the EEA, The department is responsible for a number of international environmental agreements, including the UN Framework Convention on Climate Change and the Kyoto Protocol, the UNECE Convention on Long-range Transboundary Air Pollution, UN International Maritime Organisation (IMO) conventions, and chemical conventions like the Basel Convention, the Stockholm Convention and the Rotterdam Convention.</p></div>        
-     </div>
-     
-    <div class="documentBody">
-        
-    
-        <div class="BoxDepartments expDiv">
-            <img src="/upload/MD/Bilder/Portrettbilder/Administrasjon/ekspedisjonssjef_lene_lyngby_133X180.jpg" alt="Director General Lene Lyngby" class="portrait" />
-            <div class="content">
-            <h2>
-                <a href="/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut/deputy-director-general-lene-lyngby.html?id=85649" title="">
-                    Director General Lene Lyngby
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none">Head of Department for Climate Change and Pollution Control</h3>
-                
-                
-                
-                
-                
-            </div>
-        </div>
-    
-        <div class="BoxDepartments expDiv">
-            
-            <h2>
-                <a href="/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut/department-secretariat.html?id=85646" title="">
-                    Department Secretariat
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none"></h3>
-            
-            
-            
-        </div>
-    
-        <div class="BoxDepartments expDiv">
-            
-            <h2>
-                <a href="/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut/section-for-hazardous-substances-and-and.html?id=85643" title="">
-                    Section for Chemicals and Waste
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none"></h3>
-            
-            
-            
-        </div>
-    
-        <div class="BoxDepartments expDiv">
-            
-            <h2>
-                <a href="/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut/section-for-climate-change.html?id=85645" title="">
-                    Section for Climate Change
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none"></h3>
-            
-            
-            
-        </div>
-    
-        <div class="BoxDepartments expDiv">
-            
-            <h2>
-                <a href="/en/dep/md/About-the-Ministry/organisation/Departments/department-for-environmental-data-pollut/section-air-pollution-sustainable-consum.html?id=451215" title="">
-                    Section for Air Pollution, Energy, Sustainable Consumption and Transport
-                </a>
-            </h2>
-            <h3 class="subDescription" style="display:none"></h3>
-            
-            
-            
-        </div>
-    
- 
-
-    </div>
-    <div class="printContact">
-		<div class="Toolbox">   
-        <h2 class="ToolboxHeader">
-            
-                        Contact information
-                    
-        </h2>
-        <div class="ToolboxContent">
-            <h3 class="relatedContactHead">Department for Climate Change and Pollution Control</h3>            
-            <p class="noPadBtm"><img id='Eoi_1' class='obfimg' src='/images/emailimages/0bbaa886a9b6916f31307c7a410577f5.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_1', '447A256B78282D2529692164202A21177A662B2A6A3421206A2029042F2530302B2930372B347E2B30282D252966792221362C642578'));//--></script></p>
-                <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Department for Climate Change and Pollution Control">
-                    <tr>
-                        <td>
-                        Telephone:
-                    </td>
-
-                        <td><a class="telephoneLink" href="tel:+4722245803">+47 22 24 58 03</a></td>
-
-                    </tr>
-                    <tr>
-                        <td>
-                        Fax:
-                    </td>
-
-                        <td><a class="telephoneLink" href="tel:+4722249563">+47 22 24 95 63</a></td>
-
-                    </tr>  
-                </table>
-                <h3 class="noPadBtm">
-                        Address
-                    </h3>
-                <p>The Ministry of the Environment<br />P.O.Box 8013 Dep<br />N-0030 Oslo</p>
-        </div>
-    </div>
-     
-    </div>
-
-                                </div>
-                                <div id="AreaRight"> 
-                                    
-                                        
-                                            <div id="ctl00_FullRegion_CenterAndRightRegion_RightRegion_RightRegionProfile_ctl00_Div1" class="DepProfile"><a href='/en/dep/md.html?id=668'><img src="/Upload/MD/Profilelementer/Avdelingsnoytral/mildep_198x123.jpg" alt="Ministry of the Environment" /></a></div>
-                                        
-                                        
-                                        
-                                        
-    
-        
-                                        
-                                                                        
-                                        
-    <div id="AreaContactInfo" class="Toolbox">   
-        <h2 class="ToolboxHeader">
-            
-                        Contact information
-                    
-        </h2>
-        <div class="ToolboxContent">
-            <h3 class="relatedContactHead">Department for Climate Change and Pollution Control</h3>            
-            <p class="noPadBtm"><img id='Eoi_2' class='obfimg' src='/images/emailimages/0bbaa886a9b6916f31307c7a410577f5.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_2', '734D125C4F1F1A121E5E1653171D16204D5142322C1C151D3A071012071D1C301D1C1A141621071B141A212C1D1C1A141621071B141A212C1D1C1A141621071B141A21171D320116071D16302C1D1C1A1416211F1F06352C43431F0710514E171A53511C1D5D0316175D171E33181207071C1E07001C03491C071F1A121E514E1516011B53124F'));//--></script></p>
-                <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Department for Climate Change and Pollution Control">
-                    <tr>
-                        <td>
-                        Telephone:
-                    </td>
-
-                        <td><a class="telephoneLink" href="tel:+4722245803">+47 22 24 58 03</a></td>
-
-                    </tr>
-                    <tr>
-                        <td>
-                        Fax:
-                    </td>
-
-                        <td><a class="telephoneLink" href="tel:+4722249563">+47 22 24 95 63</a></td>
-
-                    </tr>  
-                </table>
-                <h3 class="noPadBtm">
-                        Address
-                    </h3>
-                <p>The Ministry of the Environment<br />P.O.Box 8013 Dep<br />N-0030 Oslo</p>
-        </div>
-    </div>
-     
-
-                                                                                                   
-                                </div>
-                            
-                        </div>
                         <div id="AreaLeft">
-                              
+                            
                                 <div id="AreaLeftNav" class="NavListV">
                                     
 
@@ -515,125 +273,705 @@ document.write(dc('Eoi_2', '734D125C4F1F1A121E5E1653171D16204D5142322C1C151D3A07
 <a class="SkipNav ISI_MENU" href="#AreaContent">Skip left menu navigation</a>
 
     <ul>
-        <li class="First"><a class="ISI_MENU" accesskey="3" href="/en/dep/md.html?id=668">
-            Ministry home</a></li></ul>
+        <li class="First"><a class="ISI_MENU" accesskey="3" href="/nb/dep/kld.html?id=668" tabindex="41">
+            Departementets forside</a></li></ul>
 
 <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/md/Whats-new.html?id=669" title=''>
-            What's new</a>
+        <a class="ISI_MENU" href="/nb/dep/kld/aktuelt.html?id=669" title="" tabindex="42">
+            Aktuelt</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/md/Selected-topics.html?id=670" title=''>
-            Selected topics</a>
+        <a class="ISI_MENU" href="/nb/dep/kld/tema.html?id=670" title="" tabindex="43">
+            Tema</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/md/press-centre.html?id=671" title=''>
-            Press centre</a>
+        <a class="ISI_MENU" href="/nb/dep/kld/pressesenter.html?id=671" title="" tabindex="44">
+            Pressesenter</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/md/documents-and-publications.html?id=270420" title=''>
-            Documents</a>
+        <a class="ISI_MENU" href="/nb/dep/kld/dok.html?id=270420" title="" tabindex="45">
+            Dokumenter</a>
     </li><li class="Selected">
-        <a class="ISI_MENU " href="/en/dep/md/About-the-Ministry.html?id=673" title=''>
-            About the Ministry</a>
+        <a class="ISI_MENU " href="/nb/dep/kld/dep.html?id=673" title="" tabindex="46">
+            Om departementet</a>
     <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/md/About-the-Ministry/minister-of-the-environment-and-developm.html?id=486338" title=''>
-            Minister of the Environment and International Development</a>
+        <a class="ISI_MENU" href="/nb/dep/kld/dep/miljovernminister-tine-sundtoft.html?id=742913" title="" tabindex="47">
+            Klima- og miljøminister Tine Sundtoft</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/md/About-the-Ministry/Other-political-staff.html?id=690" title=''>
-            Other political staff</a>
+        <a class="ISI_MENU" href="/nb/dep/kld/dep/politisk_ledelse.html?id=690" title="" tabindex="48">
+            Øvrig politisk ledelse</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/md/About-the-Ministry/Senior-administrative-staff.html?id=85696" title=''>
-            Senior administrative staff</a>
+        <a class="ISI_MENU" href="/nb/dep/kld/dep/administrativ_ledelse.html?id=85696" title="" tabindex="49">
+            Administrativ ledelse</a>
     </li><li class="Selected">
-        <a class="ISI_MENU Selected" href="/en/dep/md/About-the-Ministry/organisation.html?id=692" title=''>
-            Organisation</a>
-    <ul><li class="">
-        <a class="ISI_MENU" href="/en/dep/md/About-the-Ministry/organisation/Historical-background.html?id=696" title=''>
-            Historical background</a>
+        <a class="ISI_MENU " href="/nb/dep/kld/dep/organsisasjon.html?id=692" title="" tabindex="50">
+            Organisasjon</a>
+    <ul><li class="Selected">
+        <a class="ISI_MENU Selected" href="/nb/dep/kld/dep/organsisasjon/avdelinger.html?id=695" title="" tabindex="51">
+            Avdelinger</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nb/dep/kld/dep/organsisasjon/historikk.html?id=696" title="" tabindex="52">
+            Historikk</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nb/dep/kld/dep/organsisasjon/organisasjonskart.html?id=731965" title="" tabindex="53">
+            Organisasjonskart</a>
     </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/md/About-the-Ministry/Subordinate-agencies.html?id=115212" title=''>
-            Subordinate agencies</a>
+        <a class="ISI_MENU" href="/nb/dep/kld/dep/tilskot.html?id=676407" title="" tabindex="54">
+            Tilskot</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/md/About-the-Ministry/Areas-of-responsibility.html?id=693" title=''>
-            Areas of responsibility</a>
+        <a class="ISI_MENU" href="/nb/dep/kld/dep/underliggende-etater.html?id=115212" title="" tabindex="55">
+            Underliggende etater</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/dep/md/About-the-Ministry/contact-information.html?id=676" title=''>
-            Contact</a>
+        <a class="ISI_MENU" href="/nb/dep/kld/dep/styrer-rad-og-utvalg.html?id=443489" title="" tabindex="56">
+            Styrer, råd og utvalg</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nb/dep/kld/dep/ansvarsomraader.html?id=693" title="" tabindex="57">
+            Ansvarsområder</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nb/dep/kld/dep/kontakt.html?id=676" title="" tabindex="58">
+            Kontakt</a>
+    </li><li class="">
+        <a class="ISI_MENU" href="/nb/dep/kld/dep/miljoforvaltningens-skolesatsing.html?id=707475" title="" tabindex="59">
+            Miljøforvaltningens skolesatsing</a>
     </li></ul></li><li class="">
-        <a class="ISI_MENU" href="/en/dep/md/Sound-and-picture.html?id=674" title=''>
-            Sound and picture</a>
+        <a class="ISI_MENU" href="/nb/dep/kld/lyd_bilde.html?id=674" title="" tabindex="60">
+            Lyd og bilde</a>
     </li><li class="">
-        <a class="ISI_MENU" href="/en/archive.html?id=115322" title=''>
-            Document Archive</a>
+        <a class="ISI_MENU" href="/nb/dokumentarkiv.html?id=115322" title="" tabindex="61">
+            Dokumentarkiv</a>
     </li></ul>
 
                                 </div>
-                              
+                                
+                                
+                            
+                        </div>
+                        <div id="AreaContentAndRight">
+                            
+                                <div id="AreaContent">
+                                    <div id="FullRegion_CenterAndRightRegion_slickbox" class="slickbox" style="display: none;">
+                                        
+                                            
+<script type="text/javascript"><!--
+    function facebook_click() {
+        u = location.href;
+        t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+        return false;
+    }
+    function twitter_click() {
+        u = location.href;
+        t = encodeURIComponent('Klimaavdelingen');
+        window.open('http://twitter.com/share?url=' + encodeURIComponent(u) + '&text=' + t, 'sharer', 'toolbar=0,status=0,width=350,height=230');
+        return false;
+    }
+--></script>
+<div id="thankyouview">
+    <div id="thankyoudiv">
+        
+    </div>
+</div>
+<div id="tipafriend">
+    <div id="tipafriendContent">
+        
+                <div>
+	
+                    <div id="TipAFriendForm">
+                        <fieldset>
+                            <legend><strong>
+                                Tips en venn
+                            </strong></legend>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailLabel">Mottakers e-post:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$ReceiverMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_ReceiverMailTextBox" class="txtReceiverMailText" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailLabel">Din e-post:</label>
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SenderMailTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SenderMailTextBox" class="txtSenderMailTextBox" style="width:200px;" />
+                                &nbsp;
+                                &nbsp;
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <label for="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentLabel">Melding:</label>
+                                <textarea name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$CommentTextBox" rows="2" cols="20" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_CommentTextBox" class="txtCommentTextBox" style="width:200px;">
+</textarea>
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                <input type="submit" name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton" value="Send tips" onclick="setTipClicked();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitButton&quot;, &quot;&quot;, true, &quot;TipAFriendValidationGroup&quot;, &quot;&quot;, false, false))" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitButton" class="tipafriendsendmail" />
+                                <input name="ctl00$FullRegion$CenterAndRightRegion$TipAFriendPlaceholder$TipAFriend$SubmitTextBox" type="text" id="FullRegion_CenterAndRightRegion_TipAFriendPlaceholder_TipAFriend_SubmitTextBox" style="display: none;
+                                    width: 10px;" />
+                            </div>
+                            <div class="tipAFriendFormRow">
+                                
+                            </div>
+                        </fieldset>
+                    </div>
+                
+</div>
+            
+    </div>
+</div>
+<div id="ShareArticle">
+    <p>
+        <strong>
+            Del artikkelen
+        </strong>
+    </p>
+    <ul class="communities">
+        <li><a class="share_facebook" onclick="return facebook_click()" href="http://www.facebook.com/share.php?u=http://www.regjeringen.no/nb/dep/kld/dep/organsisasjon/avdelinger/klimaavdelingen.html?id=1175" target="_blank">
+            Facebook</a></li>
+        <li><a class="share_twitter" onclick="return twitter_click()" href="http://twitter.com/share?url=http://www.regjeringen.no/nb/dep/kld/dep/organsisasjon/avdelinger/klimaavdelingen.html?id=1175&amp;text=Klimaavdelingen" target="_blank">
+            Twitter</a></li>
+        <li><a class="share_origo" href="http://origo.no/-/sharing/share?u=referrer" target="_blank">
+            Origo</a></li>
+    </ul>
+</div>
+
+                                        
+                                    </div>
+                                    
+    
+
+
+    
+        
+
+<div class="breadcrumbs ">
+
+    
+               <span>
+                   Du er her: 
+               </span>
+                
+                <ul class="breadcrumbmenu">
+            
+                <li><a href="/nb.html?id=4" title="regjeringen.no">regjeringen.no</a> / </li>
+            
+                <li><a href="/nb/dep/kld.html?id=668" title="Klima- og miljødepartementet">Klima- og milj&#248;departementet</a> / </li>
+            
+                <li><a href="/nb/dep/kld/dep.html?id=673" title="Om departementet">Om departementet</a> / </li>
+            
+                <li><a href="/nb/dep/kld/dep/organsisasjon.html?id=692" title="Organisasjon">Organisasjon</a> / </li>
+            
+                <li><a href="/nb/dep/kld/dep/organsisasjon/avdelinger.html?id=695" title="Avdelinger">Avdelinger</a> / </li>
+            
+                <li><span>Klimaavdelingen</span></li>
+            
+                </ul>
+            
+</div>
+        
+            <div class="documentTop">
+                
+                <a accesskey="1" id="Content" name="Content" class="SkipNav"></a>
+                <h1>Klimaavdelingen</h1>
+                
+                    <div class="pageDescription"><div>Avdelingen består av 4 enheter, inkludert Regjeringens klima- og skogprosjekt samt en administrativ enhet. Avdelingen har ansvar for internasjonalt arbeid og nasjonal politikkutvikling innenfor klimaområdet samt lokal luftkvalitet og støy.
+<div>
+<div>
+<p>Avdelingen har også overordnet ansvar for miljø og utviklingsspørsmål.</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div></div>        
+                
+            </div>
+        
+    
+    <div class="documentBody">
+        
+        
+    
+        <div class="BoxDepartments expDiv">
+            <img src="/imgpreviews/00/00/02/34/23419_img___201109200906.jpg" alt="Ekspedisjonssjef Ingvild Andreassen Sæverud." title="Ekspedisjonssjef Ingvild Andreassen Sæverud." class="portrait" />
+            <div class="content">
+                <h2>
+                <a href="/nb/dep/kld/dep/organsisasjon/avdelinger/klimaavdelingen/ingvild-andreassen-savaverud.html?id=498168" title="">
+                    Ekspedisjonssjef Ingvild Andreassen Sæverud</a>
+            </h2>
+                <h3 class="subDescription" style="display:none">Leder for Klimaavdelingen</h3>
+                
+                
+                
+                
+                <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr>
+		<th>
+                            E-post: 
+                        </th>
+		<td>
+                            <img id='Eoi_1' class='obfimg' src='/upload/system/emailimages/3773e18406ccd390775dd8be70da51b0.png' alt='' /><script type="text/javascript" id="Eos_1"><!--
+document.write(dc(1, '82BCE3ADBEA2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2888FBCECE3F2F1ADBEEDECACF2E7E6ACE6EEE9C2E6F7F0E7F4E7E3F1ACECE7F1F1E3E7F0E6ECE3ACE6EEEBF4E5ECEBBCECE3F2F1BEA2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2A2888FBCA5EDECACF2E7E6ACE6EEE9C2E6F7F0E7F4E7E3F1ACECE7F1F1E3E7F0E6ECE3ACE6EEEBF4E5ECEBB8EDF6EEEBE3EFA5BFE4E7F0EAA2E3BE'));//--></script>
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Telefon: 
+                        </th>
+		<td>
+                            22 24 58 79
+                        </td>
+	</tr>
+	<tr>
+		<th>
+                            Mobil: 
+                        </th>
+		<td>
+                            415 50 491
+                        </td>
+	</tr>
+</table>
+
+            </div>
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/nb/dep/kld/dep/organsisasjon/avdelinger/klimaavdelingen/kas.html?id=85646" title="">
+                    Avdelingssekretariatet
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                Avdelingssekretariatet har ansvar for avdelingens budsjett, regnskap, økonomistyring og etatsstyring. Resultatkontroll og rapportering. Personalsaker. Koordinering av virksomhetsplanlegging og andre fellessaker. Planlegging av konferanser, seminarer og møter.
+
+            </p>
+            <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr>
+		<th>
+                        E-post: 
+                    </th>
+		<td>
+                        <span><img id='Eoi_7' class='obfimg' src='/upload/system/emailimages/4de083ccd2398635d63231f1c7fbc3a0.png' alt='' /><script type="text/javascript" id="Eos_7"><!--
+document.write(dc(7, '4F2021613F2A2B612B23240F242E3B3B20223B3C203F'));//--></script></span>
+                    </td>
+	</tr>
+	<tr>
+		<th>
+                        Telefon: 
+                    </th>
+		<td>
+                        22 24 58 03
+                    </td>
+	</tr>
+</table>
+
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/nb/dep/kld/dep/organsisasjon/avdelinger/klimaavdelingen/suf.html?id=85655" title="">
+                    Utviklings- og finansieringsseksjonen
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                Seksjonen har det overordende ansvaret for en helhetlig og integrert politikk for miljø og utvikling, herunder å ivareta Miljøverndepartementets samarbeidsavtaler med Kina, India, Sør-Afrika og Brasil og miljøsamarbeid med Myanmar,  samt å følge opp arbeidet med grønn økonomi i utviklingsland etter Rio +20 og utviklingspolitiske initiativer som klima- og energiinitiativet Energy+ og Ren energi for utvikling.
+
+Seksjonens arbeid med milj��- og klimafinansiering er i hovedsak rettet mot Global Environmental Facility (GEF) og det grønne fondet under klimakonvensjonen.
+
+Seksjonen bidrar også i arbeidet med de internasjonale klimaforhandlingene.
+
+Seksjonen har videre ansvar for det nasjonale og internasjonale arbeidet med kortlivede klimadrivere, herunder oppfølging gjennom den internasjonale koalisjonen.
+
+            </p>
+            <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr>
+		<th>
+                        E-post: 
+                    </th>
+		<td>
+                        <span><img id='Eoi_8' class='obfimg' src='/upload/system/emailimages/4de083ccd2398635d63231f1c7fbc3a0.png' alt='' /><script type="text/javascript" id="Eos_8"><!--
+document.write(dc(8, '88E7E6A6F8EDECA6ECE4E3C8E3E9FCFCE7E5FCFBE7F8'));//--></script></span>
+                    </td>
+	</tr>
+	<tr>
+		<th>
+                        Telefon: 
+                    </th>
+		<td>
+                        22 24 58 03
+                    </td>
+	</tr>
+</table>
+
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/nb/dep/kld/dep/organsisasjon/avdelinger/klimaavdelingen/km.html?id=85645" title="">
+                    Klima- og markedsseksjonen
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                Seksjonen har koordineringsansvar for den nasjonale klimapolitikken og arbeider med utvikling og implementering av nye virkemidler for å redusere klimagassutslippene bl.a. innenfor sektorene skog, jordbruk, petroleum og fastlandsindustri. Seksjonen har også ansvar for departementets arbeid med nasjonal klimaforskning og -overvåkning.
+
+Seksjonen bidrar i arbeidet med internasjonale klimaforhandlinger, og har ansvar for oppfølging og utvikling av Norges internasjonale forpliktelser under Klimakonvensjonen og Kyotoprotokollen.  
+
+Seksjonen har ansvar for arbeidet med EUs klimakvotesystem og arbeidet med utvikling av nye kvotehandelsmekanismer internasjonalt, samt den norske CO2-kompensasjonsordningen. Seksjonen deltar også i nasjonale og internasjonale prosesser knyttet til CO2-fangst og lagring (CCS).
+
+            </p>
+            <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr>
+		<th>
+                        E-post: 
+                    </th>
+		<td>
+                        <span><img id='Eoi_9' class='obfimg' src='/upload/system/emailimages/4de083ccd2398635d63231f1c7fbc3a0.png' alt='' /><script type="text/javascript" id="Eos_9"><!--
+document.write(dc(9, '442B2A6A3421206A20282F042F2530302B2930372B34'));//--></script></span>
+                    </td>
+	</tr>
+	<tr>
+		<th>
+                        Telefon: 
+                    </th>
+		<td>
+                        22 24 58 03
+                    </td>
+	</tr>
+</table>
+
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/nb/dep/kld/dep/organsisasjon/avdelinger/klimaavdelingen/kos.html?id=613621" title="">
+                    Regjeringens klima- og skogprosjekt
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            
+            <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr>
+		<th>
+                        E-post: 
+                    </th>
+		<td>
+                        <span><img id='Eoi_10' class='obfimg' src='/upload/system/emailimages/4de083ccd2398635d63231f1c7fbc3a0.png' alt='' /><script type="text/javascript" id="Eos_10"><!--
+document.write(dc(10, 'B3DCDD9DC3D6D79DD7DFD8F3D8D2C7C7DCDEC7C0DCC3'));//--></script></span>
+                    </td>
+	</tr>
+	<tr>
+		<th>
+                        Telefon: 
+                    </th>
+		<td>
+                        22 24 58 03
+                    </td>
+	</tr>
+</table>
+
+        </div>
+    
+        <div class="BoxDepartments expDiv">
+            
+            <h2>
+                <a href="/nb/dep/kld/dep/organsisasjon/avdelinger/klimaavdelingen/tran.html?id=696602" title="">
+                    Transport- og lokalmiljøseksjonen
+                </a>
+            </h2>
+            <h3 class="subDescription" style="display:none"></h3>
+            
+            <p>
+                Seksjonen har overordnet ansvar for politikkutvikling som bidrar til reduserte utslipp fra transportsektoren. Herunder økt bruk av miljøvennlig transportmidler og renere kjøretøy, samt arbeidet med drivstoffkvalitet og fornybardirektivet.
+
+Videre har seksjonen ansvar ifor arbeid med Klima og energi i kommunene og nasjonalt arbeid med klimatilpasning.
+
+Seksjonen har også overordnet ansvar for nasjonal politikk og regelverksutvikling innen lokalluft og støy.
+
+            </p>
+            <table cellpadding="0" cellspacing="0" border="0" class="structured" summary="Tabell for oppstilling av persondata">
+	<tr>
+		<th>
+                        E-post: 
+                    </th>
+		<td>
+                        <span><img id='Eoi_11' class='obfimg' src='/upload/system/emailimages/4de083ccd2398635d63231f1c7fbc3a0.png' alt='' /><script type="text/javascript" id="Eos_11"><!--
+document.write(dc(11, 'D8B7B6F6A8BDBCF6BCB4B398B3B9ACACB7B5ACABB7A8'));//--></script></span>
+                    </td>
+	</tr>
+	<tr>
+		<th>
+                        Telefon: 
+                    </th>
+		<td>
+                        22 24 58 03
+                    </td>
+	</tr>
+</table>
+
+        </div>
+    
+
+    </div>
+    
+     <div class="printContact">
+        <div class="Toolbox">
+            
+
+<h2 class="ToolboxHeader">
+                        Kontaktinformasjon
+                    </h2>
+<div class="ToolboxContent">
+    <h3 class="relatedContactHead">Klimaavdelingen</h3>
+    
+    <p class="noPadBtm">
+        
+            <img id='Eoi_2' class='obfimg' src='/upload/system/emailimages/4de083ccd2398635d63231f1c7fbc3a0.png' alt='' /><script type="text/javascript" id="Eos_2"><!--
+document.write(dc(2, '9FA1FEB0A3EBECF0EFB2FABFFBF1FACCA1BDF0F1B1EFFAFBB1FBF3F4DFF4FEEBEBF0F2EBECF0EFA5F0EBF3F6FEF2BDA2F9FAEDF7BFFEA3'));//--></script>
+        
+    </p>
+    <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Klimaavdelingen">
+        
+            <tr>
+                <td>
+                        Telefon:
+                    </td>
+                <td><span>22 24 58 03</span></td>
+            </tr>
+        
+        
+    </table>
+    
+    
+        <h3 class="noPadBtm">
+                        Adresse:
+                    </h3>
+        <div>
+	<p>Klima- og miljødepartementet<br />P.B. 8013 Dep<br />0030 Oslo</p>
+</div>
+</div>
+        </div>
+         
+    </div>
+
+                                    
+                                        
+
+<div class="bottomChangedDate">
+    Sist oppdatert: 22.04.2014
+</div>
+                                    
+
+                                    
+
+                                </div>
+                                <div id="AreaRight">
+                                    
+                                        
+                                            
+    <div class="DepProfile"><a href='/nb/dep/kld.html?id=668' tabindex="61"><img src="/Upload/MD/Profilelementer/Forurensing/mvdep_illustrasjon_198x123w.jpg" alt="" /></a></div>
+
+                                        
+                                        
+                                        
+                                        
+                                            
+    
+
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+    <div id="AreaContactInfo" class="Toolbox">   
+        
+
+<h2 class="ToolboxHeader">
+                        Kontaktinformasjon
+                    </h2>
+<div class="ToolboxContent">
+    <h3 class="relatedContactHead">Klimaavdelingen</h3>
+    
+    <p class="noPadBtm">
+        
+            <img id='Eoi_3' class='obfimg' src='/upload/system/emailimages/4de083ccd2398635d63231f1c7fbc3a0.png' alt='' /><script type="text/javascript" id="Eos_3"><!--
+document.write(dc(3, '81BFE0AEBDF5F2EEF1ACE4A1E5EFE4D2BFA3EEEFAFF1E4E5AFE5EDEAC1EAE0F5F5EEECF5F2EEF1BBEEF5EDE8E0ECA3BCE7E4F3E9A1E0BD'));//--></script>
+        
+    </p>
+    <table cellpadding="0" cellspacing="0" border="0" summary="Telefon og faksnummer til Klimaavdelingen">
+        
+            <tr>
+                <td>
+                        Telefon:
+                    </td>
+                <td><span>22 24 58 03</span></td>
+            </tr>
+        
+        
+    </table>
+    
+    
+        <h3 class="noPadBtm">
+                        Adresse:
+                    </h3>
+        <div>
+	<p>Klima- og miljødepartementet<br />P.B. 8013 Dep<br />0030 Oslo</p>
+</div>
+</div>
+    </div>
+     
+
+                                        
+                                    
+                                </div>
                             
                         </div>
                     
+                    <!-- Region for new design of Frontpage and Ministry frontpages-->
+                    
                     <!-- ISI_STOP -->
-                </div>
                 </div>
             </div>
         </div>
-        
-         
-<div id="PageFooter"><p align="center">Ministry of the Environment, P.O. Box 8013 Dep, 0030 Oslo | Tel: +47 22 24 90 90, Fax: +47 22 24 95 60<br />E-mail: <img id='Eoi_3' class='obfimg' src='/images/emailimages/0bbaa886a9b6916f31307c7a410577f5.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_3', 'F3CD92DCCF9C9DDD839697DD979EB3989287879C9E87809C83CDD19C9DDD839697DD979EB3989287879C9E87809C83C99C879F9A929ED1CE9596819BD3D19C9DDD839697DD979EB3989287879C9E87809C83D1CE969F879A87D392CF'));//--></script>&nbsp;| Web-editor: <img id='Eoi_4' class='obfimg' src='/images/emailimages/4c1e7c98b9f3d25546696d3054850489.png' alt='' /><script type="text/javascript"><!--
-document.write(dc('Eoi_4', 'D6E8B7F9EAA5A3B39DF6A5B7B3A4B2B897E8F4B9B8F8A6B3B2F8B2BB96A5A3B3BDF8A5B7B3A4B2B8B7ECB9A2BABFB7BBF4EBB0B3A4BEF6F4A5A3B39DF6A5B7B3A4B2B897F4EBB3BAA2BFA2F6B7EA'));//--></script></p></div>
-        
-        
-                    
-        
-    </form>
-
-<script type="text/javascript"><!--
-if (navigator.userAgent.indexOf('Opera') != -1) {
-	
-} else
-{    
-    //setAreaHeights();
-}
+    </div>
     
-function Operatest(){
-    if (navigator.userAgent.indexOf('Opera') != -1) 
-    {
-        setAreaHeights();
-    }
-}
-//--></script>
+        
+<div id="PageFooter"><p>Klima- og miljødepartementet,&nbsp;Kongens gate 20, Postboks 8013 Dep, 0030 Oslo | Tlf: 22 24 90 90, Faks: 22 24 95 60 | Org.nr: 972417882<br />E-post: <img id='Eoi_4' class='obfimg' src='/upload/system/emailimages/4de083ccd2398635d63231f1c7fbc3a0.png' alt='' /><script type="text/javascript" id="Eos_4"><!--
+document.write(dc(4, 'F7C996D8CB9899D9879293D9939B9CB79C968383989A83849887C9D59899D9879293D9939B9CB79C968383989A83849887CD98839B9E969AD5CA9192859FD796CB'));//--></script>&nbsp;| Nettredaktør: <img id='Eoi_5' class='obfimg' src='/upload/system/emailimages/19d7d2832ac1c93e538b5301b3677a3d.png' alt='' /><script type="text/javascript" id="Eos_5"><!--
+document.write(dc(5, '1B257A3427757E68697E6F6F7E4B3B7A777772767A5825397475356B7E7F357F77705B6B797821746F77727A7639267D7E69733B39757E68697E6F6F7E4B3B7A777772767A5839267E776F726F3B7A27'));//--></script>&nbsp; | Ansvarlig redaktør: <img id='Eoi_6' class='obfimg' src='/upload/system/emailimages/837cdb3f054a4f35850aff232ec29d14.png' alt='' /><script type="text/javascript" id="Eos_6"><!--
+document.write(dc(6, 'B38DD29C8FD4C1D6F193DDDCF98D91DCDD9DC3D6D79DD7DFD8F3D4C1D6D19DDDDCD989DCC7DFDAD2DE918ED5D6C1DB9391D4C1D6F193DDDCF9918ED6DFC7DAC793D28F'));//--></script></p></div>
+<div title="web01" id="hostid" style="display:none;"><img width="10" height="10" src="/images/clear.gif" alt="web01" /></div>
+    
+    
+    
+        
 
-<div id="ctl00_externalPageTrackers">
+
+    
+    </form>
+    <div id="externalPageTrackers">
 	
+        <!-- START OF SmartSource Data Collector TAG -->
+        <!-- This script is used to gather statistics on the use of regjeringen.no -->
+		<script src="https://s.arena.no/dcskb2ftk3dv0h0cmlgjuexsc_3z8k/load.js" type="text/javascript"></script>
+        <script type="text/javascript">
+//<![CDATA[
+            var _tag = new WebTrends();
+            _tag.dcsGetId();
+        //]]>>
+        </script>
+        <script type="text/javascript">
+//<![CDATA[
+            _tag.dcsCollect();
+        //]]>>
+        </script>
+        <noscript>
+            <div>
+                <img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
+        </noscript>
+        <!-- END OF SmartSource Data Collector TAG -->
+    
+</div>       
+    
+    
 
-<!-- BEGIN Xtractor client tracker script -->
-<script src="http://res.xtractor.no/x.js" type="text/javascript"></script>
+<div>
+    
 <script type="text/javascript"><!--
-    _pxId = "1ED8F7C3-BACE-40F1-889B-F1B108BBDBEC";
-    _pxReg();
+    $.cookieConsent = function (options) {
+        options = $.extend({}, {
+            expireDays: 3650,
+            messagepart1: "Regjeringen.no benytter informasjonskapsler (cookies) slik at vi kan yte deg bedre service. Informasjonskapslene blir hovedsakelig benyttet for trafikkmåling og optimalisering av tjenesten. Du kan lese mer om ",
+            messagepart2: "eller fortsette å bruke regjeringen.no som vanlig hvis du godtar dette.",
+            readMoreUrl: "http://www.regjeringen.no/nb/Om-nettstedet/personvernpolicy.html?id=650340",
+            readMoreLinkText: "vår bruk av informasjonskapsler",
+            closeText: "Lukk"            
+        }, options);
+
+
+        function getCookie(name) {
+            var results = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            if (results) return (unescape(results[2]));
+            return null;
+        }
+
+        function openDialog() {
+            var scrollDialogMarkup = '<div id="cookieDialog"><div class="content"><div class="floatRight"><a href="#" class="closeDialog" title="' + options.closeText + '">' + options.closeText + ' X</a></div><div class="info">' + options.messagepart1 + '<a href=" ' + options.readMoreUrl + ' ">' + options.readMoreLinkText + '</a> ' + options.messagepart2 + '</div></div></div>';
+            $(scrollDialogMarkup).appendTo('body');
+
+            $('#cookieDialog .closeDialog').click(function () {
+                closeCookieInfo();
+                return false;
+            });
+
+            $('#cookieDialog').addClass('visible');
+        }
+
+
+        function hideDialog() {
+            $('#cookieDialog').html('');
+        }
+
+
+        function closeCookieInfo() {
+            createCookie("cookieconsent", "true", options.expireDays);
+            hideDialog();
+        }
+
+
+        function displayCookieInfoLayer() {
+            var cookieconsent = getCookie("cookieconsent");
+            var noCockieConsent = (cookieconsent == undefined || cookieconsent != 'true');
+            var notInEditMode = (isOpenedInEditMode() === -1);
+
+            if ( noCockieConsent && notInEditMode) {                
+                openDialog();
+
+            } else {
+                
+                hideDialog();
+            }
+        }
+
+        function createCookie(name,value,days) {
+            if (days) {
+                var date = new Date();
+                date.setTime(date.getTime()+(days*24*60*60*1000));
+                var expires = "; expires="+date.toGMTString();
+            } else {
+                expires = "";
+            }            
+            document.cookie = name+"="+escape(value)+expires+"; path=/;";
+        }
+
+
+        function isOpenedInEditMode() {                       
+            return contains(document.referrer, "/cms/edit/");
+        }
+
+       function contains(haystack, needle, caseSensitive) {
+            haystack = caseSensitive ? haystack : haystack.toUpperCase();
+            needle = caseSensitive ? needle : needle.toUpperCase();            
+            return haystack.indexOf(needle);
+        }
+
+
+        displayCookieInfoLayer();
+       
+
+    };
+
+
+    $(function () {
+        $.cookieConsent();
+       
+    });
 //--></script>
-<!-- END Xtractor client tracker script -->
-
-
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- This script is used to gather statistics on the use of regjeringen.no -->
-<script src="/script/js/sdc_090819.js" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var _tag=new WebTrends();
-_tag.dcsGetId();
-//]]>>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-_tag.dcsCollect();
-//]]>>
-</script>
-<noscript>
-    <div><img alt="dcsimg" id="Img1" width="1" height="1" src="http://sdc.arena.no/dcstlz6rp10000c505cd5dmli_7m7r/njs.gif?dcsuri=/nojavascript&amp;WT.js=no&amp;WT.tv=8.6.2" /></div>
-</noscript>
-<!-- END OF SmartSource Data Collector TAG -->
-
 
 </div>
+
+
+    
+
 </body>
 </html>
