@@ -1,5 +1,6 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!-- Format query results for display --><xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Format query results for display -->
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:i18n="http://apache.org/cocoon/i18n/2.1" version="1.0">
 
 <xsl:output method="xml" version="1.0" encoding="UTF-8" indent="yes" doctype-public="-//UIT//DTD Corpus V1.0//EN" doctype-system="http://giellatekno.uit.no/dtd/corpus.dtd"/>
 
@@ -86,7 +87,7 @@
 <!-- Add the locations of the parallel files to the variables-->
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_nob" select="'bjorn-olav-megard-skal-lede-same--og-min.html_id=681004'"/>
-<xsl:variable name="para_sma" select="'rihpestimmie-co2-tekonoligijejarngeste-m.html_id=681066'"/>
+<xsl:variable name="para_sma" select="'bjorn-olav-megard-nammaduvvon-joihit-sam.html_id=681004'"/>
 <xsl:variable name="para_sme" select="'bjorn-olav-megard-nammaduvvon-joihit-sam.html_id=681004'"/>
 
 <!-- Tag the specified elements with the specified language: -->
