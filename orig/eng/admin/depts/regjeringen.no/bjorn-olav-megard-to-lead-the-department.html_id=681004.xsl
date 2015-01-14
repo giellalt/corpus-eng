@@ -87,7 +87,7 @@
 <xsl:variable name="parallel_texts" select="'1'"/>
 <xsl:variable name="para_nob" select="'bjorn-olav-megard-skal-lede-same--og-min.html_id=681004'"/>
 <xsl:variable name="para_sma" select="'rihpestimmie-co2-tekonoligijejarngeste-m.html_id=681066'"/>
-<xsl:variable name="para_mixed" select="'bjorn-olav-megard-nammaduvvon-joihit-sam.html_id=681004'"/>
+<xsl:variable name="para_sme" select="'bjorn-olav-megard-nammaduvvon-joihit-sam.html_id=681004'"/>
 
 <!-- Tag the specified elements with the specified language: -->
 <xsl:variable name="danlang" select="'dan'"/>

@@ -94,7 +94,7 @@
 <xsl:variable name="para_kal" select="''"/>
 <xsl:variable name="para_nno" select="''"/>
 <xsl:variable name="para_nob" select="'statsministerens-nyttarstale-2012.html_id=667848'"/>
-<xsl:variable name="para_mixed" select="'oajagesardni.html_id=667848'"/>
+<xsl:variable name="para_sme" select="'oajagesardni.html_id=667848'"/>
 <xsl:variable name="para_sme" select="''"/>
 <xsl:variable name="para_smj" select="''"/>
 <xsl:variable name="para_swe" select="''"/>
