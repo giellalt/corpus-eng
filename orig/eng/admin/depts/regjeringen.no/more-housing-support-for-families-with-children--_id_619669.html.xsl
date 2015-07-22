@@ -82,7 +82,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="meir-bustotte-til-barnefamiliane-_id_619669.html" xml:lang="nno"/>
-	<parallel_text location="et-godt-men-stramt-forsvarsbudsjett.html_id=619069" xml:lang="nob"/>
+	<parallel_text location="et-godt-men-stramt-forsvarsbudsjett_id_619069.html" xml:lang="nob"/>
 	<parallel_text location="eanet-orrundoarjja-bearraiidda-geain-leat-manat--.html_id=619669" xml:lang="sme"/>
 </xsl:variable>
 

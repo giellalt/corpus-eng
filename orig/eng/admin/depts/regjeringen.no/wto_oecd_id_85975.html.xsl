@@ -83,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="wtooecd.html_id=85975" xml:lang="nob"/>
+	<parallel_text location="wtooecd_id_85975.html" xml:lang="nob"/>
 	<parallel_text location="wtooecd-sekuvdna-.html_id=85975" xml:lang="sme"/>
 </xsl:variable>
 

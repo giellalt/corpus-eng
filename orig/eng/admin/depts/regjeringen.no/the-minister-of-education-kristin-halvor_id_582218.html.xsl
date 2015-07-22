@@ -84,7 +84,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="finansminister-kristin-halvorsen-er-fodt_id_582218.html" xml:lang="nno"/>
-	<parallel_text location="kunnskapsminister-kristin-halvorsen.html_id=582218" xml:lang="nob"/>
+	<parallel_text location="kunnskapsminister-kristin-halvorsen_id_582218.html" xml:lang="nob"/>
 	<parallel_text location="mahttoministtar-kristin-halvorsen.html_id=582218" xml:lang="sme"/>
 </xsl:variable>
 

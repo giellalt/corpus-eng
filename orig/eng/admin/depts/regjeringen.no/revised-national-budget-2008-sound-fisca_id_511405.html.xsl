@@ -83,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="hoykonjunkturen-fortsetter-i-norsk-okono.html_id=511405" xml:lang="nob"/>
+	<parallel_text location="hoykonjunkturen-fortsetter-i-norsk-okono_id_511405.html" xml:lang="nob"/>
 	<parallel_text location="allakonjuktuvra-joatka-norgga-ekonomiija.html_id=511405" xml:lang="sme"/>
 </xsl:variable>
 

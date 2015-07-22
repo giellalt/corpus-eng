@@ -83,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="ilo-konvensjonen-om-urfolks-rettigheter-.html_id=487963" xml:lang="nob"/>
+	<parallel_text location="ilo-konvensjonen-om-urfolks-rettigheter-_id_487963.html" xml:lang="nob"/>
 	<parallel_text location="ilo-konvenuvdna-nr-169-algoalbmogiid-ja-.html_id=487963" xml:lang="sme"/>
 </xsl:variable>
 

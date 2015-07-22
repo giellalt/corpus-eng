@@ -84,7 +84,7 @@
      -->
 <xsl:variable name="parallels">
 	<parallel_text location="garantikassa-for-fiskarane_id_163538.html" xml:lang="nno"/>
-	<parallel_text location="garantikassen-for-fiskerne.html_id=163538" xml:lang="nob"/>
+	<parallel_text location="garantikassen-for-fiskerne_id_163538.html" xml:lang="nob"/>
 	<parallel_text location="guolasteddjiid-dahkaduskassa-.html_id=163538" xml:lang="sme"/>
 </xsl:variable>
 
