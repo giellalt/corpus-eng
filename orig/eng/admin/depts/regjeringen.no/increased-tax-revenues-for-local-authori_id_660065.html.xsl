@@ -87,7 +87,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="auka-skatteinntekter-til-kommunane-i-201.html_id=660065" xml:lang="nno"/>
+	<parallel_text location="auka-skatteinntekter-til-kommunane-i-201_id_660065.html" xml:lang="nno"/>
 	<parallel_text location="regjeringen-prioriterer-utviklingen-av-d.html_id=659582" xml:lang="nob"/>
 	<parallel_text location="eanet-vearroboaut-gielddaide-2011.html_id=660065" xml:lang="sme"/>
 </xsl:variable>

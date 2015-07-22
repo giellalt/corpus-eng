@@ -83,7 +83,7 @@
      filename changed.
      -->
 <xsl:variable name="parallels">
-	<parallel_text location="nyheiter.html_id=513" xml:lang="nno"/>
+	<parallel_text location="nyheiter_id_513.html" xml:lang="nno"/>
 	<parallel_text location="nyheter.html_id=513" xml:lang="nob"/>
 	<parallel_text location="oasat.html_id=513" xml:lang="sme"/>
 </xsl:variable>
