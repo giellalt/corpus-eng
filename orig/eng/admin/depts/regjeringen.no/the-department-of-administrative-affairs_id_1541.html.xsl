@@ -85,7 +85,7 @@
 <xsl:variable name="parallels">
 	<parallel_text location="administrasjonsavdelinga_id_1541.html" xml:lang="nno"/>
 	<parallel_text location="administrasjonsavdelingen_id_1541.html" xml:lang="nob"/>
-	<parallel_text location="halldahusodat.html_id=1541" xml:lang="sme"/>
+	<parallel_text location="halldahusodat_id_1541.html" xml:lang="sme"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X-->

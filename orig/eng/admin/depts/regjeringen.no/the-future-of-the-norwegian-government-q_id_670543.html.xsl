@@ -90,7 +90,7 @@
 	<parallel_text location="regjeringskvartalets-framtid-2_id_670543.html" xml:lang="nno"/>
 	<parallel_text location="rkv_id_670543.html" xml:lang="nob"/>
 	<parallel_text location="raehuskvartala-boahtteaigi_id_670543.html" xml:lang="sma"/>
-	<parallel_text location="raehuskvartala-boahtteaigi.html_id=670543" xml:lang="sme"/>
+	<parallel_text location="raehuskvartala-boahtteaigi_id_670543.html" xml:lang="sme"/>
 	<parallel_text location="raehuskvartala-boahtteaigi_id_670543.html" xml:lang="smj"/>
 </xsl:variable>
 
