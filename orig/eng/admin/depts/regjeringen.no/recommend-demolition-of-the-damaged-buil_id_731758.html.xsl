@@ -90,7 +90,7 @@
 	<parallel_text location="900-000-kroner-til-ny-giv-i-karasjok.html_id=731701" xml:lang="nno"/>
 	<parallel_text location="utredere-foreslar-a-rive-de-skadde-regje.html_id=731758" xml:lang="nob"/>
 	<parallel_text location="ielggadeaddjit-arvalit-gaikut-billistuvv.html_id=731758" xml:lang="sme"/>
-	<parallel_text location="rabaj-lahko-almmukmiehtsev-tjappa-dalken.html_id=733478" xml:lang="smj"/>
+	<parallel_text location="rabaj-lahko-almmukmiehtsev-tjappa-dalken_id_733478.html" xml:lang="smj"/>
 </xsl:variable>
 
 <!-- Add all paragraphs that should have xml:lang=X           -->
