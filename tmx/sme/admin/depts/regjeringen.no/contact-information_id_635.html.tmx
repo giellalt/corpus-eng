@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx>
+  <header segtype="sentence" o-tmf="OmegaT TMX" adminlang="en-US" srclang="eng" datatype="plaintext">
+    <prop type="x-filename">contact-information_id_635.html.xml</prop>
+  </header>
+  <body>
+    <tu>
+      <tuv xml:lang="eng">
+        <seg>Contact - regjeringen.no</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Oktavuohta - regjeringen.no</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="eng">
+        <seg>Enter name or phone number:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čále nama dahje tel. nr..:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="eng">
+        <seg>Show employees of</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Čájet bargiid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="eng">
+        <seg>To show all employees in a unit, leave the name / phone number-field blank.</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Cavgileapmi: Divtte namma-dahje tel. nr. - ruvttu leat guorusin, de oččut ovdan buot ossodaga bargiid</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="eng">
+        <seg>Address: Postboks 8007, Dep, 0030 Oslo Visiting address: Teatergata 9 (R6).</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Fitnancujuhus: Teatergata 9 (R6), Oslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="eng">
+        <seg>Telephone: +47 22 24 90 90 Fax: +47 22 24 95 59</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Poastacujuhus: Postboks 8007, Dep. 0030 Oslo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="eng">
+        <seg>Org.no.:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Org.no.:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="eng">
+        <seg>972 417 874 E-mail:</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>972 417 874</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="eng">
+        <seg>Last updated: 15.05.2014</seg>
+      </tuv>
+      <tuv xml:lang="sme">
+        <seg>Maŋimuš ođasmahttojuvvon: 15.05.2014</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
