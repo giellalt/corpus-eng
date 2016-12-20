@@ -1,0 +1,160 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1238</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual/>
+    <origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Patientlagen</origFileName>
+    <parallel_text xml:lang="fin" location="patientlagen.html"/>
+    <parallel_text xml:lang="fit" location="patientlagen.html"/>
+    <parallel_text xml:lang="rmf" location="patientlagen.html"/>
+    <parallel_text xml:lang="rmn" location="patientlagen.html"/>
+    <parallel_text xml:lang="rmy-rka" location="patientlagen.html"/>
+    <parallel_text xml:lang="rmy-rlo" location="patientlagen.html"/>
+    <parallel_text xml:lang="sma" location="patientlagen.html"/>
+    <parallel_text xml:lang="sme" location="patientlagen.html"/>
+    <parallel_text xml:lang="smj" location="patientlagen.html"/>
+    <parallel_text xml:lang="swe" location="patientlagen.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 134027 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Patient Act / Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe">Information och tjänster för din hälsa och vård. Besök 1177.se eller ring 1177 för sjukvårdsrådgivning. Öppet dygnet runt.</p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="swe">Gå direkt till innehållet</p>
+    <p xml:lang="swe">Gå direkt till navigeringen</p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nob">Behöver du sjukvårdsrådgivning? Ring 1177</p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="nob">English / Engelska</p>
+    <p xml:lang="nno"></p>
+    <p type="title" xml:lang="swe">EnglishEngelska</p>
+    <list>
+      <p type="listitem">Back to the start page for this theme</p>
+    </list>
+    <p type="title" xml:lang="deu">Patient ActPatientlagen</p>
+    <p xml:lang="nno">Skriv ut</p>
+    <p xml:lang="ger">Stäng</p>
+    <p type="title" xml:lang="nno">Skriv ut</p>
+    <p xml:lang="swe">Hela artikeln (ca 4 sidor)</p>
+    <p type="title" xml:lang="swe">Välj kapitel för utskrift</p>
+    <p>You should understand the information (ca 3 sidor)</p>
+    <p>You can chose to receive outpatient care anywhere in Sweden (ca 2 sidor)</p>
+    <p>Second opinion (ca 1 sida)</p>
+    <p>You may or may not need a referral (ca 1 sida)</p>
+    <p>What to do if you are dissatisfied (ca 1 sida)</p>
+    <p>The purpose of the Patient Act is to protect your rights and interests as a patient. The law states that you are to be informed about your illness and the kinds of treatment that are available. You have the right to participate in all decisions about the care you will be receiving. You must also be told where you can obtain the care that you need.</p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="swe">Tipsa och dela</p>
+    <p xml:lang="nno">Skriv ut</p>
+    <p xml:lang="ger">Stäng</p>
+    <p type="title" xml:lang="nno">Skriv ut</p>
+    <p xml:lang="swe">Hela artikeln (ca 4 sidor)</p>
+    <p type="title" xml:lang="swe">Välj kapitel för utskrift</p>
+    <p>You should understand the information (ca 3 sidor)</p>
+    <p>You can chose to receive outpatient care anywhere in Sweden (ca 2 sidor)</p>
+    <p>Second opinion (ca 1 sida)</p>
+    <p>You may or may not need a referral (ca 1 sida)</p>
+    <p>What to do if you are dissatisfied (ca 1 sida)</p>
+    <p type="title" xml:lang="swe">Hitta i artikeln</p>
+    <p type="title">You should understand the information</p>
+    <p xml:lang="nno"></p>
+    <p type="title">You should understand the information</p>
+    <p>Caregivers are required to provide you with all necessary information no matter who you are or what background you have. For example, a clinic may be responsible for offering written information or an interpreter so that you can fully understand exactly how an examination will be performed.</p>
+    <p>The information must be adapted to your particular circumstances and capabilities. This is important in order for you to be able to understand and be personally involved in your care. You must always have the chance to explain what you want to happen—then it is up to you to decide how much you want to take advantage of that opportunity.</p>
+    <p>Once you are familiar with the options that are available, you can give your consent or otherwise indicate your preferences. You are always entitled to turn down any care that is offered to you. You can also change your mind after you have approved a certain kind of care.</p>
+    <p>Children must also be given the opportunity to state their point of view. This may be done together with the parents or legal guardians for a very young child, but the importance of participation by the child increases with age. To be able to be active in his or her care and make decisions, it is important for the child to also understand the information.</p>
+    <p type="title">What kind of information may be involved?</p>
+    <p>Caregivers must fully inform you of the following:</p>
+    <list>
+      <p type="listitem">Your state of health.</p>
+      <p type="listitem">The examination, care and treatment options that are available.</p>
+      <p type="listitem">What aids are available.</p>
+      <p type="listitem">When you can expect to obtain care.</p>
+      <p type="listitem">What they hope to achieve with your care and treatment.</p>
+      <p type="listitem">What risks you have for developing various complications or adverse effects.</p>
+      <p type="listitem">How any follow-up care will be arranged.</p>
+      <p type="listitem">The methods available to prevent injury or illness.</p>
+      <p type="listitem">How to contact Försäkringskassan in order to find out about obtaining care in another EEA country or Switzerland.</p>
+    </list>
+    <p>Sometimes, a family member may need information about your care. Due to confidentiality requirements, a member of your family can be given that kind of information only if they accompany you to an appointment or if you specifically authorize them.</p>
+    <p>If your life is in danger and the situation is urgent, you will receive care even though you are unconscious or are unable to communicate for some other reason.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p xml:lang="nno"></p>
+    <p type="title">You can chose to receive outpatient care anywhere in Sweden</p>
+    <p xml:lang="nno"></p>
+    <p type="title">You can chose to receive outpatient care anywhere in Sweden</p>
+    <p>You must be told what kind of care your county council has to offer and whether you can obtain it from another one.</p>
+    <p>But you are entitled to choose outpatient care anywhere in Sweden. In other words, you may decide what health centre or outpatient specialist clinic you want to have an appointment or examination at. Examples of outpatient specialist care include cataract surgery.</p>
+    <p>It doesn't matter whether the care provider is public or private as long as they are funded by the county council.</p>
+    <p>If you like, you can enrol at a particular health centre. However, that doesn't prevent you from going to any other health centre anywhere in Sweden. At a health centre, you can also choose to always see the same doctor.</p>
+    <p>You can also choose highly specialised outpatient care at a regional hospital in a different county, such as cancer treatment follow-up.</p>
+    <p type="title">Your medical needs make the difference</p>
+    <p>When seeking care from another county council, your medical needs determine when you will receive care. The doctor will make that assessment. You are entitled to obtain outpatient care on the same terms as the registered residents of the county. For example, your patient fee (co-pay) will be the same as for everyone else who receives outpatient care. You will not be reimbursed for travel, food or hotel expenses when you go to another county. Nor will you be covered by the healthcare guarantee there.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p xml:lang="nno"></p>
+    <p type="title">Second opinion</p>
+    <p xml:lang="nno"></p>
+    <p type="title">Second opinion</p>
+    <p>If you have a life-threatening or extremely serious illness or injury and need to make a difficult medical decision, you can request a second opinion. A second opinion is provided by a doctor other than the one you already have, either in your county or elsewhere.</p>
+    <p>Your county council will pay for the second opinion and any travel expenses to another county.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p xml:lang="nno"></p>
+    <p type="title">You may or may not need a referral</p>
+    <p xml:lang="nno"></p>
+    <p type="title">You may or may not need a referral</p>
+    <p>If a referral is required in order for you to obtain care at an outpatient specialist clinic, either in your county or another one, you must have a referral from your health centre.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p xml:lang="nno"></p>
+    <p type="title">What to do if you are dissatisfied</p>
+    <p xml:lang="nno"></p>
+    <p type="title">What to do if you are dissatisfied</p>
+    <p>Every county council has a patient advisory board that will assist you if you have not been allowed to fully participate in your care or if you are dissatisfied for some other reason. For instance, the board can help you contact the caregivers in charge and find out how to report medical malpractice and other incidents.</p>
+    <p xml:lang="swe">Fäll ihop</p>
+    <p xml:lang="swe">Tipsa och dela</p>
+    <list>
+      <p type="listitem" xml:lang="nno">Facebook</p>
+      <p type="listitem" xml:lang="nno">Twitter</p>
+    </list>
+    <p type="title" xml:lang="fkv">Tipsa en vän</p>
+    <p xml:lang="swe">Till:</p>
+    <p xml:lang="swe">Från:</p>
+    <p xml:lang="swe">Ditt namn:</p>
+    <p xml:lang="swe">Jag vill tipsa dig om en artikel på 1177 Vårdguiden:</p>
+    <p xml:lang="nno">http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Patientlagen/</p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="ger">Stäng</p>
+    <p xml:lang="nno">Skriv ut</p>
+    <p xml:lang="ger">Stäng</p>
+    <p type="title" xml:lang="nno">Skriv ut</p>
+    <p xml:lang="swe">Hela artikeln (ca 4 sidor)</p>
+    <p type="title" xml:lang="swe">Välj kapitel för utskrift</p>
+    <p>You should understand the information (ca 3 sidor)</p>
+    <p>You can chose to receive outpatient care anywhere in Sweden (ca 2 sidor)</p>
+    <p>Second opinion (ca 1 sida)</p>
+    <p>You may or may not need a referral (ca 1 sida)</p>
+    <p>What to do if you are dissatisfied (ca 1 sida)</p>
+    <p xml:lang="ger">Publicerad:</p>
+    <p xml:lang="sms">2015-01-17</p>
+    <p xml:lang="swe">Skribent och redaktör:</p>
+    <p xml:lang="sma"><em type="italic">Author and editor: </em>Ingemar Karlsson Gadea, 1177 Vårdguiden﻿ </p>
+    <p xml:lang="swe">Granskare:</p>
+    <p><em type="italic">Reviewer: </em>Hasse Knutsson, supervisor, department of health and welfare, Sveriges Kommuner och Landsting, Stockholm </p>
+    <p>All content reviewed and approved by the editorial staff of 1177 Vårdguiden.</p>
+    <p xml:lang="swe">Synpunkter på innehållet? Tyck till</p>
+    <p xml:lang="swe">1177 Vårdguiden – en tjänst från Sveriges landsting och regioner</p>
+  </body>
+</document>
