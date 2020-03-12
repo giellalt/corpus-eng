@@ -1,0 +1,56 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>204</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/djur-och-natur/friluftsliv/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="djur-och-natur-friluftsliv.html"/>
+    <parallel_text xml:lang="swe" location="djur-och-natur-friluftsliv.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Outdoor life - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Outdoor life</p>
+    <p>The County Administrative Board is committed to the provision of a rich outdoor life in the county and that the surrounding countryside is accessible to all.</p>
+    <p>People have different needs and circumstances, and for everyone to have access to nature, we work with both knowledge sharing and making the surroundings available to as many as possible. Some of the natural areas we manage are designed to facilitate access by wheelchair or with prams, for example, there are ramps and disabled parking areas. You are never far from the countryside.</p>
+    <p type="title">The Right of public access is unique</p>
+    <p>The general rule of the right of public access is <span type="quote">"Do not disturb - do not destroy"</span>. The right of public access even applies to nature reserves, but may be limited by various regulations.</p>
+    <p>Find out more about the right of public access by visiting the website of the Swedish Environmental Protection Agency.</p>
+    <p type="title">Contact us</p>
+    <p>County Administrative Board of Dalarna</p>
+    <p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
+    <p>Send message</p>
+    <p>Hide form</p>
+    <p>Your email address (optional)</p>
+    <p>Send a copy of the message to the email address specified</p>
+    <p>Message</p>
+    <p>Enter the code below to send your message</p>
+    <p>Generate new image</p>
+  </body>
+</document>

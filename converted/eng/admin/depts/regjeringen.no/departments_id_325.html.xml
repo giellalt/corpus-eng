@@ -1,0 +1,51 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Ossodagat - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Ministry of Children, Equality and Social Inclusion" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2006</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>249</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <multilingual/>
+    <origFileName>http://regjeringen.no/en/dep/bld/BLD-arbeider-for-at/organisation/departments.html?id=325</origFileName>
+    <parallel_text xml:lang="nno" location="avdelingar_id_325.html"/>
+    <parallel_text xml:lang="nob" location="avdelinger_id_325.html"/>
+    <parallel_text xml:lang="sme" location="ossodagat_id_325.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>The departments of the Ministry of Children, Equality and Social Inclusion - regjeringen.no</p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="nno"></p>
+    <p type="title">Departement of Child Welfare Services</p>
+    <p>The Department of Child Welfare Services is responsible for all aspects of these services, including child welfare institutions, foster care and other help measures. This entails the development of child welfare legislation, policy design, and the overall administration and coordination of the services.</p>
+    <p type="title">Departement of Communications</p>
+    <p>The Ministry of Children and Equality is committed to openness. It takes a proactive approach to informational work, publishing accurate information in a timely fashion and providing updated reports at www.bld.dep.no/english Media inquiries and requests for information are dealt with on an ongoing basis.</p>
+    <p type="title">Department of Childhood, Youth and Family Affairs</p>
+    <p>The Department of Childhood, Youth and Family Affairs is responsible for the design and coordination of overall child and youth policy as well as government family policy.</p>
+    <p type="title">Department of Consumer Affairs and Equality</p>
+    <p>The Department of Consumer Affairs and Equality has the overall responsibility for policy relating to consumer affairs, equality and anti-discrimination, and develops and coordinates activities within these areas. The department is also responsible for coordinating the overall policy for persons with disabilities and for universal design.</p>
+    <p type="title">Department of Integration</p>
+    <p>The Department of Integration and Diversity works with integration and social inclusion policy targeted towards the immigrant population.</p>
+    <p type="title">Department of Planning and Administration</p>
+    <p>The department is responsible for coordination, quality assurance and follow-up of the Ministry’s activities relating to the budget, ministerial financial management and the administration of associated and subordinate agencies.</p>
+  </body>
+</document>

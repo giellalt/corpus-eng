@@ -1,0 +1,266 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1461</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
+    <multilingual/>
+    <origFileName>http://www.skatteetaten.no/upload/Skjemaer/2013/RF-1175E.pdf</origFileName>
+    <parallel_text xml:lang="nob" location="rf-1175b.pdf"/>
+    <parallel_text xml:lang="sme" location="rf-1175s.pdf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p><em type="bold">Income Statement 1 for 2013</em> </p>
+    <p xml:lang="fkv"><em type="bold">Skatteetaten</em> </p>
+    <p>For individuals, ANS/DA and cooperative enterprises etc. that are engaged in business activity without being obliged tosubmit annual accounts pursuant to the Accounting Act, but are subject to a bookkeeping duty pursuant to the Bookkeeping Act. Enclosure with the tax return/partnership statement.</p>
+    <p><em type="bold">The name, address etc. of the self-employed person/ partnership</em> </p>
+    <p xml:lang="vep">Name</p>
+    <p>Business address</p>
+    <p>Accounting periodFromTo</p>
+    <p>Organisation number (for partnerships) Personal ID no  (11 digits) No. of person-years worked by employees</p>
+    <p>Postal code/ location</p>
+    <p>Has the enterprise changed its business address during the income year?</p>
+    <p xml:lang="fkv">YesNo</p>
+    <p>Does the enterprise have a duty to have a pension scheme pursuant to the regulations for mandatory occupational pensions?YesNo</p>
+    <p>If yes, has the enterprise established such a scheme in accordance with the statutory requirements?YesNo</p>
+    <p>Name of accountant</p>
+    <p><em type="bold">External accountant:</em> </p>
+    <p>Business address</p>
+    <p>Has the external accountant completed this form?</p>
+    <p>Accountant’s organisation number</p>
+    <p>Postal code/ location</p>
+    <p>Has the external accountant kept the accounts?</p>
+    <p xml:lang="fkv">YesNoYesNo</p>
+    <p xml:lang="koi">31.12.201331.12.2012</p>
+    <p xml:lang="vep"><em type="bold">Stocks</em> </p>
+    <p>Goods under production</p>
+    <p>Raw materials and purchased semi-manufactured goods</p>
+    <p>Self-produced finished goods</p>
+    <p>Goods purchased for resale</p>
+    <p>Livestock – to be transferred to item 4.4.2 in the tax return</p>
+    <p>Self-produced goods for use in own production – not to be entered in the tax return</p>
+    <p>For agriculture only</p>
+    <p>Reindeer, fur-bearing animals and fur in stock</p>
+    <p>Total stocks – to be transferred to item 1495 and (except for agriculture) to item 4.4.3 in the tax return==</p>
+    <p><em type="bold">Gross profit on goods purchased for resale</em> </p>
+    <p>0260 Gross profit0250 Cost of sales0240 Total sales revenues</p>
+    <p xml:lang="isl">=÷</p>
+    <p><em type="bold">For cooperative enterprises </em></p>
+    <p>that are claiming tax deductions pursuant to the Taxation Act section 10-50.</p>
+    <p xml:lang="koi">-</p>
+    <p>Taxable business income0280 Taxable business income from</p>
+    <p>trading with own members</p>
+    <p><em type="bold">Tax value of trade debtors</em> <em type="bold">(Nominal value of trade debtors and not invoiced trade debtors)</em> </p>
+    <p>Newly established enterprise in 2011 or later?</p>
+    <p xml:lang="fkv">YesNo</p>
+    <p>Total value from the accounts</p>
+    <p><em type="bold">Standard calculation of tax write-down on trade debtors</em> </p>
+    <p>Confirmed losses on trade debtors</p>
+    <p xml:lang="nno">÷÷</p>
+    <p xml:lang="est"><em type="bold">x 4 x</em> </p>
+    <p xml:lang="koi">+</p>
+    <p xml:lang="koi">+</p>
+    <p>From item 0310 last year</p>
+    <p>Credit sales</p>
+    <p>Tax value – must possibly be divided between items 1500 and 1530 in the balance sheet</p>
+    <p xml:lang="koi">==</p>
+    <p>Share of item 0330 that is trade debtors – to be transferred to item 1500</p>
+    <p>Share of item 0330 that is earned, not invoiced trade debtors – to be transferred to item 1530</p>
+    <p><em type="bold">Use of information provided in form RF-1175 by other public agencies</em> In order to coordinate and simplify reporting by business and industry, information provided in this form can be used in whole or in part by other public agencies authorised to collect the same information, cf. the Act relating to the Register of Reporting Obligations of Enterprises sections 5 and 6. Information about any such coordination can be obtained from the Register of Reporting Obligations of Enterprises by calling +47 75 00 75 00, Sales revenues and withdrawals – liable to VAT </p>
+    <p>Insurance and indirect taxes on means of transport</p>
+    <p>Sales revenues and withdrawals free of charge inside VAT Act</p>
+    <p>Sales revenues and withdrawals</p>
+    <p type="listitem">– outside VAT Act</p>
+    <p xml:lang="isl">÷</p>
+    <p>Indirect taxes relating to sales</p>
+    <p xml:lang="isl">÷</p>
+    <p>Public subsidies/ reimbursement Car expenses; use of private vehicle for business</p>
+    <p>Private use of electronic communication÷÷</p>
+    <p>Rental income, real property</p>
+    <p>Maintenance of means of transport</p>
+    <p>Private use of a business vehicle÷÷</p>
+    <p>Reportable travel/subsistence and car allowance</p>
+    <p>Rental income, real property  - liable to VAT</p>
+    <p>Letting of rights – hunting, fishing etc.</p>
+    <p>Non-reportable travel/ subsistence and car allowance</p>
+    <p>Commission chargeOther rental income</p>
+    <p>Sales and advertising expensesCommission income</p>
+    <p>Expenses relating to entertaining (deductible)</p>
+    <p>Membership fees (deductible)</p>
+    <p>Taking to income from balance</p>
+    <p>Other income relating to operationsInsurance premiums</p>
+    <p>Warranty and service expenses<em type="bold">Total operating income</em> </p>
+    <p>License and patent expenses, royalties etc.Cost of sales</p>
+    <p xml:lang="koi">==</p>
+    <p>Other deductible expensesChange in stock of own</p>
+    <p>products (finished or not)</p>
+    <p>Deduction of loss carried over from RF 1219</p>
+    <p>External services and subcontracts</p>
+    <p>Confirmed losses on trade debtors.</p>
+    <p>Change in stocks of selfproduced fixed assets</p>
+    <p>Pay, holiday pay etc.</p>
+    <p>Other confirmed losses – losses on contracts etc</p>
+    <p>Changes to tax writedown of trade debtors</p>
+    <p><em type="bold">Total operating expenses</em> </p>
+    <p xml:lang="koi">==</p>
+    <p><em type="bold">Operating profit/loss</em> </p>
+    <p>Other reportable remuneration</p>
+    <p>Employer’s National Insurance contributions</p>
+    <p>Reportable pension expenses</p>
+    <p>Exchange gainsRemuneration for work paid</p>
+    <p>to partners in ANS/DA etc.</p>
+    <p>Other capital income not specified in form RF-1084 and/or RF-1219</p>
+    <p>Other personnel expenses</p>
+    <p><em type="bold">Total capital income</em>== </p>
+    <p>Exchange lossesDepreciations</p>
+    <p>Other capital expenses not specified in form RF-1219</p>
+    <p>Freight and transport costs relating to sales</p>
+    <p><em type="bold">Total capital expenses</em> </p>
+    <p><em type="bold">Result. Carry over to page 4. Individuals to item 0401, all others to item 0410</em> </p>
+    <p>Income carried over from RF-1219 profit / loss acc’t</p>
+    <p>Energy, fuel etc. relating to production</p>
+    <p>Rent for premises</p>
+    <p>Lighting, heating</p>
+    <p>Waste collection, water and sewage, cleaning etc.</p>
+    <p>Other hire costs</p>
+    <p>Tools, fixtures and fittings etc. not to be capitalised</p>
+    <p>Repairs to and maintenance of buildings</p>
+    <p>Other repairs and maintenance</p>
+    <p>External services (accounting/ consultants etc.)</p>
+    <p>Office expenses – incl. electronic communication, and cost of private use Fuel, means of transport</p>
+    <p xml:lang="koi">==</p>
+    <p xml:lang="koi">==</p>
+    <p>Own pension scheme</p>
+    <p>Leasing of vehicles</p>
+    <p>Research and developmentCooperative share capital in</p>
+    <p>cooperative enterprises</p>
+    <p>Intangible assets, licences/ milk quotas</p>
+    <p>Goodwill (balance group b) Other equity</p>
+    <p>Commercial premises (balance group i)Uncovered loss</p>
+    <p>Buildings, plant, hotels etc. (balance group h)</p>
+    <p>Buildings,plant,machinery under construction – for own use</p>
+    <p>Value of land and forest</p>
+    <p>Negative balance</p>
+    <p><em type="bold">Total tax equity</em> </p>
+    <p><em type="bold">Untaxed equity</em> </p>
+    <p>Fixed technical installations in buildings (balance group j)</p>
+    <p>Positive profit and loss account</p>
+    <p>Buildings, plant, machinery under construction – for sale</p>
+    <p>Plots of land and other land</p>
+    <p>Housing incl. plots of land, cabins etc. Contingency for gain (see Taxation Act 14.70-1 )</p>
+    <p><em type="bold">Total untaxed equity</em> </p>
+    <p xml:lang="koi">== =</p>
+    <p xml:lang="dan"><em type="bold">Debt</em> </p>
+    <p>Machinery, passenger cars, fixtures and fittings (group d)</p>
+    <p>Ships, rigs etc. (balance group e)</p>
+    <p>Planes, helicopters etc. (balance group f)</p>
+    <p>Vans, lorries, buses etc. (balance group c) Enterprise debt to financial institutions</p>
+    <p>Office machinery (balance group a) Long-term loans in foreign currency</p>
+    <p>Overdraft facilities</p>
+    <p>Trade creditors</p>
+    <p>Other operating assets</p>
+    <p>Tax withholdings and other deductions</p>
+    <p>Other public charges</p>
+    <p>Depreciable assets outside the balance system (Cost allocation)</p>
+    <p>Negative profit and loss account</p>
+    <p>Stocks (specification on page 1) Silent partner contributions and liable loan capital</p>
+    <p>Trade debtors</p>
+    <p>Earned, not invoiced trade debtors Allocated dividend</p>
+    <p>Allocated dividend</p>
+    <p>Claims against employees</p>
+    <p>Claims against owners, board members etc. Settlement account, value added tax</p>
+    <p>Long-term receivables in foreign currency Owed Employer’s National Insurance contributions</p>
+    <p>Other receivables</p>
+    <p>Claims for unpaid subscribed capital Advance payments from customers</p>
+    <p>Shares and units in securities funds Debt to employees and owners</p>
+    <p>Pay, holiday pay etc.</p>
+    <p><em type="bold">Total debt</em> </p>
+    <p><em type="bold">Total equity and debt</em> </p>
+    <p xml:lang="koi">=</p>
+    <p xml:lang="koi">=</p>
+    <p xml:lang="koi">= =</p>
+    <p xml:lang="koi">=</p>
+    <p>Bonds and certificates</p>
+    <p><em type="bold">Only to be filled in by those who submitted Income Statement 2 (for RF-1167) last year.</em> </p>
+    <p>Other financial instruments</p>
+    <p>Holdings in businesses assessed as partnerships Interest accrued</p>
+    <p>Other debt</p>
+    <p>Cash</p>
+    <p><em type="bold">Equity on 31.12.12</em> </p>
+    <p>Bank deposits</p>
+    <p><em type="bold">Temporary differences on 31.12.12, cf. form RF-1217</em> </p>
+    <p>Bank deposits for tax withholdings <em type="bold">Tax equity</em> </p>
+    <p><em type="bold">Total assets</em>== </p>
+    <p><em type="bold">Adjusted equity on 01.01.13</em> Total profit/loss in sole proprietorships -  from item 9930 </p>
+    <p>Amounts under E transf. to RF-1224 and RF-1030 Apportionment of profit/loss. See the guidelines.</p>
+    <p>Type of business</p>
+    <p xml:lang="nob">ID (E.g. 1, 2, 3 etc.)</p>
+    <p xml:lang="deu">B</p>
+    <p xml:lang="deu">CEFGA</p>
+    <p>Item 0410 divided by types of business</p>
+    <p>Taxable income divided by type of businessChief party Spouse/ registered partner</p>
+    <p>Corrections for primary industries, see the guidelines</p>
+    <p>Item no. in RF 1030</p>
+    <p>the amt. is carrried to</p>
+    <p><em type="bold">Control amount</em> </p>
+    <p><em type="bold">Total profit/loss from item 9930</em> </p>
+    <p><em type="bold">Taxable dividend on shares etc.</em> </p>
+    <p><em type="bold">Interest income</em> </p>
+    <p><em type="bold">Interest expenses</em> </p>
+    <p><em type="bold">Taxable gains/deductible losses on the realisation of shares etc.</em>+÷ </p>
+    <p><em type="bold">For sole proprietors: Share of income/deficit and any gains/losses relating to holdings in businesses assessed as partnerships </em></p>
+    <p xml:lang="isl">+÷</p>
+    <p><em type="bold">Profit/loss for the year – ANS/KS/DA, transfer to form RF-1215, item 1110. Cooperative enterprises, see the guidelines</em> </p>
+    <p xml:lang="koi">+</p>
+    <p xml:lang="koi">+</p>
+    <p xml:lang="isl">÷</p>
+    <p xml:lang="koi">=</p>
+    <p><em type="bold">Three per cent of tax-free income in accordance with the exemption method</em>+ </p>
+    <p><em type="bold">For cooperative enterprises: Back payment, bonus etc. </em></p>
+    <p type="listitem"><em type="bold">– excl. VAT to unit owners/members of cooperative enterprises</em>÷ </p>
+    <p><em type="bold">For cooperative enterprises:  Business income/ loss, the amount has to be  transferred  to item 201 / 222 in the tax return for corporations – form RF-1028.</em>= </p>
+    <p><em type="bold">Specification of a private account</em> </p>
+    <p>Cash withdrawals</p>
+    <p>Withdrawals of operating equipment</p>
+    <p>Withdrawals of goods and services</p>
+    <p>Housing in commercial buildings</p>
+    <p>Lighting and heating, private</p>
+    <p>Non-deductible entertaining expenses</p>
+    <p>Non-deductible membership fees/gifts</p>
+    <p>Other non-deductible expenses</p>
+    <p>=<em type="bold">Total non-deductible </em></p>
+    <p><em type="bold">business expenses</em> </p>
+    <p>Tax-free income</p>
+    <p>Cash contributions</p>
+    <p>Private electronic communication expenses</p>
+    <p>Various other private expenses</p>
+    <p>Non-cash contributions</p>
+    <p>Taxes</p>
+    <p>Deducted use of a private vehicle in business activity, at standard rate</p>
+    <p>Private use of a business vehicle</p>
+    <p>Premium, own health and accident insurance</p>
+    <p>Positive equity adjustments</p>
+    <p>Premium, additional insurance to cover sickness benefit</p>
+    <p>Negative equity adjustments÷</p>
+    <p><em type="bold">Total private accountTotal equity adjustments</em>== </p>
+    <p><em type="bold">(all amounts in whole kroner)</em> </p>
+    <p><em type="bold">Tax equity on 31 Dec. 2012 from item 9960</em> </p>
+    <p>Profit/loss for the year from item 9940+÷</p>
+    <p>Private account (specified above) from item 2079÷</p>
+    <p>Non-deductible business expenses (specified above) from item 2060÷</p>
+    <p>Equity adjustments specified above from item 2070+÷</p>
+    <p><em type="bold">Total tax equity on 31 Dec. 2013 – must be equal to item 9960</em>= </p>
+    <p>Signature</p>
+  </body>
+</document>

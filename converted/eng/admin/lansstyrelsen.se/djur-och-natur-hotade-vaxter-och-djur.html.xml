@@ -1,0 +1,48 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>273</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/djur-och-natur/hotade-vaxter-och-djur/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="djur-och-natur-hotade-vaxter-och-djur.html"/>
+    <parallel_text xml:lang="swe" location="djur-och-natur-hotade-vaxter-och-djur.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Endangered plants and animals - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Endangered plants and animals</p>
+    <p>The County Administrative Board implements initiatives to preserve the county's valuable plant and animal life. We develop action plans to protect endangered animals and plant species.</p>
+    <p type="title">Species may be protected</p>
+    <p>If a species is placed under protection, you cannot pick, collect or damage the plant or animal. For many species, it is also forbidden to damage their habitats. Endangered species are placed on what is known as the red list. Under the authority of the Swedish Environmental Protection Agency, the Swedish Species Information Centre (ArtDatabanken) devises the Swedish red list. It does not provide automatic protection, but sends an important signal that the species' habitat should be protected or restored.</p>
+    <p>Special provisions concerning the protection of animal and plant species found in Chapter 8 of the Swedish Environmental Code (SFS 1998:808) and in the Species Protection Ordinance (SFS 2007:845). Contact the County Administrative Board to apply for exemption from the Special provisions concerning the protection of animal and plant species.</p>
+    <p>The Swedish Environmental Protection Agency has more information on protected plants and animals. www.naturvardsverket.se/en</p>
+    <p type="title">Action plan for endangered species</p>
+    <p>The County Administrative Board devises specific action plans for endangered species (ÅGP) when nature reserves and agri-environmental payments for agriculture are not sufficient. The Swedish Species Information Centre analyzes which species are most in need of the action plan, and the Swedish Environmental Protection Agency is responsible for the national coordination of the action plans. The County Administrative Board, however, performs much of the work, both in terms of the development of the action plan and the implementation of various protective measures.</p>
+  </body>
+</document>

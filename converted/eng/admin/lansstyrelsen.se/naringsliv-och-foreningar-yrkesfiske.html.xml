@@ -1,0 +1,53 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>422</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/naringsliv-och-foreningar/yrkesfiske/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-yrkesfiske.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Commercial fishing - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Commercial fishing</p>
+    <p>The County Administrative Board works towards viable fisheries and a long-term sustainable fishing industry.</p>
+    <p type="title">Fishing regulations</p>
+    <p>There are a host of regulations in place relating to both recreational and commercial fishing, stipulating where you are allowed to fish, when you are allowed to fish and how you should fish. The rules are extensive and prone to continuous change, and can be found on the website of the Swedish Agency for Marine and Water Management (SwAM).</p>
+    <p type="title">Fishing industry</p>
+    <p>The County Administrative Board has regional responsibility for the development of the fishing industry. It includes everything from ensuring that the fishing policy is implemented in the county to taking initiatives for developing industry and informing the government with regard to industry issues and opportunities in the county. The fishing industry consists of commercial fishing and the processing industry, aquaculture and fishing tourism.</p>
+    <p type="title">Commercial fishing</p>
+    <p>The County Administrative Board issues its opinion, when the Swedish Board of Fisheries grants commercial fishing licenses and permits for various types of fish. Fishing on public waters, in the sea and the five large lakes, Vänern, Vättern, Mälaren, Hjälmaren and Storsjön, requires commercial fishing licenses and permits for permanent gear. We provide EU support for, inter alia, investment in commercial fishing, aquaculture, the processing industry, training, development projects etc. We must also ensure that the regulation of fishing activities pay heed to regional interests, and that we work for a flourishing commercial fishing industry, which can supply good quality fish to consumers.</p>
+    <p type="title">Aquaculture</p>
+    <p>The fisheries legislation specifies the conditions for the establishment of fish, crayfish and mussel farming, and the County Administrative Board issues authorization. We also deal with applications for EU grants provided for the establishment of aquaculture and may also provide applicants with advice on localization and authorization pertaining to start up.</p>
+    <p type="title">Fishing tourism</p>
+    <p>Fishing tourism is a relatively young industry within fishing and the development is at different levels in different parts of Sweden. Within the area of fishing tourism area we work in close collaboration with municipalities and local fishing conservation organizations, including formulating fishing policies in an appropriate manner. We can also provide advice and financial support to those who want to develop, establish and promote a tourist fishing business. The latter is largely done through contributions to rural development.</p>
+    <p type="title">Seal damage</p>
+    <p>The County Administrative Board provides grants to licensed commercial fishermen so that they can seal-proof their fishing gear. Fishermen may also receive compensation for the damage caused by seals on their gear and catch.</p>
+  </body>
+</document>

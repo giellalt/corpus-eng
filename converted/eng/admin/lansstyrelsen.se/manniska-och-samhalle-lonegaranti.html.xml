@@ -1,0 +1,44 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>187</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/lonegaranti/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="manniska-och-samhalle-lonegaranti.html"/>
+    <parallel_text xml:lang="swe" location="manniska-och-samhalle-lonegaranti.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Salary guarantee - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Salary guarantee</p>
+    <p>The County Administrative Board is responsible for paying out dismissal pay to employees at companies in the county that are put into bankruptcy or undergo corporate reconstruction, in accordance with the decision by the bankruptcy administrator.</p>
+    <p>If you are an employee of a company that goes bankrupt, you are covered by the Salary Guarantee Act. This means that you receive compensation for the money that your employer owes you. The bankruptcy must have been heard in the District Court in the relevant county and we must receive a written decision from the bankruptcy administrator before we pay the guarantee sum to you. The bankruptcy administrator makes the decision with regard to the salaty guarantee case. The maximum amount is four times the price base amount.</p>
+    <p>The salary guarantee also means that you can receive your dismissal pay from a company that goes bankrupt during the period of notice (1-6 months), in accordance with the Employment Protection Act (SFS 1982:80). You must present a certificate showing that you are registered as a job seeker with the Swedish Public Employment Service.</p>
+  </body>
+</document>

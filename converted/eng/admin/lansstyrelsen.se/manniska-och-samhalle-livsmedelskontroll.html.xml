@@ -1,0 +1,46 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>224</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/livsmedelskontroll/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="manniska-och-samhalle-livsmedelskontroll.html"/>
+    <parallel_text xml:lang="swe" location="manniska-och-samhalle-livsmedelskontroll.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Food Control - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Food Control</p>
+    <p>The County Administrative Board is responsible for regional food control and the inspection of the primary production of foodstuffs.</p>
+    <p type="title">The primary production of fodder and food</p>
+    <p>It is important that fodder for the animals is produced, handled, stored, transported and used in a safe manner for the well-being of animals, and thus humans. Primary production is the first stage of the food chain and includes the production of meat, milk, cereals, roughage, and the production of compound feed. Primary production is controlled at several stages by the County Administrative Board and the Swedish Board of Agriculture. It also includes hunting, fishing and the picking of berries and mushrooms, as well as the storage and transportation of fodder and foodstuffs. All production facilities for primary production should be registered, and there are regulations governing the permitted use of additives, drugs, genetic modifications, etc.</p>
+    <p type="title">Food control</p>
+    <p>The purpose of food control is to ensure that the food you eat is safe and that eating it does not make you ill. The municipal authorities check that those who produce and sell food have sufficient know-how and suitable premises to handle this. The County Administrative Board makes visits to ensure that the municipal authorities handle the food control process effectively. Municipal rulings can be appealed to the County Administrative Board.</p>
+  </body>
+</document>

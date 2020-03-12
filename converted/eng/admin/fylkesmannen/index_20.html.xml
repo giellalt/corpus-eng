@@ -1,0 +1,80 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>477</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.fylkesmannen.no/en/Children-and-parents/The-Children-Act/</origFileName>
+    <parallel_text xml:lang="nob" location="index_20.html"/>
+    <parallel_text xml:lang="sma" location="index_20.html"/>
+    <parallel_text xml:lang="sme" location="index_20.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno">The Children's Act - County Governor - Fylkesmannen.no</p>
+    <p>Jump to content</p>
+    <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
+    <list>
+      <p type="listitem">Sound version</p>
+      <p type="listitem">High contrast</p>
+      <p type="listitem" xml:lang="nno"></p>
+      <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
+    </list>
+    <p type="title" xml:lang="nob">Barn og foreldre</p>
+    <list>
+      <p type="listitem">People and society</p>
+      <p type="listitem">Nursery schools and education</p>
+      <p type="listitem">Health, care and social services</p>
+      <p type="listitem">Climate and the environment</p>
+    </list>
+    <list>
+      <p type="listitem">Agriculture and food</p>
+      <p type="listitem">Municipal administration</p>
+      <p type="listitem">Planning and building</p>
+      <p type="listitem">Civil protection</p>
+    </list>
+    <p xml:lang="nob">County Governor</p>
+    <p>Children and parents</p>
+    <p>The Children Act</p>
+    <list>
+      <p type="listitem">Biological parents of adopted children</p>
+      <p type="listitem">Child protection</p>
+      <p type="listitem">Family welfare</p>
+      <p type="listitem">The Children Act</p>
+    </list>
+    <p type="title">The Children Act</p>
+    <p xml:lang="est">Published 10/10/2012 Updated 4/4/2017</p>
+    <p>The Children Act applies to children and young people under 18 years of age and governs parents’ obligations towards their children, as well as children’s rights in respect of their parents. The Children Act features, among other things, provisions regarding the determination of paternity, mutual visiting rights for children and parents and the parental duty to provide for one’s children.</p>
+    <p>A number of these provisions also govern rights and obligations relating to parents who do not live together – for example those who are separated or divorced. If a relationship breaks down, parents may come to their own arrangements regarding parental responsibilities, child custody, rights of access and any associated travel costs. If the parents are unable to reach any such arrangement, either of them may initiate court and legal proceedings to settle the matter. Before any case comes to court, the parents must meet with a mediator. Family welfare offices can answer any questions concerning mediation.</p>
+    <p type="title">Financial arrangements between parents</p>
+    <p>Financial arrangements between parents are initially a private matter. If parents are unable to agree on their own means of splitting travel costs for child visits, these should as a general rule be split proportionally based on the parents’ incomes. The County Governor can determine how these should be split if it seems reasonable to deviate from the general rule. For example, this may be the case if the parents’ incomes differ significantly and if travel costs are high.</p>
+    <p type="title">The County Governor can make agreements legally binding</p>
+    <p>The County Governor can make a written agreement regarding parental responsibilities, child custody, rights of access and travel costs legally binding (give them legal effect). Both parents must agree to the matter being administratively processed by the County Governor. If the matter concerns travel costs associated with access rights and the child is over 15 years of age, the County Governor is entitled to process the case even if only one of the parents so desires. The parents can also bring the case before the courts.</p>
+    <p>Under the Children Act, parents who do not have parental responsibility are nevertheless entitled to receive information about the child from nursery schools, schools, health and care services and the police. The County Governor is the administrative appeals body for requests for such information.</p>
+    <list>
+      <p type="listitem" xml:lang="nno"/>
+      <p type="listitem" xml:lang="nno"/>
+      <p type="listitem" xml:lang="nno"/>
+      <p type="listitem" xml:lang="nno"/>
+    </list>
+    <p type="title" xml:lang="est">Links</p>
+    <list>
+      <p type="listitem" xml:lang="nob">Foreldreansvar og samværsrett</p>
+      <p type="listitem" xml:lang="nob">Mekling for foreldre</p>
+      <p type="listitem" xml:lang="nno">Reisekostnader ved samvær</p>
+      <p type="listitem" xml:lang="dan">Barneombudet</p>
+      <p type="listitem" xml:lang="nno">Ung.no</p>
+      <p type="listitem" xml:lang="nob">Sjumilssteget</p>
+    </list>
+  </body>
+</document>

@@ -1,0 +1,62 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>390</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/miljo-och-klimat/verksamheter-med-miljopaverkan/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="miljo-och-klimat-verksamheter-med-miljopaverkan.html"/>
+    <parallel_text xml:lang="swe" location="miljo-och-klimat-verksamheter-med-miljopaverkan.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Operations with an environmental impact - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Operations with an environmental impact</p>
+    <p><em type="bold">Certain operations deemed as having an environmental impact must be issued with permits or be reported to the County Administrative Board. We investigate past generations of pollutants in soil and water and work to address contaminated sites. </em></p>
+    <p type="title">Environmentally hazardous activities</p>
+    <p>The County Administrative Board examines and supervises hazardous activities in accordance with the Swedish Environmental Code and the Ordinance concerning Environmentally Hazardous Activities and The Protection of Public Health (SFS 1998:899).</p>
+    <p><em type="italic">Examples of environmentally hazardous activities: </em></p>
+    <list>
+      <p type="listitem">surface treatment facilities</p>
+      <p type="listitem">foundries</p>
+      <p type="listitem">paper mills</p>
+      <p type="listitem">wind turbines, heating plants and other energy facilities</p>
+      <p type="listitem" xml:lang="swe">sawmills</p>
+      <p type="listitem">waste disposal facilities</p>
+      <p type="listitem">waste water treatment works</p>
+      <p type="listitem">sand and rock quarry</p>
+      <p type="listitem">mines</p>
+    </list>
+    <p>The County Administrative Board has an Environmental Permit Office that reviews applications for permits for environmentally hazardous activities, in accordance with the Swedish Environmental Code. The Environmental Permit Office is an independent decision function, meaning that the granting of permits within the County Administrative Board is separate from the monitoring responsibilities that we have in accordance with the Swedish Environmental Code. Each municipality has a municipal environmental authority, which is responsible for the local monitoring of environmentally hazardous activities as stipulated in the the Swedish Environmental Code. We provide support and advice to the municipal environmental authorities, and follow up and evaluate their activities within the framework of our work with regulatory guidance.</p>
+    <p type="title">Contaminated sites</p>
+    <p>There are a large number of areas in the country that are contaminated, and many are so polluted that the environment and public health are at risk. In most cases, it is old industries that have left hazardous substances in soil and water. The County Administrative Board is working on an inventory of these areas and to coordinate measures for the most polluted areas.</p>
+    <p type="title">Water Operations</p>
+    <p>Water operations is the term for operations and measures that change the depth or location of the water, drain land, channel away groundwater or increase the volume of groundwater by adding water. In general, you must apply for a permit or report such operations or measures to the County Administrative Board. Examples of water operations are power plants and dams, various constructions in water such as bridges and tunnels, dredging and water extraction for purposes such as drinking water and irrigation.</p>
+    <p>We manage the regulatory control of water operations in the county.</p>
+  </body>
+</document>

@@ -1,0 +1,66 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>628</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Other-languages/Engelska/Barn/Ogoninflammationer-hos-barn</origFileName>
+    <parallel_text xml:lang="fin" location="ogoninflammation-hos-barn.html"/>
+    <parallel_text xml:lang="fit" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sme" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="ogoninflammationer-hos-barn.html"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="ogoninflammation-hos-barn-vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Conjunctivitis in children / Ögoninflammationer hos barn - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">EnglishEngelska</p>
+    <list>
+      <p type="listitem">Back to the start page for this theme</p>
+    </list>
+    <p type="title" xml:lang="swe">Conjunctivitis in childrenÖgoninflammationer hos barn</p>
+    <p xml:lang="swe"></p>
+    <p type="title">What can you do yourself?</p>
+    <p type="title">Usually resolves within a week</p>
+    <p>Conjunctivitis, an inflammation of the eye, is common in children, often seen in combination with a viral infection, such as a cold. The affected white of the eye becomes red and irritated, emitting a sticky yellowish liquid. Usually the eye looks swollen. The condition mostly resolves within a week without the need for any medical treatment. Conjunctivitis is highly contagious.</p>
+    <p>There are other causes of conjunctivitis in children, such as allergic reactions, injury to the eye, or the presence of a foreign body in the eye, like dust or sand. The inflammation is the body's act of self defence.</p>
+    <p type="title">Can the child go to preschool?</p>
+    <p>Children with conjunctivitis with red eyes and some minor sticky discharge associated with a common cold, do not need to stay at home from preschool, if otherwise feeling well. Nor do children with an inflammation caused by allergies. Children in preschool should be feeling well enough to participate in all activities.</p>
+    <p type="title">The child should stay at home if the eye is purulent</p>
+    <p>Eyelids that stick together, and an eye that needs to be wiped clean from pus several times a day, indicate that the child has got a major infection. Usually both eyes are irritated and purulent discharge may be present. The child should stay at home from preschool at this point, due to the contagiousness of the condition and the need to rinse the eye several times a day. The child can return to preschool activities when the major inflammation has healed, and the eye is clear from pus.</p>
+    <p>Conjunctivitis is highly contagious amongst small children, because they play close together. It spreads, for instance, when the child rubs its eyes and then touches toys or other children. Children in school don't share the same closeness, but might still need to stay at home from school in the event of a major eye infection, if they have irritated eyes.</p>
+    <p type="title">Rinse the eye with water</p>
+    <p>If the child has pus in its eyes, rinse them as often as needed, with regular water. Use a compress or a cotton pad and rinse from the outer corner of the eye towards the inner.</p>
+    <p type="title">Take extra care with hand hygiene</p>
+    <p>To prevent eye infections from spreading, it is advisable to wash hands thoroughly, especially if regularly exposed to others with colds. Frequently changing towels, at home and at preschool, also helps prevention.</p>
+    <p type="title">Newborn children</p>
+    <p>It is common for newborn children to have a yellowish discharge in their eyes, due to the fact that they have narrower tear ducts compared to older children and adults. Rinse the eye, from the outer corner of the eye towards the inner, with a compress or cotton pad, dampened with some lukewarm tap water or a salt solution.</p>
+    <p type="title">You may need to contact the healthcare services</p>
+    <p>Eye infections that do not resolve within a week might need to be treated with antibiotics. Please contact the nearest healthcare centre. After two days of treatment with antibiotics, the infection is no longer contagious, and the child can go back to preschool.</p>
+    <p>Don't hesitate to contact the nearest healthcare centre if the child suffers from a very severe, purulent inflammation. The same applies if the child is sensitive to light or shows signs of having a major cold. It is also advisable to seek healthcare as soon as possible if the child experiences severe symptoms in one eye only, and there is any suspicion of eye injury.</p>
+    <p>If a newborn child suffers from a severe eye infection, please contact the nearest pediatric healthcare centre.</p>
+  </body>
+</document>

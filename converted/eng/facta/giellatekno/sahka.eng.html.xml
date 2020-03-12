@@ -1,0 +1,46 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Sahka - ready for testing</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>207</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/useoahpa/sahka.eng.html</origFileName>
+    <parallel_text xml:lang="fin" location="sahka.fin.html"/>
+    <parallel_text xml:lang="nob" location="sahka.nob.html"/>
+    <parallel_text xml:lang="sme" location="sahka.html"/>
+    <parallel_text xml:lang="swe" location="sahka.swe.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Sahka - ready for testing</p>
+    <list>
+      <p type="listitem">The dialogues are:</p>
+    </list>
+    <p>The Sahka game consists of interactive dialogues. You may <span type="quote">"talk to the machine"</span>. The goal is to practice verb declension, case usage, and to expand your vocabulary. You may answer the questions in different ways, but since the goal is to practice your grammar you should be prepared to answer with the same verb as the one used in the question. In yes/no questions, for example, you should not answer with only <em type="italic">in </em>. Cf. </p>
+    <p xml:lang="sme"><em type="italic">Jugat go gáfe? Gal mun jugan. / In juga. </em></p>
+    <p>We also have open questions. To these we may attach a word list (e.g. a restaurant menu or a drawing), or you may answer freely, but with the word in the correct case. e.g.</p>
+    <p xml:lang="sme"><em type="italic">Masa don liikot buoremusat? Liikon lákcagáhkkui/njálgáide/... </em></p>
+    <p>The program will above all direct your attention to errors in inflection, orthography or case usage. Note that many error types will go unmentioned.</p>
+    <p xml:lang="nno"></p>
+    <p type="title">The dialogues are:</p>
+    <list>
+      <p type="listitem">Oahpásmuvvan Kárii (Ordinary questions about personal matters).</p>
+      <p type="listitem">Guossis (Here you can practice dual verb inflection (<span type="quote" xml:lang="sme">"moai"</span>) and locative og illative. At the end of the dialogue, also accusative.)</p>
+      <p type="listitem">Borramušgávppis (Practice accusative.)</p>
+      <p type="listitem">Veardideapmi rámbuvrris (Adjective comparison.)</p>
+    </list>
+    <p xml:lang="nob">Link til Sahka</p>
+    <p xml:lang="nno">Last changed: $Id: intro.xml,v 1.8 2005/06/21 12:13:53 boerre Exp $</p>
+  </body>
+</document>

@@ -1,0 +1,102 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1022</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/UMO-in-English/Self-esteem</origFileName>
+    <parallel_text xml:lang="fin" location="itsetunto.html"/>
+    <parallel_text xml:lang="fit" location="ittentunto.html"/>
+    <parallel_text xml:lang="sma" location="jijtjedomtese.html"/>
+    <parallel_text xml:lang="sme" location="iedovdu.html"/>
+    <parallel_text xml:lang="smj" location="iesjdabddo.html"/>
+    <parallel_text xml:lang="swe" location="sjalvkansla.html"/>
+    <parallel_text location="iri-zor.html" xml:lang="rmy-rka"/>
+    <parallel_text location="korkorioset.html" xml:lang="rmn"/>
+    <parallel_text location="soluskansla.html" xml:lang="rmu"/>
+    <parallel_text location="alejn-opshats.html" xml:lang="yid"/>
+    <parallel_text location="manuesko-aaripe-sjalvkansla.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="iegohoiba.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Self-esteem</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">Self-esteem</p>
+    <p>Self-esteem has to do with how you see and experience yourself. It has nothing to do with how good you are at doing things. It is instead more about experiencing self-worth just by being. The experience that <span type="quote">“I’m good enough”</span> regardless of what skills you may have, can grow stronger through practice.</p>
+    <p>Your self-esteem is an important factor in how you live and how you feel in your life. With good self-esteem, you tend to do positive things for yourself and are not afraid to do what you want. You are not afraid to approach others, nor to say both yes and no to things. With poor self-esteem, you may, on the contrary, avoid doing the things you really want to do. You may also do things that do not feel right, more to please others than to please yourself.</p>
+    <p><em type="italic">Self-esteem and self-confidence are not the same </em></p>
+    <p>The terms self-esteem and self-confidence are sometimes confused, although they do not quite mean the same thing. Self-confidence has to do with achievement and how confident you are when it comes to achieving things, for example getting good grades in school or being great at sports. Self-esteem has to do with how you see yourself altogether, taking into account both your strengths and your weaknesses. If you are a person with good self-esteem, you are not easily affected by others’ opinions and can easily be yourself in various situations. It is okay not to be liked or appreciated by everybody and to not always be best. If you have low self-esteem you may, on the other hand, get deeply affected and hurt by, for example, comments on your appearance or your opinions.</p>
+    <p><em type="italic">Self-esteem and power </em></p>
+    <p>Your self-esteem is related to the amount of power and influence you have in your life. If you feels you can make you own decisions and influence your life, it is easier to have good self-esteem. On the other hand, if you feel you have limited power, self-esteem may decrease. For example, you may feel that you lose your self-esteem if you do not get a job or if members of your family don’t let you make your own decisions.</p>
+    <p><em type="italic">Signs of good self-esteem </em></p>
+    <p>Self-esteem may be stronger or weaker at different times throughout your life and it can also be stronger or weaker in different situations. Signs of good self-esteem may include</p>
+    <list>
+      <p type="listitem">feeling that you are good enough even though you don’t shine at everything and don’t look like a model</p>
+      <p type="listitem">feeling that you have a right to integrity, to be recognised, listened to and respected for who you are</p>
+      <p type="listitem">daring to speak your mind</p>
+      <p type="listitem">accepting that you are sometimes not liked by everybody</p>
+      <p type="listitem">feeling that it is okay to say both yes and no to things</p>
+      <p type="listitem">being able to ask for help</p>
+      <p type="listitem">feeling that you are worth to feel well by taking care of yourself and by doing things that make you feel good.</p>
+      <p type="listitem">daring to try new things</p>
+      <p type="listitem">daring to fail</p>
+      <p type="listitem">being comfortable with approaching others</p>
+      <p type="listitem">being comfortable with giving praise and constructive criticism to others</p>
+      <p type="listitem">daring to be yourself</p>
+      <p type="listitem">daring to stand by your actions</p>
+      <p type="listitem">daring to admit to failures and to ask for forgiveness if you hurt somebody</p>
+      <p type="listitem">feeling that you do the best you can</p>
+      <p type="listitem">being able to praise and reward yourself</p>
+    </list>
+    <p><em type="italic">Signs of low self-esteem </em></p>
+    <p>If one has low self-esteem, signs may include</p>
+    <list>
+      <p type="listitem">feeling bad about yourself, having a low sense of self-worth</p>
+      <p type="listitem">doing things that are not good for you</p>
+      <p type="listitem">avoiding spending time with others</p>
+    </list>
+    <list>
+      <p type="listitem">avoiding participating in activities and trying new things to try to please friends and partners at your own expense</p>
+    </list>
+    <list>
+      <p type="listitem">making yourself invisible and self-sacrificing in different situations</p>
+      <p type="listitem">feeling jealous and envious of others</p>
+      <p type="listitem">being devastated if you fail or lose</p>
+    </list>
+    <p>Low self-esteem can result in violence, bullying or exclusion of others, or it can also lead to a person trying to conceal his or her low self-esteem by trying to excel at everything or by bragging.</p>
+    <p><em type="italic">Where does poor self-esteem come from? </em></p>
+    <p>There are many reasons for low self-esteem. Everyone needs to feel appreciated, recognised and respected simply for who they are. Self-esteem is easily weakened if you are often told when growing up that you are not good enough, that you are worthless or a disgrace. At the same time, if you constantly received praise and approval when you achieved something, for example in sports or in an exam, you may feel that your self-worth is dependent on achievement, instead of inner qualities.</p>
+    <p>Self-esteem is also negatively affected if you don’t get enough recognition and attention while growing up. For example if parents or guardians are away from home a lot, if they are ill, abuse drugs or alcohol, or do not make enough room for you in their lives.</p>
+    <p>Even if your childhood means a lot for your self-esteem, we are all different. Some are more sensitive to what people think of them than others.</p>
+    <p><em type="italic">Feeling different, excluded, and comparing yourself with others </em></p>
+    <p>Something that may affect your self-esteem is the amount of fellowship you feel you’re your family or the people around you. If everyone except you, for example, loves sports, this may lead to feelings of being misunderstood, which in turn can lead to lower self-esteem. Other things that can have a negative effect on self-esteem are</p>
+    <list>
+      <p type="listitem">feeling excluded or being bullied</p>
+      <p type="listitem">being unemployed</p>
+      <p type="listitem">having a hard time deciding what choices to make in life, for example regarding education or profession</p>
+      <p type="listitem">having poor psychological health with feelings of, for example, anxiety or depression</p>
+      <p type="listitem">often comparing yourself to peers or successful people in the media. The more you demand of yourself – excelling at everything, being attractive, being popular –- the harder it gets to achieve these things and feel satisfied</p>
+    </list>
+    <p><em type="italic">Self-esteem is not always obvious from the outside </em></p>
+    <p>It is hard for others to tell how you feel about yourself. A person who appears to be the perfect example of success, that is to say is attractive, is successful in school or at work, or has many friends, may still have low self-esteem and feel inadequate.</p>
+  </body>
+</document>

@@ -1,0 +1,76 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>682</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/UMO-in-English/How-to-improve-self-esteem</origFileName>
+    <parallel_text xml:lang="fin" location="vinkkeja-itsetunnon-kohentamiseen.html"/>
+    <parallel_text xml:lang="fit" location="tipsia-kuinka-parantaa-ommaa-ittentuntoa.html"/>
+    <parallel_text xml:lang="sma" location="raerieh-buerebe-jijtjedomtesasse.html"/>
+    <parallel_text xml:lang="sme" location="guoiggus-buoret-iedovdui.html"/>
+    <parallel_text xml:lang="smj" location="gatjastusa-nannusap-iesjdabdduj.html"/>
+    <parallel_text xml:lang="swe" location="tips-for-battre-sjalvkansla.html"/>
+    <parallel_text location="ideori-sar-te-vortos-iri-zor.html" xml:lang="rmy-rka"/>
+    <parallel_text location="tipsi-bao-poukar-korkorioset.html" xml:lang="rmn"/>
+    <parallel_text location="hilprepha-gla-fedigare-soluskansla.html" xml:lang="rmu"/>
+    <parallel_text location="rejchern.html" xml:lang="yid"/>
+    <parallel_text location="tipsura-te-avel-maj-lao-manuesko-aaripe.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="tipsi-te-lel-fendide-iegohoiba.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>How to improve self-esteem</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title">How to improve self-esteem</p>
+    <p>There are many ways to improve your self-esteem. Here are some suggestions:</p>
+    <list>
+      <p type="listitem">If you have low self-esteem, it is easy to wind up with negative thoughts, for example about how useless you are. When you feel useless, you can try to break the habit by thinking: Is this helping me? Is it really true that I’m useless?</p>
+    </list>
+    <list>
+      <p type="listitem">To get away from bad thoughts about your appearance or achievements, you can try to replace them with other thoughts by asking a person you trust to name the things he or she appreciates about you. You can ask the person to write them down and then keep the list where you can easily find it.</p>
+    </list>
+    <list>
+      <p type="listitem">You can reflect on what things you appreciate about others. What is important? Is it to be physically attractive and/or best in school or is it rather to be an enquiring, considerate, sensible, imaginative or brave person who is not afraid to be authentic?</p>
+      <p type="listitem">Having good relationships with others, such as friends, romantic partners and family members, helps strengthen your self-esteem. If those people are mean to each other, you can ask them to stop and suggest that everybody says something positive about each other instead.</p>
+      <p type="listitem">You can try and do new things. If you rarely raise your hand in the classroom, you can make an effort to do so during the next lesson. You can try to protest next time someone makes a joke at someone else’s expense. You can apply for a job you really want, make a phone call to an old friend or show something that you have made to a friend.</p>
+      <p type="listitem">Instead of dwelling on things that have gone wrong, you can try to accept what happened and the feelings that it raised. For example, if you feel you didn’t get enough recognition and encouragement from your parents or guardians as a child, perhaps you get that kind of support from people now. You can also consider what you need most at the moment. This doesn’t mean that you are not allowed to be sad about things in the past; on the contrary, you may need some time to process things.</p>
+    </list>
+    <p><em type="italic">Advice from UMO’s Youth Panel </em></p>
+    <p>UMO’s Youth Panel have put together some advice on how to improve your self-esteem.</p>
+    <list>
+      <p type="listitem">Try to be extra brave and daring by standing up for your opinions, asking about things you are unsure of and by not being afraid to make a fool of yourself or to laugh at yourself.</p>
+      <p type="listitem">Spend time with people who you are comfortable with and who you trust.</p>
+      <p type="listitem">You can listen to your favourite music when you are on your way to something that makes you nervous. It can help you feel brave and strong.</p>
+      <p type="listitem">Welcome praise and compliments. Instead of feeling awkward, take a deep breath, say <span type="quote">“Thanks”</span> and allow yourself to take in and enjoy what the other person has said.</p>
+      <p type="listitem">You can give praise to yourself and feel pleased when you have finished an assignment or made a tough phone call. You can be a good and supportive friend and hang out with people who are appreciative and sincere.</p>
+      <p type="listitem">Don’t hold back on compliments; show friends appreciation for who they are!</p>
+      <p type="listitem">Hug a lot!</p>
+      <p type="listitem">Even though self-esteem and self-confidence are not the same, your self-esteem may improve if you do things you are good at.</p>
+      <p type="listitem">Make a list of the things you like about yourself.</p>
+      <p type="listitem">Make a list of things that make you happy.</p>
+      <p type="listitem">Set daily goals, for example that you are going to do something you have never done before and don’t care if it turns out good or bad, ugly or pretty.</p>
+      <p type="listitem">Self-esteem is connected to your conscience. If you are mean, you get a bad conscience and feel bad. The opposite happens if you are good and kind; it makes you feel better and improves your self-esteem.</p>
+      <p type="listitem">A good teacher who is supportive can help improve your self-confidence.</p>
+      <p type="listitem">If you need help, go to a welfare officer or a psychologist at a youth clinic.</p>
+    </list>
+  </body>
+</document>

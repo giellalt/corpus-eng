@@ -1,0 +1,111 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Sátneluohkát</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>403</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/usevisl/satneluohkat.eng.html</origFileName>
+    <parallel_text xml:lang="nno" location="satneluohkat.nob.html"/>
+    <parallel_text xml:lang="sme" location="satneluohkat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="sme">Sátneluohkát</p>
+    <list>
+      <p type="listitem" xml:lang="smj">Oanádusat</p>
+      <p type="listitem">Evaluating parts of speech <list><p type="listitem">Sources</p></list></p>
+    </list>
+    <p type="title" xml:lang="smj">Oanádusat</p>
+    <p>We use these parts of speech:</p>
+    <p xml:lang="fin">n</p>
+    <p xml:lang="krl">noun (</p>
+    <p xml:lang="sme">
+      <em type="italic">girji, lohkamat, golmmas </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p>prop</p>
+    <p>proper noun (namma) (</p>
+    <p xml:lang="sme">
+      <em type="italic">William, Kárášjohka </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p>pron</p>
+    <p>pronoun (</p>
+    <p xml:lang="sme">
+      <em type="italic">mun, sidjiide, soapmásat, ollu </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="isl">num</p>
+    <p xml:lang="isl">numeral (</p>
+    <p xml:lang="sme">
+      <em type="italic">okta, 1923 </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="smj">adj</p>
+    <p>adjective (</p>
+    <p xml:lang="sme">
+      <em type="italic">alit, ollu, njealját </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="ron">prp</p>
+    <p>preposition/postposition (</p>
+    <p xml:lang="sme">
+      <em type="italic">alde, miehtá </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="ron">conj</p>
+    <p>conjunction (</p>
+    <p xml:lang="sme">
+      <em type="italic">ja, ahte, vaikko </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="swe">intj</p>
+    <p>interjection (</p>
+    <p xml:lang="smn">
+      <em type="italic">vuoi, jippi </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="smj">adv</p>
+    <p xml:lang="nno">adverb (</p>
+    <p xml:lang="sme">
+      <em type="italic">hui, johtilit, olgun </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="smj">v</p>
+    <p xml:lang="nno">verb (</p>
+    <p xml:lang="sme">
+      <em type="italic">lean, borran, juhkamis </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="nno">part</p>
+    <p>particle (</p>
+    <p xml:lang="sme">
+      <em type="italic">go, amma, han </em>
+    </p>
+    <p xml:lang="koi">)</p>
+    <p>Proper nouns are marked seperately only in the sentence trees. Otherwise they are treated as common nouns.</p>
+    <p>Some games present part of speech labels not in use in Saami, such as "infm" (infinitival mark) and "art" (article). Just ignore them.</p>
+    <p type="title">Evaluating parts of speech</p>
+    <p>Part of speech membership is not always easy to determin. We may argue semanticaly, morphologically and syntactically. The borderline between nouns and adjectives is not always that sharp in Saami. The word may also belong to different parts of speech, according to its use in the sentence. A word like <em type="italic">ollu </em>may be both pronoun, adjective and adverb. <em type="italic">go </em>may be subjunction and particle. In addition to that, some words are assigned to different parts of speech in the dictionary Saami-dáru sátnegirji as in e.g. Nickels grammar. In these cases, the VISL games then follow the dictionary. </p>
+    <p><em type="italic">Numeral or not? </em>The numerals themselves do not refer to concrete or abstract references, but numerals may together with content words make phrases which refer, as in e.g. <em type="italic">golbma gusa </em>(three cows). But numerals may be derived to adjectives (e.g. the ordinal <em type="italic">njealját </em>) or to nouns (e.g. the collective numeral <em type="italic">nealjis </em>), to verbs (e.g. <em type="italic">njealjádastit </em>) or adverbs (e.g. <em type="italic">njealjádis, njelljii </em>) (Sammallahti). Nickel considers collective numerals and ordinals to be numeral, but neither morphologically nor syntactically they behave as such. </p>
+    <p><em type="italic">Particle or adverb? </em>Some words may according to Nickel be particles, but according to the dictionary be adverbs, e.g. <em type="italic">gal, fal </em>. Here, the VISL games follow the Saami-dáru sátnegirji, and particles are words such as <em type="italic">go, amma, han, ba </em>. (Sammalahti subsumes conjunctions (but not subjunctions) under paricles as well, since they do not take dependants.) </p>
+    <p type="title">Sources</p>
+    <list>
+      <p type="listitem" xml:lang="sme">Kåven j.ea. 1995: Sámi-dáru sátnegirji. Davvi Girji.</p>
+      <p type="listitem" xml:lang="sme">Nickel 1994: Samisk grammatikk. Rievdaduvvon 2. deaddileapmi. Davvi Girji.</p>
+      <p type="listitem" xml:lang="sme">Sammallahti 2005: Láidehus sámegiela cealkkaoahpa dutkamii. Davvi Girji.</p>
+      <p type="listitem" xml:lang="sme">Sammallahti 2007: Gielladutkama terminologiija. Davvi Girji.</p>
+    </list>
+  </body>
+</document>

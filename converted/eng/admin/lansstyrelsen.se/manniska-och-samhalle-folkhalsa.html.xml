@@ -1,0 +1,45 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>159</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/folkhalsa/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="manniska-och-samhalle-folkhalsa.html"/>
+    <parallel_text xml:lang="swe" location="manniska-och-samhalle-folkhalsa.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Public health - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Public health</p>
+    <p><em type="italic">The County Administrative Board aims to create conditions in society so that the entire population can achieve good health on equal terms. </em></p>
+    <p>Public health concerns all matters ranging from people's own choices and habits to external environments and democratic rights in society. In particular, we work with public health areas such as gender equality, integration, the environment, housing planning, social conditions, anti-discrimination and alcohol and drug-related issues.</p>
+    <p type="title">Alcohol, drugs, doping and tobacco (ANDT)</p>
+    <p>The County Administrative Board has a particular responsibility to coordinate and develop preventive work to counteract the abuse of alcohol, drugs, doping and tobacco (ANDT) in the County. We do this primarily through various coordinating efforts at a regional level, through training and support to municipalities and the monitoring of municipalities' control of, among other things, age limits, the issuing of licences for the sale of alcohol in restaurants and pubs etc. and smoking bans in public environments.</p>
+  </body>
+</document>

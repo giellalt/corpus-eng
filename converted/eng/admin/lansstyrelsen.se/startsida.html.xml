@@ -1,0 +1,70 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>231</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/En/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="fin" location="startsida.html"/>
+    <parallel_text xml:lang="fit" location="startsida.html"/>
+    <parallel_text xml:lang="sma" location="startsida.html"/>
+    <parallel_text xml:lang="sme" location="startsida.html"/>
+    <parallel_text xml:lang="swe" location="startsida.html"/>
+    <parallel_text location="startsida.html" xml:lang="rmu"/>
+    <parallel_text location="startsida.html" xml:lang="rmy-rka"/>
+    <parallel_text location="startsida.html" xml:lang="rmf"/>
+    <parallel_text location="startsida.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="startsida.html" xml:lang="rmn"/>
+    <parallel_text location="startsida.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>The County Administrative Board of Skåne - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">The County Administrative Board of Skåne</p>
+    <p><em type="italic">Sweden is divided into 21 counties, each of which has its own County Administrative Board and County Governor. </em></p>
+    <p>Photo: Roza Czulowska</p>
+    <p type="title">Our function</p>
+    <p>The function of the County Administrative Boards is to be a representative of the state in their respective counties, and serve as a link between the inhabitants, the municipal authorities, the Central Government, the Swedish Parliament and the central state authorities.</p>
+    <p type="title">Our competence</p>
+    <p>The County Administrative Board is the most versatile of Sweden’s authorities; our issues and our competence cover the entire social span. We have lawyers, biologists, architects, foresters, engineers, public relations officers, archaeologists, veterinarians, sociologists, economists and many others. The Board in Skåne is employing about 500 employees</p>
+    <p type="title">Our aims</p>
+    <p>Our aims are to provide good service with open accountability that is based on the rule of law. Changes in society are resulting in increasing demands for accountability and accessibility. The County Administrative Board are developing services that help private persons and organisations to carry out their tasks regardless of time and place.</p>
+    <p type="title">Contact us</p>
+    <p xml:lang="swe"></p>
+    <p>County Administrative Board of Skåne</p>
+    <p xml:lang="swe">skane snabela lansstyrelsen punkt se¤skane snabela lansstyrelsen punkt se</p>
+    <p>010–2241000</p>
+    <p>Send message</p>
+    <p>Hide form</p>
+    <p>Your email address (optional)</p>
+    <p>Send a copy of the message to the email address specified</p>
+    <p>Message</p>
+    <p>Enter the code below to send your message</p>
+    <p>Generate new image</p>
+  </body>
+</document>

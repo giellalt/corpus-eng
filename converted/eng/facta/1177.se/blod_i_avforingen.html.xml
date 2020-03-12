@@ -1,0 +1,66 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1030</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Other-languages/Engelska/Undersokningarprover/blod_i_avforingen</origFileName>
+    <parallel_text xml:lang="fin" location="blod_i_avforingen.html"/>
+    <parallel_text xml:lang="rus" location="blod_i_avforingen.html"/>
+    <parallel_text xml:lang="swe" location="f-hb-blod-i-avforingen.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">F-Hb, blood in the stools / F-HB, blod i avföringen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">EnglishEngelska</p>
+    <list>
+      <p type="listitem">Back to the start page for this theme</p>
+    </list>
+    <p type="title">F-Hb, blood in the stoolsF-HB, blod i avföringen</p>
+    <p xml:lang="swe"></p>
+    <p type="title">Why is the test necessary?</p>
+    <p type="title">When is a sample required for F-Hb testing?</p>
+    <p>F-Hb is a test that is taken to see whether the stools contain blood. You might, for example, need to have the test taken if you have experienced bowel problems, such as constipation or diarrhoea that do not go away by themselves. You may also need to submit a sample for F-Hb testing if you have lost weight without knowing why or are anaemic.</p>
+    <p>You will take the sample at home and then submit it to your health care centre for analysis. Because bowel problems are common, F-Hb tests are performed frequently.</p>
+    <p type="title">What is <span type="quote">”F-Hb”</span> and where is it?</p>
+    <p><span type="quote">”F” stands for faeces, and ”Hb”</span> is an abbreviation for haemoglobin, which is the oxygen-carrying protein found in blood cells.</p>
+    <p>It is normal for the outer blood vessels in the intestinal mucous membrane to loose a little blood – about 1-2 millilitres per day. By means of comparison, a teaspoon holds 5 millilitres. If you have an intestinal disease, bleeding may be more significant and small quantities of blood can mix with your faeces and show up in the Faecal Haemoglobin (F-Hb) test.</p>
+    <p>The amount of faeces that someone has varies from day to day and from person to person, depending on factors such as what they eat and the way the intestines work. The amount of blood present during a disease can therefore also vary. It is not uncommon for blood to be present only occasionally; so, normally, you will have to take several samples with intervals of a day or so.</p>
+    <p type="title">Two kinds of tests</p>
+    <p>There are two kinds of tests. The first is an immunochemical test and does not recognise haemoglobin from meat that you have eaten and is not affected by other substances in the food. The second is the peroxidase test, which is an older kind of test that is still used.</p>
+    <p>Both tests are less sensitive to bleeding that comes from the upper gastrointestinal tract; that is, the oesophagus, stomach and duodenum. This is because the blood cells are broken down during passage though the bowel. A test can therefore not always detect bleeding from the stomach.</p>
+    <p type="title">How is the sample taken?</p>
+    <p>Because bleeding in the intestines can come and go, the blood content can be temporary. Therefore, you will normally have to supply samples from at least three different occasions, from three different bowel movements.</p>
+    <p>If the immunochemical test is used, it does not matter what you eat before the sample is taken.</p>
+    <p>When the peroxidase test method is to be used, you will need to eat a high-fibre diet and avoid food that can affect the test for at least three days before, as well as during, the period when you are taking the samples. The food to avoid is that which contains blood, particularly raw or half-raw meat, liver or blood dishes. You should also avoid eating fresh tomato, banana, radish, horseradish, turnip and soy beans. The peroxidase test can also be affected by large quantities of vitamin C and iron medicine.</p>
+    <p>For the test results to be correct, you must follow the instructions that the laboratory personnel give you. When taking the stool sample, you can put some toilet paper in the toilet so that the stools do not go into the water. The sample is taken by sticking the swab into different areas of the stool. You should then follow the instructions on how to pack and store the sample. When all samples have been taken, you should bring or send them to the laboratory for analysis.</p>
+    <p type="title">Reasons for waiting to take a sample</p>
+    <p>Women should not take the sample during menstruation, because menstrual blood can get onto the stools in the toilet. If you have haemorrhoids that bleed, it might disrupt the test. You should therefore wait until the haemorrhoids have not been bleeding for a few days before taking the sample.</p>
+    <p>If you have blood in your urine and the urine becomes mixed with the stools, the test result can be affected. In that case, you should either wait with taking the sample or take it in such a way that no urine is mixed with the stools.</p>
+    <p>If the stools are very hard, the anus may develop cracks that can start to bleed. If possible, you should wait until the stools are normal again before taking the test. On the other hand, the F-Hb test is often taken right when the stools have changed; so, if constipation is the reason for the examination, you should not wait.</p>
+    <p type="title">Important</p>
+    <p>Medicine that increases the risk of bleeding can result in higher quantities of blood entering the gastrointestinal tract. This mainly applies to medicines containing acetylsalicylic acid (aspirin); for example, Trombyl, Magnecyl and Treo. There are also other medicines that belong to the cox inhibitor group that can also lead to increased bleeding. Examples of such medicines include Diklofenak, Ipren, Ibumetin, Alindrin and Naprosyn. You should always speak to the doctor who has prescribed the test about whether you should stop taking any medicine when taking the samples.</p>
+    <p type="title">When do I get the results?</p>
+    <p>Your doctor will usually give you the results within a week from the date that you provide the samples.</p>
+    <p type="title">What do the test results mean?</p>
+    <p>A positive result means that blood has been found in the sample. A negative result means that no blood has been found in the sample.</p>
+    <p type="title">Other tests</p>
+    <p>Bowel problems are common. It is also common to worry that these problems might be an indication of a serious illness. An F-Hb test gives an indication as to what can be causing the problems, and provides an opportunity to detect any diseases in time for the proper treatment to be administered. Other tests are often also carried out on the intestines; various kinds of endoscopy, for example, where the intestines are examined using a flexible, fibre optic viewing instrument. X-rays may also be used.</p>
+  </body>
+</document>

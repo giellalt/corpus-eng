@@ -1,0 +1,63 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>800</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Other-languages/Engelska/Tander/Tandvard-i-Sverige---vad-galler</origFileName>
+    <parallel_text xml:lang="fin" location="tandvard-i-sverige---vad-galler.html"/>
+    <parallel_text xml:lang="rus" location="tandvard-i-sverige---vad-galler.html"/>
+    <parallel_text xml:lang="swe" location="tandvard-i-sverige-om-man-kommer-fran-ett-annat-land.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Dental care in Sweden / Tandvård i Sverige - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">EnglishEngelska</p>
+    <list>
+      <p type="listitem">Back to the start page for this theme</p>
+    </list>
+    <p type="title" xml:lang="swe">Dental care in SwedenTandvård i Sverige</p>
+    <p xml:lang="swe"></p>
+    <p type="title">What applies?</p>
+    <p type="title">Dental care in Sweden</p>
+    <p>The biggest difference between dental care and medical care in Sweden is that you pay a higher proportion of the cost for dental check-ups and treatment yourself. The medical care services have a system to protect against high costs, in which you pay SEK 900 yourself. After having paid this sum, care is free of charge.</p>
+    <p>Prices and guarantees for dental care may vary between different dentists and dental hygienists. There may also be differences depending on where in the country you live. Therefore, you should always ask your dentist or dental hygienist about their prices and guarantees.</p>
+    <p type="title">Dental care for children and young people</p>
+    <p>Everyone who is registered as resident in Sweden is entitled to free dental care up to and including 31 December of the year they turn 19. In addition, dental care in certain county councils or regions is free of charge for a few years longer.</p>
+    <p type="title">Dental care for adults</p>
+    <p>Adults pay a large part of their dental care costs themselves, starting 1 January of the year they turn 20. However, they also receive financial support from the state. In order to receive this support, you will have to see a dentist or dental hygienist who is affiliated to Försäkringskassan (the Swedish Social Insurance Agency).</p>
+    <p>Each year, everyone over the age of 20 receives a dental care grant of SEK 150 or 300. You can save the grant for two years and use it on one occasion, but you cannot save more than two grants at a time.</p>
+    <p>Furthermore there is a ‘high cost protection’, which means that the state will step in and pay for certain parts of dental care costs that exceed SEK 3,000 in one year. The first SEK 3,000 is always paid by the patients themselves.</p>
+    <p>However, not all types of treatment are included, and it is not always possible to include the entire cost in the high cost protection. Therefore, you should always ask your dentist or dental hygienist what the treatment is expected to cost.</p>
+    <p type="title">Dental care at the same fee as medical care</p>
+    <p>If you need dental care as a part of other medical treatment, for example because you are receiving radiation treatment to the head or neck, you can sometimes be entitled to dental care at the same fee as medical care.</p>
+    <p>You may also be entitled to certain dental care at the same fee as medical care if you have a great need for care and attention in your daily life.</p>
+    <p>To find out more about how the system of dental care at the same fee as medical care works, please contact the county council or region where you live. Alternatively, you can contact your dentist or your municipality.</p>
+    <p type="title">Dental care for people from other countries</p>
+    <p>The possibilities of receiving financial support for dental care in Sweden vary depending on which country you come from. There are special rules for when you can get financial support for dental care after you have moved to Sweden.</p>
+    <p>If you are in Sweden on a temporary visit and you come from a country in Scandinavia or the EU, or from Liechtenstein or Switzerland, you are entitled to emergency dental care at the same cost as those who are insured in Sweden. Unless you are from Scandinavia, you will need an ‘EU card’ to get this dental care. Moreover, children and young people from the countries mentioned above are entitled to free emergency dental care up to and including 31 December of the year they turn 19.</p>
+    <p>Citizens of countries outside the EU who visit Sweden must usually pay for the entire cost of dental care themselves. However, Sweden has special agreements with some countries, whose citizens can get dental care at a reduced cost.</p>
+    <p>If you have any questions regarding when you can receive financial support for dental care, please contact Försäkringskassan.</p>
+    <p type="title">Asylum seekers</p>
+    <p>Children under the age of 18 years who are seeking asylum in Sweden do not have to pay for dental care. Adults who are seeking asylum can receive emergency dental care if they pay for it, but the fee is usually quite low.</p>
+    <p>In order to receive dental care, you will need to present a card issued by Migrationsverket (the Swedish Migration Board), the ‘LMA card’. LMA stands for <span type="quote" xml:lang="swe">“lagen om mottagande av asylsökande”</span> (Reception of Asylum Seekers Act) and the card is a temporary identity card that is valid while you are seeking asylum.</p>
+    <p type="title">Right to an interpreter</p>
+    <p>If you need an interpreter during your visit to the dentist, please say so when you book your appointment.</p>
+  </body>
+</document>

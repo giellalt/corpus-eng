@@ -1,0 +1,44 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>What kinds of matter can you get legal aid for - 
+	Oikeus.fi
+</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2014</year>
+    <wordcount>212</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://oikeus.fi/en/index/esitteet/oikeusapu/mihinasioihinoikeusapuasaa.html</origFileName>
+    <parallel_text xml:lang="fin" location="mihinasioihinoikeusapuasaa.html"/>
+    <parallel_text xml:lang="sme" location="maidassiidevuoigatvuo273aveahkioauuu.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno"></p>
+    <p type="title">Information on Legal Aid</p>
+    <p type="title">What kinds of matter can you get legal aid for</p>
+    <p>Legal aid is given in any sort of legal matter, for example:</p>
+    <list>
+      <p type="listitem">divorce, distribution of matrimonial property, maintenance, marriage settlement</p>
+      <p type="listitem">testament, estate inventory, distribution of a decedent's estate</p>
+      <p type="listitem">assistance to debtors, creditors and guarantors</p>
+      <p type="listitem">collection of wage arrears, termination of employment, notice</p>
+      <p type="listitem">collection of rent arrears, notice, eviction</p>
+      <p type="listitem">deed of sale, annulment of sale, price reduction</p>
+      <p type="listitem">assistance to suspected offenders and to victims of crime, restraining order</p>
+      <p type="listitem">appeals relating e.g. to welfare, taking into care and social insurance payments</p>
+    </list>
+    <p>Legal aid is not given, if the person has legal expenses insurance that covers the matter in question. Such insurance cover may be included e.g. in a household insurance policy, a labour union policy or a farming policy.</p>
+    <p>However, legal aid can be granted so as to cover the deductible of legal expenses insurance, provided that the applicant's income and assets are such that he or she would qualify for legal aid free of charge.</p>
+    <p>Legal aid is not given to companies or corporations. A private person pursuing a business may be given legal aid for a court case pertaining to the business; for other matters pertaining to a business, legal aid can be given only for special reasons.</p>
+  </body>
+</document>

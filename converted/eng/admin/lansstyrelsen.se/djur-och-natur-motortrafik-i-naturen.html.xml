@@ -1,0 +1,45 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>161</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/djur-och-natur/motortrafik-i-naturen/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="djur-och-natur-motortrafik-i-naturen.html"/>
+    <parallel_text xml:lang="swe" location="djur-och-natur-motortrafik-i-naturen.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Motor traffic off road - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Motor traffic off road</p>
+    <p>The County Administrative Board also controls and follows up the use of snowmobiles or water scooters and off-road driving on bare ground. The aim is to prevent motor traffic from interfering or damaging the soil, vegetation, outdoor recreation, wildlife, reindeer herding, agriculture or forestry.</p>
+    <p type="title">Rules protect nature</p>
+    <p>Off-road driving on bare ground is prohibited throughout Sweden, and snowmobiles may only be run on good snow-covered ground and neither the ground or vegetation can be damaged. In some areas, especially in the mountains, traffic is regulated by a snowmobiles ban at the side of the trails. The County Administrative Board may decide on exceptions to the ban on driving on terrain not covered with snow and the snowmobiles ban.</p>
+    <p>You may only ride snowmobiles in general lanes and areas that have been approved by the County Administrative Board. If you break the rules, you may be subject to a fine.</p>
+  </body>
+</document>

@@ -1,0 +1,54 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Grammar and inflectional paradigms</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>139</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/gramm/grammatihkka.eng.html</origFileName>
+    <parallel_text xml:lang="nob" location="grammatihkka.nob.html"/>
+    <parallel_text xml:lang="sme" location="grammatihkka.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Grammar and inflectional paradigms</p>
+    <p>We are working on a mini grammar for North Saami, in which each part of speech is treated separately.</p>
+    <p>We have used among other materials:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">Pope/Sárá: Eatnigiella - Giellaoahpu váldogirji. 2. hápmi, 1. deaddileapmi. Davvi Girji 2004.</p>
+      <p type="listitem" xml:lang="sme">Nickel: Samisk grammatikk. 2. deaddileapmi. Davvi Girji 1994.</p>
+    </list>
+    <p>This is a link to our paradigm generator . You can type in a word, and then you get its inflectional paradigm.</p>
+    <p><em type="italic">Grammar (translation into English is underway): </em></p>
+    <list>
+      <p type="listitem">Noun - intro</p>
+      <p type="listitem">Noun inflection</p>
+      <p type="listitem">Adjective - intro</p>
+      <p type="listitem">Adjective inflection</p>
+      <p type="listitem" xml:lang="ron">Numerals - intro</p>
+      <p type="listitem" xml:lang="nob">Numerals</p>
+      <p type="listitem">Pronouns</p>
+      <p type="listitem" xml:lang="nno">Verb - intro</p>
+      <p type="listitem">Verb inflection</p>
+      <p type="listitem" xml:lang="deu">Adverbs</p>
+      <p type="listitem">Conjunctions and subjunctions</p>
+      <p type="listitem">Prepositions and postpositions</p>
+      <p type="listitem" xml:lang="deu">Particles</p>
+      <p type="listitem">Interjections</p>
+      <p type="listitem">Consonant gradation</p>
+      <p type="listitem" xml:lang="fin">Syntax</p>
+    </list>
+    <p>Parts of our resources are beta versions. This means that there may be errors in them. Feel free to send us corrections and suggestions for improvement! (oahpa@uit.no)</p>
+    <p>About pop-up pages.</p>
+  </body>
+</document>

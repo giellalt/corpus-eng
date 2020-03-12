@@ -1,0 +1,61 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>350</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/naringsliv-och-foreningar/penningtvatt/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-penningtvatt.html"/>
+    <parallel_text xml:lang="swe" location="naringsliv-och-foreningar-penningtvatt.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Money laundering and terrorist financing - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Money laundering and terrorist financing</p>
+    <p>The County Administrative Board checks that the company has adequate measures to prevent money laundering and terrorist financing.</p>
+    <p type="title">Money laundering</p>
+    <p>Money laundering is when the money earned from criminal activities is transferred into funds that can be made transparent. This can involve, for example, money from drug offences, trafficking, human trafficking, tax crimes, fraud and robbery.</p>
+    <p type="title">Terrorist financing</p>
+    <p>Terrorist financing means to financially support terrorism. This applies not only to direct contributions but also to the collection of money or receiving money and assets for terrorist financing.</p>
+    <p type="title">Responsibilities of the County Administrative Board</p>
+    <p>Supervision for combating money laundering and terrorist financing means that the County Administrative Board checks natural and legal persons if they</p>
+    <list>
+      <p type="listitem">are engaged in activities relating to accounting and auditing, except for authorized or approved accountants or registered public accounting firms</p>
+      <p type="listitem">operate as a tax advisor</p>
+      <p type="listitem">run activities as an independent lawyer, involved in the practice of the buying and selling of properties or businesses. This does not apply to trainee lawyers and attorneys at law firms</p>
+      <p type="listitem">are engaged in activities relating to sales and advice on starting a business</p>
+      <p type="listitem">are engaged in activities relating to the sale of goods for cash equating to a minimum amount of EUR 15, 000 or over per transaction.</p>
+    </list>
+    <p>Branches in Sweden of foreign legal entities with headquarters abroad are also covered by the supervision. They are part of the supervision of the County Administrative Board of Stockholm county.</p>
+    <p type="title">Registration at the Swedish Companies Registration Office</p>
+    <p>Companies and individuals engaged in certain types of business (see above) are required to register with the Swedish Companies Registration Office's money laundering register. Use the form Application form to register on the money laundering register, No. 705 when you sign up for the registry.</p>
+    <p>Swedish Companies Registration Office (Bolagsverket)</p>
+    <p type="title">Reporting to the Fraud Squad</p>
+    <p>Reporting of suspected money laundering should be done to the Fraud Squad. For further information on how this reporting should be carried out, contact the Fraud Squad on the following number: +46 8 401 38 00.</p>
+  </body>
+</document>

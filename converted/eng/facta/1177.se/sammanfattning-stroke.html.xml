@@ -1,0 +1,58 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>343</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Other-languages/Engelska/Symtom_sjukdom/Sammanfattning-Stroke</origFileName>
+    <parallel_text xml:lang="fin" location="stroke---slaganfall.html"/>
+    <parallel_text xml:lang="swe" location="stroke.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Stroke / Stroke - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">EnglishEngelska</p>
+    <list>
+      <p type="listitem">Back to the start page for this theme</p>
+    </list>
+    <p type="title">StrokeStroke</p>
+    <p type="title">Overview</p>
+    <p>A stroke is a blood clot or bleed in the brain. This reduces the oxygen supply to the brain which damages the functions of the brain controlled by the area where the clot or bleed occurs. A stroke is life-threatening and requires immediate medical attention.</p>
+    <p>The majority of those who get a stroke are over 65 years old, but younger people can be affected. Some are at higher risk, for example, those who smoke, have high blood pressure, high blood cholesterol, diabetes or atrial fibrillation (irregular heart rhythm).</p>
+    <p>It is usual for the effects of a stroke to be long-lasting but this varies from person to person. Many improve with the help of medical care and rehabilitation, while others find alternative ways of doing things.</p>
+    <p type="title">Symptoms</p>
+    <p>A stroke can cause the following sudden conditions:</p>
+    <list>
+      <p type="listitem">throbbing or numbness in the face, arms and legs, often on only one side of the body</p>
+      <p type="listitem">difficulty in speaking or in understanding what others are saying</p>
+      <p type="listitem">trouble seeing in one or both eyes</p>
+      <p type="listitem">difficulty in walking</p>
+      <p type="listitem">unexplainable dizziness, coordination or poor balance</p>
+    </list>
+    <p>It is possible to get a sudden severe headache with no known cause.</p>
+    <p type="title">Treatment</p>
+    <p>The sooner one gets medical attention, the greater the chances that the symptoms will disappear or improve.</p>
+    <p>A blood clot is usually treated by drugs to prevent new clots from forming. Medication to dissolve a clot may also be necessary, but only if one gets to hospital immediately when the first symptoms appear. A clot on the brain may require surgery.</p>
+    <p>Other types of treatment may also be necessary, for example, drugs to lower blood pressure.</p>
+    <p>It is usually necessary to stay in hospital a while for care and rehabilitation.</p>
+    <p type="title">When should you seek medical aid?</p>
+    <p>If you yourself, or someone in your surroundings, shows symptoms that you suspect are caused by a stroke you should immediately dial 112.</p>
+    <p>You can always telephone the medical helpline sjukvårdsrådgivningen for advice.</p>
+  </body>
+</document>

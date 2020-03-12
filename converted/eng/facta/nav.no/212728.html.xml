@@ -1,0 +1,124 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>NAV - Stay in Norway - Child benefit</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>NAV</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>947</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
+    <multilingual/>
+    <origFileName>http://www.nav.no/English/Stay+in+Norway/212728.cms</origFileName>
+    <parallel_text xml:lang="nno" location="805322312.html"/>
+    <parallel_text xml:lang="nob" location="barnetrygd.html"/>
+    <parallel_text xml:lang="sme" location="barnetrygd.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno"></p>
+    <p type="title">Child benefit</p>
+    <p>Child benefit is a kind of benefit that is paid for all children under the age of 18 years who live in Norway. The purpose of child benefit is to help cover the costs of raising children. Single parents are entitled to child benefit for one child more than they actually live with (extended child benefit).</p>
+    <p type="title">Who can receive child benefit?</p>
+    <list>
+      <p type="listitem">The child’s mother or father can receive child benefit. If the child’s parents have a dual domicile agreement for the child, child benefit can be split equally between them.</p>
+      <p type="listitem">Foster parents, another carer or a child care institution can receive the child benefit if the child lives there permanently (for more than three months).</p>
+    </list>
+    <p>To receive child benefit, your child must live in Norway. A child is generally regarded as living in Norway if he or she has been in Norway for at least 12 consecutive months. There are exceptions to this rule. Read more about child benefit during stays in EEA countries under the heading International in the menu to the right.</p>
+    <p type="title">Who can receive extended child benefit?</p>
+    <p>Extended child benefit is child benefit for one child more than you actually live with. You can receive child benefit if you live alone with the child and:</p>
+    <list>
+      <p type="listitem">you are separated, divorced or widowed</p>
+      <p type="listitem">you are unmarried and do not live with the child’s other parent. (A mediation certificate must be produced in the event of cohabitants with joint children under the age of 16 years splitting up)</p>
+      <p type="listitem">you have been de facto separated for at least six months without a separation order or court ruling</p>
+      <p type="listitem">your spouse or cohabiting partner is in prison on an unconditional imprisonment sentence of at least six months’ duration or has been held in custody for at least six months</p>
+      <p type="listitem">your spouse or cohabiting partner has been missing for at least six months</p>
+    </list>
+    <p>If you receive extended child benefit, your entitlement to it lapses if you:</p>
+    <list>
+      <p type="listitem" xml:lang="nno">get married</p>
+      <p type="listitem">have been cohabiting with someone you do not have a child with for 12 months</p>
+    </list>
+    <p type="title">If you move abroad</p>
+    <p>If you spend a limited period of time abroad with the child, you are entitled to continue receiving child benefit since the child is still regarded as living in Norway. Children are generally no longer regarded as living in Norway if they are going to spend more than six months abroad or if they spend more than a total of more than six months of the year abroad for two or more consecutive years. An exception to this rule is if the person or people the child lives with during the stay abroad is an obligatory or voluntary member of the Norwegian national insurance scheme. There is more information about child benefit in connection with living overseas under the heading International in the menu to the right.</p>
+    <p type="title">How much child benefit will you receive?</p>
+    <p>You can receive:</p>
+    <list>
+      <p type="listitem">ordinary child benefit, which is a fixed amount per child</p>
+      <p type="listitem">Finnmark supplement, for people who live in the county of Finnmark or one of the following municipalities in the county of Nord-Troms: Karlsøy, Kvænangen, Kåfjord, Lyngen, Nordreisa, Skjervøy or Storfjord</p>
+      <p type="listitem">Svalbard supplement, for people who live in Svalbard</p>
+      <p type="listitem">extended child benefit</p>
+      <p type="listitem">infant supplement, which is extra child benefit for single parents with children aged three or under who receive extended child benefit and full transitional benefit</p>
+    </list>
+    <p>Below is an overview of the current rates for child benefit:</p>
+    <p xml:lang="deu"><em type="italic">Rates </em></p>
+    <p><em type="italic">Amount per month </em></p>
+    <p>Ordinary child benefit, per child:</p>
+    <p xml:lang="nob">NOK 970</p>
+    <p>Finnmark supplement per child:</p>
+    <p xml:lang="nob">NOK 320</p>
+    <p>Svalbard supplement per child:</p>
+    <p xml:lang="nob">NOK 320</p>
+    <p>Extra infant supplement for single parents:</p>
+    <p xml:lang="nob">NOK 660</p>
+    <p>Extended child benefit for single parents:</p>
+    <p xml:lang="nob">NOK 970</p>
+    <p>Child benefit is a tax-free benefit and is paid out once a month.</p>
+    <p type="title">For how long will you receive child benefit?</p>
+    <p>You are entitled to receive child benefit from the month after the child is born or from the month after you qualify, if entitlement to child benefit arises at a later date. Child benefit is paid out until the month before the child’s 18th birthday.</p>
+    <p>Child benefit can be paid in arrears for up to three years from the date of application if the conditions are satisfied.</p>
+    <p type="title">How do you apply for child benefit?</p>
+    <p>Most people do not need to apply for child benefit. If the child was born in Norway, the mother is automatically granted entitlement to child benefit from NAV roughly two months after the child is born. You must inform your local NAV office if you want child benefit to be paid to the father.</p>
+    <p>You have to apply for child benefit if:</p>
+    <list>
+      <p type="listitem">the mother is not registered as living in Norway <em type="italic"></em></p>
+      <p type="listitem">the child is older than six months old when entitlement to child benefit starts <em type="italic"></em></p>
+      <p type="listitem">you may be entitled to extended child benefit</p>
+      <p type="listitem">the parents have signed a written dual domicile agreement for the child and want to share the child benefit</p>
+      <p type="listitem">child benefit is to be assessed according to the rules of the EEA agreement or other national insurance agreements</p>
+    </list>
+    <p>You must apply for child benefit using the form " Application for Child benefit", which is under the heading Forms and enclosures in the menu to the right. Here you will also find information about the documents you need to submit with your application.</p>
+    <p>Submit your application to your local NAV office.</p>
+    <p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian.</p>
+    <p type="title">Payment dates 2010</p>
+    <p xml:lang="fkv">Jan</p>
+    <p xml:lang="deu">Feb</p>
+    <p>March</p>
+    <p xml:lang="nob">Apr</p>
+    <p>May</p>
+    <p xml:lang="nno">June</p>
+    <p>July</p>
+    <p xml:lang="est">Aug</p>
+    <p xml:lang="sms">Sept</p>
+    <p>Oct</p>
+    <p xml:lang="smn">Nov</p>
+    <p xml:lang="dan">Des</p>
+    <p xml:lang="koi">29.</p>
+    <p xml:lang="koi">26.</p>
+    <p xml:lang="koi">31.</p>
+    <p xml:lang="koi">30.</p>
+    <p xml:lang="koi">31.</p>
+    <p xml:lang="koi">30.</p>
+    <p xml:lang="koi">30.</p>
+    <p xml:lang="koi">31.</p>
+    <p xml:lang="koi">30.</p>
+    <p xml:lang="koi">29.</p>
+    <p xml:lang="koi">30.</p>
+    <p xml:lang="koi">17.</p>
+  </body>
+</document>

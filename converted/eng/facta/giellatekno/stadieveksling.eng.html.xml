@@ -1,0 +1,804 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Consonant Gradation</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>3224</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/gramm/stadieveksling.eng.html</origFileName>
+    <parallel_text xml:lang="nob" location="stadieveksling.nob.html"/>
+    <parallel_text xml:lang="sme" location="stadieveksling.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Consonant Gradation</p>
+    <list>
+      <p type="listitem">What is Consonant Gradation?</p>
+      <p type="listitem">Consonant Quantities and Grades</p>
+      <p type="listitem">Consonant Gradation and Different Stem Types</p>
+      <p type="listitem">Consonant Gradation Patterns</p>
+      <p type="listitem" xml:lang="nob">Double Consonant Alternation</p>
+      <p type="listitem">Consonant Cluster Alternations</p>
+    </list>
+    <p>Back to the grammar main page .</p>
+    <p xml:lang="nno"></p>
+    <p type="title">What is Consonant Gradation?</p>
+    <p>When a word is conjugated, declined or derived, an alternation occurs in the consonants which are in the middle of the word. It is something like the English alteration in <span type="quote">"wife"</span> - <span type="quote">"wives"</span>, but much more regular and productive:</p>
+    <list>
+      <p type="listitem">Mun vie <em type="italic">g </em>an dávjá. [QI] (I run often.) </p>
+      <p type="listitem">Mun liikon vie <em type="italic">hk </em>at. [QII] (I like to run.) </p>
+      <p type="listitem" xml:lang="sme">Mun lean vie <em type="italic">hkk </em>i. [QIII] (I'm a runner/jogger.) </p>
+      <p type="listitem">Dás ledje ollu váttis sá <em type="italic">n </em>it. [QI] (There were a lot of hard words in this.) </p>
+      <p type="listitem" xml:lang="sme">Dát lea váttis sá <em type="italic">tn </em>i. [QII] (This is a difficult word.) </p>
+      <p type="listitem">Son lea hui sá <em type="italic">dn </em>ái. [QIII] (He/She is extremely good with words). </p>
+    </list>
+    <p xml:lang="nno"></p>
+    <p type="title">Consonant Quantities and Grades</p>
+    <p>The consonants between a stressed syllable and an unstressed syllable are called <em type="italic">stem consonants </em>. The Saami language has many different types of stem consonants, single consonants (-g-, -đ-, -v-, -ŋ-, -n-, -m-, etc.), double consonants (-gg-, -kk-, -dd-, -tt-, -bb-, -pp-, -ss-, -mm-, etc.) and consonant clusters (-sk-, -tn-, -rdn-, etc.). Consonant clusters consist of two or more different consonants. Here are some examples of stem consonants: single consonant: <em type="italic">lávu </em>'Lavvu [gen. sg.]', double consonant: <em type="italic">lávvu </em>'lavvu [nom. sg.]', consonant clusters: <em type="italic">lávdi </em>'(window)sill; stage', <em type="italic">lavdnji </em>'peat [used as roofing]'. </p>
+    <p>In Saami, stem consonants can come in three different <em type="italic">quantities </em>: quantity I, quantity II and quantity III, which are represented here as: QI, QII and QIII, respectively. (See the examples above with [QI], [QII] and [QIII] notation.) Single consonants are QI. Double consonants and consonant clusters can represent both as QII and QIII. </p>
+    <p>Usually QIII is said to be longer than QII. In the modern orthography it is impossible to see the difference between double consonants of quantity II and quantity III because both quantitative grades are represented orthographically with two letters: QIII: <em type="italic">guossi </em>'guest', QII: <em type="italic">guossit </em>'guests'. An exception to this is <span type="quote" xml:lang="smj">"-llj-"</span>, which is quantity III, and <span type="quote" xml:lang="smj">"-lj-"</span>, which is quantity II. Quantity-II consonant clusters can, of course, contain more orthographic letters than quantity III consonant clusters, and therefore the shorter quantities may appear as longer orthographic clusters, e.g., QIII: <em type="italic">juolgi </em>'leg; foot'; QII: <em type="italic">juolggit </em>'legs; feet'. </p>
+    <p>Words undergo changes between two or even three <em type="italic">grades </em>when they are inflected. Most instances of consonant gradation can be dealt with using the notions <em type="italic">weak </em>and <em type="italic">strong </em>grade, where some inflectional forms take a strong grade, while others take a weak grade. </p>
+    <p>In the alternation <span type="quote">"quantity II"</span> and <span type="quote">"quantity I"</span>, quantity II always represents the strong grade, and quantity I the weak grade, e.g. <em type="italic">máhtu - máđut </em>'worm - worms'. Likewise, in the alternation <span type="quote">"quantity III"</span> and <span type="quote">"quantity II"</span>, quantity III always represents the strong grade, and quantity II the weak grade, e.g. <em type="italic">máhttu - máhtut </em>'skill - skills'. </p>
+    <p>Examples are given with strong grade on the left and weak grade on the right:</p>
+    <p><em type="italic">Consonant gradation </em></p>
+    <p><em type="italic">QII-QI </em></p>
+    <p><em type="italic">QIII-QII </em></p>
+    <p xml:lang="sme"><em type="italic">viessu - viesut </em></p>
+    <p xml:lang="sme"><em type="italic">guossi - guossit </em></p>
+    <p xml:lang="sme"><em type="italic">báhčit - bážán </em></p>
+    <p xml:lang="sme"><em type="italic">áhčči -áhči </em></p>
+    <p xml:lang="smj"><em type="italic">vuodja - vuoja </em></p>
+    <p xml:lang="smj"><em type="italic">áddjá-ádjá </em></p>
+    <p>Some word stems can be attested in all three quantities, e.g. <em type="italic">viega </em>[QI] 'run!', <em type="italic">viehkat </em>[QII] 'to run', <em type="italic">viehkku </em>[QIII] 'let's run [du.]'. Other word stems are only attested in two quantities, e.g. <em type="italic">áddjá </em>[QIII] 'grandfather', <em type="italic">ádjá </em>[QII] 'grandfather [gen. sg.]'. </p>
+    <p xml:lang="nno"></p>
+    <p type="title">Consonant Gradation and Different Stem Types</p>
+    <p>Verbs, nouns, numerals, pronouns and adjectives are divided into three stem types, namely vowel stem, consonant stem and contracted stem types. Words are divided into these groups according to consonant gradation and the number of syllables in the final foot of the word.</p>
+    <p>A foot, as in the study of poetry, is a group of syllables where the first syllable has stress. <em type="italic">sáme-giella </em>'the Saami language' and <em type="italic">vil-bealli </em>'cousin [male]' are compound words, both of which have two feet, despite the number of syllables. The word <em type="italic">gonagas </em>'king', on the contrary, only has one foot; the main stress falls on the first syllable. </p>
+    <p><em type="italic">Vowel stem nouns, numerals, pronouns and adjectives </em>have two syllables in the final foot. This group of words has strong-grade stem consonants in the nominative singular, illative singular and essive (QII or QIII), and weak-grade stem consonants in the plural, e.g. <em type="italic">gussa - gusat </em>'cow - cows', <em type="italic">vilbealli - vilbealit </em>'cousin - cousins [male]'. </p>
+    <p><em type="italic">Consonant stem nouns, numerals, pronouns and adjectives </em>have three syllables in the final foot in the nominative plural, e.g. <em type="italic">rieban - riebanat </em>'fox - foxes', <em type="italic">nisu - nissonat </em>'woman - women'. The nominative singular and essive have weak-grade stem consonants, while the other forms have strong-grade stem consonants. It should be noted, however, that not all consonant stem nouns, numerals, pronouns and adjectives are subject to consonant gradation. </p>
+    <p><em type="italic">Contracted-stem nouns, numerals, pronouns and adjectives </em>have two syllables in the final foot in both the singular and plural, just as in their vowel stem counterparts. Consonant gradation, however, is like that found in consonant stem nouns, numerals, pronouns and adjectives. They are weak-grade ([QI] or [QII]) in the nominative singular and strong-grade ([QIII]) in the plural, e.g. <em type="italic">boazu - bohccot </em>[QI - QIII] 'reindeer - reindeer [nom. pl.]', <em type="italic">bálggis - bálgát </em>[QII - QIII] 'path - paths'. </p>
+    <p>Note that the illative singular is strong-grade in all three stem types.</p>
+    <p>Verbs are divided into the same stem types, but it is only <em type="italic">vowel stem verbs </em>which undergo consonant gradation. Vowel stem verbs have two syllables in the final foot. In the indicative present, seven of the nine person forms are strong-grade, while the first and second persons singular are weak-grade, hence <em type="italic">Son čállá. </em>(He/She writes.), but <em type="italic">Mun čálán. </em>(I write.) <em type="italic">Don čálát. </em>(You [sg.] write.) In the indicative preterite, six persons are weak-grade, while the first and second persons singular and the third person plural are strong-grade, hence <em type="italic">Son čálii. </em>(He/She wrote.), but <em type="italic">Mun čállen. </em>(I wrote.) <em type="italic">Don čállet. </em>(You [sg.] wrote.) <em type="italic">Sii čálle. </em>(They wrote.) Note that the third person plural forms are always strong-grade. The indicative connegation forms of the main verb are always weak-grade, e.g. <em type="italic">Son ii 'čále'. </em>(He/She doen't write.) <em type="italic">Moai ean 'boađe'. </em>(We [du.] are not coming.) </p>
+    <p xml:lang="nno"></p>
+    <p type="title">Consonant Gradation Patterns</p>
+    <p>There are many consonant gradation patterns in Northern Saami. In the outline, below, all the patterns are divided into two parts, double consonant alternations in one and consonant cluster alternations in the other. Single consonants can alternate with both double consonants and consonant clusters, and they are divided between the two groups. For example, the single consonant 'n' can be the weak grade of the double consonant 'nn' or of consonant cluster 'tn', <em type="italic">mánná - mánát </em>, 'child - children', <em type="italic">sátni - sánit </em>, 'word - words'. </p>
+    <p><em type="italic">Double consonants </em>are subject to three types of alternation. They can alternate with single consonants or identical double consonants. In the latter alternation the modern orthography does not lend itself to identifying a distinction between QII and QIII. Double consonants can also alternate with other double consonants. In this situation, the strong grade is indicated with voiced consonants, and the weak grade with voiceless consonants. Examples are given with strong grade on the left and weak grade on the right: </p>
+    <list>
+      <p type="listitem" xml:lang="sme">go <em type="italic">ll </em>i - go <em type="italic">ll </em>it 'gold' </p>
+      <p type="listitem" xml:lang="nno">guo <em type="italic">ll </em>i - guo <em type="italic">l </em>it 'fish' </p>
+      <p type="listitem" xml:lang="isl">spá <em type="italic">bb </em>a - spá <em type="italic">pp </em>at 'ball' </p>
+      <p type="listitem" xml:lang="sms">bá <em type="italic">dd </em>i - bá <em type="italic">tt </em>it 'rope' </p>
+    </list>
+    <p><em type="italic">Consonant clusters </em>feature many alternations. The most common is that the final consonant of a cluster is doubled in the weak grade. Some clusters have additional alternations as well. In consonant clusters beginning in <span type="quote" xml:lang="vep">"-k-"</span>, the <span type="quote" xml:lang="vep">"-k-"</span> alternates with <span type="quote" xml:lang="smj">"-v-"</span> in the weak grade. Consonant clusters beginning with <span type="quote" xml:lang="swe">"-h-"</span> have double consonants in quantity III, and they can also alternate with single consonants in quantity I. Here are some examples, with the strong grade on the left and the weak grade on the right: </p>
+    <list>
+      <p type="listitem" xml:lang="sme">vuo <em type="italic">lg </em>it - vuo <em type="italic">lgg </em>án 'to leave' </p>
+      <p type="listitem" xml:lang="nob">ba <em type="italic">st </em>e - ba <em type="italic">stt </em>et 'spoon' </p>
+      <p type="listitem" xml:lang="vep">ča <em type="italic">kč </em>a - ča <em type="italic">včč </em>a 'autumn' </p>
+      <p type="listitem" xml:lang="nno">lo <em type="italic">hkk </em>i - lo <em type="italic">hk </em>it 'lid' </p>
+      <p type="listitem" xml:lang="nno">lo <em type="italic">hk </em>at - lo <em type="italic">g </em>an 'to read' </p>
+    </list>
+    <p>In consonant clusters that consist of a plosive (k, g, t, d, p, b) and a nasal (ŋ, n, nj, m), it is the plosive that alternates. In the strong grade we have a voiced plosive [QIII], and in the weak grade the plosive is voiceless [QII]. These consonant clusters can also alternate with single consonants [QI], that is, the plosive is dropped leaving only the nasal. Here are some examples, with strong grade on the left and weak grade on the right:</p>
+    <list>
+      <p type="listitem">bie <em type="italic">bm </em>at - bie <em type="italic">pm </em>an 'to feed' </p>
+      <p type="listitem">doa <em type="italic">pm </em>at - doa <em type="italic">m </em>an 'to rush' </p>
+      <p type="listitem" xml:lang="isl">sá <em type="italic">tn </em>i - sá <em type="italic">n </em>it 'word' </p>
+      <p type="listitem" xml:lang="sme">e <em type="italic">dn </em>ot - ea <em type="italic">n </em>u 'maternal uncle' </p>
+    </list>
+    <p>These consonant clusters can be components of other consonants clusters where they are preceded by another consonant. When the preceding consonant is <span type="quote" xml:lang="nno">"-r-"</span>, the alternation remains the same, that is to say with regard to the alternation between voiced (g, d, b) and voiceless (k, t, p) plosives. When the cluster begins with other consonants, the nasal is lengthened orthographically to a double consonant in the weak grade, and the plosive (g, d, b) disappears. Examples are given with strong grade on the left and weak grade on the right:</p>
+    <list>
+      <p type="listitem">čo <em type="italic">rbm </em>at - čo <em type="italic">rpm </em>an 'to hit with the fist' </p>
+      <p type="listitem" xml:lang="dan">suo <em type="italic">rbm </em>a - suo <em type="italic">rpm </em>at 'finger' </p>
+      <p type="listitem" xml:lang="nno">suo <em type="italic">idn </em>i - suo <em type="italic">inn </em>it 'hay' </p>
+      <p type="listitem" xml:lang="fin">suo <em type="italic">ldn </em>i - suo <em type="italic">lnn </em>i 'dew' </p>
+    </list>
+    <p xml:lang="nno"></p>
+    <p type="title" xml:lang="nob">Double Consonant Alternation</p>
+    <p>Double consonants alternate with single consonants of the same type or identical double consonants. Note that combinations <em type="italic">hll, llj, lj, nnj </em>and <em type="italic">hrr </em>are double consonants, and not consonant clusters. Additionally, it should be noted that the orthographic combinations <em type="italic">hl, nj </em>and <em type="italic">hr </em>represent single consonants. </p>
+    <p><em type="italic">Group 1 </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">QI </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="smn"><em type="italic">đđ </em></p>
+    <p xml:lang="smn"><em type="italic">đđ </em></p>
+    <p xml:lang="smn"><em type="italic">đ </em></p>
+    <p xml:lang="sme"><em type="italic">gođđi, gođđit, gođán </em></p>
+    <p>'to knit'</p>
+    <p><em type="italic">ff </em></p>
+    <p><em type="italic">ff </em></p>
+    <p xml:lang="dan"><em type="italic">f </em></p>
+    <p xml:lang="isl"><em type="italic">stáffu </em></p>
+    <p xml:lang="isl">'boat landing',</p>
+    <p xml:lang="smn"><em type="italic">jáffu, jáfut </em></p>
+    <p xml:lang="vep">'flour'</p>
+    <p xml:lang="swe"><em type="italic">ll </em></p>
+    <p xml:lang="swe"><em type="italic">ll </em></p>
+    <p xml:lang="ron"><em type="italic">l </em></p>
+    <p xml:lang="smj"><em type="italic">bulli - bullit </em></p>
+    <p>'swelling',</p>
+    <p xml:lang="sme"><em type="italic">ballat - balan </em></p>
+    <p>'to be afraid of'</p>
+    <p xml:lang="swe"><em type="italic">hll </em></p>
+    <p xml:lang="swe"><em type="italic">hll </em></p>
+    <p><em type="italic">hl </em></p>
+    <p xml:lang="fin"><em type="italic">cuhlli, cuhllat, cuhlai </em></p>
+    <p>'to mutter'</p>
+    <p xml:lang="smj"><em type="italic">llj </em></p>
+    <p xml:lang="smj"><em type="italic">lj </em></p>
+    <p xml:lang="nno"><em type="italic"></em></p>
+    <p xml:lang="sme"><em type="italic">duollji, duoljit </em></p>
+    <p xml:lang="vep">'hide, skin'</p>
+    <p xml:lang="sms"><em type="italic">mm </em></p>
+    <p xml:lang="sms"><em type="italic">mm </em></p>
+    <p xml:lang="smn"><em type="italic">m </em></p>
+    <p xml:lang="kal"><em type="italic">lumma - lummat </em></p>
+    <p xml:lang="vep">'pocket',</p>
+    <p xml:lang="smj"><em type="italic">njammat - njaman </em></p>
+    <p>'to suckle'</p>
+    <p xml:lang="isl"><em type="italic">nn </em></p>
+    <p xml:lang="isl"><em type="italic">nn </em></p>
+    <p xml:lang="fin"><em type="italic">n </em></p>
+    <p xml:lang="kal"><em type="italic">unni - unnit </em></p>
+    <p xml:lang="nno">'little',</p>
+    <p xml:lang="sme"><em type="italic">mánná - mánát </em></p>
+    <p xml:lang="vep">'child'</p>
+    <p xml:lang="smj"><em type="italic">nnj </em></p>
+    <p xml:lang="smj"><em type="italic">nnj </em></p>
+    <p xml:lang="smn"><em type="italic">nj </em></p>
+    <p xml:lang="sme"><em type="italic">mannjái, mannji, manjit </em></p>
+    <p>'daughter-in-law'</p>
+    <p xml:lang="smn"><em type="italic">ŋŋ </em></p>
+    <p xml:lang="smn"><em type="italic">ŋŋ </em></p>
+    <p xml:lang="udm"><em type="italic">ŋ </em></p>
+    <p xml:lang="sme"><em type="italic">maŋŋá, maŋŋái, maŋis </em></p>
+    <p xml:lang="dan">'after'</p>
+    <p xml:lang="sms"><em type="italic">rr </em></p>
+    <p xml:lang="sms"><em type="italic">rr </em></p>
+    <p xml:lang="nob"><em type="italic">r </em></p>
+    <p xml:lang="ron"><em type="italic">orru, orrut, orun </em></p>
+    <p>'to live; to seem'</p>
+    <p xml:lang="deu"><em type="italic">hrr </em></p>
+    <p xml:lang="deu"><em type="italic">hrr </em></p>
+    <p xml:lang="isl"><em type="italic">hr </em></p>
+    <p xml:lang="sme"><em type="italic">čahrri, čahrrat, čahrai </em></p>
+    <p>'to chatter'</p>
+    <p xml:lang="deu"><em type="italic">ss </em></p>
+    <p xml:lang="deu"><em type="italic">ss </em></p>
+    <p xml:lang="est"><em type="italic">s </em></p>
+    <p xml:lang="sme"><em type="italic">guossi - guossit </em></p>
+    <p xml:lang="sma">'guest',</p>
+    <p xml:lang="smj"><em type="italic">bassat - basan </em></p>
+    <p>'to wash'</p>
+    <p xml:lang="krl"><em type="italic">šš </em></p>
+    <p xml:lang="krl"><em type="italic">šš </em></p>
+    <p xml:lang="smn"><em type="italic">š </em></p>
+    <p xml:lang="krl"><em type="italic">rišša - riššat </em></p>
+    <p xml:lang="vep">'match',</p>
+    <p xml:lang="krl"><em type="italic">riššut - rišui </em></p>
+    <p>'to shower'</p>
+    <p xml:lang="nno"><em type="italic">ŧŧ </em></p>
+    <p xml:lang="nno"><em type="italic">ŧŧ </em></p>
+    <p xml:lang="nno"><em type="italic">ŧ </em></p>
+    <p xml:lang="sme"><em type="italic">muoŧŧái, muoŧŧá, muoŧát </em></p>
+    <p>'aunt [maternal, younger than mother]'</p>
+    <p xml:lang="smj"><em type="italic">vv </em></p>
+    <p xml:lang="smj"><em type="italic">vv </em></p>
+    <p xml:lang="smj"><em type="italic">v </em></p>
+    <p xml:lang="sme"><em type="italic">govvet, govva, govat </em></p>
+    <p xml:lang="vep">'photograph'</p>
+    <p>Double consonants can also alternate with double consonants of a different type. A good rule of thumb is that the voiced consonants represent strong grade, and the voiceless consonants represent weak grade. Note that <em type="italic">ddj </em>and <em type="italic">dj </em>are double consonants, and not consonant clusters. The voiceless sound <em type="italic">dj </em>can represent the strong pair when it alternates with the single consonant <em type="italic">j </em>. </p>
+    <p><em type="italic">Group 2 </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">QI </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="vep"><em type="italic">bb </em></p>
+    <p xml:lang="nno"><em type="italic">pp </em></p>
+    <p xml:lang="nno"><em type="italic"></em></p>
+    <p xml:lang="sme"><em type="italic">čibbi - čippit </em></p>
+    <p xml:lang="vep">'knee'</p>
+    <p xml:lang="sms"><em type="italic">dd </em></p>
+    <p xml:lang="sms"><em type="italic">tt </em></p>
+    <p xml:lang="nno"><em type="italic"></em></p>
+    <p xml:lang="sme"><em type="italic">báddi - báttit </em></p>
+    <p>'rope'</p>
+    <p xml:lang="smj"><em type="italic">ddj </em></p>
+    <p xml:lang="smj"><em type="italic">dj </em></p>
+    <p xml:lang="smj"><em type="italic">j </em></p>
+    <p xml:lang="sme"><em type="italic">áddjá - ádját </em></p>
+    <p>'grandfather',</p>
+    <p xml:lang="smj"><em type="italic">vuodja - vuoja </em></p>
+    <p xml:lang="nob">'butter'</p>
+    <p xml:lang="nno"><em type="italic">gg </em></p>
+    <p xml:lang="sms"><em type="italic">kk </em></p>
+    <p xml:lang="nno"><em type="italic"></em></p>
+    <p xml:lang="sme"><em type="italic">vuogga - vuokkat </em></p>
+    <p xml:lang="vep">'lure; hook'</p>
+    <p xml:lang="sms"><em type="italic">zz </em></p>
+    <p xml:lang="ron"><em type="italic">cc </em></p>
+    <p xml:lang="nno"><em type="italic"></em></p>
+    <p xml:lang="sme"><em type="italic">vázzit - váccán </em></p>
+    <p>'to walk'</p>
+    <p xml:lang="sms"><em type="italic">žž </em></p>
+    <p xml:lang="smn"><em type="italic">čč </em></p>
+    <p xml:lang="nno"><em type="italic"></em></p>
+    <p xml:lang="sme"><em type="italic">čuožžut - čuoččun </em></p>
+    <p>'to stand'</p>
+    <p xml:lang="nno"></p>
+    <p type="title">Consonant Cluster Alternations</p>
+    <p>Group 3: Consonant clusters beginning in <span type="quote" xml:lang="swe">"-h-"</span>, have a double consonant after <span type="quote" xml:lang="swe">"-h-"</span> in quantity III, and a single consonant after <span type="quote" xml:lang="swe">"-h-"</span> in quantity II. QII can alternate with QIII, or with QI, which is a single consonant.</p>
+    <p><em type="italic">Group 3: "h" combinations </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">QI </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p><em type="italic">hcc </em></p>
+    <p><em type="italic">hc </em></p>
+    <p xml:lang="sms"><em type="italic">z </em></p>
+    <p xml:lang="sme"><em type="italic">gihcci - gihci </em></p>
+    <p xml:lang="vep">'(goat) kid',</p>
+    <p xml:lang="sme"><em type="italic">báhcit - bázán </em></p>
+    <p>'to remain'</p>
+    <p xml:lang="krl"><em type="italic">hčč </em></p>
+    <p xml:lang="krl"><em type="italic">hč </em></p>
+    <p xml:lang="sms"><em type="italic">ž </em></p>
+    <p xml:lang="sme"><em type="italic">áhčči - áhčit </em></p>
+    <p>'father',</p>
+    <p xml:lang="sme"><em type="italic">bohčit - božan </em></p>
+    <p>'to milk'</p>
+    <p xml:lang="sme"><em type="italic">hkk </em></p>
+    <p xml:lang="nob"><em type="italic">hk </em></p>
+    <p xml:lang="nno"><em type="italic">g </em></p>
+    <p xml:lang="sme"><em type="italic">áhkku - áhkut </em></p>
+    <p>'grandmother',</p>
+    <p xml:lang="sme"><em type="italic">lohkat - logan </em></p>
+    <p>'to read'</p>
+    <p xml:lang="nno"><em type="italic">hpp </em></p>
+    <p xml:lang="nno"><em type="italic">hp </em></p>
+    <p xml:lang="sme"><em type="italic">b </em></p>
+    <p xml:lang="deu"><em type="italic">diehppi - diehpit </em></p>
+    <p xml:lang="vep">'tassel',</p>
+    <p xml:lang="sme"><em type="italic">doahput - doabun </em></p>
+    <p>'to snatch'</p>
+    <p xml:lang="smj"><em type="italic">htt </em></p>
+    <p xml:lang="deu"><em type="italic">ht </em></p>
+    <p xml:lang="smn"><em type="italic">đ </em></p>
+    <p xml:lang="sme"><em type="italic">Máhtte - Máhte </em></p>
+    <p xml:lang="fkv">'Máhtte [name]',</p>
+    <p xml:lang="sme"><em type="italic">sihtat - siđan </em></p>
+    <p>'to want'</p>
+    <p>Group 4: Consonant clusters that consist of one plosive and one nasal can alternate with single consonants or with a similar consonant cluster. In QIII we have a voiced plosive, and in QII a voiceless plosive.</p>
+    <p><em type="italic">Group 4: combinations with plosive+nasal </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">QI </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="smj"><em type="italic">bm </em></p>
+    <p xml:lang="smn"><em type="italic">pm </em></p>
+    <p xml:lang="smn"><em type="italic">m </em></p>
+    <p xml:lang="sme"><em type="italic">biebmu - biepmu </em></p>
+    <p xml:lang="vep">'food',</p>
+    <p xml:lang="sme"><em type="italic">doapmat - doaman </em></p>
+    <p>'to hurry'</p>
+    <p xml:lang="vep"><em type="italic">dn </em></p>
+    <p xml:lang="vep"><em type="italic">tn </em></p>
+    <p xml:lang="fin"><em type="italic">n </em></p>
+    <p xml:lang="sme"><em type="italic">eadni - eatnit </em></p>
+    <p>'mother',</p>
+    <p xml:lang="sme"><em type="italic">fitnan - finan </em></p>
+    <p>'to visit, to go somewhere'</p>
+    <p xml:lang="smj"><em type="italic">dnj </em></p>
+    <p xml:lang="sma"><em type="italic">tnj </em></p>
+    <p xml:lang="smn"><em type="italic">nj </em></p>
+    <p xml:lang="sme"><em type="italic">boadnji - boatnjit </em></p>
+    <p xml:lang="vep">'husband',</p>
+    <p xml:lang="fin"><em type="italic">suotnjat - suonjan </em></p>
+    <p>'to crawl through/into'</p>
+    <p xml:lang="smj"><em type="italic">gŋ </em></p>
+    <p xml:lang="smn"><em type="italic">kŋ </em></p>
+    <p xml:lang="udm"><em type="italic">ŋ </em></p>
+    <p xml:lang="sme"><em type="italic">duogŋat - duokŋan </em></p>
+    <p>'to patch',</p>
+    <p xml:lang="sme"><em type="italic">čikŋa - čiŋat </em></p>
+    <p>'decoration'</p>
+    <p>Group 5: This group consists of plosive+nasal combination in compound with a preceding <span type="quote" xml:lang="nno">"-r-"</span>. There are only two grades; quantity III is the strong grade and quantity II is the weak grade. In the strong grade, we have a voiced plosive, and in the weak grade a voiceless plosive. In the strong grade you can hear glide vowel between the <span type="quote" xml:lang="nno">"-r-"</span> and the consonant cluster: <em type="italic">bárᵊdni </em>'boy'. </p>
+    <p><em type="italic">Group 5 </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="smj"><em type="italic">rbm </em></p>
+    <p xml:lang="vep"><em type="italic">rpm </em></p>
+    <p xml:lang="sme"><em type="italic">čorbma - čorpmat </em></p>
+    <p xml:lang="vep">'fist'</p>
+    <p xml:lang="vep"><em type="italic">rdn </em></p>
+    <p><em type="italic">rtn </em></p>
+    <p xml:lang="sme"><em type="italic">bárdni - bártnit </em></p>
+    <p xml:lang="vep">'boy'</p>
+    <p xml:lang="smj"><em type="italic">rdnj </em></p>
+    <p xml:lang="sma"><em type="italic">rtnj </em></p>
+    <p xml:lang="vep"><em type="italic">skurdnjasa - skurtnjas </em></p>
+    <p xml:lang="nob">'disheartened'</p>
+    <p xml:lang="smn"><em type="italic">rgŋ </em></p>
+    <p xml:lang="nob"><em type="italic">rkŋ </em></p>
+    <p xml:lang="sme"><em type="italic">goargŋut - goarkŋun </em></p>
+    <p>'to climb'</p>
+    <p>Group 6: This is the largest group of alternations. There are only two quantities, and they are quantity III as the strong grade, and quantity II as the weak grade. The last consonant in the strong grade is doubled in the weak grade. In the strong grade a glide vowel is pronounced between the first and second consonants, <em type="italic">beađᵊbi </em>'shoulder blade'. In consonant clusters that begin with a nasal, <span type="quote" xml:lang="nob">"-i-"</span>, <span type="quote" xml:lang="est">"-s-"</span>, <span type="quote" xml:lang="smn">"-š-"</span>, <span type="quote" xml:lang="nno">"-t-"</span> or <span type="quote" xml:lang="smj">"-v-"</span> there should not be any glide vowel, nor should there be a glide vowel in the consonant clusters <span type="quote" xml:lang="sms">"-ld-"</span> or <span type="quote" xml:lang="est">"-lt-"</span>. Below, the groups are divided into tables according to the first letter. </p>
+    <p><em type="italic">Group 6, <span type="quote" xml:lang="smn">"-đ-"</span> combinations </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="sme"><em type="italic">đb </em></p>
+    <p xml:lang="sme"><em type="italic">đbb </em></p>
+    <p xml:lang="sme"><em type="italic">beađbi - beađbbit </em></p>
+    <p>'shoulder blade'</p>
+    <p xml:lang="dan"><em type="italic">đg </em></p>
+    <p xml:lang="sme"><em type="italic">đgg </em></p>
+    <p xml:lang="sme"><em type="italic">geađgi - geađggit </em></p>
+    <p xml:lang="vep">'stone'</p>
+    <p xml:lang="smn"><em type="italic">đj </em></p>
+    <p xml:lang="sms"><em type="italic">đjj </em></p>
+    <p xml:lang="sme"><em type="italic">guđju - guđjjut </em></p>
+    <p xml:lang="vep">'cover'</p>
+    <p xml:lang="smn"><em type="italic">đv </em></p>
+    <p xml:lang="sme"><em type="italic">đvv </em></p>
+    <p xml:lang="sme"><em type="italic">liđvi - liđvvit </em></p>
+    <p>'droopy-eyed'</p>
+    <p><em type="italic">Group 6, <span type="quote" xml:lang="nob">"-i-"</span> combinations </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="vep"><em type="italic">ib </em></p>
+    <p xml:lang="vep"><em type="italic">ibb </em></p>
+    <p xml:lang="sme"><em type="italic">gáibi - gáibbit </em></p>
+    <p xml:lang="vep">'chin'</p>
+    <p xml:lang="deu"><em type="italic">ic </em></p>
+    <p xml:lang="deu"><em type="italic">icc </em></p>
+    <p xml:lang="sme"><em type="italic">gáica - gáiccat </em></p>
+    <p xml:lang="sme">'goat'</p>
+    <p xml:lang="sme"><em type="italic">id </em></p>
+    <p xml:lang="sme"><em type="italic">idd </em></p>
+    <p xml:lang="sme"><em type="italic">báidi - báiddit </em></p>
+    <p xml:lang="vep">'shirt'</p>
+    <p><em type="italic">if </em></p>
+    <p><em type="italic">iff </em></p>
+    <p xml:lang="kal"><em type="italic">riifu - riiffut </em></p>
+    <p xml:lang="vep">'slug; rake'</p>
+    <p xml:lang="dan"><em type="italic">ig </em></p>
+    <p xml:lang="dan"><em type="italic">igg </em></p>
+    <p xml:lang="sme"><em type="italic">čuoigat - čuoiggan </em></p>
+    <p xml:lang="vep">'to ski'</p>
+    <p xml:lang="kal"><em type="italic">ik </em></p>
+    <p xml:lang="kal"><em type="italic">ikk </em></p>
+    <p xml:lang="sme"><em type="italic">báiki - báikkit </em></p>
+    <p xml:lang="ron">'place'</p>
+    <p xml:lang="nno"><em type="italic">il </em></p>
+    <p xml:lang="swe"><em type="italic">ill </em></p>
+    <p xml:lang="sme"><em type="italic">biila - biillat </em></p>
+    <p xml:lang="ron">'car'</p>
+    <p><em type="italic">ihl </em></p>
+    <p xml:lang="swe"><em type="italic">ihll </em></p>
+    <p xml:lang="sme"><em type="italic">máihli - máihlli </em></p>
+    <p xml:lang="vep">'sap'</p>
+    <p xml:lang="deu"><em type="italic">ihm </em></p>
+    <p xml:lang="smn"><em type="italic">ihmm </em></p>
+    <p xml:lang="sme"><em type="italic">duihmi - duihmmit </em></p>
+    <p xml:lang="vep">'stupid'</p>
+    <p xml:lang="deu"><em type="italic">ihn </em></p>
+    <p xml:lang="krl"><em type="italic">ihnn </em></p>
+    <p xml:lang="sme"><em type="italic">čáihni - čáihnnit </em></p>
+    <p xml:lang="vep">'woodpecker'</p>
+    <p xml:lang="kal"><em type="italic">ip </em></p>
+    <p xml:lang="kal"><em type="italic">ipp </em></p>
+    <p xml:lang="kal"><em type="italic">biipu - biipput </em></p>
+    <p xml:lang="vep">'pipe'</p>
+    <p xml:lang="deu"><em type="italic">ir </em></p>
+    <p xml:lang="deu"><em type="italic">irr </em></p>
+    <p xml:lang="isl"><em type="italic">áiru - áirrut </em></p>
+    <p xml:lang="vep">'oar'</p>
+    <p><em type="italic">is </em></p>
+    <p><em type="italic">iss </em></p>
+    <p xml:lang="smj"><em type="italic">gáisá - gáissát </em></p>
+    <p>'mountain with a snow cap'</p>
+    <p xml:lang="kal"><em type="italic">it </em></p>
+    <p xml:lang="swe"><em type="italic">itt </em></p>
+    <p xml:lang="sme"><em type="italic">heaitit - heittii </em></p>
+    <p>'to quit'</p>
+    <p xml:lang="smj"><em type="italic">iv </em></p>
+    <p xml:lang="smj"><em type="italic">ivv </em></p>
+    <p xml:lang="sme"><em type="italic">siivu - siivvu </em></p>
+    <p>'travel conditions'</p>
+    <p xml:lang="vep"><em type="italic">iz </em></p>
+    <p xml:lang="sms"><em type="italic">izz </em></p>
+    <p xml:lang="sme"><em type="italic">máizat - máizzai </em></p>
+    <p>'to thaw out'</p>
+    <p><em type="italic">Group 6, <span type="quote" xml:lang="ron">"-l-"</span> combinations </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="vep"><em type="italic">lb </em></p>
+    <p xml:lang="vep"><em type="italic">lbb </em></p>
+    <p xml:lang="smj"><em type="italic">gálbi - gálbbit </em></p>
+    <p>'calf [baby cow]'</p>
+    <p xml:lang="ron"><em type="italic">lc </em></p>
+    <p xml:lang="ron"><em type="italic">lcc </em></p>
+    <p xml:lang="vep"><em type="italic">spalca - spalccas </em></p>
+    <p>'wet [of leather]'</p>
+    <p xml:lang="sms"><em type="italic">ld </em></p>
+    <p xml:lang="sms"><em type="italic">ldd </em></p>
+    <p xml:lang="sme"><em type="italic">baldit - balddii </em></p>
+    <p>'to frighten'</p>
+    <p><em type="italic">lf </em></p>
+    <p><em type="italic">lff </em></p>
+    <p xml:lang="kal"><em type="italic">spálfu - spálffut </em></p>
+    <p>'swallow'</p>
+    <p xml:lang="isl"><em type="italic">lg </em></p>
+    <p xml:lang="smj"><em type="italic">lgg </em></p>
+    <p xml:lang="sme"><em type="italic">juolgi - juolggit </em></p>
+    <p xml:lang="nno">'foot; leg'</p>
+    <p xml:lang="fin"><em type="italic">lk </em></p>
+    <p xml:lang="sms"><em type="italic">lkk </em></p>
+    <p xml:lang="sme"><em type="italic">bálkut - bálkkun </em></p>
+    <p>'to throw, to toss'</p>
+    <p xml:lang="smj"><em type="italic">lj </em></p>
+    <p xml:lang="sms"><em type="italic">ljj </em></p>
+    <p xml:lang="sme"><em type="italic">olju - oljju </em></p>
+    <p xml:lang="vep">'oil'</p>
+    <p xml:lang="nno"><em type="italic">lp </em></p>
+    <p xml:lang="nno"><em type="italic">lpp </em></p>
+    <p xml:lang="smn"><em type="italic">vuolpu - vuolpput </em></p>
+    <p xml:lang="vep">'skirt'</p>
+    <p xml:lang="dan"><em type="italic">ls </em></p>
+    <p xml:lang="smj"><em type="italic">lss </em></p>
+    <p xml:lang="sme"><em type="italic">balsa - balssat </em></p>
+    <p xml:lang="vep">'mound'</p>
+    <p xml:lang="sme"><em type="italic">lš </em></p>
+    <p xml:lang="sms"><em type="italic">lšš </em></p>
+    <p xml:lang="sme"><em type="italic">vuolši - vuolšši </em></p>
+    <p>'(weaping) inflammation'</p>
+    <p xml:lang="est"><em type="italic">lt </em></p>
+    <p xml:lang="sms"><em type="italic">ltt </em></p>
+    <p xml:lang="sme"><em type="italic">boltut - bolttui </em></p>
+    <p>'to dig through, to quarry'</p>
+    <p xml:lang="smj"><em type="italic">lv </em></p>
+    <p xml:lang="smj"><em type="italic">lvv </em></p>
+    <p xml:lang="sme"><em type="italic">gilvit - gilvvii </em></p>
+    <p>'to sow, to plant'</p>
+    <p xml:lang="sms"><em type="italic">lž </em></p>
+    <p xml:lang="sms"><em type="italic">lžž </em></p>
+    <p xml:lang="vep"><em type="italic">skilži - skilžži </em></p>
+    <p>'ice formation on hair'</p>
+    <p><em type="italic">Group 6, nasal as first consonant </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="vep"><em type="italic">mb </em></p>
+    <p xml:lang="vep"><em type="italic">mbb </em></p>
+    <p xml:lang="smj"><em type="italic">bumbá - bumbbát </em></p>
+    <p xml:lang="deu">'chest'</p>
+    <p xml:lang="nno"><em type="italic">mp </em></p>
+    <p xml:lang="nno"><em type="italic">mpp </em></p>
+    <p xml:lang="sme"><em type="italic">gumpe - gumppet </em></p>
+    <p xml:lang="vep">'wolf'</p>
+    <p xml:lang="fkv"><em type="italic">ms </em></p>
+    <p xml:lang="fkv"><em type="italic">mss </em></p>
+    <p xml:lang="sme"><em type="italic">Romsa - Romssas </em></p>
+    <p xml:lang="vep">'Tromsø'</p>
+    <p xml:lang="smn"><em type="italic">mš </em></p>
+    <p xml:lang="sms"><em type="italic">mšš </em></p>
+    <p xml:lang="sme"><em type="italic">roamši - roamššit </em></p>
+    <p xml:lang="vep">'wrinkle'</p>
+    <p xml:lang="ron"><em type="italic">nc </em></p>
+    <p xml:lang="ron"><em type="italic">ncc </em></p>
+    <p xml:lang="ron"><em type="italic">gincut - ginccui </em></p>
+    <p xml:lang="vep">'wriggle'</p>
+    <p xml:lang="smn"><em type="italic">nč </em></p>
+    <p xml:lang="krl"><em type="italic">nčč </em></p>
+    <p xml:lang="krl"><em type="italic">rinči - rinččit </em></p>
+    <p>'half-naked being'</p>
+    <p><em type="italic">nd </em></p>
+    <p xml:lang="sms"><em type="italic">ndd </em></p>
+    <p xml:lang="sme"><em type="italic">boanda - boanddat </em></p>
+    <p xml:lang="vep">'farmer'</p>
+    <p xml:lang="isl"><em type="italic">ns </em></p>
+    <p xml:lang="deu"><em type="italic">nss </em></p>
+    <p xml:lang="fin"><em type="italic">šimpánsa - šimpánssat </em></p>
+    <p xml:lang="vep">'chimpanzee'</p>
+    <p><em type="italic">nt </em></p>
+    <p xml:lang="swe"><em type="italic">ntt </em></p>
+    <p xml:lang="fkv"><em type="italic">kontu - konttut </em></p>
+    <p>'account'</p>
+    <p xml:lang="vep"><em type="italic">nz </em></p>
+    <p xml:lang="sms"><em type="italic">nzz </em></p>
+    <p xml:lang="ron"><em type="italic">bunzarat - bunzzar </em></p>
+    <p xml:lang="ron">'peculiarity'</p>
+    <p xml:lang="sms"><em type="italic">nž </em></p>
+    <p xml:lang="sms"><em type="italic">nžž </em></p>
+    <p xml:lang="sme"><em type="italic">stánži - stánžžit </em></p>
+    <p xml:lang="vep">'puddle'</p>
+    <p xml:lang="dan"><em type="italic">ŋg </em></p>
+    <p xml:lang="nno"><em type="italic">ŋgg </em></p>
+    <p xml:lang="sme"><em type="italic">seaŋga - seaŋggat </em></p>
+    <p xml:lang="vep">'bed'</p>
+    <p xml:lang="kal"><em type="italic">ŋk </em></p>
+    <p xml:lang="kal"><em type="italic">ŋkk </em></p>
+    <p xml:lang="sme"><em type="italic">boŋkit - boŋkkii </em></p>
+    <p>'to stamp'</p>
+    <p><em type="italic">Group 6, <span type="quote" xml:lang="nno">"-r-"</span> combinations </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="vep"><em type="italic">rb </em></p>
+    <p xml:lang="vep"><em type="italic">rbb </em></p>
+    <p xml:lang="sme"><em type="italic">čuorbi - čuorbbit </em></p>
+    <p xml:lang="isl">'clumsy'</p>
+    <p><em type="italic">rc </em></p>
+    <p><em type="italic">rcc </em></p>
+    <p xml:lang="ron"><em type="italic">bircu - birccut </em></p>
+    <p xml:lang="ron">'dice'</p>
+    <p xml:lang="krl"><em type="italic">rč </em></p>
+    <p xml:lang="krl"><em type="italic">rčč </em></p>
+    <p xml:lang="smn"><em type="italic">skurču - skurččut </em></p>
+    <p>'small gorge'</p>
+    <p><em type="italic">rd </em></p>
+    <p xml:lang="sms"><em type="italic">rdd </em></p>
+    <p xml:lang="sme"><em type="italic">vuordit - vurddii </em></p>
+    <p>'to wait'</p>
+    <p><em type="italic">rf </em></p>
+    <p><em type="italic">rff </em></p>
+    <p xml:lang="sme"><em type="italic">márfi - márffit </em></p>
+    <p xml:lang="vep">'sausage'</p>
+    <p xml:lang="isl"><em type="italic">rg </em></p>
+    <p xml:lang="sme"><em type="italic">rgg </em></p>
+    <p xml:lang="sme"><em type="italic">bargu - barggut </em></p>
+    <p xml:lang="vep">'work'</p>
+    <p xml:lang="sma"><em type="italic">rj </em></p>
+    <p xml:lang="sms"><em type="italic">rjj </em></p>
+    <p xml:lang="sme"><em type="italic">girji - girjjit </em></p>
+    <p xml:lang="vep">'book'</p>
+    <p xml:lang="nob"><em type="italic">rk </em></p>
+    <p xml:lang="nob"><em type="italic">rkk </em></p>
+    <p xml:lang="sme"><em type="italic">mierká - mierkkát </em></p>
+    <p xml:lang="dan">'fog'</p>
+    <p xml:lang="kal"><em type="italic">rp </em></p>
+    <p xml:lang="kal"><em type="italic">rpp </em></p>
+    <p xml:lang="sme"><em type="italic">gurpat - gurppai </em></p>
+    <p>'to make a bundle, to tie'</p>
+    <p><em type="italic">rs </em></p>
+    <p><em type="italic">rss </em></p>
+    <p xml:lang="fin"><em type="italic">hirsa - hirssat </em></p>
+    <p xml:lang="vep">'log'</p>
+    <p xml:lang="sme"><em type="italic">rš </em></p>
+    <p xml:lang="krl"><em type="italic">ršš </em></p>
+    <p xml:lang="sme"><em type="italic">boršut - borššui </em></p>
+    <p>'to froth and foam'</p>
+    <p xml:lang="nno"><em type="italic">rt </em></p>
+    <p xml:lang="swe"><em type="italic">rtt </em></p>
+    <p xml:lang="sme"><em type="italic">bárti - bárttit </em></p>
+    <p xml:lang="vep">'accident'</p>
+    <p xml:lang="nno"><em type="italic">rv </em></p>
+    <p xml:lang="smj"><em type="italic">rvv </em></p>
+    <p xml:lang="sme"><em type="italic">garvit - garvvii </em></p>
+    <p xml:lang="vep">'to avoid'</p>
+    <p xml:lang="vep"><em type="italic">rz </em></p>
+    <p xml:lang="sms"><em type="italic">rzz </em></p>
+    <p xml:lang="smj"><em type="italic">birzi - birzzit </em></p>
+    <p>'close (call)'</p>
+    <p xml:lang="sms"><em type="italic">rž </em></p>
+    <p xml:lang="sms"><em type="italic">ržž </em></p>
+    <p xml:lang="sme"><em type="italic">gárži - gáržžit </em></p>
+    <p xml:lang="vep">'narrow, tight'</p>
+    <p><em type="italic">Group 6, <span type="quote" xml:lang="smn">"s-/š-/t-"</span> combinations </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="nob"><em type="italic">sk </em></p>
+    <p xml:lang="nno"><em type="italic">skk </em></p>
+    <p xml:lang="sme"><em type="italic">baski - baskkit </em></p>
+    <p>'small, narrow'</p>
+    <p xml:lang="vep"><em type="italic">sm </em></p>
+    <p xml:lang="sms"><em type="italic">smm </em></p>
+    <p xml:lang="sme"><em type="italic">leasmi -leasmmi </em></p>
+    <p xml:lang="vep">'reumatism'</p>
+    <p xml:lang="nno"><em type="italic">sp </em></p>
+    <p xml:lang="nno"><em type="italic">spp </em></p>
+    <p xml:lang="kal"><em type="italic">luspi - lusppit </em></p>
+    <p xml:lang="fin">'estuary'</p>
+    <p xml:lang="isl"><em type="italic">st </em></p>
+    <p xml:lang="swe"><em type="italic">stt </em></p>
+    <p xml:lang="sme"><em type="italic">gastit - gasttii </em></p>
+    <p>'to sneeze'</p>
+    <p xml:lang="krl"><em type="italic">šk </em></p>
+    <p xml:lang="sms"><em type="italic">škk </em></p>
+    <p xml:lang="sme"><em type="italic">biškut - biškkui </em></p>
+    <p>'to screech'</p>
+    <p xml:lang="sms"><em type="italic">šm </em></p>
+    <p xml:lang="sms"><em type="italic">šmm </em></p>
+    <p xml:lang="kal"><em type="italic">šušmi - šušmmit </em></p>
+    <p xml:lang="vep">'heel'</p>
+    <p xml:lang="krl"><em type="italic">št </em></p>
+    <p xml:lang="krl"><em type="italic">štt </em></p>
+    <p xml:lang="sme"><em type="italic">gušta - gušttat </em></p>
+    <p xml:lang="vep">'broom'</p>
+    <p xml:lang="krl"><em type="italic">šv </em></p>
+    <p xml:lang="sms"><em type="italic">švv </em></p>
+    <p xml:lang="sme"><em type="italic">gišvalit - gišvvihit </em></p>
+    <p>'to startle'</p>
+    <p xml:lang="kal"><em type="italic">tk </em></p>
+    <p xml:lang="kal"><em type="italic">tkk </em></p>
+    <p xml:lang="sme"><em type="italic">gotka - gotkkat </em></p>
+    <p xml:lang="vep">'ant'</p>
+    <p xml:lang="smn"><em type="italic">tm </em></p>
+    <p xml:lang="sms"><em type="italic">tmm </em></p>
+    <p xml:lang="sme"><em type="italic">fátmi - fátmmis </em></p>
+    <p>'[in] one's arms'</p>
+    <p xml:lang="nno"><em type="italic">Group 6, v-clusters </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="sme"><em type="italic">vd </em></p>
+    <p xml:lang="sms"><em type="italic">vdd </em></p>
+    <p xml:lang="sme"><em type="italic">govdut - govddui </em></p>
+    <p>'to float'</p>
+    <p xml:lang="nno"><em type="italic">vg </em></p>
+    <p xml:lang="nno"><em type="italic">vgg </em></p>
+    <p xml:lang="sme"><em type="italic">čuovga - čuovggat </em></p>
+    <p xml:lang="vep">'light'</p>
+    <p xml:lang="smj"><em type="italic">vj </em></p>
+    <p xml:lang="sms"><em type="italic">vjj </em></p>
+    <p xml:lang="smj"><em type="italic">gavja - gavjjat </em></p>
+    <p xml:lang="vep">'dust'</p>
+    <p xml:lang="vep"><em type="italic">vk </em></p>
+    <p xml:lang="nno"><em type="italic">vkk </em></p>
+    <p xml:lang="sme"><em type="italic">lávki - lávkkit </em></p>
+    <p xml:lang="vep">'step'</p>
+    <p xml:lang="vep"><em type="italic">vl </em></p>
+    <p xml:lang="swe"><em type="italic">vll </em></p>
+    <p xml:lang="sme"><em type="italic">skuvla - skuvllat </em></p>
+    <p xml:lang="deu">'school'</p>
+    <p xml:lang="vep"><em type="italic">vhl </em></p>
+    <p xml:lang="swe"><em type="italic">vhll </em></p>
+    <p xml:lang="fin"><em type="italic">skoavhli - skoavhllit </em></p>
+    <p xml:lang="nob">'blister'</p>
+    <p xml:lang="nno"><em type="italic">vp </em></p>
+    <p xml:lang="nno"><em type="italic">vpp </em></p>
+    <p xml:lang="sme"><em type="italic">gávpi - gávppit </em></p>
+    <p xml:lang="vep">'shop'</p>
+    <p xml:lang="isl"><em type="italic">vr </em></p>
+    <p xml:lang="isl"><em type="italic">vrr </em></p>
+    <p xml:lang="sme"><em type="italic">stivra - stivrrat </em></p>
+    <p>'council, board'</p>
+    <p xml:lang="smn"><em type="italic">vt </em></p>
+    <p xml:lang="swe"><em type="italic">vtt </em></p>
+    <p xml:lang="sme"><em type="italic">bávtat-bávttai </em></p>
+    <p>'to form [of aufeis]'</p>
+    <p xml:lang="sms"><em type="italic">vz </em></p>
+    <p xml:lang="sms"><em type="italic">vzz </em></p>
+    <p xml:lang="sme"><em type="italic">ceavzit - cevzzii </em></p>
+    <p>'to manage [to do smth]'</p>
+    <p xml:lang="sms"><em type="italic">vž </em></p>
+    <p xml:lang="sms"><em type="italic">vžž </em></p>
+    <p xml:lang="sme"><em type="italic">čuovža - čuovžžat </em></p>
+    <p>'whitefish'</p>
+    <p>Group 7: Consonant combinations in this group have three or four letters in both quantity II and quantity III. In the strong grade we have a <span type="quote" xml:lang="smn">"-đ-"</span>, <span type="quote" xml:lang="nob">"-i-"</span>, <span type="quote" xml:lang="ron">"-l-"</span> or <span type="quote" xml:lang="smj">"-v-"</span> followed by a plosive+nasal combination. In the weak grade the nasal is doubled and the plosive disappears.</p>
+    <p><em type="italic">Group 7 </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="smn"><em type="italic">đbm </em></p>
+    <p xml:lang="sms"><em type="italic">đmm </em></p>
+    <p xml:lang="sme"><em type="italic">gieđbmi-gieđmmit </em></p>
+    <p xml:lang="nno">'kettle'</p>
+    <p xml:lang="smn"><em type="italic">đgŋ </em></p>
+    <p xml:lang="smn"><em type="italic">đŋŋ </em></p>
+    <p xml:lang="sme"><em type="italic">siđgŋat - siđŋŋai </em></p>
+    <p>'when needle holes are too wide for the seam'</p>
+    <p xml:lang="smj"><em type="italic">ibm </em></p>
+    <p xml:lang="kal"><em type="italic">imm </em></p>
+    <p xml:lang="sme"><em type="italic">diibmu - diimmu </em></p>
+    <p>'hour, clock'</p>
+    <p xml:lang="vep"><em type="italic">idn </em></p>
+    <p xml:lang="isl"><em type="italic">inn </em></p>
+    <p xml:lang="sme"><em type="italic">báidnit - báinnii </em></p>
+    <p>'to dye'</p>
+    <p xml:lang="dan"><em type="italic">igŋ </em></p>
+    <p xml:lang="smn"><em type="italic">iŋŋ </em></p>
+    <p xml:lang="sme"><em type="italic">vuoigŋat - vuoiŋŋai </em></p>
+    <p>'to breathe'</p>
+    <p xml:lang="smj"><em type="italic">lbm </em></p>
+    <p xml:lang="sma"><em type="italic">lmm </em></p>
+    <p xml:lang="sme"><em type="italic">albmi - almmi </em></p>
+    <p xml:lang="vep">'sky'</p>
+    <p xml:lang="vep"><em type="italic">ldn </em></p>
+    <p xml:lang="isl"><em type="italic">lnn </em></p>
+    <p xml:lang="smn"><em type="italic">suoldni - suolnni </em></p>
+    <p xml:lang="vep">'dew'</p>
+    <p xml:lang="smn"><em type="italic">lgŋ </em></p>
+    <p xml:lang="smn"><em type="italic">lŋŋ </em></p>
+    <p xml:lang="smj"><em type="italic">algŋa - alŋŋa </em></p>
+    <p xml:lang="vep">'gums'</p>
+    <p xml:lang="smj"><em type="italic">vdn </em></p>
+    <p xml:lang="isl"><em type="italic">vnn </em></p>
+    <p xml:lang="kal"><em type="italic">rievdnu - rievnnut </em></p>
+    <p xml:lang="vep">'straight pin'</p>
+    <p xml:lang="smj"><em type="italic">vdnj </em></p>
+    <p xml:lang="sma"><em type="italic">vnnj </em></p>
+    <p xml:lang="sme"><em type="italic">savdnjit - savnnjii </em></p>
+    <p>'to shake'</p>
+    <p>Group 8: This group consists of <span type="quote" xml:lang="nob">"-i-"</span>, <span type="quote" xml:lang="fin">"-n-"</span>, <span type="quote" xml:lang="smn">"-m-"</span>, <span type="quote" xml:lang="nno">"-r-"</span> and <span type="quote" xml:lang="smj">"-v-"</span> followed by <span type="quote" xml:lang="est">"-s-"</span> and <span type="quote" xml:lang="smn">"-š-"</span> combinations. These clusters comply with the patterns that <span type="quote" xml:lang="est">"-s-"</span> and <span type="quote" xml:lang="smn">"-š-"</span> compounds follow elsewhere, namely the last consonant in the strong grade is doubled when forming the weak grade.</p>
+    <p><em type="italic">Group 8 </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="nob"><em type="italic">isk </em></p>
+    <p xml:lang="nob"><em type="italic">iskk </em></p>
+    <p xml:lang="sme"><em type="italic">beaisku - beaiskkut </em></p>
+    <p xml:lang="vep">'pest'</p>
+    <p xml:lang="smn"><em type="italic">ist </em></p>
+    <p xml:lang="swe"><em type="italic">istt </em></p>
+    <p xml:lang="fkv"><em type="italic">luiste - luisttet </em></p>
+    <p>'skate [footwear]'</p>
+    <p xml:lang="vep"><em type="italic">mšk </em></p>
+    <p xml:lang="sms"><em type="italic">mškk </em></p>
+    <p xml:lang="sme"><em type="italic">rámškut - rámškkui </em></p>
+    <p xml:lang="vep">'flap'</p>
+    <p xml:lang="nob"><em type="italic">nsk </em></p>
+    <p xml:lang="nno"><em type="italic">nskk </em></p>
+    <p xml:lang="sme"><em type="italic">Murmánska - Murmánskkas </em></p>
+    <p xml:lang="vep">'Murmansk'</p>
+    <p xml:lang="isl"><em type="italic">nst </em></p>
+    <p xml:lang="swe"><em type="italic">nstt </em></p>
+    <p xml:lang="sme"><em type="italic">goansta - goansttat </em></p>
+    <p xml:lang="vep">'trick'</p>
+    <p xml:lang="nob"><em type="italic">rsk </em></p>
+    <p xml:lang="nob"><em type="italic">rskk </em></p>
+    <p xml:lang="fkv"><em type="italic">hersko - herskkot </em></p>
+    <p xml:lang="ron">'treat, snack'</p>
+    <p xml:lang="isl"><em type="italic">rst </em></p>
+    <p xml:lang="swe"><em type="italic">rstt </em></p>
+    <p xml:lang="fin"><em type="italic">horsta - horstta </em></p>
+    <p xml:lang="vep">'burlap'</p>
+    <p xml:lang="nob"><em type="italic">vsk </em></p>
+    <p xml:lang="nno"><em type="italic">vskk </em></p>
+    <p xml:lang="smn"><em type="italic">livsku - livskkut </em></p>
+    <p xml:lang="vep">'shred'</p>
+    <p>Group 9: In this group we have consonant combinations that begin in <span type="quote" xml:lang="vep">"-k-"</span> in the strong grade. In the weak grade the <span type="quote" xml:lang="vep">"-k-"</span> alternates with <span type="quote" xml:lang="smj">"-v-"</span>, and the last consonant is geminated.</p>
+    <p><em type="italic">Group 9, <span type="quote" xml:lang="vep">"-k-"</span> combinations </em></p>
+    <p><em type="italic">QIII </em></p>
+    <p><em type="italic">QII </em></p>
+    <p><em type="italic">Examples </em></p>
+    <p xml:lang="vep"><em type="italic">kc </em></p>
+    <p xml:lang="swe"><em type="italic">vcc </em></p>
+    <p xml:lang="kal"><em type="italic">gakcut - gavccui </em></p>
+    <p>'to climb'</p>
+    <p xml:lang="smn"><em type="italic">kč </em></p>
+    <p xml:lang="krl"><em type="italic">včč </em></p>
+    <p xml:lang="sme"><em type="italic">čiekčat - čievččai </em></p>
+    <p>'to kick'</p>
+    <p xml:lang="est"><em type="italic">ks </em></p>
+    <p xml:lang="smj"><em type="italic">vss </em></p>
+    <p xml:lang="fin"><em type="italic">raksa - ravssat </em></p>
+    <p xml:lang="ron">'diaper'</p>
+    <p xml:lang="est"><em type="italic">kst </em></p>
+    <p xml:lang="swe"><em type="italic">vstt </em></p>
+    <p xml:lang="fin"><em type="italic">teaksta - teavsttat </em></p>
+    <p xml:lang="vep">'text'</p>
+    <p xml:lang="vep"><em type="italic">kš </em></p>
+    <p xml:lang="sms"><em type="italic">všš </em></p>
+    <p xml:lang="sme"><em type="italic">dikšut - divššui </em></p>
+    <p>'to nurture'</p>
+    <p xml:lang="swe"><em type="italic">kt </em></p>
+    <p xml:lang="swe"><em type="italic">vtt </em></p>
+    <p xml:lang="sme"><em type="italic">mokta - movtta </em></p>
+    <p>'enthusiasm'</p>
+  </body>
+</document>
