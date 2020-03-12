@@ -1,0 +1,50 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>336</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/lantbruk-och-landsbygd/djurhallning/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="lantbruk-och-landsbygd-djurhallning.html"/>
+    <parallel_text xml:lang="swe" location="lantbruk-och-landsbygd-djurhallning.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Livestock husbandry - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Livestock husbandry</p>
+    <p>The County Administrative Board works with numerous issues related to livestock husbandry. We inspect primary production and ensure that livestock buildings and enclosures meet the requirements of a satisfactory environment. We issue permits for various activities with animals.</p>
+    <p>Animals in rural areas do not just contribute to food production but also provide opportunities for exercise and recreation. The animals also maintain open land and contribute to biodiversity and beautiful environments. In this way, livestock husbandry creates jobs both in urban and rural areas, in areas as diverse as agriculture, the food industry and tourism.</p>
+    <p type="title">Preliminary examination of livestock housing</p>
+    <p>The Animal Welfare Act specifies the criteria for the livestock buildings and enclosures. We review drafts of different types of stables before they are built to ensure that they comply with the requirements of the Animal Welfare Act.</p>
+    <p type="title">The primary production of fodder and food</p>
+    <p>It is important that fodder for the the animals is produced, handled, stored, transported and used in a safe manner for the well-being of animals, and thus humans. Primary production is the first part of the food chain. Examples of primary production are the cultivation and harvesting of fruit and vegetables, cereals and roughage, the breeding of animals and milking. Primary production is controlled at several stages by the County Administrative Board and the Swedish Board of Agriculture. All production facilities for primary production should be registered, and there are regulations governing the permitted use of additives, drugs, genetic modifications, etcetera.</p>
+    <p type="title">Permits for various activities with animals</p>
+    <p>If the number of animal units on a production site exceeds 100, an application shall be submitted to the municipality. For livestock farms with 400 or more animal units, a permit is required from the County Administrative Board. Animal units are calculated in accordance with the Ordinance (1998:899) concerning Environmentally Hazardous Activities and The Protection of Public Health.</p>
+    <p>We also issue permits for other activities with animals such as day care centres for dogs and riding schools.</p>
+  </body>
+</document>

@@ -1,0 +1,109 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Válgaloahpparehkenastin: geat válljejuvvojit - regjeringen.no</title>
+    <genre code="admin"/>
+    <author>
+      <person firstname="" lastname="Ministry of Local Government and Regional Development" sex="unknown" born="" nationality=""/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <year>2009</year>
+    <publChannel>
+      <publication>
+        <publisher>regjeringen.no</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>1396</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="" email="divvun@samediggi.no"/>
+    <multilingual/>
+    <origFileName>http://regjeringen.no/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election/determining-the-election-results-who-get.html?id=570018</origFileName>
+    <parallel_text xml:lang="nno" location="valoppgjer-kven-blir-vald_id_570018.html"/>
+    <parallel_text xml:lang="nob" location="valgoppgjor-hvem-blir-valgt_id_570018.html"/>
+    <parallel_text xml:lang="sme" location="valgaloahpparehkenastin-geat-valljejuvvo_id_570018.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Determining the election results: who gets elected - regjeringen.no</p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="nno"></p>
+    <p xml:lang="nno"></p>
+    <p>The determination of election results and who is returned to the Parliament (Storting) takes place in two rounds. First, the number of seats the party/group is to get is determined (allocation of seats). Then the individual candidates who are to be returned from the different lists are selected (return of members).</p>
+    <p>At Parliamentary (Storting) elections, it is the county electoral committee that determines the election results.</p>
+    <p>When the county electoral committee has finished allocating seats and returning constituency members, the results are sent to the National Electoral Committee, which allocates the seats at large. One seat at large must be elected for each county.</p>
+    <p type="title">Allocation of seats</p>
+    <p>The system is based on proportional allocation of the constituency seats among the parties/groups according to the number of votes cast for the individual electoral list. The principal is called proportional election. The distribution of seats among the different lists is carried out by means of the same mathematical method at Parliamentary (Storting) elections, county council elections and municipal council elections alike. The method is known as the modified St. Laguë method. It involves first dividing the number of votes received for the individual list first by the figure 1.4, and then by the figures 3, 5, 7, 9 etc. The results of these divisions are a series of figures called quotients. The quotients are ordered according to size, and the constituency seats are allocated to the lists with the largest quotients. The first seat goes to the list that has the largest quotient, the next seat to the list with the next largest quotient etc.</p>
+    <p>The County Electoral Committee allocates all the seats in the county except one according to the modified St. Laguë method. The last seat in each county is allocated as at seat at large by the National Electoral Committee. The purpose is to make a fairer political allocation of the seats than would be possible with purely constituency-based allocation.</p>
+    <p>The numbers of votes polled by the different electoral (party) lists are found by adding together the total number of electors who have voted for the list in all the municipalities in the county. This is thus the starting point for the allocations described above.</p>
+    <p>The table provides an example where 11 seats are to be allocated.</p>
+    <p xml:lang="isl">H</p>
+    <p>(Conservative)</p>
+    <p xml:lang="nno">Ap</p>
+    <p>(Labour)</p>
+    <p xml:lang="nno">FrP</p>
+    <p>(Progress)</p>
+    <p xml:lang="deu">SV</p>
+    <p xml:lang="est">(Socialist Left)</p>
+    <p xml:lang="vep">SP</p>
+    <p xml:lang="ron">(Centre)</p>
+    <p xml:lang="nno">KrF</p>
+    <p>(Christian Democrats)</p>
+    <p xml:lang="est">Poll</p>
+    <p xml:lang="koi">81 140</p>
+    <p xml:lang="koi">80 862</p>
+    <p xml:lang="koi">39 851</p>
+    <p xml:lang="koi">26 295</p>
+    <p xml:lang="koi">12 187</p>
+    <p xml:lang="koi">11 229</p>
+    <p xml:lang="koi">1,4</p>
+    <p xml:lang="koi">57 957  (1)</p>
+    <p xml:lang="koi">57 758  (2)</p>
+    <p xml:lang="koi">28 465  (3)</p>
+    <p xml:lang="koi">18 782  (6)</p>
+    <p xml:lang="koi">8 705</p>
+    <p xml:lang="koi">8 020</p>
+    <p xml:lang="koi">3</p>
+    <p xml:lang="koi">27 046  (4)</p>
+    <p xml:lang="koi">26 954  (5)</p>
+    <p xml:lang="koi">13 283  (9)</p>
+    <p xml:lang="koi">8 765</p>
+    <p xml:lang="koi">4 062</p>
+    <p xml:lang="koi">3 743</p>
+    <p xml:lang="koi">5</p>
+    <p xml:lang="koi">16 228  (7)</p>
+    <p xml:lang="koi">16 172  (8)</p>
+    <p xml:lang="koi">7 970</p>
+    <p xml:lang="koi">7</p>
+    <p xml:lang="koi">11 591  (10)</p>
+    <p xml:lang="koi">11 551  (11)</p>
+    <p xml:lang="koi">9</p>
+    <p xml:lang="koi">9 015</p>
+    <p xml:lang="koi">8 984</p>
+    <p>H (Conservative Party) gets seats 1, 4, 7 and 10. AP (Labour) gets seats 2, 5, 8 and 11. FrP (Progress Party) gets seats 3 and 9 SV (Socialist Left) gets seat 6</p>
+    <p type="title">Return of members</p>
+    <p>Once the number of seats that is to go to each party/group has been determined, the seats are allocated to the candidates on the electoral lists.</p>
+    <p>When constituency members are returned, only the names listed as no. 1 on the electoral lists are counted in the first round. The candidate who receives most votes in this count is elected, and is disregarded in subsequent rounds.</p>
+    <p>Then the votes cast for the persons listed as no. 2 on the ballot papers are counted, plus the votes for those candidates in 1st place who were not elected in the previous round. The candidate who receives most votes when the results of both counts are combined, disregarding the candidate who has already been elected, is elected. This process is continued until all the seats have been allocated.</p>
+    <p>For the changes made by electors to their ballots to have any effect on the election of individual candidates at Storting elections, over half of the party’s electors in the county must have made a change concerning the same candidate. This means that a great deal is required for the electors’ changes to have any effect. In practice it never happens.</p>
+    <p type="title" xml:lang="dan">Seats at large</p>
+    <p>Provisions concerned the seats at large system are laid down in Section 59 of the Norwegian Constitution and Section 11-6 of the Election Act. The purpose of the system is to ensure a more proportional composition for the Storting. This is done by taking into account the support for each party countrywide. Only registered political parties that have received support in the elections from at least 4 per cent of the voters countrywide (election threshold), compete for seats at large.</p>
+    <p>The calculation takes place as follows:</p>
+    <p>The first phase involves determining which parties are to be allocated seats at large. The National Electoral Committee first allocates all seats countrywide as though the country was a single electoral district. If parties/groups that are not entitled to seats at large have won constituency seats, these are subtracted from 169 (the total number of members to be returned to the Parliament (Storting)) before the National Electoral Committee’s allocation takes place.</p>
+    <p>The parties’ total poll from all electoral districts is divided by 1.4, 3, 5, 7, 9 etc., and all seats are allocated in the same way as for the County Electoral Committees. If any party turns out to have got more constituency seats than indicated by the National Electoral Committee’s calculations, a recalculation and reallocation must take place, with these seats subtracted. Each party must be allocated a number of seats at large corresponding to the difference between the number of seats it would have had in a countrywide count-up and allocation and the number of constituency seats that it has gained.</p>
+    <p>The next phase is to determine the counties in which the parties are to have their seats at large. This takes place as follows:</p>
+    <list>
+      <p type="listitem">The starting point is the total number of votes polled by the parties in the counties. If a party has not won any constituency seat, the party’s total vote polled in the county is taken as the basis. If the party has won a constituency seat, the total poll is divided by a quotient that is equal to (number of constituency seats x 2) + 1. The total poll or quotient is then divided by the average number of votes underlying each constituency seat in the county. For example: In County X, 100 000 votes have been polled, and 10 constituency seats won. Party A has received 8 000 votes and 0 constituency seats. The number of votes it received is then divided by 10 000 (which is the average number of votes per constituency seat). The party thereby gets a quotient of 0.8, which forms the basis for its competition for the seat at large. Party B has received 15 000 votes and 2 constituency seats. The number of votes polled must then be first divided by 5 ((2 x 2) + 1). The quotient of 3 000 is divided by 10 000, and the party gets the quotient 0.3. Party C has received 50 000 votes and 5 constituency seats. The number of votes polled must then first be divided by 11 ((5 x 2) + 1). The quotient of 4545 is divided by 10 000, and the party gets the quotient 0.4545.</p>
+      <p type="listitem">The quotients for all counties and all parties that are entitled to seats at large are ranged according to size. If two or more quotients are of equal size, the number of votes in the county in question is decisive. In the event of an equality of votes the order is determined by drawing lots.</p>
+      <p type="listitem">Seat at large No. 1 is allocated to the party and the county that has the largest quotient. Seat at large No. 2 is allocated to the party and the county that has the second largest quotient and so forth.</p>
+      <p type="listitem">When a county has won one seat at large, it is not taken into consideration in further allocations of seats at large. When a party has received the number of seats at large it is supposed to have, it is not taken into consideration in further allocations of seats at large. The distribution continues for the remaining counties and the remaining parties until all the seats at large have been allocated.</p>
+    </list>
+  </body>
+</document>

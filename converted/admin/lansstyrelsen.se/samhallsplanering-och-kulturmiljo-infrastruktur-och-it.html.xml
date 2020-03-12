@@ -1,0 +1,51 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>184</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/infrastruktur-och-it/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-infrastruktur-och-it.html"/>
+    <parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-infrastruktur-och-it.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Infrastructure and IT - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Infrastructure and IT</p>
+    <p><em type="italic">The County Administrative Board works to facilitate communication within the county and further afield, and aims for this to be as environmentally friendly as possible. </em></p>
+    <p>Good communication and a good IT infrastructure means that many people, businesses and organizations can benefit from an expanded labour market. Freedom of choice for individuals increases, while companies gain from a larger recruitment base.</p>
+    <p>The County Administrative Board carries out a number of initiatives to develop infrastructure and IT, including</p>
+    <list>
+      <p type="listitem">ensuring that national interests and the interests of the various municipalities are catered for in the planning of infrastructure projects</p>
+      <p type="listitem">coordinating the state's interests and views on infrastructure planning</p>
+      <p type="listitem">administrating state aid for the expansion of broadband in rural areas.</p>
+    </list>
+    <p type="title">Broadband</p>
+    <p>The County Administrative Board provides grants for broadband expansion. The expansion of broadband should be made on a commercial basis by the market, that is, the operators themselves as they can profit from it. Sometimes operators consider that it is not profitable to expand, and the expansion of broadband networks can then be done with state aid.</p>
+  </body>
+</document>

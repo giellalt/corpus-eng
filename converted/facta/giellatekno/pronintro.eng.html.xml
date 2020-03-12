@@ -1,0 +1,36 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Pronouns</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>229</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/gramm/pronintro.eng.html</origFileName>
+    <parallel_text xml:lang="nob" location="pronintro.nob.html"/>
+    <parallel_text xml:lang="sme" location="pronintro.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Pronouns</p>
+    <p>Back to the grammar main page .</p>
+    <p>Pronouns are words that appear in context where nouns would be expected, i.e. they are used instead of nouns. Some pronouns can come before a noun. Most pronouns are declined in the singular and plural form of all cases. There are several kinds of pronouns:</p>
+    <p>There are personal pronouns , which, more often than not, indicate nouns or persons that have just been mentioned or persons participating in the discourse, e.g. <em type="italic">mun </em>(I), <em type="italic">du </em>(you/your[sg.]), <em type="italic">singuin </em>(with them[pl.]), <em type="italic">dasa </em>(to it) </p>
+    <p>Demonstrative pronouns , which are used when making reference to things seen or understood in the discourse context, e.g. <em type="italic">dát </em>(this), <em type="italic">dien </em>(that [next to you]), <em type="italic">duos </em>(in/from that over there) </p>
+    <p>Interrogative and relative pronouns , which introduce questions or relative clauses, e.g. <em type="italic">mii </em>(what/which/that), <em type="italic">guhte </em>(which/that), <em type="italic">geainna </em>(with whom/with which) </p>
+    <p>Reflexive pronouns , which refer back to the subject of the sentence, e.g. <em type="italic">ieš </em>(myself, yourself, himself, etc.), <em type="italic">alccesan </em>(to myself), <em type="italic">iežas </em>(his/her/its own) </p>
+    <p>Resiprocal pronouns , which consist of two words and mean 'each other', e.g. <em type="italic">goabbat guoimmáde </em>(you two ... one another), <em type="italic">nubbi nuppiin </em>(with each other) </p>
+    <p>Indefinite pronouns , which do not indicate any specific thing, e.g. <em type="italic">buohkaide </em>(to everyone), <em type="italic">muhtun </em>(someone), <em type="italic">juohke </em>(each) </p>
+    <p><em type="italic">You can click on the pronoun types to learn about declension and other things. </em></p>
+    <p>Go back to the grammar main page .</p>
+  </body>
+</document>

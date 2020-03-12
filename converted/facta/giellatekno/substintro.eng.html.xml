@@ -1,0 +1,46 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Nouns</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>289</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/gramm/substintro.eng.html</origFileName>
+    <parallel_text xml:lang="nob" location="substintro.nob.html"/>
+    <parallel_text xml:lang="sme" location="substintro.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Nouns</p>
+    <p>Nouns are words expressing people, animals, things, processes or abstract relations, e.g.: <em type="italic">nieida </em>'girl', <em type="italic">Káre </em>'Káre (a name)', <em type="italic">beavdi </em>'table', <em type="italic">ráhkisvuohta </em>'love', <em type="italic">dávda </em>'illness', <em type="italic">Norga </em>'Norway'. </p>
+    <p>Nouns are declined in cases, which are inflectional forms marking the function a noun has in a sentence. In North Saami, there are seven cases:</p>
+    <list>
+      <p type="listitem">The nominative case is the base or presentational form: <em type="italic">'Gussa' lea olgun. </em>(The cow is outside.) </p>
+      <p type="listitem">The accusative case is the form marking the object: <em type="italic">Mun oasttán 'gusa'. </em>(I am going to buy the/a cow.) </p>
+      <p type="listitem">The genitive indicates the possessor: <em type="italic">'gusa' juolgi </em>(the cow's leg). </p>
+      <p type="listitem">The illative is used to indicate motion to or into something: <em type="italic">Mun attán biepmu 'gussii'. </em>(I am going to give food to the cow.) </p>
+      <p type="listitem">The locative provides the notions on/at/in a place or from a place: <em type="italic">'Gusas' oažžut mielkki. </em>(We get milk from a cow.) </p>
+      <p type="listitem">The comitative is the case providing the meaning <span type="quote">"with"</span>: <em type="italic">Mun bohten 'gusain'. </em>(I came with a cow.) </p>
+      <p type="listitem">The essive is the state case, which often gives the notion <span type="quote" xml:lang="vep">"as, like"</span>: <em type="italic">'gussan' </em>'as a cow' </p>
+    </list>
+    <p>In Saami, there is variation in inflectional suffixes for nouns. This variation correlates with the number of syllables in the final foot of the nominative plural form. There are</p>
+    <list>
+      <p type="listitem">nouns with vowel stems (bisyllabic nouns), e.g. <em type="italic">gussa - gusat </em>'cow - cows', <em type="italic">vilbealli - vilbealit </em>'(male) cousin - cousins', </p>
+      <p type="listitem">nouns with consonant stems (trisyllabic nouns) <em type="italic">rieban - riebanat </em>'fox - foxes', <em type="italic">nisu - nissonat </em>'woman - women' and </p>
+      <p type="listitem">contracted nouns <em type="italic">boazu - bohccot </em>'reindeer (sg., pl.)', <em type="italic">bálggis - bálgát </em>'path - paths'. </p>
+    </list>
+    <p>It is important that you pay attention to diphthong simplification and gradation when inflecting Saami words.</p>
+    <p><em type="italic">You can read more about nouns </em><em type="italic">here </em>. </p>
+    <p>Back to the grammar main page .</p>
+  </body>
+</document>

@@ -1,0 +1,33 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Means-testing - 
+	Oikeus.fi
+</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <year>2014</year>
+    <wordcount>161</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://oikeus.fi/en/index/esitteet/oikeusapu/millatuloillaoikeusapuamyonnetaanjamitkamenothuomioidaan.html</origFileName>
+    <parallel_text xml:lang="fin" location="millatuloillaoikeusapuamyonnetaanjamitkamenothuomioidaan.html"/>
+    <parallel_text xml:lang="sme" location="maidboa273uiguinvuoigatvuo273aveahkkimie273ihuvvo.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno"></p>
+    <p type="title">Information on Legal Aid</p>
+    <p type="title">Means-testing</p>
+    <p>Legal aid is granted on the basis of the applicant's income, expenditures, wealth and maintenance liability. The legal aid office calculates the applicant's monthly <em type="bold">available means </em>, as follows: </p>
+    <p>Income consists of wages, pension and per diems, as well as maintenance support, child allowances, other benefits and capital income. Also the income of the spouse, domestic partner or registered partner of the applicant is taken into account. The income of the spouse is not, however, taken into account, if the applicant is a suspect or a defendant in a criminal case or if the spouse is the opposing party in the case at hand.</p>
+    <p>Taxes shall be deducted from the gross monthly income. Deductions shall likewise be made for housing costs, day-care charges, maintenance support payments and the scheduled payments in enforcement or debt adjustment proceedings. In addition, a deduction of EUR 300 shall be made for each child under the age of majority, 18 years.</p>
+  </body>
+</document>

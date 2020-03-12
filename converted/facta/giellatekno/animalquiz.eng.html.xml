@@ -1,0 +1,60 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Animal Quiz</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>294</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/usevisl/animalquiz.eng.html</origFileName>
+    <parallel_text xml:lang="nno" location="animalquiz.nob.html"/>
+    <parallel_text xml:lang="sme" location="animalquiz.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="vep">Animal Quiz</p>
+    <list>
+      <p type="listitem">About the game <list><p type="listitem">How to choose language and animal</p><p type="listitem">Information about the animal</p><p type="listitem">Helpful word lists and link</p></list></p>
+    </list>
+    <p xml:lang="ron">AnimalQuiz VISL - direct link</p>
+    <p type="title">About the game</p>
+    <p>In this game you are supposed to guess what animal the computer has chosen - or you may choose an animal, and let the computer guess (the latter does not work yet).</p>
+    <p type="title">How to choose language and animal</p>
+    <p>Before you start, you choose language or languages (use CTRL [or SHIFT] jif you want to choose more languages at the same time). Then you can use more languages, and in the end you get points if you can translate the animal's name to other languages.</p>
+    <p>You may choose</p>
+    <list>
+      <p type="listitem">an easy animal</p>
+      <p type="listitem">an animal a bit harder to guess</p>
+      <p type="listitem">any animal</p>
+    </list>
+    <p type="title">Information about the animal</p>
+    <p>In the menu you will get information about the different animals. Only the information categories chosen for the animal are visible, so that you do not get the entire menu for each animal. When you have chosen one information category, it usually disappears from the menu. However, if there is more information in that category, it remains visible, and you can choose it again. The information categories are:</p>
+    <list>
+      <p type="listitem" xml:lang="sme">- gos máilmmis (geographical "whereabouts")</p>
+      <p type="listitem">- gos luonddus (where in nature - habitat) / habitáhta</p>
+      <p type="listitem">- biebmu (what does it eat)</p>
+      <p type="listitem">- makkár ealli (what kind of animal - category)</p>
+      <p type="listitem" xml:lang="sme">- sturrodat/hápmi (size/appearance)</p>
+      <p type="listitem">- ivdni (colour)</p>
+      <p type="listitem">- gorudis (erenoamášvuođat) (special features)</p>
+      <p type="listitem">- lihkadeapmi (movements)</p>
+      <p type="listitem" xml:lang="sme">- attáldagat (talents)</p>
+      <p type="listitem">- buktagat (products)</p>
+      <p type="listitem">- sahkaneapmi (reproduction)</p>
+    </list>
+    <p type="title">Helpful word lists and link</p>
+    <p>Word list: Animals included in Animal Quiz</p>
+    <p>Word list: Animal categories</p>
+    <p xml:lang="vep">AnimalQuiz VISL link</p>
+    <p xml:lang="nno">Last changed: $Id: intro.xml,v 1.8 2005/06/21 12:13:53 boerre Exp $</p>
+  </body>
+</document>

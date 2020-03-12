@@ -1,0 +1,87 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Conjunctions</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>392</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/gramm/konjunksjoner.eng.html</origFileName>
+    <parallel_text xml:lang="nob" location="konjunksjoner.nob.html"/>
+    <parallel_text xml:lang="sme" location="konjunksjoner.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Conjunctions</p>
+    <p>Back to the grammar home page .</p>
+    <p><em type="italic">Coordinating conjunctions </em>are words that join constituents of the same type: </p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Piera 'ja' Lemet leaba boahtán. </em></p>
+      <p type="listitem">(Piera 'and' Lemet have arrived.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun oainnán 'sihke' Piera 'ja' Lemeha. </em></p>
+      <p type="listitem">(I can see 'both' Piera 'and' Lemet.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun lean sápmelaš, 'muhto' in máhte sámegiela. </em></p>
+      <p type="listitem">(I'm a Saami 'but' I can't speak the language.)</p>
+    </list>
+    <p><em type="italic">Subordinating conjunctions </em>join subordinate clauses with main clauses: </p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">'Jus' asttán, 'de' boađán. </em></p>
+      <p type="listitem">('If' I have time, I'll come.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Iŋgá dadjá 'ahte' Elle boahtá. </em></p>
+      <p type="listitem">(Ingá says that Elle is coming.)</p>
+    </list>
+    <p>Some coordinating and subordinating conjunctions can mean various things, e.g., the word <em type="italic">go </em>can mean 'when', 'because' and 'than'. Some meanings can be expressed in various ways, e.g., "or" can be expressed with <em type="italic">vai, dahje, -ge </em>. <em type="italic">vai </em>is used in questions, and the particle <em type="italic">-ge </em>is used in combination with the verb of negation. Elsewhere we use the word <em type="italic">dahje </em>: </p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun boađán odne 'dahje' ihttin. </em></p>
+      <p type="listitem">(I will come today 'or' tomorrow.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Boađátgo odne 'vai' ihttin? </em></p>
+      <p type="listitem">(Are you coming today 'or' tomorrow?)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">In juga gáfe 'inge' deaja. </em></p>
+      <p type="listitem">(I don't drink coffee 'or' tea.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Jugan 'juogo' gáfe 'dahje' deaja. </em></p>
+      <p type="listitem">(I drink either coffee 'or' tea.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun boađán 'go' asttán. </em></p>
+      <p type="listitem">(I' come when I have time.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun boađán 'go' lean bovdejuvvon. </em></p>
+      <p type="listitem">(I'm coming 'since' I've been invited.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun boađán 'danne go/danin go /dainna go/dan dihte go' lean bovdejuvvon. </em></p>
+      <p type="listitem">(I'm coming 'since' I've been invited.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun lean stuorát 'go' don. </em></p>
+      <p type="listitem">(I'm bigger 'than' you [sg.].)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Veahkehan du 'vai' gearggat. </em></p>
+      <p type="listitem">(I'll help you 'so that' you make it in time.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Veahkehan du 'nu ahte' gearggat. </em></p>
+      <p type="listitem">(I'll help you 'so that' you make it in time.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Veahkehan du 'vaikko' it dárbbašge veahki. </em></p>
+      <p type="listitem">(I'll help you 'even if' you don't need help.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Don borat 'dego' spiidni. </em></p>
+      <p type="listitem">(You eat 'like' a pig.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Daga 'nugo' mun. </em></p>
+      <p type="listitem">(Do 'as' I do.)</p>
+    </list>
+    <p>Subordinating conjunctions <em type="italic">go </em>can also be combined with adverbs and postpositional constructions: </p>
+    <list>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun boađán 'ovdal go' don vuolggát. </em></p>
+      <p type="listitem">(I'll come 'before' you leave.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun boađán easkka 'maŋŋil go' don leat mannan. </em></p>
+      <p type="listitem">(I won't come until after you're [sg.] gone.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Vuordde 'dassážii go' mun boađán. </em></p>
+      <p type="listitem">(Wait 'until' I come.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Bargen leavssuid 'dan botta go' earát ođđe. </em></p>
+      <p type="listitem">(I did the assignments 'while' the others slept.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Vuolggán 'dalle go' gávppit rahpasit. </em></p>
+      <p type="listitem">(I'll leave when the stores open up.)</p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Lea guokte jagi 'dassái go' bohten Romsii. </em></p>
+      <p type="listitem">(It has been two years 'since' I came to Tromsø.)</p>
+    </list>
+  </body>
+</document>

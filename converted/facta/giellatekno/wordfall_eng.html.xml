@@ -1,0 +1,129 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>WordFall</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>654</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/usevisl/WordFall_eng.html</origFileName>
+    <parallel_text xml:lang="nno" location="wordfall_nob.html"/>
+    <parallel_text xml:lang="sme" location="wordfall_sme.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="nno">WordFall</p>
+    <list>
+      <p type="listitem">About the game</p>
+      <p type="listitem">Begin to play</p>
+      <p type="listitem">Sentence code</p>
+      <p type="listitem">Points</p>
+      <p type="listitem">Results</p>
+      <p type="listitem">The levels</p>
+      <p type="listitem">Parts of speech</p>
+      <p type="listitem">Stop the game</p>
+      <p type="listitem" xml:lang="deu">Sound</p>
+      <p type="listitem">Statistics</p>
+      <p type="listitem">Parts of speech</p>
+      <p type="listitem">Links to help functions and WordFall game:</p>
+    </list>
+    <p>WordFall VISL - direct link</p>
+    <p xml:lang="nno"></p>
+    <p type="title">About the game</p>
+    <p>In the WordFall game you work with parts of speech. The game presents a sentence, and the words fall down, one by one. Via the arrows you may assign the correct POS to each falling word. If you press the down arrow, the word will fall faster. The game is, in short, a Tetris game.</p>
+    <p xml:lang="nno"></p>
+    <p type="title">Begin to play</p>
+    <list>
+      <p type="listitem">Write a sentence code, or - to get a random sentence -</p>
+      <p type="listitem">just press <span type="quote" xml:lang="nob">"Play"</span></p>
+    </list>
+    <p>Activate the Java window with the arrow key, and press the F2 key to start the game.</p>
+    <p xml:lang="nno"></p>
+    <p type="title">Sentence code</p>
+    <p>You may choose sentence type or a specific sentence by typing in a sentence code, say SMEA143  . If you do this, you will not be able to register your results in the player hall-of-fame. The sentence codes are: SMEA, SMEB  and SMEC  + a number for each sentence.</p>
+    <p xml:lang="nno"></p>
+    <p type="title">Points</p>
+    <p>You get 10 points each time you find the right POS. If you assign a word to the wrong POS, you lose 5 points. If you are able to do the whole sentence without errors, you get 10 bonus points for each word, or you double your point score!</p>
+    <p>To the right of the sentence window you find the Penalty Box. Each time a word falls into the wrong POS, the box will be filled with more water. When the Penalty Box is full, there will come a brick wall, making the distance to travel for new words shorter. When the brick wall covers the whole window, the game is over. You may also quit the game by pressing <span type="quote" xml:lang="vep">"Quit Game"</span> on the menu.</p>
+    <p xml:lang="nno"></p>
+    <p type="title">Results</p>
+    <p>If your result belongs to the top-10 of today, or is within the overall top-100, you may register your name, country and home place in the hall of fame list.</p>
+    <p xml:lang="nno"></p>
+    <p type="title">The levels</p>
+    <p>are <span type="quote" xml:lang="nob">"Beginner"</span>, <span type="quote" xml:lang="ron">"Intermediate"</span> and <span type="quote">"Expert"</span>. The higher level you choose, the longer are the sentences and the faster the words fall. The brick walls are also bigger, and the window is filled faster. The default level is <span type="quote" xml:lang="ron">"Intermediate"</span>, but you may choose your appropriate level on the menu.</p>
+    <p xml:lang="nno"></p>
+    <p type="title">Parts of speech</p>
+    <p>If you do not want to use all parts of speech, you may choose <span type="quote" xml:lang="nob">"Word Classes"</span> in the <span type="quote" xml:lang="smj">"Game"</span> menu. There you may either choose a predefined set, or via <span type="quote" xml:lang="vep">"Custom"</span> choose a subset which suits you. In that case, you are not allowed to register your results.</p>
+    <p xml:lang="nno"></p>
+    <p type="title">Stop the game</p>
+    <p>In the Game menu you choose <span type="quote" xml:lang="nob">"Stop Game"</span> or <span type="quote" xml:lang="sme">"Quit"</span>. But you may register the results only if you choose <span type="quote" xml:lang="nob">"Stop Game"</span>, and if you have enough points.</p>
+    <p xml:lang="nno"></p>
+    <p type="title" xml:lang="deu">Sound</p>
+    <p>You may stop the sound at the <span type="quote" xml:lang="nob">"Sound Effects Settings"</span> menu.</p>
+    <p xml:lang="nno"></p>
+    <p type="title">Statistics</p>
+    <p>When the game is over, the computer shows you the results, and asks if you want to practice the parts of speech which were the most problematic for you.</p>
+    <p xml:lang="nno"></p>
+    <p type="title">Parts of speech</p>
+    <p>We use the following parts of speech:</p>
+    <p xml:lang="fin">n</p>
+    <p xml:lang="krl">Noun (</p>
+    <p xml:lang="sme"><em type="italic">girji, lohkamat, golmmas </em></p>
+    <p xml:lang="koi">)</p>
+    <p>prop</p>
+    <p>Proper noun (</p>
+    <p xml:lang="sme"><em type="italic">William, Kárášjohka </em></p>
+    <p xml:lang="koi">)</p>
+    <p>pron</p>
+    <p>Pronoun (</p>
+    <p xml:lang="sme"><em type="italic">mun, sidjiide, soapmásat, ollu </em></p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="isl">num</p>
+    <p xml:lang="est">Numeral (</p>
+    <p xml:lang="sme"><em type="italic">okta, 1923 </em></p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="smj">adj</p>
+    <p>Adjective (</p>
+    <p xml:lang="sme"><em type="italic">alit, ollu, njealját </em></p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="ron">prp</p>
+    <p>Preposition/postposition (</p>
+    <p xml:lang="sme"><em type="italic">alde, miehtá </em></p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="ron">conj</p>
+    <p>Conjunction (</p>
+    <p xml:lang="sme"><em type="italic">ja, ahte, vaikko </em></p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="swe">intj</p>
+    <p>Interjection (</p>
+    <p xml:lang="smn"><em type="italic">vuoi, jippi </em></p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="smj">adv</p>
+    <p xml:lang="vep">Adverb (</p>
+    <p xml:lang="sme"><em type="italic">hui, johtilit, olgun </em></p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="smj">v</p>
+    <p xml:lang="vep">Verb (</p>
+    <p xml:lang="sme"><em type="italic">lean, borran, juhkamis </em></p>
+    <p xml:lang="koi">)</p>
+    <p xml:lang="nno">part</p>
+    <p xml:lang="ron">Particle (</p>
+    <p xml:lang="sme"><em type="italic">go, amma, han </em></p>
+    <p xml:lang="koi">)</p>
+    <p>Some of the buttons have parts of speech not in use in Sámi, such as <span type="quote" xml:lang="swe">"infm"</span> (infinitival marker) and <span type="quote" xml:lang="nno">"art"</span> (article).</p>
+    <p xml:lang="nno"></p>
+    <p type="title">Links to help functions and WordFall game:</p>
+    <p>You may read more about our sentences and parts of speech here: On parts of speech .</p>
+    <p>WordFall VISL direct link</p>
+    <p xml:lang="nno">Last changed: $Id: intro.xml,v 1.8 2005/06/21 12:13:53 boerre Exp $</p>
+  </body>
+</document>

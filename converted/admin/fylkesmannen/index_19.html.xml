@@ -1,0 +1,71 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>152</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.fylkesmannen.no/en/Children-and-parents/</origFileName>
+    <parallel_text xml:lang="nob" location="index_19.html"/>
+    <parallel_text xml:lang="sma" location="index_19.html"/>
+    <parallel_text xml:lang="sme" location="index_19.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Children and parents - County Governor - Fylkesmannen.no</p>
+    <p>Jump to content</p>
+    <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
+    <list>
+      <p type="listitem">Sound version</p>
+      <p type="listitem">High contrast</p>
+      <p type="listitem" xml:lang="nno"></p>
+      <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
+    </list>
+    <p type="title">Children and parents</p>
+    <list>
+      <p type="listitem">People and society</p>
+      <p type="listitem">Nursery schools and education</p>
+      <p type="listitem">Health, care and social services</p>
+      <p type="listitem">Climate and the environment</p>
+    </list>
+    <list>
+      <p type="listitem">Agriculture and food</p>
+      <p type="listitem">Municipal administration</p>
+      <p type="listitem">Planning and building</p>
+      <p type="listitem">Civil protection</p>
+    </list>
+    <p xml:lang="nob">County Governor</p>
+    <p>Children and parents</p>
+    <list>
+      <p type="listitem">Biological parents of adopted children</p>
+      <p type="listitem">Child protection</p>
+      <p type="listitem">Family welfare</p>
+      <p type="listitem">The Children Act</p>
+    </list>
+    <p type="title">Children and parents</p>
+    <p xml:lang="est">Published 10/10/2012 Updated 4/4/2017</p>
+    <p>Children and young people must be guaranteed satisfactory living conditions and a safe environment in which to grow up. Norway has several laws to ensure that official powers are used in the best interests of children. Each municipality is responsible for this as part of its daily work, but there are also a number of government authorities dedicated to child-parent relations.</p>
+    <list>
+      <p type="listitem" xml:lang="nno"/>
+      <p type="listitem" xml:lang="nno"/>
+      <p type="listitem" xml:lang="nno"/>
+      <p type="listitem" xml:lang="nno"/>
+    </list>
+    <p type="title" xml:lang="est">Links</p>
+    <list>
+      <p type="listitem" xml:lang="dan">Barneombudet</p>
+      <p type="listitem" xml:lang="nno">Ung.no</p>
+      <p type="listitem" xml:lang="nob">Sjumilssteget</p>
+      <p type="listitem" xml:lang="nno">Rettigheter og klagemuligheter (Helsetilsynet)</p>
+    </list>
+  </body>
+</document>

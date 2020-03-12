@@ -1,0 +1,41 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Parts of speech game</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>144</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/usevisl/satneluohkkaspealut.eng.html</origFileName>
+    <parallel_text xml:lang="sme" location="satneluohkkaspealut.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Parts of speech game</p>
+    <p>It is important to learn the different parts of speech. Here you may use four different games, all on the VISL pages. The VISL group in Odense takes care of the infrastructure, and University of Tromsø provides the North Saami content.</p>
+    <p>The games are beta versions, there may be errors in them. We are always glad to receive suggestions for improvement!</p>
+    <p>Menus, buttons and feedback is in English, but we are working on a parallel Saami translation.</p>
+    <list>
+      <p type="listitem">On parts of speech</p>
+      <p type="listitem">Paintbox with explanations</p>
+      <p type="listitem">Paintbox VISL direct link</p>
+      <p type="listitem">WordFall with explanations</p>
+      <p type="listitem">Wordfall VISL direct link</p>
+      <p type="listitem">Shooting Gallery with explanations</p>
+      <p type="listitem">Shooting Gallery VISL direct link</p>
+      <p type="listitem">Labyrinth with explanations</p>
+      <p type="listitem">Labyrinth VISL direct link</p>
+    </list>
+    <p>If you want to adjust the games to the level of the student, you may consult our sentence collections</p>
+    <p xml:lang="nno">Last changed: $Id: intro.xml,v 1.8 2005/06/21 12:13:53 boerre Exp $</p>
+  </body>
+</document>

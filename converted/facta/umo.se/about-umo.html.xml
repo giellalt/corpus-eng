@@ -1,0 +1,63 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>514</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Om-UMO/About-UMO</origFileName>
+    <parallel_text xml:lang="fin" location="umosta.html"/>
+    <parallel_text xml:lang="rus" location="o-umo.html"/>
+    <parallel_text xml:lang="swe" location="om-umo.html"/>
+    <parallel_text location="o-umo-u-serbokroatiska.html" xml:lang="hbs"/>
+    <parallel_text location="umo.html" xml:lang="ara"/>
+    <parallel_text location="sobre-umo.html" xml:lang="spa"/>
+    <parallel_text location="umo-en-francais.html" xml:lang="fra"/>
+    <parallel_text location="li-ser-umo.html" xml:lang="kmr"/>
+    <parallel_text location="umo-hakknda.html" xml:lang="tur"/>
+    <parallel_text location="persiska.html" xml:lang="fas"/>
+    <parallel_text location="o-umo-polska.html" xml:lang="pol"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">About UMO (engelska)</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">About UMO (engelska)</p>
+    <p>» Translate UMO into English</p>
+    <p>UMO is a website for anyone between the ages of 13 and 25. Here you can find answers to questions about sex, health and relationships.</p>
+    <p>On UMO.se you can find information about your body, sex, alcohol and drugs, self-esteem, depression and more. You can get answers to your questions or concerns about anything, as well as new ideas on how to think about your life.</p>
+    <p>Anyone between the ages of 13 and 25 can ask <em type="italic">Ask UMO </em>personal questions about sex, health and relationships. Your questions will be answered by somebody who works at UMO or at a youth guidance centre. When you ask UMO a question, you are anonymous. You can also read answers to many common questions on Ask UMO. </p>
+    <p>If you want to contact a youth guidance centre, you can search UMO's list of addresses and phone numbers for all the youth centres in the country.</p>
+    <p>Also available on UMO:</p>
+    <list>
+      <p type="listitem">advice on how to seek help and support</p>
+      <p type="listitem">films, slideshows and different tests you can take</p>
+      <p type="listitem">the <span type="quote">“Our Stories”</span> page, where you can write about your life and read other people's stories</p>
+      <p type="listitem">interviews with young people about various topics, including about having HIV, becoming a parent and online dating</p>
+      <p type="listitem">tips on books and films about UMO's topics</p>
+    </list>
+    <p>UMO.se provides different kinds of media: texts, videos and slideshows. You can also have the text read aloud and adjust the font size. Accessibility is important to UMO. Texts should be easy to read, in short sentences without complicated words.</p>
+    <p>UMO's goal is that you should feel that UMO is a site for you, no matter who you are, what background you have or what part of the country you live in. » If you want to contact a youth guidance centre you will find phone numbers and addresses here.</p>
+    <p>» If you want to contact somebody on the UMO website you will find email addresses here.</p>
+    <p>UMO aims to offer information and inspiration to help young people to manage their own situation: at home, in relationships, in school or at work. Knowing their rights and their obligations helps them to make decisions about how they want to live. UMO wants everyone to feel that this home page is for them, no matter who they are. Conventional norms are questioned and discussed.</p>
+    <p>UMO is run by Stockholm County Council, at the request of Cehis - Center for eHealth in Sweden - and works together with youth guidance centres, student health and organizations like RFSU, RFSL Youth, BRIS and many others. UMO also works with young people who read the texts and offer suggestions and viewpoints.</p>
+    <p>The content of UMO is in Swedish and at this time no material has been translated into other languages. However, it is possible to get a rough translation of the site into your English by using Google’s online translation service. To do this, click on the link above. We hope that this will help you benefit from some of the content on UMO.</p>
+  </body>
+</document>

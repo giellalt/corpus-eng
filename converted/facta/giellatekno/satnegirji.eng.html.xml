@@ -1,0 +1,34 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Lexical resources</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>289</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/usevisl/satnegirji.eng.html</origFileName>
+    <parallel_text xml:lang="fin" location="satnegirji.fin.html"/>
+    <parallel_text xml:lang="sme" location="satnegirji.html"/>
+    <parallel_text xml:lang="swe" location="satnegirji.swe.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Lexical resources</p>
+    <p>We have different kinds of e-dictionaries</p>
+    <p>Unfortunately, none of our online dictionaries are between Saami and English. We are working on it, but are not there yet. Help is always welcome, so feel free to contact us. While waiting, you will have to use our Saami - Norwegian or Saami - Finnish resources.</p>
+    <p>Neahttadigisánit is a web dictionary North Saami ↔ Norwegian and North Saami ↔ Finnish. The dictionary also handles inflected words. In order to use the dictionary, you will have to be online. There is an interface where you may write words, and an interface where you may alt-click on words in your browser. The text must thus be html, but it is possible to read e.g. Word documents as well. Do as following: Save you Word document as html, and open it in your browser. Thereafter, you may click in text.</p>
+    <p>Apertium web dictionary has a very user-friendly interface (write the first couple of initial letters), but it only contains base forms, and no example sentences.</p>
+    <p>Vuosttáš digisánit is a dictionary from North Saami to Norwegian. You may look up words, or click in text and get help. The dictionary understands inflected words, and can be used offline as well. It differs from Neahttadigisánit in being able to read text in different programs (exception: On the Mac the dictionary cannot read MS Word, but you may open your Word files in TextEdit instead), but it is not quite as good with compounds.</p>
+    <p>You may also look up number words, time expressions and dates and place names .</p>
+    <p>Parts of our resources are beta versions. This means that there may be errors in them. Feel free to send us corrections and suggestions for improvement! (oahpa@uit.no)</p>
+  </body>
+</document>

@@ -1,0 +1,60 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>370</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/djur-och-natur/fiske/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="djur-och-natur-fiske.html"/>
+    <parallel_text xml:lang="swe" location="djur-och-natur-fiske.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Fishing - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Fishing</p>
+    <p>The County Administrative Board works for viable fishery resources, a long-term and sustainable fishing industry and rich and diverse sporting and recreational fishing.</p>
+    <p type="title">Fishing regulations govern</p>
+    <p>There are many regulations in place relating to both recreational and commercial fishing. These govern where you are allowed to fish, when you are allowed to fish and how you should fish. If you fish in fresh water, information is available on the fishing permit you purchase for fishing. If you require information about which rules apply for sea or lake fishing, contact us.</p>
+    <p type="title">Fish conservation strengthens fisheries</p>
+    <p>In order to restore and preserve viable fishery resources, the County Administrative Board supports a large number of fish conservation projects. We allocate government conservation grants for fisheries, fishing license grants and EU grants, to be used for fish conservation measures.</p>
+    <p>We review applications for permission for planting fish and crayfish. We want to prevent the spread of fish diseases and stop any undesirable species and strains of fish from entering the county's water.</p>
+    <p>The County Administrative Board coordinates and conducts exploratory fisheries to monitor the development of the fishery resources. In addition, we use the opportunities provided by legislation to protect the natural fish habitat.</p>
+    <p type="title">Recreational fishing benefits from fish conservation</p>
+    <p>Sweden has excellent conditions for many different types of recreational fishing, from fishing in the surrounding seas and along the coasts to sea and streams from south to north. Species like trout, salmon, cod, mackerel, char, grayling, perch, pike-perch and pike are important species for such fisheries. The County Administrative Board has the responsibility for regional development of recreational fishing and works to promote good fishing opportunities by forming fish conservation areas, which sell fishing permits for the sea and streams. Fish conservation increases the opportunities for good catches, and the County Administrative Board appoints fishing supervisors to provide information on fishing regulations and to ensure that they are complied with.</p>
+    <p type="title">Contact us</p>
+    <p>County Administrative Board of Dalarna</p>
+    <p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
+    <p>Send message</p>
+    <p>Hide form</p>
+    <p>Your email address (optional)</p>
+    <p>Send a copy of the message to the email address specified</p>
+    <p>Message</p>
+    <p>Enter the code below to send your message</p>
+    <p>Generate new image</p>
+  </body>
+</document>

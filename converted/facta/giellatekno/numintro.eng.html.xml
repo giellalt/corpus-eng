@@ -1,0 +1,43 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Numerals</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>254</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/gramm/numintro.eng.html</origFileName>
+    <parallel_text xml:lang="nob" location="numintro.nob.html"/>
+    <parallel_text xml:lang="sme" location="numintro.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="nob">Numerals</p>
+    <p>Numerals are words that tell how many things an expression is referring to. They are divided into cardinal numerals, ordinal numerals and collective numerals. Cardinal numerals are words such as <em type="italic">okta, guokte, golbma </em>(one, two, three). <em type="italic">Ordinal numerals are adjectives: </em><em type="italic">vuosttaš, nubbi, goalmmát </em>(first, second, third). <em type="italic">Collective numerals are nouns: </em><em type="italic">guovttis, golmmas, njealjis </em>(two people, three people, four people). </p>
+    <p>Numerals can be used alone as separate elements of a sentence, here for example, as complements and objects:</p>
+    <list>
+      <p type="listitem"><em type="italic">Mun bohten 'goalmmádin'. </em>(I came in 'third (place)'.) </p>
+      <p type="listitem"><em type="italic">Mun válddán 'goalmmáda'. </em>(I'll take 'the third one'). </p>
+    </list>
+    <p>When numerals stand alone, they can be inflected in all cases.</p>
+    <p>Cardinal and ordinal numerals can also premodify nouns. Ordinal numerals are not inflected before a noun, but cardinal numerals follow certain agreement rules:</p>
+    <list>
+      <p type="listitem"><em type="italic">Mun válddán 'goalmmát' vuoru. </em>(I'll take the 'third' watch.) </p>
+      <p type="listitem"><em type="italic">Mun vuorddán 'goalmmát' beaivái. </em>(I'll wait until the third day.) </p>
+      <p type="listitem" xml:lang="sme"><em type="italic">Mun válddán 'golbma' vuoru. </em>(I'll take 'three' watches.) </p>
+      <p type="listitem"><em type="italic">Mun attán liđiid 'golmma' olbmui. </em>(I'll give flowers to 'three' people.) </p>
+    </list>
+    <p>Note that the noun is in the singular form after a numeral in the singular, even if we are talking about more than one thing. The plural is only used with plural words, such as celebrations, festivities and pair words (a pair of socks, a pair of pants etc.), and then both the numeral and the noun will be in the plural. <em type="italic">Dáppe leat odne 'golmmat heajat' </em>. (There will be 'three weddings' here today.) </p>
+    <p><em type="italic">Read more about numerals </em><em type="italic">here </em>. </p>
+    <p>Back to the grammar main page .</p>
+  </body>
+</document>

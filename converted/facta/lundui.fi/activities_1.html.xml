@@ -1,0 +1,200 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Activities in the Saariselkä Area - Nationalparks.fi</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1512</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <license type="standard"/>
+    </availability>
+    <origFileName>http://www.nationalparks.fi/en/saariselka/activities</origFileName>
+    <parallel_text xml:lang="fin" location="aktiviteetit_1.html"/>
+    <parallel_text xml:lang="sme" location="aktivitehtat_10.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Skip to Content</p>
+    <p>Open Menu</p>
+    <list>
+      <p type="listitem">Suomeksi</p>
+      <p type="listitem">På svenska</p>
+      <p type="listitem">Anarâškielâ</p>
+      <p type="listitem">Davvisámegiella</p>
+      <p type="listitem">中文</p>
+      <p type="listitem">По-русски</p>
+    </list>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p type="title">Saariselkä</p>
+    <list>
+      <p type="listitem">Activities</p>
+      <p type="listitem">Directions and Maps</p>
+      <p type="listitem">Frequently Asked Questions</p>
+      <p type="listitem">History</p>
+      <p type="listitem">Instructions and Rules</p>
+      <p type="listitem">Nature</p>
+      <p type="listitem">Services</p>
+      <p type="listitem">Sights</p>
+      <p type="listitem">Trails</p>
+      <p type="listitem">More Information</p>
+    </list>
+    <p></p>
+    <p type="title">Destinations</p>
+    <list>
+      <p type="listitem">Top Natural Attractions</p>
+      <p type="listitem">National Parks</p>
+      <p type="listitem">World Heritage Sites</p>
+      <p type="listitem">National Hiking Areas</p>
+      <p type="listitem">Wilderness Areas</p>
+      <p type="listitem">Other Nature Sites</p>
+      <p type="listitem">Hiking Trails</p>
+      <p type="listitem">Huts</p>
+      <p type="listitem">Historical Sites</p>
+      <p type="listitem">Nature Centres</p>
+      <p type="listitem">Accessible Destinations</p>
+    </list>
+    <list>
+      <p type="listitem">Aulanko</p>
+      <p type="listitem">Auttiköngäs</p>
+      <p type="listitem">Elimyssalo</p>
+      <p type="listitem">Hepoköngäs</p>
+      <p type="listitem">Hetta Area</p>
+      <p type="listitem">Hirvisuo</p>
+      <p type="listitem">Hämeenkangas</p>
+      <p type="listitem">Iivaara</p>
+      <p type="listitem">Ilmakkiaapa</p>
+      <p type="listitem">Iso-Palonen - Maariansärkät</p>
+      <p type="listitem">Juortanansalo-Lapinsuo</p>
+      <p type="listitem">Karkali</p>
+      <p type="listitem">Kermajärvi</p>
+      <p type="listitem">Kevo</p>
+      <p type="listitem">Koitajoki</p>
+      <p type="listitem">Kolvananuuro</p>
+      <p type="listitem">Komio</p>
+      <p type="listitem">Korouoma</p>
+      <p type="listitem">Kurimonkoski Rapids</p>
+      <p type="listitem">Laajalahti</p>
+      <p type="listitem">Langinkoski</p>
+      <p type="listitem">Liminka Bay</p>
+      <p type="listitem">Lentua</p>
+      <p type="listitem">Luiro Mires</p>
+      <p type="listitem">Malla</p>
+      <p type="listitem">Martimoaapa</p>
+      <p type="listitem">Melkuttimet</p>
+      <p type="listitem">Nellim</p>
+      <p type="listitem">Näränkä</p>
+      <p type="listitem">Olvassuo</p>
+      <p type="listitem">Pihlajavesi</p>
+      <p type="listitem">Punkaharju</p>
+      <p type="listitem">Pääjärvi</p>
+      <p type="listitem">Reposuo</p>
+      <p type="listitem">Riuttaskorpi</p>
+      <p type="listitem">Ruostejärvi</p>
+      <p type="listitem">Saari</p>
+      <p type="listitem">Saariselkä</p>
+      <p type="listitem">Sallatunturi Area</p>
+      <p type="listitem">Sevettijärvi-Näätämö Area</p>
+      <p type="listitem">Siikalahti Wetland</p>
+      <p type="listitem">Simojärvi and Soppana</p>
+      <p type="listitem">Sompio</p>
+      <p type="listitem">Suvasvesi</p>
+      <p type="listitem">Teerisuo-Lososuo</p>
+      <p type="listitem">Telkkämäki</p>
+      <p type="listitem">Teuravuoma - Kivijärvenvuoma</p>
+      <p type="listitem">Utsjoki</p>
+      <p type="listitem">Vaarunvuoret</p>
+      <p type="listitem">Valtavaara-Pyhävaara</p>
+      <p type="listitem">Vehoniemenharju</p>
+      <p type="listitem">Viiankiaapa</p>
+      <p type="listitem">Öjen</p>
+    </list>
+    <list>
+      <p type="listitem">Activities</p>
+      <p type="listitem">Directions and Maps</p>
+      <p type="listitem">Frequently Asked Questions</p>
+      <p type="listitem">History</p>
+      <p type="listitem">Instructions and Rules</p>
+      <p type="listitem">Nature</p>
+      <p type="listitem">Services</p>
+      <p type="listitem">Sights</p>
+      <p type="listitem">Trails</p>
+      <p type="listitem">More Information</p>
+    </list>
+    <p></p>
+    <p>Saariselkä Menu</p>
+    <p type="title">Saariselkä</p>
+    <list>
+      <p type="listitem">Activities</p>
+      <p type="listitem">Directions and Maps</p>
+      <p type="listitem">Frequently Asked Questions</p>
+      <p type="listitem">History</p>
+      <p type="listitem">Instructions and Rules</p>
+      <p type="listitem">Nature</p>
+      <p type="listitem">Services</p>
+      <p type="listitem">Sights</p>
+      <p type="listitem">Trails</p>
+      <p type="listitem">More Information</p>
+    </list>
+    <p></p>
+    <p type="title">Activities in Saariselkä Area</p>
+    <p></p>
+    <p></p>
+    <p type="title">What can one do in Saariselkä Area?</p>
+    <p type="title">Walk on Marked Trails</p>
+    <p>In the Saariselkä area there are approximately 200 km of marked hiking trails and nature trails for day-trips. The trails are of varying levels of demand. Some of the hiking trails and nature trails are in Urho Kekkonen National Park, which some are outside of the national park. All the trails are marked in the terrain and on hiking maps. During winter visitors can hike along the marked trails between the Siula building and Laanila Village.</p>
+    <p type="title">Go Wilderness Trekking</p>
+    <p>The Saariselkä area is also an opportune starting point for longer treks lasting several days. Kiilopää Fell and Saariselkä Village are common starting points for longer off trail treks into Urho Kekkonen National Park , orienteering only with a map and a compass. Hikers can get into Sompio Strict Nature Reserve along Ruijapolku Trail. Hammastunturi Wilderness Area is also only a short distance from Saariselkä.</p>
+    <p type="title">Ski Cross-country on Maintained Trails</p>
+    <p>During winter when the snow conditions are at their best, there are 250 km of maintained ski trails. The majority of these ski trails are suited for both traditional and free-style cross-country skiing. The area's nature ski trails are only suited for traditional cross-country skiing. There are 34 km of lit trails. The area's ski trails offer unforgettable experience leading across magnificent fell landscape, through pine forest and along river banks. The ski trails vary from easy to difficult in level of demand. There is a ski trail map (www.saariselka.fi) for the area, with the level of demand of each trail marked with colours.</p>
+    <p type="title">Ski with Your Dog along the Dog Ski Trail</p>
+    <p>The area has a ski trail specially set aside for those who want to take their dog with them. The starting point for this trail is on the grounds of the Siula building. The trail which leads between Saariselkä and Laanila is 3.6 km in one direction. The dog ski trail is marked with red snow-ploughing sticks.</p>
+    <p type="title">Go Ski Trekking</p>
+    <p>The Saariselkä area is a central starting point for long and demanding ski treks into Urho Kekkonen National Park and Hammastunturi Wilderness Area. It is important to be properly prepared for long ski treks which require overnight stays in the terrain, as this means you will be travelling off the maintained ski trail network and orienteering with only the help of a map and a compass. When skiing off-trails you will need wider forest skis, with which you can ski across thick snow banks.</p>
+    <p type="title">Go Bird Watching</p>
+    <p>The Saariselkä area is a wonderful place to spot both forest bird and fell bird species. The species living on the treeless fell tops may however be very timid, but with some luck you may see the Ptarmigan ( <em type="italic">Lagopus mutus </em>), the Snow Bunting ( <em type="italic">Plectrophenax nivalis </em>) or the Dotterel ( <em type="italic">Charadrius morinellus </em>). Lower down in the fell birch forests hikers may hear the nuanced song of the Bluethroat ( <em type="italic">Luscinia svecica </em>) or see the Red Grouse ( <em type="italic">Lagopus lagopus </em>) take flight. </p>
+    <p>Bird watchers can set off on bird watching expeditions along the area's nature trails. There is an exhibition featuring birds of prey, the different species and their way of life, at Tankavaara Visitor Centre, located 30 km south of Saariselkä tourist resort.</p>
+    <p type="title">See the Sights and Scenery</p>
+    <p>There are many interesting sights in the Saariselkä area: both natural sights and views. A magnificent view opens from the top of Kaunispää Fell . The area's gold prospecting history is featured along Laanila's Kultareitti Trail and wilderness trekking attracts many visitors as the old cabins in the area are interesting.</p>
+    <p type="title">Visit the Kiehinen Customer Service</p>
+    <p>Visitors in the Saariselkä area can get more information on Northern Finland's natural features and hiking possibilities at Kiehinen Customer Service , which is situated in the Siula building at the Saariselkä tourist resort. The customer service point also sells permits. Information on the areas versatile tourist serves can be found at the info point for Northern Lapland Tourism (www.saariselka.fi) is also located in the Siula building.</p>
+    <p type="title">Walk on Nature Trail</p>
+    <p>The area has an assortment of nature trails equipped with information boards featuring the area's different natural sights. The nature trails lead visitors into Urho Kekkonen National Park. The Saariselkä (2 km and 6 km) and Kiilopää (1 km, 3 km and 6 km) nature trails lead through fell landscape.</p>
+    <p type="title">Go Fishing</p>
+    <p>The following Metsähallitus recreational fishing licences are sold for the Saariselkä area:</p>
+    <list>
+      <p type="listitem">Licences are sold for the UK National Park recreational fishing area 1563 for 3 hours, 24 hours, one week, or one season at a time. In addition to the regional fishing permit, fishers must also have paid the fishing management fee (www.eraluvat.fi).</p>
+      <p type="listitem">Permits are sold for the Inari recreational fishing area 1564 for 3 hours, 24 hours, one week, or one season at a time. In addition to the regional fishing permit, fishers must also have paid the fishing management fee (www.eraluvat.fi).</p>
+      <p type="listitem">Angling and ice fishing are permitted in the area free-of-charge as Everyman's Rights (www.ym.fi). Both of these are however forbidden in those bodies of water populated by salmon and whitefish at rapids or current points or in other bodies of water where fishing is forbidden by fishing legislation.</p>
+      <p type="listitem">Recreational fishing permits can be bought from Metsähallitus netstore  (www.eräluvat.fi), at Kiehinen Customer Service , at Tankavaara Visitor Centre and at Ivalo Customer Service , which all also offer additional information on fishing, fishing areas and permit practices.</p>
+    </list>
+    <p type="title">Go Cycling</p>
+    <p>There are numerous cycling routes of varying lengths in the Saariselkä area. Saariselkä tourist resort, Laanila Village, Kakslauttanen and Kiilopää are all possible starting points for cycling trips. Cycling routes are marked on the Saariselkä - Kiilopää summer trails map.</p>
+    <p type="title">Go on Guided Group Tour at the Visitor Centre or Outdoors</p>
+    <p>Tankavaara Visitor Centre arranges guided tours during all seasons both indoors and outdoors. There are numerous different tour packages (in Finnish) on offer for different target groups, of which you can compile a programme which will best suit your group. We ask that you reserve group tours in advance.</p>
+    <p type="title">Go Hunting</p>
+    <p>Only local residents are allowed to hunt within Urho Kekkonen National Park and only within the park area in their own municipality. There are small game hunting areas near Saariselkä, such as Lokka - Porttipahta and Kuttura, for which visitors can buy permits from Metsähallitus netstore  (www.eräluvat.fi), at Saariselkä Customer Service Kiehinen and at Ivalo Customer Service .</p>
+    <p type="title">Go Berry and Mushroom Picking</p>
+    <p>Berry picking and mushroom picking are both great outdoor activities in the Saariselkä area. Picking berries and mushrooms is also permitted in Urho Kekkonen National Park. In Sompio Strict Nature Reserve only local residents are allowed to pick berries and mushrooms. The cloudberry ( <em type="italic">rubus chamaemorus </em>) crop is ready to be picked in the mires already in late July. After this blueberries ( <em type="italic">vaccinium myrtillus </em>) and crowberries ( <em type="italic">empetrum nigrum </em>) are the next to be ready for picking. The lingonberry ( <em type="italic">vaccinium vitis-idaea </em>) is at its best in September, while cranberries ( <em type="italic">oxycoccus quadripetalus </em>) are only ripe for picking in late September after the first night frosts. During rainy autumns the mushroom crop is abundant, and mushrooms easily add variety to camping food. </p>
+    <p type="title">Go Swimming</p>
+    <p>Swimming is permitted in all Saariselkä area waters. The area's waters and shorelines are in their natural state and there is no official beaches.</p>
+    <p type="title">Go Snowshoe Walking</p>
+    <p>The Saariselkä area is an excellent place to go snow show walking. Snowshoeing is possible in snow banks as well as along the nature trails at Saariselkä and Kiilopää designated for this purpose.</p>
+    <p type="title">Go Snowmobiling</p>
+    <p>In the Saariselkä area there are a number of snowmobile tracks and routes maintained by Metsähallitus and the municipalities. Non-locals must always purchase a track permit when they wish to snowmobile on Metsähallitus maintained tracks. No permit is needed for snowmobiling on municipality maintained tracks. For more information on snowmobiling visit Saariselkä Customer Service Kiehinen , the Northern Lapland Tourism info point (www.saariselka.fi) at the Siula building in Saariselkä.</p>
+    <p></p>
+    <p>© Metsähallitus 2017</p>
+    <list>
+      <p type="listitem"></p>
+    </list>
+    <p>Share This Page</p>
+    <p>Open Menu</p>
+  </body>
+</document>

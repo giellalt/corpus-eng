@@ -1,0 +1,79 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>NAV - Stay in Norway - </title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>NAV</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>926</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
+    <origFileName>http://www.nav.no/English/Stay+in+Norway/805368912.cms</origFileName>
+    <parallel_text xml:lang="nno" location="1073749124.html"/>
+    <parallel_text xml:lang="nob" location="bidragsforskudd.html"/>
+    <parallel_text xml:lang="sme" location="229452.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p></p>
+    <p type="title">Advance support payment</p>
+    <p>The purpose of advance support payment (bidragsforskudd) is to ensure that children receive money from the state each month if the non-custodial parent does not pay child support or if the amount of child support to be paid is less than the amount given as an advance.</p>
+    <p type="title">Who can receive advance support payment?</p>
+    <p>Children under the age of 18 who do not live with both parents are usually entitled to advance support payment. The person responsible for the actual care of the child can claim payment of the advance and will receive the payment. Advance support payment is not given for children living in a foster home or child care institution, or whose full maintenance is paid by the public sector in some other manner.</p>
+    <p>As a rule the child must be resident and live in Norway. A child is regarded as resident in Norway if he or she has lived or is going to live in Norway for more than 12 months. In certain circumstances, a child may retain the advance during stays abroad of up to six months. The EEA regulations entail that children resident in an EEA member state other than Norway may be entitled to advance support payment, for example, if one of their parents works in Norway. Read more about advance support payment during stays in or relocation to an EEA country under the heading International in the menu to the right.</p>
+    <p>One of the conditions for receiving advance support payment is that payment of child support by the parent who does not live with his or her child has been agreed or ordered. This parent must pay support to NAV Recovery of Maintenance Payment.</p>
+    <p type="title">How much will you receive?</p>
+    <p>Advance support payments are means tested and can amount to 50, 75 or 100 per cent of the full rate. The rates are adjusted on 1 July each year.</p>
+    <p>The rate is determined on the basis of your income, number of own children in your household, and whether you are married, a registered partner, cohabitant or sole carer (single parent). Entitlement to advance support payment ceases if your income exceeds 320 times the full advance rate.</p>
+    <p>If your income does not exceed 320 times the full advance support payment, the full rate (100 per cent) of the advance can be paid when:</p>
+    <list>
+      <p type="listitem">the paternity of the child has not been established</p>
+      <p type="listitem">the child is adopted and you are the sole adopter</p>
+      <p type="listitem">the other parent is deceased and the child is not entitled to a children’s pension</p>
+    </list>
+    <p>If the child lives alone or with someone other than one of his / her parents, there is no means testing.</p>
+    <p>If the child has a dual domicile, he / she may be entitled to advance support payment from both parents. It is a condition that the other parent can be ordered to pay support, or that neither parent has the financial capacity to pay support.</p>
+    <p>If the conditions above are met, the child can receive advance support payment up until the month in which he / she turns 18.</p>
+    <p type="title">How do you apply?</p>
+    <p>You can claim for advance support payment by completing the application form under the heading Forms and enclosures in the menu to the right. (It is the same application form you use to apply for maintenance support - NAV 54‑00.05). The annex to the application form contains information about documentation of income.</p>
+    <p>You can be paid advance support payment in arrears for up to three months before the month you submitted your application if the conditions were met. Therefore you ought to file your claim within three months of the conditions for this advance payment being met. Submit your claim to your local NAV office along with documentation of your income.</p>
+    <p type="title">Notification of the decision</p>
+    <p>First, NAV will send you a letter informing you about processing time. When your claim has been processed, you will receive written notification of the decision.</p>
+    <p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian.</p>
+    <p type="title">Current rates for advance support payment</p>
+    <p><em type="italic">Rate </em><em type="italic"></em><em type="italic">Amount per month </em></p>
+    <p>100 per cent NOK 1,350</p>
+    <p>75 per cent NOK 1,010</p>
+    <p>50 per cent NOK 680</p>
+    <p type="title">Current income limits for advance support payment for spouses, registered partners and cohabitants</p>
+    <p><em type="italic">No. of children </em><em type="italic"></em><em type="italic">75 per cent advance </em><em type="italic"></em><em type="italic">50 per cent advance </em></p>
+    <p>1 NOK 163,201 - NOK 275,700 NOK 275,701 - NOK 432,000</p>
+    <p>2 NOK 163,201 - NOK 324,600 NOK 324,601 - NOK 432,000</p>
+    <p>3 NOK 163,201 - NOK 373,500 NOK 373,501 - NOK 432,000</p>
+    <p>4 NOK 163,201 - NOK 422,400 NOK 422,401 - NOK 432,000</p>
+    <p>5 or more NOK 163,201 - NOK 432,000</p>
+    <p>If your annual income is NOK 163,200 or less, you are entitled to 100 per cent advance support payment. If your annual income is greater than NOK 432,000, you are not entitled to advance support payment.</p>
+    <p type="title">Current income limits for advance support payment for single parents</p>
+    <p><em type="italic">No. of children </em><em type="italic"></em><em type="italic">75 per cent advance </em><em type="italic"></em><em type="italic">50 per cent advance </em></p>
+    <p>1 NOK 163,201 - NOK 305,700 NOK 305,701 - NOK 432,000</p>
+    <p>2 NOK 163,201 - NOK 354,600 NOK 354,601 - NOK 432,000</p>
+    <p>3 NOK 163,201 - NOK 403,500 NOK 403,501- NOK 432,000</p>
+    <p>4 or more NOK 163,201- NOK 432,000</p>
+    <p>If your annual income is NOK 163,200 or less, you are entitled to 100 per cent advance support payment. If your annual income is greater than NOK 432,000, you are not entitled to advance support payment.</p>
+  </body>
+</document>

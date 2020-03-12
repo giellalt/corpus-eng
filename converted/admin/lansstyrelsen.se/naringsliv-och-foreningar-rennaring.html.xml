@@ -1,0 +1,63 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>399</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/naringsliv-och-foreningar/rennaring/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-rennaring.html"/>
+    <parallel_text xml:lang="swe" location="naringsliv-och-foreningar-rennaring.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Reindeer husbandry - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Reindeer husbandry</p>
+    <p>The County Administrative Board administers and is responsible for managing the country's mountain areas. We work closely with the Sami villages, for example, with making an inventory of predators, social planning and record keeping.</p>
+    <p>At present in Sweden there are 51 Sami villages or siidas divided into three types: forest siidas, mountain siidas and concession siidas. The reindeer-herding Sami have reindeer husbandry rights in approximately 40 per cent of the area of the country. The County Administrative Board shall promote the development of reindeer husbandry, by supporting the development projects and monitoring reindeer husbandry interests in community planning.</p>
+    <p type="title">Our main tasks for reindeer husbandry are to</p>
+    <list>
+      <p type="listitem">determine the maximum of reindeer that each Sami village may have and ensure that it is complied with</p>
+      <p type="listitem">ensure that the Sami villages pay heed to the interests of nature conservation and cultural environment</p>
+      <p type="listitem">safeguard the national interests of reindeer husbandry in the social and environmental planning</p>
+      <p type="listitem">compile and update the reindeer husbandry records of reindeer land use.</p>
+    </list>
+    <p>On 1 January 2007, the Sami Parliament took over certain tasks previously managed by the County Administrative Board, such as reindeer land and Sami village boundaries. More information can be found at www.sametinget.se</p>
+    <p type="title">Mountain management</p>
+    <p>Most of the country's vast mountain areas are in Norrbotten, Västerbotten, Jämtland and Dalarna – an area of nearly seven million hectares. The County Administrative Board manages government land above the cultivation line and we are responsible for the state trails with bridges, shelters, and for the marking of summer and winter trails. The trails are important for mountain safety and so that visitors do not damage sensitive areas. We also issue authorization for small game hunting and fishing, for example, through the sale of hunting and fishing permits. We also have specially appointed nature conservation rangers whose duties include the supervision of mountain reserves and making an inventory of and monitoring large predators.</p>
+    <p type="title">The County Administrative Board's work with mountain management initiatives includes</p>
+    <list>
+      <p type="listitem">issuing hunting and fishing permits.</p>
+      <p type="listitem">managing fish conservation and wildlife conservation</p>
+      <p type="listitem">the management of nature reserves</p>
+      <p type="listitem">provision of information on rights and responsibilities;</p>
+      <p type="listitem">supervision of cabins and bridges;</p>
+      <p type="listitem">managing the maintenance of facilities</p>
+    </list>
+    <p>Our management and supervision is governed by the provisions of the Swedish Environmental Code (SFS 1998:808), the Swedish Reindeer Husbandry Act (SFS 1971:437) and the Reindeer Herding Ordinance (SFS 1993:384), but also by other laws.</p>
+  </body>
+</document>

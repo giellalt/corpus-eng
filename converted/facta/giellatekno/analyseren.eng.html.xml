@@ -1,0 +1,36 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Analysing words and text</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>158</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/usevisl/analyseren.eng.html</origFileName>
+    <parallel_text xml:lang="nno" location="analyseren.nob.html"/>
+    <parallel_text xml:lang="sme" location="analyseren.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title">Analysing words and text</p>
+    <p>Below you will find a link to the text analyser tool at giellatekno. You may use it for analysing isolated words or texts, and you may invoke a function for translating base forms into Norwegian. Here we explain some basic functions:</p>
+    <list>
+      <p type="listitem">If you want to analyse a word, choose <span type="quote">"Give all word forms"</span>.</p>
+      <p type="listitem">If you want to analyse sentences or text, you may choose <span type="quote" xml:lang="sme">"Disambiguate"</span>. This implies that instead of all analyses, you will (hopefully) get only the analyses which fit this particular context - both a morphological and a syntactical analysis.</p>
+      <p type="listitem">If you choose <span type="quote">"Bokmål Norwegian word translation"</span>, you will get a translation of the baseform into Norwegian.</p>
+      <p type="listitem">If you choose <span type="quote" xml:lang="nob">"Hyphenate"</span>, you will get a hyphenated version of the text.</p>
+      <p type="listitem">If you choose <span type="quote">"Transcribe"</span>, you will get a transcription of the text, with the international phonetic alphabet (IPA).</p>
+    </list>
+    <p>Analyse word or text</p>
+    <p xml:lang="nno">Last changed: $Id: intro.xml,v 1.8 2005/06/21 12:13:53 boerre Exp $</p>
+  </body>
+</document>

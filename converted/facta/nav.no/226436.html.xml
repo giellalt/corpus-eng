@@ -1,0 +1,82 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>NAV - Social security - Pay guarantee in the event of bankruptcy</title>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="nob"/>
+    <publChannel>
+      <publication>
+        <publisher>NAV</publisher>
+      </publication>
+    </publChannel>
+    <wordcount>855</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
+    <multilingual/>
+    <origFileName>http://www.nav.no/English/Social+security/226436.cms</origFileName>
+    <parallel_text xml:lang="nno" location="805332260.html"/>
+    <parallel_text xml:lang="nob" location="lonnsgaranti.html"/>
+    <parallel_text xml:lang="sme" location="226440.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="nno"></p>
+    <p type="title">Pay guarantee in the event of bankruptcy</p>
+    <p>The scheme covers outstanding pay claims etc. in the event of an employer’s bankruptcy. In addition to bankruptcy, the scheme also covers public administration of insolvent estates, compulsory liquidation and public administration of insurance companies or banks.</p>
+    <p type="title">Who can receive payment under this scheme?</p>
+    <p>The scheme applies to all employment relationships that are subject to employer’s National Insurance contribution (payroll tax). The following are not covered:</p>
+    <list>
+      <p type="listitem">self-employed people and people who work on commission</p>
+      <p type="listitem">shareholders who own at least 20 per cent of the shares in the company, unless the person in question can substantiate that he/she has not had a significant influence on operations.</p>
+    </list>
+    <p>You must register as a job seeker at the NAV office if you do not have a job after the opening of bankruptcy proceedings. You must do this within 14 days of receiving notification from the trustee that the estate is not going to take over the employment contract, if you are applying to have a claim covered for this period. You must be registered with NAV throughout the entire application period. It is not a condition that you are entitled to receive or are receiving unemployment benefit <em type="italic">. </em></p>
+    <p type="title">How much will you receive?</p>
+    <p>Assuming you have an outstanding claim against your employer, you will have the following covered:</p>
+    <list>
+      <p type="listitem">Pay and other remuneration for the performance of work for maximum six months</p>
+      <p type="listitem">The pay claim must generally not have been due for payment more than four months before the deadline</p>
+      <p type="listitem">Holiday pay for maximum 30 months</p>
+      <p type="listitem">The claim for holiday pay must generally not have been accrued more than 24 months before the deadline</p>
+      <p type="listitem">Pension benefits for maximum six months.</p>
+      <p type="listitem">Compensation for lost remuneration for the performance of work for maximum six months</p>
+      <p type="listitem">Interest until the deadline for outstanding pay claims, and collection costs</p>
+      <p type="listitem">Reasonable costs linked to filing a petition for bankruptcy</p>
+    </list>
+    <p>Maximum coverage is limited to a gross amount equivalent to two times the National Insurance basic amount (2 x G) on the deadline day. Reasonable costs linked to filing a petition for bankruptcy are in addition to this.</p>
+    <p>The claim will be reduced if you have had other income in the application period that is instead of the income you received from your former employer. Advance payment of unemployment benefit is deducted before any payment is made to you.</p>
+    <p type="title">How much will you receive?</p>
+    <list>
+      <p type="listitem">You can receive pay for a statutory period of notice, unless a longer period of notice ensues from a collective agreement entered into at least six months before the deadline.</p>
+      <p type="listitem">IIf the enterprise is transferred to a new owner before bankruptcy proceedings are instituted and you continue to work for the new owner, you will only have a pay claim covered up until the transfer date.</p>
+    </list>
+    <p>Other relevant services:</p>
+    <list>
+      <p type="listitem">Unemployment benefit (advance wage guarantee funds)</p>
+    </list>
+    <p type="title">How do you apply for wage guarantee funds?</p>
+    <p>You must complete application form A <span type="quote">“notification of a pay claim etc.against an estate in bankruptcy”</span>.(<span type="quote" xml:lang="nob">”Melding av lønnskrav mv. til konkursboet”</span>). The bankruptcy court can tell you who is trustee, and the trustee has a duty to help you if you need assistance completing the application form. You can also find out who has been appointed trustee of an estate in bankruptcy by looking up the company in the Brønnøysund Register Centre, www.brreg.no .</p>
+    <p type="title">When do you have to apply?</p>
+    <p>It is important to abide by the deadline the court has set for filing claims against the estate. NAV Wage Guarantee will nevertheless still process claims that are submitted to the trustee in writing before the bankruptcy proceedings are closed or, if the bankruptcy proceedings have already been closed, as long as the claim is received by the trustee or NAV within six months of the bankruptcy proceedings opening.</p>
+    <p>Where should you submit your application?</p>
+    <p>Send the completed form to the trustee.</p>
+    <p type="title">Decision</p>
+    <p>The trustee assesses and checks claims and sends a recommendation to NAV Wage Guarantee for decision.</p>
+    <p>Our performance target is that 80 per cent of the cases shall be processed within two months.</p>
+    <p>Applications sent to NAV Wage Guarantee will have one of three outcomes: claims may be approved or denied, or we may decide to postpone further processing until we have received more information from the trustee. We send a letter to the trustee, who will then inform you of the outcome of your application.</p>
+    <p>If your application is denied, you have the right to appeal. The time limit for appeal is three weeks from the date of receipt of the rejection, and appeals should be sent to NAV Wage Guarantee. If the decision is upheld, the case is referred to the Ministry of Labour.</p>
+    <p type="title">Payment is made to</p>
+    <p>If a claim is approved, wage guarantee funds are transferred to the trustee. The trustee then transfers money to the applicant, minus any mandatory deductions, such as tax and advance payment of unemployment benefit, for example.</p>
+    <p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian.</p>
+  </body>
+</document>

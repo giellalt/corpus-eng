@@ -1,0 +1,46 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>197</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/naringsliv-och-foreningar/spel-och-sport/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-spel-och-sport.html"/>
+    <parallel_text xml:lang="swe" location="naringsliv-och-foreningar-spel-och-sport.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Games and sports - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Games and sports</p>
+    <p>The County Administrative Board gives permission for racing with vehicles on the road, martial arts matches, bingo and in some cases lotteries.</p>
+    <p>To organize a race with vehicles on the road you need permission from the County Administrative Board. If the race is run through several counties you must apply for permission from the County Administrative Board in the county where the race will begin.</p>
+    <p>Organizing training, competition and exhibition matches in martial arts requires special permission, which you apply for with the County Administrative Board of Örebro.</p>
+    <p>The County Administrative Board provides permission for bingo and, in some cases, lotteries, which are conducted in several municipalities within the county, known as regional lotteries. We also supervise these games. The municipality manages the authorization if a lottery is to be organized by a non-profit organization operational in only one municipality. It is often the leisure and recreation services department of the municipality which provides further information about the application and permit. Sometimes legal entities other than non-profit organizations may be allowed to organize lotteries, in accordance with the Lotteries Act (SFS 1994:1000).</p>
+    <p>County Administrative Board of Örebro</p>
+  </body>
+</document>

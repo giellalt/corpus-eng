@@ -1,0 +1,45 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>241</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/kulturreservat/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-kulturreservat.html"/>
+    <parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-kulturreservat.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p>Cultural reserves - Länsstyrelsen i Dalarna</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title">Cultural reserves</p>
+    <p><em type="italic">The County Administrative Board and municipalities can, in accordance with the Swedish Environmental Code (SFS 1998:808) decide that a particular valuable cultural landscape should be protected as a cultural reserve. </em></p>
+    <p>The purpose of the reserve ruling is to nurture and preserve valuable cultural landscape. When the County Administrative Board issues a ruling on a cultural reserve, we also act as administrators and are responsible for the care and maintenance of the valuable cultural landscape.</p>
+    <p>A cultural reserve can be anything from a characteristic agricultural area to a cultural interest in the form of an industrial environment - areas which in different ways are characterised by ancient land use and resource utilization. Cultural reserves are complex landscapes where land, buildings, facilities, trails and monuments together constitute valuable historical complete environments. In a cultural reserve the whole area's cultural and natural value is protected and nurtured. This covers not only the buildings, facilities, sites and soils, but also the values that consist of activities, knowledge and traditions.</p>
+    <p>The ruling determines the purpose of the protection and the regulations that apply in the reserve. Each ruling also includes a management plan describing the objectives of the conservation work and the steps that must be implemented for these goals to be reached. The management plan may also include goals for the development, activities and public events relating to the reserve. The goals are monitored and evaluated regularly.</p>
+  </body>
+</document>

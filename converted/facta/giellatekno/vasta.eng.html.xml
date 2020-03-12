@@ -1,0 +1,44 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title>Vasta</title>
+    <genre code="facta"/>
+    <author>
+      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
+    </author>
+    <wordcount>263</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
+    <multilingual/>
+    <origFileName>http://oahpa.no/sme/useoahpa/vasta.eng.html</origFileName>
+    <parallel_text xml:lang="fin" location="vasta.fin.html"/>
+    <parallel_text xml:lang="nob" location="vasta.nob.html"/>
+    <parallel_text xml:lang="sme" location="vasta.html"/>
+    <parallel_text xml:lang="swe" location="vasta.swe.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p type="title" xml:lang="fin">Vasta</p>
+    <p>With the Vasta program you are supposed to give answers to random questions. The purpose of the exercise is to train verb inflection and case usage. The program will accept several answer alternatives, and give comments to deviant inflection or case usage.</p>
+    <p>The program requires that one answers in full sentences ( they must contain a finite verb). If the question contains the pronoun <span type="quote">"we", you are supposed to answer with "you"</span>, not with (inclusive) <span type="quote">"we", and the same goes for the dual forms. The goal, again, is not to simulate natural conversation ("</span>should we go now? - Yes, we should"), but to train all subject-verb combinations, rather than repeating input.</p>
+    <p>The program has two versions, Vasta-S and Vasta-F:</p>
+    <p><em type="italic">Vasta-S </em>The program gives you a couple of words with which you may answer a question. You are supposed to inflect the words in blue. You may choose how many words to inflect within each sentence. Vasta-S has the following levels: </p>
+    <list>
+      <p type="listitem">Level 1: Only present tense and simple case usage.</p>
+      <p type="listitem">Level 1-2: Questions also in the past tense, sentences containing more verbs, and sentence functions containing numerals and demonstrative pronouns.</p>
+    </list>
+    <p><em type="italic">Vasta-F: </em>You may formulate your answer freely. Vasta-F has the following levels: </p>
+    <list>
+      <p type="listitem">Level 1: Only present tense and basic case usage, mostly in singular.</p>
+      <p type="listitem">Level 1-2: Also past tense and more cases in plural and also oblique cases.</p>
+      <p type="listitem">Level 1-3: Case inflection of numerals, collective numbers, verbs in conditionalis.</p>
+    </list>
+    <p>The program is still at beta stage. We would like to receive comments and feedback, to the address: (oahpa@uit.no).</p>
+    <p>Link to the Vasta program</p>
+  </body>
+</document>

@@ -1,0 +1,87 @@
+<document xml:lang="eng" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>640</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="eng"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_grundskyddet_engelska.pdf</origFileName>
+    <parallel_text xml:lang="fin" location="folder_grundskyddet_finska.pdf"/>
+    <parallel_text xml:lang="fit" location="folder_grundskyddet_meankieli.pdf"/>
+    <parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/>
+    <parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/>
+    <parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/>
+    <parallel_text xml:lang="swe" location="folder_med_loggor_ny_strecket_cf.pdf"/>
+    <parallel_text location="folder_grundskyddet_romanikelderash.pdf" xml:lang="rmy-rka"/>
+    <parallel_text location="folder_grundskyddet_romaniarli.pdf" xml:lang="rmn"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p><em type="bold">§THE LAW </em></p>
+    <p><em type="bold">The objective of the government’s policy on minorities is to provide protection for the national minorities, to increase their opportunity to exert an influence and to support the historical minority languages so that they are kept alive.</em> </p>
+    <p><em type="bold">GRANTS RIGHTS TO NATIONAL MINORITIESINTERMEDIATE </em></p>
+    <p><em type="bold">GOALS FOR NATIONAL MINORITIES  NATIONAL </em></p>
+    <p><em type="bold">MINORITIES  IN SWEDEN</em> </p>
+    <p><em type="bold"> DISCRIMINATION AND VULNERABILITY</em> </p>
+    <p><em type="bold">Sweden has always been multilingual and multicultural. The Sami, the Swedish Finns, the Tornedalers, the Roma and the Jews have existed in the country for a very long time. Their languages and cultures are a part of Swedish society and our common cultural heritage.</em> </p>
+    <p><em type="bold"> </em>Discrimination, vulnerability and unfair treatment </p>
+    <p>THE SAMI: There are 20 000 - 35 000 Sami in</p>
+    <p>of persons belonging to national minorities is to be combated. They are to have the same opportunities as the rest of the population to participate in the life of society.</p>
+    <p><em type="bold"> </em>The administrative authorities shall, when </p>
+    <p>required and in an appropriate manner,  inform the national minorities about their rights in accordance with this Act.</p>
+    <p>Sweden who speak different varieties of the Sami language. The Sami are also an indigenous people.</p>
+    <p>SWEDISH FINNS::There are 450 000 - 600 000</p>
+    <p><em type="bold"> INFLUENCE AND PARTICIPATION</em> </p>
+    <p>Swedish Finns in Sweden. Many of them live in the Stockholm-Mälardalen region. The minority langu-age is Finnish.</p>
+    <p>The national minorities’ opportunities for influence and participation are to be increased by, for example, the authorities turning to them for advice. The minorities are to be given real influence in issues that affect them.</p>
+    <p>The Language Act (2009:600) states that</p>
+    <p>the public sector has a particular responsibility to protect and promote the national</p>
+    <p><em type="bold"> LANGUAGE AND CULTURAL IDENTITY</em> </p>
+    <p>The languages and cultures of national minorities are to be protected and promoted. Persons belonging to national minorities are to be given the opportunity to learn and use their mother tongue and to develop a cultural identity. The national minority languages are to be living languages in Sweden.</p>
+    <p>The administrative authorities are to provide the national minorities with the opportunity to exert an influence on issues that affect</p>
+    <p>TORNEDALERS: There are approximately 50 000 Tornedalers in Sweden who are primarily resident in Norrbotten. The minority language is called Meänkieli or Tornedal Finnish.</p>
+    <p>ROMA::There are 50 000 - 100 000 Roma in Sweden, living all over the country. The minority language is different varietie of Romany Chib.</p>
+    <p>JEWS:<em type="bold"> </em>There are 20 000 - 25 000 Jews resident in Sweden. </p>
+    <p>The minority  language is Yiddish.</p>
+    <p><em type="bold">AN INFORMATION LEAFLET FROM</em> </p>
+    <p>A selection of languages on the map of Europe</p>
+    <p><em type="bold">NORWAY</em> </p>
+    <p xml:lang="swe"><em type="bold">SWEDEN</em> </p>
+    <p>Sweden’s policy on minorities is rooted in the work on human rights and minority issues performed by the Council of Europe. National minorities and provincial or minority languages are to be found in many countries in Europe. Here is a selection of some countries and languages.</p>
+    <p> Kven  Romany  Sami</p>
+    <p> Sami  Finnish  Meänkieli  Romani chib  Yiddish</p>
+    <p><em type="bold">FINLAND</em> </p>
+    <p> Romanes  Russian  Sami  Swedish  Tatar  Yiddish  Karelian</p>
+    <p><em type="bold">THE UNITED KINGDOM</em> Cornish </p>
+    <p><em type="bold">GERMANY</em> </p>
+    <p> Irish Gaelic  Manx  Scottish Gaelic  Ulster Scots  Welsh<em type="bold">GERMANY</em> </p>
+    <p> Danska  Lågtyska  Lågsorbiska  Nordfrisiska  Romani  Saterfrisiska  Högsorbiska</p>
+    <p>German</p>
+    <p> Danish  Low German  Lower Sorbian  North Frisian  Romany  Saterland Frisian  Upper Sorbian</p>
+    <p><em type="bold">HUNGARY</em> </p>
+    <p> Armenian  Beas  Bulgarian  Croatian  German  Greek  Polish</p>
+    <p>Frisian  Limburgish  Low Saxon  Romanes  Yiddish</p>
+    <p> Romanian  Romany  Ruthenian  Serbian  Slovak  Slovenian  Ukrainian</p>
+    <p><em type="bold">ROMANIA</em> </p>
+    <p><em type="bold">SPAIN</em> </p>
+    <p> Arabic  Aragonese  Aranese  Asturian  Basque  Berber  Catalan  Galician  Portuguese  Valencian</p>
+    <p> Albanian  Armenian  Bulgarian  Croatian  Czech  German  Greek  Hungarian  Italian  Macedonian  Polish  Romani  Russian  Ruthenian  Serbian  Slovak  Tatar  Turkish  Ukrainian  Yiddish</p>
+  </body>
+</document>
