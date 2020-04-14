@@ -1,52 +1,28 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>The Royal Regalia  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>479</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/seksjon.html?tid=28696</origFileName>
-    <parallel_text xml:lang="nob" location="seksjon.html_tid=27628.html"/>
-    <parallel_text xml:lang="sme" location="seksjon.html_tid=75707_sek=74949.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="vep">The King's Crown (Photo: Lasse Berre)</p>
-    <p type="title" xml:lang="nob">The Royal Regalia</p>
-    <p>The royal regalia are symbols of the king's power and majesty, and of the monarchy as a form of government. The word <span type="quote" xml:lang="est">"regalia"</span> is derived from the Latin <span type="quote" xml:lang="isl">"Rex"</span> meaning <span type="quote">"worthy of a king"</span>. The most important function of the regalia was associated with coronations, the formal investiture of the sovereign to his status as king. The first Norwegian king to be crowned was Magnus Erlingsson in 1163.</p>
-    <p>The original Norwegian regalia have been lost. They are mentioned in several sources including Sverres Saga, but the trail of their whereabouts ends in 1537. Legend has it that Norways last Roman Catholic archbishop, Olav Engelbrekston, took the Kings crown and sword of state with him when he fled the country following the Reformation. He died shortly after, and it is not known what became of the regalia.</p>
-    <p>During Norways union with Denmark, coronations of the Dano-Norwegian kings were held in Denmark. Consequently, when Carl Johan was preparing for his coronation in 1818 Norway did not have its own regalia. The king solved this problem by paying for the making of the essential items himself.</p>
-    <p>In 1908 the Storting amended the Constitution, abolishing the Article on coronation. Thus, the last king and queen to be crowned were King Haakon VII and Queen Maud. However, both the Kings Crown and the Queens Crown were placed on the high altar during the Service of Consecration and Blessing for King Harald and Queen Sonja in 1991.</p>
-    <p>The Norwegian royal regalia and other coronation objects are now on permanent display in the Archbishops Palace in Trondheim. The Dano-Norwegian royal regalia from the 1600s are kept at Rosenborg Palace in Copenhagen.</p>
-    <p type="title" xml:lang="vep">The King's Crown</p>
-    <p>The Crown was commissioned by Carl Johan to his own coronation in 1818. It has been used in four coronations and two consecration ceremonies.</p>
-    <p type="title" xml:lang="vep">The Queen's Crown</p>
-    <p>The Queen's Crown was made for Queen Désirée in 1830, although it was first used in 1860 during the coronation of Queen Louise.</p>
-    <p type="title" xml:lang="vep">The Crown Prince's Coronet</p>
-    <p>The Crown Princes Coronet was made in Christiana (Oslo) in 1846 and is the only object of royal regalia produced in Norway.</p>
-    <p type="title" xml:lang="nob">The King's Orb</p>
-    <p>The royal orb symbolises the earth and is a traditional symbol of monarchical power.</p>
-    <p type="title" xml:lang="nob">The Queen's Orb</p>
-    <p>The Queen's Orb was made for the planned coronation of Queen Désirée in 1830.</p>
-    <p type="title" xml:lang="nob">The King's Sceptre</p>
-    <p>The sceptre, an ornamental staff, is a traditional symbol of the kings temporal authority.</p>
-    <p type="title" xml:lang="nob">The Queen's Sceptre</p>
-    <p>The Queen's Sceptre was acquired for the planned coronation of Queen Désirée in 1830.</p>
-    <p type="title">The Anointment Horn</p>
-    <p>The tradition of anointment originated in the Middle East. The ceremony symbolised that the king was Gods chosen representative on earth.</p>
-    <p type="title">The Sword of State</p>
-    <p>The sword of state is a traditional symbol of military power and justice.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>The Royal Regalia  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>474</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/seksjon.html?tid=28696</origFileName><parallel_text xml:lang="nob" location="seksjon.html_tid=27628.html"/><parallel_text xml:lang="sme" location="seksjon.html_tid=75707_sek=74949.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p xml:lang="nob">The King's Crown (Photo: Lasse Berre)</p>
+<p type="title" xml:lang="nob">The Royal Regalia</p>
+<p>The royal regalia are symbols of the king's power and majesty, and of the monarchy as a form of government. The word <span type="quote" xml:lang="est">"regalia"</span> is derived from the Latin <span type="quote" xml:lang="isl">"Rex"</span> meaning <span type="quote">"worthy of a king"</span>. The most important function of the regalia was associated with coronations, the formal investiture of the sovereign to his status as king. The first Norwegian king to be crowned was Magnus Erlingsson in 1163.</p>
+<p>The original Norwegian regalia have been lost. They are mentioned in several sources including Sverres Saga, but the trail of their whereabouts ends in 1537. Legend has it that Norways last Roman Catholic archbishop, Olav Engelbrekston, took the Kings crown and sword of state with him when he fled the country following the Reformation. He died shortly after, and it is not known what became of the regalia.</p>
+<p>During Norways union with Denmark, coronations of the Dano-Norwegian kings were held in Denmark. Consequently, when Carl Johan was preparing for his coronation in 1818 Norway did not have its own regalia. The king solved this problem by paying for the making of the essential items himself.</p>
+<p>In 1908 the Storting amended the Constitution, abolishing the Article on coronation. Thus, the last king and queen to be crowned were King Haakon VII and Queen Maud. However, both the Kings Crown and the Queens Crown were placed on the high altar during the Service of Consecration and Blessing for King Harald and Queen Sonja in 1991.</p>
+<p>The Norwegian royal regalia and other coronation objects are now on permanent display in the Archbishops Palace in Trondheim. The Dano-Norwegian royal regalia from the 1600s are kept at Rosenborg Palace in Copenhagen.</p>
+<p type="title">The King's Crown</p>
+<p>The Crown was commissioned by Carl Johan to his own coronation in 1818. It has been used in four coronations and two consecration ceremonies.</p>
+<p type="title">The Queen's Crown</p>
+<p>The Queen's Crown was made for Queen Désirée in 1830, although it was first used in 1860 during the coronation of Queen Louise.</p>
+<p type="title">The Crown Prince's Coronet</p>
+<p>The Crown Princes Coronet was made in Christiana (Oslo) in 1846 and is the only object of royal regalia produced in Norway.</p>
+<p type="title" xml:lang="nob">The King's Orb</p>
+<p>The royal orb symbolises the earth and is a traditional symbol of monarchical power.</p>
+<p type="title" xml:lang="nob">The Queen's Orb</p>
+<p>The Queen's Orb was made for the planned coronation of Queen Désirée in 1830.</p>
+<p type="title" xml:lang="nob">The King's Sceptre</p>
+<p>The sceptre, an ornamental staff, is a traditional symbol of the kings temporal authority.</p>
+<p type="title" xml:lang="nob">The Queen's Sceptre</p>
+<p>The Queen's Sceptre was acquired for the planned coronation of Queen Désirée in 1830.</p>
+<p type="title">The Anointment Horn</p>
+<p>The tradition of anointment originated in the Middle East. The ceremony symbolised that the king was Gods chosen representative on earth.</p>
+<p type="title">The Sword of State</p>
+<p>The sword of state is a traditional symbol of military power and justice.</p>
+</body></document>

@@ -1,51 +1,27 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Anaras - Culture - Handicrafts</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Ella" lastname="Sarre" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <wordcount>636</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/english/kulttuuri/kasityo.html</origFileName>
-    <parallel_text xml:lang="fin" location="kasityo.html"/>
-    <parallel_text xml:lang="smn" location="kasityo.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="isl">Handicrafts</p>
-    <p xml:lang="sme">Sámi Costume</p>
-    <p>Music</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>The handicraft culture is strongly connected to Inari Sámi traditions. Its most discernable characteristics are the language and the Inari costume found around Lake Inari. The same basis is found in the background of all northern peoples: Arctic nature and the essential need for development. It was imperative to experiment, develop; and behind all of this there have always been the people.</p>
-    <p>The kinds of articles that the Inari Sámis needed, due to the demands of their way of life, were all manufactured at home. These things had to be strong, practical and pleasing to the aesthetic eye of the user. Men did the so-called men’s work that had to do with making a living. Lake Inari and the waters connected to and around it, the lakes and ponds, all demanded skill in boat making. Traveling in winter required Lappish sledges and sleds as well as collars for the reindeer. There was always someone in the family who possessed the skill of making things from wood. Even reindeer antlers provided a practical material from which were made, for example, <span type="quote" xml:lang="smn">“kielas”</span>, i.e. loops of bone needed for lassos, and spoons, as well as lease sticks and tatting shuttles for the womenfolk.</p>
-    <p>The Inari Sámis have not owned so many reindeer but the reindeer has always been the main requirement for life. It can be driven, provide food and reindeer skins are used for making clothing. The winter costume drew on the versatile use of reindeer skins from which both men’s and women’s clothing was made. Tanned leather was a versatile handicraft material needed for harnesses, bags and pouches, as well as for clothing.</p>
-    <p>Way of Life Affects Dress Culture</p>
-    <p>Fishing has been an integral part of the Inari lifestyle both in winter and spring dwelling places. Crafts have followed the year-to-year changes. Small-scale agriculture and cattle husbandry, cows and sheep, have brought diversity to the nutrition of the family. Cattle leather was needed for the soles of shoes and reindeer’s straps, and wool was spun into yarn. Sheep skins were made into blankets, and the meat was used for food. Trade with Norway brought, as well as food stuffs, also seal leather for the soles of shoes, straps and bags, and other handicraft materials such as felt and frieze for making Sámi costumes.</p>
-    <p>Women have participated as much as was possible in all forms of work. The task of the wife was to keep the home and family warm and they clothed the family. Sometimes products were made for neighbors and for people even further away. The reputation of the artisan usually traveled along with the product.</p>
-    <p>The development of the dress culture is connected to the way of life. The women’s skills and their sense of aesthetics were necessary for the development of clothing. The type of decoration practiced was dependent on the materials available. The humble way of life of the Inari Sámi was reflected as well in their dress; there were not always means available accept for the most essential festive costumes.</p>
-    <p>The Sami Dress Mirrors Today</p>
-    <p>The abundance of materials, affluence and easier availability are seen in the present way of dressing of the Inari Sámi people as well. Traditional dress materials are used along with new contemporary fabrics and other sewing necessities.</p>
-    <p>The procession of decades has brought influences from various parts of the Sámi region to this area. People have moved to Inari from other Sámi areas. Inhabitants of Enontekiö, Utsjoki and Skolt Sámis have all brought their clothing culture. Mixed marriages have had their own influence in the development of clothing.</p>
-    <p xml:lang="sms"><em type="italic">Ella Sarre </em> </p>
-    <p xml:lang="nob">Artisans:</p>
-    <p xml:lang="sms"><em type="bold">Ella Sarre </em></p>
-    <p xml:lang="nob"><em type="bold">Nili-Aili </em></p>
-    <p xml:lang="smn"><em type="bold">Veikko Paltto </em></p>
-    <p>Ensi Aikio’s  sisna-leather medicine pouches on the left; coffee and sugar pouches on the  right.</p>
-    <p>Back to Top</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Anaras - Culture - Handicrafts</title><genre code="facta"/><author><person firstname="Ella" lastname="Sarre" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>636</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/english/kulttuuri/kasityo.html</origFileName><parallel_text xml:lang="fin" location="kasityo.html"/><parallel_text xml:lang="smn" location="kasityo.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="deu">Handicrafts</p>
+<p xml:lang="sme">Sámi Costume</p>
+<p>Music</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>The handicraft culture is strongly connected to Inari Sámi traditions. Its most discernable characteristics are the language and the Inari costume found around Lake Inari. The same basis is found in the background of all northern peoples: Arctic nature and the essential need for development. It was imperative to experiment, develop; and behind all of this there have always been the people.</p>
+<p>The kinds of articles that the Inari Sámis needed, due to the demands of their way of life, were all manufactured at home. These things had to be strong, practical and pleasing to the aesthetic eye of the user. Men did the so-called men’s work that had to do with making a living. Lake Inari and the waters connected to and around it, the lakes and ponds, all demanded skill in boat making. Traveling in winter required Lappish sledges and sleds as well as collars for the reindeer. There was always someone in the family who possessed the skill of making things from wood. Even reindeer antlers provided a practical material from which were made, for example, <span type="quote" xml:lang="smn">“kielas”</span>, i.e. loops of bone needed for lassos, and spoons, as well as lease sticks and tatting shuttles for the womenfolk.</p>
+<p>The Inari Sámis have not owned so many reindeer but the reindeer has always been the main requirement for life. It can be driven, provide food and reindeer skins are used for making clothing. The winter costume drew on the versatile use of reindeer skins from which both men’s and women’s clothing was made. Tanned leather was a versatile handicraft material needed for harnesses, bags and pouches, as well as for clothing.</p>
+<p>Way of Life Affects Dress Culture</p>
+<p>Fishing has been an integral part of the Inari lifestyle both in winter and spring dwelling places. Crafts have followed the year-to-year changes. Small-scale agriculture and cattle husbandry, cows and sheep, have brought diversity to the nutrition of the family. Cattle leather was needed for the soles of shoes and reindeer’s straps, and wool was spun into yarn. Sheep skins were made into blankets, and the meat was used for food. Trade with Norway brought, as well as food stuffs, also seal leather for the soles of shoes, straps and bags, and other handicraft materials such as felt and frieze for making Sámi costumes.</p>
+<p>Women have participated as much as was possible in all forms of work. The task of the wife was to keep the home and family warm and they clothed the family. Sometimes products were made for neighbors and for people even further away. The reputation of the artisan usually traveled along with the product.</p>
+<p>The development of the dress culture is connected to the way of life. The women’s skills and their sense of aesthetics were necessary for the development of clothing. The type of decoration practiced was dependent on the materials available. The humble way of life of the Inari Sámi was reflected as well in their dress; there were not always means available accept for the most essential festive costumes.</p>
+<p>The Sami Dress Mirrors Today</p>
+<p>The abundance of materials, affluence and easier availability are seen in the present way of dressing of the Inari Sámi people as well. Traditional dress materials are used along with new contemporary fabrics and other sewing necessities.</p>
+<p>The procession of decades has brought influences from various parts of the Sámi region to this area. People have moved to Inari from other Sámi areas. Inhabitants of Enontekiö, Utsjoki and Skolt Sámis have all brought their clothing culture. Mixed marriages have had their own influence in the development of clothing.</p>
+<p xml:lang="sms"><em type="italic">Ella Sarre </em> </p>
+<p xml:lang="nob">Artisans:</p>
+<p xml:lang="sms"><em type="bold">Ella Sarre </em></p>
+<p xml:lang="nob"><em type="bold">Nili-Aili </em></p>
+<p xml:lang="smn"><em type="bold">Veikko Paltto </em></p>
+<p>Ensi Aikio’s  sisna-leather medicine pouches on the left; coffee and sugar pouches on the  right.</p>
+<p>Back to Top</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

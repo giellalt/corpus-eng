@@ -1,57 +1,35 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2005</year>
-    <wordcount>692</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://skuvla.info/skolehist/hans-e.htm</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>The story about the school days of Hans Hansen</p>
-    <p xml:lang="nno">På norsk</p>
-    <p xml:lang="sme">Sámegillii</p>
-    <p>Article in the book Sami school history 1 . Davvi Girji 2005.</p>
-    <p type="title" xml:lang="nob">Hanna H. Hansen:</p>
-    <p type="title">The story of Hans Hansen’s schooldays.</p>
-    <p type="title">English translation: Anja Tiller</p>
-    <p><em type="bold">Hans Hansen as a representative at a national conference for <span type="quote" xml:lang="nno">“Norske Samers Riksforbund”</span>, Kåfjord 1986. </em>(Photo: Svein Lund) </p>
-    <p><em type="bold">Hans Hansen (1916–1994) from Gåradak in Porsanger in Finnmark was a smallholder and a fisherman. During the period of the most wide-ranging norwegianisation policy he was one of a few in Porsanger that protected Sami identity, language and culture. He was active in Sami organisation work and known for the many newspaper articles that he signed <span type="quote" xml:lang="nob">“Sami Greeting from Hans Hansen”</span>. </em></p>
-    <p>Hanna Hansen is a freelance journalist and photographer living in Gåradak in Porsanger. In 1967-87 she made interviews with Hans Hansen about how he experienced his years at school.</p>
-    <p>Long before I started at school I knew we were not as good and wise as those in shirt, topcoat and shoes</p>
-    <p>My father followed me the first day I attended school We walked those five kilometres along the country road I was dressed in a <span type="quote" xml:lang="swe">"kofte"</span> [Traditional Sami costume] Most of us were in those days. We received the bible history and catechism to bring home – in Norwegian.</p>
-    <p>I had heard the bailiff and the tax collector speak Norwegian. I did not know more about the Norwegian language before I started in school.</p>
-    <p>Our teacher spoke Sami and Finnish. He had been taught that at school in Lakselv. When he attended school they had bilingual textbooks. Sami and Norwegian. He spoke Sami with us both outside and inside school but had to teach us to read in Norwegian.</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nob"><em type="bold">Kolvik School 1929 </em></p>
-    <p xml:lang="nno">(Source: Porsanger bygdebok 2 - p. 135)</p>
-    <p>We learnt twenty-nine letters from the Norwegian alphabet. To put letters together into words was difficult. We learnt about numbers. <span type="quote" xml:lang="nob">"Fire"</span> (4) and <span type="quote" xml:lang="isl">"fem"</span> (5) the teacher said. It was difficult to understand the meaning. The teacher said it meant <span type="quote" xml:lang="sme">“njeallje”</span> and <span type="quote" xml:lang="sme">“vihtta”</span>. Then we understood.</p>
-    <p>We wrote with slate pencils on stone boards. Spat on the board and erased it with the costume sleeve. We did not understand what we wrote.</p>
-    <p>Read many books – Norwegian books on geography and natural science. We understood the teacher’s questions, but could not answer. Could not speak or explain.</p>
-    <p>Some children did not understand anything. They were punished. Had to stand during the whole lesson.</p>
-    <p>I was lucky, The teacher spoke Sami to explain to me. He may have understood that I had talents for learning, even if I did not understand the language. Ninety-two weeks I had attended school. In forty-six of those weeks I did not understand much of what the teacher said.</p>
-    <p>Additional education was for the few. Some started at school of agriculture and some started at folk high school.</p>
-    <p xml:lang="nob"><em type="bold">From Porsanger </em></p>
-    <p xml:lang="nob">(Photo: Hanna H. Hansen)</p>
-    <p>The rest of us continued our lives as before. What we carried with us from school was feelings of inferiority. Everywhere in society they spoke Norwegian. It was difficult for us. We could not express ourselves. At the same time we had to obey authority that spoke with us in Norwegian.</p>
-    <p>When we could not take it anymore They told us to be objective and self-controlled. It was not easy to understand the meaning of that. Gradually I understood that they were asking from us what they were lacking themselves: impartiality and self-control. From that moment I did not feel inferior anymore.</p>
-    <p>They can hold positions, military grades and stars. That does not make a difference to me. I speak to people, not to positions or stars.</p>
-    <p xml:lang="nob"><em type="bold">Hans Hansen is mending nets. </em></p>
-    <p xml:lang="nob">(Photo: Arvid Petterson /Porsanger bygdebok)</p>
-    <p>People down south are not the worst. The worst are among our own. Many came from other places. They could hide their Sami origin here, a solution for those who spoke a little Norwegian. In that way they got into better positions.</p>
-    <p>I have never tried to hide myself. Have had no brains for that.</p>
-    <p>Those who cut their own roots do not grow anymore.</p>
-    <p>More articles from Sami school history 1</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><year>2005</year><wordcount>692</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://skuvla.info/skolehist/hans-e.htm</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 32948 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>The story about the school days of Hans Hansen</p>
+<p xml:lang="nno">På norsk</p>
+<p xml:lang="sme">Sámegillii</p>
+<p>Article in the book Sami school history 1 . Davvi Girji 2005.</p>
+<p type="title" xml:lang="nob">Hanna H. Hansen:</p>
+<p type="title">The story of Hans Hansen’s schooldays.</p>
+<p type="title">English translation: Anja Tiller</p>
+<p><em type="bold">Hans Hansen as a representative at a national conference for <span type="quote" xml:lang="nno">“Norske Samers Riksforbund”</span>, Kåfjord 1986. </em>(Photo: Svein Lund) </p>
+<p><em type="bold">Hans Hansen (1916–1994) from Gåradak in Porsanger in Finnmark was a smallholder and a fisherman. During the period of the most wide-ranging norwegianisation policy he was one of a few in Porsanger that protected Sami identity, language and culture. He was active in Sami organisation work and known for the many newspaper articles that he signed <span type="quote" xml:lang="nob">“Sami Greeting from Hans Hansen”</span>. </em></p>
+<p>Hanna Hansen is a freelance journalist and photographer living in Gåradak in Porsanger. In 1967-87 she made interviews with Hans Hansen about how he experienced his years at school.</p>
+<p>Long before I started at school I knew we were not as good and wise as those in shirt, topcoat and shoes</p>
+<p>My father followed me the first day I attended school We walked those five kilometres along the country road I was dressed in a <span type="quote" xml:lang="swe">"kofte"</span> [Traditional Sami costume] Most of us were in those days. We received the bible history and catechism to bring home – in Norwegian.</p>
+<p>I had heard the bailiff and the tax collector speak Norwegian. I did not know more about the Norwegian language before I started in school.</p>
+<p>Our teacher spoke Sami and Finnish. He had been taught that at school in Lakselv. When he attended school they had bilingual textbooks. Sami and Norwegian. He spoke Sami with us both outside and inside school but had to teach us to read in Norwegian.</p>
+<p xml:lang="swe"></p>
+<p xml:lang="nob"><em type="bold">Kolvik School 1929 </em></p>
+<p xml:lang="nno">(Source: Porsanger bygdebok 2 - p. 135)</p>
+<p>We learnt twenty-nine letters from the Norwegian alphabet. To put letters together into words was difficult. We learnt about numbers. <span type="quote" xml:lang="nob">"Fire"</span> (4) and <span type="quote" xml:lang="isl">"fem"</span> (5) the teacher said. It was difficult to understand the meaning. The teacher said it meant <span type="quote" xml:lang="sme">“njeallje”</span> and <span type="quote" xml:lang="sme">“vihtta”</span>. Then we understood.</p>
+<p>We wrote with slate pencils on stone boards. Spat on the board and erased it with the costume sleeve. We did not understand what we wrote.</p>
+<p>Read many books – Norwegian books on geography and natural science. We understood the teacher’s questions, but could not answer. Could not speak or explain.</p>
+<p>Some children did not understand anything. They were punished. Had to stand during the whole lesson.</p>
+<p>I was lucky, The teacher spoke Sami to explain to me. He may have understood that I had talents for learning, even if I did not understand the language. Ninety-two weeks I had attended school. In forty-six of those weeks I did not understand much of what the teacher said.</p>
+<p>Additional education was for the few. Some started at school of agriculture and some started at folk high school.</p>
+<p xml:lang="nob"><em type="bold">From Porsanger </em></p>
+<p xml:lang="nob">(Photo: Hanna H. Hansen)</p>
+<p>The rest of us continued our lives as before. What we carried with us from school was feelings of inferiority. Everywhere in society they spoke Norwegian. It was difficult for us. We could not express ourselves. At the same time we had to obey authority that spoke with us in Norwegian.</p>
+<p>When we could not take it anymore They told us to be objective and self-controlled. It was not easy to understand the meaning of that. Gradually I understood that they were asking from us what they were lacking themselves: impartiality and self-control. From that moment I did not feel inferior anymore.</p>
+<p>They can hold positions, military grades and stars. That does not make a difference to me. I speak to people, not to positions or stars.</p>
+<p xml:lang="nob"><em type="bold">Hans Hansen is mending nets. </em></p>
+<p xml:lang="nob">(Photo: Arvid Petterson /Porsanger bygdebok)</p>
+<p>People down south are not the worst. The worst are among our own. Many came from other places. They could hide their Sami origin here, a solution for those who spoke a little Norwegian. In that way they got into better positions.</p>
+<p>I have never tried to hide myself. Have had no brains for that.</p>
+<p>Those who cut their own roots do not grow anymore.</p>
+<p>More articles from Sami school history 1</p>
+</body></document>

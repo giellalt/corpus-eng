@@ -1,47 +1,25 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Janne" lastname="Hansen" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2016</year>
-    <wordcount>415</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://galdu.custompublish.com/indigenous-women-in-particular-experience-violence-and-other-human-rights-abuses.5852426-353621.html</origFileName>
-    <parallel_text xml:lang="nob" location="urfolkskvinner-er-saerlig-utsatte-for-vold-og-andre-brudd-paa-menneskerettighetene.5841485-353621.html"/>
-    <parallel_text xml:lang="sme" location="algoalbmotnissoniin-eambbo-riska-gillat-veahkavalddi-ja-eara-olmmovuoigatvuoarihkkumiid-go-earain.5852444-353621.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Indigenous women in particular experience violence and other human rights abuses - GÃ¡ldu</p>
-    <p xml:lang="nob">Hopp til hovedinnholdet på siden</p>
-    <p type="title" xml:lang="est">Tema</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Menneske <list><p type="listitem" xml:lang="nob">Barn</p><p type="listitem" xml:lang="nno">Eldre</p><p type="listitem" xml:lang="deu">Familie</p><p type="listitem" xml:lang="nob">Funksjonshemmede</p><p type="listitem" xml:lang="nob">Kvinner</p><p type="listitem" xml:lang="nno">Ungdom</p></list></p>
-      <p type="listitem" xml:lang="isl">Natur</p>
-      <p type="listitem" xml:lang="nob">Samfunn</p>
-    </list>
-    <p xml:lang="kal">Victoria Tauli Corpuz GUSTAVO AMADOR</p>
-    <p type="title">Indigenous women in particular experience violence and other human rights abuses</p>
-    <p>The International Women's Day is celebrated on Tuesday 8 March. This is an important day to honour when we know that indigenous women and girls in particular suffer violence and other human rights violations. This information is presented in a report prepared by the United Nation’s Special Rapporteur on the rights of indigenous peoples, Victoria Tauli-Corpuz, in 2015.</p>
-    <p>The mandate of the UN’s Special Rapporteur on the rights of indigenous peoples includes a special emphasis on the situation of indigenous women and children. The previous Special Rapporteur James Anaya highlighted violence against women and girls, committed by both indigenous men and others, as two important issues in terms of human rights violations that affect indigenous peoples. Special Rapporteur Victoria Tauli-Corpuz has studied the global situation of indigenous women and girls and presented a report on this topic in the autumn of 2015. The conclusion is that indigenous women in particular experience violence and several other human rights violations.</p>
-    <p>In February 2016, there were two examples where violations of the human rights of indigenous women were taken seriously. In Guatemala, the courts agreed that indigenous women had suffered serious human rights violations in the Sepur Zarco military camp during the period 1982 to 1988. A former officer and a military commissioner were convicted of systematic sexual violence, torture, slavery, disappearances and murder. In Canada, the government announced that it has initiated a process to investigate the disappearance or murder of 1200 indigenous women and girls over the course of the last thirty years.</p>
-    <p>
-      <em type="italic">The United Nation’s Commission on the Status of Women </em>
-    </p>
-    <p>The Commission on the Status of Women will conduct its annual meeting on 14–24 March 2016 in New York. This is an important international forum for discussion of women’s rights and gender equality. All forms of violence against women and girls will be a key topic at the meeting, and the Commission on the Status of Women has also addressed the situation of indigenous women in terms of violence against women and girls.</p>
-    <p>Norway has submitted its last report to the UN’s Commission on the Status of Women in 2010. A new report will be submitted in 2016. (link in norwegian)</p>
-    <p xml:lang="nob">Av</p>
-    <p xml:lang="nno">Janne Hansen</p>
-    <p xml:lang="nno">Publisert 04.03.16</p>
-    <p xml:lang="nno">| Oppdatert 10.03.16</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Janne" lastname="Hansen" sex="unknown" born="" nationality=""/></author><year>2016</year><wordcount>415</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://galdu.custompublish.com/indigenous-women-in-particular-experience-violence-and-other-human-rights-abuses.5852426-353621.html</origFileName><parallel_text xml:lang="nob" location="urfolkskvinner-er-saerlig-utsatte-for-vold-og-andre-brudd-paa-menneskerettighetene.5841485-353621.html"/><parallel_text xml:lang="sme" location="algoalbmotnissoniin-eambbo-riska-gillat-veahkavalddi-ja-eara-olmmovuoigatvuoarihkkumiid-go-earain.5852444-353621.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Indigenous women in particular experience violence and other human rights abuses - GÃ¡ldu</p>
+<p xml:lang="nob">Hopp til hovedinnholdet på siden</p>
+<p type="title" xml:lang="est">Tema</p>
+<list><p type="listitem" xml:lang="nno">Menneske <list><p type="listitem" xml:lang="nob">Barn</p>
+<p type="listitem" xml:lang="nno">Eldre</p>
+<p type="listitem" xml:lang="deu">Familie</p>
+<p type="listitem" xml:lang="nob">Funksjonshemmede</p>
+<p type="listitem" xml:lang="nob">Kvinner</p>
+<p type="listitem" xml:lang="nno">Ungdom</p>
+</list></p>
+<p type="listitem" xml:lang="isl">Natur</p>
+<p type="listitem" xml:lang="nob">Samfunn</p>
+</list><p xml:lang="kal">Victoria Tauli Corpuz GUSTAVO AMADOR</p>
+<p type="title">Indigenous women in particular experience violence and other human rights abuses</p>
+<p>The International Women's Day is celebrated on Tuesday 8 March. This is an important day to honour when we know that indigenous women and girls in particular suffer violence and other human rights violations. This information is presented in a report prepared by the United Nation’s Special Rapporteur on the rights of indigenous peoples, Victoria Tauli-Corpuz, in 2015.</p>
+<p>The mandate of the UN’s Special Rapporteur on the rights of indigenous peoples includes a special emphasis on the situation of indigenous women and children. The previous Special Rapporteur James Anaya highlighted violence against women and girls, committed by both indigenous men and others, as two important issues in terms of human rights violations that affect indigenous peoples. Special Rapporteur Victoria Tauli-Corpuz has studied the global situation of indigenous women and girls and presented a report on this topic in the autumn of 2015. The conclusion is that indigenous women in particular experience violence and several other human rights violations.</p>
+<p>In February 2016, there were two examples where violations of the human rights of indigenous women were taken seriously. In Guatemala, the courts agreed that indigenous women had suffered serious human rights violations in the Sepur Zarco military camp during the period 1982 to 1988. A former officer and a military commissioner were convicted of systematic sexual violence, torture, slavery, disappearances and murder. In Canada, the government announced that it has initiated a process to investigate the disappearance or murder of 1200 indigenous women and girls over the course of the last thirty years.</p>
+<p><em type="italic">The United Nation’s Commission on the Status of Women </em></p>
+<p>The Commission on the Status of Women will conduct its annual meeting on 14–24 March 2016 in New York. This is an important international forum for discussion of women’s rights and gender equality. All forms of violence against women and girls will be a key topic at the meeting, and the Commission on the Status of Women has also addressed the situation of indigenous women in terms of violence against women and girls.</p>
+<p>Norway has submitted its last report to the UN’s Commission on the Status of Women in 2010. A new report will be submitted in 2016. (link in norwegian)</p>
+<p xml:lang="nob">Av</p>
+<p xml:lang="nno">Janne Hansen</p>
+<p xml:lang="nno">Publisert 04.03.16</p>
+<p xml:lang="nno">| Oppdatert 10.03.16</p>
+</body></document>

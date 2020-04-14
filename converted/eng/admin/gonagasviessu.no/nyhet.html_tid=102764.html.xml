@@ -1,39 +1,13 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Princess Ragnhild has died  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>125</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=102764</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=100179.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=102765_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Princess Ragnhild has died</p>
-    <p>His Majesty The King was deeply saddened to receive the news that Her Highness Princess Ragnhild, Mrs Lorentzen has passed away. The princess died in her home in Rio de Janeiro in Brazil on 16 September 2012 at 9:45 am local time</p>
-    <p xml:lang="koi">16.09.2012</p>
-    <p>The funeral service will be held in the Palace Chapel. The date and time have not yet been determined. Princess Ragnhild will be laid to rest at Asker Church.</p>
-    <p>The Princess was born on 9 June 1930 at the Royal Palace in Oslo, and was the eldest child of King Olav and Crown Princess Märtha.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">Her Highness Princess Ragnhild (Subject entry page)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Princess Ragnhild has died  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>120</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=102764</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=100179.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=102765_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Princess Ragnhild has died</p>
+<p>His Majesty The King was deeply saddened to receive the news that Her Highness Princess Ragnhild, Mrs Lorentzen has passed away. The princess died in her home in Rio de Janeiro in Brazil on 16 September 2012 at 9:45 am local time</p>
+<p xml:lang="vep">16.09.2012</p>
+<p>The funeral service will be held in the Palace Chapel. The date and time have not yet been determined. Princess Ragnhild will be laid to rest at Asker Church.</p>
+<p>The Princess was born on 9 June 1930 at the Royal Palace in Oslo, and was the eldest child of King Olav and Crown Princess Märtha.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">Her Highness Princess Ragnhild (Subject entry page)</p>
+</list></body></document>

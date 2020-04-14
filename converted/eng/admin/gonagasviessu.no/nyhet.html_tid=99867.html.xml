@@ -1,55 +1,27 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Concluded in Oslo   - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>423</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=99867</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=99866.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=99868_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Concluded in Oslo</p>
-    <p>Their Royal Highnesses The Prince of Wales and The Duchess of Cornwall concluded their official visit to Norway today with a visit to the exhibition <span type="quote" xml:lang="kal">“Royal Journeys 1905-2005”</span>, accompanied by Their Majesties King Harald and Queen Sonja.</p>
-    <p xml:lang="koi">22.03.2012</p>
-    <p>The Prince of Wales began the day with meetings with representatives of Norwegian trade and industry at the Residence of Her Britannic Majesty’s Ambassador, while Queen Sonja and the Duchess of Cornwall visited the Cancer Clinic at Oslo University Hospital.</p>
-    <p type="title" xml:lang="ron">Cancer care</p>
-    <p>The Queen and the Duchess were given a guided tour of the clinic’s facilities at Ullevål, including the radiotherapy suites and activity centre, as well as an introduction to the clinic’s activities.</p>
-    <p>The Duchess of Cornwall is deeply committed to the cancer cause and holds the position of President of Maggie’s Cancer Caring Centres. Maggie’s works to create a network of cancer caring centres that provide advice and support programmes for patients and their families and friends, both during and after the various stages of illness.</p>
-    <p>Maggie’s strives to combine exceptional support with exceptional building design at its centres, and has commissioned the Norwegian architecture firm Snøhetta to design the new Maggie’s Centre in Aberdeen. The Queen and the Duchess concluded their visit at the hospital with a meeting with Snøhetta architects to discuss the Anglo-Norwegian cooperation.</p>
-    <p type="title" xml:lang="kal">Royal Journeys</p>
-    <p>The Prince of Wales and the Duchess of Cornwall concluded their official visit at the National Museum of Art, Architecture and Design in Oslo. Accompanied by King Harald and Queen Sonja, the Prince and Duchess viewed the exhibition entitled <span type="quote" xml:lang="kal">“Royal Journeys 1905-2005”</span>, which is part of the Norwegian Government’s gift to the King and Queen in honour of their 75th birthdays in 2012.</p>
-    <p>Today’s visit naturally focused on the British components of the exhibition, which highlight the close ties between the British Royal Family and the Norwegian Royal Family. The exhibition presents journeys made by Queen Maud, formerly Princess of Wales, as well as the time spent in London by King Haakon and Crown Prince Olav during the Second World War, where they led the Norwegian government in exile.</p>
-    <p>The Prince of Wales and the Duchess of Cornwall will now travel to Sweden and Denmark in continuation of their tour of Scandinavia.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">Visit from the United Kingdom (News article)</p>
-      <p type="listitem" xml:lang="nno">Visited Bergen (News article)</p>
-      <p type="listitem">United Kingdom 2012 (Photo album)</p>
-    </list>
-    <list>
-      <p type="listitem">The British Monarchy</p>
-      <p type="listitem">The Prince of Wales</p>
-      <p type="listitem">The Royal Journey</p>
-      <p type="listitem">Maggie Centres</p>
-      <p type="listitem">The Snøhetta project in Aberdeen</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Concluded in Oslo   - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>418</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=99867</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=99866.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=99868_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Concluded in Oslo</p>
+<p>Their Royal Highnesses The Prince of Wales and The Duchess of Cornwall concluded their official visit to Norway today with a visit to the exhibition <span type="quote" xml:lang="kal">“Royal Journeys 1905-2005”</span>, accompanied by Their Majesties King Harald and Queen Sonja.</p>
+<p xml:lang="vep">22.03.2012</p>
+<p>The Prince of Wales began the day with meetings with representatives of Norwegian trade and industry at the Residence of Her Britannic Majesty’s Ambassador, while Queen Sonja and the Duchess of Cornwall visited the Cancer Clinic at Oslo University Hospital.</p>
+<p type="title" xml:lang="ron">Cancer care</p>
+<p>The Queen and the Duchess were given a guided tour of the clinic’s facilities at Ullevål, including the radiotherapy suites and activity centre, as well as an introduction to the clinic’s activities.</p>
+<p>The Duchess of Cornwall is deeply committed to the cancer cause and holds the position of President of Maggie’s Cancer Caring Centres. Maggie’s works to create a network of cancer caring centres that provide advice and support programmes for patients and their families and friends, both during and after the various stages of illness.</p>
+<p>Maggie’s strives to combine exceptional support with exceptional building design at its centres, and has commissioned the Norwegian architecture firm Snøhetta to design the new Maggie’s Centre in Aberdeen. The Queen and the Duchess concluded their visit at the hospital with a meeting with Snøhetta architects to discuss the Anglo-Norwegian cooperation.</p>
+<p type="title" xml:lang="kal">Royal Journeys</p>
+<p>The Prince of Wales and the Duchess of Cornwall concluded their official visit at the National Museum of Art, Architecture and Design in Oslo. Accompanied by King Harald and Queen Sonja, the Prince and Duchess viewed the exhibition entitled <span type="quote" xml:lang="kal">“Royal Journeys 1905-2005”</span>, which is part of the Norwegian Government’s gift to the King and Queen in honour of their 75th birthdays in 2012.</p>
+<p>Today’s visit naturally focused on the British components of the exhibition, which highlight the close ties between the British Royal Family and the Norwegian Royal Family. The exhibition presents journeys made by Queen Maud, formerly Princess of Wales, as well as the time spent in London by King Haakon and Crown Prince Olav during the Second World War, where they led the Norwegian government in exile.</p>
+<p>The Prince of Wales and the Duchess of Cornwall will now travel to Sweden and Denmark in continuation of their tour of Scandinavia.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">Visit from the United Kingdom (News article)</p>
+<p type="listitem" xml:lang="nno">Visited Bergen (News article)</p>
+<p type="listitem">United Kingdom 2012 (Photo album)</p>
+</list><list><p type="listitem">The British Monarchy</p>
+<p type="listitem">The Prince of Wales</p>
+<p type="listitem">The Royal Journey</p>
+<p type="listitem">Maggie Centres</p>
+<p type="listitem">The Snøhetta project in Aberdeen</p>
+</list></body></document>

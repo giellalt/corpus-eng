@@ -1,37 +1,14 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Fifty Shades Darker | Sámi allaskuvla</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>43</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/en/a/fifty-shades-darker</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p xml:lang="isl">Činu</p>
-    <p xml:lang="sme">19. guovvamánu, 20:15  - 22:15</p>
-    <p type="title">Fifty Shades Darker</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><span>Filbma lea eŋgelasgillii. </span></p>
-      <p type="listitem" xml:lang="sme"><span>Ahkemearri lea 15 jagi. </span></p>
-    </list>
-    <p xml:lang="sme">Fifty Shades Darker lea nubbi filbma mii čuovvola girjji seamma namas Fifty shades-ráiddus. Čálli lea E. L. James.</p>
-    <p xml:lang="sme">Eanet dieđut gávnnat dáppe, Bygdekinoen siiddus (dárogillii).</p>
-    <p type="title" xml:lang="sme">Bures boahtin!</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Fifty Shades Darker | Sámi allaskuvla</title><genre code="admin"/><author><unknown/></author><wordcount>43</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/en/a/fifty-shades-darker</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p xml:lang="isl">Činu</p>
+<p xml:lang="sme">19. guovvamánu, 20:15  - 22:15</p>
+<p type="title">Fifty Shades Darker</p>
+<list><p type="listitem" xml:lang="sme"><span>Filbma lea eŋgelasgillii. </span></p>
+<p type="listitem" xml:lang="sme"><span>Ahkemearri lea 15 jagi. </span></p>
+</list><p xml:lang="sme">Fifty Shades Darker lea nubbi filbma mii čuovvola girjji seamma namas Fifty shades-ráiddus. Čálli lea E. L. James.</p>
+<p xml:lang="sme">Eanet dieđut gávnnat dáppe, Bygdekinoen siiddus (dárogillii).</p>
+<p type="title" xml:lang="sme">Bures boahtin!</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+</body></document>

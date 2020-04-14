@@ -1,132 +1,104 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Departure from the Veskoniemi Boat Harbour - Nationalparks.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1036</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.nationalparks.fi/en/inarijarvi/routedescriptions/veskoniemiharbour</origFileName>
-    <parallel_text xml:lang="fin" location="veskoniemenvenesatama.html"/>
-    <parallel_text xml:lang="sme" location="veskonjarggafanash.html"/>
-    <parallel_text xml:lang="smn" location="viaskoonjaargakarbishaamman.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Skip to Content</p>
-    <p>Open Menu</p>
-    <list>
-      <p type="listitem">Suomeksi</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Water Routes on Lake Inarijärvi</p>
-    <list>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Level of Difficulty</p>
-      <p type="listitem">Route Descriptions <list><p type="listitem">Departure from Partakko</p><p type="listitem">Departure from the Nanguniemi Boat Harbour</p><p type="listitem">Departure from the Nellim Boat Harbour</p><p type="listitem">Departure from the Inari Boat Harbour</p><p type="listitem">Departure from the Veskoniemi Boat Harbour</p></list> </p>
-      <p type="listitem">Services</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p type="title">Destinations</p>
-    <list>
-      <p type="listitem">Top Natural Attractions</p>
-      <p type="listitem">National Parks</p>
-      <p type="listitem">World Heritage Sites</p>
-      <p type="listitem">National Hiking Areas</p>
-      <p type="listitem">Wilderness Areas</p>
-      <p type="listitem">Other Nature Sites</p>
-      <p type="listitem">Hiking Trails</p>
-      <p type="listitem">Huts</p>
-      <p type="listitem">Historical Sites</p>
-      <p type="listitem">Nature Centres</p>
-      <p type="listitem">Accessible Destinations</p>
-    </list>
-    <list>
-      <p type="listitem">Herajärvi Trail 30 - 61 km</p>
-      <p type="listitem">Hetta - Pallas Trail 55 km</p>
-      <p type="listitem">Hossa Canoeing Routes</p>
-      <p type="listitem">Inari Area Water Routes - Ivalon Matti</p>
-      <p type="listitem">Inari Area Water Routes - Lemmenjoki</p>
-      <p type="listitem">Itäraja Summer Hiking Route</p>
-      <p type="listitem">Karhunkierros 82 km</p>
-      <p type="listitem">Kevo Trail 63 km</p>
-      <p type="listitem">Nordkalottleden Trail 800 km</p>
-      <p type="listitem">Nuortti Hiking Trail 40 km</p>
-      <p type="listitem">Peura Trail 115 km</p>
-      <p type="listitem">Pieni Karhunkierros 12 km</p>
-      <p type="listitem">Piilola Trail 35 km</p>
-      <p type="listitem">Poronpolku Trail 30 km</p>
-      <p type="listitem">Pyhä-Luosto Trail 45 km</p>
-      <p type="listitem">Ruijanpolku Trail 35 km</p>
-      <p type="listitem">Ruostejärvi - Liesjärvi National Park Trail 24 km</p>
-      <p type="listitem">Ruostejärvi - Saari Trail 14 km</p>
-      <p type="listitem">Sevettijärvi - Pulmanki Trail 60 - 70 km</p>
-      <p type="listitem">Taitajan taival Trail 31 km</p>
-      <p type="listitem">Tapion taival Trail 20 km</p>
-      <p type="listitem">Virvatulten polku Trail 19 km</p>
-      <p type="listitem">Water Routes on Lake Inarijärvi</p>
-      <p type="listitem">Trail Difficulty Classification</p>
-    </list>
-    <list>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Level of Difficulty</p>
-      <p type="listitem">Route Descriptions</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <list>
-      <p type="listitem">Departure from Partakko</p>
-      <p type="listitem">Departure from the Nanguniemi Boat Harbour</p>
-      <p type="listitem">Departure from the Nellim Boat Harbour</p>
-      <p type="listitem">Departure from the Inari Boat Harbour</p>
-      <p type="listitem">Departure from the Veskoniemi Boat Harbour</p>
-    </list>
-    <p>Water Route Menu</p>
-    <p type="title">Water Routes on Lake Inarijärvi</p>
-    <list>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Level of Difficulty</p>
-      <p type="listitem">Route Descriptions <list><p type="listitem">Departure from Partakko</p><p type="listitem">Departure from the Nanguniemi Boat Harbour</p><p type="listitem">Departure from the Nellim Boat Harbour</p><p type="listitem">Departure from the Inari Boat Harbour</p><p type="listitem">Departure from the Veskoniemi Boat Harbour</p></list> </p>
-      <p type="listitem">Services</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p type="title">Departure from the Veskoniemi Boat Harbour</p>
-    <p type="title">Day Trip to the Ivalojoki River Delta, 10 km</p>
-    <p>This excursion is suitable for bird enthusiasts. There are a great variety of waterfowl at the river's delta. You can observe them from the Juurakkovuopaja bird-watching tower, which is located on the headland. The best time for spotting and listening to the birds is when the waters begin to melt from the end of May to the beginning of June, when you can see migratory birds on their way to the north, in addition to the local birds resting at the delta. When the brooding period begins in mid-June, the birds become quieter and hide. The route is roughly 10 kilometres long. (See the route proposal on the map below).</p>
-    <p type="title">Canoe Trip around Mahlatti Island – Two Days</p>
-    <p>This route is about 30 kilometres long and it circles Mahlatti, which is the largest island on Lake Inarijärvi. The route is rather sheltered thanks to the numerous islands. The scenery consists of ruggedly beautiful rocky islands. The islands are almost in their natural state. The old pines, which all bare their individual marks of time, dominate the vegetation.</p>
-    <p>There are plenty of sheltered natural harbours in which to take a break or stay overnight. You will need a tent for accommodation. There are many private cottages in the area and it is not appropriate to beach close to them.</p>
-    <p>The most famous sight is the ice cave of Korkia-Maura. There is Metsähallitus' jetty, campfire site, woodshed and dry toilet by the ice cave. The Germans ran a prison camp on Mahlatti Island during World War II. There are still signs of the former prison camp at Kivisalmi.</p>
-    <p>The landscape is handsome from every angle. If you wish to see further across the islands, you can climb Vuoriainen Hill. The hilltop is 130 metres above lake level.</p>
-    <p type="title">Route Description Map</p>
-    <p type="title">Electronic Maps</p>
-    <p type="title">Canoe Trip around Petäjäsaari Island</p>
-    <p>The route is at least 37 kilometres long but it becomes even longer if you wind between the islands. The trip takes at least two days. However, allow three or more days for the trip so that you have enough time to explore the area properly. The proposed route runs along the gorgeous archipelago on the southwestern part of the lake, where there are a large number of natural harbours. The route is mainly sheltered but it also has some stretches where the lake may be rough.</p>
-    <p>You can canoe the route in a clockwise or anticlockwise direction. When setting off clockwise, you can first head to the ice cave of Korkia-Maura. The ice on the bottom of the cave does not melt even in summer. The route is mainly in the shelter of the islands but the open waters of Moossinaselkä may be windy. The distance from the harbour to the ice cave is eight kilometres.</p>
-    <p>After the Maurasaaret Islands, continue towards the strait between the islands of Hoikka and Leveä Petäjäsaaret. First cross the open waters of Jäkäläselkä. Bypass its numerous rocky islands on their lee side.</p>
-    <p>Most canoeists visit the boating base at Petäjäsaari Island . At its shortest, the distance from the ice cave to the boating base is 13 kilometres, and 21 kilometres from the departure harbour on the tip of the Veskoniemi peninsula. Petäjäsaari's boating base is an excellent place for overnight stays. There are two long boat jetties, an open wilderness hut , a campfire hut, a cooking shelter (gas), two campfire sites, a dry toilet and a woodshed. For campers, there is a camping site and wooden platforms for pitching tents. They keep the bottom part of the tent dry and clean and provide a flat platform for sleeping on the stony terrain.</p>
-    <p>The trip continues along the strait to the northeast, and from the edge of the majestic open waters of Kasariselkä to the south and the Raesaaret Islands. Following the shoreline, you will first reach the Raesaaret Islands and then the Piekanasaaret Islands. After the open waters of Moossinaselkä, you will be close to Veskoniemi's departure harbour. The distance from the Petäjäsaari boating base to the departure harbour is 16 kilometres.</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Share This Page</p>
-    <p>Open Menu</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Departure from the Veskoniemi Boat Harbour - Nationalparks.fi</title><genre code="facta"/><author><unknown/></author><wordcount>1036</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.nationalparks.fi/en/inarijarvi/routedescriptions/veskoniemiharbour</origFileName><parallel_text xml:lang="fin" location="veskoniemenvenesatama.html"/><parallel_text xml:lang="sme" location="veskonjarggafanash.html"/><parallel_text xml:lang="smn" location="viaskoonjaargakarbishaamman.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skip to Content</p>
+<p>Open Menu</p>
+<list><p type="listitem">Suomeksi</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p></p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">Water Routes on Lake Inarijärvi</p>
+<list><p type="listitem">Directions and Maps</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Level of Difficulty</p>
+<p type="listitem">Route Descriptions <list><p type="listitem">Departure from Partakko</p>
+<p type="listitem">Departure from the Nanguniemi Boat Harbour</p>
+<p type="listitem">Departure from the Nellim Boat Harbour</p>
+<p type="listitem">Departure from the Inari Boat Harbour</p>
+<p type="listitem">Departure from the Veskoniemi Boat Harbour</p>
+</list> </p>
+<p type="listitem">Services</p>
+<p type="listitem">More Information</p>
+</list><p type="title">Destinations</p>
+<list><p type="listitem">Top Natural Attractions</p>
+<p type="listitem">National Parks</p>
+<p type="listitem">World Heritage Sites</p>
+<p type="listitem">National Hiking Areas</p>
+<p type="listitem">Wilderness Areas</p>
+<p type="listitem">Other Nature Sites</p>
+<p type="listitem">Hiking Trails</p>
+<p type="listitem">Huts</p>
+<p type="listitem">Historical Sites</p>
+<p type="listitem">Nature Centres</p>
+<p type="listitem">Accessible Destinations</p>
+</list><list><p type="listitem">Herajärvi Trail 30 - 61 km</p>
+<p type="listitem">Hetta - Pallas Trail 55 km</p>
+<p type="listitem">Hossa Canoeing Routes</p>
+<p type="listitem">Inari Area Water Routes - Ivalon Matti</p>
+<p type="listitem">Inari Area Water Routes - Lemmenjoki</p>
+<p type="listitem">Itäraja Summer Hiking Route</p>
+<p type="listitem">Karhunkierros 82 km</p>
+<p type="listitem">Kevo Trail 63 km</p>
+<p type="listitem">Nordkalottleden Trail 800 km</p>
+<p type="listitem">Nuortti Hiking Trail 40 km</p>
+<p type="listitem">Peura Trail 115 km</p>
+<p type="listitem">Pieni Karhunkierros 12 km</p>
+<p type="listitem">Piilola Trail 35 km</p>
+<p type="listitem">Poronpolku Trail 30 km</p>
+<p type="listitem">Pyhä-Luosto Trail 45 km</p>
+<p type="listitem">Ruijanpolku Trail 35 km</p>
+<p type="listitem">Ruostejärvi - Liesjärvi National Park Trail 24 km</p>
+<p type="listitem">Ruostejärvi - Saari Trail 14 km</p>
+<p type="listitem">Sevettijärvi - Pulmanki Trail 60 - 70 km</p>
+<p type="listitem">Taitajan taival Trail 31 km</p>
+<p type="listitem">Tapion taival Trail 20 km</p>
+<p type="listitem">Virvatulten polku Trail 19 km</p>
+<p type="listitem">Water Routes on Lake Inarijärvi</p>
+<p type="listitem">Trail Difficulty Classification</p>
+</list><list><p type="listitem">Directions and Maps</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Level of Difficulty</p>
+<p type="listitem">Route Descriptions</p>
+<p type="listitem">Services</p>
+<p type="listitem">More Information</p>
+</list><list><p type="listitem">Departure from Partakko</p>
+<p type="listitem">Departure from the Nanguniemi Boat Harbour</p>
+<p type="listitem">Departure from the Nellim Boat Harbour</p>
+<p type="listitem">Departure from the Inari Boat Harbour</p>
+<p type="listitem">Departure from the Veskoniemi Boat Harbour</p>
+</list><p>Water Route Menu</p>
+<p type="title">Water Routes on Lake Inarijärvi</p>
+<list><p type="listitem">Directions and Maps</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Level of Difficulty</p>
+<p type="listitem">Route Descriptions <list><p type="listitem">Departure from Partakko</p>
+<p type="listitem">Departure from the Nanguniemi Boat Harbour</p>
+<p type="listitem">Departure from the Nellim Boat Harbour</p>
+<p type="listitem">Departure from the Inari Boat Harbour</p>
+<p type="listitem">Departure from the Veskoniemi Boat Harbour</p>
+</list> </p>
+<p type="listitem">Services</p>
+<p type="listitem">More Information</p>
+</list><p type="title">Departure from the Veskoniemi Boat Harbour</p>
+<p type="title">Day Trip to the Ivalojoki River Delta, 10 km</p>
+<p>This excursion is suitable for bird enthusiasts. There are a great variety of waterfowl at the river's delta. You can observe them from the Juurakkovuopaja bird-watching tower, which is located on the headland. The best time for spotting and listening to the birds is when the waters begin to melt from the end of May to the beginning of June, when you can see migratory birds on their way to the north, in addition to the local birds resting at the delta. When the brooding period begins in mid-June, the birds become quieter and hide. The route is roughly 10 kilometres long. (See the route proposal on the map below).</p>
+<p type="title">Canoe Trip around Mahlatti Island – Two Days</p>
+<p>This route is about 30 kilometres long and it circles Mahlatti, which is the largest island on Lake Inarijärvi. The route is rather sheltered thanks to the numerous islands. The scenery consists of ruggedly beautiful rocky islands. The islands are almost in their natural state. The old pines, which all bare their individual marks of time, dominate the vegetation.</p>
+<p>There are plenty of sheltered natural harbours in which to take a break or stay overnight. You will need a tent for accommodation. There are many private cottages in the area and it is not appropriate to beach close to them.</p>
+<p>The most famous sight is the ice cave of Korkia-Maura. There is Metsähallitus' jetty, campfire site, woodshed and dry toilet by the ice cave. The Germans ran a prison camp on Mahlatti Island during World War II. There are still signs of the former prison camp at Kivisalmi.</p>
+<p>The landscape is handsome from every angle. If you wish to see further across the islands, you can climb Vuoriainen Hill. The hilltop is 130 metres above lake level.</p>
+<p type="title">Route Description Map</p>
+<p type="title">Electronic Maps</p>
+<p type="title">Canoe Trip around Petäjäsaari Island</p>
+<p>The route is at least 37 kilometres long but it becomes even longer if you wind between the islands. The trip takes at least two days. However, allow three or more days for the trip so that you have enough time to explore the area properly. The proposed route runs along the gorgeous archipelago on the southwestern part of the lake, where there are a large number of natural harbours. The route is mainly sheltered but it also has some stretches where the lake may be rough.</p>
+<p>You can canoe the route in a clockwise or anticlockwise direction. When setting off clockwise, you can first head to the ice cave of Korkia-Maura. The ice on the bottom of the cave does not melt even in summer. The route is mainly in the shelter of the islands but the open waters of Moossinaselkä may be windy. The distance from the harbour to the ice cave is eight kilometres.</p>
+<p>After the Maurasaaret Islands, continue towards the strait between the islands of Hoikka and Leveä Petäjäsaaret. First cross the open waters of Jäkäläselkä. Bypass its numerous rocky islands on their lee side.</p>
+<p>Most canoeists visit the boating base at Petäjäsaari Island . At its shortest, the distance from the ice cave to the boating base is 13 kilometres, and 21 kilometres from the departure harbour on the tip of the Veskoniemi peninsula. Petäjäsaari's boating base is an excellent place for overnight stays. There are two long boat jetties, an open wilderness hut , a campfire hut, a cooking shelter (gas), two campfire sites, a dry toilet and a woodshed. For campers, there is a camping site and wooden platforms for pitching tents. They keep the bottom part of the tent dry and clean and provide a flat platform for sleeping on the stony terrain.</p>
+<p>The trip continues along the strait to the northeast, and from the edge of the majestic open waters of Kasariselkä to the south and the Raesaaret Islands. Following the shoreline, you will first reach the Raesaaret Islands and then the Piekanasaaret Islands. After the open waters of Moossinaselkä, you will be close to Veskoniemi's departure harbour. The distance from the Petäjäsaari boating base to the departure harbour is 16 kilometres.</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Share This Page</p>
+<p>Open Menu</p>
+</body></document>

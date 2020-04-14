@@ -1,60 +1,31 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>275</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/planfragor/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-planfragor.html"/>
-    <parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-planfragor.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Planning issues - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Planning issues</p>
-    <p>The County Administrative Board draws up planning documentation for different areas which indicate important elements to consider for construction and land use. The goal is to create good, secure living conditions and a sustainable living environment.</p>
-    <p type="title">Advice on municipal planning</p>
-    <p>In collaboration with municipalities and other government agencies we offer advice and establish a regional basis for municipal planning with structure plans, detailed development plans and area regulations.</p>
-    <p type="title">Supporting documentation for community planning</p>
-    <p>We devise, compile and provide supporting documentation on various conditions that are important to take into consideration for community planning. The planning is influenced by different national objectives and national interests, such as, energy production, nature conservation and outdoor recreation or transportation. The County Administrative Board also coordinates the state's interests and views for all physical community planning.</p>
-    <p type="title">Review of municipal planning</p>
-    <p>The County Administrative Board reviews municipal planning with regard to human health and safety, national interests, environmental quality standards, shoreline protection and issues related to the various municipalities in the county.</p>
-    <p type="title">Ask your municipality for planning permission</p>
-    <p>The municipalities are responsible for planning and controlling land use. Therefore, please contact your municipality if you have questions regarding planning permission, structure plans and detailed development plans. If you are dissatisfied with decisions regarding planning permission or detailed development plans you can submit an appeal to us.</p>
-    <p type="title">Contact us</p>
-    <p>County Administrative Board of Dalarna</p>
-    <p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
-    <p>Send message</p>
-    <p>Hide form</p>
-    <p>Your email address (optional)</p>
-    <p>Send a copy of the message to the email address specified</p>
-    <p>Message</p>
-    <p>Enter the code below to send your message</p>
-    <p>Generate new image</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>275</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/planfragor/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-planfragor.html"/><parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-planfragor.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Planning issues - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Planning issues</p>
+<p>The County Administrative Board draws up planning documentation for different areas which indicate important elements to consider for construction and land use. The goal is to create good, secure living conditions and a sustainable living environment.</p>
+<p type="title">Advice on municipal planning</p>
+<p>In collaboration with municipalities and other government agencies we offer advice and establish a regional basis for municipal planning with structure plans, detailed development plans and area regulations.</p>
+<p type="title">Supporting documentation for community planning</p>
+<p>We devise, compile and provide supporting documentation on various conditions that are important to take into consideration for community planning. The planning is influenced by different national objectives and national interests, such as, energy production, nature conservation and outdoor recreation or transportation. The County Administrative Board also coordinates the state's interests and views for all physical community planning.</p>
+<p type="title">Review of municipal planning</p>
+<p>The County Administrative Board reviews municipal planning with regard to human health and safety, national interests, environmental quality standards, shoreline protection and issues related to the various municipalities in the county.</p>
+<p type="title">Ask your municipality for planning permission</p>
+<p>The municipalities are responsible for planning and controlling land use. Therefore, please contact your municipality if you have questions regarding planning permission, structure plans and detailed development plans. If you are dissatisfied with decisions regarding planning permission or detailed development plans you can submit an appeal to us.</p>
+<p type="title">Contact us</p>
+<p>County Administrative Board of Dalarna</p>
+<p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
+<p>Send message</p>
+<p>Hide form</p>
+<p>Your email address (optional)</p>
+<p>Send a copy of the message to the email address specified</p>
+<p>Message</p>
+<p>Enter the code below to send your message</p>
+<p>Generate new image</p>
+</body></document>

@@ -1,155 +1,146 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Other Trails in Pallas-Yllästunturi - Nationalparks.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1438</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.nationalparks.fi/en/pallas-yllastunturinp/trails/othertrailsinpallas-yllastunturi</origFileName>
-    <parallel_text xml:lang="sme" location="ballasyllasduoddaraearajohtolagat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Skip to Content</p>
-    <p>Open Menu</p>
-    <list>
-      <p type="listitem">Suomeksi</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Pallas-Yllästunturi</p>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">History</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails <list><p type="listitem">Pallastunturi Circle Trails</p><p type="listitem">Other Trails in Pallas-Yllästunturi</p></list> </p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p type="title">Destinations</p>
-    <list>
-      <p type="listitem">Top Natural Attractions</p>
-      <p type="listitem">National Parks</p>
-      <p type="listitem">World Heritage Sites</p>
-      <p type="listitem">National Hiking Areas</p>
-      <p type="listitem">Wilderness Areas</p>
-      <p type="listitem">Other Nature Sites</p>
-      <p type="listitem">Hiking Trails</p>
-      <p type="listitem">Huts</p>
-      <p type="listitem">Historical Sites</p>
-      <p type="listitem">Nature Centres</p>
-      <p type="listitem">Accessible Destinations</p>
-    </list>
-    <list>
-      <p type="listitem">Archipelago</p>
-      <p type="listitem">Bothnian Bay</p>
-      <p type="listitem">Bothnian Sea</p>
-      <p type="listitem">Ekenäs Archipelago</p>
-      <p type="listitem">Gulf of Finland</p>
-      <p type="listitem">Helvetinjärvi</p>
-      <p type="listitem">Hiidenportti</p>
-      <p type="listitem">Isojärvi</p>
-      <p type="listitem">Kauhaneva-Pohjankangas</p>
-      <p type="listitem">Koli</p>
-      <p type="listitem">Kolovesi</p>
-      <p type="listitem">Kurjenrahka</p>
-      <p type="listitem">Lauhanvuori</p>
-      <p type="listitem">Leivonmäki</p>
-      <p type="listitem">Lemmenjoki</p>
-      <p type="listitem">Liesjärvi</p>
-      <p type="listitem">Linnansaari</p>
-      <p type="listitem">Nuuksio</p>
-      <p type="listitem">Oulanka</p>
-      <p type="listitem">Pallas-Yllästunturi</p>
-      <p type="listitem">Patvinsuo</p>
-      <p type="listitem">Petkeljärvi</p>
-      <p type="listitem">Puurijärvi and Isosuo</p>
-      <p type="listitem">Pyhä-Häkki</p>
-      <p type="listitem">Pyhä-Luosto</p>
-      <p type="listitem">Päijänne</p>
-      <p type="listitem">Repovesi</p>
-      <p type="listitem">Riisitunturi</p>
-      <p type="listitem">Rokua</p>
-      <p type="listitem">Salamajärvi</p>
-      <p type="listitem">Seitseminen</p>
-      <p type="listitem">Sipoonkorpi</p>
-      <p type="listitem">Southern Konnevesi</p>
-      <p type="listitem">Syöte</p>
-      <p type="listitem">Teijo</p>
-      <p type="listitem">Tiilikkajärvi</p>
-      <p type="listitem">Torronsuo</p>
-      <p type="listitem">Urho Kekkonen National Park</p>
-      <p type="listitem">Valkmusa</p>
-    </list>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">History</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <list>
-      <p type="listitem">Pallastunturi Circle Trails</p>
-      <p type="listitem">Other Trails in Pallas-Yllästunturi</p>
-    </list>
-    <p>Pallas-Yllästunturi Menu</p>
-    <p type="title">Pallas-Yllästunturi</p>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">History</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails <list><p type="listitem">Pallastunturi Circle Trails</p><p type="listitem">Other Trails in Pallas-Yllästunturi</p></list> </p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p type="title">Other Trails in Pallas-Yllästunturi</p>
-    <list>
-      <p type="listitem"><em type="italic">Fell Lapland Trail </em>is a trail network, which leads hikers trough the National Park from village to village and its services. One may use the services of the enterprises which work at the villages close to the Pallas-Yllästunturi National Park. They have a cooperation agreement with Metsähallitus and they follow the principles of sustainable nature tourism when operating in the national park. ​     </p>
-    </list>
-    <p>​ ​</p>
-    <list>
-      <p type="listitem"><span>Hetta - Pallas Trail, 55 km </span>Hetta - Pallas Trail is Finland's oldest and one of its most popular hiking trails. It was marked in 1934. </p>
-      <p type="listitem">Services:  <list><p type="listitem">A Lapp hut Hannukuru.</p><p type="listitem">A Lapp hut Rihmakuru.</p><p type="listitem">A Lapp hut, where visitors can eat picnic lunches and light campfires at Suaskuru.</p><p type="listitem">A reservable wilderness hut at Nammalakuru (12 persons).</p><p type="listitem">A reservable wilderness hut at Hannukuru (12 + 12 persons).</p><p type="listitem">A reservable wilderness hut at Sioskuru (8 persons).</p><p type="listitem">An open wilderness hut at Nammalakuru (20 persons).</p><p type="listitem">An open wilderness hut at Montell (4 persons).</p><p type="listitem">An open wilderness hut and a sauna at Hannukuru (16 + 16 persons).</p><p type="listitem">An open wilderness hut at Pahakuru (6 persons).</p><p type="listitem">An open wilderness hut at Tappuri (8 persons).</p><p type="listitem">An open wilderness hut at Sioskuru (16 persons).</p><p type="listitem">A day trip wilderness hut at the foot of Pyhäkero Fell, with a café that's open during ski-season in spring.</p></list></p>
-      <p type="listitem"><span>Ylläs - Pallas Trail, 69 km </span>This scenic trail leads alternately through forest and across hills. It has just been marked and new signs have been put up. Hikers will need to take tents along as there are no open wilderness huts on the trail and other facilities are still in the planning stages. The length of the entire trail is about 69 km (Ylläs to Rauhala 46 km, Rauhala to Pallas 23 km) and it is marked with orange paint markings. The starting points for this trail are at Yllästunturi Visitor Centre Kellokas in Ylläs and Pallastunturi Visitor Centre in Pallas. When setting out from Yllästunturi Visitor Centre Kellokas, hikers will descend through Varkaankuru Ravine to Lake Kesänkijärvi. Hikers pass the west-end of the lake and continue past the west-side of Kesänkitunturi Fell to Hangaskuru Ravine. After passing the lean-to shelter at the ravine hikers head towards Kotamaja in Kolmentunturin kuru Ravine. During the winter tourist season there is a café at Kotamaja. From Kotamaja hikers turn northwest and pass through the ravine between Pyhätunturi Fell and Kukastunturi Fell to the shore of the River Äkäsjoki. From there hikers travel beside the river northward first passing Lake Äkässaivo and then Peurakaltio Spring. From the spring hikers continue north across the top os Äkäskero Fell. After this hikers pass the Mustakero, Kolvakero and Kesälaki Fells on the east-side of Lake Äkäsjärvi to arrive in the village of Rauhala, which is on the eastern shore of Lake Jerisjärvi. From the village hikers move north first along the lower slopes of fells and after Anuntinvuoma moving higher up to Koivakero Fell and onto Mustakero Fell on the east-side of Lake Keimiöjärvi. At the hill there is an open wilderness hut after which hikers follow the western slope of Lommoltunturi Fell towards the Pallastunturi Fells. </p>
-      <p type="listitem">Services:  <list><p type="listitem">An open wilderness hut at Mustakero Hill (5 persons).</p><p type="listitem">A day trip hut at Lake Keimiöjärvi.</p><p type="listitem">An open wilderness hut at Pahtavuoma (3 persons).</p><p type="listitem">An open wilderness hut at Kutujärvi (4 persons).</p><p type="listitem">A Lapp hut at Kotamaja.</p><p type="listitem">A Lapp hut at Hangaskuru Ravine, 4 km north of Ylläs.</p></list></p>
-      <p type="listitem"><span>Ylläs - Levi Trail, 47 km </span>The starting points for this trail are Yllästunturi Visitor Centre Kellokas or the village of Sirkka in Kittilä. The trail is marked with orange paint markings and there are signs at intersections. Wetlands have duckboards. The starting points for this trail are at Yllästunturi Visitor Centre Kellokas in Ylläs and Pallastunturi Visitor Centre in Pallas. When setting out from Kellokas Visitor Centre hikers will descend through Varkaankuru Ravine to Lake Kesänkijärvi. Hikers pass the west-end of the lake and continue past the west-side of Kesänkitunturi Fell to Hangaskuru Ravine. After passing the Lapp hut at the ravine hikers head towards Kotamaja in Kolmentunturin kuru Ravine. During the winter tourist season there is a café at Kotamaja. From there hikers pass through the ravine between the fells Lainio and Pyhätunturi to the open wilderness hut at the south-end of Lake Pyhäjärvi. The trail then leads across the lower slope of Aakenustunturi Fell to the Äkäslompolo - Kittilä road. After crossing a bridge over the River Aakenusjoki the trail is a gravel path, up to the shore of Lake Aakenusjärvi. From the lake, hikers head to Homevaara Fell and on to the day trip hut at Muusa. The final part of the trail leads through forests on the north-side of Pyhätunturi Fell and Kätkätunturi Fell to the village of Sirkka. </p>
-      <p type="listitem">Services:  <list><p type="listitem">Muusa daytrip hut, also Hirvikämppä daytrip hut is close to the trail.​</p><p type="listitem">A Lapp hut at Lake Aakenusjärvi.</p><p type="listitem">An open wilderness hut at Lake Pyhäjärvi.</p><p type="listitem">A Lapp hut at Kotamaja. A café is open during winter.</p><p type="listitem">A Lapp hut at Hangaskuru.</p></list></p>
-    </list>
-    <list>
-      <p type="listitem"><span>Ylläs - Olos Trail, 69 km </span>The starting points for this trail are located at Yllästunturi Visitor Centre Kellokas and Olostunturi skiing resort. The trail is marked with orange paint markings and there are signs at intersections. Damp spots have duckboards. When setting out from Yllästunturi Visitor Centre Kellokas, hikers follow the Ylläs - Levi Trail up to Kotamaja herders' cabin. From Kotamaja hikers turn northwest and pass through the ravine between Pyhätunturi Fell and Kukastunturi Fell to the shore of the River Äkäsjoki. From there hikers travel beside the river northward first passing Lake Äkässaivo and then Peurakaltio Spring. From the spring hikers continue along the west-side of Äkäskero Fell to Äkäsmylly Mill. The mill's café is open during peak season. After crossing the Äkäslompolo - Muotkavaara road the trail continues through forest. The journey contines to the open wilderness huts at Juuvanrova and Kuusikonmaa and by the north-side of Olostunturi Fell to its end at Olos ski resort. </p>
-      <p type="listitem">Services:  <list><p type="listitem">An open wilderness hut at Kuusikkomaa.</p><p type="listitem">An open wilderness hut at Juuvanrova.</p><p type="listitem">An open wilderness hut at Pahtavaara.</p><p type="listitem">The café at Äkäsmylly is open during peak tourist seasons.</p><p type="listitem">The café at Peurakaltio is open during late winter.</p></list></p>
-    </list>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Share This Page</p>
-    <p>Open Menu</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Other Trails in Pallas-Yllästunturi - Nationalparks.fi</title><genre code="facta"/><author><unknown/></author><wordcount>1438</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.nationalparks.fi/en/pallas-yllastunturinp/trails/othertrailsinpallas-yllastunturi</origFileName><parallel_text xml:lang="sme" location="ballasyllasduoddaraearajohtolagat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skip to Content</p>
+<p>Open Menu</p>
+<list><p type="listitem">Suomeksi</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p></p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">Pallas-Yllästunturi</p>
+<list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">History</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails <list><p type="listitem">Pallastunturi Circle Trails</p>
+<p type="listitem">Other Trails in Pallas-Yllästunturi</p>
+</list> </p>
+<p type="listitem">More Information</p>
+</list><p type="title">Destinations</p>
+<list><p type="listitem">Top Natural Attractions</p>
+<p type="listitem">National Parks</p>
+<p type="listitem">World Heritage Sites</p>
+<p type="listitem">National Hiking Areas</p>
+<p type="listitem">Wilderness Areas</p>
+<p type="listitem">Other Nature Sites</p>
+<p type="listitem">Hiking Trails</p>
+<p type="listitem">Huts</p>
+<p type="listitem">Historical Sites</p>
+<p type="listitem">Nature Centres</p>
+<p type="listitem">Accessible Destinations</p>
+</list><list><p type="listitem">Archipelago</p>
+<p type="listitem">Bothnian Bay</p>
+<p type="listitem">Bothnian Sea</p>
+<p type="listitem">Ekenäs Archipelago</p>
+<p type="listitem">Gulf of Finland</p>
+<p type="listitem">Helvetinjärvi</p>
+<p type="listitem">Hiidenportti</p>
+<p type="listitem">Isojärvi</p>
+<p type="listitem">Kauhaneva-Pohjankangas</p>
+<p type="listitem">Koli</p>
+<p type="listitem">Kolovesi</p>
+<p type="listitem">Kurjenrahka</p>
+<p type="listitem">Lauhanvuori</p>
+<p type="listitem">Leivonmäki</p>
+<p type="listitem">Lemmenjoki</p>
+<p type="listitem">Liesjärvi</p>
+<p type="listitem">Linnansaari</p>
+<p type="listitem">Nuuksio</p>
+<p type="listitem">Oulanka</p>
+<p type="listitem">Pallas-Yllästunturi</p>
+<p type="listitem">Patvinsuo</p>
+<p type="listitem">Petkeljärvi</p>
+<p type="listitem">Puurijärvi and Isosuo</p>
+<p type="listitem">Pyhä-Häkki</p>
+<p type="listitem">Pyhä-Luosto</p>
+<p type="listitem">Päijänne</p>
+<p type="listitem">Repovesi</p>
+<p type="listitem">Riisitunturi</p>
+<p type="listitem">Rokua</p>
+<p type="listitem">Salamajärvi</p>
+<p type="listitem">Seitseminen</p>
+<p type="listitem">Sipoonkorpi</p>
+<p type="listitem">Southern Konnevesi</p>
+<p type="listitem">Syöte</p>
+<p type="listitem">Teijo</p>
+<p type="listitem">Tiilikkajärvi</p>
+<p type="listitem">Torronsuo</p>
+<p type="listitem">Urho Kekkonen National Park</p>
+<p type="listitem">Valkmusa</p>
+</list><list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">History</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><list><p type="listitem">Pallastunturi Circle Trails</p>
+<p type="listitem">Other Trails in Pallas-Yllästunturi</p>
+</list><p>Pallas-Yllästunturi Menu</p>
+<p type="title">Pallas-Yllästunturi</p>
+<list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">History</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails <list><p type="listitem">Pallastunturi Circle Trails</p>
+<p type="listitem">Other Trails in Pallas-Yllästunturi</p>
+</list> </p>
+<p type="listitem">More Information</p>
+</list><p type="title">Other Trails in Pallas-Yllästunturi</p>
+<list><p type="listitem"><em type="italic">Fell Lapland Trail </em>is a trail network, which leads hikers trough the National Park from village to village and its services. One may use the services of the enterprises which work at the villages close to the Pallas-Yllästunturi National Park. They have a cooperation agreement with Metsähallitus and they follow the principles of sustainable nature tourism when operating in the national park. ​     </p>
+</list><p>​ ​</p>
+<list><p type="listitem"><span>Hetta - Pallas Trail, 55 km </span>Hetta - Pallas Trail is Finland's oldest and one of its most popular hiking trails. It was marked in 1934. </p>
+<p type="listitem">Services:  <list><p type="listitem">A Lapp hut Hannukuru.</p>
+<p type="listitem">A Lapp hut Rihmakuru.</p>
+<p type="listitem">A Lapp hut, where visitors can eat picnic lunches and light campfires at Suaskuru.</p>
+<p type="listitem">A reservable wilderness hut at Nammalakuru (12 persons).</p>
+<p type="listitem">A reservable wilderness hut at Hannukuru (12 + 12 persons).</p>
+<p type="listitem">A reservable wilderness hut at Sioskuru (8 persons).</p>
+<p type="listitem">An open wilderness hut at Nammalakuru (20 persons).</p>
+<p type="listitem">An open wilderness hut at Montell (4 persons).</p>
+<p type="listitem">An open wilderness hut and a sauna at Hannukuru (16 + 16 persons).</p>
+<p type="listitem">An open wilderness hut at Pahakuru (6 persons).</p>
+<p type="listitem">An open wilderness hut at Tappuri (8 persons).</p>
+<p type="listitem">An open wilderness hut at Sioskuru (16 persons).</p>
+<p type="listitem">A day trip wilderness hut at the foot of Pyhäkero Fell, with a café that's open during ski-season in spring.</p>
+</list></p>
+<p type="listitem"><span>Ylläs - Pallas Trail, 69 km </span>This scenic trail leads alternately through forest and across hills. It has just been marked and new signs have been put up. Hikers will need to take tents along as there are no open wilderness huts on the trail and other facilities are still in the planning stages. The length of the entire trail is about 69 km (Ylläs to Rauhala 46 km, Rauhala to Pallas 23 km) and it is marked with orange paint markings. The starting points for this trail are at Yllästunturi Visitor Centre Kellokas in Ylläs and Pallastunturi Visitor Centre in Pallas. When setting out from Yllästunturi Visitor Centre Kellokas, hikers will descend through Varkaankuru Ravine to Lake Kesänkijärvi. Hikers pass the west-end of the lake and continue past the west-side of Kesänkitunturi Fell to Hangaskuru Ravine. After passing the lean-to shelter at the ravine hikers head towards Kotamaja in Kolmentunturin kuru Ravine. During the winter tourist season there is a café at Kotamaja. From Kotamaja hikers turn northwest and pass through the ravine between Pyhätunturi Fell and Kukastunturi Fell to the shore of the River Äkäsjoki. From there hikers travel beside the river northward first passing Lake Äkässaivo and then Peurakaltio Spring. From the spring hikers continue north across the top os Äkäskero Fell. After this hikers pass the Mustakero, Kolvakero and Kesälaki Fells on the east-side of Lake Äkäsjärvi to arrive in the village of Rauhala, which is on the eastern shore of Lake Jerisjärvi. From the village hikers move north first along the lower slopes of fells and after Anuntinvuoma moving higher up to Koivakero Fell and onto Mustakero Fell on the east-side of Lake Keimiöjärvi. At the hill there is an open wilderness hut after which hikers follow the western slope of Lommoltunturi Fell towards the Pallastunturi Fells. </p>
+<p type="listitem">Services:  <list><p type="listitem">An open wilderness hut at Mustakero Hill (5 persons).</p>
+<p type="listitem">A day trip hut at Lake Keimiöjärvi.</p>
+<p type="listitem">An open wilderness hut at Pahtavuoma (3 persons).</p>
+<p type="listitem">An open wilderness hut at Kutujärvi (4 persons).</p>
+<p type="listitem">A Lapp hut at Kotamaja.</p>
+<p type="listitem">A Lapp hut at Hangaskuru Ravine, 4 km north of Ylläs.</p>
+</list></p>
+<p type="listitem"><span>Ylläs - Levi Trail, 47 km </span>The starting points for this trail are Yllästunturi Visitor Centre Kellokas or the village of Sirkka in Kittilä. The trail is marked with orange paint markings and there are signs at intersections. Wetlands have duckboards. The starting points for this trail are at Yllästunturi Visitor Centre Kellokas in Ylläs and Pallastunturi Visitor Centre in Pallas. When setting out from Kellokas Visitor Centre hikers will descend through Varkaankuru Ravine to Lake Kesänkijärvi. Hikers pass the west-end of the lake and continue past the west-side of Kesänkitunturi Fell to Hangaskuru Ravine. After passing the Lapp hut at the ravine hikers head towards Kotamaja in Kolmentunturin kuru Ravine. During the winter tourist season there is a café at Kotamaja. From there hikers pass through the ravine between the fells Lainio and Pyhätunturi to the open wilderness hut at the south-end of Lake Pyhäjärvi. The trail then leads across the lower slope of Aakenustunturi Fell to the Äkäslompolo - Kittilä road. After crossing a bridge over the River Aakenusjoki the trail is a gravel path, up to the shore of Lake Aakenusjärvi. From the lake, hikers head to Homevaara Fell and on to the day trip hut at Muusa. The final part of the trail leads through forests on the north-side of Pyhätunturi Fell and Kätkätunturi Fell to the village of Sirkka. </p>
+<p type="listitem">Services:  <list><p type="listitem">Muusa daytrip hut, also Hirvikämppä daytrip hut is close to the trail.​</p>
+<p type="listitem">A Lapp hut at Lake Aakenusjärvi.</p>
+<p type="listitem">An open wilderness hut at Lake Pyhäjärvi.</p>
+<p type="listitem">A Lapp hut at Kotamaja. A café is open during winter.</p>
+<p type="listitem">A Lapp hut at Hangaskuru.</p>
+</list></p>
+</list><list><p type="listitem"><span>Ylläs - Olos Trail, 69 km </span>The starting points for this trail are located at Yllästunturi Visitor Centre Kellokas and Olostunturi skiing resort. The trail is marked with orange paint markings and there are signs at intersections. Damp spots have duckboards. When setting out from Yllästunturi Visitor Centre Kellokas, hikers follow the Ylläs - Levi Trail up to Kotamaja herders' cabin. From Kotamaja hikers turn northwest and pass through the ravine between Pyhätunturi Fell and Kukastunturi Fell to the shore of the River Äkäsjoki. From there hikers travel beside the river northward first passing Lake Äkässaivo and then Peurakaltio Spring. From the spring hikers continue along the west-side of Äkäskero Fell to Äkäsmylly Mill. The mill's café is open during peak season. After crossing the Äkäslompolo - Muotkavaara road the trail continues through forest. The journey contines to the open wilderness huts at Juuvanrova and Kuusikonmaa and by the north-side of Olostunturi Fell to its end at Olos ski resort. </p>
+<p type="listitem">Services:  <list><p type="listitem">An open wilderness hut at Kuusikkomaa.</p>
+<p type="listitem">An open wilderness hut at Juuvanrova.</p>
+<p type="listitem">An open wilderness hut at Pahtavaara.</p>
+<p type="listitem">The café at Äkäsmylly is open during peak tourist seasons.</p>
+<p type="listitem">The café at Peurakaltio is open during late winter.</p>
+</list></p>
+</list><p>© Metsähallitus 2017</p>
+<list/><p>Share This Page</p>
+<p>Open Menu</p>
+</body></document>

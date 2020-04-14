@@ -1,37 +1,12 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Catalog of Studies 2015-2016 | Sámi University of Applied Sciences</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>43</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/en/a/catalog-studies-2015-2016</origFileName>
-    <parallel_text xml:lang="nob" location="studiekatalog-2015-2016.html"/>
-    <parallel_text xml:lang="sme" location="oahppoofelas-2015-2016.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p xml:lang="sme">February 11. beaivi 2015</p>
-    <p type="title">Catalog of Studies 2015-2016</p>
-    <list>
-      <p type="listitem"><span>Learn North Sámi in 3 steps </span></p>
-      <p type="listitem"><span>English with an Indigenous perspective </span></p>
-      <p type="listitem"><span>Verdde - Indigenous exchange program in the Arctic </span></p>
-    </list>
-    <p>Most part of the catalog is written in North Sámi language, but check it out anyway:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Catalog of Studies 2015-2016 | Sámi University of Applied Sciences</title><genre code="admin"/><author><unknown/></author><wordcount>43</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/en/a/catalog-studies-2015-2016</origFileName><parallel_text xml:lang="nob" location="studiekatalog-2015-2016.html"/><parallel_text xml:lang="sme" location="oahppoofelas-2015-2016.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p xml:lang="sme">February 11. beaivi 2015</p>
+<p type="title">Catalog of Studies 2015-2016</p>
+<list><p type="listitem"><span>Learn North Sámi in 3 steps </span></p>
+<p type="listitem"><span>English with an Indigenous perspective </span></p>
+<p type="listitem"><span>Verdde - Indigenous exchange program in the Arctic </span></p>
+</list><p>Most part of the catalog is written in North Sámi language, but check it out anyway:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+</body></document>

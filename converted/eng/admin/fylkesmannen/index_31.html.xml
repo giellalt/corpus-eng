@@ -1,98 +1,63 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>531</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/en/Health-care-and-social-services/Individual-plans/</origFileName>
-    <parallel_text xml:lang="nob" location="index_31.html"/>
-    <parallel_text xml:lang="sma" location="index_31.html"/>
-    <parallel_text xml:lang="sme" location="index_31.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Individual plans - County Governor - Fylkesmannen.no</p>
-    <p>Jump to content</p>
-    <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Sound version</p>
-      <p type="listitem">High contrast</p>
-      <p type="listitem" xml:lang="nno"></p>
-      <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-    <list>
-      <p type="listitem">People and society</p>
-      <p type="listitem">Nursery schools and education</p>
-      <p type="listitem">Children and parents</p>
-      <p type="listitem">Climate and the environment</p>
-    </list>
-    <list>
-      <p type="listitem">Agriculture and food</p>
-      <p type="listitem">Municipal administration</p>
-      <p type="listitem">Planning and building</p>
-      <p type="listitem">Civil protection</p>
-    </list>
-    <p xml:lang="nob">County Governor</p>
-    <p>Health, care and social services</p>
-    <p>Individual plans</p>
-    <list>
-      <p type="listitem">Care services</p>
-      <p type="listitem">Combating poverty</p>
-      <p type="listitem">Crisis centres</p>
-      <p type="listitem">Driving licences</p>
-      <p type="listitem">Financial social assistance</p>
-      <p type="listitem">Guardianship</p>
-      <p type="listitem">Health services</p>
-      <p type="listitem">Individual plans</p>
-      <p type="listitem">Involuntary treatment</p>
-      <p type="listitem">Medical internship placements</p>
-      <p type="listitem">Mental health and intoxication</p>
-      <p type="listitem">Offshore health services</p>
-      <p type="listitem">Public health</p>
-      <p type="listitem">The Coordination Reform</p>
-      <p type="listitem">The Qualification Programme</p>
-      <p type="listitem" xml:lang="nob">Universal design</p>
-    </list>
-    <p type="title">Individual plans</p>
-    <p xml:lang="est">Published 10/14/2012 Updated 3/28/2017</p>
-    <p>Should you require any long-term co-ordinated health, care or social services, you are, upon request, entitled to receive a plan that is personally drawn up for you. The health and care services within each municipality, the health trusts and the municipality branch of the Norwegian Labour and Welfare Administration (NAV office) must ensure that patients’ and users’ entitlement to an individual plan is met. If you require services from both the municipality and specialist health services, the municipality is responsible for ensuring a plan is developed and for co-ordinating this work.</p>
-    <p type="title">The objective of individual plans</p>
-    <list>
-      <p type="listitem">Individual plans ensure that you receive a comprehensive, co-ordinated and individually tailored range of services. They also ensure that at all times there is someone – a co-ordinator – who has the overall responsibility for following up with you as recipient of the service.</p>
-      <p type="listitem">The plan must make things clear for the service recipient, clarify how responsibilities have been split and provide a basis for decisions relating to public sphere services. In addition, an assessment of measures that can help to ensure the assistance is co-ordinated must be undertaken and put into practice.</p>
-      <p type="listitem">The plan will help to improve co-ordination between you, any next of kin and service providers and across different administrative levels.</p>
-    </list>
-    <p type="title">Different actors have a duty to co-operate</p>
-    <p>The individual plan is the service recipient’s plan. This means that your goals are the starting point in the process. As a user, you are entitled – and encouraged – to set out your service needs and wishes, as well as the objectives that are important to you in your everyday life and future. The municipality or health trust departments to which the user applies have an independent duty to ensure that such planning work is commenced. If you are in need of services from other service providers or government agencies, these are also duty-bound to co-operate.</p>
-    <p type="title">Co-ordinators without an individual plan</p>
-    <list>
-      <p type="listitem">The municipality must also appoint co-ordinators for patients and users who require long-term and co-ordinated services but who have waived their right to an individual plan.</p>
-      <p type="listitem">The specialist health service in question must ensure that co-ordinators are available for patients who require complex or long-term co-ordinated services. Such co-ordinators within the specialist health service will replace the previous arrangement involving contact doctors.</p>
-    </list>
-    <p type="title">The County Governor’s responsibilities</p>
-    <p>The County Governor must aid this co-operation and help to clarify municipalities’ and specialist health services’ responsibilities.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title" xml:lang="est">Links</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Barn og unge med nedsatt funksjonsevne - hvilke rettigheter har familien? (Hefte fra Helsedirektoratet)</p>
-      <p type="listitem" xml:lang="nob">Pasient- og brukerrettighetsloven</p>
-      <p type="listitem" xml:lang="sma">Sosialtjenesteloven</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>531</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/Health-care-and-social-services/Individual-plans/</origFileName><parallel_text xml:lang="nob" location="index_31.html"/><parallel_text xml:lang="sma" location="index_31.html"/><parallel_text xml:lang="sme" location="index_31.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Individual plans - County Governor - Fylkesmannen.no</p>
+<p>Jump to content</p>
+<p xml:lang="nno">County Governor - Fylkesmannen.no</p>
+<list><p type="listitem">Sound version</p>
+<p type="listitem">High contrast</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+<list><p type="listitem">People and society</p>
+<p type="listitem">Nursery schools and education</p>
+<p type="listitem">Children and parents</p>
+<p type="listitem">Climate and the environment</p>
+</list><list><p type="listitem">Agriculture and food</p>
+<p type="listitem">Municipal administration</p>
+<p type="listitem">Planning and building</p>
+<p type="listitem">Civil protection</p>
+</list><p xml:lang="nob">County Governor</p>
+<p>Health, care and social services</p>
+<p>Individual plans</p>
+<list><p type="listitem">Care services</p>
+<p type="listitem">Combating poverty</p>
+<p type="listitem">Crisis centres</p>
+<p type="listitem">Driving licences</p>
+<p type="listitem">Financial social assistance</p>
+<p type="listitem" xml:lang="rmy-rlo">Guardianship</p>
+<p type="listitem">Health services</p>
+<p type="listitem">Individual plans</p>
+<p type="listitem">Involuntary treatment</p>
+<p type="listitem">Medical internship placements</p>
+<p type="listitem">Mental health and intoxication</p>
+<p type="listitem">Offshore health services</p>
+<p type="listitem">Public health</p>
+<p type="listitem">The Coordination Reform</p>
+<p type="listitem">The Qualification Programme</p>
+<p type="listitem" xml:lang="nob">Universal design</p>
+</list><p type="title">Individual plans</p>
+<p xml:lang="est">Published 10/14/2012 Updated 3/28/2017</p>
+<p>Should you require any long-term co-ordinated health, care or social services, you are, upon request, entitled to receive a plan that is personally drawn up for you. The health and care services within each municipality, the health trusts and the municipality branch of the Norwegian Labour and Welfare Administration (NAV office) must ensure that patients’ and users’ entitlement to an individual plan is met. If you require services from both the municipality and specialist health services, the municipality is responsible for ensuring a plan is developed and for co-ordinating this work.</p>
+<p type="title">The objective of individual plans</p>
+<list><p type="listitem">Individual plans ensure that you receive a comprehensive, co-ordinated and individually tailored range of services. They also ensure that at all times there is someone – a co-ordinator – who has the overall responsibility for following up with you as recipient of the service.</p>
+<p type="listitem">The plan must make things clear for the service recipient, clarify how responsibilities have been split and provide a basis for decisions relating to public sphere services. In addition, an assessment of measures that can help to ensure the assistance is co-ordinated must be undertaken and put into practice.</p>
+<p type="listitem">The plan will help to improve co-ordination between you, any next of kin and service providers and across different administrative levels.</p>
+</list><p type="title">Different actors have a duty to co-operate</p>
+<p>The individual plan is the service recipient’s plan. This means that your goals are the starting point in the process. As a user, you are entitled – and encouraged – to set out your service needs and wishes, as well as the objectives that are important to you in your everyday life and future. The municipality or health trust departments to which the user applies have an independent duty to ensure that such planning work is commenced. If you are in need of services from other service providers or government agencies, these are also duty-bound to co-operate.</p>
+<p type="title">Co-ordinators without an individual plan</p>
+<list><p type="listitem">The municipality must also appoint co-ordinators for patients and users who require long-term and co-ordinated services but who have waived their right to an individual plan.</p>
+<p type="listitem">The specialist health service in question must ensure that co-ordinators are available for patients who require complex or long-term co-ordinated services. Such co-ordinators within the specialist health service will replace the previous arrangement involving contact doctors.</p>
+</list><p type="title">The County Governor’s responsibilities</p>
+<p>The County Governor must aid this co-operation and help to clarify municipalities’ and specialist health services’ responsibilities.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="est">Links</p>
+<list><p type="listitem" xml:lang="nob">Barn og unge med nedsatt funksjonsevne - hvilke rettigheter har familien? (Hefte fra Helsedirektoratet)</p>
+<p type="listitem" xml:lang="nob">Pasient- og brukerrettighetsloven</p>
+<p type="listitem" xml:lang="sma">Sosialtjenesteloven</p>
+</list></body></document>

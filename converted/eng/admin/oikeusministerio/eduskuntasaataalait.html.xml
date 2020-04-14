@@ -1,38 +1,14 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>The Parliament Adopts Legislation - 
+<document xml:lang="eng" id="no_id"><header><title>The Parliament Adopts Legislation - 
 	Oikeusministeriö - Oikeusministeriö
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>263</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.oikeusministerio.fi/en/index/publications/esitteet/perustuslaki/eduskuntasaataalait.html</origFileName>
-    <parallel_text xml:lang="fin" location="eduskuntasaataalait.html"/>
-    <parallel_text xml:lang="sme" location="riikkabeaivvitasahitlagaid.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Constitution</p>
-    <p type="title">The Parliament Adopts Legislation</p>
-    <p xml:lang="deu">CHAPTER 6</p>
-    <p>Parliament's most important task is to enact legislation. A new act is enacted or an existing act amended on the basis of a government proposal, a Member of Parliament's motion or a citizens' initiative.</p>
-    <p>After a preliminary debate the bill or motion is referred to a select committee, which thoroughly considers the matter and hears experts.</p>
-    <p>The select committee drafts a report and the bill is returned to the plenary session of the Parliament for a first hearing. This hearing comprises a general discussion during which the Parliament may refer the bill to the Grand Committee.</p>
-    <p>The contents of the bill are decided on in a detailed consideration. Then the Parliament either adopts or rejects the bill in a second hearing.</p>
-    <p>An adopted act is submitted to the President for ratification. If the act is not ratified within three months, it is returned to the Parliament. If the Parliament does not change its opinion the act enters into force even without a presidential ratification.</p>
-    <p>An amendment of the Constitution proceeds as above until the end of the second hearing, when the Parliament decides to leave the amendment in abeyance until the next parliamentary elections. In the vote in the new Parliament two thirds of the Representatives have to support the amendment. The Constitution may also be amended by a single Parliament if the bill is declared urgent by a majority of five sixths.</p>
-    <p>The President of the Republic, the Government or a ministry may issue decrees under the Constitution or under an act enacted by Parliament.</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2016</year><wordcount>263</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.oikeusministerio.fi/en/index/publications/esitteet/perustuslaki/eduskuntasaataalait.html</origFileName><parallel_text xml:lang="fin" location="eduskuntasaataalait.html"/><parallel_text xml:lang="sme" location="riikkabeaivvitasahitlagaid.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Constitution</p>
+<p type="title">The Parliament Adopts Legislation</p>
+<p xml:lang="deu">CHAPTER 6</p>
+<p>Parliament's most important task is to enact legislation. A new act is enacted or an existing act amended on the basis of a government proposal, a Member of Parliament's motion or a citizens' initiative.</p>
+<p>After a preliminary debate the bill or motion is referred to a select committee, which thoroughly considers the matter and hears experts.</p>
+<p>The select committee drafts a report and the bill is returned to the plenary session of the Parliament for a first hearing. This hearing comprises a general discussion during which the Parliament may refer the bill to the Grand Committee.</p>
+<p>The contents of the bill are decided on in a detailed consideration. Then the Parliament either adopts or rejects the bill in a second hearing.</p>
+<p>An adopted act is submitted to the President for ratification. If the act is not ratified within three months, it is returned to the Parliament. If the Parliament does not change its opinion the act enters into force even without a presidential ratification.</p>
+<p>An amendment of the Constitution proceeds as above until the end of the second hearing, when the Parliament decides to leave the amendment in abeyance until the next parliamentary elections. In the vote in the new Parliament two thirds of the Representatives have to support the amendment. The Constitution may also be amended by a single Parliament if the bill is declared urgent by a majority of five sixths.</p>
+<p>The President of the Republic, the Government or a ministry may issue decrees under the Constitution or under an act enacted by Parliament.</p>
+</body></document>

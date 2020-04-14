@@ -1,34 +1,10 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>The Courts Are Independent - 
+<document xml:lang="eng" id="no_id"><header><title>The Courts Are Independent - 
 	Oikeusministeriö - Oikeusministeriö
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>81</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.oikeusministerio.fi/en/index/publications/esitteet/perustuslaki/tuomioistuimetovatriippumattomia.html</origFileName>
-    <parallel_text xml:lang="fin" location="tuomioistuimetovatriippumattomia.html"/>
-    <parallel_text xml:lang="sme" location="duopmostuolutleatsorjjasmeahttumat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Constitution</p>
-    <p type="title">The Courts Are Independent</p>
-    <p xml:lang="deu">CHAPTER 9</p>
-    <p>According to the Constitution judicial power lies with independent courts of law. The President of the Republic appoints the judges.</p>
-    <p>The first instance is the district court. Its decisions may be appealed against to a court of appeal. The Supreme Court wields supreme judicial power in civil and criminal cases.</p>
-    <p>Administrative courts and the Supreme Administrative Court hear cases within that field. In addition, there is a Court of Impeachment and some special courts.</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2016</year><wordcount>81</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.oikeusministerio.fi/en/index/publications/esitteet/perustuslaki/tuomioistuimetovatriippumattomia.html</origFileName><parallel_text xml:lang="fin" location="tuomioistuimetovatriippumattomia.html"/><parallel_text xml:lang="sme" location="duopmostuolutleatsorjjasmeahttumat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Constitution</p>
+<p type="title">The Courts Are Independent</p>
+<p xml:lang="deu">CHAPTER 9</p>
+<p>According to the Constitution judicial power lies with independent courts of law. The President of the Republic appoints the judges.</p>
+<p>The first instance is the district court. Its decisions may be appealed against to a court of appeal. The Supreme Court wields supreme judicial power in civil and criminal cases.</p>
+<p>Administrative courts and the Supreme Administrative Court hear cases within that field. In addition, there is a Court of Impeachment and some special courts.</p>
+</body></document>

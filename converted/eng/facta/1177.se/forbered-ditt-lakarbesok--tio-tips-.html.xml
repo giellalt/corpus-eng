@@ -1,112 +1,72 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1531</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Forbered-ditt-lakarbesok--tio-tips-</origFileName>
-    <parallel_text xml:lang="fin" location="forbered-ditt-lakarbesok--tio-tips-.html"/>
-    <parallel_text xml:lang="sme" location="forbered-ditt-lakarbesok--tio-tips-.html"/>
-    <parallel_text xml:lang="swe" location="motet-med-varden.html"/>
-    <parallel_text location="forbered-ditt-lakarbesok--tio-tips.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="forbered-ditt-lakarbesok--tio-tips-.html" xml:lang="rmn"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Getting ready for a medical appointment - a 10-point checklist / Förbered ditt läkarbesök - tio tips - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title">Getting ready for a medical appointment - a 10-point checklist Förbered ditt läkarbesök - tio tips</p>
-    <p>If you prepare properly, you can fully participate in the care you receive and cooperate with caregivers to set up the plan that works best for you. Open, clear communication between you and caregivers is the foundation of safe, secure care.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">1. Decide what clinic to go to</p>
-    <p>You are entitled to make an appointment at the clinic of your choice. No matter where you live, you are free to go anywhere in the country.</p>
-    <p>That right applies to primary care such as health centres, as well as outpatient specialist care such as paediatric clinics. Specialist care may require a referral.</p>
-    <p>The caregivers at a health centre or specialist clinic that you have not been to before cannot automatically see your medical records at previous caregivers. They must obtain your approval first. Talk with the caregivers if you want to arrange for them to see your old records.</p>
-    <p>The health care guarantee specifies the maximum length of time that you will need to wait before being given an appointment. However, the guarantee is not in effect if you choose care in another county council.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">2. Make sure that you get clear information</p>
-    <p>It is important that you understand what the doctor is saying and what it means for you when you are at an appointment. Caregivers must make sure that you fully understand the information, such as how to take your medication, etc. Ask them to write down the most important information. You can also schedule a follow-up appointment in order to get all your questions answered.</p>
-    <p>Any information you receive must be based on your individual needs and capabilities. If you have difficulty speaking or understanding Swedish, or if you have vision or hearing loss, you can ask for an interpreter. Tell the clinic that you need an interpreter when you first make an appointment.</p>
-    <p>Children also have the right to participate in decisions about the care they receive. There is no specific age at which children should first be involved—their level of maturity and the particular medical situation are the determining factors.</p>
-    <p>If you have dementia or another condition that prevents you from understanding the information, caregivers must explain it to a member of your family instead.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">3. Tell your story and ask questions</p>
-    <p>Before going to an appointment, take some time out to think about what you want to tell the doctor and what you want to ask about. Be ready to explain what you expect from the appointment and whether you are worried about anything in particular. Writing your questions down ahead of time will make it easier to remember them. You might want to ask a friend or family member to write them down for you. Here are the kinds of things you can jot down in advance:</p>
-    <list>
-      <p type="listitem">The health problems that you are experiencing.</p>
-      <p type="listitem">When the problems started and the situations in which they feel better or worse.</p>
-      <p type="listitem">A list of the medications you are taking, including non-prescription drugs and natural remedies.</p>
-      <p type="listitem">Any serious illnesses you have had.</p>
-    </list>
-    <p>Another effective way of remembering is to keep a diary of your symptoms. For example, you might want to note the situations that aggravate the symptoms, what they feel like and where it hurts.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">4. Participate in your care</p>
-    <p>You have the right to state your opinion about the care you receive, as well as to participate in decisions whenever possible. In order for that process to work properly, you must receive individualized information about:</p>
-    <list>
-      <p type="listitem">Your state of health.</p>
-      <p type="listitem">The examination, care and treatment options that are available.</p>
-      <p type="listitem">The potential risks and adverse effects associated with various examinations and treatment methods.</p>
-      <p type="listitem">When you can expect to receive care.</p>
-      <p type="listitem">How the care and treatment that is being planned for you will be provided.</p>
-      <p type="listitem">The care and treatment you will need after a procedure or regimen has been completed.</p>
-      <p type="listitem">What you can do to prevent illness and injury.</p>
-      <p type="listitem">You are entitled to full and complete information about the medical devices that are available to help you handle any disability you have.</p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">5. Choose examinations and treatment methods</p>
-    <p>There are usually routines for examinations and treatment methods once you have received a diagnosis. You may have a number of different options to choose from. You are entitled to be informed about the various options and to choose the one that feels best for you.</p>
-    <p>You always have the right to consent to or refuse being examined or treated.</p>
-    <p>But you cannot insist on a procedure that is unsupported by scientific evidence or clinical experience. Nor are caregivers obliged to provide treatment that is based on alternative medicine.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">6. You can refuse care</p>
-    <p>You have the right to refuse virtually any care that is offered to you. Among the exceptions are when it involves compulsory psychiatric care and certain infections, such as HIV, that are covered by the Communicable Diseases Act.</p>
-    <p>Family members are not entitled to make decisions about your care. If you are unable to express your wishes for some reason, caregivers can ask members of your family if they know what you want.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">7. You decide whether members of your family can receive information</p>
-    <p>You might want to bring a member of your family along to a medical appointment. (S)he can help you remember what the doctor said and support you emotionally. However, it is always up to you to decide what a family member can find out about. Due to confidentiality requirements, a member of your family can obtain information about your care only if they come to the appointment with you or you specifically approve it. Caregivers generally ask you whom they can talk to about your care.</p>
-    <p>If you are under 18, your parents or legal guardians do not usually need to find out that you had an appointment or are receiving care. For example, they will not be contacted if you</p>
-    <list>
-      <p type="listitem">go to a youth clinic</p>
-      <p type="listitem">see a counsellor</p>
-      <p type="listitem">obtain contraceptive counselling</p>
-      <p type="listitem">take a test for a venereal disease.</p>
-    </list>
-    <p>Nor do they have to be told that you were at a health centre. Your age and level of maturity, as well as the kind of care you need, all determine whether your parents or legal guardians will be contacted. Tell your doctor if you don't want your parents to be contacted. Check out www.umo.se to learn more about confidentiality requirements.</p>
-    <p>Parents decide who is to receive information about young children. But that decision is increasingly up to children themselves as they get older and become more mature.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">8. Ask what will happen after an examination</p>
-    <p>You must be told whom to contact in order to find out the results of a test or examination, or to obtain help if your symptoms get worse.</p>
-    <p>Before being discharged from hospital, you should work with the staff to put together a care plan.</p>
-    <p>If you have a number of different caregivers, you can request that one person serve as your primary contact. (S)he can coordinate all of your communication with the healthcare system.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">9. You can get a second opinion</p>
-    <p>If you have life-threatening condition, a particularly serious disease or a severe injury, you may be entitled to receive a second opinion. Getting a second opinion may help resolve any uncertainties you have about the treatment that is best suited for you. Asking for a second opinion does not mean that you are dissatisfied with your doctor's diagnosis or recommendation.</p>
-    <p>You can choose any doctor in Sweden to provide a second opinion. Talk to you doctor if you want to know more about your options.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">10. Take action if you are dissatisfied</p>
-    <p>It is a good idea to state your point of view if you are dissatisfied with the care that you or a family member has received. The healthcare system benefits when people have the courage to say what they think.</p>
-    <p>The first thing you should do is contact the doctor or caregiver who examined or treated you. You may talk to the director of the unit if you prefer. The clinic must investigate the incident and tell you how they plan to make sure that it is not repeated.</p>
-    <p>Another option is to ask the Patient Advisory Board or Patient Ombudsman for assistance. Each county council is required to have one of the two. The board or ombudsman must listen to your complaints and opinions but is not authorized to determine whether any kind of malpractice was involved. Various patient advocacy groups may be able to help you have your complaint heard and dealt with.</p>
-    <p>If a care provider has discriminated against you, submit a report to the Equality Ombudsman.</p>
-    <p>Let the Health and Social Care Inspectorate​ know if you have suffered an injury while receiving health care or witnessed violations of patient safety requirements. Their main job is to get to the bottom of what went wrong so that it won't happen again.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1522</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Forbered-ditt-lakarbesok--tio-tips-</origFileName><parallel_text xml:lang="fin" location="forbered-ditt-lakarbesok--tio-tips-.html"/><parallel_text xml:lang="sme" location="forbered-ditt-lakarbesok--tio-tips-.html"/><parallel_text xml:lang="swe" location="motet-med-varden.html"/><parallel_text location="forbered-ditt-lakarbesok--tio-tips.html" xml:lang="rmy-rlo"/><parallel_text location="forbered-ditt-lakarbesok--tio-tips-.html" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Getting ready for a medical appointment - a 10-point checklist / Förbered ditt läkarbesök - tio tips - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Getting ready for a medical appointment - a 10-point checklist Förbered ditt läkarbesök - tio tips</p>
+<p>If you prepare properly, you can fully participate in the care you receive and cooperate with caregivers to set up the plan that works best for you. Open, clear communication between you and caregivers is the foundation of safe, secure care.</p>
+<p xml:lang="swe"></p>
+<p type="title">1. Decide what clinic to go to</p>
+<p>You are entitled to make an appointment at the clinic of your choice. No matter where you live, you are free to go anywhere in the country.</p>
+<p>That right applies to primary care such as health centres, as well as outpatient specialist care such as paediatric clinics. Specialist care may require a referral.</p>
+<p>The caregivers at a health centre or specialist clinic that you have not been to before cannot automatically see your medical records at previous caregivers. They must obtain your approval first. Talk with the caregivers if you want to arrange for them to see your old records.</p>
+<p>The health care guarantee specifies the maximum length of time that you will need to wait before being given an appointment. However, the guarantee is not in effect if you choose care in another county council.</p>
+<p xml:lang="swe"></p>
+<p type="title">2. Make sure that you get clear information</p>
+<p>It is important that you understand what the doctor is saying and what it means for you when you are at an appointment. Caregivers must make sure that you fully understand the information, such as how to take your medication, etc. Ask them to write down the most important information. You can also schedule a follow-up appointment in order to get all your questions answered.</p>
+<p>Any information you receive must be based on your individual needs and capabilities. If you have difficulty speaking or understanding Swedish, or if you have vision or hearing loss, you can ask for an interpreter. Tell the clinic that you need an interpreter when you first make an appointment.</p>
+<p>Children also have the right to participate in decisions about the care they receive. There is no specific age at which children should first be involved—their level of maturity and the particular medical situation are the determining factors.</p>
+<p>If you have dementia or another condition that prevents you from understanding the information, caregivers must explain it to a member of your family instead.</p>
+<p xml:lang="swe"></p>
+<p type="title">3. Tell your story and ask questions</p>
+<p>Before going to an appointment, take some time out to think about what you want to tell the doctor and what you want to ask about. Be ready to explain what you expect from the appointment and whether you are worried about anything in particular. Writing your questions down ahead of time will make it easier to remember them. You might want to ask a friend or family member to write them down for you. Here are the kinds of things you can jot down in advance:</p>
+<list><p type="listitem">The health problems that you are experiencing.</p>
+<p type="listitem">When the problems started and the situations in which they feel better or worse.</p>
+<p type="listitem">A list of the medications you are taking, including non-prescription drugs and natural remedies.</p>
+<p type="listitem">Any serious illnesses you have had.</p>
+</list><p>Another effective way of remembering is to keep a diary of your symptoms. For example, you might want to note the situations that aggravate the symptoms, what they feel like and where it hurts.</p>
+<p xml:lang="swe"></p>
+<p type="title">4. Participate in your care</p>
+<p>You have the right to state your opinion about the care you receive, as well as to participate in decisions whenever possible. In order for that process to work properly, you must receive individualized information about:</p>
+<list><p type="listitem">Your state of health.</p>
+<p type="listitem">The examination, care and treatment options that are available.</p>
+<p type="listitem">The potential risks and adverse effects associated with various examinations and treatment methods.</p>
+<p type="listitem">When you can expect to receive care.</p>
+<p type="listitem">How the care and treatment that is being planned for you will be provided.</p>
+<p type="listitem">The care and treatment you will need after a procedure or regimen has been completed.</p>
+<p type="listitem">What you can do to prevent illness and injury.</p>
+<p type="listitem">You are entitled to full and complete information about the medical devices that are available to help you handle any disability you have.</p>
+</list><p xml:lang="swe"></p>
+<p type="title">5. Choose examinations and treatment methods</p>
+<p>There are usually routines for examinations and treatment methods once you have received a diagnosis. You may have a number of different options to choose from. You are entitled to be informed about the various options and to choose the one that feels best for you.</p>
+<p>You always have the right to consent to or refuse being examined or treated.</p>
+<p>But you cannot insist on a procedure that is unsupported by scientific evidence or clinical experience. Nor are caregivers obliged to provide treatment that is based on alternative medicine.</p>
+<p xml:lang="swe"></p>
+<p type="title">6. You can refuse care</p>
+<p>You have the right to refuse virtually any care that is offered to you. Among the exceptions are when it involves compulsory psychiatric care and certain infections, such as HIV, that are covered by the Communicable Diseases Act.</p>
+<p>Family members are not entitled to make decisions about your care. If you are unable to express your wishes for some reason, caregivers can ask members of your family if they know what you want.</p>
+<p xml:lang="swe"></p>
+<p type="title">7. You decide whether members of your family can receive information</p>
+<p>You might want to bring a member of your family along to a medical appointment. (S)he can help you remember what the doctor said and support you emotionally. However, it is always up to you to decide what a family member can find out about. Due to confidentiality requirements, a member of your family can obtain information about your care only if they come to the appointment with you or you specifically approve it. Caregivers generally ask you whom they can talk to about your care.</p>
+<p>If you are under 18, your parents or legal guardians do not usually need to find out that you had an appointment or are receiving care. For example, they will not be contacted if you</p>
+<list><p type="listitem">go to a youth clinic</p>
+<p type="listitem">see a counsellor</p>
+<p type="listitem">obtain contraceptive counselling</p>
+<p type="listitem">take a test for a venereal disease.</p>
+</list><p>Nor do they have to be told that you were at a health centre. Your age and level of maturity, as well as the kind of care you need, all determine whether your parents or legal guardians will be contacted. Tell your doctor if you don't want your parents to be contacted. Check out www.umo.se to learn more about confidentiality requirements.</p>
+<p>Parents decide who is to receive information about young children. But that decision is increasingly up to children themselves as they get older and become more mature.</p>
+<p xml:lang="swe"></p>
+<p type="title">8. Ask what will happen after an examination</p>
+<p>You must be told whom to contact in order to find out the results of a test or examination, or to obtain help if your symptoms get worse.</p>
+<p>Before being discharged from hospital, you should work with the staff to put together a care plan.</p>
+<p>If you have a number of different caregivers, you can request that one person serve as your primary contact. (S)he can coordinate all of your communication with the healthcare system.</p>
+<p xml:lang="swe"></p>
+<p type="title">9. You can get a second opinion</p>
+<p>If you have life-threatening condition, a particularly serious disease or a severe injury, you may be entitled to receive a second opinion. Getting a second opinion may help resolve any uncertainties you have about the treatment that is best suited for you. Asking for a second opinion does not mean that you are dissatisfied with your doctor's diagnosis or recommendation.</p>
+<p>You can choose any doctor in Sweden to provide a second opinion. Talk to you doctor if you want to know more about your options.</p>
+<p xml:lang="swe"></p>
+<p type="title">10. Take action if you are dissatisfied</p>
+<p>It is a good idea to state your point of view if you are dissatisfied with the care that you or a family member has received. The healthcare system benefits when people have the courage to say what they think.</p>
+<p>The first thing you should do is contact the doctor or caregiver who examined or treated you. You may talk to the director of the unit if you prefer. The clinic must investigate the incident and tell you how they plan to make sure that it is not repeated.</p>
+<p>Another option is to ask the Patient Advisory Board or Patient Ombudsman for assistance. Each county council is required to have one of the two. The board or ombudsman must listen to your complaints and opinions but is not authorized to determine whether any kind of malpractice was involved. Various patient advocacy groups may be able to help you have your complaint heard and dealt with.</p>
+<p>If a care provider has discriminated against you, submit a report to the Equality Ombudsman.</p>
+<p>Let the Health and Social Care Inspectorate​ know if you have suffered an injury while receiving health care or witnessed violations of patient safety requirements. Their main job is to get to the bottom of what went wrong so that it won't happen again.</p>
+</body></document>

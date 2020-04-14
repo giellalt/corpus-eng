@@ -1,71 +1,30 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>936</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Barn/Magsjuka-hos-smabarn--vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="fin" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="f12.html"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Children with stomach flu – What can you do yourself? / Magsjuka hos småbarn – vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title">Children with stomach flu – What can you do yourself?Magsjuka hos småbarn – vad kan man göra själv?</p>
-    <p xml:lang="swe"></p>
-    <p type="title">The symptoms set in fast</p>
-    <p>Symptoms for children with stomach flu include vomiting and diarrhoea. They may also have stomach pains and a fever. Stomach flu often occurs due to an infection caused by a virus.</p>
-    <p>The symptoms usually occur a couple of days after the child has been infected, and set in fast. Several family members or children at preschool are often infected too. The infections usually pass within a few days. The vomiting usually stops after a day, but the diarrhoea may continue for another week.</p>
-    <p type="title">Children are more sensitive to fluid loss</p>
-    <p>Fluids and salts are lost through vomiting and diarrhoea.. Small children are much more sensitive when it comes to fluid loss than adults. If a child loses more fluid then it receives its condition can deteriorate quickly. A high fever causes the child to suffer more fluid loss. That is why it is important to give the child plenty of liquids from the beginning of the infection.</p>
-    <p type="title">Tips on how to keep the child hydrated</p>
-    <p>To get a child to ingest fluids but is vomiting you can, if the child is breastfed, small and frequent meals are better. If the child is unwilling to drink, it is best to try to pump out some milk and feed the child with a spoon. Suitable pumps are available from your local pharmacy.</p>
-    <p>If the child is not breastfed then you should give him or her a rehydration solution. It is easiest to feed with a teaspoon and give smaller portions often.</p>
-    <p>If the child is vomiting often then two teaspoons of liquid should be given to the child every five minutes. During a 24-hour period more liquids are needed than you might think; for example a one-year old child needs more than a litre. Continue to give the child small portions even if the vomiting doesn't stop.</p>
-    <p type="title">Rehydration solution</p>
-    <p>A rehydration solution is the best option if the child is vomiting a lot. Rehydration solution is available from pharmacies. Because the solution contains salt, the balance of liquid in the body is restored in a beneficial way.</p>
-    <p>But sometimes perhaps the child finds it easier to drink a different beverage. This approach can be tested instead; because the most important thing is that the child drinks liquid at all. Sugary liquids should be avoided, such as soft drinks and juice, because too much sugar can lead to more diarrhoea.. Avoid light drinks as well because they contain no sugar whatsoever.</p>
-    <p type="title">When the vomiting has ceased but the diarrhoea has not</p>
-    <p>It is usual that the diarrhoea can continue even after the vomiting has stopped. If the child has diarrhoea and is breastfeeding then continue to breast feed as usual. If the child is not breast fed, then you can use a breast-milk substitute, rice- or maize gruel depending on the child's age. Start by feeding small portions at a time to see that the child is digesting the food.</p>
-    <p>When the child starts to eat it is wise to feed him or her normal food and mix in some extra fat. If you want to try something that is constipating, then carrot soup made with carrot purée and water is a good choice. Fruit digests in a different way than other foods resulting in liquid faeces and with severe diarrhoea, milk and whole grain porridge should be avoided. Don not give the child any foods rich in fibre until he or she is completely well.</p>
-    <p type="title">If the vomiting starts up again</p>
-    <p>If the vomiting starts to reoccur, continue to provide rehydration solution, but be observant if the child becomes lethargic or affected.</p>
-    <p type="title">How can one avoid being infected?</p>
-    <p>Because stomach flu is contagious it is a good idea to keep the child and the rest of the family washing their hands with liquid soap before mealtimes and after toilet use and that everyone has their own individual hand towel or uses disposable paper towels. Wiping down the toilet often is also a good idea.</p>
-    <p>If the child is wearing nappies than it is a good idea to put used nappies in a plastic bag before they are thrown in the waste bin. Clean the changing table after use and wash your hands thoroughly after changing the child.</p>
-    <p type="title">You may need to contact the healthcare services</p>
-    <p>If the child has frequent diarrhoea and or vomiting and shows signs of dehydration, in other words is significantly tired and uninterested in his or her surroundings, pees very little or rarely at all and doesn't have the energy to play, then you must contact the healthcare services immediately.</p>
-    <p>If the child has a high fever on top of diarrhoea and vomiting or has severe stomach pains, or if the diarrhoea contains blood or mucus, you should also contact the healthcare services. The same applies if the child's symptoms haven't improved within 24 hours, or if the child after the stomach flu is perky but has had liquid faeces for more than two weeks.</p>
-    <p>Diarrhoea and vomiting can be symptoms of diseases other than stomach flu. If you are uncertain then call and consult the healthcare helpline or local healthcare centre. If small children under six months old start to vomit or have diarrhoea then you should always contact the healthcare services.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>927</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Barn/Magsjuka-hos-smabarn--vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="fin" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="f12.html"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Children with stomach flu – What can you do yourself? / Magsjuka hos småbarn – vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Children with stomach flu – What can you do yourself?Magsjuka hos småbarn – vad kan man göra själv?</p>
+<p xml:lang="swe"></p>
+<p type="title">The symptoms set in fast</p>
+<p>Symptoms for children with stomach flu include vomiting and diarrhoea. They may also have stomach pains and a fever. Stomach flu often occurs due to an infection caused by a virus.</p>
+<p>The symptoms usually occur a couple of days after the child has been infected, and set in fast. Several family members or children at preschool are often infected too. The infections usually pass within a few days. The vomiting usually stops after a day, but the diarrhoea may continue for another week.</p>
+<p type="title">Children are more sensitive to fluid loss</p>
+<p>Fluids and salts are lost through vomiting and diarrhoea.. Small children are much more sensitive when it comes to fluid loss than adults. If a child loses more fluid then it receives its condition can deteriorate quickly. A high fever causes the child to suffer more fluid loss. That is why it is important to give the child plenty of liquids from the beginning of the infection.</p>
+<p type="title">Tips on how to keep the child hydrated</p>
+<p>To get a child to ingest fluids but is vomiting you can, if the child is breastfed, small and frequent meals are better. If the child is unwilling to drink, it is best to try to pump out some milk and feed the child with a spoon. Suitable pumps are available from your local pharmacy.</p>
+<p>If the child is not breastfed then you should give him or her a rehydration solution. It is easiest to feed with a teaspoon and give smaller portions often.</p>
+<p>If the child is vomiting often then two teaspoons of liquid should be given to the child every five minutes. During a 24-hour period more liquids are needed than you might think; for example a one-year old child needs more than a litre. Continue to give the child small portions even if the vomiting doesn't stop.</p>
+<p type="title">Rehydration solution</p>
+<p>A rehydration solution is the best option if the child is vomiting a lot. Rehydration solution is available from pharmacies. Because the solution contains salt, the balance of liquid in the body is restored in a beneficial way.</p>
+<p>But sometimes perhaps the child finds it easier to drink a different beverage. This approach can be tested instead; because the most important thing is that the child drinks liquid at all. Sugary liquids should be avoided, such as soft drinks and juice, because too much sugar can lead to more diarrhoea.. Avoid light drinks as well because they contain no sugar whatsoever.</p>
+<p type="title">When the vomiting has ceased but the diarrhoea has not</p>
+<p>It is usual that the diarrhoea can continue even after the vomiting has stopped. If the child has diarrhoea and is breastfeeding then continue to breast feed as usual. If the child is not breast fed, then you can use a breast-milk substitute, rice- or maize gruel depending on the child's age. Start by feeding small portions at a time to see that the child is digesting the food.</p>
+<p>When the child starts to eat it is wise to feed him or her normal food and mix in some extra fat. If you want to try something that is constipating, then carrot soup made with carrot purée and water is a good choice. Fruit digests in a different way than other foods resulting in liquid faeces and with severe diarrhoea, milk and whole grain porridge should be avoided. Don not give the child any foods rich in fibre until he or she is completely well.</p>
+<p type="title">If the vomiting starts up again</p>
+<p>If the vomiting starts to reoccur, continue to provide rehydration solution, but be observant if the child becomes lethargic or affected.</p>
+<p type="title">How can one avoid being infected?</p>
+<p>Because stomach flu is contagious it is a good idea to keep the child and the rest of the family washing their hands with liquid soap before mealtimes and after toilet use and that everyone has their own individual hand towel or uses disposable paper towels. Wiping down the toilet often is also a good idea.</p>
+<p>If the child is wearing nappies than it is a good idea to put used nappies in a plastic bag before they are thrown in the waste bin. Clean the changing table after use and wash your hands thoroughly after changing the child.</p>
+<p type="title">You may need to contact the healthcare services</p>
+<p>If the child has frequent diarrhoea and or vomiting and shows signs of dehydration, in other words is significantly tired and uninterested in his or her surroundings, pees very little or rarely at all and doesn't have the energy to play, then you must contact the healthcare services immediately.</p>
+<p>If the child has a high fever on top of diarrhoea and vomiting or has severe stomach pains, or if the diarrhoea contains blood or mucus, you should also contact the healthcare services. The same applies if the child's symptoms haven't improved within 24 hours, or if the child after the stomach flu is perky but has had liquid faeces for more than two weeks.</p>
+<p>Diarrhoea and vomiting can be symptoms of diseases other than stomach flu. If you are uncertain then call and consult the healthcare helpline or local healthcare centre. If small children under six months old start to vomit or have diarrhoea then you should always contact the healthcare services.</p>
+</body></document>

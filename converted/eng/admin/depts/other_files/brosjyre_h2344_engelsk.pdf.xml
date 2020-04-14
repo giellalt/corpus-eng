@@ -1,196 +1,170 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1556</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>https://www.regjeringen.no/contentassets/caefd134cb2a4891a885b5a8cb79724f/brosjyre_h2344_engelsk.pdf</origFileName>
-    <parallel_text xml:lang="nno" location="brosjyre_h2344_nynorsk.pdf"/>
-    <parallel_text xml:lang="nob" location="brosjyre_h2344_bokmal.pdf"/>
-    <parallel_text xml:lang="sma" location="brosjyre_h2344_sorsamisk.pdf"/>
-    <parallel_text xml:lang="smj" location="brosjyre_h2344_lulesamisk.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">English | Engelsk</p>
-    <p><em type="bold">2015 municipal and county council elections</em> </p>
-    <p>We use these elections to elect representatives to the municipal and county councils.</p>
-    <p><em type="bold">The municipal council</em> is the highest governing body of the municipality in Norway. It makes decisions about local matters, such as nursery schools, child welfare, planning and zoning issues, primary and lower secondary schools, health and welfare services, cultural initiatives, and refuse collection and disposal. </p>
-    <p><em type="bold">The county council</em> is the highest governing body at county level in Norway. It makes decisions about such matters as further education, county roads (along with connecting ferry services), local public transport and cultural initiatives. </p>
-    <p>In Oslo there will be a municipal council election and elections for the city district councils, but no county council election.</p>
-    <p xml:lang="nno">In 20 municipalities, 16- and 17-year-olds will be eligible to vote in the municipal council election. The municipalities concerned are Austevoll, Eid, Gausdal, Hamar, Horten, Hå, Klæbu, Kautokeino, Kristiansund, Lillesand, Luster, Mandal, Marker, Målselv, Namdalseid, Oppegård, Porsgrunn, Stavanger, Tysfjord and Vadsø.</p>
-    <p>Local matters are the ones that affect you most on a day-to-day basis. By voting, you will be helping to decide who will represent you and your interests in the municipal council and county council.</p>
-    <p>This brochure will provide you with information about what to do.</p>
-    <p><em type="bold">Election Day is Monday, 14 September 2015 </em></p>
-    <p>Many municipalities are also holding elections on Sunday, 13 September. Your municipality will tell you whether there are elections on both days, or on just one.</p>
-    <p><em type="bold">Remember to take ID when you vote! </em></p>
-    <p>In accordance with the Norwegian Representation of the People Act, the polling officers may require any voter that they do not recognise to provide proof of identity. A passport, driving licence or bank card with cardholder’s photo are all acceptable as proof of identity, but you can also use other types of ID. The proof of identity must show the voter’s name, date of birth and picture.</p>
-    <p>If you are currently residing in an institution, such as a nursing home, hospital or prison, you can get an employee of the institution to confirm your identity.</p>
-    <p><em type="bold">Each voter will be sent a polling card</em> </p>
-    <p>The front of the polling card will provide you with information about which polling station you are registered at and details of the polling station opening times on Election Day. You do not need to bring your polling card with you when you vote, but it may save you time. The polling card is not valid proof of identity.</p>
-    <p><em type="bold">Who can vote? </em></p>
-    <p type="listitem">•  Norwegian citizens who will be at least 18 years of age at the end of 2015 and</p>
-    <p>who are registered, or have been registered, as resident in Norway.</p>
-    <p type="listitem">•  Citizens of other Nordic countries who will be at least 18 years of age at the</p>
-    <p>end of 2015 and who were registered as resident in Norway as of 30 June 2015.</p>
-    <p type="listitem">•  Citizens of other countries who will be at least 18 years of age at the end of</p>
-    <p>2015 and who have been registered as resident in Norway continuously for the three years preceding Election Day.</p>
-    <p type="listitem">•  In 20 municipalities, those who will be at least 16 years of age at the end</p>
-    <p>of 2015 will be eligible to vote in the municipal council election. These must fulfil the residence requirements as above. See page 2 for a list of the municipalities concerned.</p>
-    <p><em type="bold">Where and when can you vote?</em> </p>
-    <p><em type="bold">On Election Day</em> you must vote in the municipality in which you are registered as resident as of 30 June 2015. You can vote at any polling station in the municipality. </p>
-    <p><em type="bold">You can vote in advance</em> from 1 July to 11 September inclusive in any municipality. </p>
-    <p>See the illustrations on the next page showing how to vote in your home municipality.</p>
-    <p><em type="bold">If you vote in a municipality other than your home municipality,</em> the procedure is slightly different. You will be provided with a ballot paper printed with the names of the registered political parties but no candidate names. You must then put a cross by (or write in) the name of the party or group for which you wish to vote. Alternatively, you can obtain a ballot paper from your municipality and use that if you wish to give personal votes to candidates. The same applies if you vote outside the county in which you are resident in the county council election. </p>
-    <p>If you vote in a municipality other than your home municipality, ask a polling officer to stamp your ballot papers before you put them into a ballot paper envelope. This envelope and the polling card will be placed into a covering envelope, which will then be put into the ballot box. Your vote will be sent to your home municipality to be counted.</p>
-    <p>If you are ill or disabled, you can apply to the municipality to be able to vote in advance at home. The municipality will tell you the application deadline. The municipality will tell you where the polling stations are and their opening times.</p>
-    <p><em type="bold">From August, you can also find your polling station on your mobile phone: </em></p>
-    <p xml:lang="nno"><em type="bold">www.valglokaler.no </em></p>
-    <p><em type="bold">How to vote in your home municipality</em> </p>
-    <p><em type="bold">1)</em> Take the ballot papers you will use – one for the municipal council election and one for the county council election. </p>
-    <p><em type="bold">2)</em> Make any changes you wish to the ballot papers (see the instructions on the next page). </p>
-    <p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
-    <p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut. </p>
-    <p xml:lang="nob"><em type="bold">Se veiledning </em></p>
-    <p xml:lang="nob"><em type="bold">Brett  </em></p>
-    <p xml:lang="nob">Valgliste ved kommunestyrevalget i Kommunenavn</p>
-    <p xml:lang="nno"><em type="bold">Parti</em> </p>
-    <p xml:lang="deu"><em type="bold">Personstemme</em> </p>
-    <p xml:lang="est">KommunestyrevalgetKommunestyrevalgetK</p>
-    <p xml:lang="vep">16.Kandidat</p>
-    <p xml:lang="deu"><em type="bold">Personstemme </em></p>
-    <p xml:lang="koi">17.</p>
-    <p xml:lang="vep"><em type="bold">1.Kandidat</em> </p>
-    <p xml:lang="vep"><em type="bold">2.Kandidat</em> </p>
-    <p xml:lang="vep"><em type="bold">3.Kandidat</em> </p>
-    <p xml:lang="vep">4.Kandidat</p>
-    <p xml:lang="vep">5.Kandidat</p>
-    <p xml:lang="vep">6.Kandidat</p>
-    <p xml:lang="vep">7.Kandidat</p>
-    <p><em type="bold">3)</em> Fold each of the ballot papers in such a way as to conceal the party name, but keeping the space for the stamp still visible. In this way, no one can see how you are voting. The ballot papers should not be placed in any sort of envelope or cover. </p>
-    <p><em type="bold">4)</em> Approach a polling offi  cer and get your ballot papers stamped on the outside. Both ballot papers must be stamped in order to be valid. </p>
-    <p><em type="bold">5)</em> Place the stamped ballot papers in the ballot box. </p>
-    <p xml:lang="vep">8.Kandidat</p>
-    <p xml:lang="nob">(se veiledning på baksiden)</p>
-    <p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> (se veiledning på baksiden) <em type="bold">FORNAVN ETTERNAVN</em> (bruk blokkbokstaver) </p>
-    <p xml:lang="vep">9.Kandidat</p>
-    <p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> </p>
-    <p xml:lang="nob"><em type="bold">AVN</em> (bruk blokkbokstaver) </p>
-    <p xml:lang="deu"><em type="bold">FORNAVN ETTERN</em> </p>
-    <p xml:lang="vep">10.Kandidat</p>
-    <p xml:lang="vep">11.Kandidat</p>
-    <p xml:lang="nno">TT H</p>
-    <p xml:lang="vep">12.Kandidat</p>
-    <p xml:lang="vep">13.Kandidat</p>
-    <p xml:lang="vep">14.Kandidat</p>
-    <p xml:lang="nno">felt for ev. seddel id felt for ev. stemmeseddelnr felt for ev. seddel id</p>
-    <p xml:lang="vep">15.Kandidat</p>
-    <p xml:lang="nob">felt for ev. stemmeseddelnr</p>
-    <p><em type="bold">How to make changes on the ballot paper</em> </p>
-    <p>If you wish to influence which candidates will be elected, you must give personal votes to these candidates. It is up to you to decide whether to change the ballot paper by giving personal votes.</p>
-    <p>Do not be afraid to make changes. The procedure is explained on the ballot paper. Your vote will not be discounted even if you make a mistake.</p>
-    <p><em type="bold">How to give personal votes:</em> </p>
-    <p><em type="bold">For the municipal council election:</em> <em type="bold">1)</em> Place a cross in the box next to the name of each candidate you want to vote for. You can give personal votes to as many candidates as you wish. </p>
-    <p><em type="bold">2)</em> Write the name of any candidate from other parties or groups you wish to vote for in the space provided on the ballot paper. Instructions on the ballot paper will indicate how many candidate names you can enter. </p>
-    <p>Note that if you give personal votes to candidates from other parties or groups, a so-called list vote will be transferred to the other party or group.</p>
-    <p><em type="bold">For the county council election:</em> Place a cross in the box next to the name of each candidate you want to vote for. You can give personal votes to as many candidates as you wish. </p>
-    <p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
-    <p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut. </p>
-    <p xml:lang="nob"><em type="bold">Se veiledning </em></p>
-    <p xml:lang="nob"><em type="bold">Brett  </em></p>
-    <p xml:lang="nob">Valgliste ved kommunestyrevalget i KommunenavnDD. måned YYYY</p>
-    <p xml:lang="nno"><em type="bold">Parti</em> </p>
-    <p xml:lang="vep">16.Kandidat</p>
-    <p xml:lang="deu"><em type="bold">Personstemme </em></p>
-    <p xml:lang="vep">17.Kandidat</p>
-    <p xml:lang="vep"><em type="bold">1.Kandidat</em> </p>
-    <p xml:lang="vep">18.Kandidat</p>
-    <p xml:lang="vep"><em type="bold">2.Kandidat</em> </p>
-    <p xml:lang="vep">19.Kandidat</p>
-    <p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
-    <p xml:lang="vep"><em type="bold">3.Kandidat</em> </p>
-    <p xml:lang="vep">20.Kandidat</p>
-    <p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut. </p>
-    <p xml:lang="vep">4.Kandidat</p>
-    <p xml:lang="vep">21.Kandidat</p>
-    <p xml:lang="vep">5.Kandidat</p>
-    <p xml:lang="vep">22.Kandidat</p>
-    <p xml:lang="vep">6.Kandidat</p>
-    <p xml:lang="vep">23.Kandidat</p>
-    <p xml:lang="vep">16.Kandidat</p>
-    <p xml:lang="vep">7.Kandidat</p>
-    <p xml:lang="vep">24.Kandidat</p>
-    <p xml:lang="vep">17.Kandidat</p>
-    <p xml:lang="vep">8.Kandidat</p>
-    <p xml:lang="vep">25.Kandidat</p>
-    <p xml:lang="nob">(se veiledning på baksiden)</p>
-    <p xml:lang="vep">18.Kandidat</p>
-    <p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> (se veiledning på baksiden) <em type="bold">FORNAVN ETTERNAVN</em> (bruk blokkbokstaver) </p>
-    <p xml:lang="vep">9.Kandidat</p>
-    <p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> </p>
-    <p xml:lang="nob"><em type="bold">AVN</em> (bruk blokkbokstaver) </p>
-    <p xml:lang="vep">19.Kandidat</p>
-    <p xml:lang="deu"><em type="bold">FORNAVN ETTERN</em> </p>
-    <p xml:lang="vep">10.Kandidat</p>
-    <p xml:lang="vep">20.Kandidat</p>
-    <p xml:lang="vep">11.Kandidat</p>
-    <p xml:lang="vep">21.Kandidat</p>
-    <p xml:lang="nno">TT H</p>
-    <p xml:lang="vep">12.Kandidat</p>
-    <p xml:lang="vep">22.Kandidat</p>
-    <p xml:lang="vep">13.Kandidat</p>
-    <p xml:lang="vep">23.Kandidat</p>
-    <p xml:lang="vep">14.Kandidat</p>
-    <p xml:lang="vep">24.Kandidat</p>
-    <p xml:lang="nno">felt for ev. seddel id felt for ev. stemmeseddelnr felt for ev. seddel id</p>
-    <p xml:lang="vep">15.Kandidat</p>
-    <p xml:lang="vep">25.Kandidat</p>
-    <p xml:lang="vep"><em type="bold">AVN</em> </p>
-    <p xml:lang="nob">felt for ev. stemmeseddelnr</p>
-    <p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> <em type="bold">FORNAVN ETTERN</em> </p>
-    <p xml:lang="isl">ETT H</p>
-    <p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
-    <p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut.<em type="bold">Se veiledning </em></p>
-    <p xml:lang="nob"><em type="bold">Brett  </em></p>
-    <p xml:lang="nob">Valgliste ved kommunestyrevalget i Kommunenavn</p>
-    <p xml:lang="nno"><em type="bold">Parti</em> </p>
-    <p xml:lang="nob"><em type="bold">Personstemme </em>(sett kryss i rute foran kandidat) </p>
-    <p xml:lang="nob">Fylkestingsvalget</p>
-    <p xml:lang="vep">16.Kandidat</p>
-    <p xml:lang="deu"><em type="bold">Personstemme </em></p>
-    <p xml:lang="vep">17.Kandidat</p>
-    <p xml:lang="vep">1.Kandidat</p>
-    <p xml:lang="vep">18.Kandidat</p>
-    <p xml:lang="vep">2.Kandidat</p>
-    <p xml:lang="vep">19.Kandidat</p>
-    <p xml:lang="vep">3.Kandidat</p>
-    <p xml:lang="vep">20.Kandidat</p>
-    <p xml:lang="vep">4.Kandidat</p>
-    <p xml:lang="vep">21.Kandidat</p>
-    <p xml:lang="vep">5.Kandidat</p>
-    <p xml:lang="vep">22.Kandidat</p>
-    <p xml:lang="vep">6.Kandidat</p>
-    <p xml:lang="vep">23.Kandidat</p>
-    <p xml:lang="vep">7.Kandidat</p>
-    <p xml:lang="vep">24.Kandidat</p>
-    <p xml:lang="vep">8.Kandidat</p>
-    <p xml:lang="vep">25.Kandidat</p>
-    <p xml:lang="nob">(se veiledning på baksiden)ver)</p>
-    <p><em type="bold">Who will be elected?</em> </p>
-    <p>First, the electoral committee works out how many representatives the various parties or groups will have on the municipal or county council. The electoral committee then counts the personal votes to find out which candidates will be elected from each party or group.</p>
-    <p><em type="bold">You can find more information on www.valg.no</em> </p>
-    <p>Published in 2015 by the Ministry of Local Government and Modernisation This publication is available in Norwegian (bokmål and nynorsk versions), Sami and ten foreign languages</p>
-    <p>For more information about the election, please see <em type="bold">www.valg.no</em> </p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1556</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>https://www.regjeringen.no/contentassets/caefd134cb2a4891a885b5a8cb79724f/brosjyre_h2344_engelsk.pdf</origFileName><parallel_text xml:lang="nno" location="brosjyre_h2344_nynorsk.pdf"/><parallel_text xml:lang="nob" location="brosjyre_h2344_bokmal.pdf"/><parallel_text xml:lang="sma" location="brosjyre_h2344_sorsamisk.pdf"/><parallel_text xml:lang="smj" location="brosjyre_h2344_lulesamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">English | Engelsk</p>
+<p><em type="bold">2015 municipal and county council elections</em> </p>
+<p>We use these elections to elect representatives to the municipal and county councils.</p>
+<p><em type="bold">The municipal council</em> is the highest governing body of the municipality in Norway. It makes decisions about local matters, such as nursery schools, child welfare, planning and zoning issues, primary and lower secondary schools, health and welfare services, cultural initiatives, and refuse collection and disposal. </p>
+<p><em type="bold">The county council</em> is the highest governing body at county level in Norway. It makes decisions about such matters as further education, county roads (along with connecting ferry services), local public transport and cultural initiatives. </p>
+<p>In Oslo there will be a municipal council election and elections for the city district councils, but no county council election.</p>
+<p>In 20 municipalities, 16- and 17-year-olds will be eligible to vote in the municipal council election. The municipalities concerned are Austevoll, Eid, Gausdal, Hamar, Horten, Hå, Klæbu, Kautokeino, Kristiansund, Lillesand, Luster, Mandal, Marker, Målselv, Namdalseid, Oppegård, Porsgrunn, Stavanger, Tysfjord and Vadsø.</p>
+<p>Local matters are the ones that affect you most on a day-to-day basis. By voting, you will be helping to decide who will represent you and your interests in the municipal council and county council.</p>
+<p>This brochure will provide you with information about what to do.</p>
+<p><em type="bold">Election Day is Monday, 14 September 2015 </em></p>
+<p>Many municipalities are also holding elections on Sunday, 13 September. Your municipality will tell you whether there are elections on both days, or on just one.</p>
+<p><em type="bold">Remember to take ID when you vote! </em></p>
+<p>In accordance with the Norwegian Representation of the People Act, the polling officers may require any voter that they do not recognise to provide proof of identity. A passport, driving licence or bank card with cardholder’s photo are all acceptable as proof of identity, but you can also use other types of ID. The proof of identity must show the voter’s name, date of birth and picture.</p>
+<p>If you are currently residing in an institution, such as a nursing home, hospital or prison, you can get an employee of the institution to confirm your identity.</p>
+<p><em type="bold">Each voter will be sent a polling card</em> </p>
+<p>The front of the polling card will provide you with information about which polling station you are registered at and details of the polling station opening times on Election Day. You do not need to bring your polling card with you when you vote, but it may save you time. The polling card is not valid proof of identity.</p>
+<p><em type="bold">Who can vote? </em></p>
+<p type="listitem">•  Norwegian citizens who will be at least 18 years of age at the end of 2015 and</p>
+<p>who are registered, or have been registered, as resident in Norway.</p>
+<p type="listitem">•  Citizens of other Nordic countries who will be at least 18 years of age at the</p>
+<p>end of 2015 and who were registered as resident in Norway as of 30 June 2015.</p>
+<p type="listitem">•  Citizens of other countries who will be at least 18 years of age at the end of</p>
+<p>2015 and who have been registered as resident in Norway continuously for the three years preceding Election Day.</p>
+<p type="listitem">•  In 20 municipalities, those who will be at least 16 years of age at the end</p>
+<p>of 2015 will be eligible to vote in the municipal council election. These must fulfil the residence requirements as above. See page 2 for a list of the municipalities concerned.</p>
+<p><em type="bold">Where and when can you vote?</em> </p>
+<p><em type="bold">On Election Day</em> you must vote in the municipality in which you are registered as resident as of 30 June 2015. You can vote at any polling station in the municipality. </p>
+<p><em type="bold">You can vote in advance</em> from 1 July to 11 September inclusive in any municipality. </p>
+<p>See the illustrations on the next page showing how to vote in your home municipality.</p>
+<p><em type="bold">If you vote in a municipality other than your home municipality,</em> the procedure is slightly different. You will be provided with a ballot paper printed with the names of the registered political parties but no candidate names. You must then put a cross by (or write in) the name of the party or group for which you wish to vote. Alternatively, you can obtain a ballot paper from your municipality and use that if you wish to give personal votes to candidates. The same applies if you vote outside the county in which you are resident in the county council election. </p>
+<p>If you vote in a municipality other than your home municipality, ask a polling officer to stamp your ballot papers before you put them into a ballot paper envelope. This envelope and the polling card will be placed into a covering envelope, which will then be put into the ballot box. Your vote will be sent to your home municipality to be counted.</p>
+<p>If you are ill or disabled, you can apply to the municipality to be able to vote in advance at home. The municipality will tell you the application deadline. The municipality will tell you where the polling stations are and their opening times.</p>
+<p><em type="bold">From August, you can also find your polling station on your mobile phone: </em></p>
+<p xml:lang="nno"><em type="bold">www.valglokaler.no </em></p>
+<p><em type="bold">How to vote in your home municipality</em> </p>
+<p><em type="bold">1)</em> Take the ballot papers you will use – one for the municipal council election and one for the county council election. </p>
+<p><em type="bold">2)</em> Make any changes you wish to the ballot papers (see the instructions on the next page). </p>
+<p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
+<p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut. </p>
+<p xml:lang="nob"><em type="bold">Se veiledning </em></p>
+<p xml:lang="nob"><em type="bold">Brett  </em></p>
+<p xml:lang="nob">Valgliste ved kommunestyrevalget i Kommunenavn</p>
+<p xml:lang="nno"><em type="bold">Parti</em> </p>
+<p xml:lang="deu"><em type="bold">Personstemme</em> </p>
+<p xml:lang="est">KommunestyrevalgetKommunestyrevalgetK</p>
+<p xml:lang="vep">16.Kandidat</p>
+<p xml:lang="deu"><em type="bold">Personstemme </em></p>
+<p xml:lang="vep">17.</p>
+<p xml:lang="vep"><em type="bold">1.Kandidat</em> </p>
+<p xml:lang="vep"><em type="bold">2.Kandidat</em> </p>
+<p xml:lang="vep"><em type="bold">3.Kandidat</em> </p>
+<p xml:lang="vep">4.Kandidat</p>
+<p xml:lang="vep">5.Kandidat</p>
+<p xml:lang="vep">6.Kandidat</p>
+<p xml:lang="vep">7.Kandidat</p>
+<p><em type="bold">3)</em> Fold each of the ballot papers in such a way as to conceal the party name, but keeping the space for the stamp still visible. In this way, no one can see how you are voting. The ballot papers should not be placed in any sort of envelope or cover. </p>
+<p><em type="bold">4)</em> Approach a polling offi  cer and get your ballot papers stamped on the outside. Both ballot papers must be stamped in order to be valid. </p>
+<p><em type="bold">5)</em> Place the stamped ballot papers in the ballot box. </p>
+<p xml:lang="vep">8.Kandidat</p>
+<p xml:lang="nob">(se veiledning på baksiden)</p>
+<p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> (se veiledning på baksiden) <em type="bold">FORNAVN ETTERNAVN</em> (bruk blokkbokstaver) </p>
+<p xml:lang="vep">9.Kandidat</p>
+<p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> </p>
+<p xml:lang="nob"><em type="bold">AVN</em> (bruk blokkbokstaver) </p>
+<p xml:lang="deu"><em type="bold">FORNAVN ETTERN</em> </p>
+<p xml:lang="vep">10.Kandidat</p>
+<p xml:lang="vep">11.Kandidat</p>
+<p xml:lang="nno">TT H</p>
+<p xml:lang="vep">12.Kandidat</p>
+<p xml:lang="vep">13.Kandidat</p>
+<p xml:lang="vep">14.Kandidat</p>
+<p xml:lang="nno">felt for ev. seddel id felt for ev. stemmeseddelnr felt for ev. seddel id</p>
+<p xml:lang="vep">15.Kandidat</p>
+<p xml:lang="nob">felt for ev. stemmeseddelnr</p>
+<p><em type="bold">How to make changes on the ballot paper</em> </p>
+<p>If you wish to influence which candidates will be elected, you must give personal votes to these candidates. It is up to you to decide whether to change the ballot paper by giving personal votes.</p>
+<p>Do not be afraid to make changes. The procedure is explained on the ballot paper. Your vote will not be discounted even if you make a mistake.</p>
+<p><em type="bold">How to give personal votes:</em> </p>
+<p><em type="bold">For the municipal council election:</em> <em type="bold">1)</em> Place a cross in the box next to the name of each candidate you want to vote for. You can give personal votes to as many candidates as you wish. </p>
+<p><em type="bold">2)</em> Write the name of any candidate from other parties or groups you wish to vote for in the space provided on the ballot paper. Instructions on the ballot paper will indicate how many candidate names you can enter. </p>
+<p>Note that if you give personal votes to candidates from other parties or groups, a so-called list vote will be transferred to the other party or group.</p>
+<p><em type="bold">For the county council election:</em> Place a cross in the box next to the name of each candidate you want to vote for. You can give personal votes to as many candidates as you wish. </p>
+<p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
+<p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut. </p>
+<p xml:lang="nob"><em type="bold">Se veiledning </em></p>
+<p xml:lang="nob"><em type="bold">Brett  </em></p>
+<p xml:lang="nob">Valgliste ved kommunestyrevalget i KommunenavnDD. måned YYYY</p>
+<p xml:lang="nno"><em type="bold">Parti</em> </p>
+<p xml:lang="vep">16.Kandidat</p>
+<p xml:lang="deu"><em type="bold">Personstemme </em></p>
+<p xml:lang="vep">17.Kandidat</p>
+<p xml:lang="vep"><em type="bold">1.Kandidat</em> </p>
+<p xml:lang="vep">18.Kandidat</p>
+<p xml:lang="vep"><em type="bold">2.Kandidat</em> </p>
+<p xml:lang="vep">19.Kandidat</p>
+<p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
+<p xml:lang="vep"><em type="bold">3.Kandidat</em> </p>
+<p xml:lang="vep">20.Kandidat</p>
+<p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut. </p>
+<p xml:lang="vep">4.Kandidat</p>
+<p xml:lang="vep">21.Kandidat</p>
+<p xml:lang="vep">5.Kandidat</p>
+<p xml:lang="vep">22.Kandidat</p>
+<p xml:lang="vep">6.Kandidat</p>
+<p xml:lang="vep">23.Kandidat</p>
+<p xml:lang="vep">16.Kandidat</p>
+<p xml:lang="vep">7.Kandidat</p>
+<p xml:lang="vep">24.Kandidat</p>
+<p xml:lang="vep">17.Kandidat</p>
+<p xml:lang="vep">8.Kandidat</p>
+<p xml:lang="vep">25.Kandidat</p>
+<p xml:lang="nob">(se veiledning på baksiden)</p>
+<p xml:lang="vep">18.Kandidat</p>
+<p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> (se veiledning på baksiden) <em type="bold">FORNAVN ETTERNAVN</em> (bruk blokkbokstaver) </p>
+<p xml:lang="vep">9.Kandidat</p>
+<p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> </p>
+<p xml:lang="nob"><em type="bold">AVN</em> (bruk blokkbokstaver) </p>
+<p xml:lang="vep">19.Kandidat</p>
+<p xml:lang="deu"><em type="bold">FORNAVN ETTERN</em> </p>
+<p xml:lang="vep">10.Kandidat</p>
+<p xml:lang="vep">20.Kandidat</p>
+<p xml:lang="vep">11.Kandidat</p>
+<p xml:lang="vep">21.Kandidat</p>
+<p xml:lang="nno">TT H</p>
+<p xml:lang="vep">12.Kandidat</p>
+<p xml:lang="vep">22.Kandidat</p>
+<p xml:lang="vep">13.Kandidat</p>
+<p xml:lang="vep">23.Kandidat</p>
+<p xml:lang="vep">14.Kandidat</p>
+<p xml:lang="vep">24.Kandidat</p>
+<p xml:lang="nno">felt for ev. seddel id felt for ev. stemmeseddelnr felt for ev. seddel id</p>
+<p xml:lang="vep">15.Kandidat</p>
+<p xml:lang="vep">25.Kandidat</p>
+<p xml:lang="vep"><em type="bold">AVN</em> </p>
+<p xml:lang="nob">felt for ev. stemmeseddelnr</p>
+<p xml:lang="nob"><em type="bold">Kandidater fra andre lister</em> <em type="bold">FORNAVN ETTERN</em> </p>
+<p xml:lang="isl">ETT H</p>
+<p xml:lang="nob"><em type="bold">Se veiledning </em>på baksiden om hvordan du kan endre. </p>
+<p xml:lang="nob"><em type="bold">Brett  </em>stemmeseddelen med farget side ut.<em type="bold">Se veiledning </em></p>
+<p xml:lang="nob"><em type="bold">Brett  </em></p>
+<p xml:lang="nob">Valgliste ved kommunestyrevalget i Kommunenavn</p>
+<p xml:lang="nno"><em type="bold">Parti</em> </p>
+<p xml:lang="nob"><em type="bold">Personstemme </em>(sett kryss i rute foran kandidat) </p>
+<p xml:lang="nob">Fylkestingsvalget</p>
+<p xml:lang="vep">16.Kandidat</p>
+<p xml:lang="deu"><em type="bold">Personstemme </em></p>
+<p xml:lang="vep">17.Kandidat</p>
+<p xml:lang="vep">1.Kandidat</p>
+<p xml:lang="vep">18.Kandidat</p>
+<p xml:lang="vep">2.Kandidat</p>
+<p xml:lang="vep">19.Kandidat</p>
+<p xml:lang="vep">3.Kandidat</p>
+<p xml:lang="vep">20.Kandidat</p>
+<p xml:lang="vep">4.Kandidat</p>
+<p xml:lang="vep">21.Kandidat</p>
+<p xml:lang="vep">5.Kandidat</p>
+<p xml:lang="vep">22.Kandidat</p>
+<p xml:lang="vep">6.Kandidat</p>
+<p xml:lang="vep">23.Kandidat</p>
+<p xml:lang="vep">7.Kandidat</p>
+<p xml:lang="vep">24.Kandidat</p>
+<p xml:lang="vep">8.Kandidat</p>
+<p xml:lang="vep">25.Kandidat</p>
+<p xml:lang="nob">(se veiledning på baksiden)ver)</p>
+<p><em type="bold">Who will be elected?</em> </p>
+<p>First, the electoral committee works out how many representatives the various parties or groups will have on the municipal or county council. The electoral committee then counts the personal votes to find out which candidates will be elected from each party or group.</p>
+<p><em type="bold">You can find more information on www.valg.no</em> </p>
+<p>Published in 2015 by the Ministry of Local Government and Modernisation This publication is available in Norwegian (bokmål and nynorsk versions), Sami and ten foreign languages</p>
+<p>For more information about the election, please see <em type="bold">www.valg.no</em> </p>
+</body></document>

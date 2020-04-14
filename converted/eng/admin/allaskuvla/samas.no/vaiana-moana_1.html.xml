@@ -1,37 +1,14 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Vaiana (Moana) | Sámi University of Applied Sciences</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>69</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/en/a/vaiana-moana</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Cinema</p>
-    <p>19. February, 18:00  to 20:00</p>
-    <p type="title" xml:lang="vep">Vaiana (Moana)</p>
-    <list>
-      <p type="listitem"><span>Spoken language: Norwegian. </span></p>
-      <p type="listitem"><span>Age limit: 6 years. </span></p>
-    </list>
-    <p>Originally described as a <span type="quote">"mythic adventure set around 2000 years ago and across a series of islands in the South Pacific"</span>, the film follows the journey of a spirited teenager named Moana as she embarks on a quest across the Pacific Ocean to save her people.</p>
-    <p>Check out more on the page Bygdekinoen.</p>
-    <p xml:lang="vep"><em type="italic">Welcome! </em></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Vaiana (Moana) | Sámi University of Applied Sciences</title><genre code="admin"/><author><unknown/></author><wordcount>69</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/en/a/vaiana-moana</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p xml:lang="est">Cinema</p>
+<p>19. February, 18:00  to 20:00</p>
+<p type="title" xml:lang="vep">Vaiana (Moana)</p>
+<list><p type="listitem"><span>Spoken language: Norwegian. </span></p>
+<p type="listitem"><span>Age limit: 6 years. </span></p>
+</list><p>Originally described as a <span type="quote">"mythic adventure set around 2000 years ago and across a series of islands in the South Pacific"</span>, the film follows the journey of a spirited teenager named Moana as she embarks on a quest across the Pacific Ocean to save her people.</p>
+<p>Check out more on the page Bygdekinoen.</p>
+<p xml:lang="vep"><em type="italic">Welcome! </em></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+</body></document>

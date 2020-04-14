@@ -1,64 +1,29 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>221</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/integration/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-integration.html"/>
-    <parallel_text xml:lang="swe" location="manniska-och-samhalle-integration.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Integration - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Integration</p>
-    <p>The County Administrative Board is the government's representative in the county with the aim of collaborating with other bodies such as municipalities, authorities, companies and organizations in order to achieve the national integration policy objectives.</p>
-    <p type="title">The overall objective of the integration policy is</p>
-    <list>
-      <p type="listitem">Equal rights, obligations and opportunities for everyone, irrespective of ethnic or cultural background.</p>
-    </list>
-    <p type="title">The integration policy focuses on</p>
-    <list>
-      <p type="listitem">an effective system for receiving and introduction of new arrivals</p>
-      <p type="listitem">more people in work and more employers</p>
-      <p type="listitem">equality in schools, improved language skills and educational opportunities for adults</p>
-      <p type="listitem">effective combating of discrimination</p>
-      <p type="listitem">positive development in neighbourhoods with widespread exclusion</p>
-      <p type="listitem">common values in society characterized by increased diversity.</p>
-    </list>
-    <p type="title">Integration commission of the County Administrative Boards</p>
-    <p type="title">The County Administrative Boards</p>
-    <list>
-      <p type="listitem">work to ensure that each county has contingency plans and the requisite capacity to receive and introduce new arrivals and others in need of protection</p>
-      <p type="listitem">discuss and reach agreement with the municipal authorities on receiving newly arrived refugees and others in need of protection</p>
-      <p type="listitem">promote cooperation between municipalities, authorities, companies and other organizations involved in activities for new arrivals</p>
-      <p type="listitem">further develop cooperation at a regional level, particularly with regard to the coordination of municipal activities, such as Swedish for Immigrants (SFI) and social studies</p>
-      <p type="listitem">follow up, organize and implement measures for new arrivals in the county</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>221</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/integration/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="manniska-och-samhalle-integration.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle-integration.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Integration - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Integration</p>
+<p>The County Administrative Board is the government's representative in the county with the aim of collaborating with other bodies such as municipalities, authorities, companies and organizations in order to achieve the national integration policy objectives.</p>
+<p type="title">The overall objective of the integration policy is</p>
+<list><p type="listitem">Equal rights, obligations and opportunities for everyone, irrespective of ethnic or cultural background.</p>
+</list><p type="title">The integration policy focuses on</p>
+<list><p type="listitem">an effective system for receiving and introduction of new arrivals</p>
+<p type="listitem">more people in work and more employers</p>
+<p type="listitem">equality in schools, improved language skills and educational opportunities for adults</p>
+<p type="listitem">effective combating of discrimination</p>
+<p type="listitem">positive development in neighbourhoods with widespread exclusion</p>
+<p type="listitem">common values in society characterized by increased diversity.</p>
+</list><p type="title">Integration commission of the County Administrative Boards</p>
+<p type="title">The County Administrative Boards</p>
+<list><p type="listitem">work to ensure that each county has contingency plans and the requisite capacity to receive and introduce new arrivals and others in need of protection</p>
+<p type="listitem">discuss and reach agreement with the municipal authorities on receiving newly arrived refugees and others in need of protection</p>
+<p type="listitem">promote cooperation between municipalities, authorities, companies and other organizations involved in activities for new arrivals</p>
+<p type="listitem">further develop cooperation at a regional level, particularly with regard to the coordination of municipal activities, such as Swedish for Immigrants (SFI) and social studies</p>
+<p type="listitem">follow up, organize and implement measures for new arrivals in the county</p>
+</list></body></document>

@@ -1,112 +1,82 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="bible"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1212</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.svenskakyrkan.se/kyrkoval2005/documents/Kyrkoval_A4_eng.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="kyrkoval_a4_eng.pdf"/>
-    <parallel_text xml:lang="fin" location="kyrkoval_a4_fi.pdf"/>
-    <parallel_text xml:lang="sma" location="050818kyrkoval_a4_sydsam.pdf"/>
-    <parallel_text xml:lang="sme" location="kyrkoval_a4_nordsamiska.pdf"/>
-    <parallel_text xml:lang="smj" location="kyrkoval_a4_lulesamiska.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Church elections 18 September. The choice is yours.</p>
-    <p type="listitem"><em type="italic">–  Being on site in the wake of disasters and accidents?</em> </p>
-    <p type="listitem"><em type="italic">–  Performing baptisms, confirmations, weddings and funerals?</em> </p>
-    <p type="listitem"><em type="italic">–  In promoting fair trade?</em> </p>
-    <p type="listitem"><em type="italic">–  In refugee and asylum issues?</em> </p>
-    <p type="listitem"><em type="italic">–  In celebrating major festivals such as Christmas and Easter?</em> </p>
-    <p type="listitem"><em type="italic">–  In visiting the elderly, the sick and the lonely?</em> </p>
-    <p type="listitem"><em type="italic">–  In environmental work?</em> </p>
-    <p type="listitem"><em type="italic">–  In offering musical activities  for people of all ages?</em> </p>
-    <p type="listitem"><em type="italic">–  In caring for its historical church buildings?</em> </p>
-    <p type="listitem"><em type="italic">–  ............................. ?</em> </p>
-    <p>The Church of Sweden has 7.1 million members. On 18 September all members who are 16 years of age or older and  are  registered  in  Sweden  will  then  have  the  opportunity to influence the life and work of the Church of Sweden in the coming four years.</p>
-    <p>The  activities  of  the  Church  of  Sweden  are  extensive  and  cover  a  broad field. The Church wants to be a place for questions and conversations, a welcoming refuge characterized by spirituality and the encounter with the living God. A church permeated by hope focusing on the spiritual well-being of every individual – siding with the oppressed and vulnerable. A place where Christian values are made concrete both at home and further afar, both in times of happiness and sorrow, in everyday life and on solemn occasions.</p>
-    <p>Where should the Church of Sweden place its strength?</p>
-    <p>In  the  church  elections  of  18  September  you  will  choose where the Church of Sweden should place its strength in the coming four years. Who do you want to entrust with the responsibility to govern the Church?</p>
-    <p>On election day you can vote at the polling station stated on your voting card. There you will also find information about special vote reception locations open on the election day. You can also vote prior to the election day.</p>
-    <p>The church elections are three or four elections</p>
-    <p>In the church elections you will vote in three or four elections, depending on the local organisation of your parish:</p>
-    <p>1) directly elected parish council. Here issues concerning parish life are handled, for example which activities are conducted and which goals the parish should work towards.</p>
-    <p>2) board for an association of parishes. Several parishes often work together financially and administratively in an association. A Board for an association of parishes makes decisions on the administration of resources, property issues and the like.</p>
-    <p>3) diocesan council. The Church of Sweden is divided into thirteen dioceses. Each diocese is lead by a bishop. Supporting the parishes and developing its work are some of the diocese’s tasks.</p>
-    <p>4) church assembly. The  Church  Assembly  is  the  highest  decision-making  body  of  the  Church of Sweden consisting of 251 members. Here issues of national interest are decided,  for  example  matters  concerning  Church  regulations  on  baptism, confirmation, marriage and funerals.</p>
-    <p>You will be able to see which elections you can vote in on your voting card.</p>
-    <p>THIS IS</p>
-    <p>HOW IT</p>
-    <p>The church elections are three or four elections</p>
-    <p>As a voting member, you vote in three or four elections, in other words to the Church Assembly, to the Diocesan Council and to one or two local bodies depending on if the parish belongs to an association of parishes or not.</p>
-    <p>WORKS</p>
-    <p>DIRECT  ELECTION TO:</p>
-    <p>NATIONAL LEVEL</p>
-    <p>REGIONAL LEVEL</p>
-    <p>DIRECT</p>
-    <p>ELECTION TO:</p>
-    <p>CHURCH ASSEMBLY</p>
-    <p>CHURCH BOARD</p>
-    <p>DIOCESAN COUNCIL</p>
-    <p>DIOCESAN BOARD</p>
-    <p>LOCAL LEVEL WHEN THE PARISH</p>
-    <p>DOES NOT BELONG TO AN</p>
-    <p>LOCAL LEVEL WHEN THE PARISH BELONGS</p>
-    <p>TO AN ASSOCIATION OF PARISHES</p>
-    <p>DIRECT</p>
-    <p>ASSOCIATION OF PARISHES</p>
-    <p>ELECTION TO:</p>
-    <p>ASSOCIATION VESTRY</p>
-    <p>CHURCH BOARD</p>
-    <p>DIRECT  ELECTION TO:DIRECT</p>
-    <p>ELECTION TO:DIRECT</p>
-    <p>ELECTION TO:</p>
-    <p>VESTRY</p>
-    <p>VESTRYDIRECTLY</p>
-    <p>ELECTED</p>
-    <p>PARISH COUNCILPARISH COUNCIL</p>
-    <p>PARISH</p>
-    <p>COUNCIL</p>
-    <p>PARISH ASSEMBLY</p>
-    <p>PARISH COUNCIL</p>
-    <p>Grey boxes = the bodies to which we elect members in the church election.</p>
-    <p>Completely filled white and grey boxes = the decision-making bodies.</p>
-    <p>Dashed boxes = the executive bodies.</p>
-    <p>Directly elected parish councils are both decision-making and executive.</p>
-    <p>Voting</p>
-    <p>Voting is done in roughly the same way as in public elections. You must use your voting card if you vote before the election day and if you vote at one of the specially designated vote reception locations. You should also have your voting card with you if you vote at a polling station.</p>
-    <p>on election day 18 september</p>
-    <p>at a polling station The voting card states at which polling station you can vote and what the opening hours are.</p>
-    <p>at special vote reception locations Sometimes special vote reception locations are also set up. If these are available, locations and opening times are stated on the voting card.</p>
-    <p>prior to the election day</p>
-    <p>offices throughout the country Between 5 September and 14 September you can vote in advance at the pastoral or parish offices throughout the country. For more information please contact your parish.</p>
-    <p>special vote reception locations Special vote reception locations open for advanced voting may also be available. Please contact your parish to find out which means are available.</p>
-    <p>postal voting Another way of voting in advance is postal voting. You will then need a <span type="quote">“postal voting package”</span> which can be ordered from your pastoral or parish office. It contains everything you need, including blank ballots, which you can  complete  yourself.  However  you  can  generally  receive  pre-printed ballots  from  the  nominating  group  for  which  you  intend  to  vote.  Your postal vote must have reached us no later than 14 September.</p>
-    <p>vote by proxy</p>
-    <p>Voting by proxy is done in a similar way to postal voting, but is primarily an option for those who intended to vote at a polling station and are unable to do so on election day. The <span type="quote">“postal voting package”</span> also contains what you need to vote by proxy.</p>
-    <p>Who can you elect?</p>
-    <p>In the church elections you vote for a so called <span type="quote">“nominating group”</span>, the equivalent of the political parties in the public elections.</p>
-    <p>You can also cast votes supporting a particular candidate, by ticking for the candidate that you prefer to be elected on the nominating group’s list.</p>
-    <p>The nominating groups themselves provide information on how they would like the Church to work and act in the future, where the Church of Sweden should place its strength. As a rule you can find out which groups you can vote for from your parish. You can also find the lists at www.svenskakyrkan.se.</p>
-    <p>Election results</p>
-    <p>The preliminary results will be published on www.svenskakyrkan.se as they are counted after the polling locations have closed. The final  results  will  be  published  on  www.svenskakyrkan.se  as soon as the diocese concerned has verified all the votes.</p>
-    <p>As a voting member you should have received your voting card in the post no later than 31 August. Personal details, as to which elections you may vote in, as well as where and when you can vote, are stated on the voting card.</p>
-    <p>If you have lost your voting card, or if it contains errors, you can turn to the Church Synod (Kyrkostyrelsen), Svenska kyrkan, 751 70 Uppsala, 018-16 96 00 (Information service), or order  a  new  card  at  www.svenskakyrkan.se.  Those  who  have  not received a voting card, but consider themselves entitled to vote, should also turn to the Church Synod.</p>
-    <p>The voting card is sent to your registered address. A duplicate voting card can be faxed to the parish in which you vote and to the Church of Sweden’s parishes abroad.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="bible"/><author><unknown/></author><wordcount>1212</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.svenskakyrkan.se/kyrkoval2005/documents/Kyrkoval_A4_eng.pdf</origFileName><parallel_text xml:lang="eng" location="kyrkoval_a4_eng.pdf"/><parallel_text xml:lang="fin" location="kyrkoval_a4_fi.pdf"/><parallel_text xml:lang="sma" location="050818kyrkoval_a4_sydsam.pdf"/><parallel_text xml:lang="sme" location="kyrkoval_a4_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="kyrkoval_a4_lulesamiska.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Church elections 18 September. The choice is yours.</p>
+<p type="listitem"><em type="italic">–  Being on site in the wake of disasters and accidents?</em> </p>
+<p type="listitem"><em type="italic">–  Performing baptisms, confirmations, weddings and funerals?</em> </p>
+<p type="listitem"><em type="italic">–  In promoting fair trade?</em> </p>
+<p type="listitem"><em type="italic">–  In refugee and asylum issues?</em> </p>
+<p type="listitem"><em type="italic">–  In celebrating major festivals such as Christmas and Easter?</em> </p>
+<p type="listitem"><em type="italic">–  In visiting the elderly, the sick and the lonely?</em> </p>
+<p type="listitem"><em type="italic">–  In environmental work?</em> </p>
+<p type="listitem"><em type="italic">–  In offering musical activities  for people of all ages?</em> </p>
+<p type="listitem"><em type="italic">–  In caring for its historical church buildings?</em> </p>
+<p type="listitem"><em type="italic">–  ............................. ?</em> </p>
+<p>The Church of Sweden has 7.1 million members. On 18 September all members who are 16 years of age or older and  are  registered  in  Sweden  will  then  have  the  opportunity to influence the life and work of the Church of Sweden in the coming four years.</p>
+<p>The  activities  of  the  Church  of  Sweden  are  extensive  and  cover  a  broad field. The Church wants to be a place for questions and conversations, a welcoming refuge characterized by spirituality and the encounter with the living God. A church permeated by hope focusing on the spiritual well-being of every individual – siding with the oppressed and vulnerable. A place where Christian values are made concrete both at home and further afar, both in times of happiness and sorrow, in everyday life and on solemn occasions.</p>
+<p>Where should the Church of Sweden place its strength?</p>
+<p>In  the  church  elections  of  18  September  you  will  choose where the Church of Sweden should place its strength in the coming four years. Who do you want to entrust with the responsibility to govern the Church?</p>
+<p>On election day you can vote at the polling station stated on your voting card. There you will also find information about special vote reception locations open on the election day. You can also vote prior to the election day.</p>
+<p>The church elections are three or four elections</p>
+<p>In the church elections you will vote in three or four elections, depending on the local organisation of your parish:</p>
+<p>1) directly elected parish council. Here issues concerning parish life are handled, for example which activities are conducted and which goals the parish should work towards.</p>
+<p>2) board for an association of parishes. Several parishes often work together financially and administratively in an association. A Board for an association of parishes makes decisions on the administration of resources, property issues and the like.</p>
+<p>3) diocesan council. The Church of Sweden is divided into thirteen dioceses. Each diocese is lead by a bishop. Supporting the parishes and developing its work are some of the diocese’s tasks.</p>
+<p>4) church assembly. The  Church  Assembly  is  the  highest  decision-making  body  of  the  Church of Sweden consisting of 251 members. Here issues of national interest are decided,  for  example  matters  concerning  Church  regulations  on  baptism, confirmation, marriage and funerals.</p>
+<p>You will be able to see which elections you can vote in on your voting card.</p>
+<p>THIS IS</p>
+<p>HOW IT</p>
+<p>The church elections are three or four elections</p>
+<p>As a voting member, you vote in three or four elections, in other words to the Church Assembly, to the Diocesan Council and to one or two local bodies depending on if the parish belongs to an association of parishes or not.</p>
+<p>WORKS</p>
+<p>DIRECT  ELECTION TO:</p>
+<p>NATIONAL LEVEL</p>
+<p>REGIONAL LEVEL</p>
+<p>DIRECT</p>
+<p>ELECTION TO:</p>
+<p>CHURCH ASSEMBLY</p>
+<p>CHURCH BOARD</p>
+<p>DIOCESAN COUNCIL</p>
+<p>DIOCESAN BOARD</p>
+<p>LOCAL LEVEL WHEN THE PARISH</p>
+<p>DOES NOT BELONG TO AN</p>
+<p>LOCAL LEVEL WHEN THE PARISH BELONGS</p>
+<p>TO AN ASSOCIATION OF PARISHES</p>
+<p>DIRECT</p>
+<p>ASSOCIATION OF PARISHES</p>
+<p>ELECTION TO:</p>
+<p>ASSOCIATION VESTRY</p>
+<p>CHURCH BOARD</p>
+<p>DIRECT  ELECTION TO:DIRECT</p>
+<p>ELECTION TO:DIRECT</p>
+<p>ELECTION TO:</p>
+<p>VESTRY</p>
+<p>VESTRYDIRECTLY</p>
+<p>ELECTED</p>
+<p>PARISH COUNCILPARISH COUNCIL</p>
+<p>PARISH</p>
+<p>COUNCIL</p>
+<p>PARISH ASSEMBLY</p>
+<p>PARISH COUNCIL</p>
+<p>Grey boxes = the bodies to which we elect members in the church election.</p>
+<p>Completely filled white and grey boxes = the decision-making bodies.</p>
+<p>Dashed boxes = the executive bodies.</p>
+<p>Directly elected parish councils are both decision-making and executive.</p>
+<p>Voting</p>
+<p>Voting is done in roughly the same way as in public elections. You must use your voting card if you vote before the election day and if you vote at one of the specially designated vote reception locations. You should also have your voting card with you if you vote at a polling station.</p>
+<p>on election day 18 september</p>
+<p>at a polling station The voting card states at which polling station you can vote and what the opening hours are.</p>
+<p>at special vote reception locations Sometimes special vote reception locations are also set up. If these are available, locations and opening times are stated on the voting card.</p>
+<p>prior to the election day</p>
+<p>offices throughout the country Between 5 September and 14 September you can vote in advance at the pastoral or parish offices throughout the country. For more information please contact your parish.</p>
+<p>special vote reception locations Special vote reception locations open for advanced voting may also be available. Please contact your parish to find out which means are available.</p>
+<p>postal voting Another way of voting in advance is postal voting. You will then need a <span type="quote">“postal voting package”</span> which can be ordered from your pastoral or parish office. It contains everything you need, including blank ballots, which you can  complete  yourself.  However  you  can  generally  receive  pre-printed ballots  from  the  nominating  group  for  which  you  intend  to  vote.  Your postal vote must have reached us no later than 14 September.</p>
+<p>vote by proxy</p>
+<p>Voting by proxy is done in a similar way to postal voting, but is primarily an option for those who intended to vote at a polling station and are unable to do so on election day. The <span type="quote">“postal voting package”</span> also contains what you need to vote by proxy.</p>
+<p>Who can you elect?</p>
+<p>In the church elections you vote for a so called <span type="quote">“nominating group”</span>, the equivalent of the political parties in the public elections.</p>
+<p>You can also cast votes supporting a particular candidate, by ticking for the candidate that you prefer to be elected on the nominating group’s list.</p>
+<p>The nominating groups themselves provide information on how they would like the Church to work and act in the future, where the Church of Sweden should place its strength. As a rule you can find out which groups you can vote for from your parish. You can also find the lists at www.svenskakyrkan.se.</p>
+<p>Election results</p>
+<p>The preliminary results will be published on www.svenskakyrkan.se as they are counted after the polling locations have closed. The final  results  will  be  published  on  www.svenskakyrkan.se  as soon as the diocese concerned has verified all the votes.</p>
+<p>As a voting member you should have received your voting card in the post no later than 31 August. Personal details, as to which elections you may vote in, as well as where and when you can vote, are stated on the voting card.</p>
+<p>If you have lost your voting card, or if it contains errors, you can turn to the Church Synod (Kyrkostyrelsen), Svenska kyrkan, 751 70 Uppsala, 018-16 96 00 (Information service), or order  a  new  card  at  www.svenskakyrkan.se.  Those  who  have  not received a voting card, but consider themselves entitled to vote, should also turn to the Church Synod.</p>
+<p>The voting card is sent to your registered address. A duplicate voting card can be faxed to the parish in which you vote and to the Church of Sweden’s parishes abroad.</p>
+</body></document>

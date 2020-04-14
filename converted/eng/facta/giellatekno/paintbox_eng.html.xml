@@ -1,107 +1,81 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Paintbox Game</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>347</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/usevisl/Paintbox_eng.html</origFileName>
-    <parallel_text xml:lang="nno" location="paintbox_nob.html"/>
-    <parallel_text xml:lang="sme" location="paintbox_sme.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="nob">Paintbox Game</p>
-    <list>
-      <p type="listitem">About the game</p>
-      <p type="listitem">Begin to play</p>
-      <p type="listitem" xml:lang="nno">Help</p>
-      <p type="listitem">The sentence again - or a new sentence</p>
-      <p type="listitem">Sound and hippopotamus</p>
-      <p type="listitem" xml:lang="deu">Alternatives</p>
-      <p type="listitem">Parts of speech and their abbreviations</p>
-      <p type="listitem" xml:lang="vep">Paintbox link</p>
-    </list>
-    <p>Paintbox VISL direct link</p>
-    <p xml:lang="nno"></p>
-    <p type="title">About the game</p>
-    <p>In the Paintbox game the topic is parts of speech. The goal is to colour the words in the sentence with the right colour. Each part of speech has its own colour. Click the appropriate part of speech, and thereafter the word(s) which belong(s) to the same part of speech.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Begin to play</p>
-    <p>Press "Go".</p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="nno">Help</p>
-    <p>You may press <span type="quote" xml:lang="smn">"SHOW"</span>, and then the word for which you need help.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">The sentence again - or a new sentence</p>
-    <p>When you are done analysing a sentence, you may choose to analyse the same sentence again (by clicking <span type="quote" xml:lang="sme">"Repeat"</span>), or get a new one (with the button <span type="quote" xml:lang="nob">"New Sentence"</span>).</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Sound and hippopotamus</p>
-    <p>You may choose whether you want to play with or without sound. You may also exchange the hippopotamus with a face.</p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="deu">Alternatives</p>
-    <p>If you press <span type="quote">"Start select"</span> then you may choose to look for one or a couple of parts of speech. Press the button again when you have made your choice. At the bottom you will see how many words should be assigned a colour, marked with <span type="quote">"Words left"</span>. In this game you may not choose sentences yourself.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Parts of speech and their abbreviations</p>
-    <p>We use the following parts of speech:</p>
-    <p xml:lang="fin">n</p>
-    <p xml:lang="krl">Noun (</p>
-    <p xml:lang="sme"><em type="italic">girji, lohkamat, golmmas </em></p>
-    <p xml:lang="koi">)</p>
-    <p>prop</p>
-    <p>Proper noun (</p>
-    <p xml:lang="sme"><em type="italic">William, Kárášjohka </em></p>
-    <p xml:lang="koi">)</p>
-    <p>pron</p>
-    <p>Pronoun (</p>
-    <p xml:lang="sme"><em type="italic">mun, sidjiide, soapmásat, ollu </em></p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="isl">num</p>
-    <p xml:lang="est">Numeral (</p>
-    <p xml:lang="sme"><em type="italic">okta, 1923 </em></p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="smj">adj</p>
-    <p>Adjective (</p>
-    <p xml:lang="sme"><em type="italic">alit, ollu, njealját </em></p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="ron">prp</p>
-    <p>Preposition/postposition (</p>
-    <p xml:lang="sme"><em type="italic">alde, miehtá </em></p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="ron">conj</p>
-    <p>Conjunction (</p>
-    <p xml:lang="sme"><em type="italic">ja, ahte, vaikko </em></p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="swe">intj</p>
-    <p>Interjection (</p>
-    <p xml:lang="smn"><em type="italic">vuoi, jippi </em></p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="smj">adv</p>
-    <p xml:lang="vep">Adverb (</p>
-    <p xml:lang="sme"><em type="italic">hui, johtilit, olgun </em></p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="smj">v</p>
-    <p xml:lang="vep">Verb (</p>
-    <p xml:lang="sme"><em type="italic">lean, borran, juhkamis </em></p>
-    <p xml:lang="koi">)</p>
-    <p xml:lang="nno">part</p>
-    <p xml:lang="ron">Particle (</p>
-    <p xml:lang="sme"><em type="italic">go, amma, han </em></p>
-    <p xml:lang="koi">)</p>
-    <p>Some of the buttons have parts of speech not in use in Sámi, such as <span type="quote" xml:lang="swe">"infm"</span> (infinitival marker) and <span type="quote" xml:lang="nno">"art"</span> (article).</p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="vep">Paintbox link</p>
-    <p xml:lang="vep">Paintbox VISL</p>
-    <p xml:lang="nno">Last changed: $Id: intro.xml,v 1.8 2005/06/21 12:13:53 boerre Exp $</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Paintbox Game</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>347</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/Paintbox_eng.html</origFileName><parallel_text xml:lang="nno" location="paintbox_nob.html"/><parallel_text xml:lang="sme" location="paintbox_sme.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="nob">Paintbox Game</p>
+<list><p type="listitem">About the game</p>
+<p type="listitem">Begin to play</p>
+<p type="listitem" xml:lang="nno">Help</p>
+<p type="listitem">The sentence again - or a new sentence</p>
+<p type="listitem">Sound and hippopotamus</p>
+<p type="listitem" xml:lang="dan">Alternatives</p>
+<p type="listitem">Parts of speech and their abbreviations</p>
+<p type="listitem" xml:lang="vep">Paintbox link</p>
+</list><p>Paintbox VISL direct link</p>
+<p xml:lang="swe"></p>
+<p type="title">About the game</p>
+<p>In the Paintbox game the topic is parts of speech. The goal is to colour the words in the sentence with the right colour. Each part of speech has its own colour. Click the appropriate part of speech, and thereafter the word(s) which belong(s) to the same part of speech.</p>
+<p xml:lang="swe"></p>
+<p type="title">Begin to play</p>
+<p>Press "Go".</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="nno">Help</p>
+<p>You may press <span type="quote" xml:lang="smn">"SHOW"</span>, and then the word for which you need help.</p>
+<p xml:lang="swe"></p>
+<p type="title">The sentence again - or a new sentence</p>
+<p>When you are done analysing a sentence, you may choose to analyse the same sentence again (by clicking <span type="quote" xml:lang="sme">"Repeat"</span>), or get a new one (with the button <span type="quote" xml:lang="nob">"New Sentence"</span>).</p>
+<p xml:lang="swe"></p>
+<p type="title">Sound and hippopotamus</p>
+<p>You may choose whether you want to play with or without sound. You may also exchange the hippopotamus with a face.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="dan">Alternatives</p>
+<p>If you press <span type="quote">"Start select"</span> then you may choose to look for one or a couple of parts of speech. Press the button again when you have made your choice. At the bottom you will see how many words should be assigned a colour, marked with <span type="quote">"Words left"</span>. In this game you may not choose sentences yourself.</p>
+<p xml:lang="swe"></p>
+<p type="title">Parts of speech and their abbreviations</p>
+<p>We use the following parts of speech:</p>
+<p xml:lang="fin">n</p>
+<p xml:lang="krl">Noun (</p>
+<p xml:lang="sme"><em type="italic">girji, lohkamat, golmmas </em></p>
+<p xml:lang="vep">)</p>
+<p>prop</p>
+<p>Proper noun (</p>
+<p xml:lang="sme"><em type="italic">William, Kárášjohka </em></p>
+<p xml:lang="vep">)</p>
+<p>pron</p>
+<p>Pronoun (</p>
+<p xml:lang="sme"><em type="italic">mun, sidjiide, soapmásat, ollu </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="isl">num</p>
+<p xml:lang="est">Numeral (</p>
+<p xml:lang="sme"><em type="italic">okta, 1923 </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="smj">adj</p>
+<p>Adjective (</p>
+<p xml:lang="sme"><em type="italic">alit, ollu, njealját </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="ron">prp</p>
+<p>Preposition/postposition (</p>
+<p xml:lang="sme"><em type="italic">alde, miehtá </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="ron">conj</p>
+<p>Conjunction (</p>
+<p xml:lang="sme"><em type="italic">ja, ahte, vaikko </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="swe">intj</p>
+<p>Interjection (</p>
+<p xml:lang="smn"><em type="italic">vuoi, jippi </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="smj">adv</p>
+<p xml:lang="vep">Adverb (</p>
+<p xml:lang="sme"><em type="italic">hui, johtilit, olgun </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="smj">v</p>
+<p xml:lang="vep">Verb (</p>
+<p xml:lang="sme"><em type="italic">lean, borran, juhkamis </em></p>
+<p xml:lang="vep">)</p>
+<p xml:lang="nno">part</p>
+<p xml:lang="ron">Particle (</p>
+<p xml:lang="sme"><em type="italic">go, amma, han </em></p>
+<p xml:lang="vep">)</p>
+<p>Some of the buttons have parts of speech not in use in Sámi, such as <span type="quote" xml:lang="swe">"infm"</span> (infinitival marker) and <span type="quote" xml:lang="nno">"art"</span> (article).</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="vep">Paintbox link</p>
+<p xml:lang="vep">Paintbox VISL</p>
+<p xml:lang="nno">Last changed: $Id: intro.xml,v 1.8 2005/06/21 12:13:53 boerre Exp $</p>
+</body></document>

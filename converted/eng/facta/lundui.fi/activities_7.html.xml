@@ -1,183 +1,143 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Activities in Pyhä-Luosto National Park - Nationalparks.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1082</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.nationalparks.fi/en/pyha-luostonp/activities</origFileName>
-    <parallel_text xml:lang="fin" location="aktiviteetit_inheritredirect=true_11.html"/>
-    <parallel_text xml:lang="sme" location="aktivitehtat_2.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Skip to Content</p>
-    <p>Open Menu</p>
-    <list>
-      <p type="listitem">Suomeksi</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Pyhä-Luosto</p>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">History</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p type="title">Destinations</p>
-    <list>
-      <p type="listitem">Top Natural Attractions</p>
-      <p type="listitem">National Parks</p>
-      <p type="listitem">World Heritage Sites</p>
-      <p type="listitem">National Hiking Areas</p>
-      <p type="listitem">Wilderness Areas</p>
-      <p type="listitem">Other Nature Sites</p>
-      <p type="listitem">Hiking Trails</p>
-      <p type="listitem">Huts</p>
-      <p type="listitem">Historical Sites</p>
-      <p type="listitem">Nature Centres</p>
-      <p type="listitem">Accessible Destinations</p>
-    </list>
-    <list>
-      <p type="listitem">Archipelago</p>
-      <p type="listitem">Bothnian Bay</p>
-      <p type="listitem">Bothnian Sea</p>
-      <p type="listitem">Ekenäs Archipelago</p>
-      <p type="listitem">Gulf of Finland</p>
-      <p type="listitem">Helvetinjärvi</p>
-      <p type="listitem">Hiidenportti</p>
-      <p type="listitem">Isojärvi</p>
-      <p type="listitem">Kauhaneva-Pohjankangas</p>
-      <p type="listitem">Koli</p>
-      <p type="listitem">Kolovesi</p>
-      <p type="listitem">Kurjenrahka</p>
-      <p type="listitem">Lauhanvuori</p>
-      <p type="listitem">Leivonmäki</p>
-      <p type="listitem">Lemmenjoki</p>
-      <p type="listitem">Liesjärvi</p>
-      <p type="listitem">Linnansaari</p>
-      <p type="listitem">Nuuksio</p>
-      <p type="listitem">Oulanka</p>
-      <p type="listitem">Pallas-Yllästunturi</p>
-      <p type="listitem">Patvinsuo</p>
-      <p type="listitem">Petkeljärvi</p>
-      <p type="listitem">Puurijärvi and Isosuo</p>
-      <p type="listitem">Pyhä-Häkki</p>
-      <p type="listitem">Pyhä-Luosto</p>
-      <p type="listitem">Päijänne</p>
-      <p type="listitem">Repovesi</p>
-      <p type="listitem">Riisitunturi</p>
-      <p type="listitem">Rokua</p>
-      <p type="listitem">Salamajärvi</p>
-      <p type="listitem">Seitseminen</p>
-      <p type="listitem">Sipoonkorpi</p>
-      <p type="listitem">Southern Konnevesi</p>
-      <p type="listitem">Syöte</p>
-      <p type="listitem">Teijo</p>
-      <p type="listitem">Tiilikkajärvi</p>
-      <p type="listitem">Torronsuo</p>
-      <p type="listitem">Urho Kekkonen National Park</p>
-      <p type="listitem">Valkmusa</p>
-    </list>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">History</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p>Pyhä-Luosto Menu</p>
-    <p type="title">Pyhä-Luosto</p>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">History</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p type="title">Activities in Pyhä-Luosto National Park</p>
-    <p></p>
-    <p></p>
-    <p>At Pyhä-Luosto, visitors can easily make their own <span type="quote">"pilgrimage"</span>. Amaze at the deep ravines and magnificent fell tops, and have a great time at Pyhä-Luosto Visitor Centre Naava.</p>
-    <p>Please note that hiking in the restricted area of Isokuru Ravine (in Finnish, julkaisut.metsa.fi) is only permitted along the marked trail. This restriction is in force throughout the year.</p>
-    <p type="title">Seeing the Sights and the Views</p>
-    <p>The landscape varies from rugged ravines and fell tops to herb-rich forests by the streams, aapa mires, and fells. The ancient sacred sites of the Sámi people in their magnificent environment speak of the merits of a natural and unforced lifestyle. Geological events that occurred billions of years back are still well visible in the scenery, putting everyday events into their proper perspective. Here, each and every visitor can discover his or her own most sacred site.</p>
-    <list>
-      <p type="listitem">Finland's Ten Most Beautiful Landscapes (www.visitfinland.com)</p>
-    </list>
-    <p type="title">Trekking</p>
-    <p>The most stunning sceneries offered by the park can be reached on a day trip, although longer treks facilitate a better look at the nature. The park offers easy-to-hike marked trails (4-12 km) that are suitable for families with children. On these treks, children will develop a life-long passion for nature. The park offers challenges for more demanding hikers also: trails that climb up the slopes and down to the ravines (4-45 km) require extreme care but reward the mind and the body.</p>
-    <p>Hiking trips can be started at various spots: Pyhä-Luosto Visitor Centre Naava, Luoston Portti, Rykimäkero parking area, or Käyräsvaara by Main Road 5. Pyhä-Luosto is an excellent place for short day trips or as a starting point for longer hikes in the wilderness that go from hut to hut.</p>
-    <p type="title">Visiting the Visitor Centre</p>
-    <p>Pyhä-Luosto Visitor and Culture Centre Naava is open every day of the year. Naava's experiential exhibition introduces the history of the fell area and its geology through the senses. The exhibition is free of charge. On their journey through the exhibition, visitors who are pressed for time will gain a sense of the national park's nature on even a short visit.</p>
-    <p>Naava offers cultural and nature-themed events for those with the time to fully explore. Premises are available for rent and are perfect for organizing nature-themed weddings, for example.</p>
-    <p>Café Loimu provides hot food and snacks before and after nature experiences. A warm welcome!</p>
-    <p type="title">Other Activities</p>
-    <list>
-      <p type="listitem"><em type="italic">Cross-country Skiing </em>: There are maintained ski trails in the Pyhä-Luosto area (150 km), most of which are in the national park. The ski trails connect the two Fell Centres, and entering the trails is easy. </p>
-      <p type="listitem"><em type="italic">Birdwatching </em>: The birdwatching tower of the Tiaislaavu Nature Trail is an excellent spot for birdwatching. There are several other bird-watching towers in the vicinity of the national park in Sokanaapa and Kilpiaapa in Pelkosenniemi. </p>
-      <p type="listitem"><em type="italic">Nature Trails </em>: The Tunturiaapa Nature Trail (ca. 5 km) is a pleasant destination for families with children. The colours and unique atmosphere of the aapa mire are fascinating, and in spring the area attracts bird-watchers. The Luosto Nature Hiking Trail (15,5 km) is an unbelievable combination of the park's many treasures: fell landscape, rugged ancient forest, and aapa mires. In a clear weather, the visitor can see the entire fell chain in all its rugged glory! </p>
-      <p type="listitem"><em type="italic">Fishing </em>: Ahvenlampi, l  ocated right next to the centre of fell resort Luosto, is an easily accessible and magnificent fishing spot for the whole family. Ahvenlampi lives up to its name as your daily catch can include perch (ahven in Finnish), rainbow trout and white fish. Winter months are popular for ice fishing where as summertime is suitable for angling, fly fishing and lure fishing alike. Fishing here requires a permit, more information from Pyhä-Luosto Visitor Centre Naava and local service providers. </p>
-      <p type="listitem"><em type="italic">Berry-picking </em>: Blueberries ( <em type="italic">Vaccinium myrtillus </em>) and crowberries ( <em type="italic">Empetrum nigrum </em>) are found on fell slopes until the late autumn. </p>
-      <p type="listitem"><em type="italic">Cycling </em>: Mountain biking is permitted on the Huttujärvi road and along the cycling routes marked on the map. The terrain is rocky and often wet and muddy in places, so be prepared. </p>
-      <p type="listitem"><em type="italic">Snowshoeing: </em>Snowshoeing is a great way to enjoy the snowy terrains of the national park. There are marked snowshoe trails in Pyhätunturi and Luosto, of which you can ask for more information from Pyhä-Luosto Visitor Centre Naava . You can rent snowshoes from the partners of the national park . </p>
-      <p type="listitem"><em type="italic">Freeriding </em>: The steep fell slopes attract skiers, too. Always observe snow conditions and safety! In the Isokuru restricted area freeriding is prohibited. </p>
-      <p type="listitem"><em type="italic">Visiting the Amethyst Mine </em>: In the amethyst mine in Lampivaara, visitors learn about rocks and search for their own lucky amethyst. Start your visit from the Ukko-Luosto parking area and follow the signs along the route picking the ones that interest you. </p>
-    </list>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Suggested Trips</p>
-    <p type="title">Suggestions for Winter:</p>
-    <p><em type="italic">Half a Day </em>: Snowshoe to Torvisen Maja café and to the snowy sceneries of Ukko-Luosto (5–10 km)  . </p>
-    <p><em type="italic">1 Day </em>: Ski from fell to fell (30 km). </p>
-    <p type="title">Suggestions for Spring:</p>
-    <p><em type="italic">Half a Day </em>: Spot migratory birds from the bird-watching tower along the Tunturiaapa Nature Trail (ca. 5 km). </p>
-    <p type="title">Suggestions for Summer:</p>
-    <p><em type="italic">Half a Day </em>: Take a trip to Isokuru and Karhunjuomalampi (10 km). <em type="italic">1 Day </em>: Hike the Rykimäkuru Circle Trail (12-14 km). <em type="italic">2-3 Days </em>: Hike through the national park along the Pyhä-Luosto Hiking Trail (30–45 km). </p>
-    <p type="title">Suggestions for Autumn:</p>
-    <p><em type="italic">Half a Day </em>: Climb to the top of Ukko-Luosto to marvel at autumn colours (4 –  6,5 km). <em type="italic">1 Day </em>: Experience the Lappish nature in autumn along the Noitatunturi Circle Trail (14,5 km). </p>
-    <p></p>
-    <p>© Metsähallitus 2017</p>
-    <list>
-      <p type="listitem"></p>
-    </list>
-    <p>Share This Page</p>
-    <p>Open Menu</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Activities in Pyhä-Luosto National Park - Nationalparks.fi</title><genre code="facta"/><author><unknown/></author><wordcount>1082</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.nationalparks.fi/en/pyha-luostonp/activities</origFileName><parallel_text xml:lang="fin" location="aktiviteetit_inheritredirect=true_11.html"/><parallel_text xml:lang="sme" location="aktivitehtat_2.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skip to Content</p>
+<p>Open Menu</p>
+<list><p type="listitem">Suomeksi</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p></p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">Pyhä-Luosto</p>
+<list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">History</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p type="title">Destinations</p>
+<list><p type="listitem">Top Natural Attractions</p>
+<p type="listitem">National Parks</p>
+<p type="listitem">World Heritage Sites</p>
+<p type="listitem">National Hiking Areas</p>
+<p type="listitem">Wilderness Areas</p>
+<p type="listitem">Other Nature Sites</p>
+<p type="listitem">Hiking Trails</p>
+<p type="listitem">Huts</p>
+<p type="listitem">Historical Sites</p>
+<p type="listitem">Nature Centres</p>
+<p type="listitem">Accessible Destinations</p>
+</list><list><p type="listitem">Archipelago</p>
+<p type="listitem">Bothnian Bay</p>
+<p type="listitem">Bothnian Sea</p>
+<p type="listitem">Ekenäs Archipelago</p>
+<p type="listitem">Gulf of Finland</p>
+<p type="listitem">Helvetinjärvi</p>
+<p type="listitem">Hiidenportti</p>
+<p type="listitem">Isojärvi</p>
+<p type="listitem">Kauhaneva-Pohjankangas</p>
+<p type="listitem">Koli</p>
+<p type="listitem">Kolovesi</p>
+<p type="listitem">Kurjenrahka</p>
+<p type="listitem">Lauhanvuori</p>
+<p type="listitem">Leivonmäki</p>
+<p type="listitem">Lemmenjoki</p>
+<p type="listitem">Liesjärvi</p>
+<p type="listitem">Linnansaari</p>
+<p type="listitem">Nuuksio</p>
+<p type="listitem">Oulanka</p>
+<p type="listitem">Pallas-Yllästunturi</p>
+<p type="listitem">Patvinsuo</p>
+<p type="listitem">Petkeljärvi</p>
+<p type="listitem">Puurijärvi and Isosuo</p>
+<p type="listitem">Pyhä-Häkki</p>
+<p type="listitem">Pyhä-Luosto</p>
+<p type="listitem">Päijänne</p>
+<p type="listitem">Repovesi</p>
+<p type="listitem">Riisitunturi</p>
+<p type="listitem">Rokua</p>
+<p type="listitem">Salamajärvi</p>
+<p type="listitem">Seitseminen</p>
+<p type="listitem">Sipoonkorpi</p>
+<p type="listitem">Southern Konnevesi</p>
+<p type="listitem">Syöte</p>
+<p type="listitem">Teijo</p>
+<p type="listitem">Tiilikkajärvi</p>
+<p type="listitem">Torronsuo</p>
+<p type="listitem">Urho Kekkonen National Park</p>
+<p type="listitem">Valkmusa</p>
+</list><list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">History</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p>Pyhä-Luosto Menu</p>
+<p type="title">Pyhä-Luosto</p>
+<list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">History</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p type="title">Activities in Pyhä-Luosto National Park</p>
+<p></p>
+<p></p>
+<p>At Pyhä-Luosto, visitors can easily make their own <span type="quote">"pilgrimage"</span>. Amaze at the deep ravines and magnificent fell tops, and have a great time at Pyhä-Luosto Visitor Centre Naava.</p>
+<p>Please note that hiking in the restricted area of Isokuru Ravine (in Finnish, julkaisut.metsa.fi) is only permitted along the marked trail. This restriction is in force throughout the year.</p>
+<p type="title">Seeing the Sights and the Views</p>
+<p>The landscape varies from rugged ravines and fell tops to herb-rich forests by the streams, aapa mires, and fells. The ancient sacred sites of the Sámi people in their magnificent environment speak of the merits of a natural and unforced lifestyle. Geological events that occurred billions of years back are still well visible in the scenery, putting everyday events into their proper perspective. Here, each and every visitor can discover his or her own most sacred site.</p>
+<list><p type="listitem">Finland's Ten Most Beautiful Landscapes (www.visitfinland.com)</p>
+</list><p type="title">Trekking</p>
+<p>The most stunning sceneries offered by the park can be reached on a day trip, although longer treks facilitate a better look at the nature. The park offers easy-to-hike marked trails (4-12 km) that are suitable for families with children. On these treks, children will develop a life-long passion for nature. The park offers challenges for more demanding hikers also: trails that climb up the slopes and down to the ravines (4-45 km) require extreme care but reward the mind and the body.</p>
+<p>Hiking trips can be started at various spots: Pyhä-Luosto Visitor Centre Naava, Luoston Portti, Rykimäkero parking area, or Käyräsvaara by Main Road 5. Pyhä-Luosto is an excellent place for short day trips or as a starting point for longer hikes in the wilderness that go from hut to hut.</p>
+<p type="title">Visiting the Visitor Centre</p>
+<p>Pyhä-Luosto Visitor and Culture Centre Naava is open every day of the year. Naava's experiential exhibition introduces the history of the fell area and its geology through the senses. The exhibition is free of charge. On their journey through the exhibition, visitors who are pressed for time will gain a sense of the national park's nature on even a short visit.</p>
+<p>Naava offers cultural and nature-themed events for those with the time to fully explore. Premises are available for rent and are perfect for organizing nature-themed weddings, for example.</p>
+<p>Café Loimu provides hot food and snacks before and after nature experiences. A warm welcome!</p>
+<p type="title">Other Activities</p>
+<list><p type="listitem"><em type="italic">Cross-country Skiing </em>: There are maintained ski trails in the Pyhä-Luosto area (150 km), most of which are in the national park. The ski trails connect the two Fell Centres, and entering the trails is easy. </p>
+<p type="listitem"><em type="italic">Birdwatching </em>: The birdwatching tower of the Tiaislaavu Nature Trail is an excellent spot for birdwatching. There are several other bird-watching towers in the vicinity of the national park in Sokanaapa and Kilpiaapa in Pelkosenniemi. </p>
+<p type="listitem"><em type="italic">Nature Trails </em>: The Tunturiaapa Nature Trail (ca. 5 km) is a pleasant destination for families with children. The colours and unique atmosphere of the aapa mire are fascinating, and in spring the area attracts bird-watchers. The Luosto Nature Hiking Trail (15,5 km) is an unbelievable combination of the park's many treasures: fell landscape, rugged ancient forest, and aapa mires. In a clear weather, the visitor can see the entire fell chain in all its rugged glory! </p>
+<p type="listitem"><em type="italic">Fishing </em>: Ahvenlampi, l  ocated right next to the centre of fell resort Luosto, is an easily accessible and magnificent fishing spot for the whole family. Ahvenlampi lives up to its name as your daily catch can include perch (ahven in Finnish), rainbow trout and white fish. Winter months are popular for ice fishing where as summertime is suitable for angling, fly fishing and lure fishing alike. Fishing here requires a permit, more information from Pyhä-Luosto Visitor Centre Naava and local service providers. </p>
+<p type="listitem"><em type="italic">Berry-picking </em>: Blueberries ( <em type="italic">Vaccinium myrtillus </em>) and crowberries ( <em type="italic">Empetrum nigrum </em>) are found on fell slopes until the late autumn. </p>
+<p type="listitem"><em type="italic">Cycling </em>: Mountain biking is permitted on the Huttujärvi road and along the cycling routes marked on the map. The terrain is rocky and often wet and muddy in places, so be prepared. </p>
+<p type="listitem"><em type="italic">Snowshoeing: </em>Snowshoeing is a great way to enjoy the snowy terrains of the national park. There are marked snowshoe trails in Pyhätunturi and Luosto, of which you can ask for more information from Pyhä-Luosto Visitor Centre Naava . You can rent snowshoes from the partners of the national park . </p>
+<p type="listitem"><em type="italic">Freeriding </em>: The steep fell slopes attract skiers, too. Always observe snow conditions and safety! In the Isokuru restricted area freeriding is prohibited. </p>
+<p type="listitem"><em type="italic">Visiting the Amethyst Mine </em>: In the amethyst mine in Lampivaara, visitors learn about rocks and search for their own lucky amethyst. Start your visit from the Ukko-Luosto parking area and follow the signs along the route picking the ones that interest you. </p>
+</list><p></p>
+<p></p>
+<p></p>
+<p type="title">Suggested Trips</p>
+<p type="title">Suggestions for Winter:</p>
+<p><em type="italic">Half a Day </em>: Snowshoe to Torvisen Maja café and to the snowy sceneries of Ukko-Luosto (5–10 km)  . </p>
+<p><em type="italic">1 Day </em>: Ski from fell to fell (30 km). </p>
+<p type="title">Suggestions for Spring:</p>
+<p><em type="italic">Half a Day </em>: Spot migratory birds from the bird-watching tower along the Tunturiaapa Nature Trail (ca. 5 km). </p>
+<p type="title">Suggestions for Summer:</p>
+<p><em type="italic">Half a Day </em>: Take a trip to Isokuru and Karhunjuomalampi (10 km). <em type="italic">1 Day </em>: Hike the Rykimäkuru Circle Trail (12-14 km). <em type="italic">2-3 Days </em>: Hike through the national park along the Pyhä-Luosto Hiking Trail (30–45 km). </p>
+<p type="title">Suggestions for Autumn:</p>
+<p><em type="italic">Half a Day </em>: Climb to the top of Ukko-Luosto to marvel at autumn colours (4 –  6,5 km). <em type="italic">1 Day </em>: Experience the Lappish nature in autumn along the Noitatunturi Circle Trail (14,5 km). </p>
+<p></p>
+<p>© Metsähallitus 2017</p>
+<list><p type="listitem"></p>
+</list><p>Share This Page</p>
+<p>Open Menu</p>
+</body></document>

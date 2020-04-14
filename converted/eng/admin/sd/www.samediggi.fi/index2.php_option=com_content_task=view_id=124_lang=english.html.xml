@@ -1,230 +1,198 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Mother tongue, north sámi</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="fin"/>
-    <wordcount>570</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=124&amp;lang=english.html</origFileName>
-    <parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=124_lang=finnish.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=124_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=124_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Mother tongue, north sámi</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>Picture dictionary, about 500 words</p>
-    <p xml:lang="fin">Original book by Matti Morottaja and Sirpa Mänty (illustrator), 2000.</p>
-    <p xml:lang="fin"><em type="italic">Oahpa sániid </em> </p>
-    <p xml:lang="fin">translation into Norht Sámi: Kaisa Tapiola-Länsman</p>
-    <p xml:lang="fin">ISBN 978-952-441-303-9</p>
-    <p>2. ed.</p>
-    <p>price: 15,00 €</p>
-    <p><em type="italic">Sámediggi 2014 </em></p>
-    <p xml:lang="fin">___________________________________</p>
-    <p xml:lang="fin"><em type="bold">Marjaana Aikio, Helmi Länsman and Maarit Magga  </em></p>
-    <p xml:lang="fin"><em type="italic">Giela geainnut 1 </em> </p>
-    <p xml:lang="fin"><em type="italic">Logahaga eatnigiella </em></p>
-    <p>size: 19 x 24 cm</p>
-    <p>haddi 18,00 €</p>
-    <p xml:lang="fin">ISBN 978-952-441-235-3</p>
-    <p><em type="italic">Sámediggi 2012 </em></p>
-    <p xml:lang="fin">___________________________________</p>
-    <p xml:lang="fin"><em type="bold">Marjaana Aikio, Helmi Länsman, Maarit Magga and Elen Anne Sara  </em></p>
-    <p xml:lang="fin"><em type="italic">Giela geainnut 2 </em> </p>
-    <p xml:lang="fin"><em type="italic">Logahaga eatnigiella </em></p>
-    <p>size: 19 x 24 cm</p>
-    <p>haddi 18,00 €</p>
-    <p xml:lang="fin">ISBN 978-952-441-283-4</p>
-    <p><em type="italic">Sámediggi 2014 </em></p>
-    <p xml:lang="fin">___________________________________</p>
-    <p xml:lang="fin">Elna Magga, Päivikki Nillukka-Rauhala</p>
-    <p xml:lang="fin"><em type="italic">Giellaleaika 2, Eatnigiella čakča  </em></p>
-    <p>price 15,00 €</p>
-    <p xml:lang="fin">ISBN 978-952-441-294-0</p>
-    <p>2 grade</p>
-    <p>3. ed.</p>
-    <p><em type="italic">Sámediggi 2014 </em></p>
-    <p xml:lang="fin">___________________________________</p>
-    <p xml:lang="fin">Elna Magga, Päivikki Nillukka-Rauhala</p>
-    <p xml:lang="fin"><em type="italic">Giellaleaika 2 </em>,  <em type="italic">Eatnigiella giđđa  </em></p>
-    <p xml:lang="fin">illustrator: Merja Aletta Ranttila</p>
-    <p>price: 9,00 €</p>
-    <p xml:lang="fin">ISBN 951-47-8820-6</p>
-    <p>2. grade</p>
-    <p>Sámediggi 1998</p>
-    <p xml:lang="fin">___________________________________</p>
-    <p xml:lang="fin"><em type="italic">Kaaren Kitti </em></p>
-    <p xml:lang="fin"><em type="italic">Gollegiellan 3 čakča  </em></p>
-    <p xml:lang="fin">illustrator: Merja Aletta Ranttila</p>
-    <p>price 18,00 €</p>
-    <p xml:lang="fin">ISBN 978-952-441-241-4</p>
-    <p><em type="italic">Sámediggi 2013 </em></p>
-    <p xml:lang="fin">___________________________________</p>
-    <p xml:lang="fin">Kaaren Kitti</p>
-    <p xml:lang="fin"><em type="italic">Gollegiellan, giđđagirji 3  </em></p>
-    <p xml:lang="fin">illustrator: Merja Aletta Ranttila</p>
-    <p>price: 15,00 €</p>
-    <p xml:lang="fin">ISBN 978-925-441-214-8</p>
-    <p>3. grade</p>
-    <p><em type="italic">Sámediggi 2010 </em></p>
-    <p xml:lang="fin"><em type="italic">______________________________  ___________   ___________________________________  </em></p>
-    <p xml:lang="fin"><em type="italic">Oahptii Iŋgá </em>  </p>
-    <p xml:lang="fin">Inga Guttorm</p>
-    <p><em type="italic">Áppes </em> </p>
-    <p xml:lang="fin"><em type="italic">Min meahci máidnasat </em></p>
-    <p xml:lang="fin">illustrator: Salli Parikka</p>
-    <p xml:lang="fin">layout: Studio Borga - Minna Saastamoinen</p>
-    <p>size: 21,4 x 28,5 cm</p>
-    <p>price 30,00 €</p>
-    <p xml:lang="fin">ISBN 978-952-441-219-3</p>
-    <p><em type="italic">Sámediggi 2010 </em></p>
-    <p xml:lang="fin"><em type="italic">Áppesa bargogirji čakčii </em> </p>
-    <p xml:lang="fin"><em type="italic">Min meahci máidnasat </em></p>
-    <p xml:lang="fin">illustrator: Salli Parikka</p>
-    <p xml:lang="fin">layout: Studio Borga - Minna Saastamoinen</p>
-    <p>price 20,00 €</p>
-    <p xml:lang="fin">ISBN 978-952-441-227-8</p>
-    <p><em type="italic">Sámediggi 2011 </em></p>
-    <p xml:lang="fin"><em type="italic">Áppesa bargogirji giđđii </em> </p>
-    <p xml:lang="fin"><em type="italic">Min meahci máidnasat </em></p>
-    <p xml:lang="fin">illustrator: Salli Parikka</p>
-    <p xml:lang="fin">layout: Studio Borga - Minna Saastamoinen</p>
-    <p>price 20,00 €</p>
-    <p xml:lang="fin">ISBN 978-952-441-245-2</p>
-    <p><em type="italic">Sámediggi 2012 </em></p>
-    <p xml:lang="fin"><em type="italic">______________________________  ___________   ___________________________________  </em></p>
-    <p xml:lang="fin">Tarja Länsman</p>
-    <p xml:lang="fin"><em type="italic">Mu vuosttas giehtačálagihpa  </em></p>
-    <p>(copy-book)</p>
-    <p xml:lang="fin">ISBN-13: 978-952-441-153-0</p>
-    <p>price: 7,00 €</p>
-    <p><em type="italic">Sámediggi 2007 </em></p>
-    <p xml:lang="fin">___________________________________</p>
-    <p xml:lang="fin">Jovnna-Ánde Vest</p>
-    <p xml:lang="fin"><em type="italic">Sámi synonymat  </em></p>
-    <p>illustrator: Tiia Semenoff</p>
-    <p>price:12,00 €</p>
-    <p xml:lang="fin">ISBN 978-952-441-205-6</p>
-    <p>3. ed.</p>
-    <p><em type="italic">Sámediggi 2010 </em></p>
-    <p xml:lang="fin"><em type="italic">______________________________  ___________   ___________________________________  </em></p>
-    <p xml:lang="fin">Toivo West</p>
-    <p xml:lang="fin"><em type="italic">Mu giella 5 - 6  </em></p>
-    <p xml:lang="fin">illustr.: Outi Pieski, Salla-Mari West</p>
-    <p>layout: Rannveig Persen</p>
-    <p>price: 25,00 €</p>
-    <p>5. - 6. grade</p>
-    <p xml:lang="fin">ISBN 978-952-441-186-8</p>
-    <p><em type="italic">Sámediggi 2010 </em></p>
-    <p xml:lang="fin"><em type="italic">Mu giella 5 Bargogirji  </em></p>
-    <p xml:lang="fin">illustr.: Outi Pieski</p>
-    <p>layout: Rannveig Persen</p>
-    <p>price: 20,00 €</p>
-    <p xml:lang="fin">ISBN 978-952-441-187-5</p>
-    <p><em type="italic">Sámediggi 2010 </em></p>
-    <p xml:lang="fin"><em type="italic">Mu giella 6 Bargogirji  </em></p>
-    <p xml:lang="fin">illustr.: Outi Pieski</p>
-    <p>layout: Rannveig Persen</p>
-    <p>price: 20,00 €</p>
-    <p xml:lang="fin">ISBN 978-952-441-188-2</p>
-    <p><em type="italic">Sámediggi 2010 </em></p>
-    <p xml:lang="fin">Siiri Miettunen and Ritva Torikka</p>
-    <p>Stories</p>
-    <p xml:lang="fin"><em type="italic">Lodderáidalas  </em></p>
-    <p>11 radioprograms</p>
-    <p>2 CD with a textbook</p>
-    <p>price: 4,00 €</p>
-    <p>Producer: Yle Sámi Radio and</p>
-    <p xml:lang="fin">Sámi skuvlenáššiidráđđi 1989</p>
-    <p>Sámediggi 2008</p>
-    <p xml:lang="fin"><em type="italic">______________________________  ___________   ___________________________________  </em></p>
-    <p xml:lang="fin">Helena Valkeapää and Seija Guttorm</p>
-    <p xml:lang="fin"><em type="italic">Áppes 1, čakča  </em></p>
-    <p>(ABC-book, autumn)</p>
-    <p xml:lang="fin">illustrator: Aletta Ranttila</p>
-    <p>price: 15,00 €</p>
-    <p xml:lang="fin">ISBN 978-952-441-183-7</p>
-    <p>1. grade</p>
-    <p><em type="italic">Sámediggi 2009 </em></p>
-    <p xml:lang="fin">Helena Valkeapää, Seija Guttorm</p>
-    <p xml:lang="fin"><em type="italic">Áppes 1, </em><em type="italic">oahpaheaddji rávagirji </em> </p>
-    <p>Teacher´s book</p>
-    <p xml:lang="fin">illustrator: Aletta Ranttila</p>
-    <p>price: 4,00 €</p>
-    <p xml:lang="fin">ISBN -</p>
-    <p xml:lang="fin"><em type="italic">Lappi leanaráđđehus 1986 </em></p>
-    <p xml:lang="fin">Helena Valkeapää, Seija Guttorm</p>
-    <p xml:lang="fin"><em type="italic">Áppes 2, giđđa </em> </p>
-    <p>ABC-book, spring</p>
-    <p xml:lang="fin">illustrator: Aletta Ranttila</p>
-    <p>price: 15,00 €</p>
-    <p xml:lang="fin">ISBN 978-952-441-161-5</p>
-    <p>1. grade</p>
-    <p><em type="italic">(1. ed. 1987) </em></p>
-    <p>Sámediggi 2008</p>
-    <p xml:lang="fin">Helena Valkeapää, Seija Guttorm</p>
-    <p xml:lang="fin"><em type="italic">Áppes 2, </em><em type="italic">oahpaheaddji rávagirji </em> </p>
-    <p>Teacherś book</p>
-    <p xml:lang="fin">illustrator: Aletta Ranttila</p>
-    <p>price: 4,00 €</p>
-    <p xml:lang="fin">ISBN 951-47-1660-4</p>
-    <p xml:lang="fin"><em type="italic">______________________________  ___________   ___________________________________  </em></p>
-    <p xml:lang="fin">Leena Aikio, Kaaren Kitti</p>
-    <p xml:lang="fin"><em type="italic">Eatnigiela hárjehusat 1  </em></p>
-    <p xml:lang="fin">(Palin)</p>
-    <p>price: 2,00 €</p>
-    <p xml:lang="fin">ISBN: 951-46-5685-7</p>
-    <p xml:lang="fin"><em type="italic">1981 </em></p>
-    <p xml:lang="fin">___________________________________</p>
-    <p xml:lang="fin">Toivo West</p>
-    <p xml:lang="fin"><em type="italic">Lásse, Áilu ja mun  </em></p>
-    <p>Textbook</p>
-    <p xml:lang="fin">illustrator: Martti Salo</p>
-    <p>price: 10,00 €</p>
-    <p xml:lang="fin">ISBN: 951-53-1268-X</p>
-    <p>4.-6. grade</p>
-    <p>Sámediggi 1997</p>
-    <p xml:lang="fin">___________________________________</p>
-    <p xml:lang="fin">Per Stefan Labba, Aage Solbakk, Veikko Holmberg</p>
-    <p xml:lang="fin"><em type="italic">Sámás 1  </em></p>
-    <p xml:lang="fin">illustrator: Liisa Helander</p>
-    <p>price: 7,50 €</p>
-    <p xml:lang="fin">ISBN 951-43-0420-9</p>
-    <p xml:lang="fin">1987</p>
-    <p xml:lang="fin">___________________________________</p>
-    <p xml:lang="fin">Per Stefan Labba, Aage Solbakk, Veikko Holmberg</p>
-    <p xml:lang="fin"><em type="italic">Sámás 2  </em></p>
-    <p xml:lang="fin">illustrator: Liisa Helander</p>
-    <p>price: 7,50 €</p>
-    <p xml:lang="fin">ISBN 951-43-0473-X</p>
-    <p xml:lang="fin">1987</p>
-    <p xml:lang="fin">___________________________________</p>
-    <p xml:lang="fin">Samuli Aikio, Thor Frette, Elina Helander, Nils Øivind Helander, Veikko Holmberg, Nils Jernsletten, Olavi Korhonen, Per Stefan Labba, Ole Henrik Magga, Pekka Sammallahti, Aage Solbakk and Mikael Svonni</p>
-    <p xml:lang="fin"><em type="italic">Sámás 3  </em></p>
-    <p xml:lang="fin">illustrator: Liisa Helander</p>
-    <p>price: 7,50 €</p>
-    <p xml:lang="fin">ISBN 82-10-02675-5</p>
-    <p xml:lang="fin">1987</p>
-    <p xml:lang="fin">___________________________________</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Mother tongue, north sámi</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>570</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=124&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=124_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=124_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=124_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Mother tongue, north sámi</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>Picture dictionary, about 500 words</p>
+<p xml:lang="fin">Original book by Matti Morottaja and Sirpa Mänty (illustrator), 2000.</p>
+<p xml:lang="fin"><em type="italic">Oahpa sániid </em> </p>
+<p xml:lang="fin">translation into Norht Sámi: Kaisa Tapiola-Länsman</p>
+<p xml:lang="fin">ISBN 978-952-441-303-9</p>
+<p>2. ed.</p>
+<p>price: 15,00 €</p>
+<p><em type="italic">Sámediggi 2014 </em></p>
+<p xml:lang="fin">___________________________________</p>
+<p xml:lang="fin"><em type="bold">Marjaana Aikio, Helmi Länsman and Maarit Magga  </em></p>
+<p xml:lang="fin"><em type="italic">Giela geainnut 1 </em> </p>
+<p xml:lang="fin"><em type="italic">Logahaga eatnigiella </em></p>
+<p>size: 19 x 24 cm</p>
+<p>haddi 18,00 €</p>
+<p xml:lang="fin">ISBN 978-952-441-235-3</p>
+<p><em type="italic">Sámediggi 2012 </em></p>
+<p xml:lang="fin">___________________________________</p>
+<p xml:lang="fin"><em type="bold">Marjaana Aikio, Helmi Länsman, Maarit Magga and Elen Anne Sara  </em></p>
+<p xml:lang="fin"><em type="italic">Giela geainnut 2 </em> </p>
+<p xml:lang="fin"><em type="italic">Logahaga eatnigiella </em></p>
+<p>size: 19 x 24 cm</p>
+<p>haddi 18,00 €</p>
+<p xml:lang="fin">ISBN 978-952-441-283-4</p>
+<p><em type="italic">Sámediggi 2014 </em></p>
+<p xml:lang="fin">___________________________________</p>
+<p xml:lang="fin">Elna Magga, Päivikki Nillukka-Rauhala</p>
+<p xml:lang="fin"><em type="italic">Giellaleaika 2, Eatnigiella čakča  </em></p>
+<p>price 15,00 €</p>
+<p xml:lang="fin">ISBN 978-952-441-294-0</p>
+<p>2 grade</p>
+<p>3. ed.</p>
+<p><em type="italic">Sámediggi 2014 </em></p>
+<p xml:lang="fin">___________________________________</p>
+<p xml:lang="fin">Elna Magga, Päivikki Nillukka-Rauhala</p>
+<p xml:lang="fin"><em type="italic">Giellaleaika 2 </em>,  <em type="italic">Eatnigiella giđđa  </em></p>
+<p xml:lang="fin">illustrator: Merja Aletta Ranttila</p>
+<p>price: 9,00 €</p>
+<p xml:lang="fin">ISBN 951-47-8820-6</p>
+<p>2. grade</p>
+<p>Sámediggi 1998</p>
+<p xml:lang="fin">___________________________________</p>
+<p xml:lang="fin"><em type="italic">Kaaren Kitti </em></p>
+<p xml:lang="fin"><em type="italic">Gollegiellan 3 čakča  </em></p>
+<p xml:lang="fin">illustrator: Merja Aletta Ranttila</p>
+<p>price 18,00 €</p>
+<p xml:lang="fin">ISBN 978-952-441-241-4</p>
+<p><em type="italic">Sámediggi 2013 </em></p>
+<p xml:lang="fin">___________________________________</p>
+<p xml:lang="fin">Kaaren Kitti</p>
+<p xml:lang="fin"><em type="italic">Gollegiellan, giđđagirji 3  </em></p>
+<p xml:lang="fin">illustrator: Merja Aletta Ranttila</p>
+<p>price: 15,00 €</p>
+<p xml:lang="fin">ISBN 978-925-441-214-8</p>
+<p>3. grade</p>
+<p><em type="italic">Sámediggi 2010 </em></p>
+<p xml:lang="fin"><em type="italic">______________________________  ___________   ___________________________________  </em></p>
+<p xml:lang="fin"><em type="italic">Oahptii Iŋgá </em>  </p>
+<p xml:lang="fin">Inga Guttorm</p>
+<p><em type="italic">Áppes </em> </p>
+<p xml:lang="fin"><em type="italic">Min meahci máidnasat </em></p>
+<p xml:lang="fin">illustrator: Salli Parikka</p>
+<p xml:lang="fin">layout: Studio Borga - Minna Saastamoinen</p>
+<p>size: 21,4 x 28,5 cm</p>
+<p>price 30,00 €</p>
+<p xml:lang="fin">ISBN 978-952-441-219-3</p>
+<p><em type="italic">Sámediggi 2010 </em></p>
+<p xml:lang="fin"><em type="italic">Áppesa bargogirji čakčii </em> </p>
+<p xml:lang="fin"><em type="italic">Min meahci máidnasat </em></p>
+<p xml:lang="fin">illustrator: Salli Parikka</p>
+<p xml:lang="fin">layout: Studio Borga - Minna Saastamoinen</p>
+<p>price 20,00 €</p>
+<p xml:lang="fin">ISBN 978-952-441-227-8</p>
+<p><em type="italic">Sámediggi 2011 </em></p>
+<p xml:lang="fin"><em type="italic">Áppesa bargogirji giđđii </em> </p>
+<p xml:lang="fin"><em type="italic">Min meahci máidnasat </em></p>
+<p xml:lang="fin">illustrator: Salli Parikka</p>
+<p xml:lang="fin">layout: Studio Borga - Minna Saastamoinen</p>
+<p>price 20,00 €</p>
+<p xml:lang="fin">ISBN 978-952-441-245-2</p>
+<p><em type="italic">Sámediggi 2012 </em></p>
+<p xml:lang="fin"><em type="italic">______________________________  ___________   ___________________________________  </em></p>
+<p xml:lang="fin">Tarja Länsman</p>
+<p xml:lang="fin"><em type="italic">Mu vuosttas giehtačálagihpa  </em></p>
+<p>(copy-book)</p>
+<p xml:lang="fin">ISBN-13: 978-952-441-153-0</p>
+<p>price: 7,00 €</p>
+<p><em type="italic">Sámediggi 2007 </em></p>
+<p xml:lang="fin">___________________________________</p>
+<p xml:lang="fin">Jovnna-Ánde Vest</p>
+<p xml:lang="fin"><em type="italic">Sámi synonymat  </em></p>
+<p>illustrator: Tiia Semenoff</p>
+<p>price:12,00 €</p>
+<p xml:lang="fin">ISBN 978-952-441-205-6</p>
+<p>3. ed.</p>
+<p><em type="italic">Sámediggi 2010 </em></p>
+<p xml:lang="fin"><em type="italic">______________________________  ___________   ___________________________________  </em></p>
+<p xml:lang="fin">Toivo West</p>
+<p xml:lang="fin"><em type="italic">Mu giella 5 - 6  </em></p>
+<p xml:lang="fin">illustr.: Outi Pieski, Salla-Mari West</p>
+<p>layout: Rannveig Persen</p>
+<p>price: 25,00 €</p>
+<p>5. - 6. grade</p>
+<p xml:lang="fin">ISBN 978-952-441-186-8</p>
+<p><em type="italic">Sámediggi 2010 </em></p>
+<p xml:lang="fin"><em type="italic">Mu giella 5 Bargogirji  </em></p>
+<p xml:lang="fin">illustr.: Outi Pieski</p>
+<p>layout: Rannveig Persen</p>
+<p>price: 20,00 €</p>
+<p xml:lang="fin">ISBN 978-952-441-187-5</p>
+<p><em type="italic">Sámediggi 2010 </em></p>
+<p xml:lang="fin"><em type="italic">Mu giella 6 Bargogirji  </em></p>
+<p xml:lang="fin">illustr.: Outi Pieski</p>
+<p>layout: Rannveig Persen</p>
+<p>price: 20,00 €</p>
+<p xml:lang="fin">ISBN 978-952-441-188-2</p>
+<p><em type="italic">Sámediggi 2010 </em></p>
+<p xml:lang="fin">Siiri Miettunen and Ritva Torikka</p>
+<p>Stories</p>
+<p xml:lang="fin"><em type="italic">Lodderáidalas  </em></p>
+<p>11 radioprograms</p>
+<p>2 CD with a textbook</p>
+<p>price: 4,00 €</p>
+<p>Producer: Yle Sámi Radio and</p>
+<p xml:lang="fin">Sámi skuvlenáššiidráđđi 1989</p>
+<p>Sámediggi 2008</p>
+<p xml:lang="fin"><em type="italic">______________________________  ___________   ___________________________________  </em></p>
+<p xml:lang="fin">Helena Valkeapää and Seija Guttorm</p>
+<p xml:lang="fin"><em type="italic">Áppes 1, čakča  </em></p>
+<p>(ABC-book, autumn)</p>
+<p xml:lang="fin">illustrator: Aletta Ranttila</p>
+<p>price: 15,00 €</p>
+<p xml:lang="fin">ISBN 978-952-441-183-7</p>
+<p>1. grade</p>
+<p><em type="italic">Sámediggi 2009 </em></p>
+<p xml:lang="fin">Helena Valkeapää, Seija Guttorm</p>
+<p xml:lang="fin"><em type="italic">Áppes 1, </em><em type="italic">oahpaheaddji rávagirji </em> </p>
+<p>Teacher´s book</p>
+<p xml:lang="fin">illustrator: Aletta Ranttila</p>
+<p>price: 4,00 €</p>
+<p xml:lang="fin">ISBN -</p>
+<p xml:lang="fin"><em type="italic">Lappi leanaráđđehus 1986 </em></p>
+<p xml:lang="fin">Helena Valkeapää, Seija Guttorm</p>
+<p xml:lang="fin"><em type="italic">Áppes 2, giđđa </em> </p>
+<p>ABC-book, spring</p>
+<p xml:lang="fin">illustrator: Aletta Ranttila</p>
+<p>price: 15,00 €</p>
+<p xml:lang="fin">ISBN 978-952-441-161-5</p>
+<p>1. grade</p>
+<p><em type="italic">(1. ed. 1987) </em></p>
+<p>Sámediggi 2008</p>
+<p xml:lang="fin">Helena Valkeapää, Seija Guttorm</p>
+<p xml:lang="fin"><em type="italic">Áppes 2, </em><em type="italic">oahpaheaddji rávagirji </em> </p>
+<p>Teacherś book</p>
+<p xml:lang="fin">illustrator: Aletta Ranttila</p>
+<p>price: 4,00 €</p>
+<p xml:lang="fin">ISBN 951-47-1660-4</p>
+<p xml:lang="fin"><em type="italic">______________________________  ___________   ___________________________________  </em></p>
+<p xml:lang="fin">Leena Aikio, Kaaren Kitti</p>
+<p xml:lang="fin"><em type="italic">Eatnigiela hárjehusat 1  </em></p>
+<p xml:lang="fin">(Palin)</p>
+<p>price: 2,00 €</p>
+<p xml:lang="fin">ISBN: 951-46-5685-7</p>
+<p xml:lang="fin"><em type="italic">1981 </em></p>
+<p xml:lang="fin">___________________________________</p>
+<p xml:lang="fin">Toivo West</p>
+<p xml:lang="fin"><em type="italic">Lásse, Áilu ja mun  </em></p>
+<p>Textbook</p>
+<p xml:lang="fin">illustrator: Martti Salo</p>
+<p>price: 10,00 €</p>
+<p xml:lang="fin">ISBN: 951-53-1268-X</p>
+<p>4.-6. grade</p>
+<p>Sámediggi 1997</p>
+<p xml:lang="fin">___________________________________</p>
+<p xml:lang="fin">Per Stefan Labba, Aage Solbakk, Veikko Holmberg</p>
+<p xml:lang="fin"><em type="italic">Sámás 1  </em></p>
+<p xml:lang="fin">illustrator: Liisa Helander</p>
+<p>price: 7,50 €</p>
+<p xml:lang="fin">ISBN 951-43-0420-9</p>
+<p xml:lang="fin">1987</p>
+<p xml:lang="fin">___________________________________</p>
+<p xml:lang="fin">Per Stefan Labba, Aage Solbakk, Veikko Holmberg</p>
+<p xml:lang="fin"><em type="italic">Sámás 2  </em></p>
+<p xml:lang="fin">illustrator: Liisa Helander</p>
+<p>price: 7,50 €</p>
+<p xml:lang="fin">ISBN 951-43-0473-X</p>
+<p xml:lang="fin">1987</p>
+<p xml:lang="fin">___________________________________</p>
+<p xml:lang="fin">Samuli Aikio, Thor Frette, Elina Helander, Nils Øivind Helander, Veikko Holmberg, Nils Jernsletten, Olavi Korhonen, Per Stefan Labba, Ole Henrik Magga, Pekka Sammallahti, Aage Solbakk and Mikael Svonni</p>
+<p xml:lang="fin"><em type="italic">Sámás 3  </em></p>
+<p xml:lang="fin">illustrator: Liisa Helander</p>
+<p>price: 7,50 €</p>
+<p xml:lang="fin">ISBN 82-10-02675-5</p>
+<p xml:lang="fin">1987</p>
+<p xml:lang="fin">___________________________________</p>
+</body></document>

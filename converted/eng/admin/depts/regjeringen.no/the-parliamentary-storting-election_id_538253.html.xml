@@ -1,57 +1,22 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Stuorradiggeválga - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Ministry of Local Government and Regional Development" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>427</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election.html?id=538253</origFileName>
-    <parallel_text xml:lang="nno" location="stortingsval_id_538253.html"/>
-    <parallel_text xml:lang="nob" location="stortingsvalg_id_538253.html"/>
-    <parallel_text xml:lang="sme" location="ddd_id_538253.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>The Parliamentary (Storting) Election - regjeringen.no</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>In 2009 there will be election to the Parliament (Storting) in Norway. Election Day is 14 September.</p>
-    <p type="title">Right to vote and electoral register</p>
-    <p>You must have the right to vote and be registered as elector to be able to vote.</p>
-    <p type="title">Proof of identity (ID)</p>
-    <p>The Election Act requires that a voter who is unknown to the returning officer shall show proof of identity. So take proof of identity with you when you are going to vote; stating your name and date of birth is not sufficient.</p>
-    <p type="title">Polling cards</p>
-    <p>All electors are sent a polling card by post from their municipal authority. On the polling card you will find information about polling hours and which polling station you must use on Election Day. You do not need to take your polling card with you in order to vote, but you will be able to vote more quickly if you take your polling card with you. If you have questions about the polling card, please contact your municipal authority.</p>
-    <p type="title">Where can you cast your vote?</p>
-    <p>On Election Day, 14 September, you must vote in the municipality in which you are registered in the National Population Register as residing at 30 June. If you wish to vote in advance, you can do so in any municipality in the period 10.8.09-11.9-09.</p>
-    <p type="title">How to vote on Election Day</p>
-    <p>Election Day is 14 September 2009. In 205 municipalities the polling stations open on Sunday 13 September already. If you vote on Election Day, 14 September (or 13 September in municipalities that have two-day elections) you must vote in the municipality in which you are registered as an elector on 30 June. Remember to take proof of identity with you!</p>
-    <p type="title">How to vote in advance</p>
-    <p>Ordinary advance voting begins on 10 August. You can vote in advance up to and including 11 September. You can vote in advance in any municipality throughout Norway. Remember proof of identity (ID)!</p>
-    <p type="title">How to make changes on your ballot paper</p>
-    <p>Your ballot paper determines which party you vote for. You may make changes on your ballot paper if you want to influence the order in which the candidates are listed on the ballot paper.</p>
-    <p type="title">Determining the election results: who gets elected</p>
-    <p>The determination of election results and who is returned to the Parliament (Storting) takes place in two rounds. First, the number of seats the party/group is to get is determined (allocation of seats). Then the individual candidates who are to be returned from the different lists are selected (return of members).</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Stuorradiggeválga - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Ministry of Local Government and Regional Development" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2009</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>427</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/en/dep/krd/kampanjer/election_portal/the-parliamentary-storting-election.html?id=538253</origFileName><parallel_text xml:lang="nno" location="stortingsval_id_538253.html"/><parallel_text xml:lang="nob" location="stortingsvalg_id_538253.html"/><parallel_text xml:lang="sme" location="ddd_id_538253.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>The Parliamentary (Storting) Election - regjeringen.no</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>In 2009 there will be election to the Parliament (Storting) in Norway. Election Day is 14 September.</p>
+<p type="title">Right to vote and electoral register</p>
+<p>You must have the right to vote and be registered as elector to be able to vote.</p>
+<p type="title">Proof of identity (ID)</p>
+<p>The Election Act requires that a voter who is unknown to the returning officer shall show proof of identity. So take proof of identity with you when you are going to vote; stating your name and date of birth is not sufficient.</p>
+<p type="title">Polling cards</p>
+<p>All electors are sent a polling card by post from their municipal authority. On the polling card you will find information about polling hours and which polling station you must use on Election Day. You do not need to take your polling card with you in order to vote, but you will be able to vote more quickly if you take your polling card with you. If you have questions about the polling card, please contact your municipal authority.</p>
+<p type="title">Where can you cast your vote?</p>
+<p>On Election Day, 14 September, you must vote in the municipality in which you are registered in the National Population Register as residing at 30 June. If you wish to vote in advance, you can do so in any municipality in the period 10.8.09-11.9-09.</p>
+<p type="title">How to vote on Election Day</p>
+<p>Election Day is 14 September 2009. In 205 municipalities the polling stations open on Sunday 13 September already. If you vote on Election Day, 14 September (or 13 September in municipalities that have two-day elections) you must vote in the municipality in which you are registered as an elector on 30 June. Remember to take proof of identity with you!</p>
+<p type="title">How to vote in advance</p>
+<p>Ordinary advance voting begins on 10 August. You can vote in advance up to and including 11 September. You can vote in advance in any municipality throughout Norway. Remember proof of identity (ID)!</p>
+<p type="title">How to make changes on your ballot paper</p>
+<p>Your ballot paper determines which party you vote for. You may make changes on your ballot paper if you want to influence the order in which the candidates are listed on the ballot paper.</p>
+<p type="title">Determining the election results: who gets elected</p>
+<p>The determination of election results and who is returned to the Parliament (Storting) takes place in two rounds. First, the number of seats the party/group is to get is determined (allocation of seats). Then the individual candidates who are to be returned from the different lists are selected (return of members).</p>
+</body></document>

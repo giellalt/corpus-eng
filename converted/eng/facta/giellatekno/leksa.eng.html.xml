@@ -1,43 +1,14 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Leksa</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>230</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/useoahpa/leksa.eng.html</origFileName>
-    <parallel_text xml:lang="fin" location="leksa.fin.html"/>
-    <parallel_text xml:lang="nob" location="leksa.nob.html"/>
-    <parallel_text xml:lang="sme" location="leksa.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="est">Leksa</p>
-    <list>
-      <p type="listitem">Options</p>
-    </list>
-    <p>Word quizzes are fun, and useful in order to train your vocabulary. The Leksa game is meant for pupils who are learning Saami, perhaps also for pupils in need of writing practice. The program accepts synonyms, so that <span type="quote" xml:lang="sme">"dolla"</span> can be translated as both <span type="quote" xml:lang="nob">"ild"</span> and <span type="quote" xml:lang="nno">"bål"</span>. Let us know if synonyms are missing!</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Options</p>
-    <list>
-      <p type="listitem">From Saami to Norwegian or Finnish, or from Norwegian or Finnish to Saami.</p>
-      <p type="listitem">Words: You can restrict the vocabulary, and choose a text book or a subject.</p>
-      <p type="listitem">If you choose <span type="quote">"Multi-word expression"</span> in the menu, you must write at least two Saami words, e.g. <span type="quote" xml:lang="sme">"báze dearvan"</span></p>
-      <p type="listitem">Place names: You can restrict the geographical range of the place names (<span type="quote" xml:lang="sme">"Sápmi"</span> or <span type="quote">"World"</span>). You can also restrict the place names according to frequency (<span type="quote">"common"</span> or <span type="quote" xml:lang="ron">"rare"</span>).</p>
-    </list>
-    <p>In Leksa, we want the users to practice everyday language, and the game is based on words which are used in beginner courses. You can read more about this on the Oahpa-vocabulary page. We can add lists of place names from your area, and we can also make teaching aids for specific subjects, such as sami handicraft (duodji). Feel free to contact us if you have suggestions.</p>
-    <p xml:lang="nob">Link to Leksa</p>
-    <p>Animal-Quiz is suitable for pupils who have a good command of Saami. You find this game under the VISL-programs.</p>
-    <p xml:lang="nno">Last changed: $Id: intro.xml,v 1.8 2005/06/21 12:13:53 boerre Exp $</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Leksa</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>230</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/useoahpa/leksa.eng.html</origFileName><parallel_text xml:lang="fin" location="leksa.fin.html"/><parallel_text xml:lang="nob" location="leksa.nob.html"/><parallel_text xml:lang="sme" location="leksa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="est">Leksa</p>
+<list><p type="listitem">Options</p>
+</list><p>Word quizzes are fun, and useful in order to train your vocabulary. The Leksa game is meant for pupils who are learning Saami, perhaps also for pupils in need of writing practice. The program accepts synonyms, so that <span type="quote" xml:lang="sme">"dolla"</span> can be translated as both <span type="quote" xml:lang="nob">"ild"</span> and <span type="quote" xml:lang="nno">"bål"</span>. Let us know if synonyms are missing!</p>
+<p xml:lang="swe"></p>
+<p type="title">Options</p>
+<list><p type="listitem">From Saami to Norwegian or Finnish, or from Norwegian or Finnish to Saami.</p>
+<p type="listitem">Words: You can restrict the vocabulary, and choose a text book or a subject.</p>
+<p type="listitem">If you choose <span type="quote">"Multi-word expression"</span> in the menu, you must write at least two Saami words, e.g. <span type="quote" xml:lang="sme">"báze dearvan"</span></p>
+<p type="listitem">Place names: You can restrict the geographical range of the place names (<span type="quote" xml:lang="sme">"Sápmi"</span> or <span type="quote">"World"</span>). You can also restrict the place names according to frequency (<span type="quote">"common"</span> or <span type="quote" xml:lang="ron">"rare"</span>).</p>
+</list><p>In Leksa, we want the users to practice everyday language, and the game is based on words which are used in beginner courses. You can read more about this on the Oahpa-vocabulary page. We can add lists of place names from your area, and we can also make teaching aids for specific subjects, such as sami handicraft (duodji). Feel free to contact us if you have suggestions.</p>
+<p xml:lang="nob">Link to Leksa</p>
+<p>Animal-Quiz is suitable for pupils who have a good command of Saami. You find this game under the VISL-programs.</p>
+<p xml:lang="nno">Last changed: $Id: intro.xml,v 1.8 2005/06/21 12:13:53 boerre Exp $</p>
+</body></document>

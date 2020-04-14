@@ -1,123 +1,92 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Greenland Eyes International Film Festival at Sajos 20.-24.11.2014</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="fin"/>
-    <wordcount>506</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=951&amp;lang=english.html</origFileName>
-    <parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=951_lang=finnish.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=951_lang=davvi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Greenland Eyes International Film Festival at Sajos 20.-24.11.2014</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>International Film festival Greenland eyes comes to Finland on its Nordic tour in November.</p>
-    <p xml:lang="fin"></p>
-    <p>The festival brings the colors, sounds and atmosphere of Greenland to Sajos on 20th-24th of November. The festival will showcase a range of shorts, animations, documentaries, music videos and unique feature length productions both from Greenlandic and foreign film directors.</p>
-    <p xml:lang="fin"></p>
-    <p>Greenland eyes is the biggest festival focusing on Greenland. It features films across all genres each film selected to add an individual insight into today’s Greenland.</p>
-    <p xml:lang="fin"></p>
-    <p>The festival is organized for the second time. The inaugural festival took place in Berlin in 2012 and this year the number of submitted films was so great, and the interest so overwhelming, that the 2014 festival is touring all the Nordic countries. Beginning in Greenland on August the 28th the festival then travels to Denmark, Faroe Islands, Iceland, Sweden and Finland, before finishing in Norway on December the 18th.</p>
-    <p xml:lang="fin"></p>
-    <p>The screenings takes place in the auditorium of Sámi Cultural Center Sajos.  All the films have subtitles in English.</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">Programme:   </em></p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">Thursday 20.11.2014 at 18.00   </em></p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>Introduction by festival director&amp;producer Ivalo Frank and Nicholas Alan.</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"><em type="italic">Nuummioq  </em>(Someone from Nuuk ohj.  Otto Rosing ja Torben Beck)   </p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">Friday 21.11.2014   </em></p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>At 18.00 <em type="italic">Greenland Unrealised </em>(by Dania Reymond) and   </p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">Village at the end of the World  </em>(by Sarah Gavron ja David Katznelson)    </p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>At 20.00 <em type="italic">Anigaaq </em>(by Jonas Cuaron) and   </p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"><em type="italic">Inuk  </em>(by Mike Magidson)    </p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">Saturday 22.11.2014   </em></p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>At 11.00 <em type="italic">The girl and the dogs </em>(by Guillaume Mainguet and Selma Vihunen) and <em type="italic">Souls in a room (The making of an album) </em>by Mikisoq H. Lynge) and <em type="italic">Echoes </em>(by Ivalo Frank).  Q&amp;A with director.   </p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>At 17.30 Kaamos Jazz and Camera Borealis presents: Picture concert <span type="quote">”Faraway in North – A journey into nature”</span> at Sámi cultural centre Sajos.</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>At 21.00    Camera Borealis &amp; Greenland Eyes Jam Session   at Hotel Kultahovi: Concert with Simon Lynge.</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">Sunday 23.11.2014  </em></p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>At 18.00 <em type="italic">Sullorsuaq </em>(The tunnel by Marc Fussing Rosbach) and <em type="italic">Hinnarik Sinnattunilu </em>(Hinnariks’s dreams by Angajo Lennert Sandgreen)   </p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>At 20.00 <em type="italic">Tupilaq </em>(by Jakob Mage) and <em type="italic">Aftermat </em>(Number six by Martin Skinkl  øv and Rune Bundgaard)    </p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">Monday 24.11.2014   </em></p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>At 18.00 <em type="italic">Aulahuliat </em>(Moving Images by Uusaqqak  Qujaukitsag) and <em type="italic">Block P </em>(by Peter Jensen and Rikke Diemer)    </p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>At 20.00  <em type="italic">Sooqakersuuttugut  </em><em type="italic">(Why we fight by Inuk Silis Hoegh) Before tomorrow (by Marie  </em>Hélène Cousineau and Madeline Ivalu)    </p>
-    <p><em type="italic">Information about the films on the festival homepage </em><em type="italic">. </em>  </p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">Tickets for the movies from Sajos info during opening times (Mon-Fri 9am-5pm) and from the internet  </em><em type="italic">www.lipputoimisto.fi    </em><em type="italic">. In addition tickets can be bought from the door one hour before the screening.  </em>  </p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">Tickets for the movies 6 euros. Youth (under 17) and students (3e) and children (under 12) free of charge.   </em></p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">The tickets for the Kaamosjazz &amp; Camera Borealis –concert can be bought from  </em><em type="italic">www.lipputoimisto.fi   </em><em type="italic">or from Sajos info. Tickets can also be bought from the door an hour before the show. Pre-ticket 25e/30 from the door.  </em>  </p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">Photography exhibition ISI/EYE/ ØJE during the festivals in the lobby of Sajos.   </em></p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">Press enquires: </em>  </p>
-    <p>Festival director Ivalo Frank</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p><em type="italic">More information about the ticket sale: </em> </p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Greenland Eyes International Film Festival at Sajos 20.-24.11.2014</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>506</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=951&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=951_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=951_lang=davvi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Greenland Eyes International Film Festival at Sajos 20.-24.11.2014</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>International Film festival Greenland eyes comes to Finland on its Nordic tour in November.</p>
+<p xml:lang="fin"></p>
+<p>The festival brings the colors, sounds and atmosphere of Greenland to Sajos on 20th-24th of November. The festival will showcase a range of shorts, animations, documentaries, music videos and unique feature length productions both from Greenlandic and foreign film directors.</p>
+<p xml:lang="fin"></p>
+<p>Greenland eyes is the biggest festival focusing on Greenland. It features films across all genres each film selected to add an individual insight into today’s Greenland.</p>
+<p xml:lang="fin"></p>
+<p>The festival is organized for the second time. The inaugural festival took place in Berlin in 2012 and this year the number of submitted films was so great, and the interest so overwhelming, that the 2014 festival is touring all the Nordic countries. Beginning in Greenland on August the 28th the festival then travels to Denmark, Faroe Islands, Iceland, Sweden and Finland, before finishing in Norway on December the 18th.</p>
+<p xml:lang="fin"></p>
+<p>The screenings takes place in the auditorium of Sámi Cultural Center Sajos.  All the films have subtitles in English.</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p><em type="italic">Programme:   </em></p>
+<p xml:lang="fin"></p>
+<p><em type="italic">Thursday 20.11.2014 at 18.00   </em></p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>Introduction by festival director&amp;producer Ivalo Frank and Nicholas Alan.</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"><em type="italic">Nuummioq  </em>(Someone from Nuuk ohj.  Otto Rosing ja Torben Beck)   </p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p><em type="italic">Friday 21.11.2014   </em></p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>At 18.00 <em type="italic">Greenland Unrealised </em>(by Dania Reymond) and   </p>
+<p xml:lang="fin"></p>
+<p><em type="italic">Village at the end of the World  </em>(by Sarah Gavron ja David Katznelson)    </p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>At 20.00 <em type="italic">Anigaaq </em>(by Jonas Cuaron) and   </p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"><em type="italic">Inuk  </em>(by Mike Magidson)    </p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p><em type="italic">Saturday 22.11.2014   </em></p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>At 11.00 <em type="italic">The girl and the dogs </em>(by Guillaume Mainguet and Selma Vihunen) and <em type="italic">Souls in a room (The making of an album) </em>by Mikisoq H. Lynge) and <em type="italic">Echoes </em>(by Ivalo Frank).  Q&amp;A with director.   </p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>At 17.30 Kaamos Jazz and Camera Borealis presents: Picture concert <span type="quote">”Faraway in North – A journey into nature”</span> at Sámi cultural centre Sajos.</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>At 21.00    Camera Borealis &amp; Greenland Eyes Jam Session   at Hotel Kultahovi: Concert with Simon Lynge.</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p><em type="italic">Sunday 23.11.2014  </em></p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>At 18.00 <em type="italic">Sullorsuaq </em>(The tunnel by Marc Fussing Rosbach) and <em type="italic">Hinnarik Sinnattunilu </em>(Hinnariks’s dreams by Angajo Lennert Sandgreen)   </p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>At 20.00 <em type="italic">Tupilaq </em>(by Jakob Mage) and <em type="italic">Aftermat </em>(Number six by Martin Skinkl  øv and Rune Bundgaard)    </p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p><em type="italic">Monday 24.11.2014   </em></p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>At 18.00 <em type="italic">Aulahuliat </em>(Moving Images by Uusaqqak  Qujaukitsag) and <em type="italic">Block P </em>(by Peter Jensen and Rikke Diemer)    </p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>At 20.00  <em type="italic">Sooqakersuuttugut  </em><em type="italic">(Why we fight by Inuk Silis Hoegh) Before tomorrow (by Marie  </em>Hélène Cousineau and Madeline Ivalu)    </p>
+<p><em type="italic">Information about the films on the festival homepage </em><em type="italic">. </em>  </p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p><em type="italic">Tickets for the movies from Sajos info during opening times (Mon-Fri 9am-5pm) and from the internet  </em><em type="italic">www.lipputoimisto.fi    </em><em type="italic">. In addition tickets can be bought from the door one hour before the screening.  </em>  </p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p><em type="italic">Tickets for the movies 6 euros. Youth (under 17) and students (3e) and children (under 12) free of charge.   </em></p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p><em type="italic">The tickets for the Kaamosjazz &amp; Camera Borealis –concert can be bought from  </em><em type="italic">www.lipputoimisto.fi   </em><em type="italic">or from Sajos info. Tickets can also be bought from the door an hour before the show. Pre-ticket 25e/30 from the door.  </em>  </p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p><em type="italic">Photography exhibition ISI/EYE/ ØJE during the festivals in the lobby of Sajos.   </em></p>
+<p xml:lang="fin"></p>
+<p><em type="italic">Press enquires: </em>  </p>
+<p>Festival director Ivalo Frank</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p><em type="italic">More information about the ticket sale: </em> </p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+</body></document>

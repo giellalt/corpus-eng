@@ -1,48 +1,19 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>217</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/lantbruk-och-landsbygd/landsbygdsutveckling/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="lantbruk-och-landsbygd-landsbygdsutveckling.html"/>
-    <parallel_text xml:lang="swe" location="lantbruk-och-landsbygd-landsbygdsutveckling.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Rural development - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Rural development</p>
-    <p>Photo: Märta Ohlsson</p>
-    <p><em type="italic">The County Administrative Board's work in developing rural areas, involves supporting the ideas and commitment of other stakeholders to make it easier to run a business, find employment and obtain attractive living conditions. We utilize the unique conditions of each rural area, thus contributing to positive development. </em></p>
-    <p type="title">Rural Development Programme 2014-2020</p>
-    <p>The Rural Development Programme is intended to contribute to profitable and vigorous companies; active farmers who give us an open countryside with grazing animals; and modern rural areas. In spring 2014 the Government is going to take the formal decision to submit the draft of a new rural development programme for the period 2014–2020 to the European Commission. Then the Commission has six months to examine and approve the programme.</p>
-    <p type="title">What applies to 2014?</p>
-    <p>In September 2013 the Government decided, as a transitional measure, to extend certain environmental measures from the previous rural development programme in 2014. The agri-environmental payments covered by this decision are agri-environmental payments for the management of semi-natural pastures and mown meadows, payments for cultivated grassland and payments for organic production. In addition, the compensatory allowance is being extended in 2014.</p>
-    <p>The measures in the new rural development programme will be opened for applications successively in the period 2014 to 2016.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>217</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/lantbruk-och-landsbygd/landsbygdsutveckling/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="lantbruk-och-landsbygd-landsbygdsutveckling.html"/><parallel_text xml:lang="swe" location="lantbruk-och-landsbygd-landsbygdsutveckling.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Rural development - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Rural development</p>
+<p>Photo: Märta Ohlsson</p>
+<p><em type="italic">The County Administrative Board's work in developing rural areas, involves supporting the ideas and commitment of other stakeholders to make it easier to run a business, find employment and obtain attractive living conditions. We utilize the unique conditions of each rural area, thus contributing to positive development. </em></p>
+<p type="title">Rural Development Programme 2014-2020</p>
+<p>The Rural Development Programme is intended to contribute to profitable and vigorous companies; active farmers who give us an open countryside with grazing animals; and modern rural areas. In spring 2014 the Government is going to take the formal decision to submit the draft of a new rural development programme for the period 2014–2020 to the European Commission. Then the Commission has six months to examine and approve the programme.</p>
+<p type="title">What applies to 2014?</p>
+<p>In September 2013 the Government decided, as a transitional measure, to extend certain environmental measures from the previous rural development programme in 2014. The agri-environmental payments covered by this decision are agri-environmental payments for the management of semi-natural pastures and mown meadows, payments for cultivated grassland and payments for organic production. In addition, the compensatory allowance is being extended in 2014.</p>
+<p>The measures in the new rural development programme will be opened for applications successively in the period 2014 to 2016.</p>
+</body></document>

@@ -1,56 +1,30 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>The path to democracy   - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>695</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=123816</origFileName>
-    <parallel_text xml:lang="nno" location="nyhet.html_tid=123816.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=123816_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">The path to democracy</p>
-    <p>Today His Majesty The King spoke about the transition towards democracy at the University of Yangon. The speech marked the start of the second day of King Harald and Queen Sonja’s State Visit to Myanmar.</p>
-    <p xml:lang="koi">02.12.2014</p>
-    <p>The King and Queen travelled from the new capital city of Nay Pyi Taw to Yangon, formerly known as Rangoon. Yangon was Myanmar’s capital until 2006 and is home to the University of Yangon, which serves as the country’s most important arena for international speakers.</p>
-    <p>Representatives of the Myanmar authorities, diplomatic corps and university students filled the historical Convocation Hall. King Harald expressed his support for the country’s decision to build a peaceful and democratic future, as well as his respect for the difficulties the country is facing:</p>
-    <p><em type="italic">“I applaud your determination to turn a difficult past into a hopeful future. The process of transformation you have embarked on is ambitious. We are here to support you in the hard work that lies ahead. (…) </em></p>
-    <p><em type="italic">We are aware that you will encounter difficulties in your process of transition. There will be obstacles to overcome in your transition to an open economy. Challenges lie ahead in your ongoing peace process. It takes time to build lasting and sustainable peace. In order to realise the vision of a sustainable democratic state, the commitment of all the people in your country is needed. </em></p>
-    <p><em type="italic">Rest assured that we see it as our responsibility to support you, to make a contribution in areas where our experience might be useful. We will continue to do this as a true and honest friend, whether or not we agree on everything.” </em></p>
-    <p type="title">Visit to Telenor House</p>
-    <p>The King and Queen went straight from the university to Telenor House. Telenor is involved in the construction of the telecommunications network in Myanmar – a development that will revolutionise the daily lives of many inhabitants. Messages that previously required travel time of up to a day to deliver can now be conveyed by means of a telephone call, simplifying life tremendously.</p>
-    <p>Following the visit at Telenor House, the King and Queen attended a luncheon with representatives of the Norwegian and Myanmar authorities and trade and industry.</p>
-    <p type="title">New green centre</p>
-    <p>In the afternoon, King Harald and Queen Sonja undertook the official opening of the new Center for Excellence for Greening/Asean Institute for Green Productivity.</p>
-    <p>Seventy-five per cent of Myanmar’s population does not have electricity. Access to energy, both for household use and for industrial growth, is high on the agenda for Myanmar. The challenge lies in providing access to energy while safeguarding the country’s unique natural environment and ensuring sustainability. Hydropower and wind power development are both of interest, with support from the Norwegian technology and business sector, among others. In his remarks, King Harald said:</p>
-    <p xml:lang="nno"><em type="italic"><span type="quote">“Rural electrification and increased access to sustainable energy is essential for Myanmar’s development. Norway stands ready to support Myanmar on its path towards a sustainable energy future by sharing competence and technology.”</span> </em></p>
-    <p type="title" xml:lang="vep">Shwedagon Pagoda</p>
-    <p>In the late afternoon local time, the King and Queen visited the exquisite Shwedagon Pagoda. The pagoda is a very significant site for Buddhists and the people of Myanmar. It is said that a new Buddha will appear every 5 000 years. The pagoda was built 2 500 years ago on Singuttara Hill, where the relics of three previous Buddhas are enshrined.</p>
-    <p>The Shwedagon Pagoda was erected on this holy site to honour them and as the holy resting place of the relics of the most recent Buddha, Siddhartha Gautama. It has been a well-known landmark since as far back as the 11th century.</p>
-    <p type="title">Reception</p>
-    <p>This evening local time, King Harald and Queen Sonja will be attending a reception hosted by the Norwegian Embassy and Innovation Norway. O pposition leader Daw Aung San Suu Kyi will also be in attendance.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>King Harald of Norway speaks about the transition towards democracy at the University of Yangon during a state visit to Myanmar 1 - 5 December 2014.</p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">State visit to Myanmar: Speech at University of Yangon (Speech)</p>
-      <p type="listitem">State Visit to Myanmar (News article)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>The path to democracy   - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>690</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=123816</origFileName><parallel_text xml:lang="nno" location="nyhet.html_tid=123816.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=123816_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">The path to democracy</p>
+<p>Today His Majesty The King spoke about the transition towards democracy at the University of Yangon. The speech marked the start of the second day of King Harald and Queen Sonja’s State Visit to Myanmar.</p>
+<p xml:lang="vep">02.12.2014</p>
+<p>The King and Queen travelled from the new capital city of Nay Pyi Taw to Yangon, formerly known as Rangoon. Yangon was Myanmar’s capital until 2006 and is home to the University of Yangon, which serves as the country’s most important arena for international speakers.</p>
+<p>Representatives of the Myanmar authorities, diplomatic corps and university students filled the historical Convocation Hall. King Harald expressed his support for the country’s decision to build a peaceful and democratic future, as well as his respect for the difficulties the country is facing:</p>
+<p><em type="italic">“I applaud your determination to turn a difficult past into a hopeful future. The process of transformation you have embarked on is ambitious. We are here to support you in the hard work that lies ahead. (…) </em></p>
+<p><em type="italic">We are aware that you will encounter difficulties in your process of transition. There will be obstacles to overcome in your transition to an open economy. Challenges lie ahead in your ongoing peace process. It takes time to build lasting and sustainable peace. In order to realise the vision of a sustainable democratic state, the commitment of all the people in your country is needed. </em></p>
+<p><em type="italic">Rest assured that we see it as our responsibility to support you, to make a contribution in areas where our experience might be useful. We will continue to do this as a true and honest friend, whether or not we agree on everything.” </em></p>
+<p type="title">Visit to Telenor House</p>
+<p>The King and Queen went straight from the university to Telenor House. Telenor is involved in the construction of the telecommunications network in Myanmar – a development that will revolutionise the daily lives of many inhabitants. Messages that previously required travel time of up to a day to deliver can now be conveyed by means of a telephone call, simplifying life tremendously.</p>
+<p>Following the visit at Telenor House, the King and Queen attended a luncheon with representatives of the Norwegian and Myanmar authorities and trade and industry.</p>
+<p type="title">New green centre</p>
+<p>In the afternoon, King Harald and Queen Sonja undertook the official opening of the new Center for Excellence for Greening/Asean Institute for Green Productivity.</p>
+<p>Seventy-five per cent of Myanmar’s population does not have electricity. Access to energy, both for household use and for industrial growth, is high on the agenda for Myanmar. The challenge lies in providing access to energy while safeguarding the country’s unique natural environment and ensuring sustainability. Hydropower and wind power development are both of interest, with support from the Norwegian technology and business sector, among others. In his remarks, King Harald said:</p>
+<p xml:lang="swe"><em type="italic"><span type="quote">“Rural electrification and increased access to sustainable energy is essential for Myanmar’s development. Norway stands ready to support Myanmar on its path towards a sustainable energy future by sharing competence and technology.”</span> </em></p>
+<p type="title" xml:lang="vep">Shwedagon Pagoda</p>
+<p>In the late afternoon local time, the King and Queen visited the exquisite Shwedagon Pagoda. The pagoda is a very significant site for Buddhists and the people of Myanmar. It is said that a new Buddha will appear every 5 000 years. The pagoda was built 2 500 years ago on Singuttara Hill, where the relics of three previous Buddhas are enshrined.</p>
+<p>The Shwedagon Pagoda was erected on this holy site to honour them and as the holy resting place of the relics of the most recent Buddha, Siddhartha Gautama. It has been a well-known landmark since as far back as the 11th century.</p>
+<p type="title">Reception</p>
+<p>This evening local time, King Harald and Queen Sonja will be attending a reception hosted by the Norwegian Embassy and Innovation Norway. O pposition leader Daw Aung San Suu Kyi will also be in attendance.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>King Harald of Norway speaks about the transition towards democracy at the University of Yangon during a state visit to Myanmar 1 - 5 December 2014.</p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">State visit to Myanmar: Speech at University of Yangon (Speech)</p>
+<p type="listitem">State Visit to Myanmar (News article)</p>
+</list></body></document>

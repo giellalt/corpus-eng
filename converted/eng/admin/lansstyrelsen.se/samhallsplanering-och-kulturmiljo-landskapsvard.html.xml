@@ -1,44 +1,15 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>181</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/landskapsvard/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-landskapsvard.html"/>
-    <parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-landskapsvard.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Landscape preservation - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Landscape preservation</p>
-    <p>The County Administrative Board works to preserve and highlight the landscape values, and we also provide information of these values to both local residents and tourists alike.</p>
-    <p>If you want to preserve a valuable cultural landscape which tells the history of the county, you can receive grants from the County Administrative Board for this purpose. The grants are managed on the basis of the projects which we have prioritized, and the initiatives can apply both to cultural monuments and plant and animal life. An important part of this work is to establish facts and other information on the cultural landscape. We also allocate grants for various EU projects relating to the cultural landscape.</p>
-    <p>The County Administrative Board also allocates grants to associations, companies and individuals who wish to undertake local nature conservation projects (LONA). If you want to receive grants for a LONA project, you should report this to your municipality who will then submit the application to the County Administrative Board. The grant covers up to half the cost of a project.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>181</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/landskapsvard/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-landskapsvard.html"/><parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-landskapsvard.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Landscape preservation - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Landscape preservation</p>
+<p>The County Administrative Board works to preserve and highlight the landscape values, and we also provide information of these values to both local residents and tourists alike.</p>
+<p>If you want to preserve a valuable cultural landscape which tells the history of the county, you can receive grants from the County Administrative Board for this purpose. The grants are managed on the basis of the projects which we have prioritized, and the initiatives can apply both to cultural monuments and plant and animal life. An important part of this work is to establish facts and other information on the cultural landscape. We also allocate grants for various EU projects relating to the cultural landscape.</p>
+<p>The County Administrative Board also allocates grants to associations, companies and individuals who wish to undertake local nature conservation projects (LONA). If you want to receive grants for a LONA project, you should report this to your municipality who will then submit the application to the County Administrative Board. The grant covers up to half the cost of a project.</p>
+</body></document>

@@ -1,85 +1,43 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1179</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Undersokningarprover/PSA</origFileName>
-    <parallel_text xml:lang="fin" location="psa.html"/>
-    <parallel_text xml:lang="fit" location="blodprov-psa.html"/>
-    <parallel_text xml:lang="rus" location="psa.html"/>
-    <parallel_text xml:lang="sma" location="blodprov-psa.html"/>
-    <parallel_text xml:lang="sme" location="blodprov-psa.html"/>
-    <parallel_text xml:lang="smj" location="blodprov-psa.html"/>
-    <parallel_text xml:lang="swe" location="psa.html"/>
-    <parallel_text location="psa-blodprov.html" xml:lang="rmf"/>
-    <parallel_text location="blodprov-psa1.html" xml:lang="rmu"/>
-    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rka"/>
-    <parallel_text location="blodprov.html" xml:lang="rmn"/>
-    <parallel_text location="psa-blodprov.html" xml:lang="yid"/>
-    <parallel_text location="blodprov-psa.html" xml:lang="rmy-rlo"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">PSA / PSA - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title">PSAPSA</p>
-    <p xml:lang="swe"></p>
-    <p type="title">Why is the test taken?</p>
-    <p type="title">When is a sample needed for PSA testing?</p>
-    <p>PSA is a blood test that is included amongst the procedures that are carried out when the prostate is examined.</p>
-    <p>A PSA test is sometimes needed if you have urinary tract disorders that your doctor suspects are caused by the prostate; such as if you often need to urinate but the flow is weak.</p>
-    <p>A PSA test may also be needed is the doctor detects any changes in the prostate when it is examined – changes that can cause a variety of disorders and diseases.</p>
-    <p>It is important to understand that an elevated PSA value is not synonymous with having cancer. It is common for mild to moderate increases of PSA to be caused by something harmless.</p>
-    <p>In a similar way, a normal level does not completely rule out prostate cancer. The result always needs to be assessed in relation to the symptoms you have and the results of other tests.</p>
-    <p>If you have two or more male relatives with prostate cancer, there is a greater risk that you will also develop the disease. In such case, it is recommended that you take a PSA test every year from the age of 40 or 50 until you reach 70.</p>
-    <p>PSA is also measured when treatment is given for prostate cancer. If the treatment is working, it will be evident in falling PSA levels.</p>
-    <p type="title">Advantages and disadvantages of PSA testing</p>
-    <p>PSA tests are not routinely carried out on men as a general health checkup to see whether they have a very early form of prostate cancer. The reason for this is that it is not always advantageous to detect and treat the early forms of prostate cancer. Treatment can cause lasting side effects such as impotence and incontinence in men whose prostate cancer would never have been able to develop into a serious illness.</p>
-    <p>A tumour can grow either slowly, without causing any problems, or quickly and malignantly. At an early stage, it is impossible to differentiate between the two kinds of cancer. There is therefore a danger that you would be treated for a type of cancer that would never have caused any problems during your lifetime.</p>
-    <p>Despite this, many men still want to be tested so as to be sure whether they have prostate cancer or not. Before deciding whether to submit a sample for PSA testing, it is good to learn more about the advantages and disadvantages of undergoing treatment for an early-detected tumour. If you then want to proceed and discuss the matter with your doctor, you should make an appointment at the district health care centre or occupational health services.</p>
-    <p type="title">What is PSA and where is it found?</p>
-    <p>PSA is an abbreviation for Prostate-Specific Antigen. It is a protein manufactured in the prostate that is carried by the seminal fluid during ejaculation and allows the sperm to be more mobile.</p>
-    <p>PSA is also normally found in small quantities in the blood, and it is this quantity that is measured my means of a PSA test. There are various prostate changes that are normal and can cause the PSA level in the blood to rise; for example, benign prostate enlargement and inflammation of the prostate gland – called prostatitis – leads to more PSA being secreted into the blood stream by the prostate.</p>
-    <p>Over the years, PSA levels rise slightly in most men because their prostate gland becomes a little larger with increasing age.</p>
-    <p>Most PSA in the blood is bound to various proteins, but there is also a small quantity of free, unbound PSA. When a moderate increase in PSA levels is caused by something harmless, there is usually more free PSA in the blood. The doctor can therefore get an indication by measuring the relative proportions of bound and free PSA.</p>
-    <p type="title">How is the sample taken?</p>
-    <p>The sample is usually taken from the arm through a thin needle that is inserted into a blood vessel, a vein. This kind of blood sample is therefore called a venous sample.</p>
-    <p>The sample can be taken at any time of the day. You should sit down for 15 minutes before the sample is taken; apart from that, no other preparations are necessary.</p>
-    <p>If a surgical procedure is carried out on the prostate, PSA levels will rise. In such cases, you will need to wait for at least 10 minutes before it is worthwhile to take a PSA test. If, on the other hand, the doctor only feels the prostate, the PSA value will not be affected.</p>
-    <p type="title">When do I get the results?</p>
-    <p>The sample is sent to a hospital laboratory for analysis. You and your doctor will agree on how and when you should be informed of the test results. The doctor will normally get the answer from the laboratory within a day or two.</p>
-    <p type="title">How are the test results interpreted?</p>
-    <p>A test result must always be considered together with the symptoms you have and the results of other tests.</p>
-    <p>PSA values in the blood vary from one man to another, even those who do not have prostate problems. For the doctor to have something to compare with when interpreting the results, so-called reference values are used. PSA values of more than 3 microgrammes per litre are considered elevated.</p>
-    <p type="title">High values – what can be the cause?</p>
-    <p>About one in ten middle-aged men have elevated PSA levels. A common cause for mildly elevated levels is benign prostate enlargement.</p>
-    <p>Heightened values can also be due to a prostate inflammation, called prostatitis.</p>
-    <p>A common urinary tract infection can cause a temporary but significant increase in PSA levels. If a person is for any reason unable to urinate, having so-called urinary retention, he can also have a temporary elevated level of PSA.</p>
-    <p>Elevated levels can also be caused by prostate cancer. Cancer is found in about a third of men who have increased PSA levels. The relative proportions of free and bound PSA can help the doctor to differentiate between benign prostate problems and prostate cancer.</p>
-    <p>Amongst men who repeatedly test themselves for many years, about one in four will have a PSA value that warrants further investigation.</p>
-    <p>If the result of a PSA test shows a high value, the doctor will normally carry out another procedure using ultrasound and taking samples from the prostate. If the doctor detects cancer, treatment can be given using surgery, radiation or hormones.</p>
-    <p type="title">Low values – what can be the cause?</p>
-    <p>Low values indicate that you do not have prostate cancer, although a PSA test in itself cannot confirm this beyond all doubt.</p>
-    <p>If your prostate is surgically removed, PSA values will drop to a level barely measurable. A low PSA value can also be used as an indication that surgery has had a positive effect. Reduced PSA levels are usually also a good sign that two other treatment methods – radiotherapy and hormone treatment – have worked well.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1170</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Undersokningarprover/PSA</origFileName><parallel_text xml:lang="fin" location="psa.html"/><parallel_text xml:lang="fit" location="blodprov-psa.html"/><parallel_text xml:lang="rus" location="psa.html"/><parallel_text xml:lang="sma" location="blodprov-psa.html"/><parallel_text xml:lang="sme" location="blodprov-psa.html"/><parallel_text xml:lang="smj" location="blodprov-psa.html"/><parallel_text xml:lang="swe" location="psa.html"/><parallel_text location="psa-blodprov.html" xml:lang="rmf"/><parallel_text location="blodprov-psa1.html" xml:lang="rmu"/><parallel_text location="blodprov-psa.html" xml:lang="rmy-rka"/><parallel_text location="blodprov.html" xml:lang="rmn"/><parallel_text location="psa-blodprov.html" xml:lang="yid"/><parallel_text location="blodprov-psa.html" xml:lang="rmy-rlo"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">PSA / PSA - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">PSAPSA</p>
+<p xml:lang="swe"></p>
+<p type="title">Why is the test taken?</p>
+<p type="title">When is a sample needed for PSA testing?</p>
+<p>PSA is a blood test that is included amongst the procedures that are carried out when the prostate is examined.</p>
+<p>A PSA test is sometimes needed if you have urinary tract disorders that your doctor suspects are caused by the prostate; such as if you often need to urinate but the flow is weak.</p>
+<p>A PSA test may also be needed is the doctor detects any changes in the prostate when it is examined – changes that can cause a variety of disorders and diseases.</p>
+<p>It is important to understand that an elevated PSA value is not synonymous with having cancer. It is common for mild to moderate increases of PSA to be caused by something harmless.</p>
+<p>In a similar way, a normal level does not completely rule out prostate cancer. The result always needs to be assessed in relation to the symptoms you have and the results of other tests.</p>
+<p>If you have two or more male relatives with prostate cancer, there is a greater risk that you will also develop the disease. In such case, it is recommended that you take a PSA test every year from the age of 40 or 50 until you reach 70.</p>
+<p>PSA is also measured when treatment is given for prostate cancer. If the treatment is working, it will be evident in falling PSA levels.</p>
+<p type="title">Advantages and disadvantages of PSA testing</p>
+<p>PSA tests are not routinely carried out on men as a general health checkup to see whether they have a very early form of prostate cancer. The reason for this is that it is not always advantageous to detect and treat the early forms of prostate cancer. Treatment can cause lasting side effects such as impotence and incontinence in men whose prostate cancer would never have been able to develop into a serious illness.</p>
+<p>A tumour can grow either slowly, without causing any problems, or quickly and malignantly. At an early stage, it is impossible to differentiate between the two kinds of cancer. There is therefore a danger that you would be treated for a type of cancer that would never have caused any problems during your lifetime.</p>
+<p>Despite this, many men still want to be tested so as to be sure whether they have prostate cancer or not. Before deciding whether to submit a sample for PSA testing, it is good to learn more about the advantages and disadvantages of undergoing treatment for an early-detected tumour. If you then want to proceed and discuss the matter with your doctor, you should make an appointment at the district health care centre or occupational health services.</p>
+<p type="title">What is PSA and where is it found?</p>
+<p>PSA is an abbreviation for Prostate-Specific Antigen. It is a protein manufactured in the prostate that is carried by the seminal fluid during ejaculation and allows the sperm to be more mobile.</p>
+<p>PSA is also normally found in small quantities in the blood, and it is this quantity that is measured my means of a PSA test. There are various prostate changes that are normal and can cause the PSA level in the blood to rise; for example, benign prostate enlargement and inflammation of the prostate gland – called prostatitis – leads to more PSA being secreted into the blood stream by the prostate.</p>
+<p>Over the years, PSA levels rise slightly in most men because their prostate gland becomes a little larger with increasing age.</p>
+<p>Most PSA in the blood is bound to various proteins, but there is also a small quantity of free, unbound PSA. When a moderate increase in PSA levels is caused by something harmless, there is usually more free PSA in the blood. The doctor can therefore get an indication by measuring the relative proportions of bound and free PSA.</p>
+<p type="title">How is the sample taken?</p>
+<p>The sample is usually taken from the arm through a thin needle that is inserted into a blood vessel, a vein. This kind of blood sample is therefore called a venous sample.</p>
+<p>The sample can be taken at any time of the day. You should sit down for 15 minutes before the sample is taken; apart from that, no other preparations are necessary.</p>
+<p>If a surgical procedure is carried out on the prostate, PSA levels will rise. In such cases, you will need to wait for at least 10 minutes before it is worthwhile to take a PSA test. If, on the other hand, the doctor only feels the prostate, the PSA value will not be affected.</p>
+<p type="title">When do I get the results?</p>
+<p>The sample is sent to a hospital laboratory for analysis. You and your doctor will agree on how and when you should be informed of the test results. The doctor will normally get the answer from the laboratory within a day or two.</p>
+<p type="title">How are the test results interpreted?</p>
+<p>A test result must always be considered together with the symptoms you have and the results of other tests.</p>
+<p>PSA values in the blood vary from one man to another, even those who do not have prostate problems. For the doctor to have something to compare with when interpreting the results, so-called reference values are used. PSA values of more than 3 microgrammes per litre are considered elevated.</p>
+<p type="title">High values – what can be the cause?</p>
+<p>About one in ten middle-aged men have elevated PSA levels. A common cause for mildly elevated levels is benign prostate enlargement.</p>
+<p>Heightened values can also be due to a prostate inflammation, called prostatitis.</p>
+<p>A common urinary tract infection can cause a temporary but significant increase in PSA levels. If a person is for any reason unable to urinate, having so-called urinary retention, he can also have a temporary elevated level of PSA.</p>
+<p>Elevated levels can also be caused by prostate cancer. Cancer is found in about a third of men who have increased PSA levels. The relative proportions of free and bound PSA can help the doctor to differentiate between benign prostate problems and prostate cancer.</p>
+<p>Amongst men who repeatedly test themselves for many years, about one in four will have a PSA value that warrants further investigation.</p>
+<p>If the result of a PSA test shows a high value, the doctor will normally carry out another procedure using ultrasound and taking samples from the prostate. If the doctor detects cancer, treatment can be given using surgery, radiation or hormones.</p>
+<p type="title">Low values – what can be the cause?</p>
+<p>Low values indicate that you do not have prostate cancer, although a PSA test in itself cannot confirm this beyond all doubt.</p>
+<p>If your prostate is surgically removed, PSA values will drop to a level barely measurable. A low PSA value can also be used as an indication that surgery has had a positive effect. Reduced PSA levels are usually also a good sign that two other treatment methods – radiotherapy and hormone treatment – have worked well.</p>
+</body></document>

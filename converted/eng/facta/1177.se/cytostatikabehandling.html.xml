@@ -1,54 +1,20 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>395</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Behandling-vid-cancer/Cytostatikabehandling</origFileName>
-    <parallel_text xml:lang="fin" location="cytostatikabehandling.html"/>
-    <parallel_text xml:lang="rus" location="cytostatikabehandling.html"/>
-    <parallel_text xml:lang="swe" location="cytostatikabehandling.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Chemotherapy / Cytostatikabehandling - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title">ChemotherapyCytostatikabehandling</p>
-    <p xml:lang="swe"></p>
-    <p type="title">Overview</p>
-    <list>
-      <p type="listitem">Chemotherapy is often delivered directly into the blood stream through a drip. This can take from half an hour to several hours.</p>
-    </list>
-    <p type="title">General</p>
-    <p>Chemotherapy belongs to a group of medicines that are used mainly to treat various cancers. The medicines work by killing the cancerous cells. Chemotherapy can also stop cancer cells from growing.</p>
-    <p>Chemotherapy is often stressful for the body, so, when a person is diagnosed with cancer, the doctor needs to consider whether it is an appropriate treatment method to use. Sometimes, it is better to treat the cancer using radiotherapy, other types of medicine or not to treat it at all.</p>
-    <p type="title">Preparations</p>
-    <p>As a rule, various tests will be taken before chemotherapy begins. These will help the doctor decide what type of cancer you have as well as the size of the tumour and how much it has spread in the body. The doctor also needs to examine whether you have any other diseases or problems that can affect your possibility of undergoing chemotherapy treatment.</p>
-    <p type="title">How is the treatment carried out?</p>
-    <p>Usually, you will be given the treatment directly into the blood stream through a drip. This normally takes up to several hours. You will usually only need to stay at the hospital during those hours that you are connected to the drip.</p>
-    <p>Treatment is normally given several days in a row, after which you will have a break for a few weeks before a new course of treatment begins.</p>
-    <p>There are also kinds of chemotherapy medicine that you can take at home as tablets.</p>
-    <p type="title">How will you feel afterwards?</p>
-    <p>Chemotherapy attacks not only cancer cells but also healthy ones. This often causes side effects. The side effects that a person experiences and how severe they are depend on the kind of chemotherapy that is used, the dosage, and the number of times you are given treatment.</p>
-    <p>Different people are sensitive to different kinds of side effects. You may, for example, feel sick, lose your hair or experience infections. There are often medicines that can help against these side effects. To receive help, it is therefore important to explain to the hospital personnel how you feel after treatment is given. When the treatment is complete, side effects normally disappear.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>386</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Behandling-vid-cancer/Cytostatikabehandling</origFileName><parallel_text xml:lang="fin" location="cytostatikabehandling.html"/><parallel_text xml:lang="rus" location="cytostatikabehandling.html"/><parallel_text xml:lang="swe" location="cytostatikabehandling.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Chemotherapy / Cytostatikabehandling - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">ChemotherapyCytostatikabehandling</p>
+<p xml:lang="swe"></p>
+<p type="title">Overview</p>
+<list><p type="listitem">Chemotherapy is often delivered directly into the blood stream through a drip. This can take from half an hour to several hours.</p>
+</list><p type="title">General</p>
+<p>Chemotherapy belongs to a group of medicines that are used mainly to treat various cancers. The medicines work by killing the cancerous cells. Chemotherapy can also stop cancer cells from growing.</p>
+<p>Chemotherapy is often stressful for the body, so, when a person is diagnosed with cancer, the doctor needs to consider whether it is an appropriate treatment method to use. Sometimes, it is better to treat the cancer using radiotherapy, other types of medicine or not to treat it at all.</p>
+<p type="title">Preparations</p>
+<p>As a rule, various tests will be taken before chemotherapy begins. These will help the doctor decide what type of cancer you have as well as the size of the tumour and how much it has spread in the body. The doctor also needs to examine whether you have any other diseases or problems that can affect your possibility of undergoing chemotherapy treatment.</p>
+<p type="title">How is the treatment carried out?</p>
+<p>Usually, you will be given the treatment directly into the blood stream through a drip. This normally takes up to several hours. You will usually only need to stay at the hospital during those hours that you are connected to the drip.</p>
+<p>Treatment is normally given several days in a row, after which you will have a break for a few weeks before a new course of treatment begins.</p>
+<p>There are also kinds of chemotherapy medicine that you can take at home as tablets.</p>
+<p type="title">How will you feel afterwards?</p>
+<p>Chemotherapy attacks not only cancer cells but also healthy ones. This often causes side effects. The side effects that a person experiences and how severe they are depend on the kind of chemotherapy that is used, the dosage, and the number of times you are given treatment.</p>
+<p>Different people are sensitive to different kinds of side effects. You may, for example, feel sick, lose your hair or experience infections. There are often medicines that can help against these side effects. To receive help, it is therefore important to explain to the hospital personnel how you feel after treatment is given. When the treatment is complete, side effects normally disappear.</p>
+</body></document>

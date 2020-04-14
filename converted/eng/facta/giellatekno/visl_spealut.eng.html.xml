@@ -1,62 +1,31 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>VISL games</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>303</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/usevisl/VISL_spealut.eng.html</origFileName>
-    <parallel_text xml:lang="sme" location="visl_spealut.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">VISL games</p>
-    <list>
-      <p type="listitem">Part of speech games</p>
-      <p type="listitem">Games for sentence analysis</p>
-      <p type="listitem">Word inflection and wordquiz</p>
-      <p type="listitem">Adjustment</p>
-    </list>
-    <p><em type="italic">The VISL programs </em>are made to teach grammatical consepts, and for people who already know Saami. The VISL group at the University of Southern Denmark (SDU) has done the program development and programming, and the University of Tromsø has provided the Saami content. The programs are beta versions, and they may contain errors. We would like to receive comments! (oahpa@uit.no) </p>
-    <p>In the VISL programs, menus, buttons and feedback are in English.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Part of speech games</p>
-    <p>Training part of speech is important. Here follow links to four different games.</p>
-    <list>
-      <p type="listitem"><em type="italic">Paintbox (Máladoassa) </em>- paint nouns, verbs and other words. </p>
-      <p type="listitem"><em type="italic">Wordfall (Sátnegahččan) </em>- Nouns, verbs and other words should rall down at the right place. </p>
-      <p type="listitem"><em type="italic">Shooting Gallery (Báhčinspeallu) </em>- shoot nouns, verbs and aother words flying over a nightly sky. </p>
-      <p type="listitem"><em type="italic">Labyrinth (Labyrinta) </em>- hurry through the labyrint via the correct part of speech. Don't let the ghost eat you! </p>
-      <p type="listitem">Read about our parts of speech.</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Games for sentence analysis</p>
-    <p>These games help you do sentence analysis.</p>
-    <list>
-      <p type="listitem"><em type="italic">Syntris </em>- subjects, objects and other constituents shall fall down on the right place - the game reminds of Tetris. </p>
-      <p type="listitem"><em type="italic">SpaceRescue </em>- you shall find out what word belongs to what sentence constituent, and rescue them with a space ship. </p>
-      <p type="listitem"><em type="italic">Sentence analysis </em>- Draw syntactic tree structures in interaction with the computer (suitable for high shcool, college and university). </p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Word inflection and wordquiz</p>
-    <list>
-      <p type="listitem"><em type="italic">Killerfiller </em>- write the appropriate form of the word in its sentential context. </p>
-      <p type="listitem"><em type="italic">Animal Quiz </em>- guess which animal... </p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Adjustment</p>
-    <p>If you want to adjust the games to the pupils' level, you might want to look at our sentence corpus.</p>
-    <p>If you want to learn more about sentence analysis, look here: Sentence analysis</p>
-    <p xml:lang="nno">Last changed: $Id: VISL_spealut.eng.xml,v 1.8 2005/06/21 lene Exp $</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>VISL games</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>303</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/VISL_spealut.eng.html</origFileName><parallel_text xml:lang="sme" location="visl_spealut.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">VISL games</p>
+<list><p type="listitem">Part of speech games</p>
+<p type="listitem">Games for sentence analysis</p>
+<p type="listitem">Word inflection and wordquiz</p>
+<p type="listitem">Adjustment</p>
+</list><p><em type="italic">The VISL programs </em>are made to teach grammatical consepts, and for people who already know Saami. The VISL group at the University of Southern Denmark (SDU) has done the program development and programming, and the University of Tromsø has provided the Saami content. The programs are beta versions, and they may contain errors. We would like to receive comments! (oahpa@uit.no) </p>
+<p>In the VISL programs, menus, buttons and feedback are in English.</p>
+<p xml:lang="swe"></p>
+<p type="title">Part of speech games</p>
+<p>Training part of speech is important. Here follow links to four different games.</p>
+<list><p type="listitem"><em type="italic">Paintbox (Máladoassa) </em>- paint nouns, verbs and other words. </p>
+<p type="listitem"><em type="italic">Wordfall (Sátnegahččan) </em>- Nouns, verbs and other words should rall down at the right place. </p>
+<p type="listitem"><em type="italic">Shooting Gallery (Báhčinspeallu) </em>- shoot nouns, verbs and aother words flying over a nightly sky. </p>
+<p type="listitem"><em type="italic">Labyrinth (Labyrinta) </em>- hurry through the labyrint via the correct part of speech. Don't let the ghost eat you! </p>
+<p type="listitem">Read about our parts of speech.</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Games for sentence analysis</p>
+<p>These games help you do sentence analysis.</p>
+<list><p type="listitem"><em type="italic">Syntris </em>- subjects, objects and other constituents shall fall down on the right place - the game reminds of Tetris. </p>
+<p type="listitem"><em type="italic">SpaceRescue </em>- you shall find out what word belongs to what sentence constituent, and rescue them with a space ship. </p>
+<p type="listitem"><em type="italic">Sentence analysis </em>- Draw syntactic tree structures in interaction with the computer (suitable for high shcool, college and university). </p>
+</list><p xml:lang="swe"></p>
+<p type="title">Word inflection and wordquiz</p>
+<list><p type="listitem"><em type="italic">Killerfiller </em>- write the appropriate form of the word in its sentential context. </p>
+<p type="listitem"><em type="italic">Animal Quiz </em>- guess which animal... </p>
+</list><p xml:lang="swe"></p>
+<p type="title">Adjustment</p>
+<p>If you want to adjust the games to the pupils' level, you might want to look at our sentence corpus.</p>
+<p>If you want to learn more about sentence analysis, look here: Sentence analysis</p>
+<p xml:lang="nno">Last changed: $Id: VISL_spealut.eng.xml,v 1.8 2005/06/21 lene Exp $</p>
+</body></document>

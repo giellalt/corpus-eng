@@ -1,43 +1,18 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Sámi Education Conference | Sámi University of Applied Sciences</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>62</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/en/a/sami-education-conference</origFileName>
-    <parallel_text xml:lang="nob" location="samisk-utdanningskonferanse-transformerende-perspektiv-pa-urfolksutdanning.html"/>
-    <parallel_text xml:lang="sme" location="sami-oahpahuskonferansa.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p>Conference</p>
-    <p>30. May, 09:00</p>
-    <p>to</p>
-    <p xml:lang="nno">01. June, 15:00</p>
-    <p type="title">Sámi Education Conference</p>
-    <p type="title">Reshaping Approaches to Indigenous Education.</p>
-    <p>Sámi allaskuvla will host an international conference: Sámi Education Conference: Reshaping Approaches to Indigenous Education. The aim of the conference is to share experiences from the indigenous world within the field of education.</p>
-    <p>Conference venue: Diehtosiida in Guovdageaidnu.</p>
-    <p>http://samieducationconference2017.weebly.com/</p>
-    <list>
-      <p type="listitem"><span>invitation_to_sami_education_conference_2017_may_30_-_june_1.pdf  </span></p>
-      <p type="listitem"><span>Facebook page on the event. </span></p>
-      <p type="listitem"><span>Registrations </span></p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Sámi Education Conference | Sámi University of Applied Sciences</title><genre code="admin"/><author><unknown/></author><wordcount>62</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/en/a/sami-education-conference</origFileName><parallel_text xml:lang="nob" location="samisk-utdanningskonferanse-transformerende-perspektiv-pa-urfolksutdanning.html"/><parallel_text xml:lang="sme" location="sami-oahpahuskonferansa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p>Conference</p>
+<p>30. May, 09:00</p>
+<p>to</p>
+<p xml:lang="nno">01. June, 15:00</p>
+<p type="title">Sámi Education Conference</p>
+<p type="title">Reshaping Approaches to Indigenous Education.</p>
+<p>Sámi allaskuvla will host an international conference: Sámi Education Conference: Reshaping Approaches to Indigenous Education. The aim of the conference is to share experiences from the indigenous world within the field of education.</p>
+<p>Conference venue: Diehtosiida in Guovdageaidnu.</p>
+<p>http://samieducationconference2017.weebly.com/</p>
+<list><p type="listitem"><span>invitation_to_sami_education_conference_2017_may_30_-_june_1.pdf  </span></p>
+<p type="listitem"><span>Facebook page on the event. </span></p>
+<p type="listitem"><span>Registrations </span></p>
+</list><p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+</body></document>

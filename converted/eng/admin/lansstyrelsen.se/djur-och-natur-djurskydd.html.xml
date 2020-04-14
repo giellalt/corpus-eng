@@ -1,51 +1,22 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>367</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/djur-och-natur/djurskydd/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="djur-och-natur-djurskydd.html"/>
-    <parallel_text xml:lang="swe" location="djur-och-natur-djurskydd.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Animal welfare - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Animal welfare</p>
-    <p>The County Administrative Board has overall responsibility for animal welfare inspections in the county.</p>
-    <p type="title">Animal welfare is legally regulated</p>
-    <p>The Animal Welfare Act (SFS 1988:534) contains provisions on how animals should be kept and cared for. These provisions are supplemented by the Swedish Animal Welfare Ordinance, various regulations and general guidelines. The Animal Welfare Act applies to animals kept in captivity, for example, farm animals, pets, show animals, zoo animals and laboratory animals. A basic provision is that animals shall be treated well and shall be protected from unnecessary suffering and disease. Animals shall also be accommodated and handled in an environment that is appropriate for the animal and which permits natural behaviour.</p>
-    <p>The Swedish Board of Agriculture has the overall responsibility for maintaining and developing animal welfare in Sweden. The commission includes the coordination and guidance for the animal welfare initiatives of the County Administrative Board.</p>
-    <p type="title">Animals can be taken into charge</p>
-    <p>The County Administrative Board carries out animal welfare inspections in the county. We perform both preventive controls, especially on farm animals, but also inspections resulting from a report of maltreatment by a private person.</p>
-    <p>The overall aim of the County Administrative Board's animal welfare initiatives is to ensure that the Animal Welfare Act is adhered to and that the animals are well-treated. If an animal is maltreated, we may decide that it should be taken into charge. Then we must also decide what will happen to the animal, for example, whether it should be sold or put down. It is the police who are responsible for the practical handling of the animal and who enforce the decision of the County Administrative Board.</p>
-    <p>The County Administrative Board also makes rulings regarding the prohibition against keeping animals, for example, for those who have been convicted of animal cruelty or are manifestly unsuitable to take care of animals.</p>
-    <p type="title">Do you suspect that an animal is being maltreated?</p>
-    <p>If you suspect that an animal is being neglected or maltreated you should contact the County Administrative Board. If you prefer you can submit an anonymous report. If the situation is urgent and you cannot reach us, please contact the police instead.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>367</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/djur-och-natur/djurskydd/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="djur-och-natur-djurskydd.html"/><parallel_text xml:lang="swe" location="djur-och-natur-djurskydd.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Animal welfare - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Animal welfare</p>
+<p>The County Administrative Board has overall responsibility for animal welfare inspections in the county.</p>
+<p type="title">Animal welfare is legally regulated</p>
+<p>The Animal Welfare Act (SFS 1988:534) contains provisions on how animals should be kept and cared for. These provisions are supplemented by the Swedish Animal Welfare Ordinance, various regulations and general guidelines. The Animal Welfare Act applies to animals kept in captivity, for example, farm animals, pets, show animals, zoo animals and laboratory animals. A basic provision is that animals shall be treated well and shall be protected from unnecessary suffering and disease. Animals shall also be accommodated and handled in an environment that is appropriate for the animal and which permits natural behaviour.</p>
+<p>The Swedish Board of Agriculture has the overall responsibility for maintaining and developing animal welfare in Sweden. The commission includes the coordination and guidance for the animal welfare initiatives of the County Administrative Board.</p>
+<p type="title">Animals can be taken into charge</p>
+<p>The County Administrative Board carries out animal welfare inspections in the county. We perform both preventive controls, especially on farm animals, but also inspections resulting from a report of maltreatment by a private person.</p>
+<p>The overall aim of the County Administrative Board's animal welfare initiatives is to ensure that the Animal Welfare Act is adhered to and that the animals are well-treated. If an animal is maltreated, we may decide that it should be taken into charge. Then we must also decide what will happen to the animal, for example, whether it should be sold or put down. It is the police who are responsible for the practical handling of the animal and who enforce the decision of the County Administrative Board.</p>
+<p>The County Administrative Board also makes rulings regarding the prohibition against keeping animals, for example, for those who have been convicted of animal cruelty or are manifestly unsuitable to take care of animals.</p>
+<p type="title">Do you suspect that an animal is being maltreated?</p>
+<p>If you suspect that an animal is being neglected or maltreated you should contact the County Administrative Board. If you prefer you can submit an anonymous report. If the situation is urgent and you cannot reach us, please contact the police instead.</p>
+</body></document>

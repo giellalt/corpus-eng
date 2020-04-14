@@ -1,70 +1,34 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>NAV - Appeals - Appeals </title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>763</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://www.nav.no/English/The+Norwegian+Labour+and+Welfare+Administration/Appeals</origFileName>
-    <parallel_text xml:lang="nno" location="805382789.html"/>
-    <parallel_text xml:lang="nob" location="klagerettigheter.html"/>
-    <parallel_text xml:lang="sme" location="klagerettigheter.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Appeals</p>
-    <p>If your application is denied, in full or in part, you have the right to appeal to NAV.</p>
-    <p>The letter informing you of our decision will specify the formal details related to appealing. Your NAV office has a duty to help you prepare your appeal. NAV also has a standard appeal form (NAVs hjelpeskjema for klage) that you can use.</p>
-    <p>You are entitled to be accompanied by a person you trust at meetings with your NAV office. You can also authorise a lawyer or a friend to be responsible for the appeal process on your behalf.</p>
-    <p>You must submit your appeal to your NAV office. If you are appealing a decision made by NAV Centre for Assistive Technology (Hjelpemiddelsentral), send your appeal to them.</p>
-    <p>When you appeal a decision, the office that made the original decision will reassess your case. If the decision remains unchanged, your appeal is forwarded for further processing by NAV Appeals, which then reviews the entire case.</p>
-    <p type="title">Time limits for appealing</p>
-    <p>The time limit for appealing a decision varies, depending on the case. The time limit for appealing is stated in the letter notifying you of NAV’s decision.</p>
-    <p type="title">Time limit for appealing decisions pursuant to the National Insurance Act</p>
-    <p>The time limit for appealing is six weeks from the date you received notification of the decision. Examples of cases that are decided pursuant to the National Insurance Act include sickness benefit (sykepenger), unemployment benefit (dagpenger) and disability pension (uførepensjon).</p>
-    <p type="title">Time limit for appealing decisions pursuant to legislation other than the National Insurance Act</p>
-    <p>As a general rule, the time limit defined in the Public Administration Act applies, i.e. three weeks from the date you received notification of the decision. An example is appealing an order to pay legal costs. The time limit defined in the Public Administration Act applies unless otherwise stated in the act of law pursuant to which the decision has been made. Examples of an extended time limit for appeals defined by law are cases concerning advance support payment (bidragsforskudd) and cases concerning individual benefit for people on employment schemes (individstønad), where the time limit for appealing is six weeks.</p>
-    <p type="title">Appealing to the National Insurance Court (Trygderetten)</p>
-    <p>If your appeal is denied by NAV, you can appeal the case to the National Insurance Court (Trygderetten). With a few exceptions, all decisions made pursuant to the National Insurance Act can be appealed to the National Insurance Court. The time limit for appealing is six weeks from the date you received notification of the decision by NAV Appeals (NAV Klageinstans).</p>
-    <p>Submit your appeal to your NAV office. NAV Appeals will reconsider your case. If the decision remains unchanged, your appeal is forwarded for further processing by the National Insurance Court.</p>
-    <p>In addition to matters regulated by the National Insurance Act, cases regulated by the following legislation or schemes may also be appealed to the National Insurance Court:</p>
-    <list>
-      <p type="listitem">Child Benefit Act</p>
-      <p type="listitem">Coordination of Pension and Benefits Act</p>
-      <p type="listitem">Provisions concerning supplementary pension schemes pursuant to legislation or parliamentary decisions</p>
-      <p type="listitem">Occupational Injury Act</p>
-      <p type="listitem">Municipal pension schemes</p>
-      <p type="listitem">Contractual pension under the AFP (early retirement) scheme for employees aged between 64 and 67</p>
-    </list>
-    <p>In cases pertaining to child support (barnebidrag) and individual benefit for people on employment schemes (individstønad), decisions made by NAV Appeals are final and cannot be appealed to the National Insurance Court.</p>
-    <p type="title">Reimbursement of costs</p>
-    <p>If your appeal is successful, you may be entitled to reimbursement of significant costs that were necessary to have the decision overturned, such as legal fees. Submit your claim for costs to your NAV office.</p>
-    <p type="title">The Parliamentary Ombudsman (Sivilombudsmannen)</p>
-    <p>If you are unhappy with the outcome of your case or the way NAV handled the matter, you can complain to the Parliamentary Ombudsman.</p>
-    <p type="title">The courts</p>
-    <p>If you are unhappy with the ruling of the National Insurance Court, you can bring the matter before the Court of Appeal (Lagmannsretten). The time limit for instituting legal proceedings is six months from receiving notification of the National Insurance Court’s ruling.</p>
-    <p>In cases where NAV Appeals has made a final decision on the matter, you must check what time limits apply for instituting legal proceedings in the District Court (tingretten) or Court of Execution (namsretten).</p>
-    <p type="title">Free legal aid (Fri rettshjelp)</p>
-    <p>You may also be entitled to free legal aid from a lawyer. All lawyers have a duty to provide you with information about this scheme free of charge. You can apply to the County Governor (Fylkesmannen) for free legal aid or ask your lawyer to apply for you. Entitlement to this service depends on your income and wealth.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>NAV - Appeals - Appeals </title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>763</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><multilingual/><origFileName>http://www.nav.no/English/The+Norwegian+Labour+and+Welfare+Administration/Appeals</origFileName><parallel_text xml:lang="nno" location="805382789.html"/><parallel_text xml:lang="nob" location="klagerettigheter.html"/><parallel_text xml:lang="sme" location="klagerettigheter.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Appeals</p>
+<p>If your application is denied, in full or in part, you have the right to appeal to NAV.</p>
+<p>The letter informing you of our decision will specify the formal details related to appealing. Your NAV office has a duty to help you prepare your appeal. NAV also has a standard appeal form (NAVs hjelpeskjema for klage) that you can use.</p>
+<p>You are entitled to be accompanied by a person you trust at meetings with your NAV office. You can also authorise a lawyer or a friend to be responsible for the appeal process on your behalf.</p>
+<p>You must submit your appeal to your NAV office. If you are appealing a decision made by NAV Centre for Assistive Technology (Hjelpemiddelsentral), send your appeal to them.</p>
+<p>When you appeal a decision, the office that made the original decision will reassess your case. If the decision remains unchanged, your appeal is forwarded for further processing by NAV Appeals, which then reviews the entire case.</p>
+<p type="title">Time limits for appealing</p>
+<p>The time limit for appealing a decision varies, depending on the case. The time limit for appealing is stated in the letter notifying you of NAV’s decision.</p>
+<p type="title">Time limit for appealing decisions pursuant to the National Insurance Act</p>
+<p>The time limit for appealing is six weeks from the date you received notification of the decision. Examples of cases that are decided pursuant to the National Insurance Act include sickness benefit (sykepenger), unemployment benefit (dagpenger) and disability pension (uførepensjon).</p>
+<p type="title">Time limit for appealing decisions pursuant to legislation other than the National Insurance Act</p>
+<p>As a general rule, the time limit defined in the Public Administration Act applies, i.e. three weeks from the date you received notification of the decision. An example is appealing an order to pay legal costs. The time limit defined in the Public Administration Act applies unless otherwise stated in the act of law pursuant to which the decision has been made. Examples of an extended time limit for appeals defined by law are cases concerning advance support payment (bidragsforskudd) and cases concerning individual benefit for people on employment schemes (individstønad), where the time limit for appealing is six weeks.</p>
+<p type="title">Appealing to the National Insurance Court (Trygderetten)</p>
+<p>If your appeal is denied by NAV, you can appeal the case to the National Insurance Court (Trygderetten). With a few exceptions, all decisions made pursuant to the National Insurance Act can be appealed to the National Insurance Court. The time limit for appealing is six weeks from the date you received notification of the decision by NAV Appeals (NAV Klageinstans).</p>
+<p>Submit your appeal to your NAV office. NAV Appeals will reconsider your case. If the decision remains unchanged, your appeal is forwarded for further processing by the National Insurance Court.</p>
+<p>In addition to matters regulated by the National Insurance Act, cases regulated by the following legislation or schemes may also be appealed to the National Insurance Court:</p>
+<list><p type="listitem">Child Benefit Act</p>
+<p type="listitem">Coordination of Pension and Benefits Act</p>
+<p type="listitem">Provisions concerning supplementary pension schemes pursuant to legislation or parliamentary decisions</p>
+<p type="listitem">Occupational Injury Act</p>
+<p type="listitem">Municipal pension schemes</p>
+<p type="listitem">Contractual pension under the AFP (early retirement) scheme for employees aged between 64 and 67</p>
+</list><p>In cases pertaining to child support (barnebidrag) and individual benefit for people on employment schemes (individstønad), decisions made by NAV Appeals are final and cannot be appealed to the National Insurance Court.</p>
+<p type="title">Reimbursement of costs</p>
+<p>If your appeal is successful, you may be entitled to reimbursement of significant costs that were necessary to have the decision overturned, such as legal fees. Submit your claim for costs to your NAV office.</p>
+<p type="title">The Parliamentary Ombudsman (Sivilombudsmannen)</p>
+<p>If you are unhappy with the outcome of your case or the way NAV handled the matter, you can complain to the Parliamentary Ombudsman.</p>
+<p type="title">The courts</p>
+<p>If you are unhappy with the ruling of the National Insurance Court, you can bring the matter before the Court of Appeal (Lagmannsretten). The time limit for instituting legal proceedings is six months from receiving notification of the National Insurance Court’s ruling.</p>
+<p>In cases where NAV Appeals has made a final decision on the matter, you must check what time limits apply for instituting legal proceedings in the District Court (tingretten) or Court of Execution (namsretten).</p>
+<p type="title" xml:lang="dan">Free legal aid (Fri rettshjelp)</p>
+<p>You may also be entitled to free legal aid from a lawyer. All lawyers have a duty to provide you with information about this scheme free of charge. You can apply to the County Governor (Fylkesmannen) for free legal aid or ask your lawyer to apply for you. Entitlement to this service depends on your income and wealth.</p>
+</body></document>

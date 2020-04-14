@@ -1,74 +1,43 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>266</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/miljo-och-klimat/miljomal/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="miljo-och-klimat-miljomal.html"/>
-    <parallel_text xml:lang="swe" location="miljo-och-klimat-miljomal.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Environmental objectives - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Environmental objectives</p>
-    <p xml:lang="swe"></p>
-    <p><em type="italic">The County Administrative Board has the mandate to coordinate regional efforts in order to achieve Sweden's environmental objectives. </em></p>
-    <p>The Swedish Parliament has decided on a comprehensive environmental policy for a sustainable Sweden. The overall objective for the environmental policy is to hand over to the next generation a society in which the major environmental problems in Sweden have been resolved, without causing greater environmental and health problems outside of Sweden's borders. In addition to the generation objective there are 16 national environmental quality objectives with specifications and milestones.</p>
-    <p>The County Administrative Board plays a coordinating role in the regional work with the environmental objectives. We are working together with municipalities, the business community, voluntary organisations and other stakeholders to ensure that the environmental objectives will be reflected in the county and that the environment will become better. We are also following up how the environmental work is progressing.</p>
-    <p type="title">The 16 national environmental quality objectives</p>
-    <list>
-      <p type="listitem">Limited climate impact</p>
-      <p type="listitem">Fresh air</p>
-      <p type="listitem">Natural acidification only</p>
-      <p type="listitem">Non-toxic environment</p>
-      <p type="listitem">Protective ozone layer</p>
-      <p type="listitem">Safe radiation environment</p>
-      <p type="listitem">No over-fertilisation</p>
-      <p type="listitem">Living lakes and waterways</p>
-      <p type="listitem">Groundwater of good quality</p>
-      <p type="listitem">The seas in balance and a living coast and archipelago</p>
-      <p type="listitem">Vibrant wetlands</p>
-      <p type="listitem">Living forests</p>
-      <p type="listitem">A richly cultivated landscape</p>
-      <p type="listitem">Magnificent mountain environments</p>
-      <p type="listitem">A good built environment</p>
-      <p type="listitem">A rich plant and animal life</p>
-    </list>
-    <p type="title">Contact us</p>
-    <p>County Administrative Board of Dalarna</p>
-    <p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
-    <p>Send message</p>
-    <p>Hide form</p>
-    <p>Your email address (optional)</p>
-    <p>Send a copy of the message to the email address specified</p>
-    <p>Message</p>
-    <p>Enter the code below to send your message</p>
-    <p>Generate new image</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>266</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/miljo-och-klimat/miljomal/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="miljo-och-klimat-miljomal.html"/><parallel_text xml:lang="swe" location="miljo-och-klimat-miljomal.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Environmental objectives - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Environmental objectives</p>
+<p xml:lang="swe"></p>
+<p><em type="italic">The County Administrative Board has the mandate to coordinate regional efforts in order to achieve Sweden's environmental objectives. </em></p>
+<p>The Swedish Parliament has decided on a comprehensive environmental policy for a sustainable Sweden. The overall objective for the environmental policy is to hand over to the next generation a society in which the major environmental problems in Sweden have been resolved, without causing greater environmental and health problems outside of Sweden's borders. In addition to the generation objective there are 16 national environmental quality objectives with specifications and milestones.</p>
+<p>The County Administrative Board plays a coordinating role in the regional work with the environmental objectives. We are working together with municipalities, the business community, voluntary organisations and other stakeholders to ensure that the environmental objectives will be reflected in the county and that the environment will become better. We are also following up how the environmental work is progressing.</p>
+<p type="title">The 16 national environmental quality objectives</p>
+<list><p type="listitem">Limited climate impact</p>
+<p type="listitem">Fresh air</p>
+<p type="listitem">Natural acidification only</p>
+<p type="listitem">Non-toxic environment</p>
+<p type="listitem">Protective ozone layer</p>
+<p type="listitem">Safe radiation environment</p>
+<p type="listitem">No over-fertilisation</p>
+<p type="listitem">Living lakes and waterways</p>
+<p type="listitem">Groundwater of good quality</p>
+<p type="listitem">The seas in balance and a living coast and archipelago</p>
+<p type="listitem">Vibrant wetlands</p>
+<p type="listitem">Living forests</p>
+<p type="listitem">A richly cultivated landscape</p>
+<p type="listitem">Magnificent mountain environments</p>
+<p type="listitem">A good built environment</p>
+<p type="listitem">A rich plant and animal life</p>
+</list><p type="title">Contact us</p>
+<p>County Administrative Board of Dalarna</p>
+<p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
+<p>Send message</p>
+<p>Hide form</p>
+<p>Your email address (optional)</p>
+<p>Send a copy of the message to the email address specified</p>
+<p>Message</p>
+<p>Enter the code below to send your message</p>
+<p>Generate new image</p>
+</body></document>

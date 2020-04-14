@@ -1,125 +1,88 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>History and Sights of Hammastunturi Wilderness Area - Nationalparks.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>701</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.nationalparks.fi/en/hammastunturi/historyandsights</origFileName>
-    <parallel_text xml:lang="fin" location="historiajanahtavyydet.html"/>
-    <parallel_text xml:lang="smn" location="historjajauainamusah.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Skip to Content</p>
-    <p>Open Menu</p>
-    <list>
-      <p type="listitem">Suomeksi</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Hammastunturi</p>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">History and Sights <list><p type="listitem">History of Gold Digging in Hammastunturi Wilderness Area</p></list> </p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p type="title">Destinations</p>
-    <list>
-      <p type="listitem">Top Natural Attractions</p>
-      <p type="listitem">National Parks</p>
-      <p type="listitem">World Heritage Sites</p>
-      <p type="listitem">National Hiking Areas</p>
-      <p type="listitem">Wilderness Areas</p>
-      <p type="listitem">Other Nature Sites</p>
-      <p type="listitem">Hiking Trails</p>
-      <p type="listitem">Huts</p>
-      <p type="listitem">Historical Sites</p>
-      <p type="listitem">Nature Centres</p>
-      <p type="listitem">Accessible Destinations</p>
-    </list>
-    <list>
-      <p type="listitem">Hammastunturi</p>
-      <p type="listitem">Kaldoaivi</p>
-      <p type="listitem">Kemihaara</p>
-      <p type="listitem">Käsivarsi</p>
-      <p type="listitem">Muotkatunturi</p>
-      <p type="listitem">Paistunturi</p>
-      <p type="listitem">Pöyrisjärvi</p>
-      <p type="listitem">Pulju</p>
-      <p type="listitem">Tarvantovaara</p>
-      <p type="listitem">Tsarmitunturi</p>
-      <p type="listitem">Tuntsa</p>
-      <p type="listitem">Vätsäri</p>
-    </list>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">History and Sights</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <list>
-      <p type="listitem">History of Gold Digging in Hammastunturi Wilderness Area</p>
-    </list>
-    <p>Hammastunturi Menu</p>
-    <p type="title">Hammastunturi</p>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">History and Sights <list><p type="listitem">History of Gold Digging in Hammastunturi Wilderness Area</p></list> </p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p type="title">History and Sights of Hammastunturi Wilderness Area</p>
-    <p type="title">Culture and Means of Livelihood</p>
-    <p>Two centuries ago, the utilisation of Hammastunturi area was based on hunting deer and other game animals, and fishing. In the beginning of the 1800s, there were plenty of reindeer in the northern and western parts of Inari, because these areas were winter pastures of the reindeer herding Sámi people. In the summer, the reindeer migrated to the Arctic Sea to have their calves and graze on the coast, where there are no mosquitoes. In the 1852, the border was closed between Norway and Finland, and this gradually stopped the traditional migration between the summer and winter pastures, which made many Sámi families move to completely new areas in the northern Sweden and the northern Finland. Nowadays, Hammastunturi area is still important in reindeer herding, with the reindeer owners' associations of Hammastunturi, Ivalo, Lappi, Kuivasalmi and Sallivaara working in the area. Reindeer herding is one of the most important means of livelihood, and the principal and additional income, which it brings, makes it possible for the villages to stay inhabited.</p>
-    <p>Nowadays the village of Kuttura is the only village inhabited around the year in Hammastunturi Wilderness Area. The village is surrounded by old meadows, many of which are still mowed. The original northern species, and southerns plants transported by people, are represented in the vegetation of these meadows. Road was built to the village of Kuttura in 1959, thanks to president Kekkonen who visited the village in 1956 on his skiing trip.</p>
-    <p>Gold digging</p>
-    <p>has left permanent marks in Hammastunturi Wilderness Area. The first people to find gold around River Ivalojoki were on an expedition sent by the state in 1868. Official gold panning monitored by the state began in 1870, and in the same year the state built</p>
-    <p>Kruunun Stationi</p>
-    <p>("Crown Station") on the northern shore of River Ivalojoki to make it easier for the officials to monitor the area. Gold was also looked for in the bedrock, and mining was active in the area during the first two decades of the 1900s. However, the great plans of those decades did not succeed, and their remains are still there for visitors to see, as memorials of the entrepreneurial spirit and the dreams of people.</p>
-    <p type="title">About Names</p>
-    <p>The oldest and most original place names in the area are the names of the great rivers, lakes and fells. It is rarely possible to find out the original meaning of these names, because their current form has been influenced by many languages and cultures. The original name, which may have been in Inari Sámi or North Sámi, has often been used in parallel with a new Finnish name, or names have been adapted so that they would be easier to pronounce by the Finnish speaking people. The gold diggers have named their working areas and surroundings after people, events or characteristics of the place. The North Sámi people, who move to the region, named points of reference in the landscape with names which have something to do with reindeer. Nowadays, the names of places sometimes still vary depending on the map-maker.</p>
-    <p type="title">Sights</p>
-    <list>
-      <p type="listitem">Kultala Gold Village of River Ivalojoki was the adminstrative centre of the gold rush in the end of the 1800s.</p>
-      <p type="listitem">Moberginoja</p>
-      <p type="listitem">Pahaoja</p>
-      <p type="listitem">Ritakoski</p>
-    </list>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Share This Page</p>
-    <p>Open Menu</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>History and Sights of Hammastunturi Wilderness Area - Nationalparks.fi</title><genre code="facta"/><author><unknown/></author><wordcount>701</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.nationalparks.fi/en/hammastunturi/historyandsights</origFileName><parallel_text xml:lang="fin" location="historiajanahtavyydet.html"/><parallel_text xml:lang="smn" location="historjajauainamusah.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skip to Content</p>
+<p>Open Menu</p>
+<list><p type="listitem">Suomeksi</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p></p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">Hammastunturi</p>
+<list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">History and Sights <list><p type="listitem">History of Gold Digging in Hammastunturi Wilderness Area</p>
+</list> </p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p type="title">Destinations</p>
+<list><p type="listitem">Top Natural Attractions</p>
+<p type="listitem">National Parks</p>
+<p type="listitem">World Heritage Sites</p>
+<p type="listitem">National Hiking Areas</p>
+<p type="listitem">Wilderness Areas</p>
+<p type="listitem">Other Nature Sites</p>
+<p type="listitem">Hiking Trails</p>
+<p type="listitem">Huts</p>
+<p type="listitem">Historical Sites</p>
+<p type="listitem">Nature Centres</p>
+<p type="listitem">Accessible Destinations</p>
+</list><list><p type="listitem">Hammastunturi</p>
+<p type="listitem">Kaldoaivi</p>
+<p type="listitem">Kemihaara</p>
+<p type="listitem">Käsivarsi</p>
+<p type="listitem">Muotkatunturi</p>
+<p type="listitem">Paistunturi</p>
+<p type="listitem">Pöyrisjärvi</p>
+<p type="listitem">Pulju</p>
+<p type="listitem">Tarvantovaara</p>
+<p type="listitem">Tsarmitunturi</p>
+<p type="listitem">Tuntsa</p>
+<p type="listitem">Vätsäri</p>
+</list><list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">History and Sights</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><list><p type="listitem">History of Gold Digging in Hammastunturi Wilderness Area</p>
+</list><p>Hammastunturi Menu</p>
+<p type="title">Hammastunturi</p>
+<list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">History and Sights <list><p type="listitem">History of Gold Digging in Hammastunturi Wilderness Area</p>
+</list> </p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p type="title">History and Sights of Hammastunturi Wilderness Area</p>
+<p type="title">Culture and Means of Livelihood</p>
+<p>Two centuries ago, the utilisation of Hammastunturi area was based on hunting deer and other game animals, and fishing. In the beginning of the 1800s, there were plenty of reindeer in the northern and western parts of Inari, because these areas were winter pastures of the reindeer herding Sámi people. In the summer, the reindeer migrated to the Arctic Sea to have their calves and graze on the coast, where there are no mosquitoes. In the 1852, the border was closed between Norway and Finland, and this gradually stopped the traditional migration between the summer and winter pastures, which made many Sámi families move to completely new areas in the northern Sweden and the northern Finland. Nowadays, Hammastunturi area is still important in reindeer herding, with the reindeer owners' associations of Hammastunturi, Ivalo, Lappi, Kuivasalmi and Sallivaara working in the area. Reindeer herding is one of the most important means of livelihood, and the principal and additional income, which it brings, makes it possible for the villages to stay inhabited.</p>
+<p>Nowadays the village of Kuttura is the only village inhabited around the year in Hammastunturi Wilderness Area. The village is surrounded by old meadows, many of which are still mowed. The original northern species, and southerns plants transported by people, are represented in the vegetation of these meadows. Road was built to the village of Kuttura in 1959, thanks to president Kekkonen who visited the village in 1956 on his skiing trip.</p>
+<p>Gold digging</p>
+<p>has left permanent marks in Hammastunturi Wilderness Area. The first people to find gold around River Ivalojoki were on an expedition sent by the state in 1868. Official gold panning monitored by the state began in 1870, and in the same year the state built</p>
+<p>Kruunun Stationi</p>
+<p>("Crown Station") on the northern shore of River Ivalojoki to make it easier for the officials to monitor the area. Gold was also looked for in the bedrock, and mining was active in the area during the first two decades of the 1900s. However, the great plans of those decades did not succeed, and their remains are still there for visitors to see, as memorials of the entrepreneurial spirit and the dreams of people.</p>
+<p type="title">About Names</p>
+<p>The oldest and most original place names in the area are the names of the great rivers, lakes and fells. It is rarely possible to find out the original meaning of these names, because their current form has been influenced by many languages and cultures. The original name, which may have been in Inari Sámi or North Sámi, has often been used in parallel with a new Finnish name, or names have been adapted so that they would be easier to pronounce by the Finnish speaking people. The gold diggers have named their working areas and surroundings after people, events or characteristics of the place. The North Sámi people, who move to the region, named points of reference in the landscape with names which have something to do with reindeer. Nowadays, the names of places sometimes still vary depending on the map-maker.</p>
+<p type="title">Sights</p>
+<list><p type="listitem">Kultala Gold Village of River Ivalojoki was the adminstrative centre of the gold rush in the end of the 1800s.</p>
+<p type="listitem">Moberginoja</p>
+<p type="listitem">Pahaoja</p>
+<p type="listitem">Ritakoski</p>
+</list><p>© Metsähallitus 2017</p>
+<list/><p>Share This Page</p>
+<p>Open Menu</p>
+</body></document>

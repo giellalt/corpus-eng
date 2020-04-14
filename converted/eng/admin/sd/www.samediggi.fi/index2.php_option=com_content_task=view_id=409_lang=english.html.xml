@@ -1,71 +1,39 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Main Hall (connected)</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="fin"/>
-    <wordcount>384</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=409&amp;lang=english.html</origFileName>
-    <parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=409_lang=finnish.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=409_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=409_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Main Hall (connected)</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>The Main Hall at Sajos is suitable for conferences, concerts and theatrical performances. The hall is formed of the Dolla auditorium and the Dollagáddi multipurpose hall, separated by a movable partition. The Main Hall is the largest uniform assembly space at Sajos. The hall can be adapted to MAX and SHOW formats according to user requirements.</p>
-    <p><em type="italic">M </em> <em type="italic">AX FORMAT MAIN HALL for 430 persons </em> </p>
-    <p><em type="italic">ROOM SIZE AND CAPACITY: </em></p>
-    <p>for conferences, training and lectures requiring seating for larger audiences.</p>
-    <p>* Auditorium: Fixed seating in a banked auditorium for 190 persons + temporary seating in the central floor area for 234 persons + 6 seats for lecturers. Overall seating for 430 persons.</p>
-    <p>* Stage: 50 m2 (width 12 m x depth 4 m). For extra charge the additional stage (size )</p>
-    <p>* Total area: 417 m2 (length 27,5 m, width 17 m)</p>
-    <p><em type="italic">SHOW FORMAT MAIN HALL for 190 or 254 persons  </em></p>
-    <p><em type="italic">ROOM SIZE AND CAPACITY: </em></p>
-    <p>Alternative a) For concerts, show presentations, theatrical performances or events requiring a large stage</p>
-    <p>* Auditorium: fixed seating in a banked auditorium for 190 persons (9 rows), allowing the largest possible stage area</p>
-    <p>* The largest stage: 270 m2 (width 17 m x depth 16 m) <em type="italic"></em></p>
-    <p><em type="italic">Alternative b) </em></p>
-    <p>For more seating and a smaller stage:</p>
-    <p>* Auditorium: fixed seating in a banked auditorium for 254 persons (12 rows).</p>
-    <p>* Stage: 200 m2 (width 17 m x depth 12.5 m). Multipurpose hall used as a stage.</p>
-    <p><em type="italic">TECHNOLOGY AND EQUIPMENT: </em></p>
-    <p>* Data projector 1920 x 1200 / WXGA 700</p>
-    <p>* Document camera</p>
-    <p>* Video conferencing deck</p>
-    <p>* Blueray player, DVD/VHS combination player</p>
-    <p xml:lang="fin">* WLAN</p>
-    <p>* Sound system</p>
-    <p>* Size of electronic whiteboard: 5 m x 12.5 m</p>
-    <p>* Flip chart</p>
-    <p>* Lectern</p>
-    <p xml:lang="fin"><em type="italic">AVAILABLE AT EXTRA COST: </em></p>
-    <p>* Recorded and simultaneous interpretation in five languages (five permanent interpreter booths)</p>
-    <p>* Interpreter booth sizes: 2 booths x 9.5 m2, 2 booths x 6 m2 and 1 booth x 8 m2</p>
-    <p>* Stage dance floor</p>
-    <p>* Conference catering service</p>
-    <p>* Recording facilities <em type="italic"></em></p>
-    <p><em type="italic">OTHER POINTS TO NOTE: </em></p>
-    <p>* Licence to serve alcohol in the Main Hall. Catering services must be ordered in advance. This</p>
-    <p>* Access for maintenance (door width 2.2 m) leads directly on the the stage in the Main Hall. Small vehicles may be used to bring equipment etc. into the hall.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Main Hall (connected)</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>384</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=409&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=409_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=409_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=409_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Main Hall (connected)</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>The Main Hall at Sajos is suitable for conferences, concerts and theatrical performances. The hall is formed of the Dolla auditorium and the Dollagáddi multipurpose hall, separated by a movable partition. The Main Hall is the largest uniform assembly space at Sajos. The hall can be adapted to MAX and SHOW formats according to user requirements.</p>
+<p><em type="italic">M </em> <em type="italic">AX FORMAT MAIN HALL for 430 persons </em> </p>
+<p><em type="italic">ROOM SIZE AND CAPACITY: </em></p>
+<p>for conferences, training and lectures requiring seating for larger audiences.</p>
+<p>* Auditorium: Fixed seating in a banked auditorium for 190 persons + temporary seating in the central floor area for 234 persons + 6 seats for lecturers. Overall seating for 430 persons.</p>
+<p>* Stage: 50 m2 (width 12 m x depth 4 m). For extra charge the additional stage (size )</p>
+<p>* Total area: 417 m2 (length 27,5 m, width 17 m)</p>
+<p><em type="italic">SHOW FORMAT MAIN HALL for 190 or 254 persons  </em></p>
+<p><em type="italic">ROOM SIZE AND CAPACITY: </em></p>
+<p>Alternative a) For concerts, show presentations, theatrical performances or events requiring a large stage</p>
+<p>* Auditorium: fixed seating in a banked auditorium for 190 persons (9 rows), allowing the largest possible stage area</p>
+<p>* The largest stage: 270 m2 (width 17 m x depth 16 m) <em type="italic"></em></p>
+<p><em type="italic">Alternative b) </em></p>
+<p>For more seating and a smaller stage:</p>
+<p>* Auditorium: fixed seating in a banked auditorium for 254 persons (12 rows).</p>
+<p>* Stage: 200 m2 (width 17 m x depth 12.5 m). Multipurpose hall used as a stage.</p>
+<p><em type="italic">TECHNOLOGY AND EQUIPMENT: </em></p>
+<p>* Data projector 1920 x 1200 / WXGA 700</p>
+<p>* Document camera</p>
+<p>* Video conferencing deck</p>
+<p>* Blueray player, DVD/VHS combination player</p>
+<p xml:lang="fin">* WLAN</p>
+<p>* Sound system</p>
+<p>* Size of electronic whiteboard: 5 m x 12.5 m</p>
+<p>* Flip chart</p>
+<p>* Lectern</p>
+<p xml:lang="fin"><em type="italic">AVAILABLE AT EXTRA COST: </em></p>
+<p>* Recorded and simultaneous interpretation in five languages (five permanent interpreter booths)</p>
+<p>* Interpreter booth sizes: 2 booths x 9.5 m2, 2 booths x 6 m2 and 1 booth x 8 m2</p>
+<p>* Stage dance floor</p>
+<p>* Conference catering service</p>
+<p>* Recording facilities <em type="italic"></em></p>
+<p><em type="italic">OTHER POINTS TO NOTE: </em></p>
+<p>* Licence to serve alcohol in the Main Hall. Catering services must be ordered in advance. This</p>
+<p>* Access for maintenance (door width 2.2 m) leads directly on the the stage in the Main Hall. Small vehicles may be used to bring equipment etc. into the hall.</p>
+</body></document>

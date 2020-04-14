@@ -1,107 +1,62 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1156</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Sarskilt-tandvardsbidrag</origFileName>
-    <parallel_text xml:lang="fin" location="sarskilt-tandvardsbidrag.html"/>
-    <parallel_text xml:lang="fit" location="sarskilt-tandvardsbidrag.html"/>
-    <parallel_text xml:lang="sme" location="sarskilt-tandvardsbidrag.html"/>
-    <parallel_text xml:lang="swe" location="sarskilt-tandvardsbidrag.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Special dental care benefit/Särskilt tandvårdsbidrag / Särskilt tandvårdsbidrag - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title">Special dental care benefit/Särskilt tandvårdsbidragSärskilt tandvårdsbidrag</p>
-    <p type="title">Summary</p>
-    <p xml:lang="swe"></p>
-    <p type="title">Summary</p>
-    <p><em type="italic">Contributions towards preventative dental care </em><em type="italic"></em></p>
-    <p>If you have a disease that affects your teeth, you may need preventative dental care. You may then be entitled to special dental care benefit, STB. You may be entitled to this if you have a disease that causes corrosive damage to your teeth, for example. In order for the dentist or dental hygienist to know that you are entitled to special dental care benefit, you must show a doctor’s certificate stating the disease you are suffering from.</p>
-    <p>The special dental care benefit is a supplement to the general dental care benefit within dental care. If you receive special dental care benefit, you are also entitled to general dental care benefit.</p>
-    <p>The special dental care benefit is SEK 600 per six months and the money is deducted from the total when you pay for your dental appointment. The special dental care benefit must be used no later than 30 June and 31 December each year.</p>
-    <p xml:lang="swe">Särskilt tandvårdsbidrag</p>
-    <p><em type="italic">What is the benefit intended for? </em><em type="italic"></em></p>
-    <p>Special dental care benefit is only intended for preventative dental care. This includes some treatments intended to prevent dental diseases and problems, such as cleaning, fluoride treatment and information about dental hygiene and diet.</p>
-    <p>You pay the standard amount for other dental treatment.</p>
-    <p><em type="italic">Who is entitled to special dental care benefit? </em><em type="italic"></em></p>
-    <p>You can get special dental care benefit if you have</p>
-    <list>
-      <p type="listitem">cystic fibrosis</p>
-      <p type="listitem">severe chronic obstructive pulmonary disease, COPD</p>
-      <p type="listitem">the intestinal diseases ulcerous colitis ,  Crohn’s disease or intestinal insufficiency</p>
-      <p type="listitem">corrosive damage to the teeth due to anorexia , bulimia or gastroesophageal reflux disease</p>
-      <p type="listitem">diabetes that is difficult to control</p>
-      <p type="listitem">dialysis treatment</p>
-      <p type="listitem">impaired immune system following an organ transplant or medication treatment</p>
-    </list>
-    <list>
-      <p type="listitem">Sjögren’s syndrome .</p>
-    </list>
-    <p>You may also get special dental care benefit if you are suffering from dryness of the mouth caused by</p>
-    <list>
-      <p type="listitem">long-term medication treatment</p>
-      <p type="listitem">radiation treatment to the head or the neck</p>
-    </list>
-    <p><em type="italic">How do I apply for special dental care benefit? </em><em type="italic"></em></p>
-    <p>The Swedish National Insurance Agency pays the special dental care benefit. You can get information about how to apply for the benefit from your doctor, dentist or dental hygienist.</p>
-    <p>The best way of finding out whether you are entitled to special dental care benefit is to talk to your doctor or dentist. The National Insurance Agency usually requires a doctor’s certificate to confirm the disease or the problems you are suffering from. Sometime a doctor’s certificate is not needed, if the disease you are suffering from is documented in the dental care records. It is the dentist or dental hygienist who decides whether they have sufficient information to send the certificate to the National Insurance Agency stating that a person is entitled to special dental care benefit. The doctor’s certificate usually needs to be no older than three months at the time of the first appointment with the dentist or dental hygienist.</p>
-    <p>Special dental care benefit is valid at all care providers linked to the National Insurance Agency. If you change dentists or dental hygienists, you will continue to be entitled to special dental care benefit. Sometimes it is necessary to renew the doctor’s certificate, depending on which disease you are suffering from.</p>
-    <p>You can apply direct to the National Insurance Agency for special dental care benefit. It may then take longer to get it approved. You can find more information at the National Insurance Agency’s website .</p>
-    <p xml:lang="swe">Visa mer</p>
-    <p xml:lang="swe"></p>
-    <p><em type="italic">Contributions towards preventative dental care </em><em type="italic"></em></p>
-    <p>If you have a disease that affects your teeth, you may need preventative dental care. You may then be entitled to special dental care benefit, STB. You may be entitled to this if you have a disease that causes corrosive damage to your teeth, for example. In order for the dentist or dental hygienist to know that you are entitled to special dental care benefit, you must show a doctor’s certificate stating the disease you are suffering from.</p>
-    <p>The special dental care benefit is a supplement to the general dental care benefit within dental care. If you receive special dental care benefit, you are also entitled to general dental care benefit.</p>
-    <p>The special dental care benefit is SEK 600 per six months and the money is deducted from the total when you pay for your dental appointment. The special dental care benefit must be used no later than 30 June and 31 December each year.</p>
-    <p xml:lang="swe">Särskilt tandvårdsbidrag</p>
-    <p><em type="italic">What is the benefit intended for? </em><em type="italic"></em></p>
-    <p>Special dental care benefit is only intended for preventative dental care. This includes some treatments intended to prevent dental diseases and problems, such as cleaning, fluoride treatment and information about dental hygiene and diet.</p>
-    <p>You pay the standard amount for other dental treatment.</p>
-    <p><em type="italic">Who is entitled to special dental care benefit? </em><em type="italic"></em></p>
-    <p>You can get special dental care benefit if you have</p>
-    <list>
-      <p type="listitem">cystic fibrosis</p>
-      <p type="listitem">severe chronic obstructive pulmonary disease, COPD</p>
-      <p type="listitem">the intestinal diseases ulcerous colitis ,  Crohn’s disease or intestinal insufficiency</p>
-      <p type="listitem">corrosive damage to the teeth due to anorexia , bulimia or gastroesophageal reflux disease</p>
-      <p type="listitem">diabetes that is difficult to control</p>
-      <p type="listitem">dialysis treatment</p>
-      <p type="listitem">impaired immune system following an organ transplant or medication treatment</p>
-    </list>
-    <list>
-      <p type="listitem">Sjögren’s syndrome .</p>
-    </list>
-    <p>You may also get special dental care benefit if you are suffering from dryness of the mouth caused by</p>
-    <list>
-      <p type="listitem">long-term medication treatment</p>
-      <p type="listitem">radiation treatment to the head or the neck</p>
-    </list>
-    <p><em type="italic">How do I apply for special dental care benefit? </em><em type="italic"></em></p>
-    <p>The Swedish National Insurance Agency pays the special dental care benefit. You can get information about how to apply for the benefit from your doctor, dentist or dental hygienist.</p>
-    <p>The best way of finding out whether you are entitled to special dental care benefit is to talk to your doctor or dentist. The National Insurance Agency usually requires a doctor’s certificate to confirm the disease or the problems you are suffering from. Sometime a doctor’s certificate is not needed, if the disease you are suffering from is documented in the dental care records. It is the dentist or dental hygienist who decides whether they have sufficient information to send the certificate to the National Insurance Agency stating that a person is entitled to special dental care benefit. The doctor’s certificate usually needs to be no older than three months at the time of the first appointment with the dentist or dental hygienist.</p>
-    <p>Special dental care benefit is valid at all care providers linked to the National Insurance Agency. If you change dentists or dental hygienists, you will continue to be entitled to special dental care benefit. Sometimes it is necessary to renew the doctor’s certificate, depending on which disease you are suffering from.</p>
-    <p>You can apply direct to the National Insurance Agency for special dental care benefit. It may then take longer to get it approved. You can find more information at the National Insurance Agency’s website .</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1147</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Sarskilt-tandvardsbidrag</origFileName><parallel_text xml:lang="fin" location="sarskilt-tandvardsbidrag.html"/><parallel_text xml:lang="fit" location="sarskilt-tandvardsbidrag.html"/><parallel_text xml:lang="sme" location="sarskilt-tandvardsbidrag.html"/><parallel_text xml:lang="swe" location="sarskilt-tandvardsbidrag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Special dental care benefit/Särskilt tandvårdsbidrag / Särskilt tandvårdsbidrag - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Special dental care benefit/Särskilt tandvårdsbidragSärskilt tandvårdsbidrag</p>
+<p type="title">Summary</p>
+<p xml:lang="swe"></p>
+<p type="title">Summary</p>
+<p><em type="italic">Contributions towards preventative dental care </em><em type="italic"></em></p>
+<p>If you have a disease that affects your teeth, you may need preventative dental care. You may then be entitled to special dental care benefit, STB. You may be entitled to this if you have a disease that causes corrosive damage to your teeth, for example. In order for the dentist or dental hygienist to know that you are entitled to special dental care benefit, you must show a doctor’s certificate stating the disease you are suffering from.</p>
+<p>The special dental care benefit is a supplement to the general dental care benefit within dental care. If you receive special dental care benefit, you are also entitled to general dental care benefit.</p>
+<p>The special dental care benefit is SEK 600 per six months and the money is deducted from the total when you pay for your dental appointment. The special dental care benefit must be used no later than 30 June and 31 December each year.</p>
+<p xml:lang="swe">Särskilt tandvårdsbidrag</p>
+<p><em type="italic">What is the benefit intended for? </em><em type="italic"></em></p>
+<p>Special dental care benefit is only intended for preventative dental care. This includes some treatments intended to prevent dental diseases and problems, such as cleaning, fluoride treatment and information about dental hygiene and diet.</p>
+<p>You pay the standard amount for other dental treatment.</p>
+<p><em type="italic">Who is entitled to special dental care benefit? </em><em type="italic"></em></p>
+<p>You can get special dental care benefit if you have</p>
+<list><p type="listitem">cystic fibrosis</p>
+<p type="listitem">severe chronic obstructive pulmonary disease, COPD</p>
+<p type="listitem">the intestinal diseases ulcerous colitis ,  Crohn’s disease or intestinal insufficiency</p>
+<p type="listitem">corrosive damage to the teeth due to anorexia , bulimia or gastroesophageal reflux disease</p>
+<p type="listitem">diabetes that is difficult to control</p>
+<p type="listitem">dialysis treatment</p>
+<p type="listitem">impaired immune system following an organ transplant or medication treatment</p>
+</list><list><p type="listitem">Sjögren’s syndrome .</p>
+</list><p>You may also get special dental care benefit if you are suffering from dryness of the mouth caused by</p>
+<list><p type="listitem">long-term medication treatment</p>
+<p type="listitem">radiation treatment to the head or the neck</p>
+</list><p><em type="italic">How do I apply for special dental care benefit? </em><em type="italic"></em></p>
+<p>The Swedish National Insurance Agency pays the special dental care benefit. You can get information about how to apply for the benefit from your doctor, dentist or dental hygienist.</p>
+<p>The best way of finding out whether you are entitled to special dental care benefit is to talk to your doctor or dentist. The National Insurance Agency usually requires a doctor’s certificate to confirm the disease or the problems you are suffering from. Sometime a doctor’s certificate is not needed, if the disease you are suffering from is documented in the dental care records. It is the dentist or dental hygienist who decides whether they have sufficient information to send the certificate to the National Insurance Agency stating that a person is entitled to special dental care benefit. The doctor’s certificate usually needs to be no older than three months at the time of the first appointment with the dentist or dental hygienist.</p>
+<p>Special dental care benefit is valid at all care providers linked to the National Insurance Agency. If you change dentists or dental hygienists, you will continue to be entitled to special dental care benefit. Sometimes it is necessary to renew the doctor’s certificate, depending on which disease you are suffering from.</p>
+<p>You can apply direct to the National Insurance Agency for special dental care benefit. It may then take longer to get it approved. You can find more information at the National Insurance Agency’s website .</p>
+<p xml:lang="swe">Visa mer</p>
+<p xml:lang="swe"></p>
+<p><em type="italic">Contributions towards preventative dental care </em><em type="italic"></em></p>
+<p>If you have a disease that affects your teeth, you may need preventative dental care. You may then be entitled to special dental care benefit, STB. You may be entitled to this if you have a disease that causes corrosive damage to your teeth, for example. In order for the dentist or dental hygienist to know that you are entitled to special dental care benefit, you must show a doctor’s certificate stating the disease you are suffering from.</p>
+<p>The special dental care benefit is a supplement to the general dental care benefit within dental care. If you receive special dental care benefit, you are also entitled to general dental care benefit.</p>
+<p>The special dental care benefit is SEK 600 per six months and the money is deducted from the total when you pay for your dental appointment. The special dental care benefit must be used no later than 30 June and 31 December each year.</p>
+<p xml:lang="swe">Särskilt tandvårdsbidrag</p>
+<p><em type="italic">What is the benefit intended for? </em><em type="italic"></em></p>
+<p>Special dental care benefit is only intended for preventative dental care. This includes some treatments intended to prevent dental diseases and problems, such as cleaning, fluoride treatment and information about dental hygiene and diet.</p>
+<p>You pay the standard amount for other dental treatment.</p>
+<p><em type="italic">Who is entitled to special dental care benefit? </em><em type="italic"></em></p>
+<p>You can get special dental care benefit if you have</p>
+<list><p type="listitem">cystic fibrosis</p>
+<p type="listitem">severe chronic obstructive pulmonary disease, COPD</p>
+<p type="listitem">the intestinal diseases ulcerous colitis ,  Crohn’s disease or intestinal insufficiency</p>
+<p type="listitem">corrosive damage to the teeth due to anorexia , bulimia or gastroesophageal reflux disease</p>
+<p type="listitem">diabetes that is difficult to control</p>
+<p type="listitem">dialysis treatment</p>
+<p type="listitem">impaired immune system following an organ transplant or medication treatment</p>
+</list><list><p type="listitem">Sjögren’s syndrome .</p>
+</list><p>You may also get special dental care benefit if you are suffering from dryness of the mouth caused by</p>
+<list><p type="listitem">long-term medication treatment</p>
+<p type="listitem">radiation treatment to the head or the neck</p>
+</list><p><em type="italic">How do I apply for special dental care benefit? </em><em type="italic"></em></p>
+<p>The Swedish National Insurance Agency pays the special dental care benefit. You can get information about how to apply for the benefit from your doctor, dentist or dental hygienist.</p>
+<p>The best way of finding out whether you are entitled to special dental care benefit is to talk to your doctor or dentist. The National Insurance Agency usually requires a doctor’s certificate to confirm the disease or the problems you are suffering from. Sometime a doctor’s certificate is not needed, if the disease you are suffering from is documented in the dental care records. It is the dentist or dental hygienist who decides whether they have sufficient information to send the certificate to the National Insurance Agency stating that a person is entitled to special dental care benefit. The doctor’s certificate usually needs to be no older than three months at the time of the first appointment with the dentist or dental hygienist.</p>
+<p>Special dental care benefit is valid at all care providers linked to the National Insurance Agency. If you change dentists or dental hygienists, you will continue to be entitled to special dental care benefit. Sometimes it is necessary to renew the doctor’s certificate, depending on which disease you are suffering from.</p>
+<p>You can apply direct to the National Insurance Agency for special dental care benefit. It may then take longer to get it approved. You can find more information at the National Insurance Agency’s website .</p>
+</body></document>

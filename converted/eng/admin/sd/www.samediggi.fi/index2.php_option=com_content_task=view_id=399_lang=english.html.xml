@@ -1,39 +1,10 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - The Sámi Archives</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="fin"/>
-    <wordcount>106</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=399&amp;lang=english.html</origFileName>
-    <parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=399_lang=finnish.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=399_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=399_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=399_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>The Sámi Archives</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p type="listitem">The Sámi Archives operates at the Sámi Cultural Centre Sajos. The archives are part of the National Archives of Finland. &#13; The mission of the Sámi Archives is:</p>
-    <p type="listitem">to support and promote research related to the Sámi people;</p>
-    <p type="listitem">strengthen Sámi culture and increase the amount of historical information about the Sámi people;</p>
-    <p type="listitem">take care of digitising documents related to the Sámi people and the Sámi region;</p>
-    <p type="listitem">make documents available for customers via the online services of the National Archives Service.</p>
-    <p>Visit the website of the Sámi Archives. For further information, please contact: Researcher Suvi Kivelä Sámi Archives tel. +358 29 533 7042 email: suvi.kivela[@]narc.fi</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - The Sámi Archives</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>106</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=399&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=399_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=399_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=399_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=399_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>The Sámi Archives</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="listitem">The Sámi Archives operates at the Sámi Cultural Centre Sajos. The archives are part of the National Archives of Finland. &#13; The mission of the Sámi Archives is:</p>
+<p type="listitem">to support and promote research related to the Sámi people;</p>
+<p type="listitem">strengthen Sámi culture and increase the amount of historical information about the Sámi people;</p>
+<p type="listitem">take care of digitising documents related to the Sámi people and the Sámi region;</p>
+<p type="listitem">make documents available for customers via the online services of the National Archives Service.</p>
+<p>Visit the website of the Sámi Archives. For further information, please contact: Researcher Suvi Kivelä Sámi Archives tel. +358 29 533 7042 email: suvi.kivela[@]narc.fi</p>
+</body></document>

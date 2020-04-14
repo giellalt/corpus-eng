@@ -1,60 +1,32 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Frozen in the ice   - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>671</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=126996</origFileName>
-    <parallel_text xml:lang="nno" location="nyhet.html_tid=126996.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=126996_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Frozen in the ice</p>
-    <p>Their Royal Highnesses The Crown Prince and Crown Princess are on board the research vessel Lance, which is frozen into the Arctic Ocean outside Svalbard. The sea ice in the Arctic is melting faster than ever. Scientists on board the vessel are working to find out what is causing this and why.</p>
-    <p xml:lang="koi">22.04.2015</p>
-    <p>The Norwegian Polar Institute’s research vessel <em type="italic">Lance </em>will be locked in the ice for six months, starting from when the water froze in January until it melts in the summer. The primary objective is to gather a greater amount of and more accurate data for use in models to predict developments in the Arctic. The vessel is currently located in the ice outside Svalbard, so close to land that it can be reached by helicopter. Thus the research team could welcome the Crown Prince and Crown Princess and Norwegian Minister of Climate and Environment Tine Sundtoft on board for a visit. </p>
-    <p type="title">Too little is known</p>
-    <p>The <em type="italic">RV Lance </em>was frozen into the ice north of Svalbard at 83°N in January, and is now a drifting research station manned by scientists from around the world. They have been working hard to gather data, also during the winter season as little data about winter in the Arctic Ocean is available. </p>
-    <p>One of the reasons little is known about the physical processes taking place in the Arctic Ocean in winter is simply that the region is cold and inaccessible. Even now that the darkest, coldest period has passed, working conditions remain arduous.</p>
-    <p type="title">More accurate answers</p>
-    <p>The ice cap that has covered the Arctic Ocean from time immemorial is starting to melt. This is a dramatic development and its impacts will be global. According to the Norwegian Polar Institute, most of the ice in the Arctic Ocean is now less than one year old, whereas until recently multiyear ice was the norm.</p>
-    <p>The knowledge obtained by the <em type="italic">Lance </em>will provide more accurate predictions about the future of the Arctic sea ice. The lack of knowledge about what is happening to the ice is a weak point in the models used to forecast global climate change. The project has relevance worldwide, and has attracted wide-ranging international attention. </p>
-    <p>The Norwegian Young Sea Ice Cruise (N-ICE2015) project involves a number of different scientific fields related to the climate, including ecology, marine biology, meteorology and oceanography.</p>
-    <p>Minister Tine Sundtoft was already on board when Crown Prince Haakon and Crown Princess Mette-Marit arrived today. Together the visitors were given an introduction to the important research being carried out from the vessel.</p>
-    <p type="title">Norwegian management regime</p>
-    <p>Norway manages vast areas in the Arctic and northern areas. It is therefore of national interest to learn as much as possible about the future impacts of climate change on the environment, natural resources, industrial activity and the population in these areas.</p>
-    <p>The data will also help to enhance meteorological models, in addition to providing insight into ocean acidification and changes in the ecosystems.</p>
-    <p type="title">Out on the ice</p>
-    <p>Despite the demanding working conditions, daily activity on the ice surrounding the <em type="italic">Lance </em>is high-paced, always with the presence of a guard on the lookout for polar bears. </p>
-    <p>The Crown Prince and Crown Princess were given a guided tour of some of the research platforms built around the vessel in this beautiful but inhospitable area. Scientists are measuring snow and ice thickness, among other things, to follow the annual cycle of how the snow and ice interact with each other.</p>
-    <p>The researchers are taking continuous measurements of the CO 2 content in the water, taking plankton and water samples from the deep, and sending up weather balloons. These activities are essential for increasing knowledge about:</p>
-    <list>
-      <p type="listitem">Interactions between the upper ocean and the sea ice;</p>
-      <p type="listitem">The dynamics of sea ice;</p>
-      <p type="listitem">Biogeochemical processes associated with sea ice;</p>
-      <p type="listitem">What happens to the ecosystem on the ice edge when the ice recedes;</p>
-      <p type="listitem">A variety of other topics.</p>
-    </list>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem" xml:lang="nob">N-ICE 2015</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Frozen in the ice   - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>666</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=126996</origFileName><parallel_text xml:lang="nno" location="nyhet.html_tid=126996.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=126996_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Frozen in the ice</p>
+<p>Their Royal Highnesses The Crown Prince and Crown Princess are on board the research vessel Lance, which is frozen into the Arctic Ocean outside Svalbard. The sea ice in the Arctic is melting faster than ever. Scientists on board the vessel are working to find out what is causing this and why.</p>
+<p xml:lang="vep">22.04.2015</p>
+<p>The Norwegian Polar Institute’s research vessel <em type="italic">Lance </em>will be locked in the ice for six months, starting from when the water froze in January until it melts in the summer. The primary objective is to gather a greater amount of and more accurate data for use in models to predict developments in the Arctic. The vessel is currently located in the ice outside Svalbard, so close to land that it can be reached by helicopter. Thus the research team could welcome the Crown Prince and Crown Princess and Norwegian Minister of Climate and Environment Tine Sundtoft on board for a visit. </p>
+<p type="title">Too little is known</p>
+<p>The <em type="italic">RV Lance </em>was frozen into the ice north of Svalbard at 83°N in January, and is now a drifting research station manned by scientists from around the world. They have been working hard to gather data, also during the winter season as little data about winter in the Arctic Ocean is available. </p>
+<p>One of the reasons little is known about the physical processes taking place in the Arctic Ocean in winter is simply that the region is cold and inaccessible. Even now that the darkest, coldest period has passed, working conditions remain arduous.</p>
+<p type="title">More accurate answers</p>
+<p>The ice cap that has covered the Arctic Ocean from time immemorial is starting to melt. This is a dramatic development and its impacts will be global. According to the Norwegian Polar Institute, most of the ice in the Arctic Ocean is now less than one year old, whereas until recently multiyear ice was the norm.</p>
+<p>The knowledge obtained by the <em type="italic">Lance </em>will provide more accurate predictions about the future of the Arctic sea ice. The lack of knowledge about what is happening to the ice is a weak point in the models used to forecast global climate change. The project has relevance worldwide, and has attracted wide-ranging international attention. </p>
+<p>The Norwegian Young Sea Ice Cruise (N-ICE2015) project involves a number of different scientific fields related to the climate, including ecology, marine biology, meteorology and oceanography.</p>
+<p>Minister Tine Sundtoft was already on board when Crown Prince Haakon and Crown Princess Mette-Marit arrived today. Together the visitors were given an introduction to the important research being carried out from the vessel.</p>
+<p type="title">Norwegian management regime</p>
+<p>Norway manages vast areas in the Arctic and northern areas. It is therefore of national interest to learn as much as possible about the future impacts of climate change on the environment, natural resources, industrial activity and the population in these areas.</p>
+<p>The data will also help to enhance meteorological models, in addition to providing insight into ocean acidification and changes in the ecosystems.</p>
+<p type="title">Out on the ice</p>
+<p>Despite the demanding working conditions, daily activity on the ice surrounding the <em type="italic">Lance </em>is high-paced, always with the presence of a guard on the lookout for polar bears. </p>
+<p>The Crown Prince and Crown Princess were given a guided tour of some of the research platforms built around the vessel in this beautiful but inhospitable area. Scientists are measuring snow and ice thickness, among other things, to follow the annual cycle of how the snow and ice interact with each other.</p>
+<p>The researchers are taking continuous measurements of the CO 2 content in the water, taking plankton and water samples from the deep, and sending up weather balloons. These activities are essential for increasing knowledge about:</p>
+<list><p type="listitem">Interactions between the upper ocean and the sea ice;</p>
+<p type="listitem">The dynamics of sea ice;</p>
+<p type="listitem">Biogeochemical processes associated with sea ice;</p>
+<p type="listitem">What happens to the ecosystem on the ice edge when the ice recedes;</p>
+<p type="listitem">A variety of other topics.</p>
+</list><p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem" xml:lang="nob">N-ICE 2015</p>
+</list></body></document>

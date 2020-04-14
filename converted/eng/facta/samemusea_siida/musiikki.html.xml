@@ -1,55 +1,31 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Anaras - Culture - Music</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Marko" lastname="Jouste" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <wordcount>1088</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/english/kulttuuri/musiikki.html</origFileName>
-    <parallel_text xml:lang="fin" location="musiikki.html"/>
-    <parallel_text xml:lang="smn" location="musiikki.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="isl">Handicrafts</p>
-    <p xml:lang="sme">Sámi Costume</p>
-    <p>Music</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Of the Finnish Sámi music traditions, the music tradition of the Inari Sámi has received the least amount of attention. This is partly due to the fact that Inari Sámi, as a minority language, holds a marginal position among minority languages. There are also very few Inari Sámi makers of music and this has reflected the assessment of the Inari Sámi culture. The most well-known are singer and composer <em type="italic">Aune Kuuva </em>, rap-artist <em type="italic">Amoc </em>as well as sisters <em type="italic">Heli and Satu Aikio </em>. Of the older generation of <span type="quote">“music men”</span>, <em type="italic">Ilmari Mattus </em>and <em type="italic">Matti Morottaja </em>, who performed e.g. at the Kaustinen Folk Music Festival in 1968, deserve mention. In the last decades, the Inari Sámi music tradition has received less attention and the question as even arisen of whether it exits at all. With the help of archives sources from the 1800s and beginning of the 1900s it became evident that there has been a very lively Inari Sámi music tradition indeed. The Inari Sámi music tradition takes shape from archives sources in the following parts: the primary position in this tradition is taken by the Inari Sámis’ livđe and animal livđe. The oldest known livđet texts have been written down by Mikko Aikio in the 1880s. An abundance of transcriptions were made in the 1900s. The broadest collection of Inari Sámi music has been written down by Anna-Briitta Mattus (née Morottaja). The following are three texts to the Bear Livđe, which is one of the most well-known of Inari Sámi livđes. The oldest version is <em type="italic">Mikko Aikio’s </em>presentation from1886. </p>
-    <p xml:lang="smn">Koccáá juo viljâžâm Piäiváš juo vaarijd páštá kuđhiih juo kuodduužij mield ruotâdeh lode ruojâ jo peljijd vaaldij káálguh juo nuotijdis čihteh kálláh juo kiävuidis vuorkkiistileh párnááh juo sierâtávgáiguin sierih</p>
-    <p>Wake up, my brother The sun shines already on the ridges Birdsong echoes in my ears The old women fix the seines The old men gather shuttles The children play with their toy bows</p>
-    <p>Frans Äimä’s account of the Bear Livđe makes it clear that the word <span type="quote">“brother”</span> refers to the situation when the bear wakes up his brother, another bear.</p>
-    <p xml:lang="smn">Kuobžâ iätá viljâsis: Koccáá juo viljâžâm! Piäiváš juo vaarijd páštá, ludij jienâ juo peljijd škáájá, kuđhiih juo kuodduužij mield ruotâdeh, kálláh juo kiävuidis vuorkkiistileh, káálguh juo nuotijdis čihteh.</p>
-    <p>In 1946 <em type="italic">Anna-Briitta Mattus </em>presented the livđe in Helsinki to music researcher A. O. Väisänen; the Inari Sámi texts have been transliterated into modern orthography by Matti Morottaja. </p>
-    <p xml:lang="smn">Viljâžâm viljâžâm koccáá jo no piäiváš jo vaarijd páštá, lol-lo-lo… kuuđhah jo muorâi mield ryettih, lal-lal-lal… kálláh jo kiävuidis rähtih, lal-lal-lal… káálguh jo nuotijdis čihteh, lal-lal-lal… kaandah jo tävgipisoiguin sierâdeh, lal-lal-lal… ludij ruojâ jo peljidân vaaldij, lal-lal-lal… kuuđhâmievtâ siste, lal-lal-lal… ráávhust lii uáđđâm kale, lal-lal-lal… täälvis lii uáđđâm kale, lal-lal-lal… te tot jo muorjijd porá, lal-lal-lal… tuot kustoo meid jo koccáá lal-lal-lal...</p>
-    <p>Brother, my brother wake up Daylight shines on the ridges, lol-lo-lo, loo-loo Pismires are running up the trees lol-lo-lo… Old men are putting away shuttles lol-lo-lo… Old women are fixing seines lol-lo-lo… Boys are playing with their bows lol-lo-lo… Birds sing (noise) in my ears lol-lo-lo… Ants inside their mound, lol-lo-lo... peacefully sleep, lol-lo-lo... All winter he’s slept, lol-lo-lo… Now he’s eating berries lol-lo-lo, loo-loo lol-loo… That cub is awake too lol-lo-lo, loo-loo lol-loo…</p>
-    <p>Livđes are musically very similar to the North Sámi yoiks from Inari and therefore they are from the mere point of view of music difficult to differentiate from each other. In addition, the Inari Sámi tradition of singing has included North Sámi yoik; they are referred to in Inari Sámi with the term <em type="italic">juáigus </em>, (pl. <em type="italic">juáiguseh </em>). The oldest descriptions of Inari Sámi music are from the beginning fo the 1800s and they are made by both priests and officials. These deal especially with the ability of the Inari people to sing hymns. The Inari Sámi term for hymn is <em type="italic">salmâ </em>(pl. <em type="italic">saalmah </em>) and the 1800s hymn-singing tradition is linked to the hymns in the so-called Old Hymnal Book. In 1993 the current Inari Sámi language hymnal was published. In addition to livđes, yoiks and hymns, there are many Inari Sámi language songs. These are called in Inari Sámi <em type="italic">laavlâ </em>(pl. <em type="italic">lavluuh </em>). The most famous song is probably the so-called <em type="italic">Engagement Song </em>, which is also known as Mother’s and Daughter’s Discussion Song. The song is supposed to have been performed in engagement parties at the end of the 1800s and the beginning of the 1900s. One reason for the weakening of the Inari Sámi music tradition in the 1900s was the <em type="italic">Spanish Flu </em>of 1920. About 200 people died in Inari and a great number of them were Inari Sámis. Because no one wanted to perform the livđes of the deceased, a significant part of the tradition disappeared, and with them also numerous traditional artists. The 1920s and 1930s was marked by a tremendous movement of Finns to Inari and this also influenced musical culture and certainly the effect of the war in Lapland even further weakened the traditional culture. The Inari Sámi music tradition has been nevertheless registered after the war, especially at the end of the 1960s by the efforts of Matti Morottaja and Sámi Radio. Due to the abundance of archives materials and cooperation of old traditional with artists, it has been possible <em type="italic">to revive the old Inari Sámi music tradition </em>. At the Ijahis Ija Festival this year new Inari language songs as well as old livđes were heard in the Inari Sámi consert. <em type="italic"></em><em type="italic">Marko Jouste </em> </p>
-    <p>Over a  hundred recorded yoik samples presented to A.O. Väisäsenen and Erkki Ala-Könni by  Anna-Briita Mattus singing to a phonograph, 1946.</p>
-    <p xml:lang="smn">Amoc, Mikkâl Ante Morottaja and Jouni Petteri Morottaja rapping in  Inari Sámi.</p>
-    <p xml:lang="nno">››</p>
-    <p xml:lang="smn">Anna-Briita Mattus: Bear's livđe</p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p>Wax cylinder recording, 1946</p>
-    <p xml:lang="sms">( .mp3 800 kb)</p>
-    <p><em type="italic">What is livđe </em><em type="italic">? </em>In Sámi music traditions the environment and people of the area are expressed in music and text. Central to the tradition is that the song itself is dedicated to the object of the song. In European and Scandinavian song traditions narrative songs are prevalent. Narrative songs describe people, events and feelings without a sense of this relationship of dedication, or ownership. In the North Sámi area, dedicated longs bear the term <em type="italic">luohti </em>, although the term yoik in Finnish has taken root. The Inari Sámi term is <em type="italic">livđe </em>and in Skolt Sámi it is <em type="italic">leu’dd </em>. </p>
-    <p>Ilmari Mattus and <span type="quote" xml:lang="smn">"Sáárámáárjá"</span>.</p>
-    <p xml:lang="smn">Inari Sámi musicians:</p>
-    <p xml:lang="smn"><em type="bold">Aune Kuuva </em></p>
-    <p>Back to Top</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Anaras - Culture - Music</title><genre code="facta"/><author><person firstname="Marko" lastname="Jouste" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>1088</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/english/kulttuuri/musiikki.html</origFileName><parallel_text xml:lang="fin" location="musiikki.html"/><parallel_text xml:lang="smn" location="musiikki.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="deu">Handicrafts</p>
+<p xml:lang="sme">Sámi Costume</p>
+<p>Music</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Of the Finnish Sámi music traditions, the music tradition of the Inari Sámi has received the least amount of attention. This is partly due to the fact that Inari Sámi, as a minority language, holds a marginal position among minority languages. There are also very few Inari Sámi makers of music and this has reflected the assessment of the Inari Sámi culture. The most well-known are singer and composer <em type="italic">Aune Kuuva </em>, rap-artist <em type="italic">Amoc </em>as well as sisters <em type="italic">Heli and Satu Aikio </em>. Of the older generation of <span type="quote">“music men”</span>, <em type="italic">Ilmari Mattus </em>and <em type="italic">Matti Morottaja </em>, who performed e.g. at the Kaustinen Folk Music Festival in 1968, deserve mention. In the last decades, the Inari Sámi music tradition has received less attention and the question as even arisen of whether it exits at all. With the help of archives sources from the 1800s and beginning of the 1900s it became evident that there has been a very lively Inari Sámi music tradition indeed. The Inari Sámi music tradition takes shape from archives sources in the following parts: the primary position in this tradition is taken by the Inari Sámis’ livđe and animal livđe. The oldest known livđet texts have been written down by Mikko Aikio in the 1880s. An abundance of transcriptions were made in the 1900s. The broadest collection of Inari Sámi music has been written down by Anna-Briitta Mattus (née Morottaja). The following are three texts to the Bear Livđe, which is one of the most well-known of Inari Sámi livđes. The oldest version is <em type="italic">Mikko Aikio’s </em>presentation from1886. </p>
+<p xml:lang="smn">Koccáá juo viljâžâm Piäiváš juo vaarijd páštá kuđhiih juo kuodduužij mield ruotâdeh lode ruojâ jo peljijd vaaldij káálguh juo nuotijdis čihteh kálláh juo kiävuidis vuorkkiistileh párnááh juo sierâtávgáiguin sierih</p>
+<p>Wake up, my brother The sun shines already on the ridges Birdsong echoes in my ears The old women fix the seines The old men gather shuttles The children play with their toy bows</p>
+<p>Frans Äimä’s account of the Bear Livđe makes it clear that the word <span type="quote">“brother”</span> refers to the situation when the bear wakes up his brother, another bear.</p>
+<p xml:lang="smn">Kuobžâ iätá viljâsis: Koccáá juo viljâžâm! Piäiváš juo vaarijd páštá, ludij jienâ juo peljijd škáájá, kuđhiih juo kuodduužij mield ruotâdeh, kálláh juo kiävuidis vuorkkiistileh, káálguh juo nuotijdis čihteh.</p>
+<p>In 1946 <em type="italic">Anna-Briitta Mattus </em>presented the livđe in Helsinki to music researcher A. O. Väisänen; the Inari Sámi texts have been transliterated into modern orthography by Matti Morottaja. </p>
+<p xml:lang="smn">Viljâžâm viljâžâm koccáá jo no piäiváš jo vaarijd páštá, lol-lo-lo… kuuđhah jo muorâi mield ryettih, lal-lal-lal… kálláh jo kiävuidis rähtih, lal-lal-lal… káálguh jo nuotijdis čihteh, lal-lal-lal… kaandah jo tävgipisoiguin sierâdeh, lal-lal-lal… ludij ruojâ jo peljidân vaaldij, lal-lal-lal… kuuđhâmievtâ siste, lal-lal-lal… ráávhust lii uáđđâm kale, lal-lal-lal… täälvis lii uáđđâm kale, lal-lal-lal… te tot jo muorjijd porá, lal-lal-lal… tuot kustoo meid jo koccáá lal-lal-lal...</p>
+<p>Brother, my brother wake up Daylight shines on the ridges, lol-lo-lo, loo-loo Pismires are running up the trees lol-lo-lo… Old men are putting away shuttles lol-lo-lo… Old women are fixing seines lol-lo-lo… Boys are playing with their bows lol-lo-lo… Birds sing (noise) in my ears lol-lo-lo… Ants inside their mound, lol-lo-lo... peacefully sleep, lol-lo-lo... All winter he’s slept, lol-lo-lo… Now he’s eating berries lol-lo-lo, loo-loo lol-loo… That cub is awake too lol-lo-lo, loo-loo lol-loo…</p>
+<p>Livđes are musically very similar to the North Sámi yoiks from Inari and therefore they are from the mere point of view of music difficult to differentiate from each other. In addition, the Inari Sámi tradition of singing has included North Sámi yoik; they are referred to in Inari Sámi with the term <em type="italic">juáigus </em>, (pl. <em type="italic">juáiguseh </em>). The oldest descriptions of Inari Sámi music are from the beginning fo the 1800s and they are made by both priests and officials. These deal especially with the ability of the Inari people to sing hymns. The Inari Sámi term for hymn is <em type="italic">salmâ </em>(pl. <em type="italic">saalmah </em>) and the 1800s hymn-singing tradition is linked to the hymns in the so-called Old Hymnal Book. In 1993 the current Inari Sámi language hymnal was published. In addition to livđes, yoiks and hymns, there are many Inari Sámi language songs. These are called in Inari Sámi <em type="italic">laavlâ </em>(pl. <em type="italic">lavluuh </em>). The most famous song is probably the so-called <em type="italic">Engagement Song </em>, which is also known as Mother’s and Daughter’s Discussion Song. The song is supposed to have been performed in engagement parties at the end of the 1800s and the beginning of the 1900s. One reason for the weakening of the Inari Sámi music tradition in the 1900s was the <em type="italic">Spanish Flu </em>of 1920. About 200 people died in Inari and a great number of them were Inari Sámis. Because no one wanted to perform the livđes of the deceased, a significant part of the tradition disappeared, and with them also numerous traditional artists. The 1920s and 1930s was marked by a tremendous movement of Finns to Inari and this also influenced musical culture and certainly the effect of the war in Lapland even further weakened the traditional culture. The Inari Sámi music tradition has been nevertheless registered after the war, especially at the end of the 1960s by the efforts of Matti Morottaja and Sámi Radio. Due to the abundance of archives materials and cooperation of old traditional with artists, it has been possible <em type="italic">to revive the old Inari Sámi music tradition </em>. At the Ijahis Ija Festival this year new Inari language songs as well as old livđes were heard in the Inari Sámi consert. <em type="italic"></em><em type="italic">Marko Jouste </em> </p>
+<p>Over a  hundred recorded yoik samples presented to A.O. Väisäsenen and Erkki Ala-Könni by  Anna-Briita Mattus singing to a phonograph, 1946.</p>
+<p xml:lang="smn">Amoc, Mikkâl Ante Morottaja and Jouni Petteri Morottaja rapping in  Inari Sámi.</p>
+<p xml:lang="swe">››</p>
+<p xml:lang="smn">Anna-Briita Mattus: Bear's livđe</p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p>Wax cylinder recording, 1946</p>
+<p xml:lang="sms">( .mp3 800 kb)</p>
+<p><em type="italic">What is livđe </em><em type="italic">? </em>In Sámi music traditions the environment and people of the area are expressed in music and text. Central to the tradition is that the song itself is dedicated to the object of the song. In European and Scandinavian song traditions narrative songs are prevalent. Narrative songs describe people, events and feelings without a sense of this relationship of dedication, or ownership. In the North Sámi area, dedicated longs bear the term <em type="italic">luohti </em>, although the term yoik in Finnish has taken root. The Inari Sámi term is <em type="italic">livđe </em>and in Skolt Sámi it is <em type="italic">leu’dd </em>. </p>
+<p>Ilmari Mattus and <span type="quote" xml:lang="smn">"Sáárámáárjá"</span>.</p>
+<p xml:lang="smn">Inari Sámi musicians:</p>
+<p xml:lang="smn"><em type="bold">Aune Kuuva </em></p>
+<p>Back to Top</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

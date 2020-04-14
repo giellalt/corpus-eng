@@ -1,65 +1,36 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Pupil as interpreter</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/>
-    </author>
-    <translator>
-      <person firstname="Ane Helga" lastname="Lykka" sex="f" born="1986" nationality="NO"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2009</year>
-    <wordcount>1373</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://skuvla.info/minaigi15-e.htm</origFileName>
-    <parallel_text xml:lang="nob" location="minaigi15-n.html"/>
-    <parallel_text xml:lang="sme" location="minaigi15.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Sámegillii På norsk <em type="bold"></em></p>
-    <p><em type="bold">Articles about Sami school history </em><em type="bold">Part 15 - printed in Ávvir 20.06.2009 </em></p>
-    <p type="title">Do you know Sami school history?</p>
-    <p><em type="bold">Sámi skuvlahistorjá / Samisk skolehistorie (Sami School History) is a series of books published by the publishing house Davvi Girji. In about 200 articles in 5 volumes there is told about the experiences of Sami children in Norwegian schools, and about the changes in the educational politics of the Norwegian authorities towards the Sami population. The books are published with parallell text in Sami and Norwegian language. </em></p>
-    <p>In this web site some of the articles of the first book are also published in English. It would be too much to translate it all, so to make this history available to a greater public, we are translating a series of newspaper articles, which sorted by topics make a summary of stories in the books. So far there are 28 articles published in Sami language by the Sami newspapers <em type="italic">Min Áigi </em>and <em type="italic">Ávvir </em>. They are also published here in Norwegian and the English version will be published gradually as they are translated. </p>
-    <p>These articles are edited by the main editor, Svein Lund. Besides him the editing board of the book series consist of Elfrid Boine, Siri Broch Johansen and Siv Rasmussen.</p>
-    <p type="title">Pupil as interpreter</p>
-    <p type="title">English translation by Ane Helga Lykka</p>
-    <p>Among the most shocking stories about what Sami pupils have experienced in school, is how bilingual pupils, from the age of 6-7 years, have had to be interpretors between teachers or house keepers and the other children. Although we did not seek out these stories in particular, we have found five different stories describing situations like this. They come from five different municipalities, from the 1930-50's. This can suggest that this kind of practice has been fairly common.</p>
-    <p type="title">Interpreter for the housekeeper and the pupils</p>
-    <p>Marie N. Logje Eira came from a reindeer herding environment in Guovdageaidnu and learned Norwegian in the summer pasture in Skjervøy. When she began school in Kautokeino boarding school in 1930, she had to function as interpreter.</p>
-    <p><em type="italic">- In the dormitory there was a woman called Katrine who was housekeeper in the beginning. Later on it was Gunhild Olsen. She did not know Sami, and I often had to translate between her and the other children, since they were not able to understand each other directly. </em>( Marie N. Logje Eira's story, SSH-5 ) </p>
-    <p><em type="bold">Márjá N. Logje and her brother in the summer pasture of their childhood. </em></p>
-    <p xml:lang="nob">(Photo: Carl Schøien)</p>
-    <p type="title">The ones who knew a little had to help</p>
-    <p xml:lang="nob">Johan Johannessen started school in Smørfjord school in Porsanger in 1938.</p>
-    <p><em type="italic">The language spoken at home was Sami and I neither understood nor spoke Norwegian. Our teacher was called Elida Thommassen and came from Elverum. She was married to somebody from the municipality and consequently lived here. She couldn’t speak Sami so those pupils who could speak a little Norwegian had to help us others by translating what the teacher said into Sami. The head teacher, who was also director of the boarding-school, couldn’t speak Sami either. We weren’t allowed to speak Sami, but what were we supposed to speak then when that was all we knew? Gradually I learnt a little Norwegian but I got a lot wrong and the others laughed at me when I spoke the little I knew. </em>( Johan Johannessen's story, SSH-1 ) </p>
-    <p type="title">6 year old interpreter</p>
-    <p>Einar and Sissel Gullichsen came from the eastern part of southern Norway to Sirma in 1953 and worked there until 1962, and later until 1968 in Karasjok. Subsequently they moved to Trøndelag, where they still are living.</p>
-    <p><em type="bold">Teacher Sissel Gullichsen together with the pupil Ellen Adrianna, who had to be the interpreter between the teacher and the other pupils. </em></p>
-    <p xml:lang="nno">(Photo: Einar Gullichsen)</p>
-    <p><em type="italic">The language was the biggest problem. As Bill is writing in his letter, nobody really knew any Norwegian when they started school. But Ellen Adrianna (Uhcaoabbá) from the mountain lodge who was 6 years old, knew some Norwegian, and she was open, communicative and funny. We talked to the chairman of the municipal education committee and applied for her to start school one year earlier - to help us. It worked out, and from the very first day Sissel and Uhcaoabbá became each other's private teachers. Sissel learned Sami, and Ellen Adrianna Norwegian increasingly. In the classroom she was used as interpretor in the first grade. But once Sissel was taken in by the language confusion. In the math lesson they were to use the fingers when they counted to 10. Sissel held up her thumb and asked; <span type="quote">"Mii dat lea?" (What is that?). The pupils responded as it was: Bealgi - the thumb, but Sissel thought she had gotten to know the word for finger, suorbma, and for days and weeks they were counting thumbs and saying "Mus leat logi bealggi"</span> (I have 10 thumbs). What did the children think? And it must surely have been amusing to Uhcaoabbá. </em>( Einar Gullichsen's story, SSH-1 ) </p>
-    <p type="title">One year older brother as interpreter</p>
-    <p>Ingunn Utsi started school in Repvåg in Nordkapp in 1955.</p>
-    <p><em type="italic">We were four who started first grade. All of us came from Repvågstranda, and all of us were Sami speaking. The first year the four of us; Samuel, Ingebjørg, my brother Oliver and I, were allowed to live in the same room in the dormitory. It was not usual at the time, because the rules stated that girls and boys had to live separatly. </em></p>
-    <p><em type="italic">Teacher and house keeper was Petra Pedersen, who came from Honningsvåg or Nordvågen. She was very kind, and a good teacher to us, although she did not have any formal teachers education and did not know any Sami. She did not judge us. Petra managed the school in such a way that we never felt inferior to the others in any way. </em></p>
-    <p><em type="italic">Oliver was one year older than the rest of us and had learned some Norwegian, enough that he could partly interpret for the rest of us. I was quite good in school. It is very strange, taking in to consideration how little Norwegian I knew the first years. </em>( Ingunn Utsi's story, SSH-2 ) </p>
-    <p><em type="bold">From a classroom in Repvåg school, 1952 </em></p>
-    <p xml:lang="nob">(Photo: Sverre A. Børretzen, Aktuell)</p>
-    <p type="title">Everyone can understand what kind of interpreters that will be!</p>
-    <p>When the headmaster at Karasjok elementary school, Trygve Madsen, in 1967 told about the Sami schools in Norway, he also mentioned pupils as interpreters, in such a way that it seems to have been quite usual:</p>
-    <p><em type="italic">And another thing is when children in the first grade do not know Norwegian and the teacher does not know Sami, the child drops completely behind. It does not understand arithmetic or any other subject the teacher is teaching. At that point other pupils in the same class have to be used as interpreters, if they know some Norwegian. And everyone can imagine what kind of interpreters that will be! </em>( Trygve Madsen on the Sami school in Norway, SSH-1 ) </p>
-    <p>Here you find all the articles in the series:</p>
-    <p>28.09.2007 Why Sami school history? 05.10.2007 Boundless ignorance 12.10.2007 Southerner-teachers encounter the Sami language 19.10.2007 The start of Sami beginner instruction 26.10.2007 The start of education in reindeer-herding 02.11.2007 From Sami to Norwegian vocational training 16.11.2007 Struggle for Sami gymnasium 28.11.2007 School experiences of Norwegian speaking Samis 14.12.2007 Resistence against Sami language and culture 25.01.2008 A strange world 23.05.2009 On Sami teachers 30.05.2009 Life in boarding school 06.06.2009 Sami pupils were bullied 13.06.2009 Sami content in the teaching 20.06.2009 Pupil as interpreter 04.07.2009 How the children quit speaking Sami 10.09.2010 God does not understand Sami 08.10.2010 The point of view of the Norwegianizers 13.10.2010 Men of the church defending the Sami language 02.12.2010 Sami teachers in old times 09.12.2010 Boarding school life in old times 18.12.2010 Sami pupils in special schools 14.01.2012 The parents' struggle for Sami education 21.01.2012 Reluctance and absence 28.01.2012 The school during the war 04.02.2012 Reconstruction and barrack schools 11.02.2012 Curriculums - for Norwegianization and for Sami school 18.02.2012 The great struggle of the curriculum</p>
-    <p>Sami school history 1 Sami school history 2 Sami school history 3 Sami school history 4 Sami school history 5 Sami school history - main page</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Pupil as interpreter</title><genre code="facta"/><author><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></author><translator><person firstname="Ane Helga" lastname="Lykka" sex="f" born="1986" nationality="NO"/></translator><translated_from xml:lang="nob"/><year>2009</year><wordcount>1373</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://skuvla.info/minaigi15-e.htm</origFileName><parallel_text xml:lang="nob" location="minaigi15-n.html"/><parallel_text xml:lang="sme" location="minaigi15.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Sámegillii På norsk <em type="bold"></em></p>
+<p><em type="bold">Articles about Sami school history </em><em type="bold">Part 15 - printed in Ávvir 20.06.2009 </em></p>
+<p type="title">Do you know Sami school history?</p>
+<p><em type="bold">Sámi skuvlahistorjá / Samisk skolehistorie (Sami School History) is a series of books published by the publishing house Davvi Girji. In about 200 articles in 5 volumes there is told about the experiences of Sami children in Norwegian schools, and about the changes in the educational politics of the Norwegian authorities towards the Sami population. The books are published with parallell text in Sami and Norwegian language. </em></p>
+<p>In this web site some of the articles of the first book are also published in English. It would be too much to translate it all, so to make this history available to a greater public, we are translating a series of newspaper articles, which sorted by topics make a summary of stories in the books. So far there are 28 articles published in Sami language by the Sami newspapers <em type="italic">Min Áigi </em>and <em type="italic">Ávvir </em>. They are also published here in Norwegian and the English version will be published gradually as they are translated. </p>
+<p>These articles are edited by the main editor, Svein Lund. Besides him the editing board of the book series consist of Elfrid Boine, Siri Broch Johansen and Siv Rasmussen.</p>
+<p type="title">Pupil as interpreter</p>
+<p type="title">English translation by Ane Helga Lykka</p>
+<p>Among the most shocking stories about what Sami pupils have experienced in school, is how bilingual pupils, from the age of 6-7 years, have had to be interpretors between teachers or house keepers and the other children. Although we did not seek out these stories in particular, we have found five different stories describing situations like this. They come from five different municipalities, from the 1930-50's. This can suggest that this kind of practice has been fairly common.</p>
+<p type="title">Interpreter for the housekeeper and the pupils</p>
+<p>Marie N. Logje Eira came from a reindeer herding environment in Guovdageaidnu and learned Norwegian in the summer pasture in Skjervøy. When she began school in Kautokeino boarding school in 1930, she had to function as interpreter.</p>
+<p><em type="italic">- In the dormitory there was a woman called Katrine who was housekeeper in the beginning. Later on it was Gunhild Olsen. She did not know Sami, and I often had to translate between her and the other children, since they were not able to understand each other directly. </em>( Marie N. Logje Eira's story, SSH-5 ) </p>
+<p><em type="bold">Márjá N. Logje and her brother in the summer pasture of their childhood. </em></p>
+<p xml:lang="nob">(Photo: Carl Schøien)</p>
+<p type="title">The ones who knew a little had to help</p>
+<p xml:lang="nob">Johan Johannessen started school in Smørfjord school in Porsanger in 1938.</p>
+<p><em type="italic">The language spoken at home was Sami and I neither understood nor spoke Norwegian. Our teacher was called Elida Thommassen and came from Elverum. She was married to somebody from the municipality and consequently lived here. She couldn’t speak Sami so those pupils who could speak a little Norwegian had to help us others by translating what the teacher said into Sami. The head teacher, who was also director of the boarding-school, couldn’t speak Sami either. We weren’t allowed to speak Sami, but what were we supposed to speak then when that was all we knew? Gradually I learnt a little Norwegian but I got a lot wrong and the others laughed at me when I spoke the little I knew. </em>( Johan Johannessen's story, SSH-1 ) </p>
+<p type="title">6 year old interpreter</p>
+<p>Einar and Sissel Gullichsen came from the eastern part of southern Norway to Sirma in 1953 and worked there until 1962, and later until 1968 in Karasjok. Subsequently they moved to Trøndelag, where they still are living.</p>
+<p><em type="bold">Teacher Sissel Gullichsen together with the pupil Ellen Adrianna, who had to be the interpreter between the teacher and the other pupils. </em></p>
+<p xml:lang="nno">(Photo: Einar Gullichsen)</p>
+<p><em type="italic">The language was the biggest problem. As Bill is writing in his letter, nobody really knew any Norwegian when they started school. But Ellen Adrianna (Uhcaoabbá) from the mountain lodge who was 6 years old, knew some Norwegian, and she was open, communicative and funny. We talked to the chairman of the municipal education committee and applied for her to start school one year earlier - to help us. It worked out, and from the very first day Sissel and Uhcaoabbá became each other's private teachers. Sissel learned Sami, and Ellen Adrianna Norwegian increasingly. In the classroom she was used as interpretor in the first grade. But once Sissel was taken in by the language confusion. In the math lesson they were to use the fingers when they counted to 10. Sissel held up her thumb and asked; <span type="quote">"Mii dat lea?" (What is that?). The pupils responded as it was: Bealgi - the thumb, but Sissel thought she had gotten to know the word for finger, suorbma, and for days and weeks they were counting thumbs and saying "Mus leat logi bealggi"</span> (I have 10 thumbs). What did the children think? And it must surely have been amusing to Uhcaoabbá. </em>( Einar Gullichsen's story, SSH-1 ) </p>
+<p type="title">One year older brother as interpreter</p>
+<p>Ingunn Utsi started school in Repvåg in Nordkapp in 1955.</p>
+<p><em type="italic">We were four who started first grade. All of us came from Repvågstranda, and all of us were Sami speaking. The first year the four of us; Samuel, Ingebjørg, my brother Oliver and I, were allowed to live in the same room in the dormitory. It was not usual at the time, because the rules stated that girls and boys had to live separatly. </em></p>
+<p><em type="italic">Teacher and house keeper was Petra Pedersen, who came from Honningsvåg or Nordvågen. She was very kind, and a good teacher to us, although she did not have any formal teachers education and did not know any Sami. She did not judge us. Petra managed the school in such a way that we never felt inferior to the others in any way. </em></p>
+<p><em type="italic">Oliver was one year older than the rest of us and had learned some Norwegian, enough that he could partly interpret for the rest of us. I was quite good in school. It is very strange, taking in to consideration how little Norwegian I knew the first years. </em>( Ingunn Utsi's story, SSH-2 ) </p>
+<p><em type="bold">From a classroom in Repvåg school, 1952 </em></p>
+<p xml:lang="nob">(Photo: Sverre A. Børretzen, Aktuell)</p>
+<p type="title">Everyone can understand what kind of interpreters that will be!</p>
+<p>When the headmaster at Karasjok elementary school, Trygve Madsen, in 1967 told about the Sami schools in Norway, he also mentioned pupils as interpreters, in such a way that it seems to have been quite usual:</p>
+<p><em type="italic">And another thing is when children in the first grade do not know Norwegian and the teacher does not know Sami, the child drops completely behind. It does not understand arithmetic or any other subject the teacher is teaching. At that point other pupils in the same class have to be used as interpreters, if they know some Norwegian. And everyone can imagine what kind of interpreters that will be! </em>( Trygve Madsen on the Sami school in Norway, SSH-1 ) </p>
+<p>Here you find all the articles in the series:</p>
+<p>28.09.2007 Why Sami school history? 05.10.2007 Boundless ignorance 12.10.2007 Southerner-teachers encounter the Sami language 19.10.2007 The start of Sami beginner instruction 26.10.2007 The start of education in reindeer-herding 02.11.2007 From Sami to Norwegian vocational training 16.11.2007 Struggle for Sami gymnasium 28.11.2007 School experiences of Norwegian speaking Samis 14.12.2007 Resistence against Sami language and culture 25.01.2008 A strange world 23.05.2009 On Sami teachers 30.05.2009 Life in boarding school 06.06.2009 Sami pupils were bullied 13.06.2009 Sami content in the teaching 20.06.2009 Pupil as interpreter 04.07.2009 How the children quit speaking Sami 10.09.2010 God does not understand Sami 08.10.2010 The point of view of the Norwegianizers 13.10.2010 Men of the church defending the Sami language 02.12.2010 Sami teachers in old times 09.12.2010 Boarding school life in old times 18.12.2010 Sami pupils in special schools 14.01.2012 The parents' struggle for Sami education 21.01.2012 Reluctance and absence 28.01.2012 The school during the war 04.02.2012 Reconstruction and barrack schools 11.02.2012 Curriculums - for Norwegianization and for Sami school 18.02.2012 The great struggle of the curriculum</p>
+<p>Sami school history 1 Sami school history 2 Sami school history 3 Sami school history 4 Sami school history 5 Sami school history - main page</p>
+</body></document>

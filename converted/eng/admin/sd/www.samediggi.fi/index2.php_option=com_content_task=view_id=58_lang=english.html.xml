@@ -1,78 +1,45 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - General Office</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="fin"/>
-    <wordcount>214</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=58&amp;lang=english.html</origFileName>
-    <parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=58_lang=finnish.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=58_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=58_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=58_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>General Office</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>The purpose of the General Office is to attend to the financial, personnel and other general administrative issues, as well as issues that have not been assigned to other offices.</p>
-    <p>The appointments in the General Office include Executive Director, Cultural Secretary, Legal Secretary, Social Affairs and Health Secretary, Financial Secretary, Office Secretary and the planner of a Sámi Unit. The job descriptions are defined in the standing orders of the Sámi Parliament. The Plenum can establish other posts, if necessary.</p>
-    <p>The Sámi Unit of the Social Affairs Learning Centre of Northern Finland also functions within the General Office. Other personnel can also work at the General Office. The director of the General Office is the Executive Diractor.</p>
-    <p>Executive Director</p>
-    <p xml:lang="fin">Pia Ruotsala</p>
-    <p>Legal Secretary</p>
-    <p xml:lang="fin">vs. Kalle Varis</p>
-    <p>Cultural Secretary</p>
-    <p xml:lang="fin">vs. Riitta Orti-Berg</p>
-    <p>Social Affairs and Health Secretary</p>
-    <p xml:lang="fin">Pia Ruotsala</p>
-    <p xml:lang="fin">Ympäristösihteeri</p>
-    <p xml:lang="fin">vs. Esko Aikio</p>
-    <p xml:lang="fin">Nuorisosihteeri</p>
-    <p xml:lang="fin">Kaisa Tapiola-Länsman</p>
-    <p>Sámi Unit of the Social Affairs Learning Centre in Northern Finland</p>
-    <p>Planner</p>
-    <p>Coordinator, The Sámi Childrens Center</p>
-    <p xml:lang="fin">Petra Biret Magga-Vars</p>
-    <p>The Sámi Cultural Centre</p>
-    <p xml:lang="fin">Johanna Alatorvinen</p>
-    <p xml:lang="fin">Project planner, Alkuperäiskansojen elokuvakeskus Skabma</p>
-    <p xml:lang="fin">Tarja Porsanger</p>
-    <p xml:lang="fin">Suunnittelija, Saamelainen musiikkikeskus</p>
-    <p xml:lang="fin">vs. Oula Guttorm</p>
-    <p>Financial Secretary</p>
-    <p xml:lang="fin">Hilkka Kukkonen</p>
-    <p>Administrative Secretary</p>
-    <p xml:lang="fin">Anneli Länsman</p>
-    <p>Office Secretary</p>
-    <p xml:lang="fin">Laila Aikio</p>
-    <p xml:lang="fin">Järjestelmäasiantuntija</p>
-    <p xml:lang="fin">vs. Pietari Seppänen</p>
-    <p xml:lang="fin">AV-teknikko</p>
-    <p xml:lang="fin">Joonas Saari</p>
-    <p xml:lang="fin">AV-teknikko</p>
-    <p xml:lang="fin">Janne Lappalainen</p>
-    <p xml:lang="fin">Toimitilahuoltaja</p>
-    <p xml:lang="fin">Pauli Saijets</p>
-    <p xml:lang="fin">Laitoshuoltaja</p>
-    <p xml:lang="fin">Pirkko Pieski</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - General Office</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>214</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=58&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=58_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=58_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=58_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=58_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>General Office</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>The purpose of the General Office is to attend to the financial, personnel and other general administrative issues, as well as issues that have not been assigned to other offices.</p>
+<p>The appointments in the General Office include Executive Director, Cultural Secretary, Legal Secretary, Social Affairs and Health Secretary, Financial Secretary, Office Secretary and the planner of a Sámi Unit. The job descriptions are defined in the standing orders of the Sámi Parliament. The Plenum can establish other posts, if necessary.</p>
+<p>The Sámi Unit of the Social Affairs Learning Centre of Northern Finland also functions within the General Office. Other personnel can also work at the General Office. The director of the General Office is the Executive Diractor.</p>
+<p>Executive Director</p>
+<p xml:lang="fin">Pia Ruotsala</p>
+<p>Legal Secretary</p>
+<p xml:lang="fin">vs. Kalle Varis</p>
+<p>Cultural Secretary</p>
+<p xml:lang="fin">vs. Riitta Orti-Berg</p>
+<p>Social Affairs and Health Secretary</p>
+<p xml:lang="fin">Pia Ruotsala</p>
+<p xml:lang="fin">Ympäristösihteeri</p>
+<p xml:lang="fin">vs. Esko Aikio</p>
+<p xml:lang="fin">Nuorisosihteeri</p>
+<p xml:lang="fin">Kaisa Tapiola-Länsman</p>
+<p>Sámi Unit of the Social Affairs Learning Centre in Northern Finland</p>
+<p>Planner</p>
+<p>Coordinator, The Sámi Childrens Center</p>
+<p xml:lang="fin">Petra Biret Magga-Vars</p>
+<p>The Sámi Cultural Centre</p>
+<p xml:lang="fin">Johanna Alatorvinen</p>
+<p xml:lang="fin">Project planner, Alkuperäiskansojen elokuvakeskus Skabma</p>
+<p xml:lang="fin">Tarja Porsanger</p>
+<p xml:lang="fin">Suunnittelija, Saamelainen musiikkikeskus</p>
+<p xml:lang="fin">vs. Oula Guttorm</p>
+<p>Financial Secretary</p>
+<p xml:lang="fin">Hilkka Kukkonen</p>
+<p>Administrative Secretary</p>
+<p xml:lang="fin">Anneli Länsman</p>
+<p>Office Secretary</p>
+<p xml:lang="fin">Laila Aikio</p>
+<p xml:lang="fin">Järjestelmäasiantuntija</p>
+<p xml:lang="fin">vs. Pietari Seppänen</p>
+<p xml:lang="fin">AV-teknikko</p>
+<p xml:lang="fin">Joonas Saari</p>
+<p xml:lang="fin">AV-teknikko</p>
+<p xml:lang="fin">Janne Lappalainen</p>
+<p xml:lang="fin">Toimitilahuoltaja</p>
+<p xml:lang="fin">Pauli Saijets</p>
+<p xml:lang="fin">Laitoshuoltaja</p>
+<p xml:lang="fin">Pirkko Pieski</p>
+</body></document>

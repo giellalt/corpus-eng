@@ -1,55 +1,24 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>328</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/nationella-minoriteter/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-nationella-minoriteter.html"/>
-    <parallel_text xml:lang="swe" location="manniska-och-samhalle-nationella-minoriteter.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>National minorities - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">National minorities</p>
-    <p><em type="italic">Since 1 January 2010, the County Administrative Board in Stockholm County and the Sami Parliament are primarily responsible for coordination and follow-up of how Sweden's minority policy is implemented throughout the country. </em></p>
-    <p>In December 1999, the Swedish Parliament decided that Sweden should join the Council of Europe's Framework Convention for the protection of national minorities and the European Charter for regional or minority languages. The Parliament also took the decision for a Minority Policy and the recognition of five national minorities and their languages (all varieties).</p>
-    <p type="title">Sweden's national minorities and minority languages</p>
-    <p>The five recognized national minorities in Sweden are Jews, Roma, the Sami people (which is also an indigenous people), Swedish Finns, and the Torne Valley Descendents (Tornedalians). The historical minority languages are Yiddish, Romani chib, Sami, Finnish and Meänkieli. What is common for the minority groups is that they have populated Sweden over a long period of time and that they constitute groups with a distinct affinity. They also have their own religious, linguistic or cultural affinity and a desire to retain their identity.</p>
-    <p type="title">The Government's policy on minorities</p>
-    <p>The Minority Policy covers issues of protection and support for the national minorities and the historical minority languages. Strengthening the protection of national minorities forms a part of Sweden's efforts to protect human rights.</p>
-    <p type="title">A minority political strategy</p>
-    <p>In 2009, the Government announced a new minority political strategy with measures for the further strengthening of the rights of national minorities. From 1 January 2010 a law on national minorities and minority languages also applies as part of the Government's strategy. The strategy includes a number of proposals to strengthen the rights of national minorities in practice, including measures to:</p>
-    <list>
-      <p type="listitem">ensure a better enforcement of the Council of Europe's minority conventions and a follow-up of the measures taken</p>
-      <p type="listitem">counteract discrimination and disadvantages faced by national minorities</p>
-      <p type="listitem">strength the national minorities empowerment and influence</p>
-      <p type="listitem">promote conservation of the national minorities' languages.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>328</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/nationella-minoriteter/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="manniska-och-samhalle-nationella-minoriteter.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle-nationella-minoriteter.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>National minorities - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">National minorities</p>
+<p><em type="italic">Since 1 January 2010, the County Administrative Board in Stockholm County and the Sami Parliament are primarily responsible for coordination and follow-up of how Sweden's minority policy is implemented throughout the country. </em></p>
+<p>In December 1999, the Swedish Parliament decided that Sweden should join the Council of Europe's Framework Convention for the protection of national minorities and the European Charter for regional or minority languages. The Parliament also took the decision for a Minority Policy and the recognition of five national minorities and their languages (all varieties).</p>
+<p type="title">Sweden's national minorities and minority languages</p>
+<p>The five recognized national minorities in Sweden are Jews, Roma, the Sami people (which is also an indigenous people), Swedish Finns, and the Torne Valley Descendents (Tornedalians). The historical minority languages are Yiddish, Romani chib, Sami, Finnish and Meänkieli. What is common for the minority groups is that they have populated Sweden over a long period of time and that they constitute groups with a distinct affinity. They also have their own religious, linguistic or cultural affinity and a desire to retain their identity.</p>
+<p type="title">The Government's policy on minorities</p>
+<p>The Minority Policy covers issues of protection and support for the national minorities and the historical minority languages. Strengthening the protection of national minorities forms a part of Sweden's efforts to protect human rights.</p>
+<p type="title">A minority political strategy</p>
+<p>In 2009, the Government announced a new minority political strategy with measures for the further strengthening of the rights of national minorities. From 1 January 2010 a law on national minorities and minority languages also applies as part of the Government's strategy. The strategy includes a number of proposals to strengthen the rights of national minorities in practice, including measures to:</p>
+<list><p type="listitem">ensure a better enforcement of the Council of Europe's minority conventions and a follow-up of the measures taken</p>
+<p type="listitem">counteract discrimination and disadvantages faced by national minorities</p>
+<p type="listitem">strength the national minorities empowerment and influence</p>
+<p type="listitem">promote conservation of the national minorities' languages.</p>
+</list></body></document>

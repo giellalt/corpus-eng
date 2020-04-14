@@ -1,303 +1,270 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Sentence analysis</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>2287</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/usevisl/cealkkalahtut.eng.html</origFileName>
-    <parallel_text xml:lang="sme" location="cealkkalahtut.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Sentence analysis</p>
-    <list>
-      <p type="listitem">On the sentences</p>
-      <p type="listitem">Types of sentences</p>
-      <p type="listitem">Sentences constituents</p>
-      <p type="listitem" xml:lang="est">Phrases</p>
-      <p type="listitem">Embedded phrase</p>
-      <p type="listitem">Discontinous phrases</p>
-      <p type="listitem" xml:lang="est">Parataxis</p>
-      <p type="listitem">Syntactic functions (not ready)</p>
-      <p type="listitem">About parts of speech - link</p>
-      <p type="listitem">Link to sentence analysis</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">On the sentences</p>
-    <p>We have collected sentences from different sources, and then analysed them. The abbreviations of the parts of speech and functions may be unfamiliar for users, since the abbreviations on the VISL pages are adjusted to fit all the languages.</p>
-    <p>Over thousand sentences are used, both in the grammar games, Killerfiller and the sentence trees. In addition to that, there are appr. 640 sentences used in Killerfiller only, with the morphology adjusted to that game.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Types of sentences</p>
-    <p>We use three different sentence types:</p>
-    <p><em type="italic">Abbreviation </em></p>
-    <p><em type="italic">Sentence type </em></p>
-    <p xml:lang="ron"><em type="italic">Example </em></p>
-    <p xml:lang="vep"><em type="italic">STA </em></p>
-    <p>Statement</p>
-    <p xml:lang="sme">Sii ráhkadedje muohtaádjáid ja muohtaeŋgeliid.</p>
-    <p xml:lang="deu"><em type="italic">QUE </em></p>
-    <p>Question</p>
-    <p xml:lang="sme">Boađát go odne?</p>
-    <p><em type="italic">COM </em></p>
-    <p>Imperative sentence</p>
-    <p xml:lang="sme">Buvtte gáfe!</p>
-    <p>According to Sammallahti, there are also <span type="quote">"exclamation sentences"</span>, expressing surprise, beginning with a particle or an adverb: <em type="italic">Gal juo lea báhkas! </em>. We do not have such sentences in our corpus. </p>
-    <p>The interjection has no function in the sentence, and in our analysis interjections constitute separate sentences. E.g. here we have two sentences: <em type="italic">Hei, boađe mu lusa! </em>. </p>
-    <p xml:lang="nno"></p>
-    <p type="title">Sentences constituents</p>
-    <p>Sentences have one or more constituents. Constituents may be:</p>
-    <list>
-      <p type="listitem">singleton words, marked e.g. as. <span type="quote" xml:lang="vep">"S:n"</span> (=the subject is a noun)</p>
-      <p type="listitem">phrases constituting more than one word, marked as e.g. <span type="quote" xml:lang="nob">"S:g"</span> (=the subject is a phrase)</p>
-      <p type="listitem">embedded clause, and marked as e.g. <span type="quote" xml:lang="vep">"S:cl"</span> (=the subject is a clause)</p>
-      <p type="listitem">parataxis, and marked as e.g. <span type="quote" xml:lang="nno">"S:par"</span> (=the subject is a parataxis)</p>
-    </list>
-    <p>The clause (cl) may be both a main clause and an embedded clause, but by definition it contains a finite verb. In addition, it may be an infinitival clause without a finite verb (icl). The verb may be missing if the clause is an elipsis (acl - averbal clause). In the VISL system, only sentences contain sentence functions, groups contain head and dependents.</p>
-    <p>We use the following constituents:</p>
-    <p><em type="italic">Abbreviation </em></p>
-    <p><em type="italic">Sentence function </em></p>
-    <p xml:lang="ron"><em type="italic">Example </em></p>
-    <p xml:lang="vep"><em type="italic">S </em></p>
-    <p>Subject</p>
-    <p xml:lang="sme"><em type="italic">Min nieiddat </em></p>
-    <p xml:lang="sme">leat čeahpit. Bahádahkki</p>
-    <p xml:lang="nno"><em type="italic">son </em></p>
-    <p xml:lang="sme">lea! De dáhpáhuvai,</p>
-    <p xml:lang="sme"><em type="italic">ahte rievvár bođii. </em></p>
-    <p xml:lang="vep"><em type="italic">P </em></p>
-    <p xml:lang="vep">Verbal</p>
-    <p xml:lang="sme">Min nieiddat</p>
-    <p xml:lang="sme"><em type="italic">leat </em></p>
-    <p xml:lang="sme">čeahpit.</p>
-    <p xml:lang="est"><em type="italic">Ale mana! </em></p>
-    <p xml:lang="sme">Don</p>
-    <p xml:lang="sme"><em type="italic">galggat </em></p>
-    <p xml:lang="sme">jaska</p>
-    <p xml:lang="sme"><em type="italic">veallát </em></p>
-    <p xml:lang="koi">.</p>
-    <p xml:lang="sme"><em type="italic">Od </em></p>
-    <p xml:lang="isl">Object</p>
-    <p xml:lang="vep">Bija</p>
-    <p xml:lang="sme"><em type="italic">buori dola </em></p>
-    <p xml:lang="koi">.</p>
-    <p xml:lang="sme"><em type="italic">Maid </em></p>
-    <p xml:lang="sme">Máret áigu oastit? Dieđát go</p>
-    <p xml:lang="sme"><em type="italic">goas mis lea čoahkkin? </em></p>
-    <p xml:lang="vep"><em type="italic">A </em></p>
-    <p xml:lang="est">Adverbial</p>
-    <p xml:lang="sme">Lávvui gullá</p>
-    <p xml:lang="sme"><em type="italic">maid </em></p>
-    <p xml:lang="sme">uvssot. Doai leahppi</p>
-    <p xml:lang="sme"><em type="italic">áŋgirit </em></p>
-    <p xml:lang="sme">lohkan sámegiela</p>
-    <p xml:lang="sme"><em type="italic">olles dálvvi </em></p>
-    <p xml:lang="sme">. Nieida lei</p>
-    <p xml:lang="sme"><em type="italic">skuvllas </em></p>
-    <p xml:lang="koi">.</p>
-    <p xml:lang="sme"><em type="italic">Jus dieđášin </em></p>
-    <p xml:lang="sme">, de dajašin.</p>
-    <p xml:lang="isl"><em type="italic">HAB </em></p>
-    <p>Habitive</p>
-    <p xml:lang="sme"><em type="italic">Mus </em></p>
-    <p xml:lang="sme">leat ustibat.</p>
-    <p xml:lang="sme"><em type="italic">Min bussás </em></p>
-    <p xml:lang="sme">leat alit čalmmit.</p>
-    <p><em type="italic">fC </em></p>
-    <p>Predicative</p>
-    <p xml:lang="sme">Min bussás leat</p>
-    <p xml:lang="sme"><em type="italic">alit čalmmit </em></p>
-    <p xml:lang="sme">. Gáttis ledje</p>
-    <p xml:lang="sme"><em type="italic">olbmot </em></p>
-    <p xml:lang="koi">.</p>
-    <p><em type="italic">Cs </em></p>
-    <p>Subject predicative</p>
-    <p xml:lang="sme">Min nieiddat leat</p>
-    <p xml:lang="sme"><em type="italic">čeahpit </em></p>
-    <p xml:lang="koi">.</p>
-    <p><em type="italic">Co </em></p>
-    <p>Object predikative</p>
-    <p xml:lang="sme">Son oaččui dan</p>
-    <p xml:lang="sme"><em type="italic">luoikkasin </em></p>
-    <p xml:lang="sme">. Gáhkuid son ráhkada</p>
-    <p xml:lang="sme"><em type="italic">hui buriid </em></p>
-    <p xml:lang="koi">.</p>
-    <p><em type="italic">Cp </em></p>
-    <p>Predicative predicative</p>
-    <p xml:lang="sme">Mus leat gieđat</p>
-    <p xml:lang="sme"><em type="italic">nu galbmasat </em></p>
-    <p xml:lang="koi">.</p>
-    <p xml:lang="ron"><em type="italic">CO </em></p>
-    <p>Coordinator</p>
-    <p xml:lang="sme"><em type="italic">Muhto </em></p>
-    <p xml:lang="sme">Parkera gal deavččastetne.</p>
-    <p xml:lang="deu"><em type="italic">SUB </em></p>
-    <p xml:lang="nno">Subordinaor</p>
-    <p xml:lang="smj"><em type="italic">Jus </em></p>
-    <p xml:lang="sme">dieđášin,</p>
-    <p xml:lang="ron"><em type="italic">de </em></p>
-    <p xml:lang="sme">dajašin. Son lea viššaleabbo</p>
-    <p xml:lang="sme"><em type="italic">go </em></p>
-    <p xml:lang="smn">mun.</p>
-    <p xml:lang="vep"><em type="italic">PART </em></p>
-    <p xml:lang="ron">Particle</p>
-    <p xml:lang="sme">Boađát</p>
-    <p xml:lang="sme"><em type="italic">go </em></p>
-    <p xml:lang="vep">odne?</p>
-    <p><em type="italic">VOC </em></p>
-    <p>Vocative</p>
-    <p xml:lang="fkv"><em type="italic">Gilette, </em></p>
-    <p xml:lang="sme">boađe donge!</p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="est">Phrases</p>
-    <p>Sentences may contain groups. Each group (g) contains at least two members - head (H) and dependent (D), the dependent may be an attribute or a complement. The group has only one head, but may have more than one dependent.</p>
-    <p>In order to decide which constituent is head and which is dependent, we use semantics, morphology (the head is the word with the grammatical features licensing the phrase), position (the dependent may be moved together with the head) and universality (the word may be the same dependent to the same head irrespective of the grammatical features and position or function the head has in the sentence) (Sammallahti 2005).</p>
-    <p>Here are some examples - the group is marked in bold, and the head in red:</p>
-    <p>- Mun orun (stuorra vilges <em type="italic">viesus </em>). - the head is the noun. </p>
-    <p>- Dovdet go (William <em type="italic">Turnera </em>)? - the head is the proper noun. </p>
-    <p>- Dat orru (buorre <em type="italic">fanas </em>). - the head is the adjective. </p>
-    <p>- Dát manna (hui <em type="italic">bures </em>). - the head is the adverb. </p>
-    <p>- Son čállá girjji (nuoraid <em type="italic">birra </em>). - the head is the postposition and it governs the case of the dependent. </p>
-    <p>- ( <em type="italic">Maŋŋil </em>bottu) lei boađus 0-0. - the head is the preposition and it governs the case of the dependent. </p>
-    <p>- Don (sáhtát <em type="italic">boahtit </em>) dál. - According to Sammallahti, the head is the auxiliary verb, but we follow VISL practice, and the main verb is the head. </p>
-    <p>- Mus leat ( <em type="italic">guokte </em>oambeali). - the head is the numeral, in nominative, it would also work in the sentence without a dependent. </p>
-    <p>- Mun ledjen (máŋgga <em type="italic">sajis </em>). - the head is the locative noun. </p>
-    <p>- Juhán vulggii dohko (viđain <em type="italic">nieiddain </em>). - the head is the comitative noun. The dependent is also in the comitative, with full agreement. </p>
-    <p>- Son lea viššaleabbo ( <em type="italic">go </em>mun). - the head is the conjunction. </p>
-    <p>The members of the group are:</p>
-    <p><em type="italic">Abbreviation </em></p>
-    <p><em type="italic">Meaning </em></p>
-    <p xml:lang="ron"><em type="italic">Example </em></p>
-    <p xml:lang="isl"><em type="italic">H </em></p>
-    <p xml:lang="vep">Head</p>
-    <p xml:lang="smn">mu</p>
-    <p xml:lang="est"><em type="italic">nieida </em></p>
-    <p xml:lang="nob"><em type="italic">D </em></p>
-    <p xml:lang="dan">Dependent</p>
-    <p xml:lang="smn"><em type="italic">mu </em></p>
-    <p xml:lang="est">nieida</p>
-    <p xml:lang="nno"><em type="italic">g </em></p>
-    <p xml:lang="est">Phrase</p>
-    <p xml:lang="sme">Dát lea</p>
-    <p xml:lang="sme"><em type="italic">mu nieida </em></p>
-    <p xml:lang="koi">.</p>
-    <p xml:lang="ron"><em type="italic">cl </em></p>
-    <p>Clause</p>
-    <p xml:lang="sme"><em type="italic">gii lea mu nieida </em></p>
-    <p xml:lang="nno"></p>
-    <p type="title">Embedded phrase</p>
-    <p>One phrase can contain another phrase:</p>
-    <p xml:lang="sme"><em type="italic">(Maŋŋil (vuosttaš vuoru)) lei boađus 0-0." </em></p>
-    <p>In the innermost phrase <span type="quote" xml:lang="sme">"vuoru"</span> is the head and <span type="quote" xml:lang="sme">"vuosttaš"</span> the dependent. In the outer phrase <span type="quote" xml:lang="sme">"maŋŋil"</span> is the head and <span type="quote" xml:lang="sme">"vuosttaš vuoru"</span> is the dependent.</p>
-    <p>or even more levels:</p>
-    <p xml:lang="sme"><em type="italic">(Maŋŋil (láivves (vuosttaš vuoru))) lei boađus 0-0. </em></p>
-    <p>In the innermost phrase <span type="quote" xml:lang="sme">"vuoru"</span> is the head and <span type="quote" xml:lang="sme">"vuosttaš"</span> the dependent. In the mediate phrase <span type="quote" xml:lang="sme">"vuosttaš vuoru"</span> is the head and <span type="quote" xml:lang="sme">"láivves"</span> the dependent. In the outermost phrase <span type="quote" xml:lang="sme">"maŋŋil"</span> is the head and <span type="quote" xml:lang="sme">"láivves vuosttaš vuoru"</span> is dependent.</p>
-    <p>In some cases there may be more than one dependent related to the same head, such as in the sentence: "Mun orun (stuorra vilges viesus)." - or: "Mun (in sáhte boahtit) odne." The relevant phrases are set in parentheses.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Discontinous phrases</p>
-    <p>Somtimes the phrase is split by other constituents. An example is the phrase <span type="quote" xml:lang="sme">"áiggun vuoššat"</span> in the following sentence, where the phrase is divided by the object: <em type="italic">Dál gal áiggun mulju vuoššat. </em></p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="est">Parataxis</p>
-    <p>Words, phrases or sentences may be coordinated, realising the same function. The phrase is then marked as <em type="italic">conjunct (CJT) </em>, and it is normally coordinated with a <em type="italic">coordinator (CO) </em>, e.g. <span type="quote" xml:lang="sme">"ja", "dahje"</span>, <span type="quote" xml:lang="vep">"vai"</span>, <span type="quote" xml:lang="sme">"muhto"</span>, <span type="quote" xml:lang="smj">"sihke - ja"</span>, <span type="quote" xml:lang="sme">"(ii) - (ii)ge"</span>. </p>
-    <p>In the VISL sentence trees, parataxis is marked with its function, e.g. <span type="quote" xml:lang="nno">"S:par"</span> - there is a paratactical construction functioning as subject, or <span type="quote" xml:lang="nno">"STA:par"</span> - the declarative sentence contains one or more sentences.</p>
-    <p>Examples:</p>
-    <p xml:lang="sme">- Mii <em type="italic">rievidit ja hearjidit </em>jávohaga. - <span type="quote" xml:lang="vep">"V:par"</span> (=Parataxis as verbal.) </p>
-    <p xml:lang="sme">- Mun láibbun <em type="italic">sihke šuhkoládagáhku ja lákcagáhku. </em>- <span type="quote" xml:lang="nno">"Od:par"</span> (=Parataxis as object.) </p>
-    <p xml:lang="sme">- <em type="italic">Mu áhkku lea jápmán, muhto mu áddjá eallá velge. </em>- <span type="quote" xml:lang="nno">"STA:par"</span> (=Two coordinate sentences.) </p>
-    <p>- <em type="italic">Mánná ii hálit borrat iige juhkat. </em>- <span type="quote" xml:lang="nno">"STA:par"</span> (There is a parataxis between two sentences, but the coordinator is not marked, since <span type="quote" xml:lang="dan">"iige"</span> is a finite verb and thus a part of the verbal of one of the sentences.) </p>
-    <p>Some of the conjuncts are part of one of the groups, and then marked with <span type="quote" xml:lang="nno">"X:par"</span>. In this sentence <span type="quote" xml:lang="sme">"sojahit"</span> and <span type="quote" xml:lang="sme">"ráhkadit"</span> belong to the same verbal, and the dependent is the auxiliary <span type="quote" xml:lang="sme">"galgat"</span>:</p>
-    <p xml:lang="sme">- Oahpaheaddji čilge govt mii galgat <em type="italic">sojahit sániid ja ráhkadit cealkagiid </em>. - <span type="quote" xml:lang="nno">"X:par"</span> </p>
-    <p>We use these abbreviations in connection with coordination:</p>
-    <p><em type="italic">Abbreviation </em></p>
-    <p><em type="italic">Coordinating constituent </em></p>
-    <p xml:lang="ron"><em type="italic">Example </em></p>
-    <p xml:lang="ron"><em type="italic">CO </em></p>
-    <p>Coordinator</p>
-    <p xml:lang="sme">Sii ráhkadedje muohtaádjáid</p>
-    <p xml:lang="smj"><em type="italic">ja </em></p>
-    <p xml:lang="sme">muohtaeŋgeliid.</p>
-    <p><em type="italic">CJT </em></p>
-    <p>Conjunct</p>
-    <p xml:lang="sme">Sii ráhkadedje</p>
-    <p xml:lang="sme"><em type="italic">muohtaádjáid </em></p>
-    <p xml:lang="smj">ja</p>
-    <p xml:lang="sme"><em type="italic">muohtaeŋgeliid </em></p>
-    <p xml:lang="koi">.</p>
-    <p xml:lang="nno"><em type="italic">par </em></p>
-    <p xml:lang="est">Parataxis</p>
-    <p xml:lang="sme">Sii ráhkadedje</p>
-    <p xml:lang="sme"><em type="italic">muohtaádjáid ja muohtaeŋgeliid </em></p>
-    <p>. (<span type="quote" xml:lang="nno">"Od:par"</span> when object)</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Syntactic functions (not ready)</p>
-    <p>The Saami textbooks define syntactic functions in many ways, and in some books several central topics are not treated at all. We have compared some of the more important textbooks and grammars, and made some choices. It is, however, important that our definitions will be helpful to the grammar teaching in school, and we are open for comments as to whether we are able to achieve that.</p>
-    <p>The <em type="italic">subject </em>and the finite verb normally agree in number and person. But some singular subjects may have a plural meaning, such as <em type="italic">álbmot </em>and in that case, the verb may be in plural. The verbal is in singular if the subject is a mass noun or denotes an abstract concept. If the subject is coordinated, the verbal may agree with the closest constituent, e.g. <em type="italic">Jogo mun dahje don galggat dan bargat. </em>The subject may be a noun, or a pronoun, but also e.g. an infinitive or an embedded clause. </p>
-    <p>The <em type="italic">verbal </em>can be simple (just the finite verb), or it can consist of more verbs (finite verb + infinite verb). In principle, clauses always have a verbal, but there are also ellipses without a verbal, such as <em type="italic">Gosa don dál? </em>. It is also possible that the verbal is missing in one of the paratax sentences, when the sentences have the same verb, for example <em type="italic">Unna mánážat dulbmet eatni askki, stuora mánát (dulbmet) fas váimmu. </em></p>
-    <p>Infinite verbforms belonging to the verbal are:</p>
-    <list>
-      <p type="listitem" xml:lang="sme">perfect participle, omd <em type="italic">(lean) boahtán </em></p>
-      <p type="listitem">connegative form, omd <em type="italic">(in) boađe </em></p>
-      <p type="listitem">actio essive, when it is preceded by <em type="italic">leat </em>, <em type="italic">orrut </em>or a verb of motion, omd <em type="italic">(lea) muohttime, (orru) leamen, (finan) viežžame </em>. </p>
-      <p type="listitem">actio locative can belong to the verbal, for example <em type="italic">(heaitit) juhkamis </em></p>
-      <p type="listitem">infinitive, for example <em type="italic">(áiggun) boahtit </em></p>
-    </list>
-    <p>The infinitive is part of the verbal if it follows an auxiliary verb (modal or similar) <em type="italic">(soaittán) boahtit </em>, perfect conditional 2 <em type="italic">(ledjen) dadjat </em>and supine <em type="italic">(amas) nohkkat </em>(Nickel). </p>
-    <p>There are certain criteria according to which one can decide whether a verb is an auxiliary verb or not. However, the many differences between auxiliary verbs deter a clear-cut categorization. You can read more about this in Magga 1982.</p>
-    <p xml:lang="sme">We treat these verbs as auxiliary verbs: <em type="italic">bállet, berret, dáidit, fertet, galgat, gillet, lávet, sáhttit, seahtit, soaitit, viggat, áigut, álgit, beassat, háliidit, máhttit, nagodit, ollit, orrut, sihtat, veadjit, boahtit </em>. Some of these verbs can be used as main verbs as well, such as <em type="italic">veadjit </em>and <em type="italic">boahtit </em>. </p>
-    <p><em type="italic">Object </em>A nominal object will be in the accusative case. The object of an active sentence will be the subject of a corresponding passive sentence. When the verbal consists of a causative verb, the sentence can have two objects, one is the object of the causative suffix and the other is the object of the verb itself, for example <span type="quote" xml:lang="vep">"su" and "dan"</span>: <em type="italic">Mii su dan barggahii? </em>. Nickel regards nouns in other case forms as objects as well, such as <span type="quote" xml:lang="smn">"sutnje"</span>: <em type="italic">Mun liikon sutnje </em>. Others call these adverbials. We do not think that the Nickel analysis is common in schools, so we do not follow it. </p>
-    <p xml:lang="sme">Objeaktan sáhttet leat earret nomeniid, maid infinitiiva, oalgecealkka ja cealkkavástta, omd. <span type="quote" xml:lang="sme">"goarrut"</span> <span type="quote" xml:lang="sme">"ahte bussá čohkkái muora vuolde"</span> ja <span type="quote" xml:lang="sme">"bussá čohkkámin muora vuolde"</span>: <em type="italic">Son oahppá goarrut. Sáhpán oinnii ahte bussá čohkkái muora vuolde. Sáhpán oinnii bussá čohkkámin muora vuolde. </em></p>
-    <p xml:lang="sme">Muhtumin predikatiiva sáhttá váldit objeavtta, nugo <span type="quote" xml:lang="sme">"guliid"</span>: <em type="italic">Dat lea hui oažžul guliid </em>. </p>
-    <p xml:lang="sme"><em type="italic">Habitiiva </em>muitala geas lea dahje gii oažžu. Cealkkalahttu sáhttá leat lokatiiva- dahje illatiivahámis. (Nickel) <em type="italic">Nissonis lea rukses biila. Munnje šattai ahkit. </em></p>
-    <p xml:lang="sme"><em type="italic">Predikatiiva </em>eksistentiála ja habitiiva cealkagiin. Eksistentiálacealkagiid nominatiivahápmásaš cealkkalahttu kongruere verbálain, muhto duála ii geavahuvvo, nugo normála cealkagis. Eksistentiála cealkka lea <em type="italic">Jávregáttis ledje guokte olbmo. </em>, muhto <em type="italic">Guokte olbmo leigga jávregáttis. </em>lea normála cealkka. Seammáládje go lea habitiiva cealkka: <em type="italic">Mus leat guokte máná. </em>Dáin cealkagiin livččii vejolaš atnit nominatiivahápmásaš cealkkalahtu subjeaktan, nugo dahkko ođđaseamos oahppogirjjis, Sara 2006, ja nu dahká maid Sammallahti. Mii leat dattetge válljen gohčodit dan predikatiivan, seammáládje go Nickel 1994, Helander ja Ijäs/Turi 1998. </p>
-    <p xml:lang="sme"><em type="italic">Subjeaktapredikatiiva </em>muitala makkár subjeakta lea dahje šaddá, dahje manin gohčoduvvo. <em type="italic">Nieiddat leat čeahpit. Son šaddá stuoris. Nieida gohčoduvvo Unna Márehažžan. </em>Nominatiivahápmásaš subjeaktapredikatiiva čuovvu subjeavtta logu. </p>
-    <p xml:lang="sme">Sihke Ijäs/Turi 1998 ja Helandera mielde 'stális' lea predikatiiva dan cealkagis: <em type="italic">Niibi lea stális. </em>danne go muitala niibbi iešvuođa, ahte lea stálleniibi. Nickel 1994 mielde dat lea advearbiála. Mii lea maid gohčodan dan subjeaktapredikatiivan danne go dalle boahtá buorebut oidnosii ahte cealkagis <em type="italic">Guksi lea muoras </em>leat guokte dulkoma. Nuppis lea <span type="quote" xml:lang="smj">"muoras"</span> adverbiála (ahte muoras lea guksi) ja nuppis lea <span type="quote" xml:lang="smj">"muoras"</span> subjeaktapredikatiiva (ahte lea muorraguksi). </p>
-    <p xml:lang="sme"><em type="italic">Objeaktapredikatiiva </em>sáhttá leat akkusatiiva- ja essiivahápmásaš nomenat ja muitala makkár objeakta lea, omd. <span type="quote" xml:lang="sme">"gonagassan"</span> ja <span type="quote" xml:lang="sme">"hui buriid"</span>: <em type="italic">Sii válljejedje su gonagassan. Gáhkuid son ráhkada hui buriid. </em>Akkusatiivahápmásaš objeaktapredikatiiva čuovvu objeavtta logu. </p>
-    <p xml:lang="sme"><em type="italic">Eará predikatiivvat </em>leat Nickel 1994 mielde habitiivapredikatiiva, nugo <span type="quote" xml:lang="sme">"Norgga riikavuložin"</span>: <em type="italic">Makkár vuoigatvuođat dain leat Norgga riikavuložin? </em>ja predikatiivapredikatiiva, omd. <span type="quote" xml:lang="sme">"nu galbmasat"</span>: <em type="italic">Márehis leat gieđat nu galbmasat </em>. </p>
-    <p xml:lang="sme"><em type="italic">Advearbiála </em>lea verbála dahje predihkáhta mearus mii ii leat objeakta iige predikatiiva. Dakkár adverbiálaid man haga verbála ii birge, gohčoduvvo deavddaadvearbiálan. Luovos advearbiálat fas eai leat bákkolaččat. (Magga 1980). Advearbiálan sáhttá leat advearba, (partihkkal), nomen, preposišuvdna- ja postposišuvdnagihppu, vearbbaid nominálahámit (vearbagenetiiva, vearbaabessiiva, infinitiiva, gerunda, aktio lokatiiva, perfeakta partisihppa) ja oalgecealkka. </p>
-    <p>Examples (Nickel 1994):</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Goađis' leat guokte áhku. </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun boađán 'bearjadaga'. </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun čálán 'mášiinnain'. </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Láibi lea 'beavddi alde'. </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Son čállá 'čábbát'. </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun boađán 'go siđát'. </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun bohten 'vácci'. </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dan mun vajáldahtten 'logakeahttá'. </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun fillehallen 'dan olbmui'. </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Muital 'eadnái'! </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mii doalvvuimet ealu 'guokte miilla' 'dan beaivve'. </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dat bođii 'dán geainnu'. </em></p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Boađe sisa 'gáfe juhkat'. </em></p>
-    </list>
-    <p xml:lang="sme"><em type="italic">Coordinator </em>doaibmá bálddalasti kunjunkšuvdna. Koordináhtor sáhttá bálddalastit cealkagiid, cealkkalahtuid dahje depedeanttaid. omd. <em type="italic">ja, dahje, sihke, vai, muhto </em>. </p>
-    <p xml:lang="sme"><em type="italic">Subordináhtorin </em>doaibmá vuollálasti konjunkšuvdna mii laktá oalgecealkaga váldocealkagii, <em type="italic">jus, go, ahte, daningo, vaikko </em>. </p>
-    <p xml:lang="deu"><em type="italic">References. </em></p>
-    <list>
-      <p type="listitem" xml:lang="sme">- Pope/Sara 2004: Eatnigiella - Giellaoahpu váldogirji. Davvi Girji. - Vuođđoskuvllas vuosttašgiela oahppit dábálaččat geavahit dán.</p>
-      <p type="listitem" xml:lang="sme">- Nickel 1994: Samisk grammatikk. Rievdaduvvon 2. deaddileapmi. Davvi Girji. - Geavahuvvo universitehta- ja allaskuvladásis.</p>
-      <p type="listitem" xml:lang="sme">- Helander 199?: Cealkkaoasit. Sámegiela vuođđofága, Romssa universitehta</p>
-      <p type="listitem" xml:lang="sme">- Magga 1980: Giellaoahppa. Dieđut nr.3. Sámi Instituhtta.</p>
-      <p type="listitem" xml:lang="sme">- Magga 1992: Modalverb og infinitiv innen verbalet. Prosjektrapport. Dieđut nr 1, Sámi Instituhtta.</p>
-      <p type="listitem" xml:lang="sme">- Ijäs/Turi 1998: Sánit teakstan. Davvi Girji. - Geavahuvvo joatkkaskuvllas.</p>
-      <p type="listitem" xml:lang="sme">- Sammallahti 2005: Láidehus sámegiela cealkkaoahpa dutkamii. Davvi Girji.</p>
-      <p type="listitem" xml:lang="sme">- Sara 2006: Joatkke ain. Davvi Girji.- Geavahuvvo nuoraidskuvllas nubbigiellaoahpahusas.</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">About parts of speech - link</p>
-    <p>Here you may read about parts of speech</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Link to sentence analysis</p>
-    <p>If you want to analyse sentences, click here</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Sentence analysis</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>2287</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/cealkkalahtut.eng.html</origFileName><parallel_text xml:lang="sme" location="cealkkalahtut.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Sentence analysis</p>
+<list><p type="listitem">On the sentences</p>
+<p type="listitem">Types of sentences</p>
+<p type="listitem">Sentences constituents</p>
+<p type="listitem" xml:lang="est">Phrases</p>
+<p type="listitem">Embedded phrase</p>
+<p type="listitem">Discontinous phrases</p>
+<p type="listitem" xml:lang="est">Parataxis</p>
+<p type="listitem">Syntactic functions (not ready)</p>
+<p type="listitem">About parts of speech - link</p>
+<p type="listitem">Link to sentence analysis</p>
+</list><p xml:lang="swe"></p>
+<p type="title">On the sentences</p>
+<p>We have collected sentences from different sources, and then analysed them. The abbreviations of the parts of speech and functions may be unfamiliar for users, since the abbreviations on the VISL pages are adjusted to fit all the languages.</p>
+<p>Over thousand sentences are used, both in the grammar games, Killerfiller and the sentence trees. In addition to that, there are appr. 640 sentences used in Killerfiller only, with the morphology adjusted to that game.</p>
+<p xml:lang="swe"></p>
+<p type="title">Types of sentences</p>
+<p>We use three different sentence types:</p>
+<p><em type="italic">Abbreviation </em></p>
+<p><em type="italic">Sentence type </em></p>
+<p xml:lang="ron"><em type="italic">Example </em></p>
+<p xml:lang="vep"><em type="italic">STA </em></p>
+<p>Statement</p>
+<p xml:lang="sme">Sii ráhkadedje muohtaádjáid ja muohtaeŋgeliid.</p>
+<p xml:lang="deu"><em type="italic">QUE </em></p>
+<p>Question</p>
+<p xml:lang="sme">Boađát go odne?</p>
+<p><em type="italic">COM </em></p>
+<p>Imperative sentence</p>
+<p xml:lang="sme">Buvtte gáfe!</p>
+<p>According to Sammallahti, there are also <span type="quote">"exclamation sentences"</span>, expressing surprise, beginning with a particle or an adverb: <em type="italic">Gal juo lea báhkas! </em>. We do not have such sentences in our corpus. </p>
+<p>The interjection has no function in the sentence, and in our analysis interjections constitute separate sentences. E.g. here we have two sentences: <em type="italic">Hei, boađe mu lusa! </em>. </p>
+<p xml:lang="swe"></p>
+<p type="title">Sentences constituents</p>
+<p>Sentences have one or more constituents. Constituents may be:</p>
+<list><p type="listitem">singleton words, marked e.g. as. <span type="quote" xml:lang="fin">"S:n"</span> (=the subject is a noun)</p>
+<p type="listitem">phrases constituting more than one word, marked as e.g. <span type="quote" xml:lang="nob">"S:g"</span> (=the subject is a phrase)</p>
+<p type="listitem">embedded clause, and marked as e.g. <span type="quote" xml:lang="nob">"S:cl"</span> (=the subject is a clause)</p>
+<p type="listitem">parataxis, and marked as e.g. <span type="quote" xml:lang="nno">"S:par"</span> (=the subject is a parataxis)</p>
+</list><p>The clause (cl) may be both a main clause and an embedded clause, but by definition it contains a finite verb. In addition, it may be an infinitival clause without a finite verb (icl). The verb may be missing if the clause is an elipsis (acl - averbal clause). In the VISL system, only sentences contain sentence functions, groups contain head and dependents.</p>
+<p>We use the following constituents:</p>
+<p><em type="italic">Abbreviation </em></p>
+<p><em type="italic">Sentence function </em></p>
+<p xml:lang="ron"><em type="italic">Example </em></p>
+<p xml:lang="nob"><em type="italic">S </em></p>
+<p>Subject</p>
+<p xml:lang="sme"><em type="italic">Min nieiddat </em></p>
+<p xml:lang="sme">leat čeahpit. Bahádahkki</p>
+<p xml:lang="nno"><em type="italic">son </em></p>
+<p xml:lang="sme">lea! De dáhpáhuvai,</p>
+<p xml:lang="sme"><em type="italic">ahte rievvár bođii. </em></p>
+<p xml:lang="vep"><em type="italic">P </em></p>
+<p xml:lang="vep">Verbal</p>
+<p xml:lang="sme">Min nieiddat</p>
+<p xml:lang="sme"><em type="italic">leat </em></p>
+<p xml:lang="sme">čeahpit.</p>
+<p xml:lang="smj"><em type="italic">Ale mana! </em></p>
+<p xml:lang="sme">Don</p>
+<p xml:lang="sme"><em type="italic">galggat </em></p>
+<p xml:lang="fit">jaska</p>
+<p xml:lang="sme"><em type="italic">veallát </em></p>
+<p xml:lang="vep">.</p>
+<p xml:lang="sme"><em type="italic">Od </em></p>
+<p xml:lang="rmu">Object</p>
+<p xml:lang="vep">Bija</p>
+<p xml:lang="sme"><em type="italic">buori dola </em></p>
+<p xml:lang="vep">.</p>
+<p xml:lang="sme"><em type="italic">Maid </em></p>
+<p xml:lang="sme">Máret áigu oastit? Dieđát go</p>
+<p xml:lang="sme"><em type="italic">goas mis lea čoahkkin? </em></p>
+<p xml:lang="deu"><em type="italic">A </em></p>
+<p xml:lang="est">Adverbial</p>
+<p xml:lang="sme">Lávvui gullá</p>
+<p xml:lang="sme"><em type="italic">maid </em></p>
+<p xml:lang="sme">uvssot. Doai leahppi</p>
+<p xml:lang="sme"><em type="italic">áŋgirit </em></p>
+<p xml:lang="sme">lohkan sámegiela</p>
+<p xml:lang="sme"><em type="italic">olles dálvvi </em></p>
+<p xml:lang="sme">. Nieida lei</p>
+<p xml:lang="sme"><em type="italic">skuvllas </em></p>
+<p xml:lang="vep">.</p>
+<p xml:lang="sme"><em type="italic">Jus dieđášin </em></p>
+<p xml:lang="sme">, de dajašin.</p>
+<p xml:lang="isl"><em type="italic">HAB </em></p>
+<p>Habitive</p>
+<p xml:lang="sme"><em type="italic">Mus </em></p>
+<p xml:lang="sme">leat ustibat.</p>
+<p xml:lang="sme"><em type="italic">Min bussás </em></p>
+<p xml:lang="sme">leat alit čalmmit.</p>
+<p><em type="italic">fC </em></p>
+<p>Predicative</p>
+<p xml:lang="sme">Min bussás leat</p>
+<p xml:lang="sme"><em type="italic">alit čalmmit </em></p>
+<p xml:lang="sme">. Gáttis ledje</p>
+<p xml:lang="sme"><em type="italic">olbmot </em></p>
+<p xml:lang="vep">.</p>
+<p><em type="italic">Cs </em></p>
+<p>Subject predicative</p>
+<p xml:lang="sme">Min nieiddat leat</p>
+<p xml:lang="sme"><em type="italic">čeahpit </em></p>
+<p xml:lang="vep">.</p>
+<p><em type="italic">Co </em></p>
+<p>Object predikative</p>
+<p xml:lang="sme">Son oaččui dan</p>
+<p xml:lang="sme"><em type="italic">luoikkasin </em></p>
+<p xml:lang="sme">. Gáhkuid son ráhkada</p>
+<p xml:lang="sme"><em type="italic">hui buriid </em></p>
+<p xml:lang="vep">.</p>
+<p><em type="italic">Cp </em></p>
+<p>Predicative predicative</p>
+<p xml:lang="sme">Mus leat gieđat</p>
+<p xml:lang="sme"><em type="italic">nu galbmasat </em></p>
+<p xml:lang="vep">.</p>
+<p xml:lang="ron"><em type="italic">CO </em></p>
+<p>Coordinator</p>
+<p xml:lang="sme"><em type="italic">Muhto </em></p>
+<p xml:lang="sme">Parkera gal deavččastetne.</p>
+<p xml:lang="deu"><em type="italic">SUB </em></p>
+<p xml:lang="nno">Subordinaor</p>
+<p xml:lang="smj"><em type="italic">Jus </em></p>
+<p xml:lang="sme">dieđášin,</p>
+<p xml:lang="ron"><em type="italic">de </em></p>
+<p xml:lang="sme">dajašin. Son lea viššaleabbo</p>
+<p xml:lang="sme"><em type="italic">go </em></p>
+<p xml:lang="smn">mun.</p>
+<p xml:lang="vep"><em type="italic">PART </em></p>
+<p xml:lang="ron">Particle</p>
+<p xml:lang="sme">Boađát</p>
+<p xml:lang="sme"><em type="italic">go </em></p>
+<p xml:lang="vep">odne?</p>
+<p><em type="italic">VOC </em></p>
+<p>Vocative</p>
+<p xml:lang="fkv"><em type="italic">Gilette, </em></p>
+<p xml:lang="sme">boađe donge!</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="est">Phrases</p>
+<p>Sentences may contain groups. Each group (g) contains at least two members - head (H) and dependent (D), the dependent may be an attribute or a complement. The group has only one head, but may have more than one dependent.</p>
+<p>In order to decide which constituent is head and which is dependent, we use semantics, morphology (the head is the word with the grammatical features licensing the phrase), position (the dependent may be moved together with the head) and universality (the word may be the same dependent to the same head irrespective of the grammatical features and position or function the head has in the sentence) (Sammallahti 2005).</p>
+<p>Here are some examples - the group is marked in bold, and the head in red:</p>
+<p>- Mun orun (stuorra vilges <em type="italic">viesus </em>). - the head is the noun. </p>
+<p>- Dovdet go (William <em type="italic">Turnera </em>)? - the head is the proper noun. </p>
+<p>- Dat orru (buorre <em type="italic">fanas </em>). - the head is the adjective. </p>
+<p>- Dát manna (hui <em type="italic">bures </em>). - the head is the adverb. </p>
+<p>- Son čállá girjji (nuoraid <em type="italic">birra </em>). - the head is the postposition and it governs the case of the dependent. </p>
+<p>- ( <em type="italic">Maŋŋil </em>bottu) lei boađus 0-0. - the head is the preposition and it governs the case of the dependent. </p>
+<p>- Don (sáhtát <em type="italic">boahtit </em>) dál. - According to Sammallahti, the head is the auxiliary verb, but we follow VISL practice, and the main verb is the head. </p>
+<p>- Mus leat ( <em type="italic">guokte </em>oambeali). - the head is the numeral, in nominative, it would also work in the sentence without a dependent. </p>
+<p xml:lang="sme">- Mun ledjen (máŋgga <em type="italic">sajis </em>). - the head is the locative noun. </p>
+<p>- Juhán vulggii dohko (viđain <em type="italic">nieiddain </em>). - the head is the comitative noun. The dependent is also in the comitative, with full agreement. </p>
+<p>- Son lea viššaleabbo ( <em type="italic">go </em>mun). - the head is the conjunction. </p>
+<p>The members of the group are:</p>
+<p><em type="italic">Abbreviation </em></p>
+<p><em type="italic">Meaning </em></p>
+<p xml:lang="ron"><em type="italic">Example </em></p>
+<p xml:lang="isl"><em type="italic">H </em></p>
+<p xml:lang="vep">Head</p>
+<p xml:lang="smn">mu</p>
+<p xml:lang="est"><em type="italic">nieida </em></p>
+<p xml:lang="nob"><em type="italic">D </em></p>
+<p xml:lang="dan">Dependent</p>
+<p xml:lang="smn"><em type="italic">mu </em></p>
+<p xml:lang="est">nieida</p>
+<p xml:lang="nno"><em type="italic">g </em></p>
+<p xml:lang="est">Phrase</p>
+<p xml:lang="sme">Dát lea</p>
+<p xml:lang="sme"><em type="italic">mu nieida </em></p>
+<p xml:lang="vep">.</p>
+<p xml:lang="ron"><em type="italic">cl </em></p>
+<p>Clause</p>
+<p xml:lang="sme"><em type="italic">gii lea mu nieida </em></p>
+<p xml:lang="swe"></p>
+<p type="title">Embedded phrase</p>
+<p>One phrase can contain another phrase:</p>
+<p xml:lang="sme"><em type="italic">(Maŋŋil (vuosttaš vuoru)) lei boađus 0-0." </em></p>
+<p>In the innermost phrase <span type="quote" xml:lang="sme">"vuoru"</span> is the head and <span type="quote" xml:lang="sme">"vuosttaš"</span> the dependent. In the outer phrase <span type="quote" xml:lang="sme">"maŋŋil"</span> is the head and <span type="quote" xml:lang="sme">"vuosttaš vuoru"</span> is the dependent.</p>
+<p>or even more levels:</p>
+<p xml:lang="sme"><em type="italic">(Maŋŋil (láivves (vuosttaš vuoru))) lei boađus 0-0. </em></p>
+<p>In the innermost phrase <span type="quote" xml:lang="sme">"vuoru"</span> is the head and <span type="quote" xml:lang="sme">"vuosttaš"</span> the dependent. In the mediate phrase <span type="quote" xml:lang="sme">"vuosttaš vuoru"</span> is the head and <span type="quote" xml:lang="sme">"láivves"</span> the dependent. In the outermost phrase <span type="quote" xml:lang="sme">"maŋŋil"</span> is the head and <span type="quote" xml:lang="sme">"láivves vuosttaš vuoru"</span> is dependent.</p>
+<p>In some cases there may be more than one dependent related to the same head, such as in the sentence: "Mun orun (stuorra vilges viesus)." - or: "Mun (in sáhte boahtit) odne." The relevant phrases are set in parentheses.</p>
+<p xml:lang="swe"></p>
+<p type="title">Discontinous phrases</p>
+<p>Somtimes the phrase is split by other constituents. An example is the phrase <span type="quote" xml:lang="sme">"áiggun vuoššat"</span> in the following sentence, where the phrase is divided by the object: <em type="italic">Dál gal áiggun mulju vuoššat. </em></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="est">Parataxis</p>
+<p>Words, phrases or sentences may be coordinated, realising the same function. The phrase is then marked as <em type="italic">conjunct (CJT) </em>, and it is normally coordinated with a <em type="italic">coordinator (CO) </em>, e.g. <span type="quote" xml:lang="sme">"ja", "dahje"</span>, <span type="quote" xml:lang="vep">"vai"</span>, <span type="quote" xml:lang="sme">"muhto"</span>, <span type="quote" xml:lang="smj">"sihke - ja"</span>, <span type="quote" xml:lang="sme">"(ii) - (ii)ge"</span>. </p>
+<p>In the VISL sentence trees, parataxis is marked with its function, e.g. <span type="quote" xml:lang="nno">"S:par"</span> - there is a paratactical construction functioning as subject, or <span type="quote" xml:lang="nno">"STA:par"</span> - the declarative sentence contains one or more sentences.</p>
+<p>Examples:</p>
+<p xml:lang="sme">- Mii <em type="italic">rievidit ja hearjidit </em>jávohaga. - <span type="quote" xml:lang="vep">"V:par"</span> (=Parataxis as verbal.) </p>
+<p xml:lang="sme">- Mun láibbun <em type="italic">sihke šuhkoládagáhku ja lákcagáhku. </em>- <span type="quote" xml:lang="nno">"Od:par"</span> (=Parataxis as object.) </p>
+<p xml:lang="sme">- <em type="italic">Mu áhkku lea jápmán, muhto mu áddjá eallá velge. </em>- <span type="quote" xml:lang="nno">"STA:par"</span> (=Two coordinate sentences.) </p>
+<p>- <em type="italic">Mánná ii hálit borrat iige juhkat. </em>- <span type="quote" xml:lang="nno">"STA:par"</span> (There is a parataxis between two sentences, but the coordinator is not marked, since <span type="quote" xml:lang="dan">"iige"</span> is a finite verb and thus a part of the verbal of one of the sentences.) </p>
+<p>Some of the conjuncts are part of one of the groups, and then marked with <span type="quote" xml:lang="nno">"X:par"</span>. In this sentence <span type="quote" xml:lang="sme">"sojahit"</span> and <span type="quote" xml:lang="sme">"ráhkadit"</span> belong to the same verbal, and the dependent is the auxiliary <span type="quote" xml:lang="sme">"galgat"</span>:</p>
+<p xml:lang="sme">- Oahpaheaddji čilge govt mii galgat <em type="italic">sojahit sániid ja ráhkadit cealkagiid </em>. - <span type="quote" xml:lang="nno">"X:par"</span> </p>
+<p>We use these abbreviations in connection with coordination:</p>
+<p><em type="italic">Abbreviation </em></p>
+<p><em type="italic">Coordinating constituent </em></p>
+<p xml:lang="ron"><em type="italic">Example </em></p>
+<p xml:lang="ron"><em type="italic">CO </em></p>
+<p>Coordinator</p>
+<p xml:lang="sme">Sii ráhkadedje muohtaádjáid</p>
+<p xml:lang="smj"><em type="italic">ja </em></p>
+<p xml:lang="sme">muohtaeŋgeliid.</p>
+<p><em type="italic">CJT </em></p>
+<p>Conjunct</p>
+<p xml:lang="sme">Sii ráhkadedje</p>
+<p xml:lang="sme"><em type="italic">muohtaádjáid </em></p>
+<p xml:lang="smj">ja</p>
+<p xml:lang="sme"><em type="italic">muohtaeŋgeliid </em></p>
+<p xml:lang="vep">.</p>
+<p xml:lang="rmy-rka"><em type="italic">par </em></p>
+<p xml:lang="est">Parataxis</p>
+<p xml:lang="sme">Sii ráhkadedje</p>
+<p xml:lang="sme"><em type="italic">muohtaádjáid ja muohtaeŋgeliid </em></p>
+<p>. (<span type="quote" xml:lang="nno">"Od:par"</span> when object)</p>
+<p xml:lang="swe"></p>
+<p type="title">Syntactic functions (not ready)</p>
+<p>The Saami textbooks define syntactic functions in many ways, and in some books several central topics are not treated at all. We have compared some of the more important textbooks and grammars, and made some choices. It is, however, important that our definitions will be helpful to the grammar teaching in school, and we are open for comments as to whether we are able to achieve that.</p>
+<p>The <em type="italic">subject </em>and the finite verb normally agree in number and person. But some singular subjects may have a plural meaning, such as <em type="italic">álbmot </em>and in that case, the verb may be in plural. The verbal is in singular if the subject is a mass noun or denotes an abstract concept. If the subject is coordinated, the verbal may agree with the closest constituent, e.g. <em type="italic">Jogo mun dahje don galggat dan bargat. </em>The subject may be a noun, or a pronoun, but also e.g. an infinitive or an embedded clause. </p>
+<p>The <em type="italic">verbal </em>can be simple (just the finite verb), or it can consist of more verbs (finite verb + infinite verb). In principle, clauses always have a verbal, but there are also ellipses without a verbal, such as <em type="italic">Gosa don dál? </em>. It is also possible that the verbal is missing in one of the paratax sentences, when the sentences have the same verb, for example <em type="italic">Unna mánážat dulbmet eatni askki, stuora mánát (dulbmet) fas váimmu. </em></p>
+<p>Infinite verbforms belonging to the verbal are:</p>
+<list><p type="listitem" xml:lang="sme">perfect participle, omd <em type="italic">(lean) boahtán </em></p>
+<p type="listitem">connegative form, omd <em type="italic">(in) boađe </em></p>
+<p type="listitem">actio essive, when it is preceded by <em type="italic">leat </em>, <em type="italic">orrut </em>or a verb of motion, omd <em type="italic">(lea) muohttime, (orru) leamen, (finan) viežžame </em>. </p>
+<p type="listitem">actio locative can belong to the verbal, for example <em type="italic">(heaitit) juhkamis </em></p>
+<p type="listitem">infinitive, for example <em type="italic">(áiggun) boahtit </em></p>
+</list><p>The infinitive is part of the verbal if it follows an auxiliary verb (modal or similar) <em type="italic">(soaittán) boahtit </em>, perfect conditional 2 <em type="italic">(ledjen) dadjat </em>and supine <em type="italic">(amas) nohkkat </em>(Nickel). </p>
+<p>There are certain criteria according to which one can decide whether a verb is an auxiliary verb or not. However, the many differences between auxiliary verbs deter a clear-cut categorization. You can read more about this in Magga 1982.</p>
+<p xml:lang="sme">We treat these verbs as auxiliary verbs: <em type="italic">bállet, berret, dáidit, fertet, galgat, gillet, lávet, sáhttit, seahtit, soaitit, viggat, áigut, álgit, beassat, háliidit, máhttit, nagodit, ollit, orrut, sihtat, veadjit, boahtit </em>. Some of these verbs can be used as main verbs as well, such as <em type="italic">veadjit </em>and <em type="italic">boahtit </em>. </p>
+<p><em type="italic">Object </em>A nominal object will be in the accusative case. The object of an active sentence will be the subject of a corresponding passive sentence. When the verbal consists of a causative verb, the sentence can have two objects, one is the object of the causative suffix and the other is the object of the verb itself, for example <span type="quote" xml:lang="vep">"su" and "dan"</span>: <em type="italic">Mii su dan barggahii? </em>. Nickel regards nouns in other case forms as objects as well, such as <span type="quote" xml:lang="smn">"sutnje"</span>: <em type="italic">Mun liikon sutnje </em>. Others call these adverbials. We do not think that the Nickel analysis is common in schools, so we do not follow it. </p>
+<p xml:lang="sme">Objeaktan sáhttet leat earret nomeniid, maid infinitiiva, oalgecealkka ja cealkkavástta, omd. <span type="quote" xml:lang="sme">"goarrut"</span> <span type="quote" xml:lang="sme">"ahte bussá čohkkái muora vuolde"</span> ja <span type="quote" xml:lang="sme">"bussá čohkkámin muora vuolde"</span>: <em type="italic">Son oahppá goarrut. Sáhpán oinnii ahte bussá čohkkái muora vuolde. Sáhpán oinnii bussá čohkkámin muora vuolde. </em></p>
+<p xml:lang="sme">Muhtumin predikatiiva sáhttá váldit objeavtta, nugo <span type="quote" xml:lang="sme">"guliid"</span>: <em type="italic">Dat lea hui oažžul guliid </em>. </p>
+<p xml:lang="sme"><em type="italic">Habitiiva </em>muitala geas lea dahje gii oažžu. Cealkkalahttu sáhttá leat lokatiiva- dahje illatiivahámis. (Nickel) <em type="italic">Nissonis lea rukses biila. Munnje šattai ahkit. </em></p>
+<p xml:lang="sme"><em type="italic">Predikatiiva </em>eksistentiála ja habitiiva cealkagiin. Eksistentiálacealkagiid nominatiivahápmásaš cealkkalahttu kongruere verbálain, muhto duála ii geavahuvvo, nugo normála cealkagis. Eksistentiála cealkka lea <em type="italic">Jávregáttis ledje guokte olbmo. </em>, muhto <em type="italic">Guokte olbmo leigga jávregáttis. </em>lea normála cealkka. Seammáládje go lea habitiiva cealkka: <em type="italic">Mus leat guokte máná. </em>Dáin cealkagiin livččii vejolaš atnit nominatiivahápmásaš cealkkalahtu subjeaktan, nugo dahkko ođđaseamos oahppogirjjis, Sara 2006, ja nu dahká maid Sammallahti. Mii leat dattetge válljen gohčodit dan predikatiivan, seammáládje go Nickel 1994, Helander ja Ijäs/Turi 1998. </p>
+<p xml:lang="sme"><em type="italic">Subjeaktapredikatiiva </em>muitala makkár subjeakta lea dahje šaddá, dahje manin gohčoduvvo. <em type="italic">Nieiddat leat čeahpit. Son šaddá stuoris. Nieida gohčoduvvo Unna Márehažžan. </em>Nominatiivahápmásaš subjeaktapredikatiiva čuovvu subjeavtta logu. </p>
+<p xml:lang="sme">Sihke Ijäs/Turi 1998 ja Helandera mielde 'stális' lea predikatiiva dan cealkagis: <em type="italic">Niibi lea stális. </em>danne go muitala niibbi iešvuođa, ahte lea stálleniibi. Nickel 1994 mielde dat lea advearbiála. Mii lea maid gohčodan dan subjeaktapredikatiivan danne go dalle boahtá buorebut oidnosii ahte cealkagis <em type="italic">Guksi lea muoras </em>leat guokte dulkoma. Nuppis lea <span type="quote" xml:lang="smj">"muoras"</span> adverbiála (ahte muoras lea guksi) ja nuppis lea <span type="quote" xml:lang="smj">"muoras"</span> subjeaktapredikatiiva (ahte lea muorraguksi). </p>
+<p xml:lang="sme"><em type="italic">Objeaktapredikatiiva </em>sáhttá leat akkusatiiva- ja essiivahápmásaš nomenat ja muitala makkár objeakta lea, omd. <span type="quote" xml:lang="sme">"gonagassan"</span> ja <span type="quote" xml:lang="sme">"hui buriid"</span>: <em type="italic">Sii válljejedje su gonagassan. Gáhkuid son ráhkada hui buriid. </em>Akkusatiivahápmásaš objeaktapredikatiiva čuovvu objeavtta logu. </p>
+<p xml:lang="sme"><em type="italic">Eará predikatiivvat </em>leat Nickel 1994 mielde habitiivapredikatiiva, nugo <span type="quote" xml:lang="sme">"Norgga riikavuložin"</span>: <em type="italic">Makkár vuoigatvuođat dain leat Norgga riikavuložin? </em>ja predikatiivapredikatiiva, omd. <span type="quote" xml:lang="sme">"nu galbmasat"</span>: <em type="italic">Márehis leat gieđat nu galbmasat </em>. </p>
+<p xml:lang="sme"><em type="italic">Advearbiála </em>lea verbála dahje predihkáhta mearus mii ii leat objeakta iige predikatiiva. Dakkár adverbiálaid man haga verbála ii birge, gohčoduvvo deavddaadvearbiálan. Luovos advearbiálat fas eai leat bákkolaččat. (Magga 1980). Advearbiálan sáhttá leat advearba, (partihkkal), nomen, preposišuvdna- ja postposišuvdnagihppu, vearbbaid nominálahámit (vearbagenetiiva, vearbaabessiiva, infinitiiva, gerunda, aktio lokatiiva, perfeakta partisihppa) ja oalgecealkka. </p>
+<p>Examples (Nickel 1994):</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">'Goađis' leat guokte áhku. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun boađán 'bearjadaga'. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun čálán 'mášiinnain'. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Láibi lea 'beavddi alde'. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Son čállá 'čábbát'. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun boađán 'go siđát'. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun bohten 'vácci'. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Dan mun vajáldahtten 'logakeahttá'. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun fillehallen 'dan olbmui'. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Muital 'eadnái'! </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mii doalvvuimet ealu 'guokte miilla' 'dan beaivve'. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Dat bođii 'dán geainnu'. </em></p>
+<p type="listitem" xml:lang="sme"><em type="italic">Boađe sisa 'gáfe juhkat'. </em></p>
+</list><p xml:lang="sme"><em type="italic">Coordinator </em>doaibmá bálddalasti kunjunkšuvdna. Koordináhtor sáhttá bálddalastit cealkagiid, cealkkalahtuid dahje depedeanttaid. omd. <em type="italic">ja, dahje, sihke, vai, muhto </em>. </p>
+<p xml:lang="sme"><em type="italic">Subordináhtorin </em>doaibmá vuollálasti konjunkšuvdna mii laktá oalgecealkaga váldocealkagii, <em type="italic">jus, go, ahte, daningo, vaikko </em>. </p>
+<p xml:lang="deu"><em type="italic">References. </em></p>
+<list><p type="listitem" xml:lang="sme">- Pope/Sara 2004: Eatnigiella - Giellaoahpu váldogirji. Davvi Girji. - Vuođđoskuvllas vuosttašgiela oahppit dábálaččat geavahit dán.</p>
+<p type="listitem" xml:lang="sme">- Nickel 1994: Samisk grammatikk. Rievdaduvvon 2. deaddileapmi. Davvi Girji. - Geavahuvvo universitehta- ja allaskuvladásis.</p>
+<p type="listitem" xml:lang="sme">- Helander 199?: Cealkkaoasit. Sámegiela vuođđofága, Romssa universitehta</p>
+<p type="listitem" xml:lang="sme">- Magga 1980: Giellaoahppa. Dieđut nr.3. Sámi Instituhtta.</p>
+<p type="listitem" xml:lang="sme">- Magga 1992: Modalverb og infinitiv innen verbalet. Prosjektrapport. Dieđut nr 1, Sámi Instituhtta.</p>
+<p type="listitem" xml:lang="sme">- Ijäs/Turi 1998: Sánit teakstan. Davvi Girji. - Geavahuvvo joatkkaskuvllas.</p>
+<p type="listitem" xml:lang="sme">- Sammallahti 2005: Láidehus sámegiela cealkkaoahpa dutkamii. Davvi Girji.</p>
+<p type="listitem" xml:lang="sme">- Sara 2006: Joatkke ain. Davvi Girji.- Geavahuvvo nuoraidskuvllas nubbigiellaoahpahusas.</p>
+</list><p xml:lang="swe"></p>
+<p type="title">About parts of speech - link</p>
+<p>Here you may read about parts of speech</p>
+<p xml:lang="swe"></p>
+<p type="title">Link to sentence analysis</p>
+<p>If you want to analyse sentences, click here</p>
+</body></document>

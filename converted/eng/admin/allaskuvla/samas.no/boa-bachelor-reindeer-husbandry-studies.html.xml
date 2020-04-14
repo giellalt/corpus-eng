@@ -1,48 +1,23 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>BOA Bachelor in Reindeer Husbandry Studies | Sámi University of Applied Sciences</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>508</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/en/studier/boa-bachelor-reindeer-husbandry-studies</origFileName>
-    <parallel_text xml:lang="nob" location="bachelor-i-reindriftsstudier.html"/>
-    <parallel_text xml:lang="sme" location="boa-boazodoallooahpuid-bachelorprogramma.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p xml:lang="isl">BA - Program</p>
-    <p type="title" xml:lang="nno">BOA Bachelor in Reindeer Husbandry Studies</p>
-    <list>
-      <p type="listitem">Language of instruction: North Sámi</p>
-      <p type="listitem" xml:lang="sme">Study place: Guovdageaidnu</p>
-      <p type="listitem">bachelor's degree programme - 3 years full time study</p>
-      <p type="listitem">Studyplan , in North Sámi</p>
-    </list>
-    <p><em type="italic">An exciting study where reindeer husbandry is in focus and prepares you to meet the challenges! </em></p>
-    <p><em type="italic">Contents </em>Bachelor in reindeer studies is a three-year study (180 credits) at Sami University College where immersing yourself in themes about reindeer husbandry and where you end the program with a Bachelor's thesis with a chosen topic. In the study you will learn scientific work and dissemination methods, and how traditional reindeer herders knowledge has a different system of knowledge and perspective. The program also provides the opportunity to immerse themselves in different disciplines. After completing the program, you possess the knowledge on the one hand about working in the Sami reindeer herders, about livelihoods and siida exercise, and on the other side of public reindeer management, governmental regulations and other work. </p>
-    <p>In the 1st  semester  students will become familiar  with  scientific  writing methods  ,  indigenous  philosophy  and  research  methods,  in  three compulsory  subjects of study  in  the Bachelor's degree  (  of 10  credits)  .</p>
-    <p>In the 2nd  semester  there are two  study  courses:  "  The reindeer  and  reindeer  as a resource  "  (20 credits  )  and the first part  of  the study  "  Grazing  pasture  access and  guess  ";  called "  Grazing  Animals  and knowledge of  grazing  "  (10 credits).</p>
-    <p>In  3rd semester  continues  the second part of  the study  "  Grazing  pasture  access and  guess  ";  "  Knowledge of  lands and  conjecture  "  (10 credits)  and  also  "  Siida  governance and  management of  reindeer husbandry  "  (20 credits  ).</p>
-    <p>In the 4th  semester  there are two  studies  "  Reindeer  Legal  introductory course  "  (10 credits)  and  "  reindeer  laws and  jurisprudence  "  (20 credits  ).</p>
-    <p>In the 5th  semester  , you select  which studies  you want to attach  as  part of  your  bachelor's degree  (  it  is  also  possible  and  apply for  courses  approved  by  other studies  or  from other  educational institutions  ).</p>
-    <p>In  the 6th semester  , complete  Bachelor's thesis.</p>
-    <p><em type="italic">Specialisation  opportunities  </em>This  bachelor's degree  qualifies for  further studies  on  certain  master's degrees,  and  also  the master degree  in reindeer  studies which  are being planned  by   Sámi University of Applied Sciences.   </p>
-    <p><em type="italic">Work Opportunities  </em>The program provides  the skills to  work in  various  positions in the public  and private sectors.  Graduates  can  work, for example  within  various administrative  sectors  where  it is needed  knowledge of  cultivated areas  exercise  ,  social  or  Sámi and indigenous  perspectives.  You can also work  like herding  supervisor,  within  assessment  and as a  expert  ,  cultural worker  ,  as secretary of  reindeer husbandry  districts  /  reindeer husbandry  boards  ,  and  also  as a researcher  or  in other  types  of work.   </p>
-    <p>Generally,  the program  useful if  you want to work  in an environment where  reindeer husbandry  cases are processed  and  Sámi  scientific  and academic communities.  Completing  Practical  Pedagogical Education  In  Norway  ,  provides  the  expertise  to teach  reindeer husbandry topics  at  primary  or  secondary school  .</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>BOA Bachelor in Reindeer Husbandry Studies | Sámi University of Applied Sciences</title><genre code="admin"/><author><unknown/></author><wordcount>508</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/en/studier/boa-bachelor-reindeer-husbandry-studies</origFileName><parallel_text xml:lang="nob" location="bachelor-i-reindriftsstudier.html"/><parallel_text xml:lang="sme" location="boa-boazodoallooahpuid-bachelorprogramma.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p xml:lang="isl">BA - Program</p>
+<p type="title" xml:lang="nno">BOA Bachelor in Reindeer Husbandry Studies</p>
+<list><p type="listitem">Language of instruction: North Sámi</p>
+<p type="listitem" xml:lang="sme">Study place: Guovdageaidnu</p>
+<p type="listitem">bachelor's degree programme - 3 years full time study</p>
+<p type="listitem">Studyplan , in North Sámi</p>
+</list><p><em type="italic">An exciting study where reindeer husbandry is in focus and prepares you to meet the challenges! </em></p>
+<p><em type="italic">Contents </em>Bachelor in reindeer studies is a three-year study (180 credits) at Sami University College where immersing yourself in themes about reindeer husbandry and where you end the program with a Bachelor's thesis with a chosen topic. In the study you will learn scientific work and dissemination methods, and how traditional reindeer herders knowledge has a different system of knowledge and perspective. The program also provides the opportunity to immerse themselves in different disciplines. After completing the program, you possess the knowledge on the one hand about working in the Sami reindeer herders, about livelihoods and siida exercise, and on the other side of public reindeer management, governmental regulations and other work. </p>
+<p>In the 1st  semester  students will become familiar  with  scientific  writing methods  ,  indigenous  philosophy  and  research  methods,  in  three compulsory  subjects of study  in  the Bachelor's degree  (  of 10  credits)  .</p>
+<p>In the 2nd  semester  there are two  study  courses:  "  The reindeer  and  reindeer  as a resource  "  (20 credits  )  and the first part  of  the study  "  Grazing  pasture  access and  guess  ";  called "  Grazing  Animals  and knowledge of  grazing  "  (10 credits).</p>
+<p>In  3rd semester  continues  the second part of  the study  "  Grazing  pasture  access and  guess  ";  "  Knowledge of  lands and  conjecture  "  (10 credits)  and  also  "  Siida  governance and  management of  reindeer husbandry  "  (20 credits  ).</p>
+<p>In the 4th  semester  there are two  studies  "  Reindeer  Legal  introductory course  "  (10 credits)  and  "  reindeer  laws and  jurisprudence  "  (20 credits  ).</p>
+<p>In the 5th  semester  , you select  which studies  you want to attach  as  part of  your  bachelor's degree  (  it  is  also  possible  and  apply for  courses  approved  by  other studies  or  from other  educational institutions  ).</p>
+<p>In  the 6th semester  , complete  Bachelor's thesis.</p>
+<p><em type="italic">Specialisation  opportunities  </em>This  bachelor's degree  qualifies for  further studies  on  certain  master's degrees,  and  also  the master degree  in reindeer  studies which  are being planned  by   Sámi University of Applied Sciences.   </p>
+<p><em type="italic">Work Opportunities  </em>The program provides  the skills to  work in  various  positions in the public  and private sectors.  Graduates  can  work, for example  within  various administrative  sectors  where  it is needed  knowledge of  cultivated areas  exercise  ,  social  or  Sámi and indigenous  perspectives.  You can also work  like herding  supervisor,  within  assessment  and as a  expert  ,  cultural worker  ,  as secretary of  reindeer husbandry  districts  /  reindeer husbandry  boards  ,  and  also  as a researcher  or  in other  types  of work.   </p>
+<p>Generally,  the program  useful if  you want to work  in an environment where  reindeer husbandry  cases are processed  and  Sámi  scientific  and academic communities.  Completing  Practical  Pedagogical Education  In  Norway  ,  provides  the  expertise  to teach  reindeer husbandry topics  at  primary  or  secondary school  .</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+</body></document>

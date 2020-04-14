@@ -1,55 +1,26 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>250</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/naringsliv-och-foreningar/bilskrotning/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-bilskrotning.html"/>
-    <parallel_text xml:lang="swe" location="naringsliv-och-foreningar-bilskrotning.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Car scrapping - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Car scrapping</p>
-    <p>All authorised treatment facilities must be approved (authorized) by the County Administrative Board in the county where the business is primarily found. We check that the facility complies with the municipality's environmental requirements and that the applicant has planning permission for the facilities and authorization for the activity.</p>
-    <p>In accordance with the rules for car scrapping stipulated in the Ordinance on car scrapping (SFS 2007:186), the place of car scrapping shall be restored to its original state, if and when the activity ceases. Section 35 also states that the County Administrative Board may require a form of security for the measures deemed necessary. In most counties, a bank guarantee is required, which is calculated from the number of vehicles that may be stored at the same time.</p>
-    <p type="title">Collection facilities</p>
-    <p>End-of life vehicles may be submitted to an authorised treatment facility or a collection facility, that is, a place allocated by the producers to receive the end-of life vehicles. Collection facilities for end-of life vehicles are a result of an EU Directive that clarifies the responsibility of producers for end-of life vehicles. Collection facilities should be reported to the County Administrative Board by the vehicle producers.</p>
-    <p type="title">Contact us</p>
-    <p>County Administrative Board of Dalarna</p>
-    <p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
-    <p>Send message</p>
-    <p>Hide form</p>
-    <p>Your email address (optional)</p>
-    <p>Send a copy of the message to the email address specified</p>
-    <p>Message</p>
-    <p>Enter the code below to send your message</p>
-    <p>Generate new image</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>250</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/naringsliv-och-foreningar/bilskrotning/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="naringsliv-och-foreningar-bilskrotning.html"/><parallel_text xml:lang="swe" location="naringsliv-och-foreningar-bilskrotning.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Car scrapping - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Car scrapping</p>
+<p>All authorised treatment facilities must be approved (authorized) by the County Administrative Board in the county where the business is primarily found. We check that the facility complies with the municipality's environmental requirements and that the applicant has planning permission for the facilities and authorization for the activity.</p>
+<p>In accordance with the rules for car scrapping stipulated in the Ordinance on car scrapping (SFS 2007:186), the place of car scrapping shall be restored to its original state, if and when the activity ceases. Section 35 also states that the County Administrative Board may require a form of security for the measures deemed necessary. In most counties, a bank guarantee is required, which is calculated from the number of vehicles that may be stored at the same time.</p>
+<p type="title">Collection facilities</p>
+<p>End-of life vehicles may be submitted to an authorised treatment facility or a collection facility, that is, a place allocated by the producers to receive the end-of life vehicles. Collection facilities for end-of life vehicles are a result of an EU Directive that clarifies the responsibility of producers for end-of life vehicles. Collection facilities should be reported to the County Administrative Board by the vehicle producers.</p>
+<p type="title">Contact us</p>
+<p>County Administrative Board of Dalarna</p>
+<p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
+<p>Send message</p>
+<p>Hide form</p>
+<p>Your email address (optional)</p>
+<p>Send a copy of the message to the email address specified</p>
+<p>Message</p>
+<p>Enter the code below to send your message</p>
+<p>Generate new image</p>
+</body></document>

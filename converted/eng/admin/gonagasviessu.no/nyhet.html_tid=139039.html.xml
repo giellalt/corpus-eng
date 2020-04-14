@@ -1,61 +1,33 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Official visit to Canada  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>780</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=139039</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=139039.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=139039_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Official visit to Canada</p>
-    <p>Their Royal Highnesses The Crown Prince and Crown Princess started their visit to Canada in the capital of Ottawa on Monday, 7 November. Innovation and climate are high on the agenda.</p>
-    <p xml:lang="koi">08.11.2016</p>
-    <p>After their arrival on Sunday, Crown Prince Haakon and Crown Princess Mette-Marit dined with His Excellency, the Prime Minister of Canada, Justin Trudeau and Ms Sophie Grégoire Trudeau as a prelude to the official programme beginning on Monday. In the course of the four-day visit they will also be travelling to Toronto and St John’s.</p>
-    <p type="title" xml:lang="nob">Rideau Hall</p>
-    <p>Rideau Hall is the official residence of the Governor General of Canada, His Excellency the Right Honourable David Johnston. The Governor General is the representative of Her Majesty Queen Elizabeth in Canada. David Johnston is the 28th successive individual to hold this post.</p>
-    <p>The first item on the day’s agenda was a visit with the Governor General and his wife Her Excellency Sharon Johnston. In the gardens of Rideau Hall, Crown Prince Haakon and Crown Princess Mette-Marit viewed the oak tree planted by Their Majesties King Harald and Queen Sonja during their State Visit to Canada in 2002. The tree is thriving, and the Crown Prince and Crown Princess were given the gift of a seedling.</p>
-    <p>Crown Prince Haakon gave the first speech of the visit during the subsequent working luncheon. "Canadians and Norwegians seem to understand each other, and seek each other out in a multicultural crowd. One reason may be that we both are countries situated far north. Another may be our relationship to nature. The climate is somehow similar in our two countries – and that effects our national character. But most importantly, I believe our close relations are built on a shared belief in fundamental values – democracy, human rights and respect for international law."</p>
-    <p>He also pointed out that the ties between the two countries have been strengthened through immigration: More than 400 000 people of Norwegian descent now live in Canada. Norway and Canada also share much in common as regards natural resources and activities in the Arctic. The Crown Prince stressed the importance of ensuring sustainable development in the northern areas.</p>
-    <p type="title">Traversed the Northwest Passage</p>
-    <p>The Arctic was the topic of the next item on the Crown Prince and Crown Princess’s agenda: a visit to the Canadian Museum of Nature where they took part in the official opening of a seminar on climate change in the Arctic and management of northern marine areas. Polar research provides a foundation for understanding these developments and supplements the knowledge and experience possessed by the Arctic peoples.</p>
-    <p>Crown Prince Haakon and Crown Princess Mette-Marit also had the opportunity to view parts of the <span type="quote">“Extraordinary Arctic”</span> exhibition at the museum. One of the attractions is the Queens’ Lantern which features a giant circumpolar floor map. The Crown Prince and Crown Princess were able to follow in Roald Amundsen’s footsteps and <span type="quote" xml:lang="nob">“traverse”</span> the Northwest Passage.</p>
-    <p>Following the visit to the Museum of Nature, Crown Prince Haakon visited a defence industry seminar to hear a lecture given by the Chief of Defence Staff Norway, Lieutenant General Erik Gustavson, entitled <span type="quote">“Asserting sovereignty in the Arctic and High North”</span>.</p>
-    <p type="title">Reception hosted by the ambassador</p>
-    <p>The day ended late last night Norwegian time with an event hosted by Norway’s Ambassador to Canada, Her Excellency Anne Kari Ovind, at the Canadian Museum of History. The event featured a concert by Norwegian pianist and composer Ola Gjeilo, who performed with two Canadian ensembles. Following the concert, the guests were served Norwegian specialities in the Grand Hall.</p>
-    <p>In her speech during the reception, Crown Princess Mette-Marit drew attention to the invaluable knowledge and experience of indigenous peoples.</p>
-    <p xml:lang="nno"><span type="quote">“ Roald Amundsen was ahead of his time in making use of the best knowledge available. And the knowledge he gained from the local Inuit people was crucial for his many expeditions.  She continued: “ Indigenous peoples possess knowledge and experience worth listening to in many matters. Above all in the matter which is by far the most important for us today: The respect for life and Mother Earth. I hope we all can bear this in mind on this visit – as a common ground, a foundation, for all our bilateral cooperation.  ”</span></p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">Official visit to Canada: Speech at Rideau Hall, Ottawa (Speech)</p>
-      <p type="listitem">Official visit to Canada: Speech at Museum of History, Ottawa (Speech)</p>
-      <p type="listitem">Promoting culture in Toronto (News article)</p>
-      <p type="listitem">Diversity and innovation (News article)</p>
-      <p type="listitem">Visit concluded in St John’s (News article)</p>
-      <p type="listitem" xml:lang="nob">Canada 2016 (Photo album)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nob">Rideau Hall - Canadas generalguvernør</p>
-      <p type="listitem">Canadian Museum of Nature</p>
-      <p type="listitem">Canadian Museum of History</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Official visit to Canada  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>775</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=139039</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=139039.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=139039_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Official visit to Canada</p>
+<p>Their Royal Highnesses The Crown Prince and Crown Princess started their visit to Canada in the capital of Ottawa on Monday, 7 November. Innovation and climate are high on the agenda.</p>
+<p xml:lang="vep">08.11.2016</p>
+<p>After their arrival on Sunday, Crown Prince Haakon and Crown Princess Mette-Marit dined with His Excellency, the Prime Minister of Canada, Justin Trudeau and Ms Sophie Grégoire Trudeau as a prelude to the official programme beginning on Monday. In the course of the four-day visit they will also be travelling to Toronto and St John’s.</p>
+<p type="title" xml:lang="nob">Rideau Hall</p>
+<p>Rideau Hall is the official residence of the Governor General of Canada, His Excellency the Right Honourable David Johnston. The Governor General is the representative of Her Majesty Queen Elizabeth in Canada. David Johnston is the 28th successive individual to hold this post.</p>
+<p>The first item on the day’s agenda was a visit with the Governor General and his wife Her Excellency Sharon Johnston. In the gardens of Rideau Hall, Crown Prince Haakon and Crown Princess Mette-Marit viewed the oak tree planted by Their Majesties King Harald and Queen Sonja during their State Visit to Canada in 2002. The tree is thriving, and the Crown Prince and Crown Princess were given the gift of a seedling.</p>
+<p>Crown Prince Haakon gave the first speech of the visit during the subsequent working luncheon. "Canadians and Norwegians seem to understand each other, and seek each other out in a multicultural crowd. One reason may be that we both are countries situated far north. Another may be our relationship to nature. The climate is somehow similar in our two countries – and that effects our national character. But most importantly, I believe our close relations are built on a shared belief in fundamental values – democracy, human rights and respect for international law."</p>
+<p>He also pointed out that the ties between the two countries have been strengthened through immigration: More than 400 000 people of Norwegian descent now live in Canada. Norway and Canada also share much in common as regards natural resources and activities in the Arctic. The Crown Prince stressed the importance of ensuring sustainable development in the northern areas.</p>
+<p type="title">Traversed the Northwest Passage</p>
+<p>The Arctic was the topic of the next item on the Crown Prince and Crown Princess’s agenda: a visit to the Canadian Museum of Nature where they took part in the official opening of a seminar on climate change in the Arctic and management of northern marine areas. Polar research provides a foundation for understanding these developments and supplements the knowledge and experience possessed by the Arctic peoples.</p>
+<p>Crown Prince Haakon and Crown Princess Mette-Marit also had the opportunity to view parts of the <span type="quote">“Extraordinary Arctic”</span> exhibition at the museum. One of the attractions is the Queens’ Lantern which features a giant circumpolar floor map. The Crown Prince and Crown Princess were able to follow in Roald Amundsen’s footsteps and <span type="quote" xml:lang="nob">“traverse”</span> the Northwest Passage.</p>
+<p>Following the visit to the Museum of Nature, Crown Prince Haakon visited a defence industry seminar to hear a lecture given by the Chief of Defence Staff Norway, Lieutenant General Erik Gustavson, entitled <span type="quote">“Asserting sovereignty in the Arctic and High North”</span>.</p>
+<p type="title">Reception hosted by the ambassador</p>
+<p>The day ended late last night Norwegian time with an event hosted by Norway’s Ambassador to Canada, Her Excellency Anne Kari Ovind, at the Canadian Museum of History. The event featured a concert by Norwegian pianist and composer Ola Gjeilo, who performed with two Canadian ensembles. Following the concert, the guests were served Norwegian specialities in the Grand Hall.</p>
+<p>In her speech during the reception, Crown Princess Mette-Marit drew attention to the invaluable knowledge and experience of indigenous peoples.</p>
+<p xml:lang="swe"><span type="quote">“ Roald Amundsen was ahead of his time in making use of the best knowledge available. And the knowledge he gained from the local Inuit people was crucial for his many expeditions.  She continued: “ Indigenous peoples possess knowledge and experience worth listening to in many matters. Above all in the matter which is by far the most important for us today: The respect for life and Mother Earth. I hope we all can bear this in mind on this visit – as a common ground, a foundation, for all our bilateral cooperation.  ”</span></p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">Official visit to Canada: Speech at Rideau Hall, Ottawa (Speech)</p>
+<p type="listitem">Official visit to Canada: Speech at Museum of History, Ottawa (Speech)</p>
+<p type="listitem">Promoting culture in Toronto (News article)</p>
+<p type="listitem">Diversity and innovation (News article)</p>
+<p type="listitem">Visit concluded in St John’s (News article)</p>
+<p type="listitem" xml:lang="nob">Canada 2016 (Photo album)</p>
+</list><list><p type="listitem" xml:lang="nob">Rideau Hall - Canadas generalguvernør</p>
+<p type="listitem">Canadian Museum of Nature</p>
+<p type="listitem">Canadian Museum of History</p>
+</list></body></document>

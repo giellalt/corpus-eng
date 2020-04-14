@@ -1,40 +1,12 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - General information</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="fin"/>
-    <wordcount>149</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=381&amp;lang=english</origFileName>
-    <parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=381_lang=finnish.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=381_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=381_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>General information</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Set in the heart of Sápmi in a unique natural landscape on the shore of Lake Inari, the Sámi Cultural Centre, Sajos, is the largest conference and events venue in northern Lapland. Modern conference premises, facilities and technology go hand in hand with genuine, living Sámi culture.</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Download Sajos congress brochure (Finnish-English)</p>
-    <p>Download Sajos brochure (English), 1,37 Mt</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Sajos offers facilities of an international standard for meetings, training events, and conferences. The building is modern and visually impressive. Lighting and sound technology and furnishings can transform the space to suit any event. At Sajos the lives of Europe´s only indigenous people go on alongside those of conference and congress guests. Sajos engages all the senses and the natural wilderness of the far north is the perfect setting for learning and experiences at an unhurried pace. If you´re looking to provide something different for your team, step inside.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - General information</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>149</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=381&amp;lang=english</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=381_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=381_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=381_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>General information</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Set in the heart of Sápmi in a unique natural landscape on the shore of Lake Inari, the Sámi Cultural Centre, Sajos, is the largest conference and events venue in northern Lapland. Modern conference premises, facilities and technology go hand in hand with genuine, living Sámi culture.</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Download Sajos congress brochure (Finnish-English)</p>
+<p>Download Sajos brochure (English), 1,37 Mt</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Sajos offers facilities of an international standard for meetings, training events, and conferences. The building is modern and visually impressive. Lighting and sound technology and furnishings can transform the space to suit any event. At Sajos the lives of Europe´s only indigenous people go on alongside those of conference and congress guests. Sajos engages all the senses and the natural wilderness of the far north is the perfect setting for learning and experiences at an unhurried pace. If you´re looking to provide something different for your team, step inside.</p>
+</body></document>

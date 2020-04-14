@@ -1,52 +1,23 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>379</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/energi/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-energi.html"/>
-    <parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-energi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Energy - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Energy</p>
-    <p>Photo: Stefan Rystedt</p>
-    <p><em type="italic">The County Administrative Board coordinates regional efforts for long-term, safe and sustainable energy. In collaboration with the county's stakeholders, we have developed a climate and energy strategy that shows how we will work to meet Sweden's climate change targets and energy conversion. </em></p>
-    <p>Renewable energy sources such as wind power, solar and bioenergy are an important step towards a sustainable society. But to address the energy conversion we also need to use energy much more efficiently than today, particularly with regard to transport, heating and cooling, lighting and industrial processes. We need both new technology and behavioural change. The County Administrative Board runs various projects to promote sustainable development and draw up the basis for planning, in order to, inter alia, support municipal energy planning.</p>
-    <p type="title">Environmental permits and supervision</p>
-    <p>The County Administrative Board's Environmental Permit Office decides on the permits for large power facilities such as wind farms and district heating plants. The Environmental Permit Office also sets the operating conditions. With regard to the construction of power and gas lines, we monitor issues related to health and safety and ensure that the natural and cultural assets are not damaged. The willingness and ability to conserve energy are important aspects, both when we grant permission for various activities and for ensuring compliance with environmental legislation. Supervision is also conducted by the municipalities.</p>
-    <p type="title">Energy grants</p>
-    <p>There are various types of government grants for energy efficiency and the shift to renewable energy, and the County Administrative Board decides on a number of them. Grants to farmers and other entrepreneurs may be geared towards those who want to grow energy crops, or carry out energy-related investments.</p>
-    <p type="title">Business development</p>
-    <p>The County Administrative Board supports the development of clean and efficient technology within industry, and we support the increased production of renewable energy. Two challenges are to encourage companies to focus on corporate development from an environmental perspective and to use environmental considerations as a means of increasing their competitiveness.</p>
-    <p type="title">Urban planning</p>
-    <p>Sustainable community planning is vital for the long-term management of climate and energy objectives. The County Administrative Board can show how energy and climate issues can be integrated, in particular with regard to regional transportation planning and the physical planning of the municipal authorities.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>379</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/energi/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-energi.html"/><parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-energi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Energy - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Energy</p>
+<p>Photo: Stefan Rystedt</p>
+<p><em type="italic">The County Administrative Board coordinates regional efforts for long-term, safe and sustainable energy. In collaboration with the county's stakeholders, we have developed a climate and energy strategy that shows how we will work to meet Sweden's climate change targets and energy conversion. </em></p>
+<p>Renewable energy sources such as wind power, solar and bioenergy are an important step towards a sustainable society. But to address the energy conversion we also need to use energy much more efficiently than today, particularly with regard to transport, heating and cooling, lighting and industrial processes. We need both new technology and behavioural change. The County Administrative Board runs various projects to promote sustainable development and draw up the basis for planning, in order to, inter alia, support municipal energy planning.</p>
+<p type="title">Environmental permits and supervision</p>
+<p>The County Administrative Board's Environmental Permit Office decides on the permits for large power facilities such as wind farms and district heating plants. The Environmental Permit Office also sets the operating conditions. With regard to the construction of power and gas lines, we monitor issues related to health and safety and ensure that the natural and cultural assets are not damaged. The willingness and ability to conserve energy are important aspects, both when we grant permission for various activities and for ensuring compliance with environmental legislation. Supervision is also conducted by the municipalities.</p>
+<p type="title">Energy grants</p>
+<p>There are various types of government grants for energy efficiency and the shift to renewable energy, and the County Administrative Board decides on a number of them. Grants to farmers and other entrepreneurs may be geared towards those who want to grow energy crops, or carry out energy-related investments.</p>
+<p type="title">Business development</p>
+<p>The County Administrative Board supports the development of clean and efficient technology within industry, and we support the increased production of renewable energy. Two challenges are to encourage companies to focus on corporate development from an environmental perspective and to use environmental considerations as a means of increasing their competitiveness.</p>
+<p type="title">Urban planning</p>
+<p>Sustainable community planning is vital for the long-term management of climate and energy objectives. The County Administrative Board can show how energy and climate issues can be integrated, in particular with regard to regional transportation planning and the physical planning of the municipal authorities.</p>
+</body></document>

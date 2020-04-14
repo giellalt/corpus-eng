@@ -1,270 +1,224 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Adverbs</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>2049</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/gramm/adverb.eng.html</origFileName>
-    <parallel_text xml:lang="nob" location="adverb.nob.html"/>
-    <parallel_text xml:lang="sme" location="adverb.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="deu">Adverbs</p>
-    <list>
-      <p type="listitem">Spatial adverbs</p>
-      <p type="listitem">Temporal adverbs</p>
-      <p type="listitem" xml:lang="nob">Manner adverbs</p>
-      <p type="listitem">Other adverbs</p>
-    </list>
-    <p>Back to grammar main page .</p>
-    <p>Adverbs are words that answer the questions where, when and how an action takes place. Most adverbs cannot be inflected but some adverbs do have small inflectional paradigms.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Spatial adverbs</p>
-    <p>Spatial adverbs indicate where an action occurs. These adverbs can have small paradigms that allow for differentiating between the illative and locative, for instance. Words such as <em type="italic">doppe dáppe dieppe </em>have locative meanings, while words such as <em type="italic">dohko deike diehko </em>have illative meanings. Words such as <em type="italic">dákko, duokko, diekko </em>also have locative or prolative meanings. They are used to indicate a delimited area or the path of movement. </p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'dáppe' </em>. (Elle is here.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Elle lea fárren 'deike' </em>. (Elle has moved here.) </p>
-      <p type="listitem"><em type="italic">Leat go 'dieppe' riššat </em>? (Do you have matches over there?) </p>
-      <p type="listitem"><em type="italic">Mun buvttán 'diehko' riššaid </em>. (I'll bring over the matches.) </p>
-      <p type="listitem"><em type="italic">'Doppe' gávdnojit gearbmašat </em>. (There are snakes there.) </p>
-      <p type="listitem"><em type="italic">De gal in háliit 'dohko' vuolgit </em>. (Then I don't want to go there.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Olbmot galget 'dákko' vázzit </em>. </p>
-      <p type="listitem">(People are supposed to walk here (along this road).)</p>
-    </list>
-    <p>Points on the compass and other words of orientation can also be used for deriving spatial adverbs, e.g. <em type="italic">davvin davás lullin lulás </em>. It should be noted that it is the words ending in 's' that have an illative meaning. Here are some examples: </p>
-    <list>
-      <p type="listitem"><em type="italic">Ánte orru 'davvin' </em>. (Ánte lives up north.) </p>
-      <p type="listitem"><em type="italic">Ánte fárre 'davás' </em>. (Ánte is moving up north.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Sárá lea 'olgun' </em>. (Sárá is outside.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Sárá manná 'olggos' </em>. (Sárá is going outside.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ivvár lea 'vuollin' </em>. (Ivvár is downstairs.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ivvár manná 'vulos' </em>. (Ivvár is going downstairs.) </p>
-      <p type="listitem"><em type="italic">Mánát stohket 'badjin' </em>. (The children are playing upstairs.) </p>
-      <p type="listitem"><em type="italic">Mánát vihke 'bajás' </em>. (The children ran upstairs.) </p>
-      <p type="listitem"><em type="italic">Sii leat guhká ássan 'lullin'. </em>(They have been living down south for a long time.) </p>
-      <p type="listitem"><em type="italic">In fárre 'lulás' </em>. (I'm not moving down south.) </p>
-      <p type="listitem"><em type="italic">Eallu vulggii 'luksa' </em>. (The reindeer herd headed south.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Máddin' šaddet juohke lágan šattut </em>. </p>
-      <p type="listitem">(There are all kinds of plants growing down south.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Guoros bursa 'máttás' doalvu </em>. </p>
-      <p type="listitem">(An empty wallet will take you south.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Oarjin' bohtet čeahpes olbmot </em>. </p>
-      <p type="listitem">(Skilled people come from the west.)</p>
-      <p type="listitem"><em type="italic">Mii fertet 'oarjjás' johttát </em>. (We must move westward.) </p>
-      <p type="listitem"><em type="italic">In gille 'siste' čohkkát </em>. (I don't like to sit inside.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Allet mana vuos 'sisa' </em>. (Don't go in yet.) </p>
-      <p type="listitem"><em type="italic">'Nuortan' bohte viisásat </em>. (Wise men came from the East.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Eat berre 'nuorttas' ribahit ealu </em>. </p>
-      <p type="listitem">(We mustn't let the herd get away to the east.)</p>
-      <p type="listitem"><em type="italic">Don it njuiken 'guhkás' </em>. (You didn't jump far.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Don leat nu 'guhkkin', muhto liikká nu 'lahka' </em>. </p>
-      <p type="listitem">(You are so far away, and yet so near.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Gullet, mánát! Allet viegat 'duohkot deike' </em>! </p>
-      <p type="listitem">(Listen here, children! Don't run here and there (hither and thither).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Nu moai vuojašeimme 'ruoktot ovdan' </em>. </p>
-      <p type="listitem">(Thus the two of us drove back and forth.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ihttin mii vuoddját 'ruoktot' </em>. </p>
-      <p type="listitem">(In the morning we'll drive home.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Ruovttus' lei dievas moivi </em>. </p>
-      <p type="listitem">(At home there was total chaos.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mii vuoddjáimet 'ruovttus' golmma áigge </em>. </p>
-      <p type="listitem">(We left home (driving) at three o'clock.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Nuppe beaivvi juo máhcaiga 'ruovttoluotta' </em>. </p>
-      <p type="listitem">(The very next day, the two of them came back.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Álggos son lávkii 'ovddos' ja dasto guokte lávkki 'maŋos' </em>. </p>
-      <p type="listitem">(First he took one step forwards and then two steps backwards.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mánát vázze 'gitta' Guovdageidnui </em>. </p>
-      <p type="listitem">(The children walked all the way to Guovdageaidnu.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ovllá vujii máŋgii 'ovddos maŋos' biillain ovdal go deaivvai njuolga sázuid gaskii </em>. </p>
-      <p type="listitem">(Ovllá drove the car back and forth several times before he got it parked between the straight lines.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dal fertet 'ovddosguvlui' jurddašit </em>. </p>
-      <p type="listitem">(Now, we have to think ahead.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Genaid bokte sáhttá guorrat olmmošsoga 'maŋosguvlui' </em>. </p>
-      <p type="listitem">(With the help of genes we can follow mankind back in time.)</p>
-      <p type="listitem"><em type="italic">Don čuoččut mu 'ovddas' </em>. (You are standing in my way.) </p>
-    </list>
-    <p>North Saami has the interrogative adverbs <em type="italic">gosa gos gokko </em>. All of these can be translated in 'where'. The word <em type="italic">gosa </em>has an illative meaning (where ... to), while <em type="italic">gos </em>and <em type="italic">gokko </em>have varied locative meanings. The word <em type="italic">gokko </em>is used when speaking of a delimited area. </p>
-    <list>
-      <p type="listitem"><em type="italic">'Gosa' dii áigubehtet fárret </em>? (Where are you planning to move to?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Gos' don leat čuohpaduvvon </em>. </p>
-      <p type="listitem">(Where (what hospital) were you operated on?)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Gokko' don leat čuohpaduvvon </em>? </p>
-      <p type="listitem">(Where (where on the body) were you operated on?)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Gos' don boađát? Mun boađán vuovddis </em>. </p>
-      <p type="listitem">(Where are you coming from? I'm coming from the woods.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Gokko' don bohtet? Mun bohten bajit luotta </em>. </p>
-      <p type="listitem">(What way did you come? I came on the upper road.)</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Temporal adverbs</p>
-    <p>Temporal adverbs indicate when an event happens. Here are a few examples <em type="italic">dál dalle eske ikte dolin </em>. </p>
-    <p>Temporal adverbs can also be derived from the names of seasons, for example: <em type="italic">dálvet geasset giđđat čakčat </em>. Interrogative adverbs are <em type="italic">goas goassážii </em>, which can be translated as 'when' and 'by when'. When the question contains the word <em type="italic">goassážii </em>, the answer should have a temporal expression in the illative. </p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Goas' mii galgat geargat? Na 'ihttin' </em>. </p>
-      <p type="listitem">(When are we supposed to be finished? Tomorrow.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Goassážii' mii galgat geargat? Na 'ihttážii' </em>. </p>
-      <p type="listitem">(By when are we supposed to be finished? (By) tomorrow.)</p>
-    </list>
-    <p>Additional example sentences:</p>
-    <list>
-      <p type="listitem"><em type="italic">Mii geargat 'odne' </em>. (We will finish today.) </p>
-      <p type="listitem"><em type="italic">'Ihttin' álgá juovlaluopmu </em>. (Tomorrow, Christmas vacation starts.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun oidnen Sárá 'ikte' </em>. (I saw Sárá yesterday.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mii fitnat 'dávjá' Romssas </em>. (We visit Tromsø often.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Áhkku lea 'hárve' buohcci </em>. (Grandmother is seldom sick.) </p>
-      <p type="listitem"><em type="italic">Moai náitaleimme 'diibmá' </em>. (The two of us got married last year.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Don leat 'álo' heajos mielas </em>. (You're always in bad mood.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Muhtomin' in ipmir maid son dadjá </em>. </p>
-      <p type="listitem">(Sometimes I don't understand what he is saying.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Dálvet' sáhttá čuoigat, muhto 'geasset' gal ii sáhte </em>. </p>
-      <p type="listitem">(In the winter time you can go skiing but in the summer you can't.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Giđđat' sáhttet leat dulvvit </em>. </p>
-      <p type="listitem">(In the spring time it might flood.)</p>
-      <p type="listitem"><em type="italic">'Čakčat' álgá skuvla </em>. (In the autumn school starts.) </p>
-      <p type="listitem"><em type="italic">Moai letne 'áigá' geargan </em>. (The two of us were finished a long time ago.) </p>
-      <p type="listitem"><em type="italic">Mun oidnen su 'eske' </em>. (I saw her a little while ago.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Dolin' ledje mádjigat dáppe </em>. </p>
-      <p type="listitem">(In the olden days there were beavers here.)</p>
-      <p type="listitem"><em type="italic">Moai letne 'easka' boahtán </em>. (The two of us have just arrived.) </p>
-      <p type="listitem"><em type="italic">Mun vuolggán 'dál' </em>. (I'm leaving now.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Dalle' go áddjá elii, láviimet juoŋastit </em>. </p>
-      <p type="listitem">(In grandfather's day, we used to run nets under the ice to catch fish.)</p>
-      <p type="listitem"><em type="italic">Mii leat 'guhká' vuordán </em>. (We've been waiting a long time.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Sámmol liiko 'ihkku' johtit </em>. </p>
-      <p type="listitem">(Sámmol likes to travel at night.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Iđđes' lei guoldu, muhto 'beaivet' de firtii </em>. </p>
-      <p type="listitem">(In the morning the snow was drifting, but during the day it cleared up.)</p>
-      <p type="listitem"><em type="italic">'Goas' dus lea riegádanbeaivi </em>? (When is your birthday?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Eahkes' lei ipmilbálvalus girkus </em>. </p>
-      <p type="listitem">(In the evening, vespers were held at the church.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Manne it leat 'ovdal' boahtán </em>? </p>
-      <p type="listitem">(Why haven't you come sooner?)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Oasseváldit bohtet 'maŋŋelaš' </em>. </p>
-      <p type="listitem">(The participants will come later.)</p>
-      <p type="listitem"><em type="italic">Doavttir bođii 'árrat' bargui </em>. (The doctor came to work early.) </p>
-      <p type="listitem"><em type="italic">Mánát leat 'maŋŋit' nohkkan </em>. (The children went to bed late.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Reaŋga lea 'čađat' dájuhan du </em>. </p>
-      <p type="listitem">(The hired hand has been tricking you all along.)</p>
-      <p type="listitem"><em type="italic">Boađe sisa 'dakkaviđe' </em>! (Come in right now!) </p>
-      <p type="listitem"><em type="italic">Mii álgit 'ovttatmano' </em>. (We'll get started immediately.) </p>
-      <p type="listitem"><em type="italic">Manne don 'ovtto' biegut </em>? (How come you're always complaining?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Lean 'duollet dálle' bargan teáhteris </em>. </p>
-      <p type="listitem">(I've worked at the theater off and on.)</p>
-      <p type="listitem"><em type="italic">Leat go 'ain' suhtus </em>? (Are you still angry?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun lean 'juo' geargan </em>. (I'm already finished.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Leat go don 'goassege' leamaš Ruoššas </em>? </p>
-      <p type="listitem">(Have you ever been to Russia?)</p>
-      <p type="listitem"><em type="italic">Goas don 'fas' boađát </em>?(When are you going to come next time?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Dasto' ferten eará čovdosa gávdnat </em>. </p>
-      <p type="listitem">(In that case I'll have to find a different solution.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Leat go du buvssat 'vuot' duolvan </em>? </p>
-      <p type="listitem">(Have you gotten your pants dirty again?</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Soai olliiga mollii 'oktanaga' </em>. </p>
-      <p type="listitem">(They reached the finish line at the same time.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Álggos' mun in ipmirdan maidege </em>. </p>
-      <p type="listitem">(At first I didn't understand anything.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Loahpas' mii vuolláneimmet </em>. </p>
-      <p type="listitem">(In the end we gave up.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Maŋážassii' son ollii muhtun stobu lusa </em>. </p>
-      <p type="listitem">(Finally he came to a cabin.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Dađistaga' mii hárjáneimmet buollašii </em>. </p>
-      <p type="listitem">(Gradually we got used to the freezing weather.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun lean barggus 'gitta' bearjadahkii </em>. </p>
-      <p type="listitem">(I'm at work all the way until Friday.)</p>
-    </list>
-    <p>Note: in North Saami 'never' is expressed with the combination <span type="quote">"verb of negation"</span> + <span type="quote" xml:lang="sme">"goassege"</span>:</p>
-    <list>
-      <p type="listitem"><em type="italic">In leat goassege meara oaidnán </em>. (I've never seen the sea.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Son ii leat goassege duhtavaš </em>. (He's never satisfied.) </p>
-      <p type="listitem"><em type="italic">Moai ean vuollán goassege </em>. (The two of us never give up.) </p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="nob">Manner adverbs</p>
-    <p>Adverbs of manner indicate how an action is carried out or how something happens. North Saami has an interrogative adverb, 'movt', which can be translated as 'how'. The answer might include the words <em type="italic">ná nuo nie nu </em>, for example. The word <em type="italic">ná </em>can be translated as 'like this', and the words <em type="italic">nuo nie nu </em>'like that'. Here are some examples: </p>
-    <list>
-      <p type="listitem"><em type="italic">Mun čálán 'ná' </em>. (I write like this.) </p>
-      <p type="listitem"><em type="italic">'Movt' duinna manná </em>? (How are things with you?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Movt' don mátkkoštat Romsii </em>? </p>
-      <p type="listitem">(How do you travel to Tromso?)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Sárá buohccái 'fáhkka' </em>. (Sara suddenly fell ill.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Fáhkkestaga' iđistii golleloddi </em>. </p>
-      <p type="listitem">(All of a sudden a gold bird appeared.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Fabrihkkabargit ledje 'suoli' doallan čoahkkima </em>. </p>
-      <p type="listitem">(The factory workers had held a meeting in secrecy.)</p>
-      <p type="listitem"><em type="italic">Ale čále nu 'summal' </em>. (Don't write so sloppy.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Oahpaheaddji lei 'summal' válljen vehkiid </em>. </p>
-      <p type="listitem">(The teacher had chosen helpers at random.)</p>
-      <p type="listitem"><em type="italic">Mun boađán 'okto' </em>. (I'm coming alone.) </p>
-      <p type="listitem"><em type="italic">Uksa lea 'gitta' </em>. (The door is closed.) </p>
-      <p type="listitem"><em type="italic">Oarra lea reagas 'gitta' </em>. (The rope is tied to the sleigh.) </p>
-    </list>
-    <p>You can also derive adverbs of manner from adjectives. From the adjective <em type="italic">buorre </em>'good' we can derive the adverb <em type="italic">bures </em>'well'. There are rules for how to derive adverbs from other adjectives. The endings '-t' or '-et' are added to contraction adjectives and vowel stem adjectives to derive adverbs. Make note that the '-et' ending causes diphthong simplification. The '-it' ending is used for deriving adverbs from adjectives with consonant stems. </p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Bohtosat leat 'buorit'. Don leat bargan 'bures' </em>. </p>
-      <p type="listitem">(The results are good. You've done a good job.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dus lea 'čáppa' čála. Don čálát 'čábbát' </em>. </p>
-      <p type="listitem">(You have nice handwriting. You write nicely.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ánte lea 'njoahci'. Ánte bargá 'njoazit/njozet' </em>. </p>
-      <p type="listitem">(Ánte is slow. Ánte works slowly.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ánte lea 'jođán'. Ánte bargá 'jođánit' </em>. </p>
-      <p type="listitem">(Ánte is fast. Ánte works fast.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dus lea 'vuogas' čilgehus. Don čilget 'vuohkkasit' </em>. </p>
-      <p type="listitem">(You have a clear explanation. You explain things in a clear manner.)</p>
-    </list>
-    <p>Adverbs can also be derived from comparative and superlative adjectives in the same manner:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dus lea 'čábbát' čála go mus. Don čálát 'čábbábut' go mun </em>. </p>
-      <p type="listitem">(You have nicer handwriting than I do. You write more nicely than I do.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ánte lea 'jođáneamos'. Ánte bargá jođánepmosit </em>. </p>
-      <p type="listitem">(Ánte is the quickest. Ánte works the most quickly.)</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Other adverbs</p>
-    <p>Adverbs can also express cause or degree. Adverbs indicating cause are, for example: <em type="italic">manne </em>'why', <em type="italic">danne </em>'because, therefore'. Adverbs expressing degree, modify adjectives and adverbs. These are words, such as <em type="italic">hui </em>'extremely', <em type="italic">oalle </em>'quite', <em type="italic">oba </em>'rather', <em type="italic">menddo </em>'too'. </p>
-    <list>
-      <p type="listitem"><em type="italic">Eadni lea 'hui' váibbas </em>. (Mother is extremely tired.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Eadni lea 'oalle' váibbas </em>. (Mother is quite tired.) </p>
-      <p type="listitem"><em type="italic">Eadni lea 'oba' váibbas </em>. (Mother is rather tired.) </p>
-      <p type="listitem"><em type="italic">Eadni lea 'menddo' váibbas </em>. (Mother is too tired.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Manne' leat deike boahtán </em>? </p>
-      <p type="listitem">(Why did you come here?)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Danne' mii leat maŋŋonan </em>. </p>
-      <p type="listitem">(That is why we are late.)</p>
-      <p type="listitem"><em type="italic">Leat go 'áibbas' gáigi </em>? (Are you totally mad?) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dan gal lean 'oalát' vajálduhttán </em>. </p>
-      <p type="listitem">(I had totally forgotten that)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Diesa mun gal 'ille' jáhkán </em>. </p>
-      <p type="listitem">(Now that is something I hardly believe.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Odne gal in 'báljo' astta </em>. </p>
-      <p type="listitem">(Today, I don't have much time.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun lean 'veahá' beahtahallan </em>. </p>
-      <p type="listitem">(I'm a little disappointed.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Moai 'measta' vulge dohko </em>. </p>
-      <p type="listitem">(The two of us were just about to go there.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Moai 'goasii' báziime busses </em>. </p>
-      <p type="listitem">(The two of us nearly missed the bus.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">In gille 'šat' diggot </em>. </p>
-      <p type="listitem">(I don't feel like quarreling any more.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mánát eai jeagadan su 'obanasiige' </em>. </p>
-      <p type="listitem">(The children didn't obey him at all.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Don dulkot buot 'aivve' bahá guvlui </em>. </p>
-      <p type="listitem">(You only give everything a negative interpretation.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mus leat 'dušše' guokte máná </em>. </p>
-      <p type="listitem">(I only have two children.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Muital 'juste' movt dat lei </em>! </p>
-      <p type="listitem">(Tell (us) exactly how it was!)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Adverbs</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>2049</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/adverb.eng.html</origFileName><parallel_text xml:lang="nob" location="adverb.nob.html"/><parallel_text xml:lang="sme" location="adverb.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="deu">Adverbs</p>
+<list><p type="listitem">Spatial adverbs</p>
+<p type="listitem">Temporal adverbs</p>
+<p type="listitem" xml:lang="nob">Manner adverbs</p>
+<p type="listitem">Other adverbs</p>
+</list><p>Back to grammar main page .</p>
+<p>Adverbs are words that answer the questions where, when and how an action takes place. Most adverbs cannot be inflected but some adverbs do have small inflectional paradigms.</p>
+<p xml:lang="swe"></p>
+<p type="title">Spatial adverbs</p>
+<p>Spatial adverbs indicate where an action occurs. These adverbs can have small paradigms that allow for differentiating between the illative and locative, for instance. Words such as <em type="italic">doppe dáppe dieppe </em>have locative meanings, while words such as <em type="italic">dohko deike diehko </em>have illative meanings. Words such as <em type="italic">dákko, duokko, diekko </em>also have locative or prolative meanings. They are used to indicate a delimited area or the path of movement. </p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'dáppe' </em>. (Elle is here.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Elle lea fárren 'deike' </em>. (Elle has moved here.) </p>
+<p type="listitem"><em type="italic">Leat go 'dieppe' riššat </em>? (Do you have matches over there?) </p>
+<p type="listitem"><em type="italic">Mun buvttán 'diehko' riššaid </em>. (I'll bring over the matches.) </p>
+<p type="listitem"><em type="italic">'Doppe' gávdnojit gearbmašat </em>. (There are snakes there.) </p>
+<p type="listitem"><em type="italic">De gal in háliit 'dohko' vuolgit </em>. (Then I don't want to go there.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Olbmot galget 'dákko' vázzit </em>. </p>
+<p type="listitem">(People are supposed to walk here (along this road).)</p>
+</list><p>Points on the compass and other words of orientation can also be used for deriving spatial adverbs, e.g. <em type="italic">davvin davás lullin lulás </em>. It should be noted that it is the words ending in 's' that have an illative meaning. Here are some examples: </p>
+<list><p type="listitem"><em type="italic">Ánte orru 'davvin' </em>. (Ánte lives up north.) </p>
+<p type="listitem"><em type="italic">Ánte fárre 'davás' </em>. (Ánte is moving up north.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Sárá lea 'olgun' </em>. (Sárá is outside.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Sárá manná 'olggos' </em>. (Sárá is going outside.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ivvár lea 'vuollin' </em>. (Ivvár is downstairs.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ivvár manná 'vulos' </em>. (Ivvár is going downstairs.) </p>
+<p type="listitem"><em type="italic">Mánát stohket 'badjin' </em>. (The children are playing upstairs.) </p>
+<p type="listitem"><em type="italic">Mánát vihke 'bajás' </em>. (The children ran upstairs.) </p>
+<p type="listitem"><em type="italic">Sii leat guhká ássan 'lullin'. </em>(They have been living down south for a long time.) </p>
+<p type="listitem"><em type="italic">In fárre 'lulás' </em>. (I'm not moving down south.) </p>
+<p type="listitem"><em type="italic">Eallu vulggii 'luksa' </em>. (The reindeer herd headed south.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Máddin' šaddet juohke lágan šattut </em>. </p>
+<p type="listitem">(There are all kinds of plants growing down south.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Guoros bursa 'máttás' doalvu </em>. </p>
+<p type="listitem">(An empty wallet will take you south.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Oarjin' bohtet čeahpes olbmot </em>. </p>
+<p type="listitem">(Skilled people come from the west.)</p>
+<p type="listitem"><em type="italic">Mii fertet 'oarjjás' johttát </em>. (We must move westward.) </p>
+<p type="listitem"><em type="italic">In gille 'siste' čohkkát </em>. (I don't like to sit inside.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Allet mana vuos 'sisa' </em>. (Don't go in yet.) </p>
+<p type="listitem"><em type="italic">'Nuortan' bohte viisásat </em>. (Wise men came from the East.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Eat berre 'nuorttas' ribahit ealu </em>. </p>
+<p type="listitem">(We mustn't let the herd get away to the east.)</p>
+<p type="listitem"><em type="italic">Don it njuiken 'guhkás' </em>. (You didn't jump far.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Don leat nu 'guhkkin', muhto liikká nu 'lahka' </em>. </p>
+<p type="listitem">(You are so far away, and yet so near.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Gullet, mánát! Allet viegat 'duohkot deike' </em>! </p>
+<p type="listitem">(Listen here, children! Don't run here and there (hither and thither).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Nu moai vuojašeimme 'ruoktot ovdan' </em>. </p>
+<p type="listitem">(Thus the two of us drove back and forth.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ihttin mii vuoddját 'ruoktot' </em>. </p>
+<p type="listitem">(In the morning we'll drive home.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Ruovttus' lei dievas moivi </em>. </p>
+<p type="listitem">(At home there was total chaos.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mii vuoddjáimet 'ruovttus' golmma áigge </em>. </p>
+<p type="listitem">(We left home (driving) at three o'clock.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Nuppe beaivvi juo máhcaiga 'ruovttoluotta' </em>. </p>
+<p type="listitem">(The very next day, the two of them came back.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Álggos son lávkii 'ovddos' ja dasto guokte lávkki 'maŋos' </em>. </p>
+<p type="listitem">(First he took one step forwards and then two steps backwards.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mánát vázze 'gitta' Guovdageidnui </em>. </p>
+<p type="listitem">(The children walked all the way to Guovdageaidnu.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ovllá vujii máŋgii 'ovddos maŋos' biillain ovdal go deaivvai njuolga sázuid gaskii </em>. </p>
+<p type="listitem">(Ovllá drove the car back and forth several times before he got it parked between the straight lines.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Dal fertet 'ovddosguvlui' jurddašit </em>. </p>
+<p type="listitem">(Now, we have to think ahead.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Genaid bokte sáhttá guorrat olmmošsoga 'maŋosguvlui' </em>. </p>
+<p type="listitem">(With the help of genes we can follow mankind back in time.)</p>
+<p type="listitem"><em type="italic">Don čuoččut mu 'ovddas' </em>. (You are standing in my way.) </p>
+</list><p>North Saami has the interrogative adverbs <em type="italic">gosa gos gokko </em>. All of these can be translated in 'where'. The word <em type="italic">gosa </em>has an illative meaning (where ... to), while <em type="italic">gos </em>and <em type="italic">gokko </em>have varied locative meanings. The word <em type="italic">gokko </em>is used when speaking of a delimited area. </p>
+<list><p type="listitem"><em type="italic">'Gosa' dii áigubehtet fárret </em>? (Where are you planning to move to?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Gos' don leat čuohpaduvvon </em>. </p>
+<p type="listitem">(Where (what hospital) were you operated on?)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Gokko' don leat čuohpaduvvon </em>? </p>
+<p type="listitem">(Where (where on the body) were you operated on?)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Gos' don boađát? Mun boađán vuovddis </em>. </p>
+<p type="listitem">(Where are you coming from? I'm coming from the woods.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Gokko' don bohtet? Mun bohten bajit luotta </em>. </p>
+<p type="listitem">(What way did you come? I came on the upper road.)</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Temporal adverbs</p>
+<p>Temporal adverbs indicate when an event happens. Here are a few examples <em type="italic">dál dalle eske ikte dolin </em>. </p>
+<p>Temporal adverbs can also be derived from the names of seasons, for example: <em type="italic">dálvet geasset giđđat čakčat </em>. Interrogative adverbs are <em type="italic">goas goassážii </em>, which can be translated as 'when' and 'by when'. When the question contains the word <em type="italic">goassážii </em>, the answer should have a temporal expression in the illative. </p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">'Goas' mii galgat geargat? Na 'ihttin' </em>. </p>
+<p type="listitem">(When are we supposed to be finished? Tomorrow.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Goassážii' mii galgat geargat? Na 'ihttážii' </em>. </p>
+<p type="listitem">(By when are we supposed to be finished? (By) tomorrow.)</p>
+</list><p>Additional example sentences:</p>
+<list><p type="listitem"><em type="italic">Mii geargat 'odne' </em>. (We will finish today.) </p>
+<p type="listitem"><em type="italic">'Ihttin' álgá juovlaluopmu </em>. (Tomorrow, Christmas vacation starts.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun oidnen Sárá 'ikte' </em>. (I saw Sárá yesterday.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mii fitnat 'dávjá' Romssas </em>. (We visit Tromsø often.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Áhkku lea 'hárve' buohcci </em>. (Grandmother is seldom sick.) </p>
+<p type="listitem"><em type="italic">Moai náitaleimme 'diibmá' </em>. (The two of us got married last year.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Don leat 'álo' heajos mielas </em>. (You're always in bad mood.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Muhtomin' in ipmir maid son dadjá </em>. </p>
+<p type="listitem">(Sometimes I don't understand what he is saying.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Dálvet' sáhttá čuoigat, muhto 'geasset' gal ii sáhte </em>. </p>
+<p type="listitem">(In the winter time you can go skiing but in the summer you can't.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Giđđat' sáhttet leat dulvvit </em>. </p>
+<p type="listitem">(In the spring time it might flood.)</p>
+<p type="listitem"><em type="italic">'Čakčat' álgá skuvla </em>. (In the autumn school starts.) </p>
+<p type="listitem"><em type="italic">Moai letne 'áigá' geargan </em>. (The two of us were finished a long time ago.) </p>
+<p type="listitem"><em type="italic">Mun oidnen su 'eske' </em>. (I saw her a little while ago.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Dolin' ledje mádjigat dáppe </em>. </p>
+<p type="listitem">(In the olden days there were beavers here.)</p>
+<p type="listitem"><em type="italic">Moai letne 'easka' boahtán </em>. (The two of us have just arrived.) </p>
+<p type="listitem"><em type="italic">Mun vuolggán 'dál' </em>. (I'm leaving now.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Dalle' go áddjá elii, láviimet juoŋastit </em>. </p>
+<p type="listitem">(In grandfather's day, we used to run nets under the ice to catch fish.)</p>
+<p type="listitem"><em type="italic">Mii leat 'guhká' vuordán </em>. (We've been waiting a long time.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Sámmol liiko 'ihkku' johtit </em>. </p>
+<p type="listitem">(Sámmol likes to travel at night.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Iđđes' lei guoldu, muhto 'beaivet' de firtii </em>. </p>
+<p type="listitem">(In the morning the snow was drifting, but during the day it cleared up.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Goas' dus lea riegádanbeaivi </em>? (When is your birthday?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Eahkes' lei ipmilbálvalus girkus </em>. </p>
+<p type="listitem">(In the evening, vespers were held at the church.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Manne it leat 'ovdal' boahtán </em>? </p>
+<p type="listitem">(Why haven't you come sooner?)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Oasseváldit bohtet 'maŋŋelaš' </em>. </p>
+<p type="listitem">(The participants will come later.)</p>
+<p type="listitem"><em type="italic">Doavttir bođii 'árrat' bargui </em>. (The doctor came to work early.) </p>
+<p type="listitem"><em type="italic">Mánát leat 'maŋŋit' nohkkan </em>. (The children went to bed late.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Reaŋga lea 'čađat' dájuhan du </em>. </p>
+<p type="listitem">(The hired hand has been tricking you all along.)</p>
+<p type="listitem"><em type="italic">Boađe sisa 'dakkaviđe' </em>! (Come in right now!) </p>
+<p type="listitem"><em type="italic">Mii álgit 'ovttatmano' </em>. (We'll get started immediately.) </p>
+<p type="listitem"><em type="italic">Manne don 'ovtto' biegut </em>? (How come you're always complaining?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Lean 'duollet dálle' bargan teáhteris </em>. </p>
+<p type="listitem">(I've worked at the theater off and on.)</p>
+<p type="listitem"><em type="italic">Leat go 'ain' suhtus </em>? (Are you still angry?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun lean 'juo' geargan </em>. (I'm already finished.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Leat go don 'goassege' leamaš Ruoššas </em>? </p>
+<p type="listitem">(Have you ever been to Russia?)</p>
+<p type="listitem"><em type="italic">Goas don 'fas' boađát </em>?(When are you going to come next time?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Dasto' ferten eará čovdosa gávdnat </em>. </p>
+<p type="listitem">(In that case I'll have to find a different solution.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Leat go du buvssat 'vuot' duolvan </em>? </p>
+<p type="listitem">(Have you gotten your pants dirty again?</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Soai olliiga mollii 'oktanaga' </em>. </p>
+<p type="listitem">(They reached the finish line at the same time.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Álggos' mun in ipmirdan maidege </em>. </p>
+<p type="listitem">(At first I didn't understand anything.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Loahpas' mii vuolláneimmet </em>. </p>
+<p type="listitem">(In the end we gave up.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Maŋážassii' son ollii muhtun stobu lusa </em>. </p>
+<p type="listitem">(Finally he came to a cabin.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Dađistaga' mii hárjáneimmet buollašii </em>. </p>
+<p type="listitem">(Gradually we got used to the freezing weather.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun lean barggus 'gitta' bearjadahkii </em>. </p>
+<p type="listitem">(I'm at work all the way until Friday.)</p>
+</list><p>Note: in North Saami 'never' is expressed with the combination <span type="quote">"verb of negation"</span> + <span type="quote" xml:lang="sme">"goassege"</span>:</p>
+<list><p type="listitem"><em type="italic">In leat goassege meara oaidnán </em>. (I've never seen the sea.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Son ii leat goassege duhtavaš </em>. (He's never satisfied.) </p>
+<p type="listitem"><em type="italic">Moai ean vuollán goassege </em>. (The two of us never give up.) </p>
+</list><p xml:lang="swe"></p>
+<p type="title" xml:lang="nob">Manner adverbs</p>
+<p>Adverbs of manner indicate how an action is carried out or how something happens. North Saami has an interrogative adverb, 'movt', which can be translated as 'how'. The answer might include the words <em type="italic">ná nuo nie nu </em>, for example. The word <em type="italic">ná </em>can be translated as 'like this', and the words <em type="italic">nuo nie nu </em>'like that'. Here are some examples: </p>
+<list><p type="listitem"><em type="italic">Mun čálán 'ná' </em>. (I write like this.) </p>
+<p type="listitem"><em type="italic">'Movt' duinna manná </em>? (How are things with you?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Movt' don mátkkoštat Romsii </em>? </p>
+<p type="listitem">(How do you travel to Tromso?)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Sárá buohccái 'fáhkka' </em>. (Sara suddenly fell ill.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Fáhkkestaga' iđistii golleloddi </em>. </p>
+<p type="listitem">(All of a sudden a gold bird appeared.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Fabrihkkabargit ledje 'suoli' doallan čoahkkima </em>. </p>
+<p type="listitem">(The factory workers had held a meeting in secrecy.)</p>
+<p type="listitem"><em type="italic">Ale čále nu 'summal' </em>. (Don't write so sloppy.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Oahpaheaddji lei 'summal' válljen vehkiid </em>. </p>
+<p type="listitem">(The teacher had chosen helpers at random.)</p>
+<p type="listitem"><em type="italic">Mun boađán 'okto' </em>. (I'm coming alone.) </p>
+<p type="listitem"><em type="italic">Uksa lea 'gitta' </em>. (The door is closed.) </p>
+<p type="listitem"><em type="italic">Oarra lea reagas 'gitta' </em>. (The rope is tied to the sleigh.) </p>
+</list><p>You can also derive adverbs of manner from adjectives. From the adjective <em type="italic">buorre </em>'good' we can derive the adverb <em type="italic">bures </em>'well'. There are rules for how to derive adverbs from other adjectives. The endings '-t' or '-et' are added to contraction adjectives and vowel stem adjectives to derive adverbs. Make note that the '-et' ending causes diphthong simplification. The '-it' ending is used for deriving adverbs from adjectives with consonant stems. </p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Bohtosat leat 'buorit'. Don leat bargan 'bures' </em>. </p>
+<p type="listitem">(The results are good. You've done a good job.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Dus lea 'čáppa' čála. Don čálát 'čábbát' </em>. </p>
+<p type="listitem">(You have nice handwriting. You write nicely.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ánte lea 'njoahci'. Ánte bargá 'njoazit/njozet' </em>. </p>
+<p type="listitem">(Ánte is slow. Ánte works slowly.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ánte lea 'jođán'. Ánte bargá 'jođánit' </em>. </p>
+<p type="listitem">(Ánte is fast. Ánte works fast.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Dus lea 'vuogas' čilgehus. Don čilget 'vuohkkasit' </em>. </p>
+<p type="listitem">(You have a clear explanation. You explain things in a clear manner.)</p>
+</list><p>Adverbs can also be derived from comparative and superlative adjectives in the same manner:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Dus lea 'čábbát' čála go mus. Don čálát 'čábbábut' go mun </em>. </p>
+<p type="listitem">(You have nicer handwriting than I do. You write more nicely than I do.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ánte lea 'jođáneamos'. Ánte bargá jođánepmosit </em>. </p>
+<p type="listitem">(Ánte is the quickest. Ánte works the most quickly.)</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Other adverbs</p>
+<p>Adverbs can also express cause or degree. Adverbs indicating cause are, for example: <em type="italic">manne </em>'why', <em type="italic">danne </em>'because, therefore'. Adverbs expressing degree, modify adjectives and adverbs. These are words, such as <em type="italic">hui </em>'extremely', <em type="italic">oalle </em>'quite', <em type="italic">oba </em>'rather', <em type="italic">menddo </em>'too'. </p>
+<list><p type="listitem"><em type="italic">Eadni lea 'hui' váibbas </em>. (Mother is extremely tired.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Eadni lea 'oalle' váibbas </em>. (Mother is quite tired.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Eadni lea 'oba' váibbas </em>. (Mother is rather tired.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Eadni lea 'menddo' váibbas </em>. (Mother is too tired.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Manne' leat deike boahtán </em>? </p>
+<p type="listitem">(Why did you come here?)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Danne' mii leat maŋŋonan </em>. </p>
+<p type="listitem">(That is why we are late.)</p>
+<p type="listitem"><em type="italic">Leat go 'áibbas' gáigi </em>? (Are you totally mad?) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Dan gal lean 'oalát' vajálduhttán </em>. </p>
+<p type="listitem">(I had totally forgotten that)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Diesa mun gal 'ille' jáhkán </em>. </p>
+<p type="listitem">(Now that is something I hardly believe.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Odne gal in 'báljo' astta </em>. </p>
+<p type="listitem">(Today, I don't have much time.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun lean 'veahá' beahtahallan </em>. </p>
+<p type="listitem">(I'm a little disappointed.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Moai 'measta' vulge dohko </em>. </p>
+<p type="listitem">(The two of us were just about to go there.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Moai 'goasii' báziime busses </em>. </p>
+<p type="listitem">(The two of us nearly missed the bus.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">In gille 'šat' diggot </em>. </p>
+<p type="listitem">(I don't feel like quarreling any more.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mánát eai jeagadan su 'obanasiige' </em>. </p>
+<p type="listitem">(The children didn't obey him at all.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Don dulkot buot 'aivve' bahá guvlui </em>. </p>
+<p type="listitem">(You only give everything a negative interpretation.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mus leat 'dušše' guokte máná </em>. </p>
+<p type="listitem">(I only have two children.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Muital 'juste' movt dat lei </em>! </p>
+<p type="listitem">(Tell (us) exactly how it was!)</p>
+</list></body></document>

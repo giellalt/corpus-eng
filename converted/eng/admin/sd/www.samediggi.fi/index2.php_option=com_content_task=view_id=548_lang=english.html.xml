@@ -1,55 +1,22 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Year 2012</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="fin"/>
-    <wordcount>158</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=548&amp;lang=english.html</origFileName>
-    <parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=548_lang=finnish.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=548_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=548_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=548_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Year 2012</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>Sajos in year 2012.</p>
-    <p xml:lang="fin">14.6.12.</p>
-    <p xml:lang="fin">14.6.12.</p>
-    <p><span type="quote">"Arctic Circles Summer School"</span> by Lapland University in Sajos 6.6.12. Photo: Sanna Konola.</p>
-    <p xml:lang="fin"><span type="quote">"Arctic Circles Summer School"</span> in Sajos 6.6.12. Photo: Sanna Konola.</p>
-    <p>Anára Boazu - Inari Reindeer week - My Best Reindeer Food -event 5th of April. 2012.</p>
-    <p xml:lang="fin">Photo: Marja Männistö.</p>
-    <p>Inari Reindeer Week 5th of April 2012. Photo: Marja Männistö</p>
-    <p>Inari Reindeer Week 5th of April 2012. Photo: Marja Männistö.</p>
-    <p>The Northern Design -event 4th - 5 th of April, 2012. Photo: Jouni Männistö.</p>
-    <p>Opening doors at Sajos 4th of April 2012. Photo: Marja Männistö.</p>
-    <p>The opening ceremony of Sajos 3rd April, 2012. Photo: Jouni Männistö.</p>
-    <p>The Barents Woman Delegate 15th March 2012. Photo: Marja Männistö.</p>
-    <p>The meeting of the Sámi Parliament in February 2012. Photo: M.Männistö.</p>
-    <p>The Sámi People in the Church -event 3rd February 2012. Photo: M.Männistö.</p>
-    <p>The local theater <span type="quote" xml:lang="fin">"Ivaloiset"</span>, the 2nd of February, 2012. Photo: M. Männistö.</p>
-    <p>Skabmagovat Film Festival in January.</p>
-    <p>Healing Sounds.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Year 2012</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>158</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=548&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=548_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=548_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=548_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=548_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Year 2012</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>Sajos in year 2012.</p>
+<p xml:lang="fin">14.6.12.</p>
+<p xml:lang="fin">14.6.12.</p>
+<p><span type="quote">"Arctic Circles Summer School"</span> by Lapland University in Sajos 6.6.12. Photo: Sanna Konola.</p>
+<p xml:lang="fin"><span type="quote">"Arctic Circles Summer School"</span> in Sajos 6.6.12. Photo: Sanna Konola.</p>
+<p>Anára Boazu - Inari Reindeer week - My Best Reindeer Food -event 5th of April. 2012.</p>
+<p xml:lang="fin">Photo: Marja Männistö.</p>
+<p>Inari Reindeer Week 5th of April 2012. Photo: Marja Männistö</p>
+<p>Inari Reindeer Week 5th of April 2012. Photo: Marja Männistö.</p>
+<p>The Northern Design -event 4th - 5 th of April, 2012. Photo: Jouni Männistö.</p>
+<p>Opening doors at Sajos 4th of April 2012. Photo: Marja Männistö.</p>
+<p>The opening ceremony of Sajos 3rd April, 2012. Photo: Jouni Männistö.</p>
+<p>The Barents Woman Delegate 15th March 2012. Photo: Marja Männistö.</p>
+<p>The meeting of the Sámi Parliament in February 2012. Photo: M.Männistö.</p>
+<p>The Sámi People in the Church -event 3rd February 2012. Photo: M.Männistö.</p>
+<p>The local theater <span type="quote" xml:lang="fin">"Ivaloiset"</span>, the 2nd of February, 2012. Photo: M. Männistö.</p>
+<p>Skabmagovat Film Festival in January.</p>
+<p>Healing Sounds.</p>
+</body></document>

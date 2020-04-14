@@ -1,39 +1,15 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>The People Elect the President – the Parliament Elects the Prime Minister - 
+<document xml:lang="eng" id="no_id"><header><title>The People Elect the President – the Parliament Elects the Prime Minister - 
 	Oikeusministeriö - Oikeusministeriö
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>228</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.oikeusministerio.fi/en/index/publications/esitteet/perustuslaki/kansavalitseepresidentin-eduskuntavalitseepaaministerin.html</origFileName>
-    <parallel_text xml:lang="fin" location="kansavalitseepresidentin-eduskuntavalitseepaaministerin.html"/>
-    <parallel_text xml:lang="sme" location="albmotvalljepresideantta-riikkabeaivvitvalljejitoaiveministara.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Constitution</p>
-    <p type="title">The People Elect the President – the Parliament Elects the Prime Minister</p>
-    <p xml:lang="deu">CHAPTER 5</p>
-    <p>The President of the Republic is elected directly. A candidate has to be a native Finnish citizen entitled to vote.</p>
-    <p>Candidates nominated by parties and groups of voters participate in the first round of the elections.</p>
-    <p>If no candidate receives a majority of the votes cast a second round is arranged. The candidates in the run-off are the two who received most votes in the first round. The one receiving more votes is elected President.</p>
-    <p>The presidential term is six years. The same person may be elected President for no more than two consecutive terms, i.e. for altogether twelve years.</p>
-    <p>The President takes most decisions on a proposal of the Government.</p>
-    <p>The Government has to enjoy the confidence of the Parliament. After parliamentary elections the parliamentary groups negotiate and agree on the formation of a new government. The Parliament elects the Prime Minister who is appointed by the President. The other ministers the President appoints on the basis of a nomination by the Prime Minister.</p>
-    <p>The Prime Minister heads the work of the Government. The most important issues – such as law and budget bills – are decided in governmental sessions.</p>
-    <p>The ministers see to the drafting of bills concerning their administrative branch and to the enforcement of decisions taken by the Parliament.</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2016</year><wordcount>228</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.oikeusministerio.fi/en/index/publications/esitteet/perustuslaki/kansavalitseepresidentin-eduskuntavalitseepaaministerin.html</origFileName><parallel_text xml:lang="fin" location="kansavalitseepresidentin-eduskuntavalitseepaaministerin.html"/><parallel_text xml:lang="sme" location="albmotvalljepresideantta-riikkabeaivvitvalljejitoaiveministara.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Constitution</p>
+<p type="title">The People Elect the President – the Parliament Elects the Prime Minister</p>
+<p xml:lang="deu">CHAPTER 5</p>
+<p>The President of the Republic is elected directly. A candidate has to be a native Finnish citizen entitled to vote.</p>
+<p>Candidates nominated by parties and groups of voters participate in the first round of the elections.</p>
+<p>If no candidate receives a majority of the votes cast a second round is arranged. The candidates in the run-off are the two who received most votes in the first round. The one receiving more votes is elected President.</p>
+<p>The presidential term is six years. The same person may be elected President for no more than two consecutive terms, i.e. for altogether twelve years.</p>
+<p>The President takes most decisions on a proposal of the Government.</p>
+<p>The Government has to enjoy the confidence of the Parliament. After parliamentary elections the parliamentary groups negotiate and agree on the formation of a new government. The Parliament elects the Prime Minister who is appointed by the President. The other ministers the President appoints on the basis of a nomination by the Prime Minister.</p>
+<p>The Prime Minister heads the work of the Government. The most important issues – such as law and budget bills – are decided in governmental sessions.</p>
+<p>The ministers see to the drafting of bills concerning their administrative branch and to the enforcement of decisions taken by the Parliament.</p>
+</body></document>

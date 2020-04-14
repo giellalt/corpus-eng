@@ -1,52 +1,18 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>NAV - Stay in Norway - </title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>397</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://www.nav.no/English/Stay+in+Norway/805369541.cms</origFileName>
-    <parallel_text xml:lang="nno" location="805322308.html"/>
-    <parallel_text xml:lang="nob" location="1042.html"/>
-    <parallel_text xml:lang="sme" location="229551.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Relocation grant</p>
-    <p>Relocation grant is a lump-sum payment to help cover relocation costs if you have to move to find work.</p>
-    <p type="title">Who can receive a relocation grant?</p>
-    <p>Single parents who have to move to find work are entitled to a relocation grant. You must provide information showing that there is no suitable work for you in the place you live or that you cannot take work in the place you live because there is no suitable child care for your child. You must also document that you have been offered a concrete job in the place you want to move to. You will not be entitled to a relocation grant if your relocation expenses are being covered by someone else, such as your employer, for example.</p>
-    <p type="title">How much will you receive?</p>
-    <p>The grant can be awarded to people who qualify for transitional benefit or within six months of transitional benefit ending. The grant may cover both travel and relocation expenses and varies according to the amount of goods to be moved, the distance, etc.</p>
-    <p>Relocation grant covers the costs of the cheapest alternative. You must therefore provide at least two estimates from removal companies.</p>
-    <p>Relocation grant is paid out as a lump sum and is not subject to taxation.</p>
-    <p type="title">How do you apply for a relocation grant?</p>
-    <p>You must apply for a relocation grant using the form <span type="quote" xml:lang="nob">“Søknad om overgangsstønad, stønad til barnetilsyn, utdanningsstønad og flytteutgifter til enslig mor/far”</span> (Application form for transitional benefit, child care benefit, education benefit and relocation grant for single parents), which is under the heading Forms and enclosures in the menu to the right. Here you will also find information about the documents you need to submit with your application for a relocation grant.</p>
-    <p>Submit your application to your NAV office.</p>
-    <p type="title">Decision</p>
-    <p>First, NAV will send you a letter informing you about expected processing time. When your claim has been processed, you will receive written notification of the decision.</p>
-    <p type="title">If you move abroad?</p>
-    <p>You must always notify your NAV office if you are moving abroad or going to live overseas temporarily. There is more information about living overseas under the heading International in the menu to the right.</p>
-    <p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>NAV - Stay in Norway - </title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>397</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><multilingual/><origFileName>http://www.nav.no/English/Stay+in+Norway/805369541.cms</origFileName><parallel_text xml:lang="nno" location="805322308.html"/><parallel_text xml:lang="nob" location="1042.html"/><parallel_text xml:lang="sme" location="229551.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Relocation grant</p>
+<p>Relocation grant is a lump-sum payment to help cover relocation costs if you have to move to find work.</p>
+<p type="title">Who can receive a relocation grant?</p>
+<p>Single parents who have to move to find work are entitled to a relocation grant. You must provide information showing that there is no suitable work for you in the place you live or that you cannot take work in the place you live because there is no suitable child care for your child. You must also document that you have been offered a concrete job in the place you want to move to. You will not be entitled to a relocation grant if your relocation expenses are being covered by someone else, such as your employer, for example.</p>
+<p type="title">How much will you receive?</p>
+<p>The grant can be awarded to people who qualify for transitional benefit or within six months of transitional benefit ending. The grant may cover both travel and relocation expenses and varies according to the amount of goods to be moved, the distance, etc.</p>
+<p>Relocation grant covers the costs of the cheapest alternative. You must therefore provide at least two estimates from removal companies.</p>
+<p>Relocation grant is paid out as a lump sum and is not subject to taxation.</p>
+<p type="title">How do you apply for a relocation grant?</p>
+<p>You must apply for a relocation grant using the form <span type="quote" xml:lang="nob">“Søknad om overgangsstønad, stønad til barnetilsyn, utdanningsstønad og flytteutgifter til enslig mor/far”</span> (Application form for transitional benefit, child care benefit, education benefit and relocation grant for single parents), which is under the heading Forms and enclosures in the menu to the right. Here you will also find information about the documents you need to submit with your application for a relocation grant.</p>
+<p>Submit your application to your NAV office.</p>
+<p type="title">Decision</p>
+<p>First, NAV will send you a letter informing you about expected processing time. When your claim has been processed, you will receive written notification of the decision.</p>
+<p type="title">If you move abroad?</p>
+<p>You must always notify your NAV office if you are moving abroad or going to live overseas temporarily. There is more information about living overseas under the heading International in the menu to the right.</p>
+<p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian</p>
+</body></document>

@@ -1,40 +1,16 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Anaras - Environment - Ancestral Territories</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Irja" lastname="Jefremoff" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <wordcount>647</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/english/ymparisto/sukualueet.html</origFileName>
-    <parallel_text xml:lang="fin" location="sukualueet.html"/>
-    <parallel_text xml:lang="smn" location="sukualueet.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Place Names</p>
-    <p>Ancestral Territories</p>
-    <p>Building Tradition</p>
-    <p>As their name implies, the Inari Sámis have traditionally settled the region of Inari, the shores and islands as well as the nearby waters thereof. The locations of the Inari Sámis’ summer and winter homes have been mostly sparse and their houses far apart from each other. The ancestral homes of the Inari Sámis have been described in T. I. Itkonen’s work <span type="quote" xml:lang="fin">”Suomen lappalaiset I ja II”</span> (The Finnish Lapps I and II). Samuli Paulaharju has done the same in his work <span type="quote" xml:lang="fin">“Taka-Lappia”</span> (Backwoods Lapland).</p>
-    <p>The Väylä district on the northern side of Lake Inari is registered as the traditional territories of <em type="italic">the Aikio family </em>. They have dispersed in the direction of Utsjoki and even to Norway. The Aikios have also separately lived on the western shore of Lake Inari in the environs of Kankivuono, Könkäänjärvi Lake and the Paatsjoki River area on the eastern side of Lake Inari. <em type="italic">The territory of the Kuuva family </em>has of old been the Alajärvi Lake district and later e.g. at the mouth of the Tsuolisvuono Inlet at Pisteri, on the shores of Ahvenjärvi Lake and Nellim Inlet, as well as on the northern side of Lake Inari. <em type="italic">The Mattus family </em>lived especially in western Inari but existed also further north at Riutula and the Syysjärvi Lake district. The Mattus family settled also in the Paksuvuono Inlet region of eastern Inari. Some of this family has moved to live in Varanger, Norway, where they live to this day. <em type="italic">The large Morottaja family </em>settled on the southern and southwestern sides of Lake Inari from which they spread later farther west towards Inari. <em type="italic">The Mujo family </em>moved from southern Lake Inari to the area of Paksumaa-Syysjärvi Lake. The lived at Iijärvi Lake as well. <em type="italic">The Musta family </em>was first found at Väli-Mustola and eastern Inari, but later at Riutula and Paadarjärvi Lake. <em type="italic">The Paadar family </em>first lived in western Inari, but later to the north of Aksujärvi Lake, Tsarmijärvi Lake and Tullujärvi Lake in the south, as well as the Paatsjoki River district in the east. <em type="italic">The Paltto family </em>was met in the Turvejärvi Lake – Nitsijärvi Lake area of northern Inari, at Lemmenjoki in the west as well as far as on the banks of the Teno River in Utsjoki. They have moved as well to Norway in the Varanger area. <em type="italic">The descendents of the Saijets family </em>are found in western Inari in the region of Nukkumajoki River – Saisaari Island, later in Mahlattinuora – Nuottamojärvi Lake, Iivanajärvi Lake at the Inarijoki River and Paatsjoki River. <em type="italic">The favored area of the Sarre family </em>has been in western Inari at Muddusjärvi Lake, Paadarjärvi Lake and Riutula as well as in eastern Inari at e.g. Ala-Mustola, Sulkusjärvi Lake and Majavajärvi Lake – Ulkuniemi. </p>
-    <p><em type="italic">The Valle family </em>has spread out however in every direction from eastern and southern Inari. Their traditional ancestral homes were at e.g. Nirrola at Nanguvuono Inlet on Lake Inari, Paatsjoki River, Kapperijoki River at Tsurnuvuono Inlet, Väylä and Iijärvi Lake. </p>
-    <p>In a report of a commission for Sámi affairs in 1953, a population map of the Sámi peoples in the Finnish Sámi region was presented – grouping them as Fell Sámis, Inari Sámis and Skolt Sámis. At that time the Inari Sámis still lived in their ancestral territories.</p>
-    <p>The new zoning laws that came into effect later, such as the reindeer homestead law and the law supporting natural subsistence changed the traditional system of living. New habitations were built in village centers or near them. Many ancestral homes are nowadays the summer homes of the descendents of the Inari Sámi families.</p>
-    <p xml:lang="sms"><em type="italic">Irja Jefremoff </em></p>
-    <p>Traditional Inari Sámi homelands in the Lake Inari environment.</p>
-    <p xml:lang="smn">Sulkusjärvi home shoreline. Samuli Paulaharju 1914.</p>
-    <p>Matti Musta with his wife at home in  Riutula. A.O. Väisänen in the 1930’s.</p>
-    <p>Back to Top</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Anaras - Environment - Ancestral Territories</title><genre code="facta"/><author><person firstname="Irja" lastname="Jefremoff" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>647</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/english/ymparisto/sukualueet.html</origFileName><parallel_text xml:lang="fin" location="sukualueet.html"/><parallel_text xml:lang="smn" location="sukualueet.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Place Names</p>
+<p>Ancestral Territories</p>
+<p>Building Tradition</p>
+<p>As their name implies, the Inari Sámis have traditionally settled the region of Inari, the shores and islands as well as the nearby waters thereof. The locations of the Inari Sámis’ summer and winter homes have been mostly sparse and their houses far apart from each other. The ancestral homes of the Inari Sámis have been described in T. I. Itkonen’s work <span type="quote" xml:lang="fin">”Suomen lappalaiset I ja II”</span> (The Finnish Lapps I and II). Samuli Paulaharju has done the same in his work <span type="quote" xml:lang="fin">“Taka-Lappia”</span> (Backwoods Lapland).</p>
+<p>The Väylä district on the northern side of Lake Inari is registered as the traditional territories of <em type="italic">the Aikio family </em>. They have dispersed in the direction of Utsjoki and even to Norway. The Aikios have also separately lived on the western shore of Lake Inari in the environs of Kankivuono, Könkäänjärvi Lake and the Paatsjoki River area on the eastern side of Lake Inari. <em type="italic">The territory of the Kuuva family </em>has of old been the Alajärvi Lake district and later e.g. at the mouth of the Tsuolisvuono Inlet at Pisteri, on the shores of Ahvenjärvi Lake and Nellim Inlet, as well as on the northern side of Lake Inari. <em type="italic">The Mattus family </em>lived especially in western Inari but existed also further north at Riutula and the Syysjärvi Lake district. The Mattus family settled also in the Paksuvuono Inlet region of eastern Inari. Some of this family has moved to live in Varanger, Norway, where they live to this day. <em type="italic">The large Morottaja family </em>settled on the southern and southwestern sides of Lake Inari from which they spread later farther west towards Inari. <em type="italic">The Mujo family </em>moved from southern Lake Inari to the area of Paksumaa-Syysjärvi Lake. The lived at Iijärvi Lake as well. <em type="italic">The Musta family </em>was first found at Väli-Mustola and eastern Inari, but later at Riutula and Paadarjärvi Lake. <em type="italic">The Paadar family </em>first lived in western Inari, but later to the north of Aksujärvi Lake, Tsarmijärvi Lake and Tullujärvi Lake in the south, as well as the Paatsjoki River district in the east. <em type="italic">The Paltto family </em>was met in the Turvejärvi Lake – Nitsijärvi Lake area of northern Inari, at Lemmenjoki in the west as well as far as on the banks of the Teno River in Utsjoki. They have moved as well to Norway in the Varanger area. <em type="italic">The descendents of the Saijets family </em>are found in western Inari in the region of Nukkumajoki River – Saisaari Island, later in Mahlattinuora – Nuottamojärvi Lake, Iivanajärvi Lake at the Inarijoki River and Paatsjoki River. <em type="italic">The favored area of the Sarre family </em>has been in western Inari at Muddusjärvi Lake, Paadarjärvi Lake and Riutula as well as in eastern Inari at e.g. Ala-Mustola, Sulkusjärvi Lake and Majavajärvi Lake – Ulkuniemi. </p>
+<p><em type="italic">The Valle family </em>has spread out however in every direction from eastern and southern Inari. Their traditional ancestral homes were at e.g. Nirrola at Nanguvuono Inlet on Lake Inari, Paatsjoki River, Kapperijoki River at Tsurnuvuono Inlet, Väylä and Iijärvi Lake. </p>
+<p>In a report of a commission for Sámi affairs in 1953, a population map of the Sámi peoples in the Finnish Sámi region was presented – grouping them as Fell Sámis, Inari Sámis and Skolt Sámis. At that time the Inari Sámis still lived in their ancestral territories.</p>
+<p>The new zoning laws that came into effect later, such as the reindeer homestead law and the law supporting natural subsistence changed the traditional system of living. New habitations were built in village centers or near them. Many ancestral homes are nowadays the summer homes of the descendents of the Inari Sámi families.</p>
+<p xml:lang="sms"><em type="italic">Irja Jefremoff </em></p>
+<p>Traditional Inari Sámi homelands in the Lake Inari environment.</p>
+<p xml:lang="smn">Sulkusjärvi home shoreline. Samuli Paulaharju 1914.</p>
+<p>Matti Musta with his wife at home in  Riutula. A.O. Väisänen in the 1930’s.</p>
+<p>Back to Top</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

@@ -1,62 +1,21 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>498</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Barn/Ont-i-orat-hos-barn</origFileName>
-    <parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/>
-    <parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="d.html"/>
-    <parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="l1.html"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="ont-i-orat-hos-barn---egenvard.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Earache in children / Ont i örat hos barn - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title" xml:lang="swe">Earache in childrenOnt i örat hos barn</p>
-    <p xml:lang="swe"></p>
-    <p type="title">What can you do yourself?</p>
-    <p type="title">Often painful at night</p>
-    <p>Children who have colds can experience earache as a result of a swelling of the mucous membranes in the ear. Pain can also be caused by a purulent inflammation in the middle ear, a condition known as otitis. Colds and ear inflammations are both common infectious diseases in children. Children often wake up in the middle of the night because of the pain, as the swelling in the ear increases when they lie down. A couple of extra pillows under the child's head can make it easier to sleep. This is especially effective for older children who lie still.</p>
-    <p>Other causes of earache include inflammation of the ear canal that leads to the eardrum, a plug of wax or jaw joint dysfunction.</p>
-    <p type="title">Ear inflammation affects the middle ear</p>
-    <p>Ear inflammation in the middle ear often starts suddenly and is short-lived. As well as an earache the child may feel that his or her ears are blocked and experience impaired hearing. A fever is also common. Sometimes the eardrum bursts and fluid leaks into the ear canal. Then the pain usually subsides. Children can also have an ear inflammation without feeling any pain.</p>
-    <p type="title">Pain-relieving medicines</p>
-    <p>Non-prescription pain-relievers and antipyretic medicines can be taken for the pain. It is best to consult a nurse or doctor before you give these medicines to a child under six months old.</p>
-    <p>For children over three months old there are pain-relieving and antipyretic medicines that contain paracetamol, for example Alvedon or Panodil. From the age of six months children can take Ipren, which is non-prescription and contains ibuprofen. These medicines are available as solutions or as suppositories with the right dosage for small children. For older children there are also tablets. There are precise instructions on the packaging.</p>
-    <p>Children under the age of 18 who have a fever should not use pain-relieving and antipyretic medicines containing acetylsalicylic acid, for example Magnecyl, Treo or Albyl, unless recommended to do so by a doctor.</p>
-    <p type="title">Nasal spray</p>
-    <p>A decongestant nasal spray reduces nasal congestion and makes it easier for the child to breathe. However, it has yet to be proved that nasal sprays help alleviate ear inflammation.</p>
-    <p type="title">You may need to contact the healthcare services</p>
-    <p>Children can have a temporary earache when they have a cold. But if the pain is persistent the child should be examined at your local healthcare centre or emergency ward within 24 hours. If the child is lethargic, too tired to play and does not want to drink or is less than six months old you should contact the healthcare services immediately.</p>
-    <p>You should also contact your local healthcare centre if fluid runs out of the child's ear canal, regardless of whether the child is in pain or not.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>489</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Barn/Ont-i-orat-hos-barn</origFileName><parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/><parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="d.html"/><parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="l1.html"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmn"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="ont-i-orat-hos-barn---egenvard.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Earache in children / Ont i örat hos barn - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Earache in childrenOnt i örat hos barn</p>
+<p xml:lang="swe"></p>
+<p type="title">What can you do yourself?</p>
+<p type="title">Often painful at night</p>
+<p>Children who have colds can experience earache as a result of a swelling of the mucous membranes in the ear. Pain can also be caused by a purulent inflammation in the middle ear, a condition known as otitis. Colds and ear inflammations are both common infectious diseases in children. Children often wake up in the middle of the night because of the pain, as the swelling in the ear increases when they lie down. A couple of extra pillows under the child's head can make it easier to sleep. This is especially effective for older children who lie still.</p>
+<p>Other causes of earache include inflammation of the ear canal that leads to the eardrum, a plug of wax or jaw joint dysfunction.</p>
+<p type="title">Ear inflammation affects the middle ear</p>
+<p>Ear inflammation in the middle ear often starts suddenly and is short-lived. As well as an earache the child may feel that his or her ears are blocked and experience impaired hearing. A fever is also common. Sometimes the eardrum bursts and fluid leaks into the ear canal. Then the pain usually subsides. Children can also have an ear inflammation without feeling any pain.</p>
+<p type="title">Pain-relieving medicines</p>
+<p>Non-prescription pain-relievers and antipyretic medicines can be taken for the pain. It is best to consult a nurse or doctor before you give these medicines to a child under six months old.</p>
+<p>For children over three months old there are pain-relieving and antipyretic medicines that contain paracetamol, for example Alvedon or Panodil. From the age of six months children can take Ipren, which is non-prescription and contains ibuprofen. These medicines are available as solutions or as suppositories with the right dosage for small children. For older children there are also tablets. There are precise instructions on the packaging.</p>
+<p>Children under the age of 18 who have a fever should not use pain-relieving and antipyretic medicines containing acetylsalicylic acid, for example Magnecyl, Treo or Albyl, unless recommended to do so by a doctor.</p>
+<p type="title">Nasal spray</p>
+<p>A decongestant nasal spray reduces nasal congestion and makes it easier for the child to breathe. However, it has yet to be proved that nasal sprays help alleviate ear inflammation.</p>
+<p type="title">You may need to contact the healthcare services</p>
+<p>Children can have a temporary earache when they have a cold. But if the pain is persistent the child should be examined at your local healthcare centre or emergency ward within 24 hours. If the child is lethargic, too tired to play and does not want to drink or is less than six months old you should contact the healthcare services immediately.</p>
+<p>You should also contact your local healthcare centre if fluid runs out of the child's ear canal, regardless of whether the child is in pain or not.</p>
+</body></document>

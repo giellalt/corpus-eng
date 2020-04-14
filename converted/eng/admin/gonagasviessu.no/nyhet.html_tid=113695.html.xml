@@ -1,47 +1,23 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Opened "Munch 150"  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>542</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=113695</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=113695.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=113695_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="nob">Opened <span type="quote" xml:lang="deu">"Munch 150"</span></p>
-    <p>This evening His Majesty The King formally opened Munch 150 at a ceremony in Oslo City Hall. 2013 marks the 150th anniversary of Edvard Munchs birth, which will be commemorated with events throughout the year.</p>
-    <p xml:lang="koi">23.01.2013</p>
-    <p>The National Museum of Art, Architecture and Design and the Munch Museum are collaborating to celebrate Norways best-known painter in various events of all sizes throughout the country during the year. The main event is the exhibition entitled Munch 150 – the largest display of Munchs works ever presented. The exhibition, which lasts from 2 June to 13 October, may be viewed at the National Museum of Art, Architecture and Design and the Munch Museum. Works from 1882-1903 will be on display at the National Museum, while works from 1904-1944 may be seen at the Munch Museum.</p>
-    <p type="title">A nation-builder</p>
-    <p>In his opening speech, King Harald emphasised what Edvard Munch has meant for Norway:</p>
-    <p><em type="italic">- Munch is one of our great nation-builders. Along with the author Ibsen and the composer Grieg, Munchs paintings lie at the core of our cultural foundation. His name and his art help to define Norway as a cultural nation. He makes us proud to be Norwegian, and he is part of our cultural identity. </em></p>
-    <p type="title">Always provocative</p>
-    <p>Munch has fascinated, inspired and shocked many people, and he continues to do so today – throughout the world. The King noted a few likely explanations for this:</p>
-    <p><em type="italic">- Perhaps he speaks to many people because we recognise a part of ourselves in his depictions of human emotions. Anxiety and love, melancholy and jealousy are feelings most of us have experienced to a greater or lesser degree. It is ourselves we can see in a scream, in the silent despair at the bedside of a sick child, or as part of the dance of life. Munch used his own life experience, but he managed to express it figuratively in a manner that touches the range of our emotions as well. He uses colour to describe our light and dark sides. </em></p>
-    <p type="title">Wide-ranging commemoration</p>
-    <p>The Munch 150 jubilee encompasses several exhibitions, book releases, a photography exhibition and a performance of musical works. Most of the events will take place in Norway, but a few will be held in New York City, Zurich and Stockholm as well. The jubilee concludes on the artists birthday, 12 December.</p>
-    <p>A website for the jubilee has been created and provides information about the various events that are planned.</p>
-    <p type="title" xml:lang="vep">The Modern Eye</p>
-    <p>2012 was also a major year for Munch, as the exhibition The Modern Eye was viewed by over a million people in Paris, Frankfurt and London, before returning home to Norway and the Munch Museum in the autumn. Queen Sonja was the patron of the exhibition and attended the preview in Paris as well as the openings in London and Oslo. Crown Princess Mette-Marit opened the exhibition when it was on display in Frankfurt – an exhibition that set a new attendance record at Schirn Kunsthalle.</p>
-    <p>A web-based exhibition has been opened which contains the publics own photographs and experiences of the exhibitions. Visit The Modern Eye at the link on the right.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Opened "Munch 150"  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>537</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=113695</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=113695.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=113695_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="nob">Opened <span type="quote" xml:lang="deu">"Munch 150"</span></p>
+<p>This evening His Majesty The King formally opened Munch 150 at a ceremony in Oslo City Hall. 2013 marks the 150th anniversary of Edvard Munchs birth, which will be commemorated with events throughout the year.</p>
+<p xml:lang="vep">23.01.2013</p>
+<p>The National Museum of Art, Architecture and Design and the Munch Museum are collaborating to celebrate Norways best-known painter in various events of all sizes throughout the country during the year. The main event is the exhibition entitled Munch 150 – the largest display of Munchs works ever presented. The exhibition, which lasts from 2 June to 13 October, may be viewed at the National Museum of Art, Architecture and Design and the Munch Museum. Works from 1882-1903 will be on display at the National Museum, while works from 1904-1944 may be seen at the Munch Museum.</p>
+<p type="title">A nation-builder</p>
+<p>In his opening speech, King Harald emphasised what Edvard Munch has meant for Norway:</p>
+<p><em type="italic">- Munch is one of our great nation-builders. Along with the author Ibsen and the composer Grieg, Munchs paintings lie at the core of our cultural foundation. His name and his art help to define Norway as a cultural nation. He makes us proud to be Norwegian, and he is part of our cultural identity. </em></p>
+<p type="title">Always provocative</p>
+<p>Munch has fascinated, inspired and shocked many people, and he continues to do so today – throughout the world. The King noted a few likely explanations for this:</p>
+<p><em type="italic">- Perhaps he speaks to many people because we recognise a part of ourselves in his depictions of human emotions. Anxiety and love, melancholy and jealousy are feelings most of us have experienced to a greater or lesser degree. It is ourselves we can see in a scream, in the silent despair at the bedside of a sick child, or as part of the dance of life. Munch used his own life experience, but he managed to express it figuratively in a manner that touches the range of our emotions as well. He uses colour to describe our light and dark sides. </em></p>
+<p type="title">Wide-ranging commemoration</p>
+<p>The Munch 150 jubilee encompasses several exhibitions, book releases, a photography exhibition and a performance of musical works. Most of the events will take place in Norway, but a few will be held in New York City, Zurich and Stockholm as well. The jubilee concludes on the artists birthday, 12 December.</p>
+<p>A website for the jubilee has been created and provides information about the various events that are planned.</p>
+<p type="title" xml:lang="vep">The Modern Eye</p>
+<p>2012 was also a major year for Munch, as the exhibition The Modern Eye was viewed by over a million people in Paris, Frankfurt and London, before returning home to Norway and the Munch Museum in the autumn. Queen Sonja was the patron of the exhibition and attended the preview in Paris as well as the openings in London and Oslo. Crown Princess Mette-Marit opened the exhibition when it was on display in Frankfurt – an exhibition that set a new attendance record at Schirn Kunsthalle.</p>
+<p>A web-based exhibition has been opened which contains the publics own photographs and experiences of the exhibitions. Visit The Modern Eye at the link on the right.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+</body></document>

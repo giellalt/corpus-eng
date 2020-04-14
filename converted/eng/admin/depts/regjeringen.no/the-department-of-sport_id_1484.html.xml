@@ -1,49 +1,14 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Falástallanossodat - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>119</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/en/dep/kkd/about-the-ministry/Organisation/Departments/The-Department-of-Sport.html?id=1484</origFileName>
-    <parallel_text xml:lang="nno" location="idrettsavdelinga_id_1484.html"/>
-    <parallel_text xml:lang="nob" location="idrettsavdelingen_id_1484.html"/>
-    <parallel_text xml:lang="sme" location="valatallanossodat_id_1484.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Idrettsavdelingen - regjeringen.no</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="nno">Ekspedisjonssjef Marit Wiig</p>
-    <p xml:lang="nob">Wiig er leder i Idrettsavdelingen i Kulturdepartementet.</p>
-    <p>E-post:</p>
-    <p xml:lang="nno">Telefon:</p>
-    <p xml:lang="koi">22 24 80 50</p>
-    <p type="title" xml:lang="nob">ID 1 - Anleggsseksjon</p>
-    <p xml:lang="nob">Seksjonen har ansvar for idrettsanlegg i kommunene, anleggspolitisk program, anlegg for friluftsliv i fjellet, nasjonalanlegg/spesielle anlegg, informasjon/publikasjoner/veiledere, standardisering, juridiske forhold vedrørende idrettsanlegg, idrettsanleggsregisteret og ordningen for kompensasjon av merverdiavgift ved bygging av idrettsanlegg.</p>
-    <p type="title" xml:lang="nob">ID 2 - Aktivitetsseksjon</p>
-    <p xml:lang="nob">Seksjonen har ansvar for fordeling av spillemidler til aktivitet/NIF. Tilskuddsordninger på aktivitetsområdet: tilskudd til lokale lag og foreninger, tilskudd til inkludering i idrettslag, tilskudd til samisk idrett, tilskudd til grupper med spesielle behov, tilskudd til friluftstiltak for barn og ungdom. Antidopingarbeid. Godkjenningsnemnda for organisert kampaktivitet som tillater knockout. Store idrettsarrangement. Internasjonalt arbeid og forskning og utvikling.</p>
-    <p xml:lang="nno">Sist oppdatert: 15.01.2014</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Falástallanossodat - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Kulturdepartementet" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>119</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/en/dep/kkd/about-the-ministry/Organisation/Departments/The-Department-of-Sport.html?id=1484</origFileName><parallel_text xml:lang="nno" location="idrettsavdelinga_id_1484.html"/><parallel_text xml:lang="nob" location="idrettsavdelingen_id_1484.html"/><parallel_text xml:lang="sme" location="valatallanossodat_id_1484.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Idrettsavdelingen - regjeringen.no</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="nno">Ekspedisjonssjef Marit Wiig</p>
+<p xml:lang="nob">Wiig er leder i Idrettsavdelingen i Kulturdepartementet.</p>
+<p>E-post:</p>
+<p xml:lang="nno">Telefon:</p>
+<p xml:lang="vep">22 24 80 50</p>
+<p type="title" xml:lang="nob">ID 1 - Anleggsseksjon</p>
+<p xml:lang="nob">Seksjonen har ansvar for idrettsanlegg i kommunene, anleggspolitisk program, anlegg for friluftsliv i fjellet, nasjonalanlegg/spesielle anlegg, informasjon/publikasjoner/veiledere, standardisering, juridiske forhold vedrørende idrettsanlegg, idrettsanleggsregisteret og ordningen for kompensasjon av merverdiavgift ved bygging av idrettsanlegg.</p>
+<p type="title" xml:lang="nob">ID 2 - Aktivitetsseksjon</p>
+<p xml:lang="nob">Seksjonen har ansvar for fordeling av spillemidler til aktivitet/NIF. Tilskuddsordninger på aktivitetsområdet: tilskudd til lokale lag og foreninger, tilskudd til inkludering i idrettslag, tilskudd til samisk idrett, tilskudd til grupper med spesielle behov, tilskudd til friluftstiltak for barn og ungdom. Antidopingarbeid. Godkjenningsnemnda for organisert kampaktivitet som tillater knockout. Store idrettsarrangement. Internasjonalt arbeid og forskning og utvikling.</p>
+<p xml:lang="nno">Sist oppdatert: 15.01.2014</p>
+</body></document>

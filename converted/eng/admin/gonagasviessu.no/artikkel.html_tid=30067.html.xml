@@ -1,44 +1,18 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Change of government  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>307</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/artikkel.html?tid=30067</origFileName>
-    <parallel_text xml:lang="nob" location="artikkel.html_tid=101274.html"/>
-    <parallel_text xml:lang="sme" location="artikkel.html_tid=75884_sek=75862.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Change of government</p>
-    <p>The King plays an important role in the formal transition from one government to the next.</p>
-    <p>The formal procedure for a change of government is that the prime minister in power informs the King that the government will step down and tenders the King his or her resignation.</p>
-    <p type="title">The procedure</p>
-    <p>The King then consults the Prime Minister about who should form the new government. He may also ask the advice of the President of the Storting (the Norwegian national assembly) or the parliamentary leaders of the various parties. They will normally recommend a person from the party or coalition with the greatest support in the Storting. The constitutional practice is that the King follows this advice, but if the parliamentary situation is unclear the King may use his discretion. An example of this occurred in 1928, when King Haakon chose Christopher Hornsrud, who led the country’s first Labour Government, against the advice of the resigning prime minister.</p>
-    <p>The King then asks the selected candidate to form a government. If the candidate accepts, he or she becomes prime minister and proceeds to choose the members of the new government. The King is then informed of the composition of the new government.</p>
-    <p>The formal resignation of the old government and appointment of the new one each take place at a special session of the Council of State. The new government is officially constituted when the King has signed a Royal Decree to this effect.</p>
-    <p type="title">The Constitution</p>
-    <p>The procedure is set out in Article 12 of the Constitution: <em type="italic"><span type="quote">“The King himself chooses a Council from among Norwegian citizens who are entitled to vote. The Council shall consist of a Prime Minister and at least seven other members.”</span> </em></p>
-    <p xml:lang="koi">12.08.2015</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">The Norwegian Constitution</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Change of government  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>302</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/artikkel.html?tid=30067</origFileName><parallel_text xml:lang="nob" location="artikkel.html_tid=101274.html"/><parallel_text xml:lang="sme" location="artikkel.html_tid=75884_sek=75862.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Change of government</p>
+<p>The King plays an important role in the formal transition from one government to the next.</p>
+<p>The formal procedure for a change of government is that the prime minister in power informs the King that the government will step down and tenders the King his or her resignation.</p>
+<p type="title">The procedure</p>
+<p>The King then consults the Prime Minister about who should form the new government. He may also ask the advice of the President of the Storting (the Norwegian national assembly) or the parliamentary leaders of the various parties. They will normally recommend a person from the party or coalition with the greatest support in the Storting. The constitutional practice is that the King follows this advice, but if the parliamentary situation is unclear the King may use his discretion. An example of this occurred in 1928, when King Haakon chose Christopher Hornsrud, who led the country’s first Labour Government, against the advice of the resigning prime minister.</p>
+<p>The King then asks the selected candidate to form a government. If the candidate accepts, he or she becomes prime minister and proceeds to choose the members of the new government. The King is then informed of the composition of the new government.</p>
+<p>The formal resignation of the old government and appointment of the new one each take place at a special session of the Council of State. The new government is officially constituted when the King has signed a Royal Decree to this effect.</p>
+<p type="title">The Constitution</p>
+<p>The procedure is set out in Article 12 of the Constitution: <em type="italic"><span type="quote">“The King himself chooses a Council from among Norwegian citizens who are entitled to vote. The Council shall consist of a Prime Minister and at least seven other members.”</span> </em></p>
+<p xml:lang="vep">12.08.2015</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">The Norwegian Constitution</p>
+</list></body></document>

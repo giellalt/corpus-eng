@@ -1,86 +1,55 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>307</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/en/Health-care-and-social-services/Universal-design/</origFileName>
-    <parallel_text xml:lang="nob" location="index_33.html"/>
-    <parallel_text xml:lang="sma" location="index_33.html"/>
-    <parallel_text xml:lang="sme" location="index_33.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Universal design - County Governor - Fylkesmannen.no</p>
-    <p>Jump to content</p>
-    <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Sound version</p>
-      <p type="listitem">High contrast</p>
-      <p type="listitem" xml:lang="nno"></p>
-      <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-    <list>
-      <p type="listitem">People and society</p>
-      <p type="listitem">Nursery schools and education</p>
-      <p type="listitem">Children and parents</p>
-      <p type="listitem">Climate and the environment</p>
-    </list>
-    <list>
-      <p type="listitem">Agriculture and food</p>
-      <p type="listitem">Municipal administration</p>
-      <p type="listitem">Planning and building</p>
-      <p type="listitem">Civil protection</p>
-    </list>
-    <p xml:lang="nob">County Governor</p>
-    <p>Health, care and social services</p>
-    <p xml:lang="nob">Universal design</p>
-    <list>
-      <p type="listitem">Care services</p>
-      <p type="listitem">Combating poverty</p>
-      <p type="listitem">Crisis centres</p>
-      <p type="listitem">Driving licences</p>
-      <p type="listitem">Financial social assistance</p>
-      <p type="listitem">Guardianship</p>
-      <p type="listitem">Health services</p>
-      <p type="listitem">Individual plans</p>
-      <p type="listitem">Involuntary treatment</p>
-      <p type="listitem">Medical internship placements</p>
-      <p type="listitem">Mental health and intoxication</p>
-      <p type="listitem">Offshore health services</p>
-      <p type="listitem">Public health</p>
-      <p type="listitem">The Coordination Reform</p>
-      <p type="listitem">The Qualification Programme</p>
-      <p type="listitem" xml:lang="nob">Universal design</p>
-    </list>
-    <p type="title" xml:lang="nob">Universal design</p>
-    <p xml:lang="est">Published 10/14/2012 Updated 3/28/2017</p>
-    <p>Universal design is when products, buildings and outdoor public spaces must be designed so as to ensure that the main solution can be utilised by as many people as possible. Universal design must increase opportunities for everyone to participate in society on equal terms. This applies not only to people with disabilities, but also to families with children in buggies and the elderly.</p>
-    <p>Universal design is the expression of societal values of equality and greater accessibility, and it is envisioned that Norway will be universally designed by 2025.</p>
-    <p type="title">Universal design is enshrined in a number of pieces of legislation</p>
-    <p>Universal design is a strategy that requires co-operation and interdisciplinary planning, user participation, practical implementation and an evaluation of measures. Universal design is also rooted and enshrined in several acts and regulations, including the Anti-Discrimination and Accessibility Act and the Planning and Building Act.</p>
-    <p type="title">The County Governor’s responsibilities</p>
-    <p>The County Governor monitors state initiatives by playing a role in incorporating universal design into regional and municipal plans. The County Governor also provides advice and guidance on universal design to regional and municipal co-operation partners, as well as to volunteer groups, organisations and user groups.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title" xml:lang="est">Links</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Plan- og bygningsloven</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>307</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/Health-care-and-social-services/Universal-design/</origFileName><parallel_text xml:lang="nob" location="index_33.html"/><parallel_text xml:lang="sma" location="index_33.html"/><parallel_text xml:lang="sme" location="index_33.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Universal design - County Governor - Fylkesmannen.no</p>
+<p>Jump to content</p>
+<p xml:lang="nno">County Governor - Fylkesmannen.no</p>
+<list><p type="listitem">Sound version</p>
+<p type="listitem">High contrast</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+<list><p type="listitem">People and society</p>
+<p type="listitem">Nursery schools and education</p>
+<p type="listitem">Children and parents</p>
+<p type="listitem">Climate and the environment</p>
+</list><list><p type="listitem">Agriculture and food</p>
+<p type="listitem">Municipal administration</p>
+<p type="listitem">Planning and building</p>
+<p type="listitem">Civil protection</p>
+</list><p xml:lang="nob">County Governor</p>
+<p>Health, care and social services</p>
+<p xml:lang="nob">Universal design</p>
+<list><p type="listitem">Care services</p>
+<p type="listitem">Combating poverty</p>
+<p type="listitem">Crisis centres</p>
+<p type="listitem">Driving licences</p>
+<p type="listitem">Financial social assistance</p>
+<p type="listitem" xml:lang="rmy-rlo">Guardianship</p>
+<p type="listitem">Health services</p>
+<p type="listitem">Individual plans</p>
+<p type="listitem">Involuntary treatment</p>
+<p type="listitem">Medical internship placements</p>
+<p type="listitem">Mental health and intoxication</p>
+<p type="listitem">Offshore health services</p>
+<p type="listitem">Public health</p>
+<p type="listitem">The Coordination Reform</p>
+<p type="listitem">The Qualification Programme</p>
+<p type="listitem" xml:lang="nob">Universal design</p>
+</list><p type="title" xml:lang="nob">Universal design</p>
+<p xml:lang="est">Published 10/14/2012 Updated 3/28/2017</p>
+<p>Universal design is when products, buildings and outdoor public spaces must be designed so as to ensure that the main solution can be utilised by as many people as possible. Universal design must increase opportunities for everyone to participate in society on equal terms. This applies not only to people with disabilities, but also to families with children in buggies and the elderly.</p>
+<p>Universal design is the expression of societal values of equality and greater accessibility, and it is envisioned that Norway will be universally designed by 2025.</p>
+<p type="title">Universal design is enshrined in a number of pieces of legislation</p>
+<p>Universal design is a strategy that requires co-operation and interdisciplinary planning, user participation, practical implementation and an evaluation of measures. Universal design is also rooted and enshrined in several acts and regulations, including the Anti-Discrimination and Accessibility Act and the Planning and Building Act.</p>
+<p type="title">The County Governor’s responsibilities</p>
+<p>The County Governor monitors state initiatives by playing a role in incorporating universal design into regional and municipal plans. The County Governor also provides advice and guidance on universal design to regional and municipal co-operation partners, as well as to volunteer groups, organisations and user groups.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="est">Links</p>
+<list><p type="listitem" xml:lang="nob">Plan- og bygningsloven</p>
+</list></body></document>

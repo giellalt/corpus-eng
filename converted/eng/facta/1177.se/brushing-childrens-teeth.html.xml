@@ -1,60 +1,26 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>573</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Tander/Brushing-childrens-teeth</origFileName>
-    <parallel_text xml:lang="fin" location="brushing-childrens-teeth.html"/>
-    <parallel_text xml:lang="rus" location="brushing-childrens-teeth.html"/>
-    <parallel_text xml:lang="swe" location="borsta-tander-pa-barn.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Brushing children’s teeth / Borsta tänder på barn - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title" xml:lang="swe">Brushing children’s teethBorsta tänder på barn</p>
-    <p xml:lang="swe"></p>
-    <p type="title">Tips and advice</p>
-    <list>
-      <p type="listitem">The child can stand up or sit down on the adult’s lap and gently lean his/her head backwards. Pull out the corner of the mouth slightly in order to have a better view.</p>
-      <p type="listitem">Angle the toothbrush so that the top bristles reach the edge of the gums. Use small, gentle movements.</p>
-      <p type="listitem">Hold the hand grip straight out when brushing the inside of the front teeth.</p>
-    </list>
-    <p>It is good for your child to become accustomed to having his/her teethbrushed early on.</p>
-    <p>It is a good idea to start tooth brushing by the time your child has its first tooth. If the child becomes accustomed to having his/her teeth brushed early on, tooth brushing will become a natural part of daily life.</p>
-    <p>For a baby, it is mainly about getting used to having a toothbrush in the mouth. If you start early and make a game of the procedure, it usually goes well. When the first molar arrives, it is time to start brushing more systematically. Make it a habit to brush the teeth twice a day, after breakfast and before bedtime.</p>
-    <p type="title">Toothbrush and toothpaste</p>
-    <p>Make sure you use a toothbrush with a small head and soft bristles. The child may initially find that the toothpaste has a strong flavour. You can try using toothpaste that is milder in</p>
-    <p>flavour and only use a very small amount; though, it is important that the toothpaste contains fluoride, which strengthens the teeth. When the child’s first molars arrive, it is enough to use an amount as large as the child’s pinkie nail.</p>
-    <p type="title">How to reach the teeth easier</p>
-    <p>If the child is small, it is a good idea to brush the teeth when the child is lying down on a changing table or in bed, preferably with the child’s head resting on the adult’s lap. Most children automatically open their mouths if you carefully insert a finger in the mouth along the inside of the cheek. Use only a very small amount of water. Small children are unable to rinse out their mouths.</p>
-    <p type="title">Good positioning for slightly older Children</p>
-    <p>Slightly older children can stand up and the adult sit down, while the child gently leans his/her head backwards against the adult’s shoulder and arm. However, it can sometimes be easier for the child to sit on the adult’s lap.</p>
-    <p>If you carefully insert one or two fingers along the inside of the cheek and gently pull out the corner of the mouth slightly, it will be easier to see inside the mouth.</p>
-    <p type="title">Older children also need help</p>
-    <p>Slightly older children can also lie down with their head resting on the adult’s lap. It is then easy to see into the mouth and reach the teeth at the very back, while it is also more comfortable for the child.</p>
-    <p>It is a good idea to allow children to start practising to brush their own teeth early on, however children require help of an adult until they are 10-12 years old.</p>
-    <p type="title">Brush correctly</p>
-    <p>Brush the whole tooth up to the gum line, moving the toothbrush from side to side, tooth by tooth, with very small, gentle strokes. You can try holding the toothbrush like a pen in order not to press down too hard.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>564</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Tander/Brushing-childrens-teeth</origFileName><parallel_text xml:lang="fin" location="brushing-childrens-teeth.html"/><parallel_text xml:lang="rus" location="brushing-childrens-teeth.html"/><parallel_text xml:lang="swe" location="borsta-tander-pa-barn.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Brushing children’s teeth / Borsta tänder på barn - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Brushing children’s teethBorsta tänder på barn</p>
+<p xml:lang="swe"></p>
+<p type="title">Tips and advice</p>
+<list><p type="listitem">The child can stand up or sit down on the adult’s lap and gently lean his/her head backwards. Pull out the corner of the mouth slightly in order to have a better view.</p>
+<p type="listitem">Angle the toothbrush so that the top bristles reach the edge of the gums. Use small, gentle movements.</p>
+<p type="listitem">Hold the hand grip straight out when brushing the inside of the front teeth.</p>
+</list><p>It is good for your child to become accustomed to having his/her teethbrushed early on.</p>
+<p>It is a good idea to start tooth brushing by the time your child has its first tooth. If the child becomes accustomed to having his/her teeth brushed early on, tooth brushing will become a natural part of daily life.</p>
+<p>For a baby, it is mainly about getting used to having a toothbrush in the mouth. If you start early and make a game of the procedure, it usually goes well. When the first molar arrives, it is time to start brushing more systematically. Make it a habit to brush the teeth twice a day, after breakfast and before bedtime.</p>
+<p type="title">Toothbrush and toothpaste</p>
+<p>Make sure you use a toothbrush with a small head and soft bristles. The child may initially find that the toothpaste has a strong flavour. You can try using toothpaste that is milder in</p>
+<p>flavour and only use a very small amount; though, it is important that the toothpaste contains fluoride, which strengthens the teeth. When the child’s first molars arrive, it is enough to use an amount as large as the child’s pinkie nail.</p>
+<p type="title">How to reach the teeth easier</p>
+<p>If the child is small, it is a good idea to brush the teeth when the child is lying down on a changing table or in bed, preferably with the child’s head resting on the adult’s lap. Most children automatically open their mouths if you carefully insert a finger in the mouth along the inside of the cheek. Use only a very small amount of water. Small children are unable to rinse out their mouths.</p>
+<p type="title">Good positioning for slightly older Children</p>
+<p>Slightly older children can stand up and the adult sit down, while the child gently leans his/her head backwards against the adult’s shoulder and arm. However, it can sometimes be easier for the child to sit on the adult’s lap.</p>
+<p>If you carefully insert one or two fingers along the inside of the cheek and gently pull out the corner of the mouth slightly, it will be easier to see inside the mouth.</p>
+<p type="title">Older children also need help</p>
+<p>Slightly older children can also lie down with their head resting on the adult’s lap. It is then easy to see into the mouth and reach the teeth at the very back, while it is also more comfortable for the child.</p>
+<p>It is a good idea to allow children to start practising to brush their own teeth early on, however children require help of an adult until they are 10-12 years old.</p>
+<p type="title">Brush correctly</p>
+<p>Brush the whole tooth up to the gum line, moving the toothbrush from side to side, tooth by tooth, with very small, gentle strokes. You can try holding the toothbrush like a pen in order not to press down too hard.</p>
+</body></document>

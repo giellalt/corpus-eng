@@ -1,61 +1,35 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Maritime focus in ibenik  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>657</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=91513</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=91297.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=91519_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Maritime focus in ibenik</p>
-    <p>Their Majesties The King and Queen spent the second day of the State Visit to Croatia in the seaside town of ibenik. Their programme revolved around joint interests and projects in the maritime sector.</p>
-    <p xml:lang="koi">13.05.2011</p>
-    <p>ibenik is located on the coast of Dalmatia, approximately 80 kilometres north of Split. The deep bay off the coast has made ibenik a natural harbour town.</p>
-    <p type="title">Opened maritime centre</p>
-    <p>His Majesty King Harald opened the iNAVIS maritime innovation centre, where Norwegian and Croatian authorities will work together to develop the maritime sector in Croatia. The centre will facilitate cooperation between government authorities, businesses, and educational and research institutions.</p>
-    <p>King Harald opened the centre by unveiling the plaque on the front of the building. In his remarks, the King emphasised how shipping and marine-based activities have played an essential role in the collaboration between Norway and Croatia and that today Croatia is an equal partner in the further development of the maritime sector.</p>
-    <p><em type="italic">In recent years, Croatia has developed at an amazing pace. With the establishment of the ibenik Maritime Innovation Centre as a joint Croatian-Norwegian enterprise, Croatia has become a partner country with which Norway cooperates on equal terms. () I believe that iNavis will provide a good basis for further development and promotion of our shared and long-established expertise in the maritime sector and shipping industries. </em></p>
-    <p type="title">Christened Hedda and Hælge</p>
-    <p>From the iNAVIS centre, the King and Queen continued on to the Nautical Center Prgin, where Queen Sonja christened the boats Hedda and Hælge.</p>
-    <p>The Nautical Centre Prgin is a corporation comprised of 10 companies, all in the maritime sector. The centre began its operations in 1995 by offering charters. Today the corporation also conducts shipbuilding activities and operates a marina and is responsible for organising the Adriatic Boat Show.</p>
-    <p>Hedda and Hælge belong to Nordic Aqua Boats, a Norwegian company, and were built in ibenik.</p>
-    <p type="title">ibeniks historic town centre</p>
-    <p>The King and Queen arrived in ibeniks historic town centre following a guided tour on the sailboat M/Y Kadena. They disembarked on the pier at the Cathedral of St. Jacob, where they were welcomed by Bishop Ante Ivas.</p>
-    <p>ibeniks history dates back to 1066. The town suffered severe damage during the civil war in the 1990s when both the old town and cathedral were bombed. The Cathedral of St. Jacob was completed in 1536 and is considered to be the most important structure in Croatia from the Renaissance period. In 2000, the cathedral was named a UNESCO World Heritage Site, and the damage from the bombing has since been repaired.</p>
-    <p>King Harald and Queen Sonja were given a guided tour of the old cathedral. A local choir then performed for the King and Queen.</p>
-    <p type="title">Concluded after an official luncheon</p>
-    <p>King Harald and President Ivo Josipović met with members of the media at a concluding meeting on the town square, after which they attended a luncheon hosted by Mayor Ante upanović at the restaurant in City Hall.</p>
-    <p>Following the luncheon, King Harald and Queen Sonja said their good-byes to President Josipović and formally concluded the State Visit to Croatia.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Facts</p>
-    <p><em type="italic">Facts about the Republic of Croatia </em></p>
-    <p>Capital city: Zagreb Largest cities: Zagreb, Split and Rijeka Total area: 56 542 km² Population in 2011: 4.4 million Official language: Croatian</p>
-    <p>Form of government: Republic Head of State in 2011: President Ivo Josipović</p>
-    <p>Diplomatic relations between Norway and Croatia were established in 1992. The State Visit by the King and Queen in May 2011 is Norway’s first official visit to Croatia. Former President Stjepan Mesić visited Norway in 2005.</p>
-    <p>Collaborative projects between Norway and Croatia have focused primarily on maritime cooperation and demining activities.</p>
-    <p>Approximately 135 000 Norwegian tourists visited Croatia in 2010, and these numbers have been increasing in recent years.</p>
-    <p>Source: Norwegian Ministry of Foreign Affairs</p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">State Visit to Croatia (News article)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Maritime focus in ibenik  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>653</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=91513</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=91297.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=91519_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Maritime focus in ibenik</p>
+<p>Their Majesties The King and Queen spent the second day of the State Visit to Croatia in the seaside town of ibenik. Their programme revolved around joint interests and projects in the maritime sector.</p>
+<p xml:lang="vep">13.05.2011</p>
+<p>ibenik is located on the coast of Dalmatia, approximately 80 kilometres north of Split. The deep bay off the coast has made ibenik a natural harbour town.</p>
+<p type="title">Opened maritime centre</p>
+<p>His Majesty King Harald opened the iNAVIS maritime innovation centre, where Norwegian and Croatian authorities will work together to develop the maritime sector in Croatia. The centre will facilitate cooperation between government authorities, businesses, and educational and research institutions.</p>
+<p>King Harald opened the centre by unveiling the plaque on the front of the building. In his remarks, the King emphasised how shipping and marine-based activities have played an essential role in the collaboration between Norway and Croatia and that today Croatia is an equal partner in the further development of the maritime sector.</p>
+<p><em type="italic">In recent years, Croatia has developed at an amazing pace. With the establishment of the ibenik Maritime Innovation Centre as a joint Croatian-Norwegian enterprise, Croatia has become a partner country with which Norway cooperates on equal terms. () I believe that iNavis will provide a good basis for further development and promotion of our shared and long-established expertise in the maritime sector and shipping industries. </em></p>
+<p type="title">Christened Hedda and Hælge</p>
+<p>From the iNAVIS centre, the King and Queen continued on to the Nautical Center Prgin, where Queen Sonja christened the boats Hedda and Hælge.</p>
+<p>The Nautical Centre Prgin is a corporation comprised of 10 companies, all in the maritime sector. The centre began its operations in 1995 by offering charters. Today the corporation also conducts shipbuilding activities and operates a marina and is responsible for organising the Adriatic Boat Show.</p>
+<p>Hedda and Hælge belong to Nordic Aqua Boats, a Norwegian company, and were built in ibenik.</p>
+<p type="title">ibeniks historic town centre</p>
+<p>The King and Queen arrived in ibeniks historic town centre following a guided tour on the sailboat M/Y Kadena. They disembarked on the pier at the Cathedral of St. Jacob, where they were welcomed by Bishop Ante Ivas.</p>
+<p>ibeniks history dates back to 1066. The town suffered severe damage during the civil war in the 1990s when both the old town and cathedral were bombed. The Cathedral of St. Jacob was completed in 1536 and is considered to be the most important structure in Croatia from the Renaissance period. In 2000, the cathedral was named a UNESCO World Heritage Site, and the damage from the bombing has since been repaired.</p>
+<p>King Harald and Queen Sonja were given a guided tour of the old cathedral. A local choir then performed for the King and Queen.</p>
+<p type="title">Concluded after an official luncheon</p>
+<p>King Harald and President Ivo Josipović met with members of the media at a concluding meeting on the town square, after which they attended a luncheon hosted by Mayor Ante upanović at the restaurant in City Hall.</p>
+<p>Following the luncheon, King Harald and Queen Sonja said their good-byes to President Josipović and formally concluded the State Visit to Croatia.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Facts</p>
+<p><em type="italic">Facts about the Republic of Croatia </em></p>
+<p>Capital city: Zagreb Largest cities: Zagreb, Split and Rijeka Total area: 56 542 km² Population in 2011: 4.4 million Official language: Croatian</p>
+<p>Form of government: Republic Head of State in 2011: President Ivo Josipović</p>
+<p>Diplomatic relations between Norway and Croatia were established in 1992. The State Visit by the King and Queen in May 2011 is Norway’s first official visit to Croatia. Former President Stjepan Mesić visited Norway in 2005.</p>
+<p>Collaborative projects between Norway and Croatia have focused primarily on maritime cooperation and demining activities.</p>
+<p>Approximately 135 000 Norwegian tourists visited Croatia in 2010, and these numbers have been increasing in recent years.</p>
+<p>Source: Norwegian Ministry of Foreign Affairs</p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">State Visit to Croatia (News article)</p>
+</list></body></document>

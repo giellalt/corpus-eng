@@ -1,40 +1,14 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Princess Ingrid Alexandra 6 years old  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>111</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=83666</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=83643.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=83664_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Princess Ingrid Alexandra 6 years old</p>
-    <p>Today, 21 January 2010, Her Royal Highness Princess Ingrid Alexandra turned six years old. In honour of the occasion, the Royal Court has released eight new photos of the Princess.</p>
-    <p xml:lang="koi">21.01.2010</p>
-    <p>The pictures were taken earlier this week by photographer Jo Michael at the Crown Prince and Crown Princess' estate Skaugum.</p>
-    <p type="title">For the press</p>
-    <p>High resolution handout photographs can be downloaded via the Photo album for the press-link. Please credit the photographer as well as The Royal Court, Norway.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">Photo album for the Press: The Princess 6 years old</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Princess Ingrid Alexandra 6 years old  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>106</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=83666</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=83643.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=83664_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Princess Ingrid Alexandra 6 years old</p>
+<p>Today, 21 January 2010, Her Royal Highness Princess Ingrid Alexandra turned six years old. In honour of the occasion, the Royal Court has released eight new photos of the Princess.</p>
+<p xml:lang="vep">21.01.2010</p>
+<p>The pictures were taken earlier this week by photographer Jo Michael at the Crown Prince and Crown Princess' estate Skaugum.</p>
+<p type="title">For the press</p>
+<p>High resolution handout photographs can be downloaded via the Photo album for the press-link. Please credit the photographer as well as The Royal Court, Norway.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">Photo album for the Press: The Princess 6 years old</p>
+</list></body></document>

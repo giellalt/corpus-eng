@@ -1,68 +1,40 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Good deeds save the world   - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>827</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=88415</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=88353.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=88495_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Good deeds save the world</p>
-    <p>His Majesty quoted the Norwegian author Bjørnson during the opening of the Norwegian-Slovak seminar on corporate social responsibility this morning. Bjørnson was also on the agenda later in the day when an exhibition dedicated to the writer was officially opened.</p>
-    <p xml:lang="koi">27.10.2010</p>
-    <p> <em type="italic">Good deeds save the world, said Bjørnson. This is a good starting point for todays conference, which will explore how corporate social responsibility and social dialogue can benefit both businesses and society </em>, King Harald said in his opening speech at the seminar. </p>
-    <p>The seminar in Bratislava brings together political decision-makers and representatives of organisations and trade and industry from both countries. The aim is to create a joint platform for enhanced economic cooperation based on important principles such as a safe working environment, upholding human dignity and maintaining a sustainable environment.</p>
-    <p type="title">Gaudeamus – helping disabled children</p>
-    <p>The Queen began the day with a visit to the Gaudeamus Social Service Home, which offers services for disabled children. Thanks to EEA and Norway Grants as well as other types of support, the hydrotherapy centre at the home has been expanded to encompass several swimming pools.</p>
-    <p>Queen Sonja visited the children in their classroom, where they showed her various forms of handiwork. The Queen was also given a tour of the hydrotherapy centre, where she met with children and Paralympic athletes.</p>
-    <p type="title">Slovak handicrafts</p>
-    <p>Later in the day, the Queen visited ÚĽUV – the Centre for Folk Art Production, which promotes and preserves traditional Slovak handicrafts. The organisation has its headquarters in a former handicrafts centre in the Old Town of Bratislava. The Queen was given a tour of the workshops and exhibition hall at the centre.</p>
-    <p type="title">Wine and Warhol</p>
-    <p>The In Vino wine and art complex is located outside of Modra in the viticulture region of Malokarpatská (the Small Carpathians). In addition to its wine production, the complex also features a restaurant and an art gallery – Zoya Museum – which has a large, permanent Andy Warhol collection. The King and Queen were given a tour of both the art gallery and the winemaking facilities.</p>
-    <p type="title" xml:lang="nno">Bjørnson at Bratislava Fortress</p>
-    <p>Bjørnstjerne Bjørnson is not only a prominent figure in Norwegian cultural and social history. His deep commitment to defending the right of small countries to autonomy and to their own language and culture has earned Bjørnson a large place in the heart of the Slovak people, creating a bond between Slovakia and Norway.</p>
-    <p> <em type="italic">Bjørnstjerne Bjørnson was a true friend of Slovakia. With his deep humanist convictions, he fought for the rights of the Slovak nation. And as a result, he is almost as famous in this country as he is in Norway, </em> said King Harald in his speech earlier in the day. At the gala banquet the previous evening, the King also spoke of the important values Bjørnson stood for: respect for minorities, support for cultural diversity, interpersonal relations and bridge-building between nations. </p>
-    <p>This year marks the centennial anniversary of Bjørnsons death, which is also being commemorated in Slovakia. The exhibition that was opened at the historical Bratislava Fortress today presents Bjørnsons life and literary works and looks at his significance for Slovakia.</p>
-    <p>The foreign ministers of Norway and Slovakia each gave speeches during the exhibition opening, after which President Gaparovič and King Harald unveiled a bust of the author. Norwegian singer and actress Herborg Kråkevik performed during the opening.</p>
-    <p type="title">Receptions</p>
-    <p>This afternoon, the King and Queen are attending a reception for the Norwegian trade delegation at the Hotel Bôrik. More than 20 representatives of Norwegian trade and industry are accompanying the King and Queen on their State Visit.</p>
-    <p>This evening, the King and Queen and President Ivan Gaparovič and First Lady Silvia Gaparovičová will attend a reception hosted by the Norwegian Embassy at the Hotel Crowne Plaza. After listening to modern interpretations of Norwegian traditional music by the Norwegian band Valkyrien Allstars, the president and his wife and the other guests will be treated to a menu entitled A Taste of Norway.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Facts</p>
-    <p><em type="italic">About the Slovak Republic </em></p>
-    <p>Capital: Bratislava Largest cities: Bratislava, Košice and Prešov</p>
-    <p>Total area: 49 035 km² Population (2010): approximately 5.4 million Official language: Slovak</p>
-    <p>Form of government: Republic Head of state (2010): President Ivan Gašparovič</p>
-    <p>Diplomatic ties were established between Norway and Slovakia on 1 January 1993, when Slovakia became an independent state after the dissolution of the former Czechoslovakia.</p>
-    <p>Although cooperation between Slovakia and Norway has been relatively limited, collaborative activities in the spheres of trade and industry and cultural affairs are now on the rise, due in part to Norway’s support via EEA and Norway Grants and the establishment of the Norwegian Embassy in Bratislava in January 2005.</p>
-    <p>Source: Norwegian Ministry of Foreign Affairs</p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">State Visit to Slovakia (News article)</p>
-      <p type="listitem">Visit concluded in Banská tiavnica (News article)</p>
-    </list>
-    <list>
-      <p type="listitem">Photo album from the State Visit to Slovakia</p>
-      <p type="listitem" xml:lang="deu">ÚĽUV</p>
-      <p type="listitem" xml:lang="nob">Zoya museum</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Good deeds save the world   - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>822</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=88415</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=88353.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=88495_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Good deeds save the world</p>
+<p>His Majesty quoted the Norwegian author Bjørnson during the opening of the Norwegian-Slovak seminar on corporate social responsibility this morning. Bjørnson was also on the agenda later in the day when an exhibition dedicated to the writer was officially opened.</p>
+<p xml:lang="vep">27.10.2010</p>
+<p> <em type="italic">Good deeds save the world, said Bjørnson. This is a good starting point for todays conference, which will explore how corporate social responsibility and social dialogue can benefit both businesses and society </em>, King Harald said in his opening speech at the seminar. </p>
+<p>The seminar in Bratislava brings together political decision-makers and representatives of organisations and trade and industry from both countries. The aim is to create a joint platform for enhanced economic cooperation based on important principles such as a safe working environment, upholding human dignity and maintaining a sustainable environment.</p>
+<p type="title">Gaudeamus – helping disabled children</p>
+<p>The Queen began the day with a visit to the Gaudeamus Social Service Home, which offers services for disabled children. Thanks to EEA and Norway Grants as well as other types of support, the hydrotherapy centre at the home has been expanded to encompass several swimming pools.</p>
+<p>Queen Sonja visited the children in their classroom, where they showed her various forms of handiwork. The Queen was also given a tour of the hydrotherapy centre, where she met with children and Paralympic athletes.</p>
+<p type="title">Slovak handicrafts</p>
+<p>Later in the day, the Queen visited ÚĽUV – the Centre for Folk Art Production, which promotes and preserves traditional Slovak handicrafts. The organisation has its headquarters in a former handicrafts centre in the Old Town of Bratislava. The Queen was given a tour of the workshops and exhibition hall at the centre.</p>
+<p type="title">Wine and Warhol</p>
+<p>The In Vino wine and art complex is located outside of Modra in the viticulture region of Malokarpatská (the Small Carpathians). In addition to its wine production, the complex also features a restaurant and an art gallery – Zoya Museum – which has a large, permanent Andy Warhol collection. The King and Queen were given a tour of both the art gallery and the winemaking facilities.</p>
+<p type="title" xml:lang="nno">Bjørnson at Bratislava Fortress</p>
+<p>Bjørnstjerne Bjørnson is not only a prominent figure in Norwegian cultural and social history. His deep commitment to defending the right of small countries to autonomy and to their own language and culture has earned Bjørnson a large place in the heart of the Slovak people, creating a bond between Slovakia and Norway.</p>
+<p> <em type="italic">Bjørnstjerne Bjørnson was a true friend of Slovakia. With his deep humanist convictions, he fought for the rights of the Slovak nation. And as a result, he is almost as famous in this country as he is in Norway, </em> said King Harald in his speech earlier in the day. At the gala banquet the previous evening, the King also spoke of the important values Bjørnson stood for: respect for minorities, support for cultural diversity, interpersonal relations and bridge-building between nations. </p>
+<p>This year marks the centennial anniversary of Bjørnsons death, which is also being commemorated in Slovakia. The exhibition that was opened at the historical Bratislava Fortress today presents Bjørnsons life and literary works and looks at his significance for Slovakia.</p>
+<p>The foreign ministers of Norway and Slovakia each gave speeches during the exhibition opening, after which President Gaparovič and King Harald unveiled a bust of the author. Norwegian singer and actress Herborg Kråkevik performed during the opening.</p>
+<p type="title">Receptions</p>
+<p>This afternoon, the King and Queen are attending a reception for the Norwegian trade delegation at the Hotel Bôrik. More than 20 representatives of Norwegian trade and industry are accompanying the King and Queen on their State Visit.</p>
+<p>This evening, the King and Queen and President Ivan Gaparovič and First Lady Silvia Gaparovičová will attend a reception hosted by the Norwegian Embassy at the Hotel Crowne Plaza. After listening to modern interpretations of Norwegian traditional music by the Norwegian band Valkyrien Allstars, the president and his wife and the other guests will be treated to a menu entitled A Taste of Norway.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Facts</p>
+<p><em type="italic">About the Slovak Republic </em></p>
+<p>Capital: Bratislava Largest cities: Bratislava, Košice and Prešov</p>
+<p>Total area: 49 035 km² Population (2010): approximately 5.4 million Official language: Slovak</p>
+<p>Form of government: Republic Head of state (2010): President Ivan Gašparovič</p>
+<p>Diplomatic ties were established between Norway and Slovakia on 1 January 1993, when Slovakia became an independent state after the dissolution of the former Czechoslovakia.</p>
+<p>Although cooperation between Slovakia and Norway has been relatively limited, collaborative activities in the spheres of trade and industry and cultural affairs are now on the rise, due in part to Norway’s support via EEA and Norway Grants and the establishment of the Norwegian Embassy in Bratislava in January 2005.</p>
+<p>Source: Norwegian Ministry of Foreign Affairs</p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">State Visit to Slovakia (News article)</p>
+<p type="listitem">Visit concluded in Banská tiavnica (News article)</p>
+</list><list><p type="listitem">Photo album from the State Visit to Slovakia</p>
+<p type="listitem" xml:lang="deu">ÚĽUV</p>
+<p type="listitem" xml:lang="nob">Zoya museum</p>
+</list></body></document>

@@ -1,416 +1,326 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>4907</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.udir.no/kl06/MAT1-04/Hele/Komplett_visning?lplang=eng&amp;read=1</origFileName>
-    <parallel_text xml:lang="nno" location="laereplan_matematikk-felles.html"/>
-    <parallel_text xml:lang="sma" location="laereplan_matematikk-felles.html"/>
-    <parallel_text xml:lang="sme" location="laereplan_matematikk-felles.html"/>
-    <parallel_text xml:lang="smj" location="laereplan_matematikk-felles.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="smj">Udir.no - CURRICULUM FOR THE COMMON CORE SUBJECT OF MATHEMATICS</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p type="title">CURRICULUM FOR THE COMMON CORE SUBJECT OF MATHEMATICS</p>
-    <p>Established as a Regulation by the Ministry of Education and Research on 21 June 2013</p>
-    <p>Applicable from: 01.08.2013</p>
-    <p type="title">Purpose</p>
-    <p>Mathematics is part of our global cultural heritage. Throughout the ages humankind has used and developed mathematics to systematise experiences, to describe and relationships in nature and society and to explore the universe. Throughout the ages humankind has used and developed mathematics to systematise experiences, to describe and relationships in nature and society and to explore the universe. Another source of inspiration for the development of the subject has been the joy people have felt when simply working with mathematics. The subject is part of many vital societal areas, including medicine, economy, technology, communication, energy management and construction. Solid competence in mathematics is thus a requirement for developing society. Active democracy requires citizens who are able to study, understand and critically assess quantitative information, statistical analyses and economic prognoses. Hence mathematical competence is required to understand and influence processes in society.</p>
-    <p>Solid competence in mathematics involves using problem-solving techniques and modelling to analyse and transform a problem into mathematic form, solve the problem and evaluate the validity of the solution. This also has linguistic aspects, such as reasoning, communicating converse about and applying reason to ideas. Aids and technologies are used in most mathematical activities. Being able to use and assess aids and technology and being able to recognise their limitations are important aspects of the subject. Competence in mathematics is an important tool for each individual, and the subject can form the basis for pursuing further education and for participation in working life and recreational activities. Mathematics is an underpinning of important elements of our cultural history and for the development of logical thinking. Thus the subject plays a key role in general education by influencing identity, thinking and understanding of oneself.</p>
-    <p>The subject of Mathematics contributes to developing the mathematical competence needed by society and each individual. To attain this, pupils must be allowed to work both theoretically and practically. The teaching must switch between explorative, playful, creative and problem-solving activities and training in skills. Mathematics shows its usefulness as a practical tool. In school activities, central ideas, forms, structures and relations in the subject are exploited. Pupils must be challenged to communicate using mathematics in its written, oral and digital forms. Both girls and boys must have the opportunity to gain rich experiences from the subject of Mathematics that create positive attitudes to and solid competence in the subject. In this way the foundation is laid for lifelong learning.</p>
-    <p type="title">Main subject areas</p>
-    <p>The subject has been structured into main areas for which competence aims have been formulated. These main subject areas supplement each other and must be considered together.</p>
-    <p>Mathematics is a common core subject for all the education programmes in upper secondary education. The subject shall therefore be made as relevant as possible for pupils by adapting the subject to the different education programmes.</p>
-    <p>Mathematics has competence aims after the second, fourth, seventh and tenth years in primary and lower secondary education and after Vg1 (the first year) and Vg2 (the second year) in programmes for general studies and vocational education programmes in upper secondary education.</p>
-    <p>There are two subject curricula for Vg1. Variant T is more theoretical, while Variant P is more practical.</p>
-    <p>Both variants qualify candidates for higher education together with either the common core programme subject Mathematics at level Vg2 (Vg2T/Vg2P) or the programme subject Mathematics (R1/S1).</p>
-    <p>Pupils taking the vocational subjects shall have of their Vg1 curriculum in 1P or 1T: The curriculum shows the competence aims for Mathematics for the vocational education programmes in 1T-Y and 1P-Y.</p>
-    <p><em type="bold">Overview of the main subject areas: </em></p>
-    <p><em type="bold">Year Level </em></p>
-    <p><em type="bold">Main subject areas </em></p>
-    <p xml:lang="koi">1–4</p>
-    <p xml:lang="isl">Numbers</p>
-    <p>Geometry</p>
-    <p>Measuring</p>
-    <p>Statistics</p>
-    <p xml:lang="koi">5–7</p>
-    <p>Numbers and algebra in practice</p>
-    <p>Geometry</p>
-    <p>Measuring</p>
-    <p>Statistics and probability</p>
-    <p xml:lang="koi">8–10</p>
-    <p>Numbers and algebra in practice</p>
-    <p>Geometry</p>
-    <p>Measuring</p>
-    <p>Statistics, probability and combinatorics</p>
-    <p>Functions</p>
-    <p xml:lang="smn">1T</p>
-    <p>Numbers and algebra in practice</p>
-    <p>Geometry</p>
-    <p>Probability</p>
-    <p>Functions</p>
-    <p xml:lang="vep">1P</p>
-    <p>Numbers and algebra in practice</p>
-    <p>Geometry</p>
-    <p>Probability</p>
-    <p>Functions</p>
-    <p>Economics</p>
-    <p xml:lang="est">1T-Y</p>
-    <p>Numbers and algebra in practice</p>
-    <p>Geometry</p>
-    <p>Functions</p>
-    <p xml:lang="vep">1P-Y</p>
-    <p>Numbers and algebra in practice</p>
-    <p>Geometry</p>
-    <p>Economics</p>
-    <p type="title">Numbers and algebra in practice</p>
-    <p>The main subject area Numbers and algebra in practice focuses on developing an understanding of numbers and insight into how numbers and processing numbers are part of systems and patterns. With numbers it is possible to quantify amounts and magnitudes. Numbers includes whole numbers, fractions, decimal numbers and percentages. Algebra in school generalises calculation with numbers by representing numbers with letters or other symbols. This makes it possible to describe and analyse patterns and relationships. Algebra is also used in connection with the other main subject areas.</p>
-    <p type="title">Geometry</p>
-    <p>Geometry in school focuses on analysing characteristics of two- and three-dimensional figures and carrying out constructions and calculations. Dynamic processes are studied, such as mirroring, rotation and displacement. The main subject area also covers describing locations and moving around grids, maps and coordinate systems.</p>
-    <p type="title">Measurement</p>
-    <p>Measuring means comparing and often assigning a size in numbers to an object or amount. This process requires the use of measurement units and suitable techniques, measuring tools and formulas. Assessing results and discussing measurement uncertainty are important elements of the measuring process.</p>
-    <p type="title">Statistics, probability and combinatorics</p>
-    <p>Statistics covers planning, collecting, organising, analysing and presenting data. Part of data analysis is describing general characteristics of the data material. Assessing and critically considering conclusions and presentations of data are key elements in statistics. Probability focuses on expressing in numbers the likelihood that an event will occur. Combinatorics involves systematic ways of determining numbers, and is often required for calculating probability.</p>
-    <p type="title">Functions</p>
-    <p>A function unambiguously describes change or development of an amount that depends on another. Functions may be expressed in a number of ways, for example using formulas, tables and graphs. Analysis of functions involves looking for special characteristics, such as the speed of a process and when the process reaches particular values.</p>
-    <p type="title">Economics</p>
-    <p>The main subject area Economics focuses on calculations and assessments of economic conditions.</p>
-    <p type="title">Teaching hours</p>
-    <p>Teaching hours are given in 60-minute units:</p>
-    <p xml:lang="vep">PRIMARY SCHOOL</p>
-    <p>Year levels 1-4: 560 teaching hours</p>
-    <p>Year levels 5-7: 328 teaching hours</p>
-    <p xml:lang="deu">LOWER SECONDARY SCHOOL</p>
-    <p>Year levels 8–10: 313 teaching hours</p>
-    <p xml:lang="nob">PROGRAMMES FOR GENERAL STUDIES</p>
-    <p>Vg1: 140 teaching hours</p>
-    <p xml:lang="deu">VOCATIONAL EDUCATION PROGRAMME</p>
-    <p>Vg1: 84 teaching hours</p>
-    <p type="title">Basic skills</p>
-    <p>Basic skills are integrated in the competence aims where they contribute to development of the competence in the subject, while also being part of this competence. In the subject of Mathematics the basic skills are understood as follows:</p>
-    <p><em type="italic">Oral skills </em>in Mathematics involves creating meaning by listening, speaking and conversing about mathematics. It involves forming opinions, asking questions and using argumentation with help from informal language, precise terminology and the use of concepts. This also means participating in discussions, communicating ideas and elaborating on problems, solutions and strategies with other pupils. The development of oral skills in Mathematics begins with conversations about mathematics and leads to presenting, discussing and elaborating on more and more complex themes related to the subject matter. Furthermore, this development starts with a basic mathematics vocabulary that leads to precise professional terminology, the use of specific concepts and other modes of mathematical expression. </p>
-    <p><em type="italic">Being able to express oneself in writing </em>in Mathematics involves describing and explaining a process of thought and putting words to discoveries and ideas. It involves the use of mathematical symbols and formal mathematical language to solve problems and present solutions. It also means making drawings, sketches, figures, graphs, tables and diagrams suited to the situation. Writing in Mathematics is a tool for developing one’s own thoughts and own learning. The development of writing related to mathematics begins with simple forms of expression and gradually moves toward more formal symbolic language and a precise terminology. The development also begins by describing and systematising simple situations with content from the subject matter to building up comprehensive argumentation concerning complex relationships. </p>
-    <p><em type="italic">Being able to read </em>in Mathematics involves understanding and using symbolic language and forms of expression to create meaning from texts in day-to-day life, working life and from mathematics texts. The subject matter of Mathematics is characterised by complex texts that may include mathematical expressions, graphs, tables, symbols, formulas and logical reasoning. Reading in Mathematics involves sorting through information, analysing and evaluating form and content, and summarising information from different elements in the texts. The development of reading in Mathematics begins with finding and using information in the texts by means of simple symbolic language and moves toward finding meaning and reflecting on complex professional and technical literature with advanced symbolic language and concepts. </p>
-    <p><em type="italic">Numeracy </em>in Mathematics involves the use of symbolic language, mathematical concepts, methods of approach and varied strategies to solve problems and explore mathematics by taking a point of departure in practical day-to-day situations and mathematical problems. This involves learning to pinpoint and describe situations where mathematics is involved and using mathematical methods to deal with problems. The pupil must also communicate and evaluate the validity of his or her solutions. The development of numeracy in Mathematics begins with a basic understanding of numbers, pinpointing and solving problems in simple situations and gradually leads to analysing and solving a wide range of complex problems using a varied selection of strategies and methods. It also involves an increasing use of different tools for calculations, modelling and communication. </p>
-    <p><em type="italic">Digital skills </em>in Mathematics involves using digital tools to learn through play, exploration, visualisation and presentation. It also involves learning how to use and assess digital aids and tools for calculating, problem solving, simulation and modelling. It also means it is important to find information, analyse, process and present data using appropriate tools, and being critical of sources, analyses and results. The development of digital skills involves working with complex digital texts with an increasing degree of complexity. It also involves developing an increasing awareness of the new digital tools that exist for learning in the subject of Mathematics. </p>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after Year 2</p>
-    <p type="title" xml:lang="isl">Numbers</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">count to 100, divide and compose amounts up to 10, put together and divide groups of ten up to 100, and divide double-digit numbers in to tens and ones</p>
-      <p type="listitem">use the real number line for calculations and demonstrate the magnitude of numbers</p>
-      <p type="listitem">make estimates of amounts, count, compare numbers and express number magnitudes in varied ways</p>
-      <p type="listitem">develop, use and converse about varied counting strategies for addition and subtraction of double-digit numbers, and evaluate how reasonable the answer is</p>
-      <p type="listitem">double and halve</p>
-      <p type="listitem">recognise, talk about and further develop structures in simple number patterns</p>
-    </list>
-    <p type="title">Geometry</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">recognise and describe characteristics of simple two- and three-dimensional figures in connection with corners, edges and surfaces, and sort and name the figures according to these characteristics</p>
-      <p type="listitem">recognise and use mirror symmetry in practical situations</p>
-      <p type="listitem">make and explore geometric patterns, with and without using digital tools, and describe them orally</p>
-    </list>
-    <p type="title">Measurement</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">measure and compare magnitudes for length and area using suitable non-standard and standard measurement units, describe how this was done, and converse about the results</p>
-      <p type="listitem">name days, months and simple times of day</p>
-      <p type="listitem">recognise Norwegian coins and use them when buying and selling up to the number 100</p>
-    </list>
-    <p type="title">Statistics</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">collect, sort, note and illustrate data using tally marks, tables and bar graphs, converse about the process and what the illustrations tell us about the data</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after Year 4</p>
-    <p type="title" xml:lang="isl">Numbers</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">describe and use the place-value system for whole numbers, use positive and negative whole numbers, simple fractions and decimal numbers in practical connections, and express number magnitudes in different ways</p>
-      <p type="listitem">make estimates of and find numbers by means of counting in one’s head, using counting aids and written notes, making estimates by calculatiing with simple numbers, and assessing answers</p>
-      <p type="listitem">develop and use different arithmetic methods for addition and subtraction of multi-digit numbers in his or her head and on paper</p>
-      <p type="listitem">develop and use varied methods of multiplication and division, use these in practical situations and use the standard multiplication table counting in one’s head and for solving equations</p>
-      <p type="listitem">find information in texts or in practical situations, choose an arithmetic operation and provide rationale for the choice, use knowledge of tables about the arithmetic operations and exploit simple relations between the arithmetic operations</p>
-      <p type="listitem">recognise, experiment with, describe and further develop structures in simple number patterns</p>
-      <p type="listitem">use mathematical symbols and mathematical modes of expression to express mathematical relationships to solve equations</p>
-    </list>
-    <p type="title">Geometry</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">recognise, describe the characteristics of and sort circles, polygons, cones, cylinders and polyhedra</p>
-      <p type="listitem">draw, build, experiment with and describe geometric figures and models in practical connections, including technology and design</p>
-      <p type="listitem">recognise, use and describe mirror symmetry and parallel displacement in specific situations</p>
-      <p type="listitem">make and explore geometric patterns and describe them orally</p>
-      <p type="listitem">read, place and describe positions in grids, on maps and in coordinate systems, with and without digital tools</p>
-    </list>
-    <p type="title">Measurement</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">make estimates of and measure length, area, volume, mass, temperature, time and angles and converse about the results and assess whether the result is reasonable or not</p>
-      <p type="listitem">use non-standardised measurement units and explain the purpose of standardised measurement units, and convert between common measurement units</p>
-      <p type="listitem">compare magnitudes using suitable measuring tools and simple calculations, present the results and evaluate whether the results are reasonable or not</p>
-      <p type="listitem">solve practical buying and selling tasks</p>
-    </list>
-    <p type="title">Statistics</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">collect, sort, note and illustrate data using tally marks, tables and bar graphs, with and without the use of digital tools, and converse about the process and what the illustrations tell us about the data</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after Year 7</p>
-    <p type="title">Numbers and algebra in practice</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">describe and use the place value system for decimal numerals, reckon with positive and negative whole numbers, decimals, fractions and percentages, and place these along a number line</p>
-      <p type="listitem">find common denominators and carry out addition, subtraction and multiplication of fractions</p>
-      <p type="listitem">develop and use methods for counting in his or her head, make estimates and written calculations, and use a calculator for these methods</p>
-      <p type="listitem">describe the reference system and the notation used in formulas in a spreadsheet, and use spreadsheets to carry out and present simple calculations</p>
-      <p type="listitem">find information in texts or in practical situations, choose an arithmetic operation and provide rationale for the choice, assess the results and present and discuss the chosen solutions</p>
-      <p type="listitem">explore and describe structures and changes in geometric patterns and number patterns using figures, words and formulas</p>
-      <p type="listitem">solve simple equations, solve problems using brackets for addition, subtraction and multiplication of whole numbers</p>
-    </list>
-    <p type="title">Geometry</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">analyse characteristics of two- and three-dimensional figures and describe physical objects from day-to-day life and technology using geometric terms</p>
-      <p type="listitem">build three-dimensional models, draw perspectives with a vanishing point and discuss the processes and the result</p>
-      <p type="listitem">describe and carry out mirroring, rotation and parallel displacement</p>
-      <p type="listitem">describe locating and moving around a grid, on a map and within a coordinate system, with and without the use of digital tools, and use coordinates to calculate parallel distances with axes in a coordinate system</p>
-    </list>
-    <p type="title">Measurement</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">select suitable measuring tools and carry out practical measurements in connection with day-to-day life and technology, and assess the results based on precision and measuring uncertainty</p>
-      <p type="listitem">make estimates and measure magnitudes for length, area, mass, volume, angle and time, and use time and time intervals in simple calculations, then discuss the results and assess the reasonableness of the results</p>
-      <p type="listitem">choose suitable measurement units and convert between different measurement units</p>
-      <p type="listitem">explain the structure of measurements for length, area and volume and calculate the circumference and area, surface and volume of simple two- and three-dimensional figures</p>
-      <p type="listitem">use a scale to calculate distances and prepare and converse about maps and work drawings, with and without using digital tools</p>
-      <p type="listitem">use proportions in practical connections, calculate velocity and convert between currencies</p>
-    </list>
-    <p type="title">Statistics and probability</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">plan and collect data in connection with observations, questionnaires and experiments</p>
-      <p type="listitem">represent data in tables and graphs that are produced digitally and manually, with and without using digital tools, and read, interpret and assess their usefulness</p>
-      <p type="listitem">find median, mode and averages for simple data sets and assess them in relation to each other</p>
-      <p type="listitem">assess and converse about probability in day-to-day contexts, games and experiments and calculate probability in simple situations</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after Year 10</p>
-    <p type="title">Numbers and algebra in practice</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">compare and convert whole numbers, decimal numbers, fractions, percentages, per thousandths and express such figures in various ways, and evaluate situations where the different representations are suitable</p>
-      <p type="listitem">calculate with fractions, carry out division of fractions and simplify fractions</p>
-      <p type="listitem">use factors, powers, square roots and prime numbers in calculations</p>
-      <p type="listitem">develop, use and elaborate on methods for counting in one’s head, make estimation calculations and written calculations with the four arithmetic operations</p>
-      <p type="listitem">process, factor and simplify algebraic expressions, tie expressions to practical situations, calculate using formulas, brackets and fraction expressions and use square expressions</p>
-      <p type="listitem">solve equations and inequalities of the first order and simple equation systems with two unknowns and use this to solve practical and theoretical problems</p>
-      <p type="listitem">do calculations on consumption, use of credit cards, income, loans and savings, set up budgets and accounts using a spreadsheet, explain the calculations and present the results</p>
-      <p type="listitem">analyse complex problems, identify fixed and variable quantities, connect complex problems to known solution methods, carry out calculations and present the results in a suitable manner</p>
-      <p type="listitem">use numbers and variables in exploration, experimentation, practical and theoretical problem solving and technology and design projects</p>
-    </list>
-    <p type="title">Geometry</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">investigate and describe the characteristics of two- and three-dimensional figures and use them for constructions and calculations</p>
-      <p type="listitem">perform, describe and provide rationale for geometric constructions using a compass and ruler and dynamic geometry programs</p>
-      <p type="listitem">use congruence and the Pythagorean theorem to calculate unknown lengths and angles and provide rationale for one’s choices</p>
-      <p type="listitem">interpret and make working drawings and perspective drawings with several vanishing points, with and without digital tools</p>
-      <p type="listitem">use coordinates to represent figures and find characteristics of geometric forms with and without the use of digital tools</p>
-      <p type="listitem">explore, experiment with and formulate logical reasoning by means of geometric ideas, and elaborate on geometric relations that are particularly important in technology, art and architecture</p>
-    </list>
-    <p type="title">Measurement</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">make estimates of and calculate length, circumference, angle, area, surface, volume and time, and use and change scales</p>
-      <p type="listitem">choose appropriate measurement units, explain relationships and convert between different measurement units, use and assess measuring instruments and measuring methods for practical measuring, and discuss and elaborate on precision and measuring uncertainty</p>
-      <p type="listitem">elaborate on the number π and use it for calculating circumference, area and volume</p>
-    </list>
-    <p type="title">Statistics, probability and combinatorics</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">carry out investigations and use databases to search for and analyse statistical data and critically assess sources</p>
-      <p type="listitem">order and group data, find and discuss and elaborate on the median, mode, average and spread, and present data with and without digital tools, and discuss and elaborate on different ways of presenting data and what impressions these can give</p>
-      <p type="listitem">find and discuss probability by experimenting, simulating and calculating in day-to-day contexts and games</p>
-      <p type="listitem">describe sample space and represent probability as fraction, percentage and decimal number</p>
-      <p type="listitem">discuss and elaborate on and solve simple combinatorics problems</p>
-    </list>
-    <p type="title">Functions</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">prepare functions that describe numerical relationships and practical situations, on paper and digitally, describe and interpret them and convert between various representations of functions, such as graphs, tables, formulas and text</p>
-      <p type="listitem">identify and exploit characteristics of proportional, inversely proportional, linear and simple square functions, and provide examples of situations that may be described using these functions</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after 1T - Vg1 education programmes for general studies</p>
-    <p type="title">Numbers and algebra in practice</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">interpret, process and assess the mathematical content in various texts</p>
-      <p type="listitem">evaluate, select and use mathematical methods and tools to solve problems from different subjects and social areas and reflect on, evaluate and present solutions in a purposeful manner</p>
-      <p type="listitem">calculate with powers with rational exponents and numbers in scientific notation, algebraic expressions, formulas, expressions with brackets and alphanumerical rational and square expressions, use quadratic equations to factor algebraic expressions</p>
-      <p type="listitem">reformulate expressions and solve equations, inequalities and systems of equations of the first and second order and simple equations with exponential and logarithmic functions, using algebra and digital aids</p>
-      <p type="listitem">convert a practical problem into an equation, an inequality or an equation system, solve it with and without using digital tools, present and provide rationale for the chosen solution and assess the validity of the solution</p>
-    </list>
-    <p type="title">Geometry</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">elaborate on the definitions of sine, cosine and tangent and use trigonometry to calculate length, angles and area of triangles</p>
-      <p type="listitem">use plane geometry to analyse and solve composite theoretical and practical problems connected to lengths, angles and areas</p>
-      <p type="listitem">make and use sketches and drawings to formulate and solve problems and to present and provide rationale for chosen solutions, with and without using digital tools</p>
-    </list>
-    <p type="title">Probability</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">formulate, experiment with and discuss and elaborate on simple uniform and non-uniform probability models</p>
-      <p type="listitem">calculate probability by counting all favourable and all possible results based on tables and by systematising counts using cross tables, venn diagrams and the addition rule and the multiplication principle in practical contexts</p>
-    </list>
-    <p type="title">Functions</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">explain the concept of functions and be able to convert between different representations of functions</p>
-      <p type="listitem">calculate zero, minimum gradient, intersection and average rate of change, find approximate values for instantaneous rates of change and provide practical interpretations of these aspects</p>
-      <p type="listitem">elaborate on the definition of the derivative, use the definition to deduce a rule for the derivative of polynomial functions and use this rule to discuss functions</p>
-      <p type="listitem">make, interpret and explain functions that describe practical questions, analyse empirical functions and find expressions for an approximate linear function, with and without using digital tools</p>
-      <p type="listitem">use digital aids to present and analyse combinations of polynomial functions, rational functions, exponential functions and power functions</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after 1P – Vg1 education programmes for general studies</p>
-    <p type="title">Numbers and algebra in practice</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">make estimates of answers, calculate with practical tasks, with and without technical aids, and assess how reasonable the results are</p>
-      <p type="listitem">interpret, process, assess and discuss the mathematical content of written, oral and graphic presentations</p>
-      <p type="listitem">simplify polynomial expressions, solve equations of the first order and simple quadratic equations</p>
-      <p type="listitem">interpret and use formulas that apply to day-to-day life and working life</p>
-      <p type="listitem">calculate with proportions, percentages, percentage points and growth factors</p>
-      <p type="listitem">deal with proportional and inversely proportional magnitudes in practical contexts</p>
-    </list>
-    <p type="title">Geometry</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">use and provide rationale for congruence, scales and the Pythagorean theorem for calculations and in practical work</p>
-      <p type="listitem">solve practical problems involving length, angle, area and volume</p>
-      <p type="listitem">do calculations using different measurement units and measuring tools, and analyse the precision of measurement accuracy and assess how uncertain the measurement are</p>
-      <p type="listitem">interpret, make and use sketches and working drawings for problems from cultural and working life, and present these and provide rationale for one’s chosen solutions</p>
-    </list>
-    <p type="title">Probability</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">make examples and simulations of random events and explain the concept of probability</p>
-      <p type="listitem">calculate probability by counting all favourable and all possible results based on tables and by systematising counts using cross tables, venn diagrams and the addition rule and the multiplication principle in practical contexts</p>
-    </list>
-    <p type="title">Functions</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">elaborate on the concept of linear growth, demonstrate the progress of such growth and use this in practical examples, also by using digital aids</p>
-      <p type="listitem">convert between different representations of functions</p>
-      <p type="listitem">examine functions that describe practical situations, by determining the intersection, zero, minimum or maximum and gradient, and interpret the practical value of the results</p>
-    </list>
-    <p type="title">Economics</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">explain and calculate using price indices, currency values, real wages and nominal wages, and calculate income, taxes and charges</p>
-      <p type="listitem">evaluate consumption, use of credit cards and set up a budget and accounts using a spreadsheet</p>
-      <p type="listitem">investigate and evaluate different forms of loans and savings</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after 1T-Y - Vg1 vocational education programme</p>
-    <p type="title">Numbers and algebra in practice</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">interpret, process and assess the mathematical content in various texts</p>
-      <p type="listitem">evaluate, select and use mathematical methods and tools to solve problems from different subjects and social areas and reflect on, evaluate and present solutions in a purposeful manner</p>
-      <p type="listitem">calculate with powers with rational exponents and numbers in scientific notation, algebraic expressions, formulas, expressions with brackets and alphanumerical rational and square expressions, use quadratic equations to factor algebraic expressions</p>
-      <p type="listitem">convert a practical problem into an equation, an inequality or an equation system, solve it with and without using digital tools, present and provide rationale for the chosen solution and assess the validity of the solution</p>
-    </list>
-    <p type="title">Geometry</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">elaborate on the definitions of sine, cosine and tangent and use trigonometry to calculate length, angles and area of triangles</p>
-      <p type="listitem">use plane geometry to analyse and solve composite theoretical and practical problems connected to lengths, angles and areas</p>
-      <p type="listitem">make and use sketches and drawings to formulate and solve problems and to present and provide rationale for chosen solutions, with and without using digital tools</p>
-    </list>
-    <p type="title">Functions</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">make, interpret and explain functions that describe practical questions, analyse empirical functions and find expressions for an approximate linear function, with and without using digital tools</p>
-      <p type="listitem">explain the concept of functions and be able to convert between different representations of functions</p>
-      <p type="listitem">calculate zero, minimum gradient, intersection and average rate of change, find approximate values for instantaneous rates of change and provide practical interpretations of these aspects</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after 1P-Y - Vg1 vocational education programme</p>
-    <p type="title">Numbers and algebra in practice</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">make estimates of answers, calculate with practical tasks, with and without technical aids, and assess how reasonable the results are</p>
-      <p type="listitem">interpret, process, assess and discuss the mathematical content of written, oral and graphic presentations</p>
-      <p type="listitem">simplify polynomial expressions, solve equations of the first order and simple quadratic equations</p>
-      <p type="listitem">interpret and use formulas that apply to day-to-day life and working life</p>
-      <p type="listitem">calculate with proportions, percentages, percentage points and growth factors</p>
-      <p type="listitem">deal with proportional and inversely proportional magnitudes in practical contexts</p>
-    </list>
-    <p type="title">Geometry</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">use and provide rationale for congruence, scales and the Pythagorean theorem for calculations and in practical work</p>
-      <p type="listitem">solve practical problems involving length, angle, area and volume</p>
-      <p type="listitem">do calculations using different measurement units and measuring tools, and analyse the precision of measurement accuracy and assess how uncertain the measurement are</p>
-      <p type="listitem">interpret, make and use sketches and working drawings for problems from cultural and working life, and present these and provide rationale for one’s chosen solutions</p>
-    </list>
-    <p type="title">Economics</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">explain and calculate using price indices, currency values, real wages and nominal wages, and calculate income, taxes and charges</p>
-      <p type="listitem">evaluate consumption, use of credit cards and set up a budget and accounts using a spreadsheet</p>
-      <p type="listitem">investigate and evaluate different forms of loans and savings</p>
-    </list>
-    <p type="title">Assessment</p>
-    <p>Provisions for final assessment:</p>
-    <p><em type="bold">Overall achievement grades </em></p>
-    <p><em type="bold">Year Level </em></p>
-    <p><em type="bold">Provision </em></p>
-    <p>Year Level 10</p>
-    <p>Pupils shall have one overall achievement grade.</p>
-    <p>Vg1 vocational education programmes</p>
-    <p>Vg2 programmes for general studies</p>
-    <p>Pupils shall have one overall achievement grade.</p>
-    <p><em type="bold">Examinations for pupils </em></p>
-    <p><em type="bold">Year Level </em></p>
-    <p><em type="bold">Provision </em></p>
-    <p>Year Level 10</p>
-    <p>Pupils may be selected for a written or oral examination. The written examination is prepared and graded centrally. Pupils may be selected for a written or oral examination. The oral examination is prepared and graded locally.</p>
-    <p>Vg1 vocational education programmes</p>
-    <p>Pupils may be selected for a written or oral examination. The written examination is prepared and graded centrally. The oral examination is prepared and graded locally.</p>
-    <p>Vg2 programmes for general studies</p>
-    <p>Pupils may be selected for a written or oral examination. The written examination is prepared and graded centrally. The oral examination is prepared and graded locally.</p>
-    <p><em type="bold">Examinations for external candidates </em></p>
-    <p><em type="bold">Year Level </em></p>
-    <p><em type="bold">Provision </em></p>
-    <p>Year Level 10</p>
-    <p>See the provision in force for primary and lower secondary education for adults.</p>
-    <p>Vg1 vocational education programmes</p>
-    <p>External candidates shall sit for a written examination. The oral examination is prepared and graded locally.</p>
-    <p>Vg2 programmes for general studies</p>
-    <p>External candidates shall sit for a written examination. The examination is prepared and graded centrally.</p>
-    <p>The general provisions on assessment have been laid down in the Regulations relating to the Norwegian Education Act.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4907</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/MAT1-04/Hele/Komplett_visning?lplang=eng&amp;read=1</origFileName><parallel_text xml:lang="nno" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sma" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sme" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="smj" location="laereplan_matematikk-felles.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="smj">Udir.no - CURRICULUM FOR THE COMMON CORE SUBJECT OF MATHEMATICS</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p type="title">CURRICULUM FOR THE COMMON CORE SUBJECT OF MATHEMATICS</p>
+<p>Established as a Regulation by the Ministry of Education and Research on 21 June 2013</p>
+<p>Applicable from: 01.08.2013</p>
+<p type="title">Purpose</p>
+<p>Mathematics is part of our global cultural heritage. Throughout the ages humankind has used and developed mathematics to systematise experiences, to describe and relationships in nature and society and to explore the universe. Throughout the ages humankind has used and developed mathematics to systematise experiences, to describe and relationships in nature and society and to explore the universe. Another source of inspiration for the development of the subject has been the joy people have felt when simply working with mathematics. The subject is part of many vital societal areas, including medicine, economy, technology, communication, energy management and construction. Solid competence in mathematics is thus a requirement for developing society. Active democracy requires citizens who are able to study, understand and critically assess quantitative information, statistical analyses and economic prognoses. Hence mathematical competence is required to understand and influence processes in society.</p>
+<p>Solid competence in mathematics involves using problem-solving techniques and modelling to analyse and transform a problem into mathematic form, solve the problem and evaluate the validity of the solution. This also has linguistic aspects, such as reasoning, communicating converse about and applying reason to ideas. Aids and technologies are used in most mathematical activities. Being able to use and assess aids and technology and being able to recognise their limitations are important aspects of the subject. Competence in mathematics is an important tool for each individual, and the subject can form the basis for pursuing further education and for participation in working life and recreational activities. Mathematics is an underpinning of important elements of our cultural history and for the development of logical thinking. Thus the subject plays a key role in general education by influencing identity, thinking and understanding of oneself.</p>
+<p>The subject of Mathematics contributes to developing the mathematical competence needed by society and each individual. To attain this, pupils must be allowed to work both theoretically and practically. The teaching must switch between explorative, playful, creative and problem-solving activities and training in skills. Mathematics shows its usefulness as a practical tool. In school activities, central ideas, forms, structures and relations in the subject are exploited. Pupils must be challenged to communicate using mathematics in its written, oral and digital forms. Both girls and boys must have the opportunity to gain rich experiences from the subject of Mathematics that create positive attitudes to and solid competence in the subject. In this way the foundation is laid for lifelong learning.</p>
+<p type="title">Main subject areas</p>
+<p>The subject has been structured into main areas for which competence aims have been formulated. These main subject areas supplement each other and must be considered together.</p>
+<p>Mathematics is a common core subject for all the education programmes in upper secondary education. The subject shall therefore be made as relevant as possible for pupils by adapting the subject to the different education programmes.</p>
+<p>Mathematics has competence aims after the second, fourth, seventh and tenth years in primary and lower secondary education and after Vg1 (the first year) and Vg2 (the second year) in programmes for general studies and vocational education programmes in upper secondary education.</p>
+<p>There are two subject curricula for Vg1. Variant T is more theoretical, while Variant P is more practical.</p>
+<p>Both variants qualify candidates for higher education together with either the common core programme subject Mathematics at level Vg2 (Vg2T/Vg2P) or the programme subject Mathematics (R1/S1).</p>
+<p>Pupils taking the vocational subjects shall have of their Vg1 curriculum in 1P or 1T: The curriculum shows the competence aims for Mathematics for the vocational education programmes in 1T-Y and 1P-Y.</p>
+<p><em type="bold">Overview of the main subject areas: </em></p>
+<p xml:lang="nob"><em type="bold">Year Level </em></p>
+<p><em type="bold">Main subject areas </em></p>
+<p xml:lang="vep">1–4</p>
+<p xml:lang="isl">Numbers</p>
+<p>Geometry</p>
+<p>Measuring</p>
+<p>Statistics</p>
+<p xml:lang="vep">5–7</p>
+<p>Numbers and algebra in practice</p>
+<p>Geometry</p>
+<p>Measuring</p>
+<p>Statistics and probability</p>
+<p xml:lang="vep">8–10</p>
+<p>Numbers and algebra in practice</p>
+<p>Geometry</p>
+<p>Measuring</p>
+<p>Statistics, probability and combinatorics</p>
+<p>Functions</p>
+<p xml:lang="smn">1T</p>
+<p>Numbers and algebra in practice</p>
+<p>Geometry</p>
+<p>Probability</p>
+<p>Functions</p>
+<p xml:lang="vep">1P</p>
+<p>Numbers and algebra in practice</p>
+<p>Geometry</p>
+<p>Probability</p>
+<p>Functions</p>
+<p>Economics</p>
+<p xml:lang="est">1T-Y</p>
+<p>Numbers and algebra in practice</p>
+<p>Geometry</p>
+<p>Functions</p>
+<p xml:lang="est">1P-Y</p>
+<p>Numbers and algebra in practice</p>
+<p>Geometry</p>
+<p>Economics</p>
+<p type="title">Numbers and algebra in practice</p>
+<p>The main subject area Numbers and algebra in practice focuses on developing an understanding of numbers and insight into how numbers and processing numbers are part of systems and patterns. With numbers it is possible to quantify amounts and magnitudes. Numbers includes whole numbers, fractions, decimal numbers and percentages. Algebra in school generalises calculation with numbers by representing numbers with letters or other symbols. This makes it possible to describe and analyse patterns and relationships. Algebra is also used in connection with the other main subject areas.</p>
+<p type="title">Geometry</p>
+<p>Geometry in school focuses on analysing characteristics of two- and three-dimensional figures and carrying out constructions and calculations. Dynamic processes are studied, such as mirroring, rotation and displacement. The main subject area also covers describing locations and moving around grids, maps and coordinate systems.</p>
+<p type="title">Measurement</p>
+<p>Measuring means comparing and often assigning a size in numbers to an object or amount. This process requires the use of measurement units and suitable techniques, measuring tools and formulas. Assessing results and discussing measurement uncertainty are important elements of the measuring process.</p>
+<p type="title">Statistics, probability and combinatorics</p>
+<p>Statistics covers planning, collecting, organising, analysing and presenting data. Part of data analysis is describing general characteristics of the data material. Assessing and critically considering conclusions and presentations of data are key elements in statistics. Probability focuses on expressing in numbers the likelihood that an event will occur. Combinatorics involves systematic ways of determining numbers, and is often required for calculating probability.</p>
+<p type="title">Functions</p>
+<p>A function unambiguously describes change or development of an amount that depends on another. Functions may be expressed in a number of ways, for example using formulas, tables and graphs. Analysis of functions involves looking for special characteristics, such as the speed of a process and when the process reaches particular values.</p>
+<p type="title">Economics</p>
+<p>The main subject area Economics focuses on calculations and assessments of economic conditions.</p>
+<p type="title">Teaching hours</p>
+<p>Teaching hours are given in 60-minute units:</p>
+<p xml:lang="vep">PRIMARY SCHOOL</p>
+<p>Year levels 1-4: 560 teaching hours</p>
+<p>Year levels 5-7: 328 teaching hours</p>
+<p xml:lang="deu">LOWER SECONDARY SCHOOL</p>
+<p>Year levels 8–10: 313 teaching hours</p>
+<p xml:lang="nob">PROGRAMMES FOR GENERAL STUDIES</p>
+<p>Vg1: 140 teaching hours</p>
+<p xml:lang="deu">VOCATIONAL EDUCATION PROGRAMME</p>
+<p>Vg1: 84 teaching hours</p>
+<p type="title">Basic skills</p>
+<p>Basic skills are integrated in the competence aims where they contribute to development of the competence in the subject, while also being part of this competence. In the subject of Mathematics the basic skills are understood as follows:</p>
+<p><em type="italic">Oral skills </em>in Mathematics involves creating meaning by listening, speaking and conversing about mathematics. It involves forming opinions, asking questions and using argumentation with help from informal language, precise terminology and the use of concepts. This also means participating in discussions, communicating ideas and elaborating on problems, solutions and strategies with other pupils. The development of oral skills in Mathematics begins with conversations about mathematics and leads to presenting, discussing and elaborating on more and more complex themes related to the subject matter. Furthermore, this development starts with a basic mathematics vocabulary that leads to precise professional terminology, the use of specific concepts and other modes of mathematical expression. </p>
+<p><em type="italic">Being able to express oneself in writing </em>in Mathematics involves describing and explaining a process of thought and putting words to discoveries and ideas. It involves the use of mathematical symbols and formal mathematical language to solve problems and present solutions. It also means making drawings, sketches, figures, graphs, tables and diagrams suited to the situation. Writing in Mathematics is a tool for developing one’s own thoughts and own learning. The development of writing related to mathematics begins with simple forms of expression and gradually moves toward more formal symbolic language and a precise terminology. The development also begins by describing and systematising simple situations with content from the subject matter to building up comprehensive argumentation concerning complex relationships. </p>
+<p><em type="italic">Being able to read </em>in Mathematics involves understanding and using symbolic language and forms of expression to create meaning from texts in day-to-day life, working life and from mathematics texts. The subject matter of Mathematics is characterised by complex texts that may include mathematical expressions, graphs, tables, symbols, formulas and logical reasoning. Reading in Mathematics involves sorting through information, analysing and evaluating form and content, and summarising information from different elements in the texts. The development of reading in Mathematics begins with finding and using information in the texts by means of simple symbolic language and moves toward finding meaning and reflecting on complex professional and technical literature with advanced symbolic language and concepts. </p>
+<p><em type="italic">Numeracy </em>in Mathematics involves the use of symbolic language, mathematical concepts, methods of approach and varied strategies to solve problems and explore mathematics by taking a point of departure in practical day-to-day situations and mathematical problems. This involves learning to pinpoint and describe situations where mathematics is involved and using mathematical methods to deal with problems. The pupil must also communicate and evaluate the validity of his or her solutions. The development of numeracy in Mathematics begins with a basic understanding of numbers, pinpointing and solving problems in simple situations and gradually leads to analysing and solving a wide range of complex problems using a varied selection of strategies and methods. It also involves an increasing use of different tools for calculations, modelling and communication. </p>
+<p><em type="italic">Digital skills </em>in Mathematics involves using digital tools to learn through play, exploration, visualisation and presentation. It also involves learning how to use and assess digital aids and tools for calculating, problem solving, simulation and modelling. It also means it is important to find information, analyse, process and present data using appropriate tools, and being critical of sources, analyses and results. The development of digital skills involves working with complex digital texts with an increasing degree of complexity. It also involves developing an increasing awareness of the new digital tools that exist for learning in the subject of Mathematics. </p>
+<p xml:lang="swe"></p>
+<p type="title">Competence aims after Year 2</p>
+<p type="title" xml:lang="isl">Numbers</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">count to 100, divide and compose amounts up to 10, put together and divide groups of ten up to 100, and divide double-digit numbers in to tens and ones</p>
+<p type="listitem">use the real number line for calculations and demonstrate the magnitude of numbers</p>
+<p type="listitem">make estimates of amounts, count, compare numbers and express number magnitudes in varied ways</p>
+<p type="listitem">develop, use and converse about varied counting strategies for addition and subtraction of double-digit numbers, and evaluate how reasonable the answer is</p>
+<p type="listitem">double and halve</p>
+<p type="listitem">recognise, talk about and further develop structures in simple number patterns</p>
+</list><p type="title">Geometry</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">recognise and describe characteristics of simple two- and three-dimensional figures in connection with corners, edges and surfaces, and sort and name the figures according to these characteristics</p>
+<p type="listitem">recognise and use mirror symmetry in practical situations</p>
+<p type="listitem">make and explore geometric patterns, with and without using digital tools, and describe them orally</p>
+</list><p type="title">Measurement</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">measure and compare magnitudes for length and area using suitable non-standard and standard measurement units, describe how this was done, and converse about the results</p>
+<p type="listitem">name days, months and simple times of day</p>
+<p type="listitem">recognise Norwegian coins and use them when buying and selling up to the number 100</p>
+</list><p type="title">Statistics</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">collect, sort, note and illustrate data using tally marks, tables and bar graphs, converse about the process and what the illustrations tell us about the data</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Competence aims after Year 4</p>
+<p type="title" xml:lang="isl">Numbers</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">describe and use the place-value system for whole numbers, use positive and negative whole numbers, simple fractions and decimal numbers in practical connections, and express number magnitudes in different ways</p>
+<p type="listitem">make estimates of and find numbers by means of counting in one’s head, using counting aids and written notes, making estimates by calculatiing with simple numbers, and assessing answers</p>
+<p type="listitem">develop and use different arithmetic methods for addition and subtraction of multi-digit numbers in his or her head and on paper</p>
+<p type="listitem">develop and use varied methods of multiplication and division, use these in practical situations and use the standard multiplication table counting in one’s head and for solving equations</p>
+<p type="listitem">find information in texts or in practical situations, choose an arithmetic operation and provide rationale for the choice, use knowledge of tables about the arithmetic operations and exploit simple relations between the arithmetic operations</p>
+<p type="listitem">recognise, experiment with, describe and further develop structures in simple number patterns</p>
+<p type="listitem">use mathematical symbols and mathematical modes of expression to express mathematical relationships to solve equations</p>
+</list><p type="title">Geometry</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">recognise, describe the characteristics of and sort circles, polygons, cones, cylinders and polyhedra</p>
+<p type="listitem">draw, build, experiment with and describe geometric figures and models in practical connections, including technology and design</p>
+<p type="listitem">recognise, use and describe mirror symmetry and parallel displacement in specific situations</p>
+<p type="listitem">make and explore geometric patterns and describe them orally</p>
+<p type="listitem">read, place and describe positions in grids, on maps and in coordinate systems, with and without digital tools</p>
+</list><p type="title">Measurement</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">make estimates of and measure length, area, volume, mass, temperature, time and angles and converse about the results and assess whether the result is reasonable or not</p>
+<p type="listitem">use non-standardised measurement units and explain the purpose of standardised measurement units, and convert between common measurement units</p>
+<p type="listitem">compare magnitudes using suitable measuring tools and simple calculations, present the results and evaluate whether the results are reasonable or not</p>
+<p type="listitem">solve practical buying and selling tasks</p>
+</list><p type="title">Statistics</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">collect, sort, note and illustrate data using tally marks, tables and bar graphs, with and without the use of digital tools, and converse about the process and what the illustrations tell us about the data</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Competence aims after Year 7</p>
+<p type="title">Numbers and algebra in practice</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">describe and use the place value system for decimal numerals, reckon with positive and negative whole numbers, decimals, fractions and percentages, and place these along a number line</p>
+<p type="listitem">find common denominators and carry out addition, subtraction and multiplication of fractions</p>
+<p type="listitem">develop and use methods for counting in his or her head, make estimates and written calculations, and use a calculator for these methods</p>
+<p type="listitem">describe the reference system and the notation used in formulas in a spreadsheet, and use spreadsheets to carry out and present simple calculations</p>
+<p type="listitem">find information in texts or in practical situations, choose an arithmetic operation and provide rationale for the choice, assess the results and present and discuss the chosen solutions</p>
+<p type="listitem">explore and describe structures and changes in geometric patterns and number patterns using figures, words and formulas</p>
+<p type="listitem">solve simple equations, solve problems using brackets for addition, subtraction and multiplication of whole numbers</p>
+</list><p type="title">Geometry</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">analyse characteristics of two- and three-dimensional figures and describe physical objects from day-to-day life and technology using geometric terms</p>
+<p type="listitem">build three-dimensional models, draw perspectives with a vanishing point and discuss the processes and the result</p>
+<p type="listitem">describe and carry out mirroring, rotation and parallel displacement</p>
+<p type="listitem">describe locating and moving around a grid, on a map and within a coordinate system, with and without the use of digital tools, and use coordinates to calculate parallel distances with axes in a coordinate system</p>
+</list><p type="title">Measurement</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">select suitable measuring tools and carry out practical measurements in connection with day-to-day life and technology, and assess the results based on precision and measuring uncertainty</p>
+<p type="listitem">make estimates and measure magnitudes for length, area, mass, volume, angle and time, and use time and time intervals in simple calculations, then discuss the results and assess the reasonableness of the results</p>
+<p type="listitem">choose suitable measurement units and convert between different measurement units</p>
+<p type="listitem">explain the structure of measurements for length, area and volume and calculate the circumference and area, surface and volume of simple two- and three-dimensional figures</p>
+<p type="listitem">use a scale to calculate distances and prepare and converse about maps and work drawings, with and without using digital tools</p>
+<p type="listitem">use proportions in practical connections, calculate velocity and convert between currencies</p>
+</list><p type="title">Statistics and probability</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">plan and collect data in connection with observations, questionnaires and experiments</p>
+<p type="listitem">represent data in tables and graphs that are produced digitally and manually, with and without using digital tools, and read, interpret and assess their usefulness</p>
+<p type="listitem">find median, mode and averages for simple data sets and assess them in relation to each other</p>
+<p type="listitem">assess and converse about probability in day-to-day contexts, games and experiments and calculate probability in simple situations</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Competence aims after Year 10</p>
+<p type="title">Numbers and algebra in practice</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">compare and convert whole numbers, decimal numbers, fractions, percentages, per thousandths and express such figures in various ways, and evaluate situations where the different representations are suitable</p>
+<p type="listitem">calculate with fractions, carry out division of fractions and simplify fractions</p>
+<p type="listitem">use factors, powers, square roots and prime numbers in calculations</p>
+<p type="listitem">develop, use and elaborate on methods for counting in one’s head, make estimation calculations and written calculations with the four arithmetic operations</p>
+<p type="listitem">process, factor and simplify algebraic expressions, tie expressions to practical situations, calculate using formulas, brackets and fraction expressions and use square expressions</p>
+<p type="listitem">solve equations and inequalities of the first order and simple equation systems with two unknowns and use this to solve practical and theoretical problems</p>
+<p type="listitem">do calculations on consumption, use of credit cards, income, loans and savings, set up budgets and accounts using a spreadsheet, explain the calculations and present the results</p>
+<p type="listitem">analyse complex problems, identify fixed and variable quantities, connect complex problems to known solution methods, carry out calculations and present the results in a suitable manner</p>
+<p type="listitem">use numbers and variables in exploration, experimentation, practical and theoretical problem solving and technology and design projects</p>
+</list><p type="title">Geometry</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">investigate and describe the characteristics of two- and three-dimensional figures and use them for constructions and calculations</p>
+<p type="listitem">perform, describe and provide rationale for geometric constructions using a compass and ruler and dynamic geometry programs</p>
+<p type="listitem">use congruence and the Pythagorean theorem to calculate unknown lengths and angles and provide rationale for one’s choices</p>
+<p type="listitem">interpret and make working drawings and perspective drawings with several vanishing points, with and without digital tools</p>
+<p type="listitem">use coordinates to represent figures and find characteristics of geometric forms with and without the use of digital tools</p>
+<p type="listitem">explore, experiment with and formulate logical reasoning by means of geometric ideas, and elaborate on geometric relations that are particularly important in technology, art and architecture</p>
+</list><p type="title">Measurement</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">make estimates of and calculate length, circumference, angle, area, surface, volume and time, and use and change scales</p>
+<p type="listitem">choose appropriate measurement units, explain relationships and convert between different measurement units, use and assess measuring instruments and measuring methods for practical measuring, and discuss and elaborate on precision and measuring uncertainty</p>
+<p type="listitem">elaborate on the number π and use it for calculating circumference, area and volume</p>
+</list><p type="title">Statistics, probability and combinatorics</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">carry out investigations and use databases to search for and analyse statistical data and critically assess sources</p>
+<p type="listitem">order and group data, find and discuss and elaborate on the median, mode, average and spread, and present data with and without digital tools, and discuss and elaborate on different ways of presenting data and what impressions these can give</p>
+<p type="listitem">find and discuss probability by experimenting, simulating and calculating in day-to-day contexts and games</p>
+<p type="listitem">describe sample space and represent probability as fraction, percentage and decimal number</p>
+<p type="listitem">discuss and elaborate on and solve simple combinatorics problems</p>
+</list><p type="title">Functions</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">prepare functions that describe numerical relationships and practical situations, on paper and digitally, describe and interpret them and convert between various representations of functions, such as graphs, tables, formulas and text</p>
+<p type="listitem">identify and exploit characteristics of proportional, inversely proportional, linear and simple square functions, and provide examples of situations that may be described using these functions</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Competence aims after 1T - Vg1 education programmes for general studies</p>
+<p type="title">Numbers and algebra in practice</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">interpret, process and assess the mathematical content in various texts</p>
+<p type="listitem">evaluate, select and use mathematical methods and tools to solve problems from different subjects and social areas and reflect on, evaluate and present solutions in a purposeful manner</p>
+<p type="listitem">calculate with powers with rational exponents and numbers in scientific notation, algebraic expressions, formulas, expressions with brackets and alphanumerical rational and square expressions, use quadratic equations to factor algebraic expressions</p>
+<p type="listitem">reformulate expressions and solve equations, inequalities and systems of equations of the first and second order and simple equations with exponential and logarithmic functions, using algebra and digital aids</p>
+<p type="listitem">convert a practical problem into an equation, an inequality or an equation system, solve it with and without using digital tools, present and provide rationale for the chosen solution and assess the validity of the solution</p>
+</list><p type="title">Geometry</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">elaborate on the definitions of sine, cosine and tangent and use trigonometry to calculate length, angles and area of triangles</p>
+<p type="listitem">use plane geometry to analyse and solve composite theoretical and practical problems connected to lengths, angles and areas</p>
+<p type="listitem">make and use sketches and drawings to formulate and solve problems and to present and provide rationale for chosen solutions, with and without using digital tools</p>
+</list><p type="title">Probability</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">formulate, experiment with and discuss and elaborate on simple uniform and non-uniform probability models</p>
+<p type="listitem">calculate probability by counting all favourable and all possible results based on tables and by systematising counts using cross tables, venn diagrams and the addition rule and the multiplication principle in practical contexts</p>
+</list><p type="title">Functions</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">explain the concept of functions and be able to convert between different representations of functions</p>
+<p type="listitem">calculate zero, minimum gradient, intersection and average rate of change, find approximate values for instantaneous rates of change and provide practical interpretations of these aspects</p>
+<p type="listitem">elaborate on the definition of the derivative, use the definition to deduce a rule for the derivative of polynomial functions and use this rule to discuss functions</p>
+<p type="listitem">make, interpret and explain functions that describe practical questions, analyse empirical functions and find expressions for an approximate linear function, with and without using digital tools</p>
+<p type="listitem">use digital aids to present and analyse combinations of polynomial functions, rational functions, exponential functions and power functions</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Competence aims after 1P – Vg1 education programmes for general studies</p>
+<p type="title">Numbers and algebra in practice</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">make estimates of answers, calculate with practical tasks, with and without technical aids, and assess how reasonable the results are</p>
+<p type="listitem">interpret, process, assess and discuss the mathematical content of written, oral and graphic presentations</p>
+<p type="listitem">simplify polynomial expressions, solve equations of the first order and simple quadratic equations</p>
+<p type="listitem">interpret and use formulas that apply to day-to-day life and working life</p>
+<p type="listitem">calculate with proportions, percentages, percentage points and growth factors</p>
+<p type="listitem">deal with proportional and inversely proportional magnitudes in practical contexts</p>
+</list><p type="title">Geometry</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">use and provide rationale for congruence, scales and the Pythagorean theorem for calculations and in practical work</p>
+<p type="listitem">solve practical problems involving length, angle, area and volume</p>
+<p type="listitem">do calculations using different measurement units and measuring tools, and analyse the precision of measurement accuracy and assess how uncertain the measurement are</p>
+<p type="listitem">interpret, make and use sketches and working drawings for problems from cultural and working life, and present these and provide rationale for one’s chosen solutions</p>
+</list><p type="title">Probability</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">make examples and simulations of random events and explain the concept of probability</p>
+<p type="listitem">calculate probability by counting all favourable and all possible results based on tables and by systematising counts using cross tables, venn diagrams and the addition rule and the multiplication principle in practical contexts</p>
+</list><p type="title">Functions</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">elaborate on the concept of linear growth, demonstrate the progress of such growth and use this in practical examples, also by using digital aids</p>
+<p type="listitem">convert between different representations of functions</p>
+<p type="listitem">examine functions that describe practical situations, by determining the intersection, zero, minimum or maximum and gradient, and interpret the practical value of the results</p>
+</list><p type="title">Economics</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">explain and calculate using price indices, currency values, real wages and nominal wages, and calculate income, taxes and charges</p>
+<p type="listitem">evaluate consumption, use of credit cards and set up a budget and accounts using a spreadsheet</p>
+<p type="listitem">investigate and evaluate different forms of loans and savings</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Competence aims after 1T-Y - Vg1 vocational education programme</p>
+<p type="title">Numbers and algebra in practice</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">interpret, process and assess the mathematical content in various texts</p>
+<p type="listitem">evaluate, select and use mathematical methods and tools to solve problems from different subjects and social areas and reflect on, evaluate and present solutions in a purposeful manner</p>
+<p type="listitem">calculate with powers with rational exponents and numbers in scientific notation, algebraic expressions, formulas, expressions with brackets and alphanumerical rational and square expressions, use quadratic equations to factor algebraic expressions</p>
+<p type="listitem">convert a practical problem into an equation, an inequality or an equation system, solve it with and without using digital tools, present and provide rationale for the chosen solution and assess the validity of the solution</p>
+</list><p type="title">Geometry</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">elaborate on the definitions of sine, cosine and tangent and use trigonometry to calculate length, angles and area of triangles</p>
+<p type="listitem">use plane geometry to analyse and solve composite theoretical and practical problems connected to lengths, angles and areas</p>
+<p type="listitem">make and use sketches and drawings to formulate and solve problems and to present and provide rationale for chosen solutions, with and without using digital tools</p>
+</list><p type="title">Functions</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">make, interpret and explain functions that describe practical questions, analyse empirical functions and find expressions for an approximate linear function, with and without using digital tools</p>
+<p type="listitem">explain the concept of functions and be able to convert between different representations of functions</p>
+<p type="listitem">calculate zero, minimum gradient, intersection and average rate of change, find approximate values for instantaneous rates of change and provide practical interpretations of these aspects</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Competence aims after 1P-Y - Vg1 vocational education programme</p>
+<p type="title">Numbers and algebra in practice</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">make estimates of answers, calculate with practical tasks, with and without technical aids, and assess how reasonable the results are</p>
+<p type="listitem">interpret, process, assess and discuss the mathematical content of written, oral and graphic presentations</p>
+<p type="listitem">simplify polynomial expressions, solve equations of the first order and simple quadratic equations</p>
+<p type="listitem">interpret and use formulas that apply to day-to-day life and working life</p>
+<p type="listitem">calculate with proportions, percentages, percentage points and growth factors</p>
+<p type="listitem">deal with proportional and inversely proportional magnitudes in practical contexts</p>
+</list><p type="title">Geometry</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">use and provide rationale for congruence, scales and the Pythagorean theorem for calculations and in practical work</p>
+<p type="listitem">solve practical problems involving length, angle, area and volume</p>
+<p type="listitem">do calculations using different measurement units and measuring tools, and analyse the precision of measurement accuracy and assess how uncertain the measurement are</p>
+<p type="listitem">interpret, make and use sketches and working drawings for problems from cultural and working life, and present these and provide rationale for one’s chosen solutions</p>
+</list><p type="title">Economics</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">explain and calculate using price indices, currency values, real wages and nominal wages, and calculate income, taxes and charges</p>
+<p type="listitem">evaluate consumption, use of credit cards and set up a budget and accounts using a spreadsheet</p>
+<p type="listitem">investigate and evaluate different forms of loans and savings</p>
+</list><p type="title">Assessment</p>
+<p>Provisions for final assessment:</p>
+<p><em type="bold">Overall achievement grades </em></p>
+<p xml:lang="nob"><em type="bold">Year Level </em></p>
+<p><em type="bold">Provision </em></p>
+<p>Year Level 10</p>
+<p>Pupils shall have one overall achievement grade.</p>
+<p>Vg1 vocational education programmes</p>
+<p>Vg2 programmes for general studies</p>
+<p>Pupils shall have one overall achievement grade.</p>
+<p><em type="bold">Examinations for pupils </em></p>
+<p xml:lang="nob"><em type="bold">Year Level </em></p>
+<p><em type="bold">Provision </em></p>
+<p>Year Level 10</p>
+<p>Pupils may be selected for a written or oral examination. The written examination is prepared and graded centrally. Pupils may be selected for a written or oral examination. The oral examination is prepared and graded locally.</p>
+<p>Vg1 vocational education programmes</p>
+<p>Pupils may be selected for a written or oral examination. The written examination is prepared and graded centrally. The oral examination is prepared and graded locally.</p>
+<p>Vg2 programmes for general studies</p>
+<p>Pupils may be selected for a written or oral examination. The written examination is prepared and graded centrally. The oral examination is prepared and graded locally.</p>
+<p><em type="bold">Examinations for external candidates </em></p>
+<p xml:lang="nob"><em type="bold">Year Level </em></p>
+<p><em type="bold">Provision </em></p>
+<p>Year Level 10</p>
+<p>See the provision in force for primary and lower secondary education for adults.</p>
+<p>Vg1 vocational education programmes</p>
+<p>External candidates shall sit for a written examination. The oral examination is prepared and graded locally.</p>
+<p>Vg2 programmes for general studies</p>
+<p>External candidates shall sit for a written examination. The examination is prepared and graded centrally.</p>
+<p>The general provisions on assessment have been laid down in the Regulations relating to the Norwegian Education Act.</p>
+</body></document>

@@ -1,114 +1,79 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>645</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/en/People-and-society/Legal-aid/</origFileName>
-    <parallel_text xml:lang="nob" location="index_2.html"/>
-    <parallel_text xml:lang="sma" location="index_2.html"/>
-    <parallel_text xml:lang="sme" location="index_2.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Legal aid - County Governor - Fylkesmannen.no</p>
-    <p>Jump to content</p>
-    <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Sound version</p>
-      <p type="listitem">High contrast</p>
-      <p type="listitem" xml:lang="nno"></p>
-      <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="nno">Folk og samfunn</p>
-    <list>
-      <p type="listitem">Nursery schools and education</p>
-      <p type="listitem">Children and parents</p>
-      <p type="listitem">Health, care and social services</p>
-      <p type="listitem">Climate and the environment</p>
-    </list>
-    <list>
-      <p type="listitem">Agriculture and food</p>
-      <p type="listitem">Municipal administration</p>
-      <p type="listitem">Planning and building</p>
-      <p type="listitem">Civil protection</p>
-    </list>
-    <p xml:lang="nob">County Governor</p>
-    <p>People and society</p>
-    <p xml:lang="sme">Legal aid</p>
-    <list>
-      <p type="listitem">Administrative law</p>
-      <p type="listitem">Alcohol licences</p>
-      <p type="listitem">Apostille stamps for documents</p>
-      <p type="listitem">Changing your name</p>
-      <p type="listitem">Citizenship ceremonies</p>
-      <p type="listitem">Conciliation Boards</p>
-      <p type="listitem">Elections</p>
-      <p type="listitem">Exemptions from the duty of confidentiality</p>
-      <p type="listitem">Funding for political parties</p>
-      <p type="listitem">Introduction programme for new arrivals in Norway</p>
-      <p type="listitem" xml:lang="sme">Legal aid</p>
-      <p type="listitem">Medals and Norwegian orders</p>
-      <p type="listitem">Refugees and asylum seekers</p>
-      <p type="listitem">Religious and faith communities</p>
-      <p type="listitem">Royal visits</p>
-      <p type="listitem">Scattering of ashes</p>
-      <p type="listitem">Separation and divorce</p>
-      <p type="listitem">Shop opening hours</p>
-      <p type="listitem">Subsequent validation of a marriage</p>
-      <p type="listitem">The Freedom of Information Act</p>
-    </list>
-    <p type="title" xml:lang="sme">Legal aid</p>
-    <p xml:lang="est">Published 10/10/2012 Updated 4/3/2017</p>
-    <p>Legal aid is legal assistance that is partly or entirely paid for by the state. Legal aid encompasses both free legal advice and free assistance by way of legal representation. “Free legal advice” refers to guidance and assistance in legal matters that do not involve court proceedings. “Free assistance by way of legal representation” refers to legal aid in matters that come before the courts.</p>
-    <p>In some types of cases, you can even receive financial support for legal advice, or support to bring a case before the courts. Should you require legal aid, you can contact the County Governor or a lawyer.</p>
-    <p type="title">What types of cases are eligible for legal aid?</p>
-    <p>Examples of cases that are eligible for legal aid are: family law proceedings, some types of appeals cases to the Norwegian Labour and Welfare Administration (NAV), compensation claims for personal injury, cases involving notice being given of/eviction from a residence and cases involving a termination of employment. You can also receive legal aid if you are claiming compensation for criminal injuries. In exceptional circumstances, legal aid can also be offered in other types of cases. If you have insurance that covers fees for legal assistance, you will, generally speaking, not be eligible for legal aid.</p>
-    <p type="title">Income and means thresholds</p>
-    <p>To receive legal aid, you must have an income below the income thresholds set out in the Legal Aid Act. In individual cases, the County Governor and courts can make exceptions to the rules concerning income and means thresholds.</p>
-    <p>Regardless of income and means, you can obtain legal aid:</p>
-    <list>
-      <p type="listitem">in cases concerning child protection that will go before the county social welfare board</p>
-      <p type="listitem">in cases that will go before the Mental Health Care Supervising Commission and legal proceedings concerning a discharge from compulsory psychiatric treatment</p>
-      <p type="listitem">in cases concerning a refusal to perform military service</p>
-      <p type="listitem">in cases concerning forced marriage</p>
-      <p type="listitem">in cases where a victim of a violent crime is demanding compensation from the perpetrator</p>
-      <p type="listitem">in cases concerning damages for unwarranted criminal prosecution</p>
-      <p type="listitem">to evaluate whether to press charges in connection with a rape</p>
-      <p type="listitem">to evaluate whether to press charges in cases relating to human trafficking.</p>
-    </list>
-    <p type="title">Contributions to legal costs</p>
-    <p>If you receive legal aid, you will generally have to pay a contribution towards this. This, however, is not required in cases where legal aid is given regardless of income and means, nor if your gross annual income is less than NOK 100,000.</p>
-    <p>In cases where free legal advice is given, the contribution is equal to the official fee rate (NOK 995 as of January 2016). In cases where free assistance by way of legal representation is given, the contribution is equal to 25 per cent of the costs (maximum eight times the official fee rate). Contributions are recovered by the lawyers involved.</p>
-    <p type="title" xml:lang="sme">Legal aid abroad</p>
-    <p>All applications for legal aid abroad are handled by the County Governor of Oslo and Akershus.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title" xml:lang="est">Links</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Lov om fri rettshjelp</p>
-      <p type="listitem" xml:lang="nno">rettsråd.no</p>
-      <p type="listitem" xml:lang="nob">Statens sivilrettsforvaltning</p>
-      <p type="listitem" xml:lang="nno">Rettshjelpskalkulator</p>
-    </list>
-    <p type="title">Forms</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Søknad om fri rettshjelp for privatpersoner (digitalt skjema)</p>
-      <p type="listitem" xml:lang="nno">Skjema for fri rettshjelp BM (egenerklæring papirskjema)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>645</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/People-and-society/Legal-aid/</origFileName><parallel_text xml:lang="nob" location="index_2.html"/><parallel_text xml:lang="sma" location="index_2.html"/><parallel_text xml:lang="sme" location="index_2.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Legal aid - County Governor - Fylkesmannen.no</p>
+<p>Jump to content</p>
+<p xml:lang="nno">County Governor - Fylkesmannen.no</p>
+<list><p type="listitem">Sound version</p>
+<p type="listitem">High contrast</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="nno">Folk og samfunn</p>
+<list><p type="listitem">Nursery schools and education</p>
+<p type="listitem">Children and parents</p>
+<p type="listitem">Health, care and social services</p>
+<p type="listitem">Climate and the environment</p>
+</list><list><p type="listitem">Agriculture and food</p>
+<p type="listitem">Municipal administration</p>
+<p type="listitem">Planning and building</p>
+<p type="listitem">Civil protection</p>
+</list><p xml:lang="nob">County Governor</p>
+<p>People and society</p>
+<p xml:lang="sme">Legal aid</p>
+<list><p type="listitem">Administrative law</p>
+<p type="listitem">Alcohol licences</p>
+<p type="listitem">Apostille stamps for documents</p>
+<p type="listitem">Changing your name</p>
+<p type="listitem">Citizenship ceremonies</p>
+<p type="listitem">Conciliation Boards</p>
+<p type="listitem">Elections</p>
+<p type="listitem">Exemptions from the duty of confidentiality</p>
+<p type="listitem">Funding for political parties</p>
+<p type="listitem">Introduction programme for new arrivals in Norway</p>
+<p type="listitem" xml:lang="sme">Legal aid</p>
+<p type="listitem">Medals and Norwegian orders</p>
+<p type="listitem">Refugees and asylum seekers</p>
+<p type="listitem">Religious and faith communities</p>
+<p type="listitem">Royal visits</p>
+<p type="listitem">Scattering of ashes</p>
+<p type="listitem">Separation and divorce</p>
+<p type="listitem">Shop opening hours</p>
+<p type="listitem">Subsequent validation of a marriage</p>
+<p type="listitem">The Freedom of Information Act</p>
+</list><p type="title" xml:lang="sme">Legal aid</p>
+<p xml:lang="est">Published 10/10/2012 Updated 4/3/2017</p>
+<p>Legal aid is legal assistance that is partly or entirely paid for by the state. Legal aid encompasses both free legal advice and free assistance by way of legal representation. “Free legal advice” refers to guidance and assistance in legal matters that do not involve court proceedings. “Free assistance by way of legal representation” refers to legal aid in matters that come before the courts.</p>
+<p>In some types of cases, you can even receive financial support for legal advice, or support to bring a case before the courts. Should you require legal aid, you can contact the County Governor or a lawyer.</p>
+<p type="title">What types of cases are eligible for legal aid?</p>
+<p>Examples of cases that are eligible for legal aid are: family law proceedings, some types of appeals cases to the Norwegian Labour and Welfare Administration (NAV), compensation claims for personal injury, cases involving notice being given of/eviction from a residence and cases involving a termination of employment. You can also receive legal aid if you are claiming compensation for criminal injuries. In exceptional circumstances, legal aid can also be offered in other types of cases. If you have insurance that covers fees for legal assistance, you will, generally speaking, not be eligible for legal aid.</p>
+<p type="title">Income and means thresholds</p>
+<p>To receive legal aid, you must have an income below the income thresholds set out in the Legal Aid Act. In individual cases, the County Governor and courts can make exceptions to the rules concerning income and means thresholds.</p>
+<p>Regardless of income and means, you can obtain legal aid:</p>
+<list><p type="listitem">in cases concerning child protection that will go before the county social welfare board</p>
+<p type="listitem">in cases that will go before the Mental Health Care Supervising Commission and legal proceedings concerning a discharge from compulsory psychiatric treatment</p>
+<p type="listitem">in cases concerning a refusal to perform military service</p>
+<p type="listitem">in cases concerning forced marriage</p>
+<p type="listitem">in cases where a victim of a violent crime is demanding compensation from the perpetrator</p>
+<p type="listitem">in cases concerning damages for unwarranted criminal prosecution</p>
+<p type="listitem">to evaluate whether to press charges in connection with a rape</p>
+<p type="listitem">to evaluate whether to press charges in cases relating to human trafficking.</p>
+</list><p type="title">Contributions to legal costs</p>
+<p>If you receive legal aid, you will generally have to pay a contribution towards this. This, however, is not required in cases where legal aid is given regardless of income and means, nor if your gross annual income is less than NOK 100,000.</p>
+<p>In cases where free legal advice is given, the contribution is equal to the official fee rate (NOK 995 as of January 2016). In cases where free assistance by way of legal representation is given, the contribution is equal to 25 per cent of the costs (maximum eight times the official fee rate). Contributions are recovered by the lawyers involved.</p>
+<p type="title" xml:lang="sme">Legal aid abroad</p>
+<p>All applications for legal aid abroad are handled by the County Governor of Oslo and Akershus.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="est">Links</p>
+<list><p type="listitem" xml:lang="nob">Lov om fri rettshjelp</p>
+<p type="listitem" xml:lang="nno">rettsråd.no</p>
+<p type="listitem" xml:lang="nob">Statens sivilrettsforvaltning</p>
+<p type="listitem" xml:lang="fin">Rettshjelpskalkulator</p>
+</list><p type="title">Forms</p>
+<list><p type="listitem" xml:lang="nob">Søknad om fri rettshjelp for privatpersoner (digitalt skjema)</p>
+<p type="listitem" xml:lang="nno">Skjema for fri rettshjelp BM (egenerklæring papirskjema)</p>
+</list></body></document>

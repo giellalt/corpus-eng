@@ -1,48 +1,24 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Anaras - Research - Uula Morottaja</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2006</year>
-    <wordcount>593</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/english/tutkimus/umorottaja.html</origFileName>
-    <parallel_text xml:lang="fin" location="umorottaja.html"/>
-    <parallel_text xml:lang="smn" location="umorottaja.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="vep">Elias Lönnrot</p>
-    <p xml:lang="deu">E.W. Borg</p>
-    <p xml:lang="smn">Heikki Mattus</p>
-    <p xml:lang="smn">A.V. Koskimies</p>
-    <p xml:lang="vep">Lauri Itkonen</p>
-    <p xml:lang="fin">T.I. Itkonen</p>
-    <p xml:lang="fin">Erkki Itkonen</p>
-    <p xml:lang="fin">Uula Morottaja</p>
-    <p xml:lang="fin">Matti Morottaja</p>
-    <p xml:lang="sme">Pekka Sammallahti</p>
-    <p xml:lang="vep">Lea Laitinen</p>
-    <p xml:lang="fin">Marja-Liisa Olthuis</p>
-    <p>Catalogue of Literature</p>
-    <p><em type="italic">Lesk-Ant Uulá, Oskar Uula Morottaja </em>, could be dubbed pioneer of the 19th century Inari Sámi written and story-telling traditions. He was in his lifestyle quite a normal and modest Inari Sámi, but he was very proficient at writing both in Inari Sámi and Finnish. He was also excellent at telling all kinds of stories. </p>
-    <p>He often wrote for <em type="italic">Sabmelaš </em>in Inari Sámi and in Finnish for the newspaper <em type="italic">Rovaniemi </em>. In his last years he served as a representative for the Rovaniemi. People who still remember him say that it was never boring wherever Uula was. His stories were always fun to hear. Because he was a very clever and well read person, as well as a good story-teller, he often served as an informant for language researchers and an Inari Sámi teacher for them – in particular for T.I. Itkonen as a young man in the beginning of the 20th century and later for Erkki Itkonen halfway through the 20th century. </p>
-    <p><em type="italic">Oskar Uula Morottaja </em>was born May 1, 1892, in Nellim. His parents, Antti Hietajärvi, previously Morottaja and later again Morottaja, (b. May 13,1851 – d. May 27,1919) and Riijtá Maatinieidâ Valle (Riitta Matintytär Valle, b. July 10,1856 – d. June 9,1912) had seven children, five boys and two daughters. Three of the children died young. Oskar Uula was their fifth child. Uula’s parents were poor fishermen and so the children had to go out into the world early in their lives to earn a living. Uula traveled from house to house in search of work. He helped with household chores and also reindeer herding. He did the same on the Norwegian side where he met many people and heard all kinds of stories which formed the basis of his own stories. Uula entertained all the people who happened to stay with him with his stories. As well as being a hired hand, he delivered mail once a week at Sulkusjärvi. </p>
-    <p>One of his trips looking for work took him to the home of his future wife Aili, previously Sarre, later Mattus (b. April 5,1881) at Sulkusjärvi. Aili became a widow in 1920 when her husband, Sammeli, died of the Spanish flu. At first Uula worked only as a hired hand at Sulkusjärvi and in 1926 he married the lady of the house. Thus he became stepfather to six children. He never had children of his own. After marrying, Uula did mostly housework, fishing and ptarmigan hunting. The late Uula told acquaintances about this time that it was nice to get a home of his own to live in.</p>
-    <p>Uula was quite different at home than when he was with other people, according to his step-daughter Anna Harju. He talked a lot with strangers but at home he was very quiet. The most important thing to do for him was the household work. When had been traveling and came home he never told about his trip at first, but when someone asked him, then his story chest opened up. When his wife mentioned to him about his ways, he always said <em type="italic">– Well, he got something to listen to in the end, didn’t he? Besides, there’s no hurrying story-telling! </em></p>
-    <p xml:lang="smn">Uula Morottaja died March 31, 1963.</p>
-    <p xml:lang="smn">From left Heikki Sarre, Erkki Itkonen, Inga Paadar, Katri Lahdenmäki, Elsa Kuuva and <em type="italic">Lesk-Ant Uulá </em>(Uula Morottaja). </p>
-    <p>Back to Top</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Anaras - Research - Uula Morottaja</title><genre code="facta"/><author><unknown/></author><year>2006</year><wordcount>593</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/english/tutkimus/umorottaja.html</origFileName><parallel_text xml:lang="fin" location="umorottaja.html"/><parallel_text xml:lang="smn" location="umorottaja.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep">Elias Lönnrot</p>
+<p xml:lang="deu">E.W. Borg</p>
+<p xml:lang="smn">Heikki Mattus</p>
+<p xml:lang="smn">A.V. Koskimies</p>
+<p xml:lang="vep">Lauri Itkonen</p>
+<p xml:lang="fin">T.I. Itkonen</p>
+<p xml:lang="fin">Erkki Itkonen</p>
+<p xml:lang="fin">Uula Morottaja</p>
+<p xml:lang="fin">Matti Morottaja</p>
+<p xml:lang="sme">Pekka Sammallahti</p>
+<p xml:lang="est">Lea Laitinen</p>
+<p xml:lang="fin">Marja-Liisa Olthuis</p>
+<p>Catalogue of Literature</p>
+<p><em type="italic">Lesk-Ant Uulá, Oskar Uula Morottaja </em>, could be dubbed pioneer of the 19th century Inari Sámi written and story-telling traditions. He was in his lifestyle quite a normal and modest Inari Sámi, but he was very proficient at writing both in Inari Sámi and Finnish. He was also excellent at telling all kinds of stories. </p>
+<p>He often wrote for <em type="italic">Sabmelaš </em>in Inari Sámi and in Finnish for the newspaper <em type="italic">Rovaniemi </em>. In his last years he served as a representative for the Rovaniemi. People who still remember him say that it was never boring wherever Uula was. His stories were always fun to hear. Because he was a very clever and well read person, as well as a good story-teller, he often served as an informant for language researchers and an Inari Sámi teacher for them – in particular for T.I. Itkonen as a young man in the beginning of the 20th century and later for Erkki Itkonen halfway through the 20th century. </p>
+<p><em type="italic">Oskar Uula Morottaja </em>was born May 1, 1892, in Nellim. His parents, Antti Hietajärvi, previously Morottaja and later again Morottaja, (b. May 13,1851 – d. May 27,1919) and Riijtá Maatinieidâ Valle (Riitta Matintytär Valle, b. July 10,1856 – d. June 9,1912) had seven children, five boys and two daughters. Three of the children died young. Oskar Uula was their fifth child. Uula’s parents were poor fishermen and so the children had to go out into the world early in their lives to earn a living. Uula traveled from house to house in search of work. He helped with household chores and also reindeer herding. He did the same on the Norwegian side where he met many people and heard all kinds of stories which formed the basis of his own stories. Uula entertained all the people who happened to stay with him with his stories. As well as being a hired hand, he delivered mail once a week at Sulkusjärvi. </p>
+<p>One of his trips looking for work took him to the home of his future wife Aili, previously Sarre, later Mattus (b. April 5,1881) at Sulkusjärvi. Aili became a widow in 1920 when her husband, Sammeli, died of the Spanish flu. At first Uula worked only as a hired hand at Sulkusjärvi and in 1926 he married the lady of the house. Thus he became stepfather to six children. He never had children of his own. After marrying, Uula did mostly housework, fishing and ptarmigan hunting. The late Uula told acquaintances about this time that it was nice to get a home of his own to live in.</p>
+<p>Uula was quite different at home than when he was with other people, according to his step-daughter Anna Harju. He talked a lot with strangers but at home he was very quiet. The most important thing to do for him was the household work. When had been traveling and came home he never told about his trip at first, but when someone asked him, then his story chest opened up. When his wife mentioned to him about his ways, he always said <em type="italic">– Well, he got something to listen to in the end, didn’t he? Besides, there’s no hurrying story-telling! </em></p>
+<p xml:lang="smn">Uula Morottaja died March 31, 1963.</p>
+<p xml:lang="smn">From left Heikki Sarre, Erkki Itkonen, Inga Paadar, Katri Lahdenmäki, Elsa Kuuva and <em type="italic">Lesk-Ant Uulá </em>(Uula Morottaja). </p>
+<p>Back to Top</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

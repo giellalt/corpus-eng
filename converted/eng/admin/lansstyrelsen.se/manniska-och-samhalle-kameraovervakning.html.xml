@@ -1,49 +1,20 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>208</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/kameraovervakning/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-kameraovervakning.html"/>
-    <parallel_text xml:lang="swe" location="manniska-och-samhalle-kameraovervakning.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Camera surveillance (CCTV) - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Camera surveillance (CCTV)</p>
-    <p><em type="italic">The County Administrative Board can grant licences for camera monitoring. In some cases you need to apply to us in advance. </em></p>
-    <p>The regulations regarding camera monitoring are contained in the Swedish Camera Monitoring Act (2013:460).</p>
-    <p type="title">The Swedish Camera Monitoring Act</p>
-    <p>Camera monitoring, which means that cameras are directed towards an area the public has access to, requires a licence from the County Administrative Board. If it is a shop, bank, post office, multi-storey car park or underground station which is to be monitored, you need to submit an application to us.</p>
-    <p>You do not need a licence to monitor enclosed areas within companies, industrial processes, rooms in the home or similar. The crucial factor is that the public does not have access to the area.</p>
-    <p>The County Administrative Board monitors that the regulations are being followed, including by visiting those areas to which the public has access.</p>
-    <p type="title">The Data Inspection Board</p>
-    <p>The Data Inspection Board holds the central supervisory responsibility in accordance with the Swedish Camera Monitoring Act. Its duties include providing advice and support to the public and to those who provide and use monitoring equipment. More information is available on the Data Inspection Board’s website .</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>208</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/kameraovervakning/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="manniska-och-samhalle-kameraovervakning.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle-kameraovervakning.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Camera surveillance (CCTV) - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Camera surveillance (CCTV)</p>
+<p><em type="italic">The County Administrative Board can grant licences for camera monitoring. In some cases you need to apply to us in advance. </em></p>
+<p>The regulations regarding camera monitoring are contained in the Swedish Camera Monitoring Act (2013:460).</p>
+<p type="title">The Swedish Camera Monitoring Act</p>
+<p>Camera monitoring, which means that cameras are directed towards an area the public has access to, requires a licence from the County Administrative Board. If it is a shop, bank, post office, multi-storey car park or underground station which is to be monitored, you need to submit an application to us.</p>
+<p>You do not need a licence to monitor enclosed areas within companies, industrial processes, rooms in the home or similar. The crucial factor is that the public does not have access to the area.</p>
+<p>The County Administrative Board monitors that the regulations are being followed, including by visiting those areas to which the public has access.</p>
+<p type="title">The Data Inspection Board</p>
+<p>The Data Inspection Board holds the central supervisory responsibility in accordance with the Swedish Camera Monitoring Act. Its duties include providing advice and support to the public and to those who provide and use monitoring equipment. More information is available on the Data Inspection Board’s website .</p>
+</body></document>

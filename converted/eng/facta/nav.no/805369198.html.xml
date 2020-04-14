@@ -1,73 +1,37 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>NAV - Stay in Norway - </title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>1069</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://www.nav.no/English/Stay+in+Norway/805369198.cms</origFileName>
-    <parallel_text xml:lang="nno" location="805345251.html"/>
-    <parallel_text xml:lang="nob" location="overgangsstonad.html"/>
-    <parallel_text xml:lang="sme" location="229457.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Transitional benefit</p>
-    <p>The purpose of transitional benefit is to ensure sufficient income to cover living expenses for single mothers and fathers who are the sole carer of a child. Transitional benefit is granted for a limited period and varies according to the child’s age and needs.</p>
-    <p type="title">Who can receive transitional benefit?</p>
-    <p>You have to satisfy certain conditions to be entitled to benefit as a single mother or father.</p>
-    <p>The main conditions are:</p>
-    <list>
-      <p type="listitem">You and the child must have been living in Norway for the last three years.</p>
-      <p type="listitem">You and the child must live in Norway.</p>
-      <p type="listitem">You must be unmarried, separated or divorced.</p>
-      <p type="listitem">You must be the sole carer of the child.</p>
-      <p type="listitem">You must not be in a relationship with the child’s other parent that means that you are not a single parent.</p>
-    </list>
-    <p>You can read more about the conditions for transitional benefit defined in the National Insurance Act under the heading Regulations in the menu to the right.</p>
-    <p>These conditions are not absolute and some of them may be deviated from in certain circumstances. Your NAV office can provide more detailed information about this.</p>
-    <p>If you meet the requirements, you may be entitled to transitional benefit. If the child is under the age of three years, you are free to choose whether you want to be active (i.e. go out to work or study). However, it is to your advantage to start thinking about activity before the child reaches the age of three. Once the child is three years old, you must be in activity that constitutes at least half of a full-time occupation; for example have a 50 per cent job or take an education that constitutes at least half of a full-time course. If you do not have a job or a place in an educational institution, you must be registered with NAV as a real jobseeker.</p>
-    <p>The activity requirement does not apply if you or the child are sick or if you cannot arrange child care for the child, for example in a day-care institution (barnehage), day-care facilities for schoolchildren (SFO) etc. You must provide documentation of your or the child’s illness by means of a medical certificate and, for example, confirm that your application for a place in a day-care institution was denied.</p>
-    <p type="title">For how long will you receive transitional benefit?</p>
-    <p>The main rule is that you can receive transitional benefit for up to three years, until your youngest child is eight years old. You can receive transitional benefit from up to two months before your expected delivery date if you are single when the child is born.</p>
-    <p>The three-year benefit period may be extended by up to two years until your youngest child is eight years old if you are in necessary education. The three-year benefit period may be extended by up to three years until your youngest child is eight years old if you are in necessary education and care for more than two children, or if you became a sole provider before your 18th birthday.</p>
-    <p>If you become a single parent as a result of break-up of a cohabiting relationship, separation or divorce after your youngest child is eight years old, you are entitled to receive transitional benefit for up to two years until your youngest child is ten years old. You must satisfy the activity requirement in the first benefit year. In the second year you must be in necessary education.</p>
-    <p>If your child requires extra care because of disability, illness or serious social problems, you may, under certain circumstances, be entitled to receive transitional benefit until the child is 18 years old.</p>
-    <p type="title">How much will you receive?</p>
-    <p>Transitional benefit is equal to 1.97 times the national insurance basic amount (<span type="quote" xml:lang="smj">“G”</span>). This benefit is taxable. You will not receive holiday pay from transitional benefit.</p>
-    <p>The Norwegian parliament the Storting determines the national insurance basic amount (<span type="quote" xml:lang="smj">“G”</span>). The national insurance basic amount is usually adjusted once a year (on 1 May) in keeping with changes in the cost of living and the general income level.</p>
-    <p>Transitional benefit is reduced according to income. This means that you can earn up to half of the national insurance basic amount in the course of a 12 month period without your transitional benefit being reduced. If you earn more than this, your transitional benefit will be reduced by NOK 0.4 for every krone you earn above the national insurance basic amount.</p>
-    <p>In this respect, unemployment benefit (dagpenger), sickness benefit (sykepenger), sick child benefit (stønad ved barns sykdom), parental benefit (foreldrepenger) and a number of other benefits count as income. Your entitlement to transitional benefit is also affected by other subsistence benefits you receive either from the Norwegian national insurance scheme or from abroad.</p>
-    <p>Transitional benefit is paid from the month after you qualified for the benefit.</p>
-    <p>Full transitional benefit is currently NOK 11,965 a month and is reduced if your earned income constitutes an annual income of NOK 37,000 or more.</p>
-    <p type="title">How do you apply for transitional benefit?</p>
-    <p>You must apply for transitional benefit using the form <span type="quote" xml:lang="nob">“Søknad om overgangsstønad, stønad til barnetilsyn, utdanningsstønad og flytteutgifter til enslig mor/far”</span> (Application form for transitional benefit, child care benefit, education benefit and relocation grant for single parents), which is under the heading Forms and enclosures in the menu to the right. Here you will also find information about the documents you need to submit with your application for transitional benefit.</p>
-    <p>Submit your application to your NAV office.</p>
-    <p type="title">Decision</p>
-    <p>First, NAV will send you a letter informing you about expected processing time. When your claim has been processed, you will receive written notification of the decision.</p>
-    <p type="title">If you move abroad?</p>
-    <p>If you are going to work abroad for a Norwegian employer and remain a member of the Norwegian National Insurance scheme, you may be entitled to transitional benefit. The same applies if you are going to study or work abroad for less than six months. In these cases, you must submit an application to your NAV office before you travel.</p>
-    <p>You must always notify your NAV office if you are moving abroad or going to live overseas temporarily. There is more information about living overseas under the heading International in the menu to the right.</p>
-    <p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>NAV - Stay in Norway - </title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>1069</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><multilingual/><origFileName>http://www.nav.no/English/Stay+in+Norway/805369198.cms</origFileName><parallel_text xml:lang="nno" location="805345251.html"/><parallel_text xml:lang="nob" location="overgangsstonad.html"/><parallel_text xml:lang="sme" location="229457.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Transitional benefit</p>
+<p>The purpose of transitional benefit is to ensure sufficient income to cover living expenses for single mothers and fathers who are the sole carer of a child. Transitional benefit is granted for a limited period and varies according to the child’s age and needs.</p>
+<p type="title">Who can receive transitional benefit?</p>
+<p>You have to satisfy certain conditions to be entitled to benefit as a single mother or father.</p>
+<p>The main conditions are:</p>
+<list><p type="listitem">You and the child must have been living in Norway for the last three years.</p>
+<p type="listitem">You and the child must live in Norway.</p>
+<p type="listitem">You must be unmarried, separated or divorced.</p>
+<p type="listitem">You must be the sole carer of the child.</p>
+<p type="listitem">You must not be in a relationship with the child’s other parent that means that you are not a single parent.</p>
+</list><p>You can read more about the conditions for transitional benefit defined in the National Insurance Act under the heading Regulations in the menu to the right.</p>
+<p>These conditions are not absolute and some of them may be deviated from in certain circumstances. Your NAV office can provide more detailed information about this.</p>
+<p>If you meet the requirements, you may be entitled to transitional benefit. If the child is under the age of three years, you are free to choose whether you want to be active (i.e. go out to work or study). However, it is to your advantage to start thinking about activity before the child reaches the age of three. Once the child is three years old, you must be in activity that constitutes at least half of a full-time occupation; for example have a 50 per cent job or take an education that constitutes at least half of a full-time course. If you do not have a job or a place in an educational institution, you must be registered with NAV as a real jobseeker.</p>
+<p>The activity requirement does not apply if you or the child are sick or if you cannot arrange child care for the child, for example in a day-care institution (barnehage), day-care facilities for schoolchildren (SFO) etc. You must provide documentation of your or the child’s illness by means of a medical certificate and, for example, confirm that your application for a place in a day-care institution was denied.</p>
+<p type="title">For how long will you receive transitional benefit?</p>
+<p>The main rule is that you can receive transitional benefit for up to three years, until your youngest child is eight years old. You can receive transitional benefit from up to two months before your expected delivery date if you are single when the child is born.</p>
+<p>The three-year benefit period may be extended by up to two years until your youngest child is eight years old if you are in necessary education. The three-year benefit period may be extended by up to three years until your youngest child is eight years old if you are in necessary education and care for more than two children, or if you became a sole provider before your 18th birthday.</p>
+<p>If you become a single parent as a result of break-up of a cohabiting relationship, separation or divorce after your youngest child is eight years old, you are entitled to receive transitional benefit for up to two years until your youngest child is ten years old. You must satisfy the activity requirement in the first benefit year. In the second year you must be in necessary education.</p>
+<p>If your child requires extra care because of disability, illness or serious social problems, you may, under certain circumstances, be entitled to receive transitional benefit until the child is 18 years old.</p>
+<p type="title">How much will you receive?</p>
+<p>Transitional benefit is equal to 1.97 times the national insurance basic amount (<span type="quote" xml:lang="smj">“G”</span>). This benefit is taxable. You will not receive holiday pay from transitional benefit.</p>
+<p>The Norwegian parliament the Storting determines the national insurance basic amount (<span type="quote" xml:lang="smj">“G”</span>). The national insurance basic amount is usually adjusted once a year (on 1 May) in keeping with changes in the cost of living and the general income level.</p>
+<p>Transitional benefit is reduced according to income. This means that you can earn up to half of the national insurance basic amount in the course of a 12 month period without your transitional benefit being reduced. If you earn more than this, your transitional benefit will be reduced by NOK 0.4 for every krone you earn above the national insurance basic amount.</p>
+<p>In this respect, unemployment benefit (dagpenger), sickness benefit (sykepenger), sick child benefit (stønad ved barns sykdom), parental benefit (foreldrepenger) and a number of other benefits count as income. Your entitlement to transitional benefit is also affected by other subsistence benefits you receive either from the Norwegian national insurance scheme or from abroad.</p>
+<p>Transitional benefit is paid from the month after you qualified for the benefit.</p>
+<p>Full transitional benefit is currently NOK 11,965 a month and is reduced if your earned income constitutes an annual income of NOK 37,000 or more.</p>
+<p type="title">How do you apply for transitional benefit?</p>
+<p>You must apply for transitional benefit using the form <span type="quote" xml:lang="nob">“Søknad om overgangsstønad, stønad til barnetilsyn, utdanningsstønad og flytteutgifter til enslig mor/far”</span> (Application form for transitional benefit, child care benefit, education benefit and relocation grant for single parents), which is under the heading Forms and enclosures in the menu to the right. Here you will also find information about the documents you need to submit with your application for transitional benefit.</p>
+<p>Submit your application to your NAV office.</p>
+<p type="title">Decision</p>
+<p>First, NAV will send you a letter informing you about expected processing time. When your claim has been processed, you will receive written notification of the decision.</p>
+<p type="title">If you move abroad?</p>
+<p>If you are going to work abroad for a Norwegian employer and remain a member of the Norwegian National Insurance scheme, you may be entitled to transitional benefit. The same applies if you are going to study or work abroad for less than six months. In these cases, you must submit an application to your NAV office before you travel.</p>
+<p>You must always notify your NAV office if you are moving abroad or going to live overseas temporarily. There is more information about living overseas under the heading International in the menu to the right.</p>
+<p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian.</p>
+</body></document>

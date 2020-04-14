@@ -1,87 +1,56 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>339</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/en/Health-care-and-social-services/Public-health/</origFileName>
-    <parallel_text xml:lang="nob" location="index_24.html"/>
-    <parallel_text xml:lang="sma" location="index_24.html"/>
-    <parallel_text xml:lang="sme" location="index_24.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Public health - County Governor - Fylkesmannen.no</p>
-    <p>Jump to content</p>
-    <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Sound version</p>
-      <p type="listitem">High contrast</p>
-      <p type="listitem" xml:lang="nno"></p>
-      <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-    <list>
-      <p type="listitem">People and society</p>
-      <p type="listitem">Nursery schools and education</p>
-      <p type="listitem">Children and parents</p>
-      <p type="listitem">Climate and the environment</p>
-    </list>
-    <list>
-      <p type="listitem">Agriculture and food</p>
-      <p type="listitem">Municipal administration</p>
-      <p type="listitem">Planning and building</p>
-      <p type="listitem">Civil protection</p>
-    </list>
-    <p xml:lang="nob">County Governor</p>
-    <p>Health, care and social services</p>
-    <p>Public health</p>
-    <list>
-      <p type="listitem">Care services</p>
-      <p type="listitem">Combating poverty</p>
-      <p type="listitem">Crisis centres</p>
-      <p type="listitem">Driving licences</p>
-      <p type="listitem">Financial social assistance</p>
-      <p type="listitem">Guardianship</p>
-      <p type="listitem">Health services</p>
-      <p type="listitem">Individual plans</p>
-      <p type="listitem">Involuntary treatment</p>
-      <p type="listitem">Medical internship placements</p>
-      <p type="listitem">Mental health and intoxication</p>
-      <p type="listitem">Offshore health services</p>
-      <p type="listitem">Public health</p>
-      <p type="listitem">The Coordination Reform</p>
-      <p type="listitem">The Qualification Programme</p>
-      <p type="listitem" xml:lang="nob">Universal design</p>
-    </list>
-    <p type="title">Public health</p>
-    <p xml:lang="est">Published 10/10/2012 Updated 3/28/2017</p>
-    <p>Public health describes society’s joint endeavours to maintain, improve and promote health and to limit factors which can pose a threat to it. The term can also refer to the general health of the population, as well as how health varies among different social groups. Any work in the field of public health must also help to level out social disparities in relation to health.</p>
-    <p type="title">Public health is an important part of the Co-ordination Reform</p>
-    <p>Preventive measures and measures to promote health are important both within and outside of the health sector. Under the Public Health Act, it is the county authorities and municipalities that have the primary responsibility for broad, community-oriented public health work.</p>
-    <p type="title">The County Governor must ensure that public health is addressed in plans</p>
-    <p>The County Governor must help to implement state initiatives in the field of public health. Broader efforts in the field of public health must ensure sustainable social development, and planning plays a key role in this. By providing advice and guidance to municipalities and other actors, the County Governor can help to ensure that public health forms part of municipal, regional and state plans. The County Governor must also help to ensure that there is binding co-operation between different actors.</p>
-    <p>The County Governor may monitor whether municipalities and county authorities fulfil their obligations in the field of public health.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title" xml:lang="est">Links</p>
-    <list>
-      <p type="listitem" xml:lang="dan">Folkehelseloven</p>
-      <p type="listitem" xml:lang="nno">Folkehelseinstituttet</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>339</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/Health-care-and-social-services/Public-health/</origFileName><parallel_text xml:lang="nob" location="index_24.html"/><parallel_text xml:lang="sma" location="index_24.html"/><parallel_text xml:lang="sme" location="index_24.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Public health - County Governor - Fylkesmannen.no</p>
+<p>Jump to content</p>
+<p xml:lang="nno">County Governor - Fylkesmannen.no</p>
+<list><p type="listitem">Sound version</p>
+<p type="listitem">High contrast</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+<list><p type="listitem">People and society</p>
+<p type="listitem">Nursery schools and education</p>
+<p type="listitem">Children and parents</p>
+<p type="listitem">Climate and the environment</p>
+</list><list><p type="listitem">Agriculture and food</p>
+<p type="listitem">Municipal administration</p>
+<p type="listitem">Planning and building</p>
+<p type="listitem">Civil protection</p>
+</list><p xml:lang="nob">County Governor</p>
+<p>Health, care and social services</p>
+<p>Public health</p>
+<list><p type="listitem">Care services</p>
+<p type="listitem">Combating poverty</p>
+<p type="listitem">Crisis centres</p>
+<p type="listitem">Driving licences</p>
+<p type="listitem">Financial social assistance</p>
+<p type="listitem" xml:lang="rmy-rlo">Guardianship</p>
+<p type="listitem">Health services</p>
+<p type="listitem">Individual plans</p>
+<p type="listitem">Involuntary treatment</p>
+<p type="listitem">Medical internship placements</p>
+<p type="listitem">Mental health and intoxication</p>
+<p type="listitem">Offshore health services</p>
+<p type="listitem">Public health</p>
+<p type="listitem">The Coordination Reform</p>
+<p type="listitem">The Qualification Programme</p>
+<p type="listitem" xml:lang="nob">Universal design</p>
+</list><p type="title">Public health</p>
+<p xml:lang="est">Published 10/10/2012 Updated 3/28/2017</p>
+<p>Public health describes society’s joint endeavours to maintain, improve and promote health and to limit factors which can pose a threat to it. The term can also refer to the general health of the population, as well as how health varies among different social groups. Any work in the field of public health must also help to level out social disparities in relation to health.</p>
+<p type="title">Public health is an important part of the Co-ordination Reform</p>
+<p>Preventive measures and measures to promote health are important both within and outside of the health sector. Under the Public Health Act, it is the county authorities and municipalities that have the primary responsibility for broad, community-oriented public health work.</p>
+<p type="title">The County Governor must ensure that public health is addressed in plans</p>
+<p>The County Governor must help to implement state initiatives in the field of public health. Broader efforts in the field of public health must ensure sustainable social development, and planning plays a key role in this. By providing advice and guidance to municipalities and other actors, the County Governor can help to ensure that public health forms part of municipal, regional and state plans. The County Governor must also help to ensure that there is binding co-operation between different actors.</p>
+<p>The County Governor may monitor whether municipalities and county authorities fulfil their obligations in the field of public health.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="est">Links</p>
+<list><p type="listitem" xml:lang="rmn">Folkehelseloven</p>
+<p type="listitem" xml:lang="nno">Folkehelseinstituttet</p>
+</list></body></document>

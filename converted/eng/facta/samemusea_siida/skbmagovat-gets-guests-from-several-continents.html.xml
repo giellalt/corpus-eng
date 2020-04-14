@@ -1,128 +1,96 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Skábmagovat Gets Guests from Several Continents — Siida</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2015</year>
-    <wordcount>841</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.siida.fi/contents/news/skbmagovat-gets-guests-from-several-continents</origFileName>
-    <parallel_text xml:lang="fin" location="skbmagovat-festivaalille-vieraita-monelta-mantereelta.html"/>
-    <parallel_text xml:lang="sme" location="skbmagovat-festivlai-guossit-milmmis.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <list>
-      <p type="listitem" xml:lang="sme">sámegillii |</p>
-      <p type="listitem">in English |</p>
-      <p type="listitem" xml:lang="fin">suomeksi |</p>
-      <p type="listitem" xml:lang="rus">Русский</p>
-    </list>
-    <p xml:lang="deu">Search Site</p>
-    <p xml:lang="nob">Advanced Search…</p>
-    <p>Skip to content. | Skip to navigation</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Sections</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Home |</p>
-      <p type="listitem">Collections |</p>
-      <p type="listitem">Nature services |</p>
-      <p type="listitem">Restaurant |</p>
-      <p type="listitem">Conferences |</p>
-      <p type="listitem" xml:lang="nob">News |</p>
-      <p type="listitem" xml:lang="nob">Skolt Sámi Heritage House</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="deu">Site Map |</p>
-      <p type="listitem">Contact |</p>
-      <p type="listitem" xml:lang="smj">RSS |</p>
-      <p type="listitem" xml:lang="nob">Newsletter</p>
-    </list>
-    <p xml:lang="nob">SÁMI CULTURE  Sámi Museum</p>
-    <p>NORTHERN NATURE  Nature Centre</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Info</p>
-    <p xml:lang="nob">Home</p>
-    <p xml:lang="koi">/</p>
-    <p xml:lang="nob">News /</p>
-    <p>Skábmagovat Gets Guests from Several Continents</p>
-    <p type="title">Skábmagovat Gets Guests from Several Continents</p>
-    <p xml:lang="nob">Jan 20, 2015 08:50 AM</p>
-    <p>The Indigenous Peoples’ Film Festival Skábmagovat begins on Thursday, 22 Jan. 2015, with many international guests attending. Inari will get guests from North America, South America and Siberia, for example.</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno">Photo from film workshop in Lolindo, Tanzania. Foto: Gareth Benest/InsightShare.</p>
-    <p>The festival has its focus on the indigenous film of Latin America. Our special guest <em type="italic">Jeannette Paillán </em>, a Mapuche director from Chile, is a founding member of CLACPI, an organisation that promotes indigenous film making. She is also the head of the biggest indigenous film festival of South America. </p>
-    <p><em type="italic">Cindy Benitez </em>, a Film and Video Center Programmer from the Smithsonian Institution in New York, engages actively in film making among the North American Natives and in youth projects in Central America. The Film and Video Center that the Institution founded in 1979 is the oldest indigenous centre on media art in the USA. </p>
-    <p>Yakutian director <em type="italic">Mihail Lukachevskyi </em>from the Sakha Republik in Russia belongs to the young generation of directors that have got their schooling in film making at the St. Petersburg State University of Film and Television. In Inari, we will see the feature film <em type="italic">A White Day </em>by this film maker who has been granted several awards for his short films. </p>
-    <p>Another guest that comes from Sakha is <em type="italic">Sardana Savvina </em>. She comes from ASIAC, the Arctic State Institute for Art and Culture, an institution that has been engaged in cooperation with the Sámi Education Institute in Inari for years. Savvina is also the Curator for the Yakutia International Film Festival. </p>
-    <p>This year, Africa will be represented by films telling about the situation of the Maasai on Thursday, before the official opening of the festival. The show will consist of two short films on the rights of the Maasai, with <em type="italic">Jenni Kauppila </em>from the UN Association Finland attending. Short films are shown at Siida's auditorium at 4 p.m. </p>
-    <p>Naturally, we will also see Sámi film makers in Inari. The festival will be attended for example by <em type="italic">Harry Johansen, Ima Aikio-Arianaick, </em>animation virtuoso <em type="italic">Jouni West </em>and a group of directors from the Kautokeino Film Lab project that has yielded a set of seven short films for the festival. </p>
-    <p>And of course we will meet <em type="italic">Andte Gaup-Juuso </em>, the winner of the Finnish Big Brother; Gaup-Juuso features the short film Sámi boja by <em type="italic">Elle Sofe Henriksen! </em></p>
-    <p>The music at our night clubs is provided by <em type="italic">Maxida Märak </em>, who is known for her engagement in opposing mining in Gállok, and rappers <em type="italic">Amoc </em>and <em type="italic">Ailu Valle. </em></p>
-    <p>Opening ceremony of the festival is January 22th 6 p.m. in Northern Lights Theatre.</p>
-    <p><em type="italic">The Skábmagovat Film Festival </em><em type="italic">is arranged by the Friends of Sámi Art in cooperation with the Sámi Museum and Nature Centre Siida, the Indigenous Peoples’ Film Centre Skábma, the Sámi Education Institute and YLE Sápmi. </em></p>
-    <p><em type="italic">The Financers are the Sámi Parliament, the Sámi Council, Art Promotion Centre of Lapland, the municipality of Inari, Ministry of Education and Culture, Finnish Cultural Foundation, The Lapland Regional Fund, AVEK - </em><em type="italic">The Promotion Centre for Audiovisual Culture, Arts Promotion Centre Finland </em></p>
-    <p><em type="italic">The festival has Jenni Haukio , the First Lady of Finland, as its protector. </em></p>
-    <p>Further information:</p>
-    <p xml:lang="fin">Anne-Kirste Aikio , tel. +358 40 7681 689.</p>
-    <p xml:lang="smn"><em type="bold">Jorma Lehtola </em>, tel. +358 50 4144 349. </p>
-    <p xml:lang="sme">www.skabmagovat.fi</p>
-    <p xml:lang="sme">Sámi museum, Siida, Inarintie 46, FI-99870 Inari, tel. +358 (0)400 898 212, siida@samimuseum.fi , www.siida.fi</p>
-    <p type="title">Document Actions</p>
-    <list>
-      <p type="listitem">Send this</p>
-      <p type="listitem">Print this</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Contents</p>
-    <p xml:lang="nno"></p>
-    <p>Study Paths exhibition looks at the study programme of Sámi Education Institute</p>
-    <p>The National Museum donates an important Sámi collection to the Sámi Museum Siida</p>
-    <p>Learning more about the Sámi narrative tradition and nature</p>
-    <p>The photographic work <span type="quote" xml:lang="fin">“Raittijärvi – Kaijukan kylä”</span> by photographer Jyrki Kallio-Koski is published in Hetta on 23 March 2017</p>
-    <p>SKÁBMAGOVAT FILM FESTIVAL: PROGRAMME IS READY AND TICKETS ARE BEING SOLD</p>
-    <p xml:lang="nob">The 2017 Skábmagovat Film Festival spotlights the Maori</p>
-    <p>Raittijärvi – the village of Kaijukka, photographs about life in the Sámi village over a span of forty years</p>
-    <p>Siida switches to winter opening hours</p>
-    <p xml:lang="smn">Aili Mattus: An Inari Sámi Doll-Maker</p>
-    <p>Autumn Festival at Sevettijärvi Heritage House on 8 September 2016 from 11 a.m. to 2 p.m., arranged by the Skolt Sámi Heritage House, the Skolt Sámi Cultural Foundation and Sevettijärvi School</p>
-    <p type="title" xml:lang="vep">VISITOR INFO</p>
-    <p xml:lang="ron"><em type="italic">SIIDA </em>INARINTIE 46, FI-99870 INARI </p>
-    <p xml:lang="nob">Sámi Museum Phone +358 (0)400 898 212</p>
-    <p>Nature Centre, Metsähallitus Phone +358 (0)206 39 7740</p>
-    <p>&gt; opening hours</p>
-    <p>&gt; tickets</p>
-    <p>&gt; contact information</p>
-    <p>&gt; location</p>
-    <p>&gt; guided tours</p>
-    <p>&gt; Siida in terms of architecture</p>
-    <p xml:lang="ron">calendar</p>
-    <p xml:lang="koi">|</p>
-    <p>photo gallery</p>
-    <p>tourist info</p>
-    <p xml:lang="sme">Siida</p>
-    <p xml:lang="sms">Siida Shop</p>
-    <p>for the media | for tour operators</p>
-    <p xml:lang="sme">Copyright Siida 2010</p>
-    <p xml:lang="koi">|</p>
-    <p xml:lang="est">Updated 10.6.2010</p>
-    <p>Open original size in new window</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Skábmagovat Gets Guests from Several Continents — Siida</title><genre code="facta"/><author><unknown/></author><year>2015</year><wordcount>841</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/contents/news/skbmagovat-gets-guests-from-several-continents</origFileName><parallel_text xml:lang="fin" location="skbmagovat-festivaalille-vieraita-monelta-mantereelta.html"/><parallel_text xml:lang="sme" location="skbmagovat-festivlai-guossit-milmmis.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<list><p type="listitem" xml:lang="sme">sámegillii |</p>
+<p type="listitem">in English |</p>
+<p type="listitem" xml:lang="fin">suomeksi |</p>
+<p type="listitem" xml:lang="rus">Русский</p>
+</list><p xml:lang="deu">Search Site</p>
+<p xml:lang="nob">Advanced Search…</p>
+<p>Skip to content. | Skip to navigation</p>
+<p xml:lang="swe"></p>
+<p type="title">Sections</p>
+<list><p type="listitem" xml:lang="nob">Home |</p>
+<p type="listitem">Collections |</p>
+<p type="listitem">Nature services |</p>
+<p type="listitem">Restaurant |</p>
+<p type="listitem">Conferences |</p>
+<p type="listitem" xml:lang="nob">News |</p>
+<p type="listitem" xml:lang="nob">Skolt Sámi Heritage House</p>
+</list><list><p type="listitem" xml:lang="deu">Site Map |</p>
+<p type="listitem">Contact |</p>
+<p type="listitem" xml:lang="smj">RSS |</p>
+<p type="listitem" xml:lang="nob">Newsletter</p>
+</list><p xml:lang="nob">SÁMI CULTURE  Sámi Museum</p>
+<p>NORTHERN NATURE  Nature Centre</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Info</p>
+<p xml:lang="nob">Home</p>
+<p xml:lang="vep">/</p>
+<p xml:lang="nob">News /</p>
+<p>Skábmagovat Gets Guests from Several Continents</p>
+<p type="title">Skábmagovat Gets Guests from Several Continents</p>
+<p xml:lang="nob">Jan 20, 2015 08:50 AM</p>
+<p>The Indigenous Peoples’ Film Festival Skábmagovat begins on Thursday, 22 Jan. 2015, with many international guests attending. Inari will get guests from North America, South America and Siberia, for example.</p>
+<p xml:lang="swe"></p>
+<p xml:lang="nno">Photo from film workshop in Lolindo, Tanzania. Foto: Gareth Benest/InsightShare.</p>
+<p>The festival has its focus on the indigenous film of Latin America. Our special guest <em type="italic">Jeannette Paillán </em>, a Mapuche director from Chile, is a founding member of CLACPI, an organisation that promotes indigenous film making. She is also the head of the biggest indigenous film festival of South America. </p>
+<p><em type="italic">Cindy Benitez </em>, a Film and Video Center Programmer from the Smithsonian Institution in New York, engages actively in film making among the North American Natives and in youth projects in Central America. The Film and Video Center that the Institution founded in 1979 is the oldest indigenous centre on media art in the USA. </p>
+<p>Yakutian director <em type="italic">Mihail Lukachevskyi </em>from the Sakha Republik in Russia belongs to the young generation of directors that have got their schooling in film making at the St. Petersburg State University of Film and Television. In Inari, we will see the feature film <em type="italic">A White Day </em>by this film maker who has been granted several awards for his short films. </p>
+<p>Another guest that comes from Sakha is <em type="italic">Sardana Savvina </em>. She comes from ASIAC, the Arctic State Institute for Art and Culture, an institution that has been engaged in cooperation with the Sámi Education Institute in Inari for years. Savvina is also the Curator for the Yakutia International Film Festival. </p>
+<p>This year, Africa will be represented by films telling about the situation of the Maasai on Thursday, before the official opening of the festival. The show will consist of two short films on the rights of the Maasai, with <em type="italic">Jenni Kauppila </em>from the UN Association Finland attending. Short films are shown at Siida's auditorium at 4 p.m. </p>
+<p>Naturally, we will also see Sámi film makers in Inari. The festival will be attended for example by <em type="italic">Harry Johansen, Ima Aikio-Arianaick, </em>animation virtuoso <em type="italic">Jouni West </em>and a group of directors from the Kautokeino Film Lab project that has yielded a set of seven short films for the festival. </p>
+<p>And of course we will meet <em type="italic">Andte Gaup-Juuso </em>, the winner of the Finnish Big Brother; Gaup-Juuso features the short film Sámi boja by <em type="italic">Elle Sofe Henriksen! </em></p>
+<p>The music at our night clubs is provided by <em type="italic">Maxida Märak </em>, who is known for her engagement in opposing mining in Gállok, and rappers <em type="italic">Amoc </em>and <em type="italic">Ailu Valle. </em></p>
+<p>Opening ceremony of the festival is January 22th 6 p.m. in Northern Lights Theatre.</p>
+<p><em type="italic">The Skábmagovat Film Festival </em><em type="italic">is arranged by the Friends of Sámi Art in cooperation with the Sámi Museum and Nature Centre Siida, the Indigenous Peoples’ Film Centre Skábma, the Sámi Education Institute and YLE Sápmi. </em></p>
+<p><em type="italic">The Financers are the Sámi Parliament, the Sámi Council, Art Promotion Centre of Lapland, the municipality of Inari, Ministry of Education and Culture, Finnish Cultural Foundation, The Lapland Regional Fund, AVEK - </em><em type="italic">The Promotion Centre for Audiovisual Culture, Arts Promotion Centre Finland </em></p>
+<p><em type="italic">The festival has Jenni Haukio , the First Lady of Finland, as its protector. </em></p>
+<p>Further information:</p>
+<p xml:lang="fin">Anne-Kirste Aikio , tel. +358 40 7681 689.</p>
+<p xml:lang="smn"><em type="bold">Jorma Lehtola </em>, tel. +358 50 4144 349. </p>
+<p xml:lang="sme">www.skabmagovat.fi</p>
+<p xml:lang="sme">Sámi museum, Siida, Inarintie 46, FI-99870 Inari, tel. +358 (0)400 898 212, siida@samimuseum.fi , www.siida.fi</p>
+<p type="title">Document Actions</p>
+<list><p type="listitem">Send this</p>
+<p type="listitem">Print this</p>
+</list><p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Contents</p>
+<p xml:lang="swe"></p>
+<p>Study Paths exhibition looks at the study programme of Sámi Education Institute</p>
+<p>The National Museum donates an important Sámi collection to the Sámi Museum Siida</p>
+<p>Learning more about the Sámi narrative tradition and nature</p>
+<p>The photographic work <span type="quote" xml:lang="fin">“Raittijärvi – Kaijukan kylä”</span> by photographer Jyrki Kallio-Koski is published in Hetta on 23 March 2017</p>
+<p>SKÁBMAGOVAT FILM FESTIVAL: PROGRAMME IS READY AND TICKETS ARE BEING SOLD</p>
+<p xml:lang="nob">The 2017 Skábmagovat Film Festival spotlights the Maori</p>
+<p>Raittijärvi – the village of Kaijukka, photographs about life in the Sámi village over a span of forty years</p>
+<p>Siida switches to winter opening hours</p>
+<p xml:lang="smn">Aili Mattus: An Inari Sámi Doll-Maker</p>
+<p>Autumn Festival at Sevettijärvi Heritage House on 8 September 2016 from 11 a.m. to 2 p.m., arranged by the Skolt Sámi Heritage House, the Skolt Sámi Cultural Foundation and Sevettijärvi School</p>
+<p type="title" xml:lang="vep">VISITOR INFO</p>
+<p xml:lang="ron"><em type="italic">SIIDA </em>INARINTIE 46, FI-99870 INARI </p>
+<p xml:lang="nob">Sámi Museum Phone +358 (0)400 898 212</p>
+<p>Nature Centre, Metsähallitus Phone +358 (0)206 39 7740</p>
+<p>&gt; opening hours</p>
+<p>&gt; tickets</p>
+<p>&gt; contact information</p>
+<p>&gt; location</p>
+<p>&gt; guided tours</p>
+<p>&gt; Siida in terms of architecture</p>
+<p xml:lang="ron">calendar</p>
+<p xml:lang="vep">|</p>
+<p>photo gallery</p>
+<p>tourist info</p>
+<p xml:lang="sme">Siida</p>
+<p xml:lang="sms">Siida Shop</p>
+<p>for the media | for tour operators</p>
+<p xml:lang="sme">Copyright Siida 2010</p>
+<p xml:lang="vep">|</p>
+<p xml:lang="est">Updated 10.6.2010</p>
+<p>Open original size in new window</p>
+</body></document>

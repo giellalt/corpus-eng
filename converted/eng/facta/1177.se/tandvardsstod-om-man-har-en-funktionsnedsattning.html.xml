@@ -1,63 +1,28 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>679</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Tandvardsstod-om-man-har-en-funktionsnedsattning</origFileName>
-    <parallel_text xml:lang="fin" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/>
-    <parallel_text xml:lang="fit" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/>
-    <parallel_text xml:lang="sme" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/>
-    <parallel_text xml:lang="swe" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Dental care support if you have a disability / Tandvårdsstöd om man har en funktionsnedsättning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title">Dental care support if you have a disabilityTandvårdsstöd om man har en funktionsnedsättning</p>
-    <p xml:lang="swe"></p>
-    <p><em type="italic">If you need lots of dental care </em><em type="italic"></em></p>
-    <p>If you suffer from certain long-term diseases and disabilities, you will often need more dental care than others. This may be due to the disease in itself causing increased risk of damage to your teeth or problems with managing dental hygiene, for example because of trembling hands or whole or partial paralysis of the face.</p>
-    <p>Your disease may also make it difficult for you to open your mouth, and then it can be difficult for the dentist or dental hygienist to carry out the dental care. The dental care is then charged for as medical care . This means that the fee may be included with other fees for health and medical care, and thereby included in the high-cost protection scheme for medical care.</p>
-    <p>Not all dental care is covered by the benefit. The dental care covered includes examinations, preventative care, fillings, treatment of tooth-loosening, root canal fillings and removal of teeth. Removable dentures are also included in the dental care benefit. On the other hand, fixed dental prostheses, such as crowns, bridges and implants, are not included.</p>
-    <p>You can choose yourself which dentist or dental hygienist to consult.</p>
-    <p xml:lang="swe">Tandvårdsstöd om man har en funktionsnedsättning</p>
-    <p><em type="italic">Who is entitled to dental care benefit? </em><em type="italic"></em></p>
-    <p>The county council or region where you live decides whether you are entitled to dental care benefit. Each application is assessed individually. It is not enough to have received a diagnosis of your disease or condition. The disability it causes will also be assessed, that is to say how the disease affects your ability to manage your own dental hygiene, and the problems that may arise during dental care.</p>
-    <p>Some of the long-term diseases and disabilities that may give a right to dental care benefit are:</p>
-    <list>
-      <p type="listitem">Mental illness leading to problems with managing dental hygiene.</p>
-      <p type="listitem">Parkinson’s disease , multiple sclerosis (MS) och amyotrophic lateral sclerosis, which are all diseases of the nervous system.</p>
-      <p type="listitem">Cerebral paresis, CP .</p>
-      <p type="listitem">Rheumatoid arthritis, sclerodermia and systemic lupus eruthemastosus (SLE).</p>
-      <p type="listitem">Malformation or damage to the jaws.</p>
-      <p type="listitem">Disability following a stroke .</p>
-      <p type="listitem">Unusual diagnoses on the list of the National Swedish Board of Health and Welfare.</p>
-    </list>
-    <p><em type="italic">How do I apply for dental care benefit? </em><em type="italic"></em></p>
-    <p>In order to apply for the benefit, you need a special doctor’s certificate, describing the disease and the disability. It is the doctor treating you who has the information about the data the county council or region require in the doctor’s certificate.</p>
-    <p>The doctor’s certificate is sent by either the doctor, the dentist or you, the patient, to the unit responsible for dental care in the county council or region where you live. Sometimes this is called <span type="quote" xml:lang="swe">“Tandvårdsenheten”</span>, but this may vary depending on where you live. Thereafter, the assessing dentist will decide whether you are entitled to dental care benefit, and for how long.</p>
-    <p>If you are entitled to dental care benefit, you will receive a card or certificate, which you should show to your dentist or dental hygienist. The dental care card may be valid for differing lengths of time, depending on how the disability is assessed, and the card should always be shown when you have a dental appointment. You will then pay for your dental appointment in the same way as for medical care. You will also get a stamp in your high-cost protection card, and if you have an exemption card, this applies also for dental appointments.</p>
-    <p><em type="italic">Where can I get more information? </em><em type="italic"></em></p>
-    <p>If you have any questions, or want to find out more about dental care in conjunction with certain long-term diseases and disabilities, you should in the first instance ask your dentist or the doctor treating you. In the second instance, you can contact the unit responsible for dental care in the county council or region where you live.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>670</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Tandvardsstod-om-man-har-en-funktionsnedsattning</origFileName><parallel_text xml:lang="fin" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/><parallel_text xml:lang="fit" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/><parallel_text xml:lang="sme" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/><parallel_text xml:lang="swe" location="tandvardsstod-om-man-har-en-funktionsnedsattning.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Dental care support if you have a disability / Tandvårdsstöd om man har en funktionsnedsättning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Dental care support if you have a disabilityTandvårdsstöd om man har en funktionsnedsättning</p>
+<p xml:lang="swe"></p>
+<p><em type="italic">If you need lots of dental care </em><em type="italic"></em></p>
+<p>If you suffer from certain long-term diseases and disabilities, you will often need more dental care than others. This may be due to the disease in itself causing increased risk of damage to your teeth or problems with managing dental hygiene, for example because of trembling hands or whole or partial paralysis of the face.</p>
+<p>Your disease may also make it difficult for you to open your mouth, and then it can be difficult for the dentist or dental hygienist to carry out the dental care. The dental care is then charged for as medical care . This means that the fee may be included with other fees for health and medical care, and thereby included in the high-cost protection scheme for medical care.</p>
+<p>Not all dental care is covered by the benefit. The dental care covered includes examinations, preventative care, fillings, treatment of tooth-loosening, root canal fillings and removal of teeth. Removable dentures are also included in the dental care benefit. On the other hand, fixed dental prostheses, such as crowns, bridges and implants, are not included.</p>
+<p>You can choose yourself which dentist or dental hygienist to consult.</p>
+<p xml:lang="swe">Tandvårdsstöd om man har en funktionsnedsättning</p>
+<p><em type="italic">Who is entitled to dental care benefit? </em><em type="italic"></em></p>
+<p>The county council or region where you live decides whether you are entitled to dental care benefit. Each application is assessed individually. It is not enough to have received a diagnosis of your disease or condition. The disability it causes will also be assessed, that is to say how the disease affects your ability to manage your own dental hygiene, and the problems that may arise during dental care.</p>
+<p>Some of the long-term diseases and disabilities that may give a right to dental care benefit are:</p>
+<list><p type="listitem">Mental illness leading to problems with managing dental hygiene.</p>
+<p type="listitem">Parkinson’s disease , multiple sclerosis (MS) och amyotrophic lateral sclerosis, which are all diseases of the nervous system.</p>
+<p type="listitem">Cerebral paresis, CP .</p>
+<p type="listitem">Rheumatoid arthritis, sclerodermia and systemic lupus eruthemastosus (SLE).</p>
+<p type="listitem">Malformation or damage to the jaws.</p>
+<p type="listitem">Disability following a stroke .</p>
+<p type="listitem">Unusual diagnoses on the list of the National Swedish Board of Health and Welfare.</p>
+</list><p><em type="italic">How do I apply for dental care benefit? </em><em type="italic"></em></p>
+<p>In order to apply for the benefit, you need a special doctor’s certificate, describing the disease and the disability. It is the doctor treating you who has the information about the data the county council or region require in the doctor’s certificate.</p>
+<p>The doctor’s certificate is sent by either the doctor, the dentist or you, the patient, to the unit responsible for dental care in the county council or region where you live. Sometimes this is called <span type="quote" xml:lang="swe">“Tandvårdsenheten”</span>, but this may vary depending on where you live. Thereafter, the assessing dentist will decide whether you are entitled to dental care benefit, and for how long.</p>
+<p>If you are entitled to dental care benefit, you will receive a card or certificate, which you should show to your dentist or dental hygienist. The dental care card may be valid for differing lengths of time, depending on how the disability is assessed, and the card should always be shown when you have a dental appointment. You will then pay for your dental appointment in the same way as for medical care. You will also get a stamp in your high-cost protection card, and if you have an exemption card, this applies also for dental appointments.</p>
+<p><em type="italic">Where can I get more information? </em><em type="italic"></em></p>
+<p>If you have any questions, or want to find out more about dental care in conjunction with certain long-term diseases and disabilities, you should in the first instance ask your dentist or the doctor treating you. In the second instance, you can contact the unit responsible for dental care in the county council or region where you live.</p>
+</body></document>

@@ -1,143 +1,119 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>924</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual/>
-    <origFileName>http://www.skatteetaten.no/upload/Skjemaer/2013/RF-1224E.pdf</origFileName>
-    <parallel_text xml:lang="nob" location="rf-1224b.pdf"/>
-    <parallel_text xml:lang="sme" location="80337_rf-1224-samisk_utfyll.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>See the guidelines for how to use minus or plus signs in the form</p>
-    <p>NamePersonal ID number</p>
-    <p>Enterprise/ office address (business income from more than one municipality must list item)Postal codePostal district</p>
-    <p>Type of business (see guidelines)Sector code</p>
-    <p><em type="bold">Basis calculation</em> </p>
-    <p>1.1 Amount transferred from Income Statement 1 (item 0402E), Income statement 2 (item 0402E), Næringsoppgave for billedkunstnere      (‘Income Statement for visual artists’ – in Norwegian only) (item 2.90) or from Operating result in the tax return RF-1030.</p>
-    <p>1.2 Interest on the enterprise’s debt to financial institutions entered under item 2.10 (see guidelines to item 2.10), and interest on       operating credits/ overdraft facilities and enterprise loans taken up and repaid during the year.</p>
-    <p>1.3 Capital income (yield and gains, not interest) relating to financial instruments or to real capital that has not been active in       the enterprise. (The income must be entered in your income statement or under Operating result in form RF-1030 and be       included under item 1.1). See the guidelines for information about interest relief subsidies from Innovation Norway.</p>
-    <p>1.5 Capital expenses (not interest) and losses relating to financial instruments or to real capital that have not been active in the enterprise.      (The expense must be entered in your income statement or under Operating result in form RF-1030 and be included under item 1.1).</p>
-    <p>1.7 Total</p>
-    <p>1.8 Risk-free return (positive amount from item 2.11 or 2.12       multiplied by the risk-free interest rate)</p>
-    <p xml:lang="koi">-</p>
-    <p xml:lang="koi">-</p>
-    <p xml:lang="koi">+</p>
-    <p>1.4 Reduction amount for rented property for which a deposit has been paid</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="ron">a)</p>
-    <p xml:lang="koi">-</p>
-    <p xml:lang="kal">X</p>
-    <p>Interest rate                                %</p>
-    <p>1.9 Calculated personal income for the year before any coordination/carryforward.      In cases of allocation between spouses, the amounts in item 1.1.0 will be used for the calculation.=</p>
-    <p><em type="bold">Allocation between spouses </em>(Allocation of item 1.9 between spouses)<em type="bold">Spouse</em> </p>
-    <p>% sharea)1.10 Allocation between spouses of item 1.9, see the guidelines</p>
-    <p>% shareb)</p>
-    <p><em type="bold">Coordination/carryforward of negative</em> <em type="bold">calculated personal income</em> </p>
-    <p>1.17 Calculated personal income for the year before any        coordination/carryforward</p>
-    <p>1.19 Deduction for negative calculated personal income transferred from        another business with which coordination is possible – see the guidelines</p>
-    <p xml:lang="koi">1.23</p>
-    <p xml:lang="koi">-</p>
-    <p xml:lang="koi">-</p>
-    <p xml:lang="koi">+</p>
-    <p>1.20 Addition for negative calculated personal income transferred to another        business with which coordination is possible – see the guidelines+</p>
-    <p>1.21 Addition for negative calculated personal income that can be coordinated        with remuneration for work from an ANS/DA/KS this year – see the guidelines</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="koi">+</p>
-    <p>1.6 Gain on the realisation of plots of land in agriculture/forestry that is not to be included in personal income.       (Amount transferred from form RF-1177 item 453)</p>
-    <p>1.18 Negative calculated personal income from previous years (negative        calculated personal income from an <span type="quote" xml:lang="nno">«ANS/DA/KS»</span> cannot be carried forward) -</p>
-    <p>1.22 Addition for negative calculated personal income that can be coordinated with        a share of the proceeds from fishing this year – see RF-1213 item 118++</p>
-    <p><em type="bold">Calculated personal income for the year.</em> </p>
-    <p xml:lang="koi">=</p>
-    <p>If the result is less than zero, this is the calculated negative personal income that can be carried forward for deduction in subsequent years. (Negative calculated personal income is not to be entered in the tax return)</p>
-    <p>1.24 Information item (for those who choose not to use item 1.18 to reduce        positive calculated personal income by carrying forward negative calculated       income from previous years) – see the guidelines</p>
-    <p><em type="bold">Specification of positive calculated personal income from item 1.23</em> </p>
-    <p xml:lang="est"><em type="bold"> Spouse</em> </p>
-    <p>Fisheries/ Family day care centres in one’s own home</p>
-    <p>To be transferred to the tax return (form RF-1030) item 1.6.1 or 1.6.2. See the guidelines.</p>
-    <p>Other commercial</p>
-    <p>activities</p>
-    <p>Fisheries/ Family day care centres in one’s own home Other commercial</p>
-    <p>activities</p>
-    <p>Personal income1.341.33</p>
-    <p>1.361.35 methodOpening value</p>
-    <p>Balance group A: Office machinery etc.</p>
-    <p>Balance group B: Acquired goodwill</p>
-    <p xml:lang="koi">2.1</p>
-    <p>Balance group C: Articulated lorries, lorries etc.</p>
-    <p>Balance group D: Passenger cars, tractors etc.</p>
-    <p>Balance group E: Ships, vessels etc.</p>
-    <p>Balance group F: Airplanes and helicopters</p>
-    <p>Balance group H: Buildings and installations etc.</p>
-    <p>Balance group I: Commercial premises</p>
-    <p>Balance group G: Systems for the transmission and distribution of electrical power etc. ++</p>
-    <p>Balance group J: Fixed technical installations in buildings++</p>
-    <p>Operating equipment for which straight-line depreciation is used++</p>
-    <p>2.2 Non-depreciable operating equipment</p>
-    <p>2.3 Other acquired intangible rights</p>
-    <p>2.4  Capitalised research and development expenses</p>
-    <p>2.5  Goods (incl. livestock)/ goods under production</p>
-    <p>2.6  Trade debtors</p>
-    <p>2.7  Trade creditors/ advance payments from customers</p>
-    <p>2.8  Total</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="isl">÷</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">+</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="isl">÷</p>
-    <p>2.9 Total basis for risk-free return (opening + closing values from item 2.8) / 2)</p>
-    <p xml:lang="koi">=</p>
-    <p>2.10 Enterprise debt to financial institutions and        enterprise debt relating to multiple debt instruments.        See the guidelines. Opening value(Open. + clos. value) / 2</p>
-    <p>The amount shall be transferred to item 1.8 a. If the enterprise was only active during part of the year, the amount shall be transferred to item 2.12.= Closing value</p>
-    <p>Closing value</p>
-    <p xml:lang="isl">÷</p>
-    <p>2.11 Total</p>
-    <p xml:lang="koi">2.12</p>
-    <p>If the enterprise was only active during part of the income year, a proportionate share of the deductible risk-free return shall be calculated. Only whole months are included. The amount is transferred to item 1.8 a.</p>
-    <p xml:lang="koi">=</p>
-    <p xml:lang="kal">X</p>
-    <p>Transferred from item x no of whole months</p>
-    <p><em type="bold">Signature</em> </p>
-    <p xml:lang="ron">DateSignature</p>
-    <p>Name of accountant</p>
-    <p>Postal districtBusiness address (street address)</p>
-    <p>Postal code</p>
-    <p>Issued by the Directorate of Taxes pursuant to the Ministry of Finance’s delegation decision of 28 November 1994, cf. the Tax Assessment Act section 4-4 no 7. Reference is made to a separate set of guidelines (RF-1225) drawn up as an aid to completing the Form for the calculation of personal income (RF-1224).</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>924</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2013/RF-1224E.pdf</origFileName><parallel_text xml:lang="nob" location="rf-1224b.pdf"/><parallel_text xml:lang="sme" location="80337_rf-1224-samisk_utfyll.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>See the guidelines for how to use minus or plus signs in the form</p>
+<p>NamePersonal ID number</p>
+<p>Enterprise/ office address (business income from more than one municipality must list item)Postal codePostal district</p>
+<p>Type of business (see guidelines)Sector code</p>
+<p><em type="bold">Basis calculation</em> </p>
+<p>1.1 Amount transferred from Income Statement 1 (item 0402E), Income statement 2 (item 0402E), Næringsoppgave for billedkunstnere      (‘Income Statement for visual artists’ – in Norwegian only) (item 2.90) or from Operating result in the tax return RF-1030.</p>
+<p>1.2 Interest on the enterprise’s debt to financial institutions entered under item 2.10 (see guidelines to item 2.10), and interest on       operating credits/ overdraft facilities and enterprise loans taken up and repaid during the year.</p>
+<p>1.3 Capital income (yield and gains, not interest) relating to financial instruments or to real capital that has not been active in       the enterprise. (The income must be entered in your income statement or under Operating result in form RF-1030 and be       included under item 1.1). See the guidelines for information about interest relief subsidies from Innovation Norway.</p>
+<p>1.5 Capital expenses (not interest) and losses relating to financial instruments or to real capital that have not been active in the enterprise.      (The expense must be entered in your income statement or under Operating result in form RF-1030 and be included under item 1.1).</p>
+<p>1.7 Total</p>
+<p>1.8 Risk-free return (positive amount from item 2.11 or 2.12       multiplied by the risk-free interest rate)</p>
+<p xml:lang="vep">-</p>
+<p xml:lang="vep">-</p>
+<p xml:lang="vep">+</p>
+<p>1.4 Reduction amount for rented property for which a deposit has been paid</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="ron">a)</p>
+<p xml:lang="vep">-</p>
+<p xml:lang="kal">X</p>
+<p>Interest rate                                %</p>
+<p>1.9 Calculated personal income for the year before any coordination/carryforward.      In cases of allocation between spouses, the amounts in item 1.1.0 will be used for the calculation.=</p>
+<p><em type="bold">Allocation between spouses </em>(Allocation of item 1.9 between spouses)<em type="bold">Spouse</em> </p>
+<p>% sharea)1.10 Allocation between spouses of item 1.9, see the guidelines</p>
+<p xml:lang="rmn">% shareb)</p>
+<p><em type="bold">Coordination/carryforward of negative</em> <em type="bold">calculated personal income</em> </p>
+<p>1.17 Calculated personal income for the year before any        coordination/carryforward</p>
+<p>1.19 Deduction for negative calculated personal income transferred from        another business with which coordination is possible – see the guidelines</p>
+<p xml:lang="vep">1.23</p>
+<p xml:lang="vep">-</p>
+<p xml:lang="vep">-</p>
+<p xml:lang="vep">+</p>
+<p>1.20 Addition for negative calculated personal income transferred to another        business with which coordination is possible – see the guidelines+</p>
+<p>1.21 Addition for negative calculated personal income that can be coordinated        with remuneration for work from an ANS/DA/KS this year – see the guidelines</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="vep">+</p>
+<p>1.6 Gain on the realisation of plots of land in agriculture/forestry that is not to be included in personal income.       (Amount transferred from form RF-1177 item 453)</p>
+<p>1.18 Negative calculated personal income from previous years (negative        calculated personal income from an <span type="quote" xml:lang="nno">«ANS/DA/KS»</span> cannot be carried forward) -</p>
+<p>1.22 Addition for negative calculated personal income that can be coordinated with        a share of the proceeds from fishing this year – see RF-1213 item 118++</p>
+<p><em type="bold">Calculated personal income for the year.</em> </p>
+<p xml:lang="vep">=</p>
+<p>If the result is less than zero, this is the calculated negative personal income that can be carried forward for deduction in subsequent years. (Negative calculated personal income is not to be entered in the tax return)</p>
+<p>1.24 Information item (for those who choose not to use item 1.18 to reduce        positive calculated personal income by carrying forward negative calculated       income from previous years) – see the guidelines</p>
+<p><em type="bold">Specification of positive calculated personal income from item 1.23</em> </p>
+<p xml:lang="est"><em type="bold"> Spouse</em> </p>
+<p>Fisheries/ Family day care centres in one’s own home</p>
+<p>To be transferred to the tax return (form RF-1030) item 1.6.1 or 1.6.2. See the guidelines.</p>
+<p>Other commercial</p>
+<p>activities</p>
+<p>Fisheries/ Family day care centres in one’s own home Other commercial</p>
+<p>activities</p>
+<p>Personal income1.341.33</p>
+<p>1.361.35 methodOpening value</p>
+<p>Balance group A: Office machinery etc.</p>
+<p>Balance group B: Acquired goodwill</p>
+<p xml:lang="vep">2.1</p>
+<p>Balance group C: Articulated lorries, lorries etc.</p>
+<p>Balance group D: Passenger cars, tractors etc.</p>
+<p>Balance group E: Ships, vessels etc.</p>
+<p>Balance group F: Airplanes and helicopters</p>
+<p>Balance group H: Buildings and installations etc.</p>
+<p>Balance group I: Commercial premises</p>
+<p>Balance group G: Systems for the transmission and distribution of electrical power etc. ++</p>
+<p>Balance group J: Fixed technical installations in buildings++</p>
+<p>Operating equipment for which straight-line depreciation is used++</p>
+<p>2.2 Non-depreciable operating equipment</p>
+<p>2.3 Other acquired intangible rights</p>
+<p>2.4  Capitalised research and development expenses</p>
+<p>2.5  Goods (incl. livestock)/ goods under production</p>
+<p>2.6  Trade debtors</p>
+<p>2.7  Trade creditors/ advance payments from customers</p>
+<p>2.8  Total</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="isl">÷</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">+</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="isl">÷</p>
+<p>2.9 Total basis for risk-free return (opening + closing values from item 2.8) / 2)</p>
+<p xml:lang="vep">=</p>
+<p>2.10 Enterprise debt to financial institutions and        enterprise debt relating to multiple debt instruments.        See the guidelines. Opening value(Open. + clos. value) / 2</p>
+<p>The amount shall be transferred to item 1.8 a. If the enterprise was only active during part of the year, the amount shall be transferred to item 2.12.= Closing value</p>
+<p>Closing value</p>
+<p xml:lang="isl">÷</p>
+<p>2.11 Total</p>
+<p xml:lang="vep">2.12</p>
+<p>If the enterprise was only active during part of the income year, a proportionate share of the deductible risk-free return shall be calculated. Only whole months are included. The amount is transferred to item 1.8 a.</p>
+<p xml:lang="vep">=</p>
+<p xml:lang="kal">X</p>
+<p>Transferred from item x no of whole months</p>
+<p><em type="bold">Signature</em> </p>
+<p xml:lang="nob">DateSignature</p>
+<p>Name of accountant</p>
+<p>Postal districtBusiness address (street address)</p>
+<p>Postal code</p>
+<p>Issued by the Directorate of Taxes pursuant to the Ministry of Finance’s delegation decision of 28 November 1994, cf. the Tax Assessment Act section 4-4 no 7. Reference is made to a separate set of guidelines (RF-1225) drawn up as an aid to completing the Form for the calculation of personal income (RF-1224).</p>
+</body></document>

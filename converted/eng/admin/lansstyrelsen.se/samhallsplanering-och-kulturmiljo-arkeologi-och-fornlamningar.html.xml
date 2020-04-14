@@ -1,52 +1,23 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>479</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/arkeologi-och-fornlamningar/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/>
-    <parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Archaeology and ancient monuments - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Archaeology and ancient monuments</p>
-    <p><em type="italic">Ancient monuments are traces of older human activity and are protected under the Cultural Heritage Act (Swedish Code of Statutes 1988:950). Under the Act it is prohibited to alter, remove, damage or cover an ancient monument, but in certain cases the County Administrative Board can give a permit for actions in an ancient monument. </em></p>
-    <p type="title">New Act on 1 January 2014</p>
-    <p>On 1 January 2014 new wording of the Cultural Heritage Act (1988:950) entered into force. On the website of the Swedish National Heritage Board you can read more about what the amendments to the Act mean .</p>
-    <p type="title">Permit from the County Administrative Board</p>
-    <p>The County Administrative Board is the supervisory authority for the county’s ancient monuments. Its role is to protect, care for, provide information about and increase the accessibility of our ancient monument environments so that both present and future generations can understand and experience the cultural heritage. We examine applications and give permits for alterations in the area of an ancient monument.</p>
-    <p type="title">What is an ancient monument?</p>
-    <p>Ancient monuments are the traces of long abandoned human activity. They can, for example, be settlements, burial grounds, ruins and cultural layers in medieval towns. A new rule applicable as of 1 January 2014 is that remains that can be asssumed to have been put in place in 1850 or later are not covered by the general protection for ancient monuments. The County Administrative Board can designate remains from 1850 or later as ancient monuments if there are special reasons to do so in view of their cultural heritage value.</p>
-    <p type="title">Ancient remains protected by law</p>
-    <p>Ancient monuments have automatic protection under the Cultural Heritage Act. This means that a newly discovered ancient monument has immediate protection without the need for any decision to this effect by a public authority. If you discover old remains when work is in progress, you must stop the work immediately and contact the County Administrative Board. This legal protection also applies to the land area around the remains, and the size of the area depends on the importance and character of the ancient monument. For example, a settlement has a larger safeguarding zone than a milestone on the roadside.</p>
-    <p type="title">Archaeological investigations</p>
-    <p>If you are planning work that may disturb or destroy an ancient monument, for example the burying of cables or the construction of new buildings, the County Administrative Board can request you, as the developer, to pay for archaeological investigations. The results of the investigations are input for our permit decision and are documentation of the investigation and of the ancient monuments with the finds made there. Before the start of extensive work such as the construction of a new road, we can demand that the developer pays for an investigation to see whether any previously unknown ancient monuments may be affected.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>479</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/arkeologi-och-fornlamningar/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/><parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Archaeology and ancient monuments - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Archaeology and ancient monuments</p>
+<p><em type="italic">Ancient monuments are traces of older human activity and are protected under the Cultural Heritage Act (Swedish Code of Statutes 1988:950). Under the Act it is prohibited to alter, remove, damage or cover an ancient monument, but in certain cases the County Administrative Board can give a permit for actions in an ancient monument. </em></p>
+<p type="title">New Act on 1 January 2014</p>
+<p>On 1 January 2014 new wording of the Cultural Heritage Act (1988:950) entered into force. On the website of the Swedish National Heritage Board you can read more about what the amendments to the Act mean .</p>
+<p type="title">Permit from the County Administrative Board</p>
+<p>The County Administrative Board is the supervisory authority for the county’s ancient monuments. Its role is to protect, care for, provide information about and increase the accessibility of our ancient monument environments so that both present and future generations can understand and experience the cultural heritage. We examine applications and give permits for alterations in the area of an ancient monument.</p>
+<p type="title">What is an ancient monument?</p>
+<p>Ancient monuments are the traces of long abandoned human activity. They can, for example, be settlements, burial grounds, ruins and cultural layers in medieval towns. A new rule applicable as of 1 January 2014 is that remains that can be asssumed to have been put in place in 1850 or later are not covered by the general protection for ancient monuments. The County Administrative Board can designate remains from 1850 or later as ancient monuments if there are special reasons to do so in view of their cultural heritage value.</p>
+<p type="title">Ancient remains protected by law</p>
+<p>Ancient monuments have automatic protection under the Cultural Heritage Act. This means that a newly discovered ancient monument has immediate protection without the need for any decision to this effect by a public authority. If you discover old remains when work is in progress, you must stop the work immediately and contact the County Administrative Board. This legal protection also applies to the land area around the remains, and the size of the area depends on the importance and character of the ancient monument. For example, a settlement has a larger safeguarding zone than a milestone on the roadside.</p>
+<p type="title">Archaeological investigations</p>
+<p>If you are planning work that may disturb or destroy an ancient monument, for example the burying of cables or the construction of new buildings, the County Administrative Board can request you, as the developer, to pay for archaeological investigations. The results of the investigations are input for our permit decision and are documentation of the investigation and of the ancient monuments with the finds made there. Before the start of extensive work such as the construction of a new road, we can demand that the developer pays for an investigation to see whether any previously unknown ancient monuments may be affected.</p>
+</body></document>

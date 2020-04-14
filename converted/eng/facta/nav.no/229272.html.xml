@@ -1,151 +1,109 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>NAV - Stay in Norway - </title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>2932</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://www.nav.no/English/Stay+in+Norway/229272.cms</origFileName>
-    <parallel_text xml:lang="nno" location="229265.html"/>
-    <parallel_text xml:lang="nob" location="foreldrepenger_til_far_ved_fodsel_og_adopsjon.html"/>
-    <parallel_text xml:lang="sme" location="229273.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Paternity benefit on birth or adoption</p>
-    <p>As a father, you may be entitled to parental benefit if you have had a pensionable income for at least six of the last ten months before the beginning of the benefit period.</p>
-    <p>The National Insurance Act was amended with effect from 1 July 2009. Below is a presentation of the rules that apply to children born on or after 1 July 2009. There is more information about the rules prior to 1 July 2009, under the headings " Parental benefit on birth " and <span type="quote">“ Parental benefit on adoption ”</span>.</p>
-    <p type="title">For how long will you receive parental benefit?</p>
-    <p>In cases where both parents qualify for parental benefit, some parts of the total benefit period are earmarked for the mother, some parts are reserved for the father and some parts can be divided between the two parents as they choose (called the <span type="quote">“joint period”</span>). Below we focus on the father’s rights and entitlements.</p>
-    <p type="title">Benefit period when both parents qualify for parental benefit</p>
-    <p>In connection with parental benefit on birth, the parents can choose whether they prefer to receive 100 per cent of the parental benefit over a total of 46 weeks, or 80 per cent parental benefit spread over a total of 56 weeks. In connection with adoption, the benefit period is either 43 weeks (100 per cent) or 53 weeks (80 per cent). In cases where both parents qualify for parental benefit, the last three weeks before the due date and the first six weeks after the birth are reserved for the mother, ten weeks are reserved for the father, known as the paternal quota or paternity leave, and the remaining 27 or 37 weeks (depending on the percentage chosen) can be distributed between the parents as they choose. This means that fathers can have up to either 37 or 47 weeks’ leave with parental benefit in connection with the birth of a child. In connection with adoption, none of the weeks are earmarked for the mother, but ten weeks are reserved for the father (paternal quota). The joint period is thus 33 or 43 weeks, meaning fathers can have a total of up to 43 or 53 weeks’ leave with parental benefit in connection with adoption of a child (including the paternal quota).</p>
-    <p>If, prior to the birth or adoption, the mother worked in a 50 per cent or less position, the father is not entitled to the paternal quota. This means that no weeks are specifically earmarked for you, but you are still entitled to leave in the joint period, which is 37 or 47 weeks in connection with birth and 43 or 53 weeks in connection with adoption.</p>
-    <p>The amount of benefit you choose to receive (100 per cent or 80 per cent) applies throughout the entire benefit period, and both parents must choose the same percentage.</p>
-    <p>Parental benefit is paid for five days in the week; parental benefit is not paid for Saturdays and Sundays.</p>
-    <p>You must take advantage of your right to parental benefit (both the paternal quota and the joint period) before the child’s third birthday in connection with birth and within three years of assuming care in connection with adoption.</p>
-    <p>Fathers can also earn entitlement to parental benefit while the mother is receiving parental benefit.</p>
-    <p type="title">Benefit period when only the father qualifies for parental benefit</p>
-    <p>Fathers can receive parental benefit for up to 37 weeks with 100 per cent benefit or 47 weeks with 80 per cent benefit in connection with the birth or adoption of a child. The percentage you choose applies for the whole benefit period. You are not entitled to the earmarked paternal quota if the mother of the child does not qualify for parental benefit.</p>
-    <p>The earliest fathers can start their period of leave with parental benefit is six weeks after the child is born. In connection with adoption, fathers can start their paternity leave whenever they want. In order to be able to take all the weeks’ leave you are entitled to, you must start the parental benefit period six weeks after the child is born or care of an adopted child is assumed.</p>
-    <p>Special conditions apply to the mother if the father is going to receive parental benefit beyond that earmarked for the father (the paternal quota); see the section below <span type="quote">“What do mothers do when the father receives parental benefit beyond the earmarked paternal quota”</span>.</p>
-    <p type="title">Benefit period for fathers who are the sole carer of a child</p>
-    <p>If you are the sole carer of your child, you are entitled to parental benefit for up to 43 weeks (with 100 per cent benefit) or 53 weeks (with 80 per cent benefit). This applies to birth and adoption alike. The percentage you choose applies throughout the whole benefit period. If the mother has received parental benefit before you become the child’s sole carer, you are entitled to parental benefit for the remaining period.</p>
-    <p type="title">Is the benefit period longer in connection with multiple births or adoption of several children at the same time?</p>
-    <p>If you have more than one child at a time, the benefit period is extended by five or seven weeks per child, depending on the benefit percentage chosen. If both parents qualify for parental benefit, these extra weeks are added to the joint period. If only the father qualifies for parental benefit, your period of leave is extended by five or seven weeks.</p>
-    <p type="title">Is the father entitled to parental benefit if the mother is the sole carer of the child?</p>
-    <p>You must make your own arrangements with the mother of your child if you want to take leave during part of the parental benefit period (including the paternal quota).</p>
-    <p type="title">What do mothers do when the father receives parental benefit beyond the earmarked paternal quota (paternity leave)?</p>
-    <p>Special conditions apply to the mother if the father is going to receive parental benefit beyond that earmarked for father (the paternal quota). How much parental benefit you are entitled to depends on what the mother is doing and whether she is doing it full-time or part-time.</p>
-    <p>For you to receive parental benefit that is not earmarked paternal quota, the mother must be:</p>
-    <list>
-      <p type="listitem">working – full-time or part-time</p>
-      <p type="listitem">in full-time approved education</p>
-      <p type="listitem">in approved education combined with work that together add up to full-time activity</p>
-      <p type="listitem">entirely dependent on assistance to be able to care for the child because of sickness or injury, or in a health institution</p>
-      <p type="listitem">participating in an introduction programme for recently arrived immigrants</p>
-      <p type="listitem">participating in the qualification programme for people with significantly reduced work and earning capacity</p>
-    </list>
-    <p>If after the birth or after care of an adopted child is assumed the mother works at least 75 per cent of a full-time job, the father is entitled to parental benefit calculated as if the mother is working full-time. If the mother is working less than 75 per cent of a full-time position, your parental benefit will be reduced by a proportion corresponding to the reduction in the mother’s working hours.</p>
-    <p>If you want to work full-time and postpone your part of the benefit period, it is a condition that the mother is also working or studying full-time. This applies even if the mother does not qualify for parental benefit.</p>
-    <p>If none of the conditions above are satisfied, you are not entitled to parental benefit beyond the paternal quota (if applicable).</p>
-    <p type="title">How can you take your paternal quota?</p>
-    <p>You qualify for the paternal quota of parental leave with benefit if both you and the mother of the child are entitled to parental benefit and the mother has accumulated the right to parental benefit in a 50 per cent job or more. You can also earn the right to paternity leave while the mother is receiving parental benefit.</p>
-    <p>You can take your paternal quota at any time during the benefit period, apart from during the first six weeks after birth. These weeks are earmarked for the mother for medical reasons. You can choose whether to take your entire period of paternity leave in one go or take flexible parental leave (whereby you combine reduced parental benefit with reduced working hours).</p>
-    <p>However, you must take your paternity leave before the child’s third birthday (parental leave on birth) or within three years of assuming care of an adopted child.</p>
-    <p>If you want to postpone taking your paternity leave, you must submit an application for this before the final benefit day of the joint period.</p>
-    <p type="title">What do mothers do when the father receives parental benefit earmarked for fathers (paternal quota)?</p>
-    <p>When you are on your paternity leave, the mother is free to choose if she wants to work and earn an income or not. During your period of earmarked paternity leave (paternal quota), both of you can receive a combined total of maximum 150 per cent parental benefit. This is on the condition that the mother works at least 50 per cent.</p>
-    <p type="title">What happens if you are sick?</p>
-    <p>If you are sick and entirely dependent on help to look after the child, you can apply to NAV to postpone your period of paternal leave with parental benefit. In cases like this, you and the mother can also apply for the mother to take over the parental benefit / paternal quota. This is on the condition that the mother is entitled to parental benefit.</p>
-    <p type="title">What happens to the benefit period if you have another child?</p>
-    <p>If the parental benefit period for the first child has not ended when a new benefit period begins, the remaining benefit period for the first child lapses. The same also applies to the paternal quota.</p>
-    <p type="title">In what circumstances can the parental benefit period be postponed?</p>
-    <p>Both the paternal quota and the joint parental benefit period can be postponed if:</p>
-    <list>
-      <p type="listitem">you are in full-time work</p>
-      <p type="listitem">you have statutory holiday (i.e. 21 working days). Holiday determined by a collective agreement does not count</p>
-      <p type="listitem">you are entirely dependent on help looking after the child because you are sick</p>
-      <p type="listitem">you or the child have been admitted to a health institution</p>
-    </list>
-    <p>If you want to postpone your period of leave because you are in full-time work, you must submit a copy of a written agreement with your employer to NAV if you are in paid employment. If you are self-employed or work freelance, you must enter into an agreement with NAV.</p>
-    <p type="title">Is it possible to combine work and parental benefit?</p>
-    <p>There are two ways of combining parental benefit (paternal quota) with work:</p>
-    <list>
-      <p type="listitem">You can postpone the parental benefit period.</p>
-      <p type="listitem">You can receive partial parental benefit at the same time as you work part-time (this is called <span type="quote">“graduated leave”</span>).</p>
-    </list>
-    <p type="title">You can postpone your leave with parental benefit (the paternal quota) because of full-time work</p>
-    <p>You can postpone your period of parental leave with benefit if you work in a 100 per cent position. If you want to postpone your parental benefit period by more than 14 days, one of you must have already taken at least six weeks of leave with parental benefit. If you want to work full-time and postpone the period of leave with parental benefit that is not earmarked for fathers, it is a condition that the mother is either working full-time or in approved full-time education. This applies even if the mother does not qualify for parental benefit.</p>
-    <p type="title">You can also receive graduated parental benefit</p>
-    <p>You can combine part-time work with partial parental benefit / paternal quota. Graduated parental benefit makes up the difference between a part-time position and a 100 per cent position. The amount of parental benefit you receive is reduced in keeping with the amount you work, meaning the period of leave with benefit is extended over a longer period of time. The total amount of benefit you receive is the same as if you had chosen full leave with parental benefit. There is no lower or upper limit on how much or how little you can work or how long you can make use of this option. Both parents can take graduated parental leave with benefit at the same time, or you can take it separately. If both parents choose to take graduated parental leave at the same time, the total parental benefit cannot constitute more than 100 per cent. If you want to work part-time and receive partial parental benefit that is not part of the paternal quota, it is a condition that the mother is working a percentage that corresponds to the percentage of parental benefit you want to receive. This applies even if the mother does not qualify for parental benefit.</p>
-    <p type="title">For how long can you combine parental benefit / paternal quota with work?</p>
-    <p>You can make use of this scheme for up to three years after the birth or after care of an adopted child is assumed.</p>
-    <p type="title">How do you apply for your parental benefit / paternal quota?</p>
-    <p>You must submit a written application for parental benefit. This applies even if you receive full pay from your employer during the benefit period. Submit your claim for parental benefit / paternal quota using the application form <span type="quote" xml:lang="nob">“Krav om ytelse ved fødsel og adopsjon”</span> (Claim for benefit on birth or adoption), which is available under the heading Forms and enclosures in the menu to the right. Here you will also find information about the documents you need to submit with your application for parental benefit. In order for NAV to be able to calculate how much benefit you are entitled to, your employer must also fill in the form <span type="quote" xml:lang="dan">“Inntekts- og skatteopplysninger for arbeidstaker”</span> (Income and tax information for employees).</p>
-    <p>Your employer can claim reimbursement from the national insurance if he or she pays you your full pay during your period of parental leave. To do this, your employer must check the box for this on the income and tax information form stating that he / she wants the parental benefit paid to them. However, you as the employee must still submit a separate application for parental benefit in order for your employer to be reimbursed.</p>
-    <p>Benefit cannot be paid out for more than three months before the date on which you applied. This is calculated from the date of the last claim submitted by you or your employer. If one of you submits your claim later, the benefit period will be reduced correspondingly.</p>
-    <p>Submit your application to your NAV office.</p>
-    <p type="title">How do you apply for combined parental benefit and work?</p>
-    <p>You must submit a written application. You must also submit a written agreement between you and your employer detailing how much you are going to work (as a percentage of a full-time position), and when you are going to work in order to postpone or graduate your period of leave with parental benefit. You can use the form <span type="quote" xml:lang="nno">“Avtale om gradert uttak/utsettelse av foreldrepenger”</span> (Agreement concerning graduated benefit / postponement of parental benefit), which is available under the heading Forms and enclosures in the menu to the right. Here you will also find information about the documents you need to submit with your application for parental benefit.</p>
-    <p>If you are self-employed, you must enter into an agreement with NAV concerning how much you are going to work and for how long. You can use the form <span type="quote" xml:lang="nno">“Avtale om gradert uttak/utsettelse av foreldrepenger”</span> (Agreement concerning graduated benefit / postponement of parental benefit), which is available under the heading Forms and enclosures in the menu to the right. Here you will also find information about the documents you need to submit with your application for parental benefit.</p>
-    <p>It is important that you apply in plenty of time before you start working so that you do not lose benefit days. If you want to postpone taking your earmarked paternity leave (paternal quota), you must submit an application for this before the final benefit day of the joint period for you and the mother of your child. If you apply later than this, you will lose benefit days.</p>
-    <p>Submit your application to your NAV office.</p>
-    <p type="title">Can fathers receive the lump-sum grant on birth or adoption?</p>
-    <p>If you do not qualify for parental benefit, you may be entitled to receive the lump-sum grant on birth or adoption</p>
-    <list>
-      <p type="listitem">for each child you adopt on your own</p>
-      <p type="listitem">if you become the sole custodial parent because the other parent dies</p>
-      <p type="listitem">if you are awarded custody (sole parental responsibility) of the child pursuant to sections 38 and 63 of the Children Act</p>
-      <p type="listitem">if within 53 weeks after the birth or after care is assumed of an adopted child you have assumed care of the child with a view to having sole custody (sole parental responsibility) of the child pursuant to the Children Act</p>
-    </list>
-    <p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian.</p>
-    <p type="title">Payment dates</p>
-    <p type="title">Parental benefit and pregnancy benefit</p>
-    <p>Payments dates for 2010</p>
-    <p xml:lang="fkv">Jan</p>
-    <p xml:lang="deu">Feb</p>
-    <p xml:lang="nob">Mar</p>
-    <p xml:lang="nob">Apr</p>
-    <p>May</p>
-    <p xml:lang="nno">June</p>
-    <p>July</p>
-    <p xml:lang="est">Aug</p>
-    <p xml:lang="nno">Sep</p>
-    <p>Oct</p>
-    <p xml:lang="smn">Nov</p>
-    <p xml:lang="dan">Dec</p>
-    <p>13*, 25, 27 and 29</p>
-    <p>3*, 15*, 24 and 25</p>
-    <p>1*, 3*, 15*, 24, 26 and 31</p>
-    <p>8*, 14*, 23, 28 and 30</p>
-    <p>5*, 14*, 25 and 28</p>
-    <p>1*, 3*, 15*, 23, 25 and 30</p>
-    <p>5*, 14*, 23, 28 and 30</p>
-    <p>4*, 13*, 25 and 27</p>
-    <p>1*, 3*, 15*, 23, 28 and 30</p>
-    <p>5*, 13*, 25, 27 and 29</p>
-    <p>1*, 3*, 9*, 15, 17, 21 and 23</p>
-    <p>1*, 3*, 9*, 15, 17, 21 and 23</p>
-    <p>The payment dates for sickness benefit and parental / pregnancy benefit marked with an asterisk (*) pertain to payment for the previous month.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>NAV - Stay in Norway - </title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>2932</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><multilingual/><origFileName>http://www.nav.no/English/Stay+in+Norway/229272.cms</origFileName><parallel_text xml:lang="nno" location="229265.html"/><parallel_text xml:lang="nob" location="foreldrepenger_til_far_ved_fodsel_og_adopsjon.html"/><parallel_text xml:lang="sme" location="229273.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Paternity benefit on birth or adoption</p>
+<p>As a father, you may be entitled to parental benefit if you have had a pensionable income for at least six of the last ten months before the beginning of the benefit period.</p>
+<p>The National Insurance Act was amended with effect from 1 July 2009. Below is a presentation of the rules that apply to children born on or after 1 July 2009. There is more information about the rules prior to 1 July 2009, under the headings " Parental benefit on birth " and <span type="quote">“ Parental benefit on adoption ”</span>.</p>
+<p type="title">For how long will you receive parental benefit?</p>
+<p>In cases where both parents qualify for parental benefit, some parts of the total benefit period are earmarked for the mother, some parts are reserved for the father and some parts can be divided between the two parents as they choose (called the <span type="quote">“joint period”</span>). Below we focus on the father’s rights and entitlements.</p>
+<p type="title">Benefit period when both parents qualify for parental benefit</p>
+<p>In connection with parental benefit on birth, the parents can choose whether they prefer to receive 100 per cent of the parental benefit over a total of 46 weeks, or 80 per cent parental benefit spread over a total of 56 weeks. In connection with adoption, the benefit period is either 43 weeks (100 per cent) or 53 weeks (80 per cent). In cases where both parents qualify for parental benefit, the last three weeks before the due date and the first six weeks after the birth are reserved for the mother, ten weeks are reserved for the father, known as the paternal quota or paternity leave, and the remaining 27 or 37 weeks (depending on the percentage chosen) can be distributed between the parents as they choose. This means that fathers can have up to either 37 or 47 weeks’ leave with parental benefit in connection with the birth of a child. In connection with adoption, none of the weeks are earmarked for the mother, but ten weeks are reserved for the father (paternal quota). The joint period is thus 33 or 43 weeks, meaning fathers can have a total of up to 43 or 53 weeks’ leave with parental benefit in connection with adoption of a child (including the paternal quota).</p>
+<p>If, prior to the birth or adoption, the mother worked in a 50 per cent or less position, the father is not entitled to the paternal quota. This means that no weeks are specifically earmarked for you, but you are still entitled to leave in the joint period, which is 37 or 47 weeks in connection with birth and 43 or 53 weeks in connection with adoption.</p>
+<p>The amount of benefit you choose to receive (100 per cent or 80 per cent) applies throughout the entire benefit period, and both parents must choose the same percentage.</p>
+<p>Parental benefit is paid for five days in the week; parental benefit is not paid for Saturdays and Sundays.</p>
+<p>You must take advantage of your right to parental benefit (both the paternal quota and the joint period) before the child’s third birthday in connection with birth and within three years of assuming care in connection with adoption.</p>
+<p>Fathers can also earn entitlement to parental benefit while the mother is receiving parental benefit.</p>
+<p type="title">Benefit period when only the father qualifies for parental benefit</p>
+<p>Fathers can receive parental benefit for up to 37 weeks with 100 per cent benefit or 47 weeks with 80 per cent benefit in connection with the birth or adoption of a child. The percentage you choose applies for the whole benefit period. You are not entitled to the earmarked paternal quota if the mother of the child does not qualify for parental benefit.</p>
+<p>The earliest fathers can start their period of leave with parental benefit is six weeks after the child is born. In connection with adoption, fathers can start their paternity leave whenever they want. In order to be able to take all the weeks’ leave you are entitled to, you must start the parental benefit period six weeks after the child is born or care of an adopted child is assumed.</p>
+<p>Special conditions apply to the mother if the father is going to receive parental benefit beyond that earmarked for the father (the paternal quota); see the section below <span type="quote">“What do mothers do when the father receives parental benefit beyond the earmarked paternal quota”</span>.</p>
+<p type="title">Benefit period for fathers who are the sole carer of a child</p>
+<p>If you are the sole carer of your child, you are entitled to parental benefit for up to 43 weeks (with 100 per cent benefit) or 53 weeks (with 80 per cent benefit). This applies to birth and adoption alike. The percentage you choose applies throughout the whole benefit period. If the mother has received parental benefit before you become the child’s sole carer, you are entitled to parental benefit for the remaining period.</p>
+<p type="title">Is the benefit period longer in connection with multiple births or adoption of several children at the same time?</p>
+<p>If you have more than one child at a time, the benefit period is extended by five or seven weeks per child, depending on the benefit percentage chosen. If both parents qualify for parental benefit, these extra weeks are added to the joint period. If only the father qualifies for parental benefit, your period of leave is extended by five or seven weeks.</p>
+<p type="title">Is the father entitled to parental benefit if the mother is the sole carer of the child?</p>
+<p>You must make your own arrangements with the mother of your child if you want to take leave during part of the parental benefit period (including the paternal quota).</p>
+<p type="title">What do mothers do when the father receives parental benefit beyond the earmarked paternal quota (paternity leave)?</p>
+<p>Special conditions apply to the mother if the father is going to receive parental benefit beyond that earmarked for father (the paternal quota). How much parental benefit you are entitled to depends on what the mother is doing and whether she is doing it full-time or part-time.</p>
+<p>For you to receive parental benefit that is not earmarked paternal quota, the mother must be:</p>
+<list><p type="listitem">working – full-time or part-time</p>
+<p type="listitem">in full-time approved education</p>
+<p type="listitem">in approved education combined with work that together add up to full-time activity</p>
+<p type="listitem">entirely dependent on assistance to be able to care for the child because of sickness or injury, or in a health institution</p>
+<p type="listitem">participating in an introduction programme for recently arrived immigrants</p>
+<p type="listitem">participating in the qualification programme for people with significantly reduced work and earning capacity</p>
+</list><p>If after the birth or after care of an adopted child is assumed the mother works at least 75 per cent of a full-time job, the father is entitled to parental benefit calculated as if the mother is working full-time. If the mother is working less than 75 per cent of a full-time position, your parental benefit will be reduced by a proportion corresponding to the reduction in the mother’s working hours.</p>
+<p>If you want to work full-time and postpone your part of the benefit period, it is a condition that the mother is also working or studying full-time. This applies even if the mother does not qualify for parental benefit.</p>
+<p>If none of the conditions above are satisfied, you are not entitled to parental benefit beyond the paternal quota (if applicable).</p>
+<p type="title">How can you take your paternal quota?</p>
+<p>You qualify for the paternal quota of parental leave with benefit if both you and the mother of the child are entitled to parental benefit and the mother has accumulated the right to parental benefit in a 50 per cent job or more. You can also earn the right to paternity leave while the mother is receiving parental benefit.</p>
+<p>You can take your paternal quota at any time during the benefit period, apart from during the first six weeks after birth. These weeks are earmarked for the mother for medical reasons. You can choose whether to take your entire period of paternity leave in one go or take flexible parental leave (whereby you combine reduced parental benefit with reduced working hours).</p>
+<p>However, you must take your paternity leave before the child’s third birthday (parental leave on birth) or within three years of assuming care of an adopted child.</p>
+<p>If you want to postpone taking your paternity leave, you must submit an application for this before the final benefit day of the joint period.</p>
+<p type="title">What do mothers do when the father receives parental benefit earmarked for fathers (paternal quota)?</p>
+<p>When you are on your paternity leave, the mother is free to choose if she wants to work and earn an income or not. During your period of earmarked paternity leave (paternal quota), both of you can receive a combined total of maximum 150 per cent parental benefit. This is on the condition that the mother works at least 50 per cent.</p>
+<p type="title">What happens if you are sick?</p>
+<p>If you are sick and entirely dependent on help to look after the child, you can apply to NAV to postpone your period of paternal leave with parental benefit. In cases like this, you and the mother can also apply for the mother to take over the parental benefit / paternal quota. This is on the condition that the mother is entitled to parental benefit.</p>
+<p type="title">What happens to the benefit period if you have another child?</p>
+<p>If the parental benefit period for the first child has not ended when a new benefit period begins, the remaining benefit period for the first child lapses. The same also applies to the paternal quota.</p>
+<p type="title">In what circumstances can the parental benefit period be postponed?</p>
+<p>Both the paternal quota and the joint parental benefit period can be postponed if:</p>
+<list><p type="listitem">you are in full-time work</p>
+<p type="listitem">you have statutory holiday (i.e. 21 working days). Holiday determined by a collective agreement does not count</p>
+<p type="listitem">you are entirely dependent on help looking after the child because you are sick</p>
+<p type="listitem">you or the child have been admitted to a health institution</p>
+</list><p>If you want to postpone your period of leave because you are in full-time work, you must submit a copy of a written agreement with your employer to NAV if you are in paid employment. If you are self-employed or work freelance, you must enter into an agreement with NAV.</p>
+<p type="title">Is it possible to combine work and parental benefit?</p>
+<p>There are two ways of combining parental benefit (paternal quota) with work:</p>
+<list><p type="listitem">You can postpone the parental benefit period.</p>
+<p type="listitem">You can receive partial parental benefit at the same time as you work part-time (this is called <span type="quote">“graduated leave”</span>).</p>
+</list><p type="title">You can postpone your leave with parental benefit (the paternal quota) because of full-time work</p>
+<p>You can postpone your period of parental leave with benefit if you work in a 100 per cent position. If you want to postpone your parental benefit period by more than 14 days, one of you must have already taken at least six weeks of leave with parental benefit. If you want to work full-time and postpone the period of leave with parental benefit that is not earmarked for fathers, it is a condition that the mother is either working full-time or in approved full-time education. This applies even if the mother does not qualify for parental benefit.</p>
+<p type="title">You can also receive graduated parental benefit</p>
+<p>You can combine part-time work with partial parental benefit / paternal quota. Graduated parental benefit makes up the difference between a part-time position and a 100 per cent position. The amount of parental benefit you receive is reduced in keeping with the amount you work, meaning the period of leave with benefit is extended over a longer period of time. The total amount of benefit you receive is the same as if you had chosen full leave with parental benefit. There is no lower or upper limit on how much or how little you can work or how long you can make use of this option. Both parents can take graduated parental leave with benefit at the same time, or you can take it separately. If both parents choose to take graduated parental leave at the same time, the total parental benefit cannot constitute more than 100 per cent. If you want to work part-time and receive partial parental benefit that is not part of the paternal quota, it is a condition that the mother is working a percentage that corresponds to the percentage of parental benefit you want to receive. This applies even if the mother does not qualify for parental benefit.</p>
+<p type="title">For how long can you combine parental benefit / paternal quota with work?</p>
+<p>You can make use of this scheme for up to three years after the birth or after care of an adopted child is assumed.</p>
+<p type="title">How do you apply for your parental benefit / paternal quota?</p>
+<p>You must submit a written application for parental benefit. This applies even if you receive full pay from your employer during the benefit period. Submit your claim for parental benefit / paternal quota using the application form <span type="quote" xml:lang="nob">“Krav om ytelse ved fødsel og adopsjon”</span> (Claim for benefit on birth or adoption), which is available under the heading Forms and enclosures in the menu to the right. Here you will also find information about the documents you need to submit with your application for parental benefit. In order for NAV to be able to calculate how much benefit you are entitled to, your employer must also fill in the form <span type="quote" xml:lang="dan">“Inntekts- og skatteopplysninger for arbeidstaker”</span> (Income and tax information for employees).</p>
+<p>Your employer can claim reimbursement from the national insurance if he or she pays you your full pay during your period of parental leave. To do this, your employer must check the box for this on the income and tax information form stating that he / she wants the parental benefit paid to them. However, you as the employee must still submit a separate application for parental benefit in order for your employer to be reimbursed.</p>
+<p>Benefit cannot be paid out for more than three months before the date on which you applied. This is calculated from the date of the last claim submitted by you or your employer. If one of you submits your claim later, the benefit period will be reduced correspondingly.</p>
+<p>Submit your application to your NAV office.</p>
+<p type="title">How do you apply for combined parental benefit and work?</p>
+<p>You must submit a written application. You must also submit a written agreement between you and your employer detailing how much you are going to work (as a percentage of a full-time position), and when you are going to work in order to postpone or graduate your period of leave with parental benefit. You can use the form <span type="quote" xml:lang="nno">“Avtale om gradert uttak/utsettelse av foreldrepenger”</span> (Agreement concerning graduated benefit / postponement of parental benefit), which is available under the heading Forms and enclosures in the menu to the right. Here you will also find information about the documents you need to submit with your application for parental benefit.</p>
+<p>If you are self-employed, you must enter into an agreement with NAV concerning how much you are going to work and for how long. You can use the form <span type="quote" xml:lang="nno">“Avtale om gradert uttak/utsettelse av foreldrepenger”</span> (Agreement concerning graduated benefit / postponement of parental benefit), which is available under the heading Forms and enclosures in the menu to the right. Here you will also find information about the documents you need to submit with your application for parental benefit.</p>
+<p>It is important that you apply in plenty of time before you start working so that you do not lose benefit days. If you want to postpone taking your earmarked paternity leave (paternal quota), you must submit an application for this before the final benefit day of the joint period for you and the mother of your child. If you apply later than this, you will lose benefit days.</p>
+<p>Submit your application to your NAV office.</p>
+<p type="title">Can fathers receive the lump-sum grant on birth or adoption?</p>
+<p>If you do not qualify for parental benefit, you may be entitled to receive the lump-sum grant on birth or adoption</p>
+<list><p type="listitem">for each child you adopt on your own</p>
+<p type="listitem">if you become the sole custodial parent because the other parent dies</p>
+<p type="listitem">if you are awarded custody (sole parental responsibility) of the child pursuant to sections 38 and 63 of the Children Act</p>
+<p type="listitem">if within 53 weeks after the birth or after care is assumed of an adopted child you have assumed care of the child with a view to having sole custody (sole parental responsibility) of the child pursuant to the Children Act</p>
+</list><p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian.</p>
+<p type="title">Payment dates</p>
+<p type="title">Parental benefit and pregnancy benefit</p>
+<p>Payments dates for 2010</p>
+<p xml:lang="smj">Jan</p>
+<p xml:lang="deu">Feb</p>
+<p xml:lang="nob">Mar</p>
+<p xml:lang="nob">Apr</p>
+<p>May</p>
+<p xml:lang="nno">June</p>
+<p>July</p>
+<p xml:lang="est">Aug</p>
+<p xml:lang="nno">Sep</p>
+<p>Oct</p>
+<p xml:lang="smn">Nov</p>
+<p xml:lang="dan">Dec</p>
+<p>13*, 25, 27 and 29</p>
+<p>3*, 15*, 24 and 25</p>
+<p>1*, 3*, 15*, 24, 26 and 31</p>
+<p>8*, 14*, 23, 28 and 30</p>
+<p>5*, 14*, 25 and 28</p>
+<p>1*, 3*, 15*, 23, 25 and 30</p>
+<p>5*, 14*, 23, 28 and 30</p>
+<p>4*, 13*, 25 and 27</p>
+<p>1*, 3*, 15*, 23, 28 and 30</p>
+<p>5*, 13*, 25, 27 and 29</p>
+<p>1*, 3*, 9*, 15, 17, 21 and 23</p>
+<p>1*, 3*, 9*, 15, 17, 21 and 23</p>
+<p>The payment dates for sickness benefit and parental / pregnancy benefit marked with an asterisk (*) pertain to payment for the previous month.</p>
+</body></document>

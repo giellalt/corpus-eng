@@ -1,39 +1,15 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Compensations - 
+<document xml:lang="eng" id="no_id"><header><title>Compensations - 
 	Oikeus.fi
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2017</year>
-    <wordcount>460</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://oikeus.fi/en/index/esitteet/josjoudutrikoksenuhriksi/korvaukset.html</origFileName>
-    <parallel_text xml:lang="fin" location="korvaukset.html"/>
-    <parallel_text xml:lang="sme" location="buhtadusat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">If You Become a Victim of a Crime</p>
-    <p type="title">Compensations</p>
-    <p type="title">Compensation for damages</p>
-    <p>If the court has obliged the offender to pay damages, the victim may either come to an agreement with him or her on the payment arrangements or let an enforcement officer recover the compensation. A copy of the court decision, which can be obtained free of charge from the registry of the district court, and an application for enforcement must be submitted to the local enforcement office. Further information on how to apply for compensation is also provided there.</p>
-    <p>Compensation may also be obtained from the State Treasury, an insurance company or the Social Insurance Institution of Finland. The possibilities to receive compensation vary from case to case.</p>
-    <p type="title">State-funded compensation</p>
-    <p>Some crime victims are entitled to receive state-funded compensation for damages caused by the offence. Compensation is paid as a rule for personal injury and suffering. The state-funded compensation is granted by virtue of the Act on Compensation for Crime Damage, and it is paid by the State Treasury.</p>
-    <p>To be able to receive compensation, the victim must have reported the offence to the police. If the case is heard by a court, the victim must present the claim for compensation to the offender at the court. Compensation must be applied for within three years from the date of the final judgment in the compensation matter. If the case has not been heard by a court, compensation must be applied for within ten years of the commission of the offence. Compensation may be applied for even if the judgment is not yet final.</p>
-    <p>Compensation is granted, as a rule, on the grounds laid down in the Tort Liability Act, but the Act on Compensation for Crime Damage deviates in some respects from the provisions of the Tort Liability Act. If the State Treasury deviates from the decision issued by the court in the compensation matter, it must state grounds for this in its decision.</p>
-    <p>The state-funded compensation is secondary in nature, which means that the compensation that the victim has received or will receive by virtue of some other act or insurance will be deducted from the compensation granted by the State. The compensation that the offender has paid to the victim will also be deducted from it. The victim can, however, apply for compensation directly from the State Treasury without first having to try to recover the compensation from the offender.</p>
-    <p>State-funded compensation is applied for at the State Treasury. The court decision or the criminal investigation record of the police as well as any medical certificates and other reliable accounts indicating the extent of the damages must be appended to the application. Application forms and further information are available at the State Treasury ( www.statetreasury.fi/ ).</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2017</year><wordcount>460</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/en/index/esitteet/josjoudutrikoksenuhriksi/korvaukset.html</origFileName><parallel_text xml:lang="fin" location="korvaukset.html"/><parallel_text xml:lang="sme" location="buhtadusat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">If You Become a Victim of a Crime</p>
+<p type="title">Compensations</p>
+<p type="title">Compensation for damages</p>
+<p>If the court has obliged the offender to pay damages, the victim may either come to an agreement with him or her on the payment arrangements or let an enforcement officer recover the compensation. A copy of the court decision, which can be obtained free of charge from the registry of the district court, and an application for enforcement must be submitted to the local enforcement office. Further information on how to apply for compensation is also provided there.</p>
+<p>Compensation may also be obtained from the State Treasury, an insurance company or the Social Insurance Institution of Finland. The possibilities to receive compensation vary from case to case.</p>
+<p type="title">State-funded compensation</p>
+<p>Some crime victims are entitled to receive state-funded compensation for damages caused by the offence. Compensation is paid as a rule for personal injury and suffering. The state-funded compensation is granted by virtue of the Act on Compensation for Crime Damage, and it is paid by the State Treasury.</p>
+<p>To be able to receive compensation, the victim must have reported the offence to the police. If the case is heard by a court, the victim must present the claim for compensation to the offender at the court. Compensation must be applied for within three years from the date of the final judgment in the compensation matter. If the case has not been heard by a court, compensation must be applied for within ten years of the commission of the offence. Compensation may be applied for even if the judgment is not yet final.</p>
+<p>Compensation is granted, as a rule, on the grounds laid down in the Tort Liability Act, but the Act on Compensation for Crime Damage deviates in some respects from the provisions of the Tort Liability Act. If the State Treasury deviates from the decision issued by the court in the compensation matter, it must state grounds for this in its decision.</p>
+<p>The state-funded compensation is secondary in nature, which means that the compensation that the victim has received or will receive by virtue of some other act or insurance will be deducted from the compensation granted by the State. The compensation that the offender has paid to the victim will also be deducted from it. The victim can, however, apply for compensation directly from the State Treasury without first having to try to recover the compensation from the offender.</p>
+<p>State-funded compensation is applied for at the State Treasury. The court decision or the criminal investigation record of the police as well as any medical certificates and other reliable accounts indicating the extent of the damages must be appended to the application. Application forms and further information are available at the State Treasury ( www.statetreasury.fi/ ).</p>
+</body></document>

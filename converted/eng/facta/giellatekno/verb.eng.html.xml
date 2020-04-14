@@ -1,1143 +1,1047 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Verbs</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>5969</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/gramm/verb.eng.html</origFileName>
-    <parallel_text xml:lang="nob" location="verb.nob.html"/>
-    <parallel_text xml:lang="sme" location="verb.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title" xml:lang="vep">Verbs</p>
-    <list>
-      <p type="listitem">Different stems</p>
-      <p type="listitem">Diphthong Simplification</p>
-      <p type="listitem">Consonant Gradation</p>
-      <p type="listitem">Other Consonant Alternations</p>
-      <p type="listitem">Finite Verbs and Agreement</p>
-      <p type="listitem" xml:lang="vep">The Verb 'leat'</p>
-      <p type="listitem">Main Verbs and Auxiliary Verbs</p>
-      <p type="listitem" xml:lang="deu">Nonfinite Verbs</p>
-      <p type="listitem">Transitive and Intransitive Verbs</p>
-      <p type="listitem" xml:lang="smn">Mood</p>
-      <p type="listitem">The Indicative</p>
-      <p type="listitem">The Present Tense</p>
-      <p type="listitem">The Past Tense</p>
-      <p type="listitem">Negation</p>
-      <p type="listitem">The Negative Imperative (Prohibitive)</p>
-      <p type="listitem">The Perfect</p>
-      <p type="listitem">The Actio Essive</p>
-      <p type="listitem">The Conditional</p>
-      <p type="listitem">The Potential</p>
-      <p type="listitem">The Imperative</p>
-    </list>
-    <p>Back to the grammar main page .</p>
-    <p><em type="italic">Verbs </em>tell us what is happening or being done. </p>
-    <p xml:lang="nno"></p>
-    <p type="title">Different stems</p>
-    <p>Verb inflection is determined by the type of stem the individual verb has. We can find out what type of stem a verb has by counting the number of syllables in the final foot of the word. A <em type="italic">foot </em>is a group of syllables where the first syllable has stress. Here the syllables are separated with a hyphen <span type="quote">"-", and the foot is marked with parentheses "()"</span>. Stress is marked with ' before the syllable. </p>
-    <list>
-      <p type="listitem"><em type="italic">láibut </em>('lái-but) 'to bake' has two syllables and one foot. </p>
-      <p type="listitem"><em type="italic">rehkenastit </em>('reh-ke)('nas-tit) 'to count' has four syllables and two feet. </p>
-      <p type="listitem"><em type="italic">muitališgoahtit </em>('muit-ta-liš)('goah-tit) 'to begin to tell' has five syllables and two feet. </p>
-      <p type="listitem"><em type="italic">boradit </em>('bo-ra-dit) 'to dine on, to eat', however, has three syllables but only one foot. </p>
-    </list>
-    <p><em type="italic">Vowel stem verbs </em>(also called bisyllabic verbs) have two syllables in the last foot and end in '-at', '-it' or '-ut' in the infinitive: </p>
-    <list>
-      <p type="listitem"><em type="italic">boahtit </em>('boah-tit) 'to come' has two syllables and one foot. </p>
-      <p type="listitem"><em type="italic">mannat </em>('man-nat) 'to go' has two syllables and one foot. </p>
-      <p type="listitem"><em type="italic">lávlut </em>('láv-lut) 'to sing' has two syllables and one foot. </p>
-      <p type="listitem"><em type="italic">rehkenastit </em>('reh-ke)('nas-tit) 'to count' has four syllables and two feet. </p>
-      <p type="listitem"><em type="italic">muitališgoahtit </em>('muit-ta-liš)('goah-tit) 'to begin to tell' has five syllables and two feet. </p>
-    </list>
-    <p>These verbs have gradation in the last foot.</p>
-    <p><em type="italic">Consonant stem verbs </em>(also called trisyllabic verbs) have one or three syllables. Verbs with three syllables always end in '-it' in the infinitive: </p>
-    <list>
-      <p type="listitem"><em type="italic">leat </em>('leat) 'to be' and <em type="italic">ii </em>('ii) 'not (verb of negation)' have both one syllable and one foot. </p>
-      <p type="listitem"><em type="italic">muitalit </em>('mui-ta-lit) 'to tell' has three syllables and one foot. </p>
-      <p type="listitem"><em type="italic">boradit </em>('bo-ra-dit) 'to dine on, to eat' has three syllables and one foot. </p>
-    </list>
-    <p>These verbs do not undergo gradation.</p>
-    <p><em type="italic">Contracted verbs </em>have two syllables and end in '-át', '-et' or '-ot' in the infinitive: </p>
-    <list>
-      <p type="listitem"><em type="italic">diŋgot </em>('diŋ-got) 'to order smth' has two syllables and one foot. </p>
-      <p type="listitem"><em type="italic">čohkkát </em>('čohk-kát) 'to sit' has two syllables and one foot. </p>
-      <p type="listitem"><em type="italic">fárret </em>('fár-ret) 'to move (to a new residence)' has two syllables and one foot. </p>
-    </list>
-    <p>These verbs are not subject to gradation. For the most part they conjugate like vowel stem verbs but in certain places the forms resemble those of consonant stem verbs: <em type="italic">moai diŋgojetne </em>'we [du.] are ordering', <em type="italic">sii diŋgojit </em>'they [pl.] are ordering', <em type="italic">mun diŋgojin </em>'I ordered', <em type="italic">don diŋgojit </em>'you [sg.] ordered', <em type="italic">sii diŋgojedje </em>'they [pl.] ordered'. </p>
-    <p xml:lang="nno"></p>
-    <p type="title">Diphthong Simplification</p>
-    <p>The diphthong in the first syllable of foot can be affected by the vowel in the second syllable. The diphthong becomes a monophthong (a single vowel) when the vowel in the second syllable is one of the following:</p>
-    <list>
-      <p type="listitem" xml:lang="sme">- 'ii', e.g. <em type="italic">diđii (diehtit) </em>'to know' </p>
-      <p type="listitem">- 'e' and 'o', e.g. <em type="italic">dihten (diehtit) </em>'to know', <em type="italic">ožžon (oažžut) </em>'to get, to receive', but not in the connegative form: <em type="italic">in 'dieđe' </em>(I don't 'know'), <em type="italic">in 'oaččo' </em>(I don't 'get'). </p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Consonant Gradation</p>
-    <p>Consonant gradation usually occurs in the consonants between the first and second syllable in a foot, e.g. <em type="italic">diehtit - dieđán </em>'to know'. <em type="italic">Strong grade </em>occurs in the infinitive and present plural, for instance. <em type="italic">Weak grade </em>occurs, for example, in the connegative forms of vowel stem verbs. Only vowel stem verbs have consonant gradation. </p>
-    <p>Here are some examples of consonant gradation. There are examples of strong grade on the left, and weak grade on the right. Please note that the letter '-i-' at the end of the first syllable is regarded as part of the consonant cluster:</p>
-    <list>
-      <p type="listitem" xml:lang="sme">ma <em type="italic">nn </em>at - ma <em type="italic">n </em>an, oa <em type="italic">đđ </em>it - oa <em type="italic">đ </em>án, ba <em type="italic">ss </em>at - ba <em type="italic">s </em>an, ba <em type="italic">ll </em>at - ba <em type="italic">l </em>an </p>
-      <p type="listitem" xml:lang="isl">lá <em type="italic">ib </em>ut - lá <em type="italic">ibb </em>ui, lá <em type="italic">vl </em>ut - lá <em type="italic">vll </em>un, oa <em type="italic">st </em>it - oa <em type="italic">stt </em>án </p>
-      <p type="listitem" xml:lang="nno">oa <em type="italic">gg </em>ut - oa <em type="italic">kk </em>un </p>
-      <p type="listitem" xml:lang="smn">bo <em type="italic">tn </em>it - bo <em type="italic">n </em>án, vuo <em type="italic">dj </em>it - vuo <em type="italic">j </em>án, já <em type="italic">pm </em>it - já <em type="italic">m </em>án </p>
-      <p type="listitem" xml:lang="nno">bu <em type="italic">kt </em>it - bu <em type="italic">vtt </em>án, ha <em type="italic">ks </em>it - ha <em type="italic">vss </em>án </p>
-      <p type="listitem" xml:lang="smj">da <em type="italic">hk </em>at - da <em type="italic">g </em>an, bá <em type="italic">hč </em>it - bá <em type="italic">ž </em>án </p>
-    </list>
-    <p>In derived verbs, consonant gradation will occur in the derivational ending since the ending is bisyllabic and therefore a foot of its own, just like in vowel stem words <em type="italic">dolastallat </em>'to keep campfire', <em type="italic">muitaladdat </em>'to tell'. These words have two feet: ('do-la)('stal-lat) ('mui-ta)('lad-dat). There will be consonant gradation in the final foot of each word. An example of strong grade can be found in the third person singular present, and weak grade in the first person singular present: </p>
-    <list>
-      <p type="listitem" xml:lang="fin">dolasta <em type="italic">ll </em>at - dolasta <em type="italic">ll </em>á - dolasta <em type="italic">l </em>an </p>
-      <p type="listitem" xml:lang="sme">muitala <em type="italic">dd </em>at - muitala <em type="italic">dd </em>á - muitala <em type="italic">tt </em>an </p>
-    </list>
-    <p>You can read more about consonant gradation here</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Other Consonant Alternations</p>
-    <p>Consonant stem verbs end in consonants in the connegative present and the imperative 2nd person singular . Usually this final consonant is the same one found in the infinitive, but there are exceptions. Sounds that come between the second and third syllables are made word-final when the verb is in the connegative/imperative form. In North Saami, there are limitations as to which consonants can occur in word-final position, and here we might also run into special consonant variations between infinitive and imperative/connegative forms. The consonants that can occur in word-final position are: <span type="quote" xml:lang="est">"t", "s"</span>, <span type="quote" xml:lang="sms">"š", "l"</span>, <span type="quote">"r" and "n"</span>. Here are some examples of sound/letter changes found in consonant stem verbs:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">h &gt; t </em>, e.g. veahkehit - (ii) veahket 'to help' </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">d &gt; t </em>, e.g. boradit - (ii) borat 'to eat' </p>
-      <p type="listitem" xml:lang="vep"><em type="italic">z &gt; s </em>, e.g. smirezit - (ii) smires 'to chew the cud' </p>
-    </list>
-    <p>North Saami words cannot end in two consonants. If the infinitive form has two consonants between the second and third syllable, only the first consonant will be retained in the connegative and imperative forms.</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">st &gt; s </em>, e.g. oamastit - (ii) oamas 'to own' </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">sk &gt; s </em>, e.g. dájáskit - (ii) dájás 'to go crazy' </p>
-      <p type="listitem"><em type="italic">sm &gt; s </em>, e.g. boarásmit - (ii) boarás 'to grow older' </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">št &gt; š </em>, e.g. beroštit - (ii) beroš 'to care about' </p>
-      <p type="listitem"><em type="italic">ld &gt; l </em>, e.g. buđaldit - (ii) buđal 'to tinker around with, to work on' </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">lg &gt; l </em>, e.g. jámálgit - (ii) jámál 'to faint' </p>
-      <p type="listitem" xml:lang="nob"><em type="italic">rd &gt; r </em>, f.eks. ipmirdit - (ii) ipmir 'to understand' </p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Finite Verbs and Agreement</p>
-    <p>A finite verb is a verb that is inflected for person and number.</p>
-    <p>There is agreement (correlation in the inflection) between the subject and the finite verb: <em type="italic">mun boađán </em>'I am coming', <em type="italic">don boađát </em>'you [sg.] are coming', <em type="italic">mun boađášin </em>'I would come', <em type="italic">sii boađášedje </em>'they [pl.] would come'. Read more about agreement here . </p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="vep">The Verb 'leat'</p>
-    <p>'Leat' is the Northern Saami verb for 'to be'. It belongs to the consonant stem group and takes the same inflectional suffixes as the consonant stem verbs. The verb <span type="quote" xml:lang="sme">"leat"</span> can be both a main verb and an auxiliary in sentences:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Main verb: </em><em type="italic">Mun 'lean' Elle. Beana 'lea' skibas. Joavnna 'lea' dáppe. </em></p>
-      <p type="listitem">(I 'am' Elle. The dog 'is' sick. Joavnna 'is' here).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Auxiliary verb: </em><em type="italic">Mun 'lean' lohkan girjji. Soai 'leaba' fárren. </em></p>
-      <p type="listitem">(I 'have' read a book. They [du.] 'have' moved.)</p>
-      <p type="listitem"><em type="italic">Both main and auxiliary verb: </em><em type="italic">Mun 'lean' 'leamaš' olgoriikkas. </em></p>
-      <p type="listitem">(I 'have' 'been' abroad).</p>
-    </list>
-    <p>The verb <span type="quote" xml:lang="sme">"leat"</span> is used as a helping verb (auxiliary) in combination with the perfect and actio essive:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">perfect: </em><em type="italic">Soai 'leaba boahtán'. Don 'leat čohkkedan' mu stullui. </em></p>
-      <p type="listitem">They [du.] 'have come'. You [sg.] 'have sat down' on my chair.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">actio essive: </em><em type="italic">Soai 'leaba boahtime'. Moai 'letne bassame' viesu. </em></p>
-      <p type="listitem">They [du.] 'are on their way' here. We [du.] 'are in the process of washing' the house.)</p>
-    </list>
-    <p>Read more about the perfect here and the actio essive here .</p>
-    <p>'Leat' can also be translated as 'to have' when it combines with an argument in the locative:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Eatnis leat bohccot. </em></p>
-      <p type="listitem">Mom has reindeer.</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Márehis lea ođđa biila. </em></p>
-      <p type="listitem">Máret has a new car.</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Munnos eai leat gintalat. </em></p>
-      <p type="listitem">We [du.] don't have candles.</p>
-    </list>
-    <p>Read more about <span type="quote">"have"</span> sentences here .</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Main Verbs and Auxiliary Verbs</p>
-    <p>Main verbs can stand alone in a sentence. Helping verbs require the presence of a main verb for the sentence to be grammatical. Saami has three types of helping verbs: the <span type="quote" xml:lang="sme">"leat"</span> verb 'to be'; the verb of negation, and modal auxiliaries. Note that it is the helping verb that is inflected for person and number. The main verb takes an infinitive form.</p>
-    <p>The <em type="italic">verb of negation </em>is followed by the main verb in connegative form. The connegative form can be in either the presence or the perfect: <em type="italic">Mun in boađe. Iŋgá ii boahtán. </em>(I'm not coming. Inga didn't come.) </p>
-    <p>The <em type="italic">verb <span type="quote" xml:lang="sme">"leat"</span> </em>can be followed by a main verb in either the perfect form or the actio essive. The perfect participle indicates a completed event or action, whereas the actio essive indicates something on-going: <em type="italic">Mun lean oađđán. Elle lei viesu bassame, go telefuvdna čuojai. </em>(I have slept. Elle was cleaning the house, when the telephone rang.) </p>
-    <p><em type="italic">Modal auxiliaries </em>are verbs that indicate possibility or necessity. Everyday modal auxiliaries include <span type="quote" xml:lang="sme">"galgat"</span> 'should, ought to', <span type="quote" xml:lang="sme">"sáhttit"</span> 'might, to be able to', <span type="quote" xml:lang="sme">"máhttit"</span> 'to know how to', <span type="quote" xml:lang="nob">"fertet"</span> 'must, to be compelled to, to have to', <span type="quote" xml:lang="sme">"šaddat"</span> 'to be obliged to' and <span type="quote" xml:lang="sme">"áigut"</span> 'to intend to'. The modal auxiliary is followed by the main verb in the infinitive: <em type="italic">Mun áiggun vuolgit. Elle máhttá sihkkelastit. Soai sáhttiba veahkehit du. Biila cuovkanii, ja mii šattaimet bussiin johtit. </em>(I'm going to leave. Elle knows how to ride a bike. They [du.] can help you [sg.]. The car broke down, and we [pl.] had to travel by bus.) </p>
-    <p>You can read more about auxiliary verbs and main verbs here .</p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="deu">Nonfinite Verbs</p>
-    <p>are verbs that are not inflected for person and number, e.g.</p>
-    <list>
-      <p type="listitem">the infinitive (base form): <em type="italic">Dii fertebehtet 'boahtit' áiggil. </em></p>
-      <p type="listitem">(You [pl.] have to come in time).</p>
-      <p type="listitem" xml:lang="sme">perfect participle: <em type="italic">Soai leaba juo 'boradan'. </em></p>
-      <p type="listitem">(They [du.] have already 'eaten').</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Máret lea 'leamaš' olgoriikkas. </em></p>
-      <p type="listitem">(Máret has been abroad).</p>
-      <p type="listitem">The connegative form, the present and perfect:</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun in 'boađe' ihttin, ja lean gullan ahte earátge eai 'boađe'. </em></p>
-      <p type="listitem">(I 'am' not 'coming' tomorrow, and I've heard that others 'are' not 'coming' either).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mii eat 'leat' olgoriikkas. </em></p>
-      <p type="listitem">(We [pl.] 'are' not overseas).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Doai eahppi 'lean' olgoriikkas diibmá. </em></p>
-      <p type="listitem">(You [du.] 'were' not overseas last year).</p>
-      <p type="listitem" xml:lang="sme">actio essive: <em type="italic">Mun ledjen 'oađđime', go telefovdna riŋgii. </em></p>
-      <p type="listitem">(I was 'sleeping' when the phone rang).</p>
-    </list>
-    <p>This has one and the same form regardless of the subject in the sentence. The are used in combination with auxiliary verbs that are inflected for person and number. The perfect participle is, for the most part, the same as the preterite connegative form. The exception is the verb <span type="quote" xml:lang="sme">"leat"</span> where the perfect participle is <em type="italic"><span type="quote" xml:lang="sme">"leamaš"</span> </em>while the preterite connegative is <em type="italic"><span type="quote" xml:lang="sme">"lean"</span> </em>. </p>
-    <p>In addition there are nonfinite verbs that are not part of the predicate verb construction:</p>
-    <list>
-      <p type="listitem" xml:lang="sme">present participle: <em type="italic">Uvnna duohken 'orru' sáhpánat eai addán ráfi. </em></p>
-      <p type="listitem">(The mice 'living' behind the oven didn't give us any peace).</p>
-      <p type="listitem" xml:lang="sme">actio locative: <em type="italic">Son gilddii mu dan 'muitaleames'. </em></p>
-      <p type="listitem">(He/She prohibited me from saying that).</p>
-      <p type="listitem" xml:lang="sme">gerund: <em type="italic">Ohppen ollu 'barggadettiin' áššiin. </em></p>
-      <p type="listitem">(I learned a lot while working on the matter).</p>
-      <p type="listitem" xml:lang="sme">verbal genitive: <em type="italic">Son bođii 'čuoigga' skuvlii. </em></p>
-      <p type="listitem">(He/She came to school on skis).</p>
-      <p type="listitem" xml:lang="sme">verbal abessive: <em type="italic">Son doamai 'borakeahttá' gávpogii. </em></p>
-      <p type="listitem">(He/She hurried into town without eating).</p>
-      <p type="listitem" xml:lang="sme">supine (causal-final): <em type="italic">Son bođii girjjiid 'vieččažit'. Ferten gárvodit bures 'aman' galbmot jámas. </em></p>
-      <p type="listitem">(He/She came 'in order to get' the books. I have to dress warm 'so that I do not' freeze to death).</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Transitive and Intransitive Verbs</p>
-    <p>Transitive verbs take objects in the accusative: <em type="italic">Mun 'boran' láibbi. </em>(I 'eat' bread). Intransitive verbs do not take objects, e.g. <em type="italic">mannat </em>. Other typical transitive verbs are <span type="quote" xml:lang="smj">"juhkat"</span> 'to drink', <span type="quote" xml:lang="sme">"lohkat"</span> 'to read', <span type="quote" xml:lang="sme">"oastit"</span> 'to buy', <span type="quote" xml:lang="sme">"vuovdit"</span> 'to sell' and <span type="quote" xml:lang="sme">"váldit"</span> 'to take'. Here are some examples: <em type="italic">Moai juhke gáfe. Mánát lohket girjji. Ovllá osttii viesu. Elle vuvddii biilla. Reaŋga válddii mávssu </em>. (We [du.] drink coffee. Children read the book. Ovllá bought a/the house. Elle sold a/the car. The hand took the payment). </p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="smn">Mood</p>
-    <p>The form of the verb that indicates the attitude of the speaker to what is being said. We have four moods in the Saami language:</p>
-    <list>
-      <p type="listitem" xml:lang="smn">the indicative: <em type="italic">Mun 'boađán' ihttin. </em></p>
-      <p type="listitem">(I 'will come' tomorrow).</p>
-      <p type="listitem">the imperative (command form): <em type="italic">'Boađe' deike! </em></p>
-      <p type="listitem">(Come here!)</p>
-      <p type="listitem" xml:lang="sme">the conditional: <em type="italic">Ii ábut vaikko politiijat 'boađášedje'. </em></p>
-      <p type="listitem">(It's no use even if the police 'did come').</p>
-      <p type="listitem">the potential (possibility): <em type="italic">In dieđe 'bođeža' go juovlastállu. </em></p>
-      <p type="listitem">(I don't know if Santa Clause will come).</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">The Indicative</p>
-    <p>The indicative form of the verb is used for conveying factual statements, e.g. <em type="italic">boađát </em>'you [sg.] are coming', <em type="italic">it boahtán </em>'you [sg.] did not come'. Here are the indicative present and preterite forms: </p>
-    <p xml:lang="nno"></p>
-    <p type="title">The Present Tense</p>
-    <p>The indicative.</p>
-    <p>Vowel stem verbs have two syllables in the last foot, and end in <span type="quote" xml:lang="dan">"-at"</span>, <span type="quote" xml:lang="kal">"-it"</span> and <span type="quote" xml:lang="kal">"-ut"</span>. They are subject to gradation, diphthong simplification and vowel alternation in the second syllable:</p>
-    <p><em type="italic">VOWEL STEM VERBS - present </em></p>
-    <p>Shaded: weak grade</p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="smj"><em type="italic">viehkat </em></p>
-    <p>'to run'</p>
-    <p xml:lang="deu"><em type="italic">diehtit </em></p>
-    <p>'to know'</p>
-    <p xml:lang="sme"><em type="italic">goarrut </em></p>
-    <p>'to sew'</p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="sma"><em type="italic">viegan </em></p>
-    <p xml:lang="sme"><em type="italic">dieđán </em></p>
-    <p xml:lang="sme"><em type="italic">goarun </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="smj"><em type="italic">viegat </em></p>
-    <p xml:lang="sme"><em type="italic">dieđát </em></p>
-    <p xml:lang="sme"><em type="italic">goarut </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="smj"><em type="italic">viehká </em></p>
-    <p xml:lang="smj"><em type="italic">diehtá </em></p>
-    <p xml:lang="sme"><em type="italic">goarru </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="sma"><em type="italic">vihke </em></p>
-    <p xml:lang="sma"><em type="italic">dihte </em></p>
-    <p xml:lang="sme"><em type="italic">gorro </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">viehkabeahtti </em></p>
-    <p xml:lang="sma"><em type="italic">diehtibeahtti </em></p>
-    <p xml:lang="sme"><em type="italic">goarrubeahtti </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="smj"><em type="italic">viehkaba </em></p>
-    <p xml:lang="sma"><em type="italic">diehtiba </em></p>
-    <p xml:lang="sme"><em type="italic">goarruba </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="smj"><em type="italic">viehkat </em></p>
-    <p xml:lang="deu"><em type="italic">diehtit </em></p>
-    <p xml:lang="sme"><em type="italic">goarrut </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sma"><em type="italic">viehkabehtet </em></p>
-    <p xml:lang="sme"><em type="italic">diehtibehtet </em></p>
-    <p xml:lang="sme"><em type="italic">goarrubehtet </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sme"><em type="italic">vihket </em></p>
-    <p xml:lang="sme"><em type="italic">dihtet </em></p>
-    <p xml:lang="sme"><em type="italic">gorrot </em></p>
-    <p>Note that all persons with the exception of the 1st and 2nd persons singular have strong grade in the present. Diphthong simplification occurs in the 1st person dual and the 3rd person plural, e.g. <em type="italic">moai vihke </em>'we [du.] run', <em type="italic">sii vihket </em>'They [pl.] run'. The vowel in the second syllable is <span type="quote">"e" in "-at-"</span> and <span type="quote" xml:lang="kal">"-it-"</span> verbs, and <span type="quote">"o" in "-ut-"</span> verbs in these same persons. It is vowel alternation in the second syllable that brings about diphthong simplification. </p>
-    <p>The second kind of vowel alternation in the present is <span type="quote" xml:lang="isl">"i&gt;á"</span> in the singular forms, and <span type="quote" xml:lang="isl">"a&gt;á"</span> in the 3rd person singular. The 3rd person singular and 1st person dual have no suffixes indicating person in the present. Here are some examples: <em type="italic">Mun oađán. Don boađát. Son juhká. Moai vulge </em>.(I sleep. You [sg.] come. He/She drinks. We [du.] leave). </p>
-    <p>Examples of usage:</p>
-    <list>
-      <p type="listitem"><em type="italic">Mii boahtit ihttin. </em>(We [pl.] are coming tomorrow.) </p>
-      <p type="listitem"><em type="italic">Diehtibeahtti go gos girku lea? </em>(Do you [du.] know where the church is?) </p>
-    </list>
-    <p>Consonant stem verbs have one or three syllables in the last foot. They do not undergo gradation or other alternations in the stem:</p>
-    <p><em type="italic">CONSONANT STEM VERBS - present </em></p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="sme"><em type="italic">muitalit </em></p>
-    <p>'to tell'</p>
-    <p xml:lang="sme"><em type="italic">leat </em></p>
-    <p>'to be'</p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="sme"><em type="italic">muitalan </em></p>
-    <p xml:lang="sme"><em type="italic">lean </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="sme"><em type="italic">muitalat </em></p>
-    <p xml:lang="sme"><em type="italic">leat </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">muitala </em></p>
-    <p xml:lang="sme"><em type="italic">lea </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="fin"><em type="italic">muitaletne </em></p>
-    <p xml:lang="sma"><em type="italic">letne </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">muitaleahppi </em></p>
-    <p xml:lang="sme"><em type="italic">leahppi </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">muitaleaba </em></p>
-    <p xml:lang="sme"><em type="italic">leaba </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">muitalit, muitalat </em></p>
-    <p xml:lang="sme"><em type="italic">leat </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">muitalehpet </em></p>
-    <p xml:lang="sme"><em type="italic">lehpet </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sme"><em type="italic">muitalit </em></p>
-    <p xml:lang="sme"><em type="italic">leat </em></p>
-    <list>
-      <p type="listitem"><em type="italic">Mii muitalit dan ihttin. </em>(We [pl.] will tell that tomorrow.) </p>
-      <p type="listitem"><em type="italic">Leaba go girkus dál? </em>(Are they [du.] in church now? ) </p>
-    </list>
-    <p>Contraction verbs have two syllables, and they end in <span type="quote" xml:lang="isl">"-át"</span>, <span type="quote" xml:lang="nob">"-et"</span> or <span type="quote">"-ot"</span>. They are not subject to gradation, and there are no other alternations in the stem:</p>
-    <p><em type="italic">CONTRACTION VERBS - present </em></p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="sme"><em type="italic">čohkkát </em></p>
-    <p>'to sit'</p>
-    <p xml:lang="sme"><em type="italic">fárret </em></p>
-    <p>'to move'</p>
-    <p xml:lang="sme"><em type="italic">diŋgot </em></p>
-    <p>'to order'</p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="sme"><em type="italic">čohkkán </em></p>
-    <p xml:lang="sme"><em type="italic">fárren </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgon </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="sme"><em type="italic">čohkkát </em></p>
-    <p xml:lang="sme"><em type="italic">fárret </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgot </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">čohkká </em></p>
-    <p xml:lang="sme"><em type="italic">fárre </em></p>
-    <p xml:lang="smj"><em type="italic">diŋgo </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="sme"><em type="italic">čohkkájetne </em></p>
-    <p xml:lang="sma"><em type="italic">fárrejetne </em></p>
-    <p xml:lang="sma"><em type="italic">diŋgojetne </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">čohkkábeahtti </em></p>
-    <p xml:lang="sme"><em type="italic">fárrebeahtti </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgobeahtti </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">čohkkába </em></p>
-    <p xml:lang="sme"><em type="italic">fárreba </em></p>
-    <p xml:lang="smj"><em type="italic">diŋgoba </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">čohkkát </em></p>
-    <p xml:lang="sme"><em type="italic">fárret </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgot </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">čohkkábehtet </em></p>
-    <p xml:lang="sme"><em type="italic">fárrebehtet </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgobehtet </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sme"><em type="italic">čohkkájit </em></p>
-    <p xml:lang="sme"><em type="italic">fárrejit </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgojit </em></p>
-    <p xml:lang="nno"></p>
-    <p type="title">The Past Tense</p>
-    <p>Vowel stem verbs have two syllables in the final foot, and they end in <span type="quote" xml:lang="dan">"-at"</span>, <span type="quote" xml:lang="kal">"-it"</span> and <span type="quote" xml:lang="kal">"-ut"</span>. They are subject to gradation, diphthong simplification and vowel simplification in the second syllable:</p>
-    <p xml:lang="est"><em type="italic">VOWEL STEM VERBS - preterite </em></p>
-    <p>Shaded: weak grade</p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="smj"><em type="italic">viehkat </em></p>
-    <p>'to run'</p>
-    <p xml:lang="deu"><em type="italic">diehtit </em></p>
-    <p>'to know'</p>
-    <p xml:lang="sme"><em type="italic">goarrut </em></p>
-    <p>'to sew'</p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="sma"><em type="italic">vihken </em></p>
-    <p xml:lang="deu"><em type="italic">dihten </em></p>
-    <p xml:lang="sme"><em type="italic">gorron </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="sme"><em type="italic">vihket </em></p>
-    <p xml:lang="sme"><em type="italic">dihtet </em></p>
-    <p xml:lang="sme"><em type="italic">gorrot </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">viegai </em></p>
-    <p xml:lang="sme"><em type="italic">diđii </em></p>
-    <p xml:lang="sme"><em type="italic">goarui </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="sma"><em type="italic">viegaime </em></p>
-    <p xml:lang="sme"><em type="italic">diđiime </em></p>
-    <p xml:lang="sme"><em type="italic">goaruime </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">viegaide </em></p>
-    <p xml:lang="sme"><em type="italic">diđiide </em></p>
-    <p xml:lang="sme"><em type="italic">goaruide </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">viegaiga </em></p>
-    <p xml:lang="sme"><em type="italic">diđiiga </em></p>
-    <p xml:lang="sme"><em type="italic">goaruiga </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">viegaimet </em></p>
-    <p xml:lang="sme"><em type="italic">diđiimet </em></p>
-    <p xml:lang="sme"><em type="italic">goaruimet </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">viegaidet </em></p>
-    <p xml:lang="sme"><em type="italic">diđiidet </em></p>
-    <p xml:lang="sme"><em type="italic">goaruidet </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sma"><em type="italic">vihke </em></p>
-    <p xml:lang="sma"><em type="italic">dihte </em></p>
-    <p xml:lang="sme"><em type="italic">gorro </em></p>
-    <p>The past tense marker is <span type="quote">"-i". It comes in all persons with the exception of the 1st and 2nd persons singular and the 3rd person plural. In these instances we can observe vowel alternation instead: "i&gt;e"</span>, <span type="quote" xml:lang="ron">"a&gt;e"</span> and <span type="quote" xml:lang="smn">"u&gt;o"</span>. Here are some examples: <em type="italic">Mun dihten. Son manai. Mii doamaimet. Sii bohte </em>.(I knew. He/She went. We [pl.] hurried. They [pl.] came). </p>
-    <p>Note that all persons with the exception of the 1st and 2nd persons singular and 3rd person plural are in the weak grade in the preterite. Hence the persons with strong grade in the present have weak grade in the preterite and vice versa. The 3rd person plural is strong grade in both the present and the preterite.</p>
-    <p>Diphthong simplification occurs in the 1st and 2nd persons singular and the 3rd person plural. Diphthong simplification is directly related to the vowel alternation in the second syllable: <span type="quote" xml:lang="nno">"i&gt;e"</span>, <span type="quote" xml:lang="ron">"a&gt;e"</span> and <span type="quote" xml:lang="smn">"u&gt;o"</span>. In <span type="quote" xml:lang="kal">"-it-"</span> verbs diphthong simplication occurs in all persons. With the preterite tense marker <span type="quote">"-i", we get "-ii-"</span> in the second syllable, and this combination leads to diphthong simplification. Here are some examples: <em type="italic">Mii diđiimet dan. Don oidnet ádjá. Sii gorro gávttiid </em>. (We [pl.] knew that. You [sg.] saw grandpa. They [pl.] sewed gáktes). </p>
-    <p>The 3rd person singular only has a past tense marker in the preterite; there is no distinct personal ending. The 3rd person plural has no endings in the preterite.</p>
-    <p>Consonant stem verbs have one or three syllables in the final foot. They are not subject to gradation:</p>
-    <p xml:lang="nob"><em type="italic">CONSONANT STEM VERBS - preterite </em></p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="sme"><em type="italic">muitalit </em></p>
-    <p xml:lang="sme"><em type="italic">leat </em></p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="sme"><em type="italic">muitalin </em></p>
-    <p xml:lang="sma"><em type="italic">ledjen </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="sme"><em type="italic">muitalit </em></p>
-    <p xml:lang="sme"><em type="italic">ledjet </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">muitalii </em></p>
-    <p xml:lang="sme"><em type="italic">lei, leai </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="fin"><em type="italic">muitaleimme </em></p>
-    <p xml:lang="sma"><em type="italic">leimme </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">muitaleidde </em></p>
-    <p xml:lang="sme"><em type="italic">leidde </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">muitaleigga </em></p>
-    <p xml:lang="sme"><em type="italic">leigga </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">muitaleimmet </em></p>
-    <p xml:lang="sme"><em type="italic">leimmet </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">muitaleiddet </em></p>
-    <p xml:lang="sme"><em type="italic">leiddet </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sme"><em type="italic">muitaledje </em></p>
-    <p xml:lang="sme"><em type="italic">ledje </em></p>
-    <p>The past tense marker is <span type="quote">"-i". This is found in all persons with the exception of the 3rd person plural. In the 3rd person plural there is an "-dj-"</span> in the ending. This same consonant structure occurs in the 1st and 2nd person singular of the verb <span type="quote" xml:lang="sme">"leat"</span> but nowhere else. Here are some examples: <em type="italic">Mun gávppošin. Don jurddašit. Sii dárbbašedje veahki. </em>(I did some shopping. You [sg.] thought. They [pl.] needed help). </p>
-    <p>Contraction verbs have two syllables, and they end in <span type="quote" xml:lang="isl">"-át"</span>, <span type="quote" xml:lang="nob">"-et"</span> or <span type="quote">"-ot"</span>. They are not subject to gradation. Note that in some inflections they take a <span type="quote" xml:lang="smj">"-j-"</span> and the inflectional endings are like those for consonant stem verbs.</p>
-    <p xml:lang="nob"><em type="italic">CONTRACTION VERBS - preterite </em></p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="sme"><em type="italic">čohkkát </em></p>
-    <p>'to sit'</p>
-    <p xml:lang="sme"><em type="italic">fárret </em></p>
-    <p>'to move'</p>
-    <p xml:lang="sme"><em type="italic">diŋgot </em></p>
-    <p>'to order'</p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="sme"><em type="italic">čohkkájin </em></p>
-    <p xml:lang="sme"><em type="italic">fárrejin </em></p>
-    <p xml:lang="smj"><em type="italic">diŋgojin </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="sme"><em type="italic">čohkkájit </em></p>
-    <p xml:lang="sme"><em type="italic">fárrejit </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgojit </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">čohkkái </em></p>
-    <p xml:lang="sme"><em type="italic">fárrii </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgui </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="sme"><em type="italic">čohkkáime </em></p>
-    <p xml:lang="sme"><em type="italic">fárriime </em></p>
-    <p xml:lang="smj"><em type="italic">diŋguime </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">čohkkáide </em></p>
-    <p xml:lang="sme"><em type="italic">fárriide </em></p>
-    <p xml:lang="sme"><em type="italic">diŋguide </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">čohkkáiga </em></p>
-    <p xml:lang="sme"><em type="italic">fárriiga </em></p>
-    <p xml:lang="sme"><em type="italic">diŋguiga </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">čohkkáimet </em></p>
-    <p xml:lang="sme"><em type="italic">fárriimet </em></p>
-    <p xml:lang="sme"><em type="italic">diŋguimet </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">čohkkáidet </em></p>
-    <p xml:lang="sme"><em type="italic">fárriidet </em></p>
-    <p xml:lang="sme"><em type="italic">diŋguidet </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sme"><em type="italic">čohkkájedje </em></p>
-    <p xml:lang="sme"><em type="italic">fárrejedje </em></p>
-    <p xml:lang="smj"><em type="italic">diŋgojedje </em></p>
-    <p>The preterite tense marker is <span type="quote">"-i". It occurs in all persons with the exceptions of the 3rd person plural, where there is a "-dj-"</span> in the ending. Here are some examples: <em type="italic">Mun veallájin. Mii balláimet. Sii duddjojedje </em>.(I was lying down. We [pl.] got frightened. They [pl.] were doing handcrafts). </p>
-    <p xml:lang="nno"></p>
-    <p type="title">Negation</p>
-    <p>The negation structure consists of the verb of negation and a subsequent main verb in the connegative form, e.g., <span type="quote" xml:lang="sme">"in boađe"</span> (I'm not coming) or <span type="quote" xml:lang="sme">"in boahtán"</span> (I didn't come). The verb of negation is inflected for person and number, and the main verb is inflected for tense.</p>
-    <p>In the present, the connegative form is like the imperative 2nd person singular. In vowel stem verbs the connegative form is in the weak grade. In the second syllable there is vowel alternation <span type="quote" xml:lang="nno">"i&gt;e"</span> and <span type="quote" xml:lang="smn">"u&gt;o"</span>. This alternation does not cause diphthong simplification, e.g. <em type="italic">oastit &gt; in oastte </em>, <em type="italic">oažžut &gt; in oaččo </em>. In contraction verbs the connegative form is like the 3rd person singular present form: <em type="italic">čohkkát &gt; in čohkká </em>, <em type="italic">duddjot &gt; in duddjo </em>. In consonant stem verbs the connegative form is reduced to two syllables with a consonant at the end: <em type="italic">gávppašit &gt; in gávppaš </em>, <em type="italic">boradit &gt; in borat </em>. </p>
-    <p>In the preterite the main verb connegative form is like the perfect participle. This means that all stem classes share the ending <span type="quote">"-n". In vowel stem verbs the past tense form of the connegative is strong grade, and there is a vowel alternation "i&gt;á"</span> and <span type="quote" xml:lang="smn">"u&gt;o"</span>. The latter alternation brings about diphthong simplification: <em type="italic">oađđit &gt; in oađđán </em>(to sleep &gt; I didn't sleep), <em type="italic">čierrut &gt; in čirron </em>(to cry &gt; I didn't cry). In contraction verbs the past tense form of the connegative is the same as that of the 1st person singular, present: <em type="italic">čohkkát &gt; in čohkkán </em>(to sit &gt; I didn't sit), <em type="italic">duddjot &gt; in duddjon </em>(to do handcraft &gt; I wasn't doing handcraft). Consonant stem verbs take the ending <span type="quote">"-an"</span>: <em type="italic">gávppašit &gt; in gávppašan </em>(to go shopping &gt; I didn't go shopping), <em type="italic">boradit &gt; in boradan </em>(to eat &gt; I didn't eat). The past tense connegative form of the verb <span type="quote" xml:lang="sme">"leat"</span> is <span type="quote" xml:lang="sme">"lean"</span>: <em type="italic">Mun in 'lean' doppe </em>. (I wasn't there). </p>
-    <p><em type="italic">NEGATION in the present and preterite </em></p>
-    <p xml:lang="deu">Pers.</p>
-    <p><em type="italic">verb of negation </em></p>
-    <p><em type="italic">present </em></p>
-    <p xml:lang="ron"><em type="italic">preterite </em></p>
-    <p xml:lang="smn">mun</p>
-    <p><em type="italic">in </em></p>
-    <p xml:lang="sme"><em type="italic">in boađe </em></p>
-    <p xml:lang="sme"><em type="italic">in muital </em></p>
-    <p xml:lang="sme"><em type="italic">in boahtán </em></p>
-    <p xml:lang="sme"><em type="italic">in muitalan </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="kal"><em type="italic">it </em></p>
-    <p xml:lang="sme"><em type="italic">it boađe </em></p>
-    <p xml:lang="sme"><em type="italic">it muital </em></p>
-    <p xml:lang="sme"><em type="italic">it boahtán </em></p>
-    <p xml:lang="sme"><em type="italic">it muitalan </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">ii </em></p>
-    <p xml:lang="sme"><em type="italic">ii boađe </em></p>
-    <p xml:lang="sme"><em type="italic">ii muital </em></p>
-    <p xml:lang="sme"><em type="italic">ii boahtán </em></p>
-    <p xml:lang="sme"><em type="italic">ii muitalan </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="sme"><em type="italic">ean </em></p>
-    <p xml:lang="sme"><em type="italic">ean boađe </em></p>
-    <p xml:lang="sme"><em type="italic">ean muital </em></p>
-    <p xml:lang="sme"><em type="italic">ean boahtán </em></p>
-    <p xml:lang="sme"><em type="italic">ean muitalan </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">eahppi </em></p>
-    <p xml:lang="sme"><em type="italic">eahppi boađe </em></p>
-    <p xml:lang="sme"><em type="italic">eahppi muital </em></p>
-    <p xml:lang="sme"><em type="italic">eahppi boahtán </em></p>
-    <p xml:lang="sme"><em type="italic">eahppi muitalan </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">eaba </em></p>
-    <p xml:lang="sme"><em type="italic">eaba boađe </em></p>
-    <p xml:lang="sme"><em type="italic">eaba muital </em></p>
-    <p xml:lang="sme"><em type="italic">eaba boahtán </em></p>
-    <p xml:lang="sme"><em type="italic">eaba muitalan </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">eat </em></p>
-    <p xml:lang="sme"><em type="italic">eat boađe </em></p>
-    <p xml:lang="sme"><em type="italic">eat muital </em></p>
-    <p xml:lang="sme"><em type="italic">eat boahtán </em></p>
-    <p xml:lang="sme"><em type="italic">eat muitalan </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">ehpet </em></p>
-    <p xml:lang="sme"><em type="italic">ehpet boađe </em></p>
-    <p xml:lang="sme"><em type="italic">ehpet muital </em></p>
-    <p xml:lang="sme"><em type="italic">ehpet boahtán </em></p>
-    <p xml:lang="sme"><em type="italic">ehpet muitalan </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sme"><em type="italic">eai </em></p>
-    <p xml:lang="sme"><em type="italic">eai boađe </em></p>
-    <p xml:lang="sme"><em type="italic">eai muital </em></p>
-    <p xml:lang="sme"><em type="italic">eai boahtán </em></p>
-    <p xml:lang="sme"><em type="italic">eai muitalan </em></p>
-    <p>Examples of usage:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Máret ii boađe ruoktot. </em>(Máret is not coming home.) </p>
-      <p type="listitem"><em type="italic">Mun in diehtán maidege. </em>(I didn't know anything.), <em type="italic">Sii eai ása dieppe. </em>(They [pl.] don't live there.) </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Moai ean juhkan gáfe. </em>(We [du.] didn't drink coffee.) </p>
-    </list>
-    <p>In negative <span type="quote">"have"</span> sentences, the verb of negation only has two possible forms. In the singular <span type="quote">"ii" is used, and in the plural we use "eai"</span>. The verb is never inflected for dual. It is important to remember that in the <span type="quote">"have"</span> construction the verb should not be inflected to agree with the one who has or does not have. Here are some examples:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Eatnis ii leat biila </em>. </p>
-      <p type="listitem">(Mom doesn't have a car).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Munnos eai leat mánát </em>. </p>
-      <p type="listitem">(We [du.] have no children).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Dus eai leat guokte vielja </em>. </p>
-      <p type="listitem">(You [sg.] don't have two brothers).</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">The Negative Imperative (Prohibitive)</p>
-    <p>The verb of negation also has a correlating imperative form, i.e. a command form. In the 2nd person singular, it is <span type="quote" xml:lang="ron">"ale"</span>. The Imperative form is also inflected for person and number, and it is followed by the main verb in the present connegative.</p>
-    <p><em type="italic">The NEGATIVE imperative </em></p>
-    <p xml:lang="deu">Pers.</p>
-    <p><em type="italic">verb of negation </em></p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="fin"><em type="italic">allon </em></p>
-    <p xml:lang="sme"><em type="italic">allon boađe </em></p>
-    <p xml:lang="sme"><em type="italic">allon muital </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="ron"><em type="italic">ale </em></p>
-    <p xml:lang="sme"><em type="italic">ale boađe </em></p>
-    <p xml:lang="ron"><em type="italic">ale muital </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="fin"><em type="italic">allos </em></p>
-    <p xml:lang="sme"><em type="italic">allos boađe </em></p>
-    <p xml:lang="sme"><em type="italic">allos muital </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="kal"><em type="italic">allu </em></p>
-    <p xml:lang="sme"><em type="italic">allu boađe </em></p>
-    <p xml:lang="sme"><em type="italic">allu muital </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="fin"><em type="italic">alli </em></p>
-    <p xml:lang="sme"><em type="italic">alli boađe </em></p>
-    <p xml:lang="sme"><em type="italic">alli muital </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="fin"><em type="italic">alloska </em></p>
-    <p xml:lang="sme"><em type="italic">alloska boađe </em></p>
-    <p xml:lang="sme"><em type="italic">alloska muital </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="krl"><em type="italic">allot </em></p>
-    <p xml:lang="sme"><em type="italic">allot boađe </em></p>
-    <p xml:lang="sme"><em type="italic">allot muital </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="fin"><em type="italic">allet </em></p>
-    <p xml:lang="sme"><em type="italic">allet boađe </em></p>
-    <p xml:lang="sme"><em type="italic">allet muital </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="fin"><em type="italic">alloset </em></p>
-    <p xml:lang="sme"><em type="italic">alloset boađe </em></p>
-    <p xml:lang="sme"><em type="italic">alloset muital </em></p>
-    <p>Examples of usage:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Allu šat riidal! </em>(Let's [du.] not quarrel anymore!) </p>
-      <p type="listitem"><em type="italic">Allet dájo! </em>(Don't [pl.] be crazy!), <em type="italic">Ale mana vuos! </em>(Don't [sg.] go yet!) </p>
-      <p type="listitem"><em type="italic">Alloset boađe mus bearrat dan vealggi! </em>(They [pl.] shouldn't come and demand payment from me of that debt!) </p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">The Perfect</p>
-    <p>The perfect consists of the auxiliary verb <span type="quote" xml:lang="sme">"leat"</span> in the present and the main verb in the past participle: - <span type="quote" xml:lang="sme">"lean boahtán"</span> (I have come), <span type="quote" xml:lang="sme">"leahppi boradan"</span> (you [du.] have eaten), <span type="quote" xml:lang="sme">"letne čorgen"</span> (we [du.] have tidied up).</p>
-    <p>The perfect is used to indicate that an event or action has been completed. It is the helping verb that is inflected for person and number. The past participle of the main verb is not inflected.</p>
-    <p>The past participle of vowel stem verbs is strong-grade and has an ending in <span type="quote" xml:lang="kal">"-n". In "-it"</span> verbs and <span type="quote" xml:lang="kal">"-ut"</span> verbs, we have vowel alternation <span type="quote" xml:lang="isl">"i&gt;á"</span> and <span type="quote" xml:lang="smn">"u&gt;o"</span> in the second syllable. The alternation <span type="quote" xml:lang="smn">"u&gt;o"</span> causes diphthong simplification in the stem. Here are some examples:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Iŋgá lea 'gorron' gávtti </em>. </p>
-      <p type="listitem" xml:lang="sme">(Iŋgá has 'sewn' a gákti).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Moai letne juo 'boahtán' </em>. </p>
-      <p type="listitem">(We [du.] have already 'come').</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun lean 'dadjan' dan maid áiggun </em>. </p>
-      <p type="listitem">(I have 'said' what I intended to).</p>
-    </list>
-    <p>The past participle of consonant stem verbs has the ending <span type="quote">"-n". The vowel in the third syllable is "-a-"</span>. The past participle of <span type="quote" xml:lang="sme">"leat"</span> 'to be' is <span type="quote" xml:lang="sme">"leamaš"</span>. Here are some examples:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'veahkehan' ránnjáid </em>. </p>
-      <p type="listitem">(We [pl.] have 'helped' the neighbors).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ánte ja Sárá leaba 'náitalan' </em>. </p>
-      <p type="listitem">(Ánte and Sárá have gotten married).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Moai letne 'leamaš' Suomas </em>. </p>
-      <p type="listitem">(We [du.] have been in Finland).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Lehpet go 'boradan' </em>? </p>
-      <p type="listitem">(Have you [pl.] 'eaten')?</p>
-    </list>
-    <p>The past participle of contraction verbs has endings in "-n". There is no alternation in the stem. Here are some examples:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Doai leahppi 'čorgen' lanja </em>. </p>
-      <p type="listitem">(You [du.] have tidied up the room).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'duddjon' gievkkanis </em>. </p>
-      <p type="listitem">(We [pl.] have 'done handcraft' in the kitchen).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ásllat lea 'ollen' ruoktot </em>. </p>
-      <p type="listitem">(Ásllat has 'reached' home).</p>
-    </list>
-    <p>The negative perfect construction consists of three verbs: there is the verb of negation, the connegative form of the verb <span type="quote" xml:lang="sme">"leat"</span> and the past participle of the main verb. The connegative present form of the verb <span type="quote" xml:lang="sme">"leat"</span> is <span type="quote" xml:lang="sme">"leat"</span>. In the negative perfect only the verb of negation is inflected for person and number. Here are some examples:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Doai eahppi leat 'gávdnan' buot </em>. </p>
-      <p type="listitem">(You [du.] have not 'found' everything).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mii eat leat 'boradan' gievkkanis </em>. </p>
-      <p type="listitem">(We [pl.] have not 'eaten' in the kitchen).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Issát ii leat 'leamaš' Romssas </em>. </p>
-      <p type="listitem">(Issát has not 'been' to Tromsoe).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Don it leat 'njuiken' guhkás </em>. </p>
-      <p type="listitem">(You [sg.] have not 'jumped' far).</p>
-    </list>
-    <p>The past participle in <span type="quote">"have"</span> constructions consists of two verbs with the verb <span type="quote" xml:lang="sme">"leat"</span> inflected in the present tense and followed by the participle form <span type="quote" xml:lang="sme">"leamaš"</span>. Remember that the one who has something should be marked with the locative case, and what they have should be marked with nominative. In negative sentences it is the verb of negation that is inflected for person and number. Here are some examples:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mus lea 'leamaš' nuorvu golbma beaivvi </em>. </p>
-      <p type="listitem">(I have 'had' a cold for three days).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Sudnos lea 'leamaš' lihkku </em>. </p>
-      <p type="listitem">(They [du.] have 'had' luck).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mis ii leat 'leamaš' veahkki </em>. </p>
-      <p type="listitem">(We [pl.] have not 'had' help).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Čeazis ii leat 'leamaš' bargu dán jagi </em>. </p>
-      <p type="listitem">(My uncle has not 'had' work this year).</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">The Actio Essive</p>
-    <p>The actio essive construction consists of the helping verb <span type="quote" xml:lang="sme">"leat"</span> and the main verb in the actio essive form: <span type="quote" xml:lang="sme">"lean boahtime"</span> (I'm on my way), <span type="quote" xml:lang="sme">"leahppi boradeame"</span> (You [du.] are in the process of eating), <span type="quote" xml:lang="sme">"letne čorgeme"</span> (we [du.] are in the process of tidying up).</p>
-    <p>The actio essive is used to express that the action or event are ongoing or not completed. It is the helping verb that is inflected for person and number. The main verb does not vary in form.</p>
-    <p>The actio essive of vowel stem verbs is strong grade and takes the ending <span type="quote" xml:lang="nno">"-me"</span> or <span type="quote" xml:lang="fin">"-min"</span>. There is no vowel alternation in the stem. Here are some examples:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Iŋgá lea 'goarrume' gávtti </em>. </p>
-      <p type="listitem">(Iŋgá is 'in the midst of sewing' a gákti).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Moai letne 'čállime' reivve </em>. </p>
-      <p type="listitem">(We [du.] are 'in the midst of writing' a letter).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Soai leaba 'bassame' biktasiid </em>. </p>
-      <p type="listitem">(They [du.] are 'in the midst of washing' clothes).</p>
-    </list>
-    <p>The actio essive of consonant stem verbs takes the ending <span type="quote" xml:lang="nno">"-me"</span> or <span type="quote" xml:lang="dan">"-men"</span>. The vowel in the third syllable is <span type="quote" xml:lang="sme">"-ea-"</span>. Here are some examples:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'veahkeheame' ránnjáid </em>. </p>
-      <p type="listitem">(We [pl.] are helping the neighbors).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ánte ja Sárá leaba 'boradeame' </em>. </p>
-      <p type="listitem">(Ánte and Sárá are eating).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Lehpet go dii 'ráhkadeame' hilduid </em>? </p>
-      <p type="listitem">(Are you [pl.] making some shelves)?</p>
-    </list>
-    <p>The actio essive of the contraction verb takes the endings <span type="quote" xml:lang="nno">"-me"</span> or <span type="quote" xml:lang="fin">"-min"</span>. Apart from that, there is no alternation in the stem. Here are some examples:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Doai leahppi 'ivdneme' gova </em>. </p>
-      <p type="listitem">(You [du.] are coloring a picture).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'duddjome' gievkkanis </em>. </p>
-      <p type="listitem">(We [pl.] are doing handcrafts in the kitchen).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ásllat lea ain 'gaifáme' dan niidii </em>. </p>
-      <p type="listitem">(Ásllat is still gazing at that girl).</p>
-    </list>
-    <p>The actio essive of the verb <span type="quote" xml:lang="sme">"leat"</span> is <span type="quote" xml:lang="sme">"leame"</span> or <span type="quote" xml:lang="sme">"leamen"</span>. This form is most common with the verbs <span type="quote" xml:lang="sme">"orrut"</span> 'to seem to' and <span type="quote" xml:lang="nob">"fertet"</span> 'must'. Other verbs can also appear in the actio essive in combination with <span type="quote" xml:lang="sme">"orrut"</span>.</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Máret orui 'leame' suhtus </em>. </p>
-      <p type="listitem">(Máret seems to be angry).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Don orut 'diehtime' juoidá </em>. </p>
-      <p type="listitem">(You [sg.] seem to know something).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Son ferte 'leame' juhkamin, go nie hoavrrista </em>. </p>
-      <p type="listitem">(He must 'be' drinking since he's talking nonsense like that).</p>
-    </list>
-    <p>The actio essive can also be used in combination with verbs of motion, e.g., the verbs <span type="quote" xml:lang="kal">"mannat"</span> 'to go' and <span type="quote" xml:lang="smj">"viehkat"</span> 'to run'. Here are some examples:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun manan 'jearrame' sus </em>. </p>
-      <p type="listitem">(I'll go and ask him/her).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Moai vihke 'geahččame' mii dat boŋká </em>. </p>
-      <p type="listitem">(We'll [du.] run and see what's making that banging sound).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Issat finai ruovttus 'viežžame' ruđa </em>. </p>
-      <p type="listitem">(Issat went home to get some money).</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">The Conditional</p>
-    <p>This is the form of the verb used to express a condition or stipulation for an event/action or when speaking hypothetically. The conditional is also used to express modest requests or to be polite.</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Ii ábut vaikko politiijat 'boađášedje'. </em></p>
-      <p type="listitem">(There's nothing to be done, even if the police 'were to come'.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Mávssášin', jus 'gáibidivččet'. </em></p>
-      <p type="listitem">(I 'would pay' if you [sg.] 'were to demand' it.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Livččen' ovdal boahtán, muhto ii lean dilli. </em></p>
-      <p type="listitem">(I 'would have' come earlier but I didn't have the time.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mun 'háliidivččen' hupmat duinna. </em></p>
-      <p type="listitem">(I 'would like' to speak with you [sg.].)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Dajašin' ahte don diekko dahket boastut. </em></p>
-      <p type="listitem">(I 'would say' you made a mistake there.)</p>
-    </list>
-    <p>Vowel stem verbs take the consonant <span type="quote" xml:lang="smn">"-š-"</span> and are then inflected like consonant stem verbs in the preterite. Note that the stem is weak-grade in the conditional:</p>
-    <p><em type="italic">VOWEL STEM VERBS - conditional </em></p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="smj"><em type="italic">viehkat </em></p>
-    <p>'to run'</p>
-    <p xml:lang="deu"><em type="italic">diehtit </em></p>
-    <p>'to know'</p>
-    <p xml:lang="sme"><em type="italic">goarrut </em></p>
-    <p>'to sew'</p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="sme"><em type="italic">viegašin </em></p>
-    <p xml:lang="sme"><em type="italic">dieđášin </em></p>
-    <p xml:lang="sme"><em type="italic">gorošin </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="sme"><em type="italic">viegašit </em></p>
-    <p xml:lang="sme"><em type="italic">dieđášit </em></p>
-    <p xml:lang="sme"><em type="italic">gorošit </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">viegašii </em></p>
-    <p xml:lang="sme"><em type="italic">dieđášii </em></p>
-    <p xml:lang="sme"><em type="italic">gorošii </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="sma"><em type="italic">viegašeimme </em></p>
-    <p xml:lang="deu"><em type="italic">dieđášeimme </em></p>
-    <p xml:lang="sma"><em type="italic">gorošeimme </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">viegašeidde </em></p>
-    <p xml:lang="sme"><em type="italic">dieđášeidde </em></p>
-    <p xml:lang="sme"><em type="italic">gorošeidde </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">viegašeigga </em></p>
-    <p xml:lang="sme"><em type="italic">dieđášeigga </em></p>
-    <p xml:lang="sme"><em type="italic">gorošeigga </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">viegašeimmet </em></p>
-    <p xml:lang="deu"><em type="italic">dieđášeimmet </em></p>
-    <p xml:lang="sme"><em type="italic">gorošeimmet </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">viegašeiddet </em></p>
-    <p xml:lang="sme"><em type="italic">dieđášeiddet </em></p>
-    <p xml:lang="sme"><em type="italic">gorošeiddet </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sme"><em type="italic">viegašedje </em></p>
-    <p xml:lang="sme"><em type="italic">dieđášedje </em></p>
-    <p xml:lang="sme"><em type="italic">gorošedje </em></p>
-    <p>Consonant stem verbs take <span type="quote" xml:lang="smn">"-ivčč-"</span> and are inflected like vowel stem verbs in the preterite:</p>
-    <p><em type="italic">CONSONANT STEM VERBS - conditional </em></p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="sme"><em type="italic">muitalit </em></p>
-    <p xml:lang="sme"><em type="italic">leat </em></p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="fin"><em type="italic">muitalivččen </em></p>
-    <p xml:lang="smn"><em type="italic">livččen </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="smn"><em type="italic">muitalivččet </em></p>
-    <p xml:lang="sme"><em type="italic">livččet </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="smn"><em type="italic">muitalivččii </em></p>
-    <p xml:lang="smn"><em type="italic">livččii </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="smn"><em type="italic">muitalivččiime </em></p>
-    <p xml:lang="smn"><em type="italic">livččiime </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">muitalivččiide </em></p>
-    <p xml:lang="sme"><em type="italic">livččiide </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">muitalivččiiga </em></p>
-    <p xml:lang="sme"><em type="italic">livččiiga </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="smn"><em type="italic">muitalivččiimet </em></p>
-    <p xml:lang="sme"><em type="italic">livččiimet </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">muitalivččiidet </em></p>
-    <p xml:lang="sme"><em type="italic">livččiidet </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="smn"><em type="italic">muitalivčče </em></p>
-    <p xml:lang="sme"><em type="italic">livčče </em></p>
-    <p>Contraction verbs take the consonant <span type="quote" xml:lang="smn">"-š-"</span> and are inflected like consonant stem verbs in the preterite:</p>
-    <p><em type="italic">CONTRACTION VERBS - conditional </em></p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="sme"><em type="italic">čohkkát </em></p>
-    <p>'to sit'</p>
-    <p xml:lang="sme"><em type="italic">fárret </em></p>
-    <p>'to move'</p>
-    <p xml:lang="sme"><em type="italic">diŋgot </em></p>
-    <p>'to order'</p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="sme"><em type="italic">čohkkášin </em></p>
-    <p xml:lang="sme"><em type="italic">fárrešin </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgošin </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="sme"><em type="italic">čohkkášit </em></p>
-    <p xml:lang="sme"><em type="italic">fárrešit </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgošit </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">čohkkášii </em></p>
-    <p xml:lang="sme"><em type="italic">fárrešii </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgošii </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="sme"><em type="italic">čohkkášeimme </em></p>
-    <p xml:lang="sme"><em type="italic">fárrešeimme </em></p>
-    <p xml:lang="sma"><em type="italic">diŋgošeimme </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">čohkkášeidde </em></p>
-    <p xml:lang="sme"><em type="italic">fárrešeidde </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgošeidde </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">čohkkášeigga </em></p>
-    <p xml:lang="sme"><em type="italic">fárrešeigga </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgošeigga </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">čohkkášeimmet </em></p>
-    <p xml:lang="sme"><em type="italic">fárrešeimmet </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgošeimmet </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">čohkkášeiddet </em></p>
-    <p xml:lang="sme"><em type="italic">fárrešeiddet </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgošeiddet </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sme"><em type="italic">čohkkášedje </em></p>
-    <p xml:lang="sme"><em type="italic">fárrešedje </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgošedje </em></p>
-    <p>The negative conditional construction consists of two verbs: the verb of negation and the connegative form of main verb. The connegative form of the contraction verb and the vowel stem verb ends in <span type="quote" xml:lang="krl">"-še"</span>. The connegative form of consonant stem verbs, however, ends in <span type="quote" xml:lang="smn">"-ivčče"</span>. In the negative conditional construction, only the verb of negation is inflected for number and person. Here are some examples:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">Doai 'eahppi dieđáše' maidege, jus 'ii livčče' Facebook </em>. </p>
-      <p type="listitem">(You [du.] 'wouldn't know' anything if it 'weren't' for Facebook).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Mii eat 'boradivčče' stobus, jus gievkkanis livččii sadji </em>. </p>
-      <p type="listitem">(We [pl.] wouldn't have eaten in the living room if there had been room in the kitchen).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">In moddjáše politihkkáriidda bálkká ovddas ge </em>. </p>
-      <p type="listitem">I wouldn't smile for politicians even if I were paid.</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">The Potential</p>
-    <p>This is the verb form that expresses possibility, especially when we aren't certain:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Boražit' go mánát guoli? </em></p>
-      <p type="listitem">(Could the children eat fish?)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">In dieđe 'bođeža' go juovlastállu. </em></p>
-      <p type="listitem">(I don't know if Santa Clause 'will be able to come'.)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Bođeš' go oahpaheaddji odne? </em></p>
-      <p type="listitem">(Well, is the teacher going to come today?)</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">Don oaččut dan čuohte ruvdnui, go juo 'válddežat'. </em></p>
-      <p type="listitem">(You [sg.] will get up to 100 Krones if you 'will take' it.)</p>
-    </list>
-    <p>Vowel stem verbs take <span type="quote" xml:lang="sms">"-ž-"</span> and are inflected like consonant stem verbs in the present. Note that the stem is in weak grade in the potential:</p>
-    <p><em type="italic">VOWEL STEN VERBS - the potential </em></p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="smj"><em type="italic">viehkat </em></p>
-    <p>'to run'</p>
-    <p xml:lang="deu"><em type="italic">diehtit </em></p>
-    <p>'to know'</p>
-    <p xml:lang="sme"><em type="italic">goarrut </em></p>
-    <p>'to sew'</p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="sma"><em type="italic">viegažan </em></p>
-    <p xml:lang="sme"><em type="italic">diđežan </em></p>
-    <p xml:lang="sme"><em type="italic">gorožan </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="sme"><em type="italic">viegažat </em></p>
-    <p xml:lang="sme"><em type="italic">diđežat </em></p>
-    <p xml:lang="sme"><em type="italic">gorožat </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">viegaža, viegaš </em></p>
-    <p xml:lang="sme"><em type="italic">diđeža, diđeš </em></p>
-    <p xml:lang="sme"><em type="italic">goroža, goroš </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="sma"><em type="italic">viegažetne </em></p>
-    <p xml:lang="vep"><em type="italic">diđežetne </em></p>
-    <p xml:lang="sma"><em type="italic">gorožetne </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">viegažeahppi </em></p>
-    <p xml:lang="sme"><em type="italic">diđežeahppi </em></p>
-    <p xml:lang="sme"><em type="italic">gorožeahppi </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">viegažeaba </em></p>
-    <p xml:lang="sme"><em type="italic">diđežeaba </em></p>
-    <p xml:lang="sme"><em type="italic">gorožeaba </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">viegažit, viegažat </em></p>
-    <p xml:lang="sme"><em type="italic">diđežit, diđežat </em></p>
-    <p xml:lang="sme"><em type="italic">gorožit, gorožat </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="smj"><em type="italic">viegažehpet </em></p>
-    <p xml:lang="sme"><em type="italic">diđežehpet </em></p>
-    <p xml:lang="sme"><em type="italic">gorožehpet </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sme"><em type="italic">viegažit </em></p>
-    <p xml:lang="sme"><em type="italic">diđežit </em></p>
-    <p xml:lang="sme"><em type="italic">gorožit </em></p>
-    <p>Consonant stem verbs take <span type="quote" xml:lang="sms">"-eažž-"</span> and are inflected like vowel stem verbs in the present:</p>
-    <p><em type="italic">CONSONANT STEM VERBS - the potential </em></p>
-    <p>Shaded: ending in weak grade</p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="sme"><em type="italic">muitalit </em></p>
-    <p>'to tell'</p>
-    <p xml:lang="sme"><em type="italic">leat </em></p>
-    <p>'to be'</p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="sme"><em type="italic">muitaleaččan </em></p>
-    <p xml:lang="sme"><em type="italic">leaččan </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="sme"><em type="italic">muitaleaččat </em></p>
-    <p xml:lang="sme"><em type="italic">leaččat </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">muitaleažžá, muitaleaš, muitaleš </em></p>
-    <p xml:lang="sme"><em type="italic">leažžá, leaš, leš </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="sme"><em type="italic">muitaležže </em></p>
-    <p xml:lang="sms"><em type="italic">ležže </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">muitaleažžabeahtti </em></p>
-    <p xml:lang="sme"><em type="italic">leažžabeahtti </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">muitaleažžaba </em></p>
-    <p xml:lang="sme"><em type="italic">leažžaba </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">muitaleažžat </em></p>
-    <p xml:lang="sme"><em type="italic">leažžat </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">muitaleažžabehtet </em></p>
-    <p xml:lang="sme"><em type="italic">leažžabehtet </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sme"><em type="italic">muitaležžet </em></p>
-    <p xml:lang="sme"><em type="italic">ležžet </em></p>
-    <p>Contraction verbs take the consonant <span type="quote" xml:lang="sms">"-ž-"</span> and then they are inflected like consonant stem verbs in the present:</p>
-    <p><em type="italic">CONTRACTION VERBS - the potential </em></p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="sme"><em type="italic">čohkkát 'to sit' </em></p>
-    <p xml:lang="sme"><em type="italic">fárret 'to move' </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgot 'to order' </em></p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="sme"><em type="italic">čohkkážan </em></p>
-    <p xml:lang="sme"><em type="italic">fárrežan </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgožan </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="sme"><em type="italic">čohkkážat </em></p>
-    <p xml:lang="sme"><em type="italic">fárrežat </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgožat </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">čohkkáža, čohkkáš </em></p>
-    <p xml:lang="sme"><em type="italic">fárreža, fárreš </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgoža, diŋgoš </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="sme"><em type="italic">čohkkážetne </em></p>
-    <p xml:lang="sme"><em type="italic">fárrežetne </em></p>
-    <p xml:lang="vep"><em type="italic">diŋgožetne </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">čohkkážeahppi </em></p>
-    <p xml:lang="sme"><em type="italic">fárrežeahppi </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgožeahppi </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">čohkkážeaba </em></p>
-    <p xml:lang="sme"><em type="italic">fárrežeaba </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgožeaba </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">čohkkážit, čohkkážat </em></p>
-    <p xml:lang="sme"><em type="italic">fárrežit, fárrežat </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgožit, diŋgožat </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">čohkkážehpet </em></p>
-    <p xml:lang="sme"><em type="italic">fárrežehpet </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgožehpet </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sme"><em type="italic">čohkkážit </em></p>
-    <p xml:lang="sme"><em type="italic">fárrežit </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgožit </em></p>
-    <p>Negation of the potential consists of two verbs: the verb of negation and the connegative form of the main verb. The connegative form of contraction verbs and vowel stem verbs end in <span type="quote">"-š", whereas consonant stem verbs end in either "-eačča"</span> or <span type="quote" xml:lang="smn">"-eš"</span>. In the negative potential only the verb of negation is inflected for person and number. Here are some examples:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Ean leačča' Romssas leamaš guhkes áigái </em>. </p>
-      <p type="listitem">(Why, we [du.] have not been in Tromso for a long time).</p>
-      <p type="listitem" xml:lang="sme"><em type="italic">'Ii bođeš' Máhtte jur ovddemus veahkkin </em>. </p>
-      <p type="listitem">(Máhtte will not be the first one to come and help).</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">The Imperative</p>
-    <p>The command form, e.g. <em type="italic">'Boađe' donge! </em></p>
-    <p>The imperative can have various meaning:</p>
-    <list>
-      <p type="listitem">in the 1st person it is used for solicitations and suggestions: <em type="italic">De vuolgut dál! </em>(Let's go now!). </p>
-      <p type="listitem">in the 2nd person it is used for making solicitations, commands and prohibiting: <em type="italic">Boađe donge! </em>(Come along, you too!). </p>
-      <p type="listitem">in the 3rd person it is used for making solicitations, wishes concessions: <em type="italic">'Bohtoset' vaikko odne! </em>('Let them come', today if they want to!). </p>
-    </list>
-    <p><em type="italic">VOWEL STEM VERBS - imperative </em></p>
-    <p>- Shaded: weak grade</p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="smj"><em type="italic">viehkat </em></p>
-    <p>'to run'</p>
-    <p xml:lang="deu"><em type="italic">diehtit </em></p>
-    <p>'to know'</p>
-    <p xml:lang="sme"><em type="italic">goarrut </em></p>
-    <p>'to sew'</p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="fin"><em type="italic">vihkon </em></p>
-    <p xml:lang="sme"><em type="italic">bohton </em></p>
-    <p xml:lang="sme"><em type="italic">gorron </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="smj"><em type="italic">viega </em></p>
-    <p xml:lang="sme"><em type="italic">boađe </em></p>
-    <p xml:lang="sme"><em type="italic">goaro </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sma"><em type="italic">vihkos </em></p>
-    <p xml:lang="sme"><em type="italic">bohtos </em></p>
-    <p xml:lang="sme"><em type="italic">gorros </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="smj"><em type="italic">viehkku </em></p>
-    <p xml:lang="sme"><em type="italic">boahttu </em></p>
-    <p xml:lang="sme"><em type="italic">goarru </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sma"><em type="italic">viehkki </em></p>
-    <p xml:lang="sme"><em type="italic">boahtti </em></p>
-    <p xml:lang="sme"><em type="italic">goarru </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="swe"><em type="italic">vihkoska </em></p>
-    <p xml:lang="sme"><em type="italic">bohtoska </em></p>
-    <p xml:lang="sme"><em type="italic">gorroska </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="krl"><em type="italic">vihkot </em></p>
-    <p xml:lang="sme"><em type="italic">bohtot </em></p>
-    <p xml:lang="sme"><em type="italic">gorrot </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">vihket </em></p>
-    <p xml:lang="sme"><em type="italic">bohtet </em></p>
-    <p xml:lang="sme"><em type="italic">gorrot </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="krl"><em type="italic">vihkoset </em></p>
-    <p xml:lang="sme"><em type="italic">bohtoset </em></p>
-    <p xml:lang="sme"><em type="italic">gorroset </em></p>
-    <p>Note that there is extra strong grade in the 1st and 2nd persons dual forms. This means that the verb alternates in three grades: a single consonant in the weak grade; a double consonant or consonant cluster in the strong grade, and a double consonant or consonant cluster in the extra strong grade. This is best illustrated with the combinations in "h": <em type="italic">Viega ruoktot! Vihket ruoktot. Viehkku ruoktot </em>. </p>
-    <p>There is also diphthong simplification in the 1st and 3rd persons singular, 3rd person dual, and all persons plural. Here are some examples: <em type="italic">Vihkos ruoktot! Vihket ruoktot. Vihkot ruoktot </em>. </p>
-    <p><em type="italic">CONSONANT STEM VERBS - imperative </em></p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="sme"><em type="italic">muitalit </em></p>
-    <p>'to tell'</p>
-    <p xml:lang="sme"><em type="italic">leat </em></p>
-    <p>'to be'</p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="fin"><em type="italic">muitalehkon </em></p>
-    <p xml:lang="sme"><em type="italic">lehkon </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="sme"><em type="italic">muital </em></p>
-    <p xml:lang="sme"><em type="italic">leage </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">muitalehkos </em></p>
-    <p xml:lang="sme"><em type="italic">lehkos </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="sme"><em type="italic">muitaleadnu </em></p>
-    <p xml:lang="sme"><em type="italic">leadnu, leahkku </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">muitaleahkki </em></p>
-    <p xml:lang="sme"><em type="italic">leahkki </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="fin"><em type="italic">muitalehkoska </em></p>
-    <p xml:lang="sma"><em type="italic">lehkoska </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">muitalehkot, muitaleatnot </em></p>
-    <p xml:lang="sme"><em type="italic">lehkot, leatnot </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">muitalehket </em></p>
-    <p xml:lang="sma"><em type="italic">lehket </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="fin"><em type="italic">muitalehkoset </em></p>
-    <p xml:lang="sme"><em type="italic">lehkoset </em></p>
-    <p><em type="italic">CONTRACTION VERBS - imperative </em></p>
-    <p xml:lang="deu">Person</p>
-    <p xml:lang="sme"><em type="italic">čohkkát </em></p>
-    <p>'to sit'</p>
-    <p xml:lang="sme"><em type="italic">fárret </em></p>
-    <p>'to move'</p>
-    <p xml:lang="sme"><em type="italic">diŋgot </em></p>
-    <p>'to order'</p>
-    <p xml:lang="smn">mun</p>
-    <p xml:lang="sme"><em type="italic">čohkkájehkon </em></p>
-    <p xml:lang="sme"><em type="italic">fárrejehkon </em></p>
-    <p xml:lang="smj"><em type="italic">diŋgojehkon </em></p>
-    <p xml:lang="sme">don</p>
-    <p xml:lang="sme"><em type="italic">čohkká </em></p>
-    <p xml:lang="sme"><em type="italic">fárre </em></p>
-    <p xml:lang="smj"><em type="italic">diŋgo </em></p>
-    <p xml:lang="nno">son</p>
-    <p xml:lang="sme"><em type="italic">čohkkájehkos </em></p>
-    <p xml:lang="sma"><em type="italic">fárrejehkos </em></p>
-    <p xml:lang="smj"><em type="italic">diŋgojehkos </em></p>
-    <p xml:lang="sme">moai</p>
-    <p xml:lang="sme"><em type="italic">čohkkájeadnu, čohkkájeahkku </em></p>
-    <p xml:lang="sme"><em type="italic">fárrejeadnu, fárrejeahkku </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgojeadnu, diŋgojeahkku </em></p>
-    <p xml:lang="sme">doai</p>
-    <p xml:lang="sme"><em type="italic">čohkkájeahkki </em></p>
-    <p xml:lang="sme"><em type="italic">fárrejeahkki </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgojeahkki </em></p>
-    <p xml:lang="sme">soai</p>
-    <p xml:lang="sme"><em type="italic">čohkkájehkoska </em></p>
-    <p xml:lang="sme"><em type="italic">fárrejehkoska </em></p>
-    <p xml:lang="smj"><em type="italic">diŋgojehkoska </em></p>
-    <p xml:lang="sme">mii</p>
-    <p xml:lang="sme"><em type="italic">čohkkájednot, čohkkájehkot, čohkkájeahkkot </em></p>
-    <p xml:lang="sme"><em type="italic">fárrejednot, fárrejehkot, fárrejeahkkot </em></p>
-    <p xml:lang="sme"><em type="italic">diŋgojednot, diŋgojehkot, diŋgojeahkkot </em></p>
-    <p xml:lang="sme">dii</p>
-    <p xml:lang="sme"><em type="italic">čohkkájehket </em></p>
-    <p xml:lang="sme"><em type="italic">fárrejehket </em></p>
-    <p xml:lang="smj"><em type="italic">diŋgojehket </em></p>
-    <p xml:lang="smn">sii</p>
-    <p xml:lang="sme"><em type="italic">čohkkájehkoset </em></p>
-    <p xml:lang="sme"><em type="italic">fárrejehkoset </em></p>
-    <p xml:lang="smj"><em type="italic">diŋgojehkoset </em></p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Verbs</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>5969</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/verb.eng.html</origFileName><parallel_text xml:lang="nob" location="verb.nob.html"/><parallel_text xml:lang="sme" location="verb.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="vep">Verbs</p>
+<list><p type="listitem">Different stems</p>
+<p type="listitem">Diphthong Simplification</p>
+<p type="listitem">Consonant Gradation</p>
+<p type="listitem">Other Consonant Alternations</p>
+<p type="listitem">Finite Verbs and Agreement</p>
+<p type="listitem">The Verb 'leat'</p>
+<p type="listitem">Main Verbs and Auxiliary Verbs</p>
+<p type="listitem" xml:lang="deu">Nonfinite Verbs</p>
+<p type="listitem">Transitive and Intransitive Verbs</p>
+<p type="listitem" xml:lang="smn">Mood</p>
+<p type="listitem">The Indicative</p>
+<p type="listitem">The Present Tense</p>
+<p type="listitem">The Past Tense</p>
+<p type="listitem">Negation</p>
+<p type="listitem">The Negative Imperative (Prohibitive)</p>
+<p type="listitem">The Perfect</p>
+<p type="listitem">The Actio Essive</p>
+<p type="listitem">The Conditional</p>
+<p type="listitem">The Potential</p>
+<p type="listitem">The Imperative</p>
+</list><p>Back to the grammar main page .</p>
+<p><em type="italic">Verbs </em>tell us what is happening or being done. </p>
+<p xml:lang="swe"></p>
+<p type="title">Different stems</p>
+<p>Verb inflection is determined by the type of stem the individual verb has. We can find out what type of stem a verb has by counting the number of syllables in the final foot of the word. A <em type="italic">foot </em>is a group of syllables where the first syllable has stress. Here the syllables are separated with a hyphen <span type="quote">"-", and the foot is marked with parentheses "()"</span>. Stress is marked with ' before the syllable. </p>
+<list><p type="listitem"><em type="italic">láibut </em>('lái-but) 'to bake' has two syllables and one foot. </p>
+<p type="listitem"><em type="italic">rehkenastit </em>('reh-ke)('nas-tit) 'to count' has four syllables and two feet. </p>
+<p type="listitem"><em type="italic">muitališgoahtit </em>('muit-ta-liš)('goah-tit) 'to begin to tell' has five syllables and two feet. </p>
+<p type="listitem"><em type="italic">boradit </em>('bo-ra-dit) 'to dine on, to eat', however, has three syllables but only one foot. </p>
+</list><p><em type="italic">Vowel stem verbs </em>(also called bisyllabic verbs) have two syllables in the last foot and end in '-at', '-it' or '-ut' in the infinitive: </p>
+<list><p type="listitem"><em type="italic">boahtit </em>('boah-tit) 'to come' has two syllables and one foot. </p>
+<p type="listitem"><em type="italic">mannat </em>('man-nat) 'to go' has two syllables and one foot. </p>
+<p type="listitem"><em type="italic">lávlut </em>('láv-lut) 'to sing' has two syllables and one foot. </p>
+<p type="listitem"><em type="italic">rehkenastit </em>('reh-ke)('nas-tit) 'to count' has four syllables and two feet. </p>
+<p type="listitem"><em type="italic">muitališgoahtit </em>('muit-ta-liš)('goah-tit) 'to begin to tell' has five syllables and two feet. </p>
+</list><p>These verbs have gradation in the last foot.</p>
+<p><em type="italic">Consonant stem verbs </em>(also called trisyllabic verbs) have one or three syllables. Verbs with three syllables always end in '-it' in the infinitive: </p>
+<list><p type="listitem"><em type="italic">leat </em>('leat) 'to be' and <em type="italic">ii </em>('ii) 'not (verb of negation)' have both one syllable and one foot. </p>
+<p type="listitem"><em type="italic">muitalit </em>('mui-ta-lit) 'to tell' has three syllables and one foot. </p>
+<p type="listitem"><em type="italic">boradit </em>('bo-ra-dit) 'to dine on, to eat' has three syllables and one foot. </p>
+</list><p>These verbs do not undergo gradation.</p>
+<p><em type="italic">Contracted verbs </em>have two syllables and end in '-át', '-et' or '-ot' in the infinitive: </p>
+<list><p type="listitem"><em type="italic">diŋgot </em>('diŋ-got) 'to order smth' has two syllables and one foot. </p>
+<p type="listitem"><em type="italic">čohkkát </em>('čohk-kát) 'to sit' has two syllables and one foot. </p>
+<p type="listitem"><em type="italic">fárret </em>('fár-ret) 'to move (to a new residence)' has two syllables and one foot. </p>
+</list><p>These verbs are not subject to gradation. For the most part they conjugate like vowel stem verbs but in certain places the forms resemble those of consonant stem verbs: <em type="italic">moai diŋgojetne </em>'we [du.] are ordering', <em type="italic">sii diŋgojit </em>'they [pl.] are ordering', <em type="italic">mun diŋgojin </em>'I ordered', <em type="italic">don diŋgojit </em>'you [sg.] ordered', <em type="italic">sii diŋgojedje </em>'they [pl.] ordered'. </p>
+<p xml:lang="swe"></p>
+<p type="title">Diphthong Simplification</p>
+<p>The diphthong in the first syllable of foot can be affected by the vowel in the second syllable. The diphthong becomes a monophthong (a single vowel) when the vowel in the second syllable is one of the following:</p>
+<list><p type="listitem" xml:lang="sme">- 'ii', e.g. <em type="italic">diđii (diehtit) </em>'to know' </p>
+<p type="listitem">- 'e' and 'o', e.g. <em type="italic">dihten (diehtit) </em>'to know', <em type="italic">ožžon (oažžut) </em>'to get, to receive', but not in the connegative form: <em type="italic">in 'dieđe' </em>(I don't 'know'), <em type="italic">in 'oaččo' </em>(I don't 'get'). </p>
+</list><p xml:lang="swe"></p>
+<p type="title">Consonant Gradation</p>
+<p>Consonant gradation usually occurs in the consonants between the first and second syllable in a foot, e.g. <em type="italic">diehtit - dieđán </em>'to know'. <em type="italic">Strong grade </em>occurs in the infinitive and present plural, for instance. <em type="italic">Weak grade </em>occurs, for example, in the connegative forms of vowel stem verbs. Only vowel stem verbs have consonant gradation. </p>
+<p>Here are some examples of consonant gradation. There are examples of strong grade on the left, and weak grade on the right. Please note that the letter '-i-' at the end of the first syllable is regarded as part of the consonant cluster:</p>
+<list><p type="listitem" xml:lang="sme">ma <em type="italic">nn </em>at - ma <em type="italic">n </em>an, oa <em type="italic">đđ </em>it - oa <em type="italic">đ </em>án, ba <em type="italic">ss </em>at - ba <em type="italic">s </em>an, ba <em type="italic">ll </em>at - ba <em type="italic">l </em>an </p>
+<p type="listitem" xml:lang="isl">lá <em type="italic">ib </em>ut - lá <em type="italic">ibb </em>ui, lá <em type="italic">vl </em>ut - lá <em type="italic">vll </em>un, oa <em type="italic">st </em>it - oa <em type="italic">stt </em>án </p>
+<p type="listitem" xml:lang="nno">oa <em type="italic">gg </em>ut - oa <em type="italic">kk </em>un </p>
+<p type="listitem" xml:lang="smn">bo <em type="italic">tn </em>it - bo <em type="italic">n </em>án, vuo <em type="italic">dj </em>it - vuo <em type="italic">j </em>án, já <em type="italic">pm </em>it - já <em type="italic">m </em>án </p>
+<p type="listitem" xml:lang="nno">bu <em type="italic">kt </em>it - bu <em type="italic">vtt </em>án, ha <em type="italic">ks </em>it - ha <em type="italic">vss </em>án </p>
+<p type="listitem" xml:lang="smj">da <em type="italic">hk </em>at - da <em type="italic">g </em>an, bá <em type="italic">hč </em>it - bá <em type="italic">ž </em>án </p>
+</list><p>In derived verbs, consonant gradation will occur in the derivational ending since the ending is bisyllabic and therefore a foot of its own, just like in vowel stem words <em type="italic">dolastallat </em>'to keep campfire', <em type="italic">muitaladdat </em>'to tell'. These words have two feet: ('do-la)('stal-lat) ('mui-ta)('lad-dat). There will be consonant gradation in the final foot of each word. An example of strong grade can be found in the third person singular present, and weak grade in the first person singular present: </p>
+<list><p type="listitem" xml:lang="smj">dolasta <em type="italic">ll </em>at - dolasta <em type="italic">ll </em>á - dolasta <em type="italic">l </em>an </p>
+<p type="listitem" xml:lang="sme">muitala <em type="italic">dd </em>at - muitala <em type="italic">dd </em>á - muitala <em type="italic">tt </em>an </p>
+</list><p>You can read more about consonant gradation here</p>
+<p xml:lang="swe"></p>
+<p type="title">Other Consonant Alternations</p>
+<p>Consonant stem verbs end in consonants in the connegative present and the imperative 2nd person singular . Usually this final consonant is the same one found in the infinitive, but there are exceptions. Sounds that come between the second and third syllables are made word-final when the verb is in the connegative/imperative form. In North Saami, there are limitations as to which consonants can occur in word-final position, and here we might also run into special consonant variations between infinitive and imperative/connegative forms. The consonants that can occur in word-final position are: <span type="quote" xml:lang="est">"t", "s"</span>, <span type="quote" xml:lang="sms">"š", "l"</span>, <span type="quote">"r" and "n"</span>. Here are some examples of sound/letter changes found in consonant stem verbs:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">h &gt; t </em>, e.g. veahkehit - (ii) veahket 'to help' </p>
+<p type="listitem" xml:lang="sme"><em type="italic">d &gt; t </em>, e.g. boradit - (ii) borat 'to eat' </p>
+<p type="listitem"><em type="italic">z &gt; s </em>, e.g. smirezit - (ii) smires 'to chew the cud' </p>
+</list><p>North Saami words cannot end in two consonants. If the infinitive form has two consonants between the second and third syllable, only the first consonant will be retained in the connegative and imperative forms.</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">st &gt; s </em>, e.g. oamastit - (ii) oamas 'to own' </p>
+<p type="listitem" xml:lang="sme"><em type="italic">sk &gt; s </em>, e.g. dájáskit - (ii) dájás 'to go crazy' </p>
+<p type="listitem"><em type="italic">sm &gt; s </em>, e.g. boarásmit - (ii) boarás 'to grow older' </p>
+<p type="listitem" xml:lang="sme"><em type="italic">št &gt; š </em>, e.g. beroštit - (ii) beroš 'to care about' </p>
+<p type="listitem"><em type="italic">ld &gt; l </em>, e.g. buđaldit - (ii) buđal 'to tinker around with, to work on' </p>
+<p type="listitem" xml:lang="sme"><em type="italic">lg &gt; l </em>, e.g. jámálgit - (ii) jámál 'to faint' </p>
+<p type="listitem" xml:lang="nob"><em type="italic">rd &gt; r </em>, f.eks. ipmirdit - (ii) ipmir 'to understand' </p>
+</list><p xml:lang="swe"></p>
+<p type="title">Finite Verbs and Agreement</p>
+<p>A finite verb is a verb that is inflected for person and number.</p>
+<p>There is agreement (correlation in the inflection) between the subject and the finite verb: <em type="italic">mun boađán </em>'I am coming', <em type="italic">don boađát </em>'you [sg.] are coming', <em type="italic">mun boađášin </em>'I would come', <em type="italic">sii boađášedje </em>'they [pl.] would come'. Read more about agreement here . </p>
+<p xml:lang="swe"></p>
+<p type="title">The Verb 'leat'</p>
+<p>'Leat' is the Northern Saami verb for 'to be'. It belongs to the consonant stem group and takes the same inflectional suffixes as the consonant stem verbs. The verb <span type="quote" xml:lang="sme">"leat"</span> can be both a main verb and an auxiliary in sentences:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Main verb: </em><em type="italic">Mun 'lean' Elle. Beana 'lea' skibas. Joavnna 'lea' dáppe. </em></p>
+<p type="listitem">(I 'am' Elle. The dog 'is' sick. Joavnna 'is' here).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Auxiliary verb: </em><em type="italic">Mun 'lean' lohkan girjji. Soai 'leaba' fárren. </em></p>
+<p type="listitem">(I 'have' read a book. They [du.] 'have' moved.)</p>
+<p type="listitem"><em type="italic">Both main and auxiliary verb: </em><em type="italic">Mun 'lean' 'leamaš' olgoriikkas. </em></p>
+<p type="listitem">(I 'have' 'been' abroad).</p>
+</list><p>The verb <span type="quote" xml:lang="sme">"leat"</span> is used as a helping verb (auxiliary) in combination with the perfect and actio essive:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">perfect: </em><em type="italic">Soai 'leaba boahtán'. Don 'leat čohkkedan' mu stullui. </em></p>
+<p type="listitem">They [du.] 'have come'. You [sg.] 'have sat down' on my chair.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">actio essive: </em><em type="italic">Soai 'leaba boahtime'. Moai 'letne bassame' viesu. </em></p>
+<p type="listitem">They [du.] 'are on their way' here. We [du.] 'are in the process of washing' the house.)</p>
+</list><p>Read more about the perfect here and the actio essive here .</p>
+<p>'Leat' can also be translated as 'to have' when it combines with an argument in the locative:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Eatnis leat bohccot. </em></p>
+<p type="listitem">Mom has reindeer.</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Márehis lea ođđa biila. </em></p>
+<p type="listitem">Máret has a new car.</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Munnos eai leat gintalat. </em></p>
+<p type="listitem">We [du.] don't have candles.</p>
+</list><p>Read more about <span type="quote">"have"</span> sentences here .</p>
+<p xml:lang="swe"></p>
+<p type="title">Main Verbs and Auxiliary Verbs</p>
+<p>Main verbs can stand alone in a sentence. Helping verbs require the presence of a main verb for the sentence to be grammatical. Saami has three types of helping verbs: the <span type="quote" xml:lang="sme">"leat"</span> verb 'to be'; the verb of negation, and modal auxiliaries. Note that it is the helping verb that is inflected for person and number. The main verb takes an infinitive form.</p>
+<p>The <em type="italic">verb of negation </em>is followed by the main verb in connegative form. The connegative form can be in either the presence or the perfect: <em type="italic">Mun in boađe. Iŋgá ii boahtán. </em>(I'm not coming. Inga didn't come.) </p>
+<p>The <em type="italic">verb <span type="quote" xml:lang="sme">"leat"</span> </em>can be followed by a main verb in either the perfect form or the actio essive. The perfect participle indicates a completed event or action, whereas the actio essive indicates something on-going: <em type="italic">Mun lean oađđán. Elle lei viesu bassame, go telefuvdna čuojai. </em>(I have slept. Elle was cleaning the house, when the telephone rang.) </p>
+<p><em type="italic">Modal auxiliaries </em>are verbs that indicate possibility or necessity. Everyday modal auxiliaries include <span type="quote" xml:lang="sme">"galgat"</span> 'should, ought to', <span type="quote" xml:lang="sme">"sáhttit"</span> 'might, to be able to', <span type="quote" xml:lang="sme">"máhttit"</span> 'to know how to', <span type="quote" xml:lang="nob">"fertet"</span> 'must, to be compelled to, to have to', <span type="quote" xml:lang="sme">"šaddat"</span> 'to be obliged to' and <span type="quote" xml:lang="sme">"áigut"</span> 'to intend to'. The modal auxiliary is followed by the main verb in the infinitive: <em type="italic">Mun áiggun vuolgit. Elle máhttá sihkkelastit. Soai sáhttiba veahkehit du. Biila cuovkanii, ja mii šattaimet bussiin johtit. </em>(I'm going to leave. Elle knows how to ride a bike. They [du.] can help you [sg.]. The car broke down, and we [pl.] had to travel by bus.) </p>
+<p>You can read more about auxiliary verbs and main verbs here .</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="deu">Nonfinite Verbs</p>
+<p>are verbs that are not inflected for person and number, e.g.</p>
+<list><p type="listitem">the infinitive (base form): <em type="italic">Dii fertebehtet 'boahtit' áiggil. </em></p>
+<p type="listitem">(You [pl.] have to come in time).</p>
+<p type="listitem" xml:lang="sme">perfect participle: <em type="italic">Soai leaba juo 'boradan'. </em></p>
+<p type="listitem">(They [du.] have already 'eaten').</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Máret lea 'leamaš' olgoriikkas. </em></p>
+<p type="listitem">(Máret has been abroad).</p>
+<p type="listitem">The connegative form, the present and perfect:</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun in 'boađe' ihttin, ja lean gullan ahte earátge eai 'boađe'. </em></p>
+<p type="listitem">(I 'am' not 'coming' tomorrow, and I've heard that others 'are' not 'coming' either).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mii eat 'leat' olgoriikkas. </em></p>
+<p type="listitem">(We [pl.] 'are' not overseas).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Doai eahppi 'lean' olgoriikkas diibmá. </em></p>
+<p type="listitem">(You [du.] 'were' not overseas last year).</p>
+<p type="listitem" xml:lang="sme">actio essive: <em type="italic">Mun ledjen 'oađđime', go telefovdna riŋgii. </em></p>
+<p type="listitem">(I was 'sleeping' when the phone rang).</p>
+</list><p>This has one and the same form regardless of the subject in the sentence. The are used in combination with auxiliary verbs that are inflected for person and number. The perfect participle is, for the most part, the same as the preterite connegative form. The exception is the verb <span type="quote" xml:lang="sme">"leat"</span> where the perfect participle is <em type="italic"><span type="quote" xml:lang="sme">"leamaš"</span> </em>while the preterite connegative is <em type="italic"><span type="quote" xml:lang="sme">"lean"</span> </em>. </p>
+<p>In addition there are nonfinite verbs that are not part of the predicate verb construction:</p>
+<list><p type="listitem" xml:lang="sme">present participle: <em type="italic">Uvnna duohken 'orru' sáhpánat eai addán ráfi. </em></p>
+<p type="listitem">(The mice 'living' behind the oven didn't give us any peace).</p>
+<p type="listitem" xml:lang="sme">actio locative: <em type="italic">Son gilddii mu dan 'muitaleames'. </em></p>
+<p type="listitem">(He/She prohibited me from saying that).</p>
+<p type="listitem" xml:lang="sme">gerund: <em type="italic">Ohppen ollu 'barggadettiin' áššiin. </em></p>
+<p type="listitem">(I learned a lot while working on the matter).</p>
+<p type="listitem" xml:lang="sme">verbal genitive: <em type="italic">Son bođii 'čuoigga' skuvlii. </em></p>
+<p type="listitem">(He/She came to school on skis).</p>
+<p type="listitem" xml:lang="sme">verbal abessive: <em type="italic">Son doamai 'borakeahttá' gávpogii. </em></p>
+<p type="listitem">(He/She hurried into town without eating).</p>
+<p type="listitem" xml:lang="sme">supine (causal-final): <em type="italic">Son bođii girjjiid 'vieččažit'. Ferten gárvodit bures 'aman' galbmot jámas. </em></p>
+<p type="listitem">(He/She came 'in order to get' the books. I have to dress warm 'so that I do not' freeze to death).</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Transitive and Intransitive Verbs</p>
+<p>Transitive verbs take objects in the accusative: <em type="italic">Mun 'boran' láibbi. </em>(I 'eat' bread). Intransitive verbs do not take objects, e.g. <em type="italic">mannat </em>. Other typical transitive verbs are <span type="quote" xml:lang="smj">"juhkat"</span> 'to drink', <span type="quote" xml:lang="sme">"lohkat"</span> 'to read', <span type="quote" xml:lang="sme">"oastit"</span> 'to buy', <span type="quote" xml:lang="sme">"vuovdit"</span> 'to sell' and <span type="quote" xml:lang="sme">"váldit"</span> 'to take'. Here are some examples: <em type="italic">Moai juhke gáfe. Mánát lohket girjji. Ovllá osttii viesu. Elle vuvddii biilla. Reaŋga válddii mávssu </em>. (We [du.] drink coffee. Children read the book. Ovllá bought a/the house. Elle sold a/the car. The hand took the payment). </p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="smn">Mood</p>
+<p>The form of the verb that indicates the attitude of the speaker to what is being said. We have four moods in the Saami language:</p>
+<list><p type="listitem" xml:lang="smn">the indicative: <em type="italic">Mun 'boađán' ihttin. </em></p>
+<p type="listitem">(I 'will come' tomorrow).</p>
+<p type="listitem">the imperative (command form): <em type="italic">'Boađe' deike! </em></p>
+<p type="listitem">(Come here!)</p>
+<p type="listitem" xml:lang="sme">the conditional: <em type="italic">Ii ábut vaikko politiijat 'boađášedje'. </em></p>
+<p type="listitem">(It's no use even if the police 'did come').</p>
+<p type="listitem">the potential (possibility): <em type="italic">In dieđe 'bođeža' go juovlastállu. </em></p>
+<p type="listitem">(I don't know if Santa Clause will come).</p>
+</list><p xml:lang="swe"></p>
+<p type="title">The Indicative</p>
+<p>The indicative form of the verb is used for conveying factual statements, e.g. <em type="italic">boađát </em>'you [sg.] are coming', <em type="italic">it boahtán </em>'you [sg.] did not come'. Here are the indicative present and preterite forms: </p>
+<p xml:lang="swe"></p>
+<p type="title">The Present Tense</p>
+<p>The indicative.</p>
+<p>Vowel stem verbs have two syllables in the last foot, and end in <span type="quote" xml:lang="dan">"-at"</span>, <span type="quote" xml:lang="kal">"-it"</span> and <span type="quote" xml:lang="kal">"-ut"</span>. They are subject to gradation, diphthong simplification and vowel alternation in the second syllable:</p>
+<p><em type="italic">VOWEL STEM VERBS - present </em></p>
+<p>Shaded: weak grade</p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="smj"><em type="italic">viehkat </em></p>
+<p>'to run'</p>
+<p xml:lang="deu"><em type="italic">diehtit </em></p>
+<p>'to know'</p>
+<p xml:lang="sme"><em type="italic">goarrut </em></p>
+<p>'to sew'</p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="sma"><em type="italic">viegan </em></p>
+<p xml:lang="sme"><em type="italic">dieđán </em></p>
+<p xml:lang="sme"><em type="italic">goarun </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="smj"><em type="italic">viegat </em></p>
+<p xml:lang="sme"><em type="italic">dieđát </em></p>
+<p xml:lang="sme"><em type="italic">goarut </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="smj"><em type="italic">viehká </em></p>
+<p xml:lang="smj"><em type="italic">diehtá </em></p>
+<p xml:lang="sme"><em type="italic">goarru </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="sma"><em type="italic">vihke </em></p>
+<p xml:lang="sma"><em type="italic">dihte </em></p>
+<p xml:lang="rmu"><em type="italic">gorro </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">viehkabeahtti </em></p>
+<p xml:lang="sma"><em type="italic">diehtibeahtti </em></p>
+<p xml:lang="sme"><em type="italic">goarrubeahtti </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="smj"><em type="italic">viehkaba </em></p>
+<p xml:lang="sma"><em type="italic">diehtiba </em></p>
+<p xml:lang="sme"><em type="italic">goarruba </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="smj"><em type="italic">viehkat </em></p>
+<p xml:lang="deu"><em type="italic">diehtit </em></p>
+<p xml:lang="sme"><em type="italic">goarrut </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sma"><em type="italic">viehkabehtet </em></p>
+<p xml:lang="sme"><em type="italic">diehtibehtet </em></p>
+<p xml:lang="sme"><em type="italic">goarrubehtet </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sme"><em type="italic">vihket </em></p>
+<p xml:lang="sme"><em type="italic">dihtet </em></p>
+<p xml:lang="sme"><em type="italic">gorrot </em></p>
+<p>Note that all persons with the exception of the 1st and 2nd persons singular have strong grade in the present. Diphthong simplification occurs in the 1st person dual and the 3rd person plural, e.g. <em type="italic">moai vihke </em>'we [du.] run', <em type="italic">sii vihket </em>'They [pl.] run'. The vowel in the second syllable is <span type="quote">"e" in "-at-"</span> and <span type="quote" xml:lang="kal">"-it-"</span> verbs, and <span type="quote">"o" in "-ut-"</span> verbs in these same persons. It is vowel alternation in the second syllable that brings about diphthong simplification. </p>
+<p>The second kind of vowel alternation in the present is <span type="quote" xml:lang="isl">"i&gt;á"</span> in the singular forms, and <span type="quote" xml:lang="isl">"a&gt;á"</span> in the 3rd person singular. The 3rd person singular and 1st person dual have no suffixes indicating person in the present. Here are some examples: <em type="italic">Mun oađán. Don boađát. Son juhká. Moai vulge </em>.(I sleep. You [sg.] come. He/She drinks. We [du.] leave). </p>
+<p>Examples of usage:</p>
+<list><p type="listitem"><em type="italic">Mii boahtit ihttin. </em>(We [pl.] are coming tomorrow.) </p>
+<p type="listitem"><em type="italic">Diehtibeahtti go gos girku lea? </em>(Do you [du.] know where the church is?) </p>
+</list><p>Consonant stem verbs have one or three syllables in the last foot. They do not undergo gradation or other alternations in the stem:</p>
+<p><em type="italic">CONSONANT STEM VERBS - present </em></p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="sme"><em type="italic">muitalit </em></p>
+<p>'to tell'</p>
+<p xml:lang="sme"><em type="italic">leat </em></p>
+<p>'to be'</p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="sme"><em type="italic">muitalan </em></p>
+<p xml:lang="sme"><em type="italic">lean </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="sme"><em type="italic">muitalat </em></p>
+<p xml:lang="sme"><em type="italic">leat </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="sme"><em type="italic">muitala </em></p>
+<p xml:lang="sme"><em type="italic">lea </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="fin"><em type="italic">muitaletne </em></p>
+<p xml:lang="sma"><em type="italic">letne </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">muitaleahppi </em></p>
+<p xml:lang="sme"><em type="italic">leahppi </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">muitaleaba </em></p>
+<p xml:lang="sme"><em type="italic">leaba </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">muitalit, muitalat </em></p>
+<p xml:lang="sme"><em type="italic">leat </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="fin"><em type="italic">muitalehpet </em></p>
+<p xml:lang="sme"><em type="italic">lehpet </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sme"><em type="italic">muitalit </em></p>
+<p xml:lang="sme"><em type="italic">leat </em></p>
+<list><p type="listitem"><em type="italic">Mii muitalit dan ihttin. </em>(We [pl.] will tell that tomorrow.) </p>
+<p type="listitem"><em type="italic">Leaba go girkus dál? </em>(Are they [du.] in church now? ) </p>
+</list><p>Contraction verbs have two syllables, and they end in <span type="quote" xml:lang="isl">"-át"</span>, <span type="quote" xml:lang="nob">"-et"</span> or <span type="quote">"-ot"</span>. They are not subject to gradation, and there are no other alternations in the stem:</p>
+<p><em type="italic">CONTRACTION VERBS - present </em></p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="sme"><em type="italic">čohkkát </em></p>
+<p>'to sit'</p>
+<p xml:lang="sme"><em type="italic">fárret </em></p>
+<p>'to move'</p>
+<p xml:lang="sme"><em type="italic">diŋgot </em></p>
+<p>'to order'</p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="sme"><em type="italic">čohkkán </em></p>
+<p xml:lang="sme"><em type="italic">fárren </em></p>
+<p xml:lang="sme"><em type="italic">diŋgon </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="sme"><em type="italic">čohkkát </em></p>
+<p xml:lang="sme"><em type="italic">fárret </em></p>
+<p xml:lang="sme"><em type="italic">diŋgot </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="sme"><em type="italic">čohkká </em></p>
+<p xml:lang="sme"><em type="italic">fárre </em></p>
+<p xml:lang="smj"><em type="italic">diŋgo </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="sme"><em type="italic">čohkkájetne </em></p>
+<p xml:lang="sma"><em type="italic">fárrejetne </em></p>
+<p xml:lang="sma"><em type="italic">diŋgojetne </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">čohkkábeahtti </em></p>
+<p xml:lang="sme"><em type="italic">fárrebeahtti </em></p>
+<p xml:lang="sme"><em type="italic">diŋgobeahtti </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">čohkkába </em></p>
+<p xml:lang="rmf"><em type="italic">fárreba </em></p>
+<p xml:lang="rmf"><em type="italic">diŋgoba </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">čohkkát </em></p>
+<p xml:lang="sme"><em type="italic">fárret </em></p>
+<p xml:lang="sme"><em type="italic">diŋgot </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">čohkkábehtet </em></p>
+<p xml:lang="sme"><em type="italic">fárrebehtet </em></p>
+<p xml:lang="sme"><em type="italic">diŋgobehtet </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sme"><em type="italic">čohkkájit </em></p>
+<p xml:lang="sme"><em type="italic">fárrejit </em></p>
+<p xml:lang="sme"><em type="italic">diŋgojit </em></p>
+<p xml:lang="swe"></p>
+<p type="title">The Past Tense</p>
+<p>Vowel stem verbs have two syllables in the final foot, and they end in <span type="quote" xml:lang="dan">"-at"</span>, <span type="quote" xml:lang="kal">"-it"</span> and <span type="quote" xml:lang="kal">"-ut"</span>. They are subject to gradation, diphthong simplification and vowel simplification in the second syllable:</p>
+<p xml:lang="nob"><em type="italic">VOWEL STEM VERBS - preterite </em></p>
+<p>Shaded: weak grade</p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="smj"><em type="italic">viehkat </em></p>
+<p>'to run'</p>
+<p xml:lang="deu"><em type="italic">diehtit </em></p>
+<p>'to know'</p>
+<p xml:lang="sme"><em type="italic">goarrut </em></p>
+<p>'to sew'</p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="sma"><em type="italic">vihken </em></p>
+<p xml:lang="deu"><em type="italic">dihten </em></p>
+<p xml:lang="sme"><em type="italic">gorron </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="sme"><em type="italic">vihket </em></p>
+<p xml:lang="sme"><em type="italic">dihtet </em></p>
+<p xml:lang="sme"><em type="italic">gorrot </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="sme"><em type="italic">viegai </em></p>
+<p xml:lang="sme"><em type="italic">diđii </em></p>
+<p xml:lang="sme"><em type="italic">goarui </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="sma"><em type="italic">viegaime </em></p>
+<p xml:lang="sme"><em type="italic">diđiime </em></p>
+<p xml:lang="sme"><em type="italic">goaruime </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">viegaide </em></p>
+<p xml:lang="sme"><em type="italic">diđiide </em></p>
+<p xml:lang="sme"><em type="italic">goaruide </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">viegaiga </em></p>
+<p xml:lang="sme"><em type="italic">diđiiga </em></p>
+<p xml:lang="sme"><em type="italic">goaruiga </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">viegaimet </em></p>
+<p xml:lang="sme"><em type="italic">diđiimet </em></p>
+<p xml:lang="sme"><em type="italic">goaruimet </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">viegaidet </em></p>
+<p xml:lang="sme"><em type="italic">diđiidet </em></p>
+<p xml:lang="sme"><em type="italic">goaruidet </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sma"><em type="italic">vihke </em></p>
+<p xml:lang="sma"><em type="italic">dihte </em></p>
+<p xml:lang="rmu"><em type="italic">gorro </em></p>
+<p>The past tense marker is <span type="quote">"-i". It comes in all persons with the exception of the 1st and 2nd persons singular and the 3rd person plural. In these instances we can observe vowel alternation instead: "i&gt;e"</span>, <span type="quote" xml:lang="ron">"a&gt;e"</span> and <span type="quote" xml:lang="smn">"u&gt;o"</span>. Here are some examples: <em type="italic">Mun dihten. Son manai. Mii doamaimet. Sii bohte </em>.(I knew. He/She went. We [pl.] hurried. They [pl.] came). </p>
+<p>Note that all persons with the exception of the 1st and 2nd persons singular and 3rd person plural are in the weak grade in the preterite. Hence the persons with strong grade in the present have weak grade in the preterite and vice versa. The 3rd person plural is strong grade in both the present and the preterite.</p>
+<p>Diphthong simplification occurs in the 1st and 2nd persons singular and the 3rd person plural. Diphthong simplification is directly related to the vowel alternation in the second syllable: <span type="quote" xml:lang="nno">"i&gt;e"</span>, <span type="quote" xml:lang="ron">"a&gt;e"</span> and <span type="quote" xml:lang="smn">"u&gt;o"</span>. In <span type="quote" xml:lang="kal">"-it-"</span> verbs diphthong simplication occurs in all persons. With the preterite tense marker <span type="quote">"-i", we get "-ii-"</span> in the second syllable, and this combination leads to diphthong simplification. Here are some examples: <em type="italic">Mii diđiimet dan. Don oidnet ádjá. Sii gorro gávttiid </em>. (We [pl.] knew that. You [sg.] saw grandpa. They [pl.] sewed gáktes). </p>
+<p>The 3rd person singular only has a past tense marker in the preterite; there is no distinct personal ending. The 3rd person plural has no endings in the preterite.</p>
+<p>Consonant stem verbs have one or three syllables in the final foot. They are not subject to gradation:</p>
+<p xml:lang="nob"><em type="italic">CONSONANT STEM VERBS - preterite </em></p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="sme"><em type="italic">muitalit </em></p>
+<p xml:lang="sme"><em type="italic">leat </em></p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="sme"><em type="italic">muitalin </em></p>
+<p xml:lang="sma"><em type="italic">ledjen </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="sme"><em type="italic">muitalit </em></p>
+<p xml:lang="sme"><em type="italic">ledjet </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="smn"><em type="italic">muitalii </em></p>
+<p xml:lang="sme"><em type="italic">lei, leai </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="fin"><em type="italic">muitaleimme </em></p>
+<p xml:lang="sma"><em type="italic">leimme </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">muitaleidde </em></p>
+<p xml:lang="sme"><em type="italic">leidde </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">muitaleigga </em></p>
+<p xml:lang="sme"><em type="italic">leigga </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">muitaleimmet </em></p>
+<p xml:lang="sme"><em type="italic">leimmet </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">muitaleiddet </em></p>
+<p xml:lang="sme"><em type="italic">leiddet </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sme"><em type="italic">muitaledje </em></p>
+<p xml:lang="sme"><em type="italic">ledje </em></p>
+<p>The past tense marker is <span type="quote">"-i". This is found in all persons with the exception of the 3rd person plural. In the 3rd person plural there is an "-dj-"</span> in the ending. This same consonant structure occurs in the 1st and 2nd person singular of the verb <span type="quote" xml:lang="sme">"leat"</span> but nowhere else. Here are some examples: <em type="italic">Mun gávppošin. Don jurddašit. Sii dárbbašedje veahki. </em>(I did some shopping. You [sg.] thought. They [pl.] needed help). </p>
+<p>Contraction verbs have two syllables, and they end in <span type="quote" xml:lang="isl">"-át"</span>, <span type="quote" xml:lang="nob">"-et"</span> or <span type="quote">"-ot"</span>. They are not subject to gradation. Note that in some inflections they take a <span type="quote" xml:lang="smj">"-j-"</span> and the inflectional endings are like those for consonant stem verbs.</p>
+<p xml:lang="nob"><em type="italic">CONTRACTION VERBS - preterite </em></p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="sme"><em type="italic">čohkkát </em></p>
+<p>'to sit'</p>
+<p xml:lang="sme"><em type="italic">fárret </em></p>
+<p>'to move'</p>
+<p xml:lang="sme"><em type="italic">diŋgot </em></p>
+<p>'to order'</p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="sme"><em type="italic">čohkkájin </em></p>
+<p xml:lang="sme"><em type="italic">fárrejin </em></p>
+<p xml:lang="smj"><em type="italic">diŋgojin </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="sme"><em type="italic">čohkkájit </em></p>
+<p xml:lang="sme"><em type="italic">fárrejit </em></p>
+<p xml:lang="sme"><em type="italic">diŋgojit </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="sme"><em type="italic">čohkkái </em></p>
+<p xml:lang="sme"><em type="italic">fárrii </em></p>
+<p xml:lang="sme"><em type="italic">diŋgui </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="sme"><em type="italic">čohkkáime </em></p>
+<p xml:lang="sme"><em type="italic">fárriime </em></p>
+<p xml:lang="smj"><em type="italic">diŋguime </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">čohkkáide </em></p>
+<p xml:lang="sme"><em type="italic">fárriide </em></p>
+<p xml:lang="sme"><em type="italic">diŋguide </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">čohkkáiga </em></p>
+<p xml:lang="sme"><em type="italic">fárriiga </em></p>
+<p xml:lang="sme"><em type="italic">diŋguiga </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">čohkkáimet </em></p>
+<p xml:lang="sme"><em type="italic">fárriimet </em></p>
+<p xml:lang="sme"><em type="italic">diŋguimet </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">čohkkáidet </em></p>
+<p xml:lang="sme"><em type="italic">fárriidet </em></p>
+<p xml:lang="sme"><em type="italic">diŋguidet </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sme"><em type="italic">čohkkájedje </em></p>
+<p xml:lang="sme"><em type="italic">fárrejedje </em></p>
+<p xml:lang="smj"><em type="italic">diŋgojedje </em></p>
+<p>The preterite tense marker is <span type="quote">"-i". It occurs in all persons with the exceptions of the 3rd person plural, where there is a "-dj-"</span> in the ending. Here are some examples: <em type="italic">Mun veallájin. Mii balláimet. Sii duddjojedje </em>.(I was lying down. We [pl.] got frightened. They [pl.] were doing handcrafts). </p>
+<p xml:lang="swe"></p>
+<p type="title">Negation</p>
+<p>The negation structure consists of the verb of negation and a subsequent main verb in the connegative form, e.g., <span type="quote" xml:lang="sme">"in boađe"</span> (I'm not coming) or <span type="quote" xml:lang="sme">"in boahtán"</span> (I didn't come). The verb of negation is inflected for person and number, and the main verb is inflected for tense.</p>
+<p>In the present, the connegative form is like the imperative 2nd person singular. In vowel stem verbs the connegative form is in the weak grade. In the second syllable there is vowel alternation <span type="quote" xml:lang="nno">"i&gt;e"</span> and <span type="quote" xml:lang="smn">"u&gt;o"</span>. This alternation does not cause diphthong simplification, e.g. <em type="italic">oastit &gt; in oastte </em>, <em type="italic">oažžut &gt; in oaččo </em>. In contraction verbs the connegative form is like the 3rd person singular present form: <em type="italic">čohkkát &gt; in čohkká </em>, <em type="italic">duddjot &gt; in duddjo </em>. In consonant stem verbs the connegative form is reduced to two syllables with a consonant at the end: <em type="italic">gávppašit &gt; in gávppaš </em>, <em type="italic">boradit &gt; in borat </em>. </p>
+<p>In the preterite the main verb connegative form is like the perfect participle. This means that all stem classes share the ending <span type="quote">"-n". In vowel stem verbs the past tense form of the connegative is strong grade, and there is a vowel alternation "i&gt;á"</span> and <span type="quote" xml:lang="smn">"u&gt;o"</span>. The latter alternation brings about diphthong simplification: <em type="italic">oađđit &gt; in oađđán </em>(to sleep &gt; I didn't sleep), <em type="italic">čierrut &gt; in čirron </em>(to cry &gt; I didn't cry). In contraction verbs the past tense form of the connegative is the same as that of the 1st person singular, present: <em type="italic">čohkkát &gt; in čohkkán </em>(to sit &gt; I didn't sit), <em type="italic">duddjot &gt; in duddjon </em>(to do handcraft &gt; I wasn't doing handcraft). Consonant stem verbs take the ending <span type="quote">"-an"</span>: <em type="italic">gávppašit &gt; in gávppašan </em>(to go shopping &gt; I didn't go shopping), <em type="italic">boradit &gt; in boradan </em>(to eat &gt; I didn't eat). The past tense connegative form of the verb <span type="quote" xml:lang="sme">"leat"</span> is <span type="quote" xml:lang="sme">"lean"</span>: <em type="italic">Mun in 'lean' doppe </em>. (I wasn't there). </p>
+<p><em type="italic">NEGATION in the present and preterite </em></p>
+<p xml:lang="deu">Pers.</p>
+<p><em type="italic">verb of negation </em></p>
+<p><em type="italic">present </em></p>
+<p xml:lang="ron"><em type="italic">preterite </em></p>
+<p xml:lang="smn">mun</p>
+<p><em type="italic">in </em></p>
+<p xml:lang="sme"><em type="italic">in boađe </em></p>
+<p xml:lang="sme"><em type="italic">in muital </em></p>
+<p xml:lang="sme"><em type="italic">in boahtán </em></p>
+<p xml:lang="sme"><em type="italic">in muitalan </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="kal"><em type="italic">it </em></p>
+<p xml:lang="sme"><em type="italic">it boađe </em></p>
+<p xml:lang="sme"><em type="italic">it muital </em></p>
+<p xml:lang="sme"><em type="italic">it boahtán </em></p>
+<p xml:lang="sme"><em type="italic">it muitalan </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="sme"><em type="italic">ii </em></p>
+<p xml:lang="sme"><em type="italic">ii boađe </em></p>
+<p xml:lang="sme"><em type="italic">ii muital </em></p>
+<p xml:lang="sme"><em type="italic">ii boahtán </em></p>
+<p xml:lang="sme"><em type="italic">ii muitalan </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="sme"><em type="italic">ean </em></p>
+<p xml:lang="sme"><em type="italic">ean boađe </em></p>
+<p xml:lang="sme"><em type="italic">ean muital </em></p>
+<p xml:lang="sme"><em type="italic">ean boahtán </em></p>
+<p xml:lang="sme"><em type="italic">ean muitalan </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">eahppi </em></p>
+<p xml:lang="sme"><em type="italic">eahppi boađe </em></p>
+<p xml:lang="sme"><em type="italic">eahppi muital </em></p>
+<p xml:lang="sme"><em type="italic">eahppi boahtán </em></p>
+<p xml:lang="sme"><em type="italic">eahppi muitalan </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">eaba </em></p>
+<p xml:lang="sme"><em type="italic">eaba boađe </em></p>
+<p xml:lang="sme"><em type="italic">eaba muital </em></p>
+<p xml:lang="sme"><em type="italic">eaba boahtán </em></p>
+<p xml:lang="sme"><em type="italic">eaba muitalan </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">eat </em></p>
+<p xml:lang="sme"><em type="italic">eat boađe </em></p>
+<p xml:lang="sme"><em type="italic">eat muital </em></p>
+<p xml:lang="sme"><em type="italic">eat boahtán </em></p>
+<p xml:lang="sme"><em type="italic">eat muitalan </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">ehpet </em></p>
+<p xml:lang="sme"><em type="italic">ehpet boađe </em></p>
+<p xml:lang="sme"><em type="italic">ehpet muital </em></p>
+<p xml:lang="sme"><em type="italic">ehpet boahtán </em></p>
+<p xml:lang="sme"><em type="italic">ehpet muitalan </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sme"><em type="italic">eai </em></p>
+<p xml:lang="sme"><em type="italic">eai boađe </em></p>
+<p xml:lang="sme"><em type="italic">eai muital </em></p>
+<p xml:lang="sme"><em type="italic">eai boahtán </em></p>
+<p xml:lang="sme"><em type="italic">eai muitalan </em></p>
+<p>Examples of usage:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Máret ii boađe ruoktot. </em>(Máret is not coming home.) </p>
+<p type="listitem"><em type="italic">Mun in diehtán maidege. </em>(I didn't know anything.), <em type="italic">Sii eai ása dieppe. </em>(They [pl.] don't live there.) </p>
+<p type="listitem" xml:lang="sme"><em type="italic">Moai ean juhkan gáfe. </em>(We [du.] didn't drink coffee.) </p>
+</list><p>In negative <span type="quote">"have"</span> sentences, the verb of negation only has two possible forms. In the singular <span type="quote">"ii" is used, and in the plural we use "eai"</span>. The verb is never inflected for dual. It is important to remember that in the <span type="quote">"have"</span> construction the verb should not be inflected to agree with the one who has or does not have. Here are some examples:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Eatnis ii leat biila </em>. </p>
+<p type="listitem">(Mom doesn't have a car).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Munnos eai leat mánát </em>. </p>
+<p type="listitem">(We [du.] have no children).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Dus eai leat guokte vielja </em>. </p>
+<p type="listitem">(You [sg.] don't have two brothers).</p>
+</list><p xml:lang="swe"></p>
+<p type="title">The Negative Imperative (Prohibitive)</p>
+<p>The verb of negation also has a correlating imperative form, i.e. a command form. In the 2nd person singular, it is <span type="quote" xml:lang="ron">"ale"</span>. The Imperative form is also inflected for person and number, and it is followed by the main verb in the present connegative.</p>
+<p><em type="italic">The NEGATIVE imperative </em></p>
+<p xml:lang="deu">Pers.</p>
+<p><em type="italic">verb of negation </em></p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="fin"><em type="italic">allon </em></p>
+<p xml:lang="sme"><em type="italic">allon boađe </em></p>
+<p xml:lang="sme"><em type="italic">allon muital </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="ron"><em type="italic">ale </em></p>
+<p xml:lang="sme"><em type="italic">ale boađe </em></p>
+<p xml:lang="ron"><em type="italic">ale muital </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="fin"><em type="italic">allos </em></p>
+<p xml:lang="sme"><em type="italic">allos boađe </em></p>
+<p xml:lang="sme"><em type="italic">allos muital </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="kal"><em type="italic">allu </em></p>
+<p xml:lang="sme"><em type="italic">allu boađe </em></p>
+<p xml:lang="sme"><em type="italic">allu muital </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="fin"><em type="italic">alli </em></p>
+<p xml:lang="sme"><em type="italic">alli boađe </em></p>
+<p xml:lang="sme"><em type="italic">alli muital </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="fin"><em type="italic">alloska </em></p>
+<p xml:lang="sme"><em type="italic">alloska boađe </em></p>
+<p xml:lang="sme"><em type="italic">alloska muital </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="krl"><em type="italic">allot </em></p>
+<p xml:lang="sme"><em type="italic">allot boađe </em></p>
+<p xml:lang="sme"><em type="italic">allot muital </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="fin"><em type="italic">allet </em></p>
+<p xml:lang="sme"><em type="italic">allet boađe </em></p>
+<p xml:lang="sme"><em type="italic">allet muital </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="fin"><em type="italic">alloset </em></p>
+<p xml:lang="sme"><em type="italic">alloset boađe </em></p>
+<p xml:lang="sme"><em type="italic">alloset muital </em></p>
+<p>Examples of usage:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Allu šat riidal! </em>(Let's [du.] not quarrel anymore!) </p>
+<p type="listitem"><em type="italic">Allet dájo! </em>(Don't [pl.] be crazy!), <em type="italic">Ale mana vuos! </em>(Don't [sg.] go yet!) </p>
+<p type="listitem"><em type="italic">Alloset boađe mus bearrat dan vealggi! </em>(They [pl.] shouldn't come and demand payment from me of that debt!) </p>
+</list><p xml:lang="swe"></p>
+<p type="title">The Perfect</p>
+<p>The perfect consists of the auxiliary verb <span type="quote" xml:lang="sme">"leat"</span> in the present and the main verb in the past participle: - <span type="quote" xml:lang="sme">"lean boahtán"</span> (I have come), <span type="quote" xml:lang="sme">"leahppi boradan"</span> (you [du.] have eaten), <span type="quote" xml:lang="sme">"letne čorgen"</span> (we [du.] have tidied up).</p>
+<p>The perfect is used to indicate that an event or action has been completed. It is the helping verb that is inflected for person and number. The past participle of the main verb is not inflected.</p>
+<p>The past participle of vowel stem verbs is strong-grade and has an ending in <span type="quote">"-n". In "-it"</span> verbs and <span type="quote" xml:lang="kal">"-ut"</span> verbs, we have vowel alternation <span type="quote" xml:lang="isl">"i&gt;á"</span> and <span type="quote" xml:lang="smn">"u&gt;o"</span> in the second syllable. The alternation <span type="quote" xml:lang="smn">"u&gt;o"</span> causes diphthong simplification in the stem. Here are some examples:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Iŋgá lea 'gorron' gávtti </em>. </p>
+<p type="listitem" xml:lang="sme">(Iŋgá has 'sewn' a gákti).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Moai letne juo 'boahtán' </em>. </p>
+<p type="listitem">(We [du.] have already 'come').</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun lean 'dadjan' dan maid áiggun </em>. </p>
+<p type="listitem">(I have 'said' what I intended to).</p>
+</list><p>The past participle of consonant stem verbs has the ending <span type="quote">"-n". The vowel in the third syllable is "-a-"</span>. The past participle of <span type="quote" xml:lang="sme">"leat"</span> 'to be' is <span type="quote" xml:lang="sme">"leamaš"</span>. Here are some examples:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'veahkehan' ránnjáid </em>. </p>
+<p type="listitem">(We [pl.] have 'helped' the neighbors).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ánte ja Sárá leaba 'náitalan' </em>. </p>
+<p type="listitem">(Ánte and Sárá have gotten married).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Moai letne 'leamaš' Suomas </em>. </p>
+<p type="listitem">(We [du.] have been in Finland).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Lehpet go 'boradan' </em>? </p>
+<p type="listitem">(Have you [pl.] 'eaten')?</p>
+</list><p>The past participle of contraction verbs has endings in "-n". There is no alternation in the stem. Here are some examples:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Doai leahppi 'čorgen' lanja </em>. </p>
+<p type="listitem">(You [du.] have tidied up the room).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'duddjon' gievkkanis </em>. </p>
+<p type="listitem">(We [pl.] have 'done handcraft' in the kitchen).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ásllat lea 'ollen' ruoktot </em>. </p>
+<p type="listitem">(Ásllat has 'reached' home).</p>
+</list><p>The negative perfect construction consists of three verbs: there is the verb of negation, the connegative form of the verb <span type="quote" xml:lang="sme">"leat"</span> and the past participle of the main verb. The connegative present form of the verb <span type="quote" xml:lang="sme">"leat"</span> is <span type="quote" xml:lang="sme">"leat"</span>. In the negative perfect only the verb of negation is inflected for person and number. Here are some examples:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Doai eahppi leat 'gávdnan' buot </em>. </p>
+<p type="listitem">(You [du.] have not 'found' everything).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mii eat leat 'boradan' gievkkanis </em>. </p>
+<p type="listitem">(We [pl.] have not 'eaten' in the kitchen).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Issát ii leat 'leamaš' Romssas </em>. </p>
+<p type="listitem">(Issát has not 'been' to Tromsoe).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Don it leat 'njuiken' guhkás </em>. </p>
+<p type="listitem">(You [sg.] have not 'jumped' far).</p>
+</list><p>The past participle in <span type="quote">"have"</span> constructions consists of two verbs with the verb <span type="quote" xml:lang="sme">"leat"</span> inflected in the present tense and followed by the participle form <span type="quote" xml:lang="sme">"leamaš"</span>. Remember that the one who has something should be marked with the locative case, and what they have should be marked with nominative. In negative sentences it is the verb of negation that is inflected for person and number. Here are some examples:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Mus lea 'leamaš' nuorvu golbma beaivvi </em>. </p>
+<p type="listitem">(I have 'had' a cold for three days).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Sudnos lea 'leamaš' lihkku </em>. </p>
+<p type="listitem">(They [du.] have 'had' luck).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mis ii leat 'leamaš' veahkki </em>. </p>
+<p type="listitem">(We [pl.] have not 'had' help).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Čeazis ii leat 'leamaš' bargu dán jagi </em>. </p>
+<p type="listitem">(My uncle has not 'had' work this year).</p>
+</list><p xml:lang="swe"></p>
+<p type="title">The Actio Essive</p>
+<p>The actio essive construction consists of the helping verb <span type="quote" xml:lang="sme">"leat"</span> and the main verb in the actio essive form: <span type="quote" xml:lang="sme">"lean boahtime"</span> (I'm on my way), <span type="quote" xml:lang="sme">"leahppi boradeame"</span> (You [du.] are in the process of eating), <span type="quote" xml:lang="sme">"letne čorgeme"</span> (we [du.] are in the process of tidying up).</p>
+<p>The actio essive is used to express that the action or event are ongoing or not completed. It is the helping verb that is inflected for person and number. The main verb does not vary in form.</p>
+<p>The actio essive of vowel stem verbs is strong grade and takes the ending <span type="quote" xml:lang="nno">"-me"</span> or <span type="quote" xml:lang="fin">"-min"</span>. There is no vowel alternation in the stem. Here are some examples:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Iŋgá lea 'goarrume' gávtti </em>. </p>
+<p type="listitem">(Iŋgá is 'in the midst of sewing' a gákti).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Moai letne 'čállime' reivve </em>. </p>
+<p type="listitem">(We [du.] are 'in the midst of writing' a letter).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Soai leaba 'bassame' biktasiid </em>. </p>
+<p type="listitem">(They [du.] are 'in the midst of washing' clothes).</p>
+</list><p>The actio essive of consonant stem verbs takes the ending <span type="quote" xml:lang="nno">"-me"</span> or <span type="quote" xml:lang="dan">"-men"</span>. The vowel in the third syllable is <span type="quote" xml:lang="sme">"-ea-"</span>. Here are some examples:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'veahkeheame' ránnjáid </em>. </p>
+<p type="listitem">(We [pl.] are helping the neighbors).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ánte ja Sárá leaba 'boradeame' </em>. </p>
+<p type="listitem">(Ánte and Sárá are eating).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Lehpet go dii 'ráhkadeame' hilduid </em>? </p>
+<p type="listitem">(Are you [pl.] making some shelves)?</p>
+</list><p>The actio essive of the contraction verb takes the endings <span type="quote" xml:lang="nno">"-me"</span> or <span type="quote" xml:lang="fin">"-min"</span>. Apart from that, there is no alternation in the stem. Here are some examples:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Doai leahppi 'ivdneme' gova </em>. </p>
+<p type="listitem">(You [du.] are coloring a picture).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mii leat 'duddjome' gievkkanis </em>. </p>
+<p type="listitem">(We [pl.] are doing handcrafts in the kitchen).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Ásllat lea ain 'gaifáme' dan niidii </em>. </p>
+<p type="listitem">(Ásllat is still gazing at that girl).</p>
+</list><p>The actio essive of the verb <span type="quote" xml:lang="sme">"leat"</span> is <span type="quote" xml:lang="sme">"leame"</span> or <span type="quote" xml:lang="sme">"leamen"</span>. This form is most common with the verbs <span type="quote" xml:lang="sme">"orrut"</span> 'to seem to' and <span type="quote" xml:lang="nob">"fertet"</span> 'must'. Other verbs can also appear in the actio essive in combination with <span type="quote" xml:lang="sme">"orrut"</span>.</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Máret orui 'leame' suhtus </em>. </p>
+<p type="listitem">(Máret seems to be angry).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Don orut 'diehtime' juoidá </em>. </p>
+<p type="listitem">(You [sg.] seem to know something).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Son ferte 'leame' juhkamin, go nie hoavrrista </em>. </p>
+<p type="listitem">(He must 'be' drinking since he's talking nonsense like that).</p>
+</list><p>The actio essive can also be used in combination with verbs of motion, e.g., the verbs <span type="quote" xml:lang="kal">"mannat"</span> 'to go' and <span type="quote" xml:lang="smj">"viehkat"</span> 'to run'. Here are some examples:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Mun manan 'jearrame' sus </em>. </p>
+<p type="listitem">(I'll go and ask him/her).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Moai vihke 'geahččame' mii dat boŋká </em>. </p>
+<p type="listitem">(We'll [du.] run and see what's making that banging sound).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Issat finai ruovttus 'viežžame' ruđa </em>. </p>
+<p type="listitem">(Issat went home to get some money).</p>
+</list><p xml:lang="swe"></p>
+<p type="title">The Conditional</p>
+<p>This is the form of the verb used to express a condition or stipulation for an event/action or when speaking hypothetically. The conditional is also used to express modest requests or to be polite.</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Ii ábut vaikko politiijat 'boađášedje'. </em></p>
+<p type="listitem">(There's nothing to be done, even if the police 'were to come'.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Mávssášin', jus 'gáibidivččet'. </em></p>
+<p type="listitem">(I 'would pay' if you [sg.] 'were to demand' it.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Livččen' ovdal boahtán, muhto ii lean dilli. </em></p>
+<p type="listitem">(I 'would have' come earlier but I didn't have the time.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mun 'háliidivččen' hupmat duinna. </em></p>
+<p type="listitem">(I 'would like' to speak with you [sg.].)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Dajašin' ahte don diekko dahket boastut. </em></p>
+<p type="listitem">(I 'would say' you made a mistake there.)</p>
+</list><p>Vowel stem verbs take the consonant <span type="quote" xml:lang="smn">"-š-"</span> and are then inflected like consonant stem verbs in the preterite. Note that the stem is weak-grade in the conditional:</p>
+<p><em type="italic">VOWEL STEM VERBS - conditional </em></p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="smj"><em type="italic">viehkat </em></p>
+<p>'to run'</p>
+<p xml:lang="deu"><em type="italic">diehtit </em></p>
+<p>'to know'</p>
+<p xml:lang="sme"><em type="italic">goarrut </em></p>
+<p>'to sew'</p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="sme"><em type="italic">viegašin </em></p>
+<p xml:lang="sme"><em type="italic">dieđášin </em></p>
+<p xml:lang="sme"><em type="italic">gorošin </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="sme"><em type="italic">viegašit </em></p>
+<p xml:lang="sme"><em type="italic">dieđášit </em></p>
+<p xml:lang="sme"><em type="italic">gorošit </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="sme"><em type="italic">viegašii </em></p>
+<p xml:lang="sme"><em type="italic">dieđášii </em></p>
+<p xml:lang="sme"><em type="italic">gorošii </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="sma"><em type="italic">viegašeimme </em></p>
+<p xml:lang="deu"><em type="italic">dieđášeimme </em></p>
+<p xml:lang="sma"><em type="italic">gorošeimme </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">viegašeidde </em></p>
+<p xml:lang="sme"><em type="italic">dieđášeidde </em></p>
+<p xml:lang="sme"><em type="italic">gorošeidde </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">viegašeigga </em></p>
+<p xml:lang="sme"><em type="italic">dieđášeigga </em></p>
+<p xml:lang="sme"><em type="italic">gorošeigga </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">viegašeimmet </em></p>
+<p xml:lang="deu"><em type="italic">dieđášeimmet </em></p>
+<p xml:lang="sme"><em type="italic">gorošeimmet </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">viegašeiddet </em></p>
+<p xml:lang="sme"><em type="italic">dieđášeiddet </em></p>
+<p xml:lang="sme"><em type="italic">gorošeiddet </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sme"><em type="italic">viegašedje </em></p>
+<p xml:lang="sme"><em type="italic">dieđášedje </em></p>
+<p xml:lang="sme"><em type="italic">gorošedje </em></p>
+<p>Consonant stem verbs take <span type="quote" xml:lang="smn">"-ivčč-"</span> and are inflected like vowel stem verbs in the preterite:</p>
+<p><em type="italic">CONSONANT STEM VERBS - conditional </em></p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="sme"><em type="italic">muitalit </em></p>
+<p xml:lang="sme"><em type="italic">leat </em></p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="smn"><em type="italic">muitalivččen </em></p>
+<p xml:lang="smn"><em type="italic">livččen </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="smn"><em type="italic">muitalivččet </em></p>
+<p xml:lang="sme"><em type="italic">livččet </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="smn"><em type="italic">muitalivččii </em></p>
+<p xml:lang="smn"><em type="italic">livččii </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="smn"><em type="italic">muitalivččiime </em></p>
+<p xml:lang="smn"><em type="italic">livččiime </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">muitalivččiide </em></p>
+<p xml:lang="sme"><em type="italic">livččiide </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">muitalivččiiga </em></p>
+<p xml:lang="sme"><em type="italic">livččiiga </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="smn"><em type="italic">muitalivččiimet </em></p>
+<p xml:lang="sme"><em type="italic">livččiimet </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">muitalivččiidet </em></p>
+<p xml:lang="sme"><em type="italic">livččiidet </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="smn"><em type="italic">muitalivčče </em></p>
+<p xml:lang="sme"><em type="italic">livčče </em></p>
+<p>Contraction verbs take the consonant <span type="quote" xml:lang="smn">"-š-"</span> and are inflected like consonant stem verbs in the preterite:</p>
+<p><em type="italic">CONTRACTION VERBS - conditional </em></p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="sme"><em type="italic">čohkkát </em></p>
+<p>'to sit'</p>
+<p xml:lang="sme"><em type="italic">fárret </em></p>
+<p>'to move'</p>
+<p xml:lang="sme"><em type="italic">diŋgot </em></p>
+<p>'to order'</p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="sme"><em type="italic">čohkkášin </em></p>
+<p xml:lang="sme"><em type="italic">fárrešin </em></p>
+<p xml:lang="sme"><em type="italic">diŋgošin </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="sme"><em type="italic">čohkkášit </em></p>
+<p xml:lang="sme"><em type="italic">fárrešit </em></p>
+<p xml:lang="sme"><em type="italic">diŋgošit </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="sme"><em type="italic">čohkkášii </em></p>
+<p xml:lang="sme"><em type="italic">fárrešii </em></p>
+<p xml:lang="sme"><em type="italic">diŋgošii </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="sme"><em type="italic">čohkkášeimme </em></p>
+<p xml:lang="sme"><em type="italic">fárrešeimme </em></p>
+<p xml:lang="sma"><em type="italic">diŋgošeimme </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">čohkkášeidde </em></p>
+<p xml:lang="sme"><em type="italic">fárrešeidde </em></p>
+<p xml:lang="sme"><em type="italic">diŋgošeidde </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">čohkkášeigga </em></p>
+<p xml:lang="sme"><em type="italic">fárrešeigga </em></p>
+<p xml:lang="sme"><em type="italic">diŋgošeigga </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">čohkkášeimmet </em></p>
+<p xml:lang="sme"><em type="italic">fárrešeimmet </em></p>
+<p xml:lang="sme"><em type="italic">diŋgošeimmet </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">čohkkášeiddet </em></p>
+<p xml:lang="sme"><em type="italic">fárrešeiddet </em></p>
+<p xml:lang="sme"><em type="italic">diŋgošeiddet </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sme"><em type="italic">čohkkášedje </em></p>
+<p xml:lang="sme"><em type="italic">fárrešedje </em></p>
+<p xml:lang="sme"><em type="italic">diŋgošedje </em></p>
+<p>The negative conditional construction consists of two verbs: the verb of negation and the connegative form of main verb. The connegative form of the contraction verb and the vowel stem verb ends in <span type="quote" xml:lang="krl">"-še"</span>. The connegative form of consonant stem verbs, however, ends in <span type="quote" xml:lang="smn">"-ivčče"</span>. In the negative conditional construction, only the verb of negation is inflected for number and person. Here are some examples:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">Doai 'eahppi dieđáše' maidege, jus 'ii livčče' Facebook </em>. </p>
+<p type="listitem">(You [du.] 'wouldn't know' anything if it 'weren't' for Facebook).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Mii eat 'boradivčče' stobus, jus gievkkanis livččii sadji </em>. </p>
+<p type="listitem">(We [pl.] wouldn't have eaten in the living room if there had been room in the kitchen).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">In moddjáše politihkkáriidda bálkká ovddas ge </em>. </p>
+<p type="listitem">I wouldn't smile for politicians even if I were paid.</p>
+</list><p xml:lang="swe"></p>
+<p type="title">The Potential</p>
+<p>This is the verb form that expresses possibility, especially when we aren't certain:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">'Boražit' go mánát guoli? </em></p>
+<p type="listitem">(Could the children eat fish?)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">In dieđe 'bođeža' go juovlastállu. </em></p>
+<p type="listitem">(I don't know if Santa Clause 'will be able to come'.)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Bođeš' go oahpaheaddji odne? </em></p>
+<p type="listitem">(Well, is the teacher going to come today?)</p>
+<p type="listitem" xml:lang="sme"><em type="italic">Don oaččut dan čuohte ruvdnui, go juo 'válddežat'. </em></p>
+<p type="listitem">(You [sg.] will get up to 100 Krones if you 'will take' it.)</p>
+</list><p>Vowel stem verbs take <span type="quote" xml:lang="sms">"-ž-"</span> and are inflected like consonant stem verbs in the present. Note that the stem is in weak grade in the potential:</p>
+<p><em type="italic">VOWEL STEN VERBS - the potential </em></p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="smj"><em type="italic">viehkat </em></p>
+<p>'to run'</p>
+<p xml:lang="deu"><em type="italic">diehtit </em></p>
+<p>'to know'</p>
+<p xml:lang="sme"><em type="italic">goarrut </em></p>
+<p>'to sew'</p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="sme"><em type="italic">viegažan </em></p>
+<p xml:lang="sme"><em type="italic">diđežan </em></p>
+<p xml:lang="sme"><em type="italic">gorožan </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="sme"><em type="italic">viegažat </em></p>
+<p xml:lang="sme"><em type="italic">diđežat </em></p>
+<p xml:lang="sme"><em type="italic">gorožat </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="sme"><em type="italic">viegaža, viegaš </em></p>
+<p xml:lang="sme"><em type="italic">diđeža, diđeš </em></p>
+<p xml:lang="sme"><em type="italic">goroža, goroš </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="sma"><em type="italic">viegažetne </em></p>
+<p xml:lang="vep"><em type="italic">diđežetne </em></p>
+<p xml:lang="sma"><em type="italic">gorožetne </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">viegažeahppi </em></p>
+<p xml:lang="sme"><em type="italic">diđežeahppi </em></p>
+<p xml:lang="sme"><em type="italic">gorožeahppi </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">viegažeaba </em></p>
+<p xml:lang="sme"><em type="italic">diđežeaba </em></p>
+<p xml:lang="sme"><em type="italic">gorožeaba </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">viegažit, viegažat </em></p>
+<p xml:lang="sme"><em type="italic">diđežit, diđežat </em></p>
+<p xml:lang="sme"><em type="italic">gorožit, gorožat </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="smj"><em type="italic">viegažehpet </em></p>
+<p xml:lang="sme"><em type="italic">diđežehpet </em></p>
+<p xml:lang="sme"><em type="italic">gorožehpet </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sme"><em type="italic">viegažit </em></p>
+<p xml:lang="sme"><em type="italic">diđežit </em></p>
+<p xml:lang="sme"><em type="italic">gorožit </em></p>
+<p>Consonant stem verbs take <span type="quote" xml:lang="sms">"-eažž-"</span> and are inflected like vowel stem verbs in the present:</p>
+<p><em type="italic">CONSONANT STEM VERBS - the potential </em></p>
+<p>Shaded: ending in weak grade</p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="sme"><em type="italic">muitalit </em></p>
+<p>'to tell'</p>
+<p xml:lang="sme"><em type="italic">leat </em></p>
+<p>'to be'</p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="sme"><em type="italic">muitaleaččan </em></p>
+<p xml:lang="sme"><em type="italic">leaččan </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="sme"><em type="italic">muitaleaččat </em></p>
+<p xml:lang="sme"><em type="italic">leaččat </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="sme"><em type="italic">muitaleažžá, muitaleaš, muitaleš </em></p>
+<p xml:lang="sme"><em type="italic">leažžá, leaš, leš </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="vep"><em type="italic">muitaležže </em></p>
+<p xml:lang="sms"><em type="italic">ležže </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">muitaleažžabeahtti </em></p>
+<p xml:lang="sme"><em type="italic">leažžabeahtti </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">muitaleažžaba </em></p>
+<p xml:lang="sme"><em type="italic">leažžaba </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">muitaleažžat </em></p>
+<p xml:lang="sme"><em type="italic">leažžat </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">muitaleažžabehtet </em></p>
+<p xml:lang="sme"><em type="italic">leažžabehtet </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sme"><em type="italic">muitaležžet </em></p>
+<p xml:lang="sme"><em type="italic">ležžet </em></p>
+<p>Contraction verbs take the consonant <span type="quote" xml:lang="sms">"-ž-"</span> and then they are inflected like consonant stem verbs in the present:</p>
+<p><em type="italic">CONTRACTION VERBS - the potential </em></p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="sme"><em type="italic">čohkkát 'to sit' </em></p>
+<p xml:lang="sme"><em type="italic">fárret 'to move' </em></p>
+<p xml:lang="sme"><em type="italic">diŋgot 'to order' </em></p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="sme"><em type="italic">čohkkážan </em></p>
+<p xml:lang="sme"><em type="italic">fárrežan </em></p>
+<p xml:lang="sme"><em type="italic">diŋgožan </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="sme"><em type="italic">čohkkážat </em></p>
+<p xml:lang="sme"><em type="italic">fárrežat </em></p>
+<p xml:lang="sme"><em type="italic">diŋgožat </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="sme"><em type="italic">čohkkáža, čohkkáš </em></p>
+<p xml:lang="sme"><em type="italic">fárreža, fárreš </em></p>
+<p xml:lang="sme"><em type="italic">diŋgoža, diŋgoš </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="sme"><em type="italic">čohkkážetne </em></p>
+<p xml:lang="sme"><em type="italic">fárrežetne </em></p>
+<p xml:lang="vep"><em type="italic">diŋgožetne </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">čohkkážeahppi </em></p>
+<p xml:lang="sme"><em type="italic">fárrežeahppi </em></p>
+<p xml:lang="sme"><em type="italic">diŋgožeahppi </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">čohkkážeaba </em></p>
+<p xml:lang="sme"><em type="italic">fárrežeaba </em></p>
+<p xml:lang="rmf"><em type="italic">diŋgožeaba </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">čohkkážit, čohkkážat </em></p>
+<p xml:lang="sme"><em type="italic">fárrežit, fárrežat </em></p>
+<p xml:lang="sme"><em type="italic">diŋgožit, diŋgožat </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">čohkkážehpet </em></p>
+<p xml:lang="sme"><em type="italic">fárrežehpet </em></p>
+<p xml:lang="sme"><em type="italic">diŋgožehpet </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sme"><em type="italic">čohkkážit </em></p>
+<p xml:lang="sme"><em type="italic">fárrežit </em></p>
+<p xml:lang="sme"><em type="italic">diŋgožit </em></p>
+<p>Negation of the potential consists of two verbs: the verb of negation and the connegative form of the main verb. The connegative form of contraction verbs and vowel stem verbs end in <span type="quote">"-š", whereas consonant stem verbs end in either "-eačča"</span> or <span type="quote" xml:lang="smn">"-eš"</span>. In the negative potential only the verb of negation is inflected for person and number. Here are some examples:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">'Ean leačča' Romssas leamaš guhkes áigái </em>. </p>
+<p type="listitem">(Why, we [du.] have not been in Tromso for a long time).</p>
+<p type="listitem" xml:lang="sme"><em type="italic">'Ii bođeš' Máhtte jur ovddemus veahkkin </em>. </p>
+<p type="listitem">(Máhtte will not be the first one to come and help).</p>
+</list><p xml:lang="swe"></p>
+<p type="title">The Imperative</p>
+<p>The command form, e.g. <em type="italic">'Boađe' donge! </em></p>
+<p>The imperative can have various meaning:</p>
+<list><p type="listitem">in the 1st person it is used for solicitations and suggestions: <em type="italic">De vuolgut dál! </em>(Let's go now!). </p>
+<p type="listitem">in the 2nd person it is used for making solicitations, commands and prohibiting: <em type="italic">Boađe donge! </em>(Come along, you too!). </p>
+<p type="listitem">in the 3rd person it is used for making solicitations, wishes concessions: <em type="italic">'Bohtoset' vaikko odne! </em>('Let them come', today if they want to!). </p>
+</list><p><em type="italic">VOWEL STEM VERBS - imperative </em></p>
+<p>- Shaded: weak grade</p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="smj"><em type="italic">viehkat </em></p>
+<p>'to run'</p>
+<p xml:lang="deu"><em type="italic">diehtit </em></p>
+<p>'to know'</p>
+<p xml:lang="sme"><em type="italic">goarrut </em></p>
+<p>'to sew'</p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="fin"><em type="italic">vihkon </em></p>
+<p xml:lang="sme"><em type="italic">bohton </em></p>
+<p xml:lang="sme"><em type="italic">gorron </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="smj"><em type="italic">viega </em></p>
+<p xml:lang="sme"><em type="italic">boađe </em></p>
+<p xml:lang="rmf"><em type="italic">goaro </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="sma"><em type="italic">vihkos </em></p>
+<p xml:lang="sme"><em type="italic">bohtos </em></p>
+<p xml:lang="sme"><em type="italic">gorros </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="smj"><em type="italic">viehkku </em></p>
+<p xml:lang="sme"><em type="italic">boahttu </em></p>
+<p xml:lang="sme"><em type="italic">goarru </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sma"><em type="italic">viehkki </em></p>
+<p xml:lang="sme"><em type="italic">boahtti </em></p>
+<p xml:lang="sme"><em type="italic">goarru </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="swe"><em type="italic">vihkoska </em></p>
+<p xml:lang="sme"><em type="italic">bohtoska </em></p>
+<p xml:lang="sme"><em type="italic">gorroska </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="krl"><em type="italic">vihkot </em></p>
+<p xml:lang="sme"><em type="italic">bohtot </em></p>
+<p xml:lang="sme"><em type="italic">gorrot </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">vihket </em></p>
+<p xml:lang="sme"><em type="italic">bohtet </em></p>
+<p xml:lang="sme"><em type="italic">gorrot </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="krl"><em type="italic">vihkoset </em></p>
+<p xml:lang="sme"><em type="italic">bohtoset </em></p>
+<p xml:lang="sme"><em type="italic">gorroset </em></p>
+<p>Note that there is extra strong grade in the 1st and 2nd persons dual forms. This means that the verb alternates in three grades: a single consonant in the weak grade; a double consonant or consonant cluster in the strong grade, and a double consonant or consonant cluster in the extra strong grade. This is best illustrated with the combinations in "h": <em type="italic">Viega ruoktot! Vihket ruoktot. Viehkku ruoktot </em>. </p>
+<p>There is also diphthong simplification in the 1st and 3rd persons singular, 3rd person dual, and all persons plural. Here are some examples: <em type="italic">Vihkos ruoktot! Vihket ruoktot. Vihkot ruoktot </em>. </p>
+<p><em type="italic">CONSONANT STEM VERBS - imperative </em></p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="sme"><em type="italic">muitalit </em></p>
+<p>'to tell'</p>
+<p xml:lang="sme"><em type="italic">leat </em></p>
+<p>'to be'</p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="fin"><em type="italic">muitalehkon </em></p>
+<p xml:lang="sme"><em type="italic">lehkon </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="sme"><em type="italic">muital </em></p>
+<p xml:lang="sme"><em type="italic">leage </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="smn"><em type="italic">muitalehkos </em></p>
+<p xml:lang="sme"><em type="italic">lehkos </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="sme"><em type="italic">muitaleadnu </em></p>
+<p xml:lang="sme"><em type="italic">leadnu, leahkku </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">muitaleahkki </em></p>
+<p xml:lang="sme"><em type="italic">leahkki </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="fin"><em type="italic">muitalehkoska </em></p>
+<p xml:lang="sma"><em type="italic">lehkoska </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">muitalehkot, muitaleatnot </em></p>
+<p xml:lang="sme"><em type="italic">lehkot, leatnot </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">muitalehket </em></p>
+<p xml:lang="sma"><em type="italic">lehket </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="fin"><em type="italic">muitalehkoset </em></p>
+<p xml:lang="sme"><em type="italic">lehkoset </em></p>
+<p><em type="italic">CONTRACTION VERBS - imperative </em></p>
+<p xml:lang="deu">Person</p>
+<p xml:lang="sme"><em type="italic">čohkkát </em></p>
+<p>'to sit'</p>
+<p xml:lang="sme"><em type="italic">fárret </em></p>
+<p>'to move'</p>
+<p xml:lang="sme"><em type="italic">diŋgot </em></p>
+<p>'to order'</p>
+<p xml:lang="smn">mun</p>
+<p xml:lang="sme"><em type="italic">čohkkájehkon </em></p>
+<p xml:lang="sme"><em type="italic">fárrejehkon </em></p>
+<p xml:lang="smj"><em type="italic">diŋgojehkon </em></p>
+<p xml:lang="sme">don</p>
+<p xml:lang="sme"><em type="italic">čohkká </em></p>
+<p xml:lang="sme"><em type="italic">fárre </em></p>
+<p xml:lang="smj"><em type="italic">diŋgo </em></p>
+<p xml:lang="nno">son</p>
+<p xml:lang="sme"><em type="italic">čohkkájehkos </em></p>
+<p xml:lang="sma"><em type="italic">fárrejehkos </em></p>
+<p xml:lang="smj"><em type="italic">diŋgojehkos </em></p>
+<p xml:lang="sme">moai</p>
+<p xml:lang="sme"><em type="italic">čohkkájeadnu, čohkkájeahkku </em></p>
+<p xml:lang="sme"><em type="italic">fárrejeadnu, fárrejeahkku </em></p>
+<p xml:lang="sme"><em type="italic">diŋgojeadnu, diŋgojeahkku </em></p>
+<p xml:lang="sme">doai</p>
+<p xml:lang="sme"><em type="italic">čohkkájeahkki </em></p>
+<p xml:lang="sme"><em type="italic">fárrejeahkki </em></p>
+<p xml:lang="sme"><em type="italic">diŋgojeahkki </em></p>
+<p xml:lang="sme">soai</p>
+<p xml:lang="sme"><em type="italic">čohkkájehkoska </em></p>
+<p xml:lang="rmf"><em type="italic">fárrejehkoska </em></p>
+<p xml:lang="rmf"><em type="italic">diŋgojehkoska </em></p>
+<p xml:lang="sme">mii</p>
+<p xml:lang="sme"><em type="italic">čohkkájednot, čohkkájehkot, čohkkájeahkkot </em></p>
+<p xml:lang="sme"><em type="italic">fárrejednot, fárrejehkot, fárrejeahkkot </em></p>
+<p xml:lang="sme"><em type="italic">diŋgojednot, diŋgojehkot, diŋgojeahkkot </em></p>
+<p xml:lang="sme">dii</p>
+<p xml:lang="sme"><em type="italic">čohkkájehket </em></p>
+<p xml:lang="sme"><em type="italic">fárrejehket </em></p>
+<p xml:lang="smj"><em type="italic">diŋgojehket </em></p>
+<p xml:lang="smn">sii</p>
+<p xml:lang="sme"><em type="italic">čohkkájehkoset </em></p>
+<p xml:lang="sme"><em type="italic">fárrejehkoset </em></p>
+<p xml:lang="smj"><em type="italic">diŋgojehkoset </em></p>
+</body></document>

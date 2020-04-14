@@ -1,33 +1,9 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Duty to Defend Finland - 
+<document xml:lang="eng" id="no_id"><header><title>Duty to Defend Finland - 
 	Oikeusministeriö - Oikeusministeriö
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>58</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.oikeusministerio.fi/en/index/publications/esitteet/perustuslaki/jokainenonvelvollinenpuolustamaansuomea.html</origFileName>
-    <parallel_text xml:lang="fin" location="jokainenonvelvollinenpuolustamaansuomea.html"/>
-    <parallel_text xml:lang="sme" location="juohkehaccasleageatnegasvuohtabealustitsuoma.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Constitution</p>
-    <p type="title">Duty to Defend Finland</p>
-    <p xml:lang="deu">CHAPTER 12</p>
-    <p>Every Finn is obliged to defend Finland in time of need. The President is the Commander-in-chief of the armed forces and appoints the officers.</p>
-    <p>On a proposal of the Government the President decides on the mobilisation of the armed forces, and with the consent of the Parliament on war and peace.</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2016</year><wordcount>58</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.oikeusministerio.fi/en/index/publications/esitteet/perustuslaki/jokainenonvelvollinenpuolustamaansuomea.html</origFileName><parallel_text xml:lang="fin" location="jokainenonvelvollinenpuolustamaansuomea.html"/><parallel_text xml:lang="sme" location="juohkehaccasleageatnegasvuohtabealustitsuoma.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Constitution</p>
+<p type="title">Duty to Defend Finland</p>
+<p xml:lang="deu">CHAPTER 12</p>
+<p>Every Finn is obliged to defend Finland in time of need. The President is the Commander-in-chief of the armed forces and appoints the officers.</p>
+<p>On a proposal of the Government the President decides on the mobilisation of the armed forces, and with the consent of the Parliament on war and peace.</p>
+</body></document>

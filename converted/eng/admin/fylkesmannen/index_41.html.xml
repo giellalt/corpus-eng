@@ -1,98 +1,63 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>372</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/en/Climate-and-the-environment/Water-resources/</origFileName>
-    <parallel_text xml:lang="nob" location="index_41.html"/>
-    <parallel_text xml:lang="sma" location="index_41.html"/>
-    <parallel_text xml:lang="sme" location="index_41.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Water resources - County Governor - Fylkesmannen.no</p>
-    <p>Jump to content</p>
-    <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Sound version</p>
-      <p type="listitem">High contrast</p>
-      <p type="listitem" xml:lang="nno"></p>
-      <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="dan">Miljø og klima</p>
-    <list>
-      <p type="listitem">People and society</p>
-      <p type="listitem">Nursery schools and education</p>
-      <p type="listitem">Children and parents</p>
-      <p type="listitem">Health, care and social services</p>
-    </list>
-    <list>
-      <p type="listitem">Agriculture and food</p>
-      <p type="listitem">Municipal administration</p>
-      <p type="listitem">Planning and building</p>
-      <p type="listitem">Civil protection</p>
-    </list>
-    <p xml:lang="nob">County Governor</p>
-    <p>Climate and the environment</p>
-    <p>Water resources</p>
-    <list>
-      <p type="listitem" xml:lang="ron">Climate</p>
-      <p type="listitem">Fish farming</p>
-      <p type="listitem">Large predators</p>
-      <p type="listitem">Natural diversity</p>
-      <p type="listitem">Offroad motor traffic</p>
-      <p type="listitem">Outdoor recreation</p>
-      <p type="listitem">Pollution</p>
-      <p type="listitem">Protected areas</p>
-      <p type="listitem">The freshwater fish administration</p>
-      <p type="listitem">Waste and recycling</p>
-      <p type="listitem">Water resources</p>
-    </list>
-    <p type="title">Water resources</p>
-    <p xml:lang="est">Published 10/14/2012 Updated 4/4/2017</p>
-    <p>Water is a vital resource for everyone. We have a great deal of clean water in Norway, but not all water is of equally good quality.</p>
-    <p>The most important causes of poor water quality are:</p>
-    <list>
-      <p type="listitem">pollution such as acid rain, eutrophication and the spread of environmental contaminants</p>
-      <p type="listitem">physical changes such as watercourse regulation, the building of obstacles such as roads and railways, and trench work and other activities which direct the water flow into channels</p>
-      <p type="listitem">biological influences such as non-native fish species, escaped fish from fish farms and salmon lice</p>
-    </list>
-    <p type="title">Co-operation to manage water resources</p>
-    <p>Water flows wherever it chooses. Most water sources stretch across several municipalities or counties, and some of these are shared with our neighbouring nations. For this reason, water resources must be managed in co-operation with local, regional and central government authorities. In this, we must also work with our neighbours, Sweden, Finland and Russia.</p>
-    <p>Norway can be split into 11 water regions. One county authority in each region has been nominated as the regional water authority.</p>
-    <p type="title">The County Governor’s responsibilities:</p>
-    <p>The Ministry of Climate and Environment is the authority responsible for the implementation of the EU’s Water Framework Directive. The County Governor is the ministry’s representative at regional level, and must:</p>
-    <list>
-      <p type="listitem">collect data about the status of water resources and assess their environmental status</p>
-      <p type="listitem">monitor and identify problems</p>
-      <p type="listitem">act as an environmental advisor to other authorities involved in water management</p>
-    </list>
-    <p>Our water is affected in many different ways. Our need for clean water now and in the future must be borne into consideration in assessments relating to all spheres of activity.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title" xml:lang="est">Links</p>
-    <list>
-      <p type="listitem" xml:lang="vep">Vannressursloven</p>
-      <p type="listitem" xml:lang="nob">Vannforskriften</p>
-      <p type="listitem" xml:lang="vep">Vannportalen</p>
-      <p type="listitem" xml:lang="nob">Miljøstatus: ferskvann</p>
-      <p type="listitem" xml:lang="nob">Miljøstatus: hav og kyst</p>
-      <p type="listitem" xml:lang="nno">Vann-Nett</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>372</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/Climate-and-the-environment/Water-resources/</origFileName><parallel_text xml:lang="nob" location="index_41.html"/><parallel_text xml:lang="sma" location="index_41.html"/><parallel_text xml:lang="sme" location="index_41.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Water resources - County Governor - Fylkesmannen.no</p>
+<p>Jump to content</p>
+<p xml:lang="nno">County Governor - Fylkesmannen.no</p>
+<list><p type="listitem">Sound version</p>
+<p type="listitem">High contrast</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="dan">Miljø og klima</p>
+<list><p type="listitem">People and society</p>
+<p type="listitem">Nursery schools and education</p>
+<p type="listitem">Children and parents</p>
+<p type="listitem">Health, care and social services</p>
+</list><list><p type="listitem">Agriculture and food</p>
+<p type="listitem">Municipal administration</p>
+<p type="listitem">Planning and building</p>
+<p type="listitem">Civil protection</p>
+</list><p xml:lang="nob">County Governor</p>
+<p>Climate and the environment</p>
+<p>Water resources</p>
+<list><p type="listitem" xml:lang="ron">Climate</p>
+<p type="listitem">Fish farming</p>
+<p type="listitem">Large predators</p>
+<p type="listitem">Natural diversity</p>
+<p type="listitem">Offroad motor traffic</p>
+<p type="listitem">Outdoor recreation</p>
+<p type="listitem">Pollution</p>
+<p type="listitem">Protected areas</p>
+<p type="listitem">The freshwater fish administration</p>
+<p type="listitem">Waste and recycling</p>
+<p type="listitem">Water resources</p>
+</list><p type="title">Water resources</p>
+<p xml:lang="est">Published 10/14/2012 Updated 4/4/2017</p>
+<p>Water is a vital resource for everyone. We have a great deal of clean water in Norway, but not all water is of equally good quality.</p>
+<p>The most important causes of poor water quality are:</p>
+<list><p type="listitem">pollution such as acid rain, eutrophication and the spread of environmental contaminants</p>
+<p type="listitem">physical changes such as watercourse regulation, the building of obstacles such as roads and railways, and trench work and other activities which direct the water flow into channels</p>
+<p type="listitem">biological influences such as non-native fish species, escaped fish from fish farms and salmon lice</p>
+</list><p type="title">Co-operation to manage water resources</p>
+<p>Water flows wherever it chooses. Most water sources stretch across several municipalities or counties, and some of these are shared with our neighbouring nations. For this reason, water resources must be managed in co-operation with local, regional and central government authorities. In this, we must also work with our neighbours, Sweden, Finland and Russia.</p>
+<p>Norway can be split into 11 water regions. One county authority in each region has been nominated as the regional water authority.</p>
+<p type="title">The County Governor’s responsibilities:</p>
+<p>The Ministry of Climate and Environment is the authority responsible for the implementation of the EU’s Water Framework Directive. The County Governor is the ministry’s representative at regional level, and must:</p>
+<list><p type="listitem">collect data about the status of water resources and assess their environmental status</p>
+<p type="listitem">monitor and identify problems</p>
+<p type="listitem">act as an environmental advisor to other authorities involved in water management</p>
+</list><p>Our water is affected in many different ways. Our need for clean water now and in the future must be borne into consideration in assessments relating to all spheres of activity.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="est">Links</p>
+<list><p type="listitem" xml:lang="vep">Vannressursloven</p>
+<p type="listitem" xml:lang="nob">Vannforskriften</p>
+<p type="listitem" xml:lang="kal">Vannportalen</p>
+<p type="listitem" xml:lang="nob">Miljøstatus: ferskvann</p>
+<p type="listitem" xml:lang="nob">Miljøstatus: hav og kyst</p>
+<p type="listitem" xml:lang="nno">Vann-Nett</p>
+</list></body></document>

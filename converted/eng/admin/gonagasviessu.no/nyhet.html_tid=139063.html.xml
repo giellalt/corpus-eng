@@ -1,63 +1,35 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Promoting culture in Toronto  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>841</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=139063</origFileName>
-    <parallel_text xml:lang="nno" location="nyhet.html_tid=139063.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=139063_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Promoting culture in Toronto</p>
-    <p>Their Royal Highnesses The Crown Prince and Crown Princess travelled from Ottawa to Toronto on the second day of their official visit to Canada. The focus of the day’s agenda was on promoting the cultural industries and innovation.</p>
-    <p xml:lang="koi">09.11.2016</p>
-    <p>The Crown Prince and Crown Princess each participated in a seminar at the University of Toronto on Tuesday morning local time. Crown Prince Haakon attended a seminar on the music industry, while Crown Princess Mette-Marit attended a seminar on the publication of literature.</p>
-    <p type="title">Norwegian literature abroad</p>
-    <p>There is growing international interest in Norwegian literature, due in part to Norway being selected as the Guest of Honour at the Frankfurt Book Fair for 2019. Canada, too, was recently selected as the Guest of Honour for 2020. This is the background for the Norwegian-Canadian literature industry seminar held in Toronto, where representatives of the two countries came together to share knowledge and experience. Literature in translation was an integral part of the programme.</p>
-    <p>Erlend Loe is one of Norway’s most widely translated authors. His books have been translated into 39 languages and he has been published in Canada. At the seminar he shared his experiences with the Canadian literature industry from the standpoint of an author.</p>
-    <p>Hilde K. Kvalvaag, a recipient of the prestigious Norwegian <em type="italic">Brageprisen </em>literature award, is currently translated into German and has plans to enter the Canadian market, among others. Crown Princess Mette-Marit moderated a conversation between the two authors on key themes in their writing, their similarities and differences. The Crown Princess also asked Mr Loe if he had any advice for Ms Kvalvaag on how to gain a foothold in the international market. </p>
-    <p>A video clip of the entire conversation may be found on the Kongehuset pages on Facebook.</p>
-    <p type="title">Music exports</p>
-    <p>Canada is enjoying success in promoting its cultural industries abroad. Good support schemes are now in place for performers as well as for the music industry itself. Music Norway works to facilitate exports of Norwegian music and organised the day’s seminar in collaboration with local interests. Speakers from both Canada and Norway discussed financing, incentive models, export strategies and investment opportunities.</p>
-    <p>Crown Prince Haakon attended part of the seminar and spoke with the participants. Both he and the Crown Princess are concerned with the question of how to best promote Norwegian culture abroad. The Norwegian artist Ida Jenshus was among the attendees, and also performed at the creative industries luncheon that followed.</p>
-    <p type="title">Social innovation</p>
-    <p>After the luncheon, the Crown Prince and Crown Princess travelled to Ryerson University for a seminar on social innovation – the effort to find novel solutions to social and environmental problems. In his speech in Ottawa, Crown Prince Haakon pointed out that <span type="quote">“Canada is consistently ranked as one of the best countries in the world to start up a company.”</span> Facilitating innovation will be critical to remaining competitive in a globalised economy in the years ahead. What can Norway and Canada learn from each other?</p>
-    <p>The innovation seminar at Ryerson University Student Learning Centre featured discussions on models from both countries and the impact that factors such as easy, affordable access to clean energy and education can have on social innovation in the future. The Crown Prince and Crown Princess were also shown examples of new inventions and ideas.</p>
-    <p type="title">The King’s Choice</p>
-    <p>Director Erik Poppe’s epic film <em type="italic">The King’s Choice </em>has been selected as Norway’s submission for the Academy Award for Best Foreign Language Film. The film was screened for a Canadian audience for the first time on Tuesday evening. The gala premiere was held at TIFF Bell Lightbox as a collaboration between the Norwegian Film Institute, Paradox Films and the Norwegian embassy in Ottawa. Toronto International Film Festival is one of the world’s largest and most prestigious film festivals and provides an excellent opportunity for showcasing Norwegian film internationally. </p>
-    <p>Crown Prince Haakon spoke to the audience prior to the screening, providing both personal and historical background for the film. He also took the opportunity to thank Toronto for the city’s hospitality during the Second World War. The first training camp for Norwegian fighter pilots – known as <span type="quote" xml:lang="nno">“Little Norway”</span> – was located here.</p>
-    <p xml:lang="nno"><span type="quote">“My father, King Harald, visited Toronto and Little Norway several times as a small boy, when he was living in exile. The hospitality shown by this city at a crucial time in Norway’s history has given Canada and Toronto a special place in the hearts of Norwegians.”</span></p>
-    <p>The film was well received by the audience in Toronto.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Crown Prince Haakon of Norway speaks at the gala screening of the Norwegian movie The King's Choice during an official visit to Toronto, Canada. Photo: Christian Lagaard, the Royal Court</p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">Official visit to Canada: Screening of <span type="quote">"The King's Choice"</span> (Speech)</p>
-      <p type="listitem">Official visit to Canada (News article)</p>
-      <p type="listitem">Diversity and innovation (News article)</p>
-      <p type="listitem">Visit concluded in St John’s (News article)</p>
-      <p type="listitem" xml:lang="nob">Canada 2016 (Photo album)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nob">Toronto inernasjonale filmfestival</p>
-      <p type="listitem">The Crown Princess in conversation with the authors</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Promoting culture in Toronto  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>836</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=139063</origFileName><parallel_text xml:lang="nno" location="nyhet.html_tid=139063.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=139063_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Promoting culture in Toronto</p>
+<p>Their Royal Highnesses The Crown Prince and Crown Princess travelled from Ottawa to Toronto on the second day of their official visit to Canada. The focus of the day’s agenda was on promoting the cultural industries and innovation.</p>
+<p xml:lang="vep">09.11.2016</p>
+<p>The Crown Prince and Crown Princess each participated in a seminar at the University of Toronto on Tuesday morning local time. Crown Prince Haakon attended a seminar on the music industry, while Crown Princess Mette-Marit attended a seminar on the publication of literature.</p>
+<p type="title">Norwegian literature abroad</p>
+<p>There is growing international interest in Norwegian literature, due in part to Norway being selected as the Guest of Honour at the Frankfurt Book Fair for 2019. Canada, too, was recently selected as the Guest of Honour for 2020. This is the background for the Norwegian-Canadian literature industry seminar held in Toronto, where representatives of the two countries came together to share knowledge and experience. Literature in translation was an integral part of the programme.</p>
+<p>Erlend Loe is one of Norway’s most widely translated authors. His books have been translated into 39 languages and he has been published in Canada. At the seminar he shared his experiences with the Canadian literature industry from the standpoint of an author.</p>
+<p>Hilde K. Kvalvaag, a recipient of the prestigious Norwegian <em type="italic">Brageprisen </em>literature award, is currently translated into German and has plans to enter the Canadian market, among others. Crown Princess Mette-Marit moderated a conversation between the two authors on key themes in their writing, their similarities and differences. The Crown Princess also asked Mr Loe if he had any advice for Ms Kvalvaag on how to gain a foothold in the international market. </p>
+<p>A video clip of the entire conversation may be found on the Kongehuset pages on Facebook.</p>
+<p type="title">Music exports</p>
+<p>Canada is enjoying success in promoting its cultural industries abroad. Good support schemes are now in place for performers as well as for the music industry itself. Music Norway works to facilitate exports of Norwegian music and organised the day’s seminar in collaboration with local interests. Speakers from both Canada and Norway discussed financing, incentive models, export strategies and investment opportunities.</p>
+<p>Crown Prince Haakon attended part of the seminar and spoke with the participants. Both he and the Crown Princess are concerned with the question of how to best promote Norwegian culture abroad. The Norwegian artist Ida Jenshus was among the attendees, and also performed at the creative industries luncheon that followed.</p>
+<p type="title">Social innovation</p>
+<p>After the luncheon, the Crown Prince and Crown Princess travelled to Ryerson University for a seminar on social innovation – the effort to find novel solutions to social and environmental problems. In his speech in Ottawa, Crown Prince Haakon pointed out that <span type="quote">“Canada is consistently ranked as one of the best countries in the world to start up a company.”</span> Facilitating innovation will be critical to remaining competitive in a globalised economy in the years ahead. What can Norway and Canada learn from each other?</p>
+<p>The innovation seminar at Ryerson University Student Learning Centre featured discussions on models from both countries and the impact that factors such as easy, affordable access to clean energy and education can have on social innovation in the future. The Crown Prince and Crown Princess were also shown examples of new inventions and ideas.</p>
+<p type="title">The King’s Choice</p>
+<p>Director Erik Poppe’s epic film <em type="italic">The King’s Choice </em>has been selected as Norway’s submission for the Academy Award for Best Foreign Language Film. The film was screened for a Canadian audience for the first time on Tuesday evening. The gala premiere was held at TIFF Bell Lightbox as a collaboration between the Norwegian Film Institute, Paradox Films and the Norwegian embassy in Ottawa. Toronto International Film Festival is one of the world’s largest and most prestigious film festivals and provides an excellent opportunity for showcasing Norwegian film internationally. </p>
+<p>Crown Prince Haakon spoke to the audience prior to the screening, providing both personal and historical background for the film. He also took the opportunity to thank Toronto for the city’s hospitality during the Second World War. The first training camp for Norwegian fighter pilots – known as <span type="quote" xml:lang="nno">“Little Norway”</span> – was located here.</p>
+<p xml:lang="swe"><span type="quote">“My father, King Harald, visited Toronto and Little Norway several times as a small boy, when he was living in exile. The hospitality shown by this city at a crucial time in Norway’s history has given Canada and Toronto a special place in the hearts of Norwegians.”</span></p>
+<p>The film was well received by the audience in Toronto.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Crown Prince Haakon of Norway speaks at the gala screening of the Norwegian movie The King's Choice during an official visit to Toronto, Canada. Photo: Christian Lagaard, the Royal Court</p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">Official visit to Canada: Screening of <span type="quote">"The King's Choice"</span> (Speech)</p>
+<p type="listitem">Official visit to Canada (News article)</p>
+<p type="listitem">Diversity and innovation (News article)</p>
+<p type="listitem">Visit concluded in St John’s (News article)</p>
+<p type="listitem" xml:lang="nob">Canada 2016 (Photo album)</p>
+</list><list><p type="listitem" xml:lang="nob">Toronto inernasjonale filmfestival</p>
+<p type="listitem">The Crown Princess in conversation with the authors</p>
+</list></body></document>

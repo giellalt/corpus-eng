@@ -1,58 +1,32 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>The constituent assembly at Eidsvoll  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>672</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/artikkel.html?tid=30047</origFileName>
-    <parallel_text xml:lang="nob" location="artikkel.html_tid=29297.html"/>
-    <parallel_text xml:lang="sme" location="artikkel.html_tid=75746_sek=74945.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">The constituent assembly at Eidsvoll</p>
-    <p>On 10 April 1814 a national assembly consisting of 112 elected representatives met together at Eidsvoll, convened by the Regent of Norway, Christian Frederik. Their task was to draw up a new constitution, since Norway had become an independent kingdom and no longer part of Denmark.</p>
-    <p type="title">Independence or union?</p>
-    <p>It soon became obvious that the assembly was divided: one party favoured union with Sweden and the other favoured independence.</p>
-    <p>The advocates of union, led by Count Wedel Jarlsberg, felt that it would not be possible for Norway to retain its independence without the support of the major European powers. They argued that it would be better to negotiate with Sweden on the best possible conditions for union.</p>
-    <p>The independence party supported Christian Frederik, who maintained that Norway should be an independent nation. It was this party, led by Christian Falsen and Professor Georg Sverderup, that held the majority in the assembly.</p>
-    <p type="title">The Constitution is drawn up</p>
-    <p>On 12 April a special committee was appointed, led by Christian Falsen, to draft the new constitution. The committees proposal, setting out the basic principles for the constitution, was put before the assembly four days later, and most of the provisions were adopted by a large majority:</p>
-    <p>The constitution stated that Norway was a free, independent and indivisible realm. The executive power was to lie with the King, the legislative power with a popularly elected national assembly and the judicial power with independent courts. There was to be freedom of religion and freedom of the press.</p>
-    <p>The committee submitted its final proposal on 2 May.</p>
-    <p>Two weeks later the text had reached its final form. Most of it received broad support: the only difference of opinion concerned the issue of the kings position. The party in favour of union wished to include an article prohibiting the king from accepting a foreign crown in order to prevent any re-establishment of the kingdom of Denmark–Norway. Christian Frederik was heir to the Danish throne, which meant that Norway could again become part of the dual monarchy. However, the proposal was rejected.</p>
-    <p>On 17 May 1814 the Constitution was adopted and the members of the national assembly elected Norways first king in almost 500 years. The vote for Christian Frederik was unanimous.</p>
-    <p>17 May has been Norways national day ever since.</p>
-    <p type="title" xml:lang="deu">A new union</p>
-    <p>However, the Swedish Crown Prince, Carl Johan, refused to accept Norways independence since under the Treaty of Kiel Denmark had ceded Norway to Sweden. On 29 July Swedish troops marched into Norway and rapidly put down the Norwegian resistance. On 14 August both parties signed the Convention of Moss, under the terms of which Christian Frederik had to surrender the Norwegian throne.</p>
-    <p>The King of Sweden agreed to accept the Eidsvoll constitution, amended only to take account of the union with Sweden. On 4 November, after the Norwegian national assembly had adopted the amended Constitution, Carl XIII of Sweden became Carl II of Norway.</p>
-    <p>The Act of Union regulating relations between the two countries was passed by the Swedish Riksdag and the Norwegian Storting in 1815.</p>
-    <p type="title">A new situation</p>
-    <p>Thus on 4 November 1814 Norway became the minor partner in a new union. The situation was nonetheless quite different from what it had been at the beginning of the year. Norway was no longer an autocracy and part of Denmark; it had again become an independent nation with its own constitution.</p>
-    <p>The constitution was a very radical one for its time. Instead of being concentrated in the person of an autocratic king, power was divided between the king, the courts and a popularly elected national assembly. The king had the executive power and the national assembly the legislative power. Almost half the male population had the right to vote.</p>
-    <p>The new constitution was accepted by the Swedish King.</p>
-    <p xml:lang="koi">13.02.2007</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem" xml:lang="nob">King Christian Frederik (1786-1848) (Article)</p>
-      <p type="listitem">The Peace Treaty of Kiel (Article)</p>
-      <p type="listitem" xml:lang="nob">King Carl Johan (1763-1844) (Article)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>The constituent assembly at Eidsvoll  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>667</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/artikkel.html?tid=30047</origFileName><parallel_text xml:lang="nob" location="artikkel.html_tid=29297.html"/><parallel_text xml:lang="sme" location="artikkel.html_tid=75746_sek=74945.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">The constituent assembly at Eidsvoll</p>
+<p>On 10 April 1814 a national assembly consisting of 112 elected representatives met together at Eidsvoll, convened by the Regent of Norway, Christian Frederik. Their task was to draw up a new constitution, since Norway had become an independent kingdom and no longer part of Denmark.</p>
+<p type="title">Independence or union?</p>
+<p>It soon became obvious that the assembly was divided: one party favoured union with Sweden and the other favoured independence.</p>
+<p>The advocates of union, led by Count Wedel Jarlsberg, felt that it would not be possible for Norway to retain its independence without the support of the major European powers. They argued that it would be better to negotiate with Sweden on the best possible conditions for union.</p>
+<p>The independence party supported Christian Frederik, who maintained that Norway should be an independent nation. It was this party, led by Christian Falsen and Professor Georg Sverderup, that held the majority in the assembly.</p>
+<p type="title">The Constitution is drawn up</p>
+<p>On 12 April a special committee was appointed, led by Christian Falsen, to draft the new constitution. The committees proposal, setting out the basic principles for the constitution, was put before the assembly four days later, and most of the provisions were adopted by a large majority:</p>
+<p>The constitution stated that Norway was a free, independent and indivisible realm. The executive power was to lie with the King, the legislative power with a popularly elected national assembly and the judicial power with independent courts. There was to be freedom of religion and freedom of the press.</p>
+<p>The committee submitted its final proposal on 2 May.</p>
+<p>Two weeks later the text had reached its final form. Most of it received broad support: the only difference of opinion concerned the issue of the kings position. The party in favour of union wished to include an article prohibiting the king from accepting a foreign crown in order to prevent any re-establishment of the kingdom of Denmark–Norway. Christian Frederik was heir to the Danish throne, which meant that Norway could again become part of the dual monarchy. However, the proposal was rejected.</p>
+<p>On 17 May 1814 the Constitution was adopted and the members of the national assembly elected Norways first king in almost 500 years. The vote for Christian Frederik was unanimous.</p>
+<p>17 May has been Norways national day ever since.</p>
+<p type="title" xml:lang="deu">A new union</p>
+<p>However, the Swedish Crown Prince, Carl Johan, refused to accept Norways independence since under the Treaty of Kiel Denmark had ceded Norway to Sweden. On 29 July Swedish troops marched into Norway and rapidly put down the Norwegian resistance. On 14 August both parties signed the Convention of Moss, under the terms of which Christian Frederik had to surrender the Norwegian throne.</p>
+<p>The King of Sweden agreed to accept the Eidsvoll constitution, amended only to take account of the union with Sweden. On 4 November, after the Norwegian national assembly had adopted the amended Constitution, Carl XIII of Sweden became Carl II of Norway.</p>
+<p>The Act of Union regulating relations between the two countries was passed by the Swedish Riksdag and the Norwegian Storting in 1815.</p>
+<p type="title">A new situation</p>
+<p>Thus on 4 November 1814 Norway became the minor partner in a new union. The situation was nonetheless quite different from what it had been at the beginning of the year. Norway was no longer an autocracy and part of Denmark; it had again become an independent nation with its own constitution.</p>
+<p>The constitution was a very radical one for its time. Instead of being concentrated in the person of an autocratic king, power was divided between the king, the courts and a popularly elected national assembly. The king had the executive power and the national assembly the legislative power. Almost half the male population had the right to vote.</p>
+<p>The new constitution was accepted by the Swedish King.</p>
+<p xml:lang="vep">13.02.2007</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem" xml:lang="nob">King Christian Frederik (1786-1848) (Article)</p>
+<p type="listitem">The Peace Treaty of Kiel (Article)</p>
+<p type="listitem" xml:lang="nob">King Carl Johan (1763-1844) (Article)</p>
+</list></body></document>

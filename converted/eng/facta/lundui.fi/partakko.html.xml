@@ -1,125 +1,97 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Departure from Partakko - Nationalparks.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>721</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.nationalparks.fi/en/inarijarvi/routedescriptions/partakko</origFileName>
-    <parallel_text xml:lang="fin" location="partakonsuunnasta.html"/>
-    <parallel_text xml:lang="sme" location="barttehaguovllos.html"/>
-    <parallel_text xml:lang="smn" location="paartihkuavlust.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Skip to Content</p>
-    <p>Open Menu</p>
-    <list>
-      <p type="listitem">Suomeksi</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Water Routes on Lake Inarijärvi</p>
-    <list>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Level of Difficulty</p>
-      <p type="listitem">Route Descriptions <list><p type="listitem">Departure from Partakko</p><p type="listitem">Departure from the Nanguniemi Boat Harbour</p><p type="listitem">Departure from the Nellim Boat Harbour</p><p type="listitem">Departure from the Inari Boat Harbour</p><p type="listitem">Departure from the Veskoniemi Boat Harbour</p></list> </p>
-      <p type="listitem">Services</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p type="title">Destinations</p>
-    <list>
-      <p type="listitem">Top Natural Attractions</p>
-      <p type="listitem">National Parks</p>
-      <p type="listitem">World Heritage Sites</p>
-      <p type="listitem">National Hiking Areas</p>
-      <p type="listitem">Wilderness Areas</p>
-      <p type="listitem">Other Nature Sites</p>
-      <p type="listitem">Hiking Trails</p>
-      <p type="listitem">Huts</p>
-      <p type="listitem">Historical Sites</p>
-      <p type="listitem">Nature Centres</p>
-      <p type="listitem">Accessible Destinations</p>
-    </list>
-    <list>
-      <p type="listitem">Herajärvi Trail 30 - 61 km</p>
-      <p type="listitem">Hetta - Pallas Trail 55 km</p>
-      <p type="listitem">Hossa Canoeing Routes</p>
-      <p type="listitem">Inari Area Water Routes - Ivalon Matti</p>
-      <p type="listitem">Inari Area Water Routes - Lemmenjoki</p>
-      <p type="listitem">Itäraja Summer Hiking Route</p>
-      <p type="listitem">Karhunkierros 82 km</p>
-      <p type="listitem">Kevo Trail 63 km</p>
-      <p type="listitem">Nordkalottleden Trail 800 km</p>
-      <p type="listitem">Nuortti Hiking Trail 40 km</p>
-      <p type="listitem">Peura Trail 115 km</p>
-      <p type="listitem">Pieni Karhunkierros 12 km</p>
-      <p type="listitem">Piilola Trail 35 km</p>
-      <p type="listitem">Poronpolku Trail 30 km</p>
-      <p type="listitem">Pyhä-Luosto Trail 45 km</p>
-      <p type="listitem">Ruijanpolku Trail 35 km</p>
-      <p type="listitem">Ruostejärvi - Liesjärvi National Park Trail 24 km</p>
-      <p type="listitem">Ruostejärvi - Saari Trail 14 km</p>
-      <p type="listitem">Sevettijärvi - Pulmanki Trail 60 - 70 km</p>
-      <p type="listitem">Taitajan taival Trail 31 km</p>
-      <p type="listitem">Tapion taival Trail 20 km</p>
-      <p type="listitem">Virvatulten polku Trail 19 km</p>
-      <p type="listitem">Water Routes on Lake Inarijärvi</p>
-      <p type="listitem">Trail Difficulty Classification</p>
-    </list>
-    <list>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Level of Difficulty</p>
-      <p type="listitem">Route Descriptions</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <list>
-      <p type="listitem">Departure from Partakko</p>
-      <p type="listitem">Departure from the Nanguniemi Boat Harbour</p>
-      <p type="listitem">Departure from the Nellim Boat Harbour</p>
-      <p type="listitem">Departure from the Inari Boat Harbour</p>
-      <p type="listitem">Departure from the Veskoniemi Boat Harbour</p>
-    </list>
-    <p>Water Route Menu</p>
-    <p type="title">Water Routes on Lake Inarijärvi</p>
-    <list>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Level of Difficulty</p>
-      <p type="listitem">Route Descriptions <list><p type="listitem">Departure from Partakko</p><p type="listitem">Departure from the Nanguniemi Boat Harbour</p><p type="listitem">Departure from the Nellim Boat Harbour</p><p type="listitem">Departure from the Inari Boat Harbour</p><p type="listitem">Departure from the Veskoniemi Boat Harbour</p></list> </p>
-      <p type="listitem">Services</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p type="title">Departure from Partakko</p>
-    <p type="title">Partakko–Nitsijärvi Route</p>
-    <p>At Partakko, you can start your trip from the Käyräniemi boat launch maintained by the municipality. The trip's finishing point is by the Nitsijärvi boat ramp. Of course, you can also take this trip in the opposite direction. The distance between the starting and finishing points by road is about 14 kilometres, so you can pick up your car from the starting point by bicycle at the end of the trip, provided you leave your bicycle at the finishing point before setting off from the start.</p>
-    <p>The proposed route is vulnerable to strong winds both on Lake Nitsijärvi and Lake Inarijärvi, so you must have good canoeing skills and sufficient experience of paddling in rough waters.</p>
-    <p>There are three alternatives for canoeing the Partakko–Nitsijärvi Route. In order to take the shortest route, you must pull or carry your kayak from the Kallovuono Fjord on Lake Inarijärvi to Lammaslahti Bay on Lake Nitsijärvi. There is a 330-metre-long boat road across the isthmus. The shortest alternative is 33 km long. You can stay overnight on Lammassaari Island.</p>
-    <p type="title">Maps</p>
-    <p type="title">Electronic maps</p>
-    <p>Another alternative is to continue past Lammaslahti Bay to the Kuuva Canal and take a shortcut along the canal to Koskivuono Fjord. In this instance, you will have to canoe along the northern edge of the open waters of Vasikkaselkä. The shore only provides some shelter from the northern winds. The name "Kuuva Canal" comes from a man by the name of Matti Kuuva. He dug the canal with a spade at the turn of the 19th and 20th centuries. The canal shortens the distance between Kanavavuono Fjord and Koskivuono Fjord by 16 kilometres. The route's total length is 42 kilometres.</p>
-    <p>The third and the longest alternative goes around Pisterinniemi. On this route, you can visit the Pisteri boating base (in Finnish), which provides some services. There is also an open wilderness hut at the boating base. The distance from Käyräniemi to the Pisteri boating base is 25 kilometres. The final section onto Lake Nitsijärvi and to the road side is equally long. The Nitsikoski Rapids are situated between Lakes Inarijärvi and Nitsijärvi. The rapids are short and easy to pass, as there are chutes in the rapids. There is also a footbridge.</p>
-    <p>© Metsähallitus 2017</p>
-    <list/>
-    <p>Share This Page</p>
-    <p>Open Menu</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Departure from Partakko - Nationalparks.fi</title><genre code="facta"/><author><unknown/></author><wordcount>721</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.nationalparks.fi/en/inarijarvi/routedescriptions/partakko</origFileName><parallel_text xml:lang="fin" location="partakonsuunnasta.html"/><parallel_text xml:lang="sme" location="barttehaguovllos.html"/><parallel_text xml:lang="smn" location="paartihkuavlust.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skip to Content</p>
+<p>Open Menu</p>
+<list><p type="listitem">Suomeksi</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p></p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">Water Routes on Lake Inarijärvi</p>
+<list><p type="listitem">Directions and Maps</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Level of Difficulty</p>
+<p type="listitem">Route Descriptions <list><p type="listitem">Departure from Partakko</p>
+<p type="listitem">Departure from the Nanguniemi Boat Harbour</p>
+<p type="listitem">Departure from the Nellim Boat Harbour</p>
+<p type="listitem">Departure from the Inari Boat Harbour</p>
+<p type="listitem">Departure from the Veskoniemi Boat Harbour</p>
+</list> </p>
+<p type="listitem">Services</p>
+<p type="listitem">More Information</p>
+</list><p type="title">Destinations</p>
+<list><p type="listitem">Top Natural Attractions</p>
+<p type="listitem">National Parks</p>
+<p type="listitem">World Heritage Sites</p>
+<p type="listitem">National Hiking Areas</p>
+<p type="listitem">Wilderness Areas</p>
+<p type="listitem">Other Nature Sites</p>
+<p type="listitem">Hiking Trails</p>
+<p type="listitem">Huts</p>
+<p type="listitem">Historical Sites</p>
+<p type="listitem">Nature Centres</p>
+<p type="listitem">Accessible Destinations</p>
+</list><list><p type="listitem">Herajärvi Trail 30 - 61 km</p>
+<p type="listitem">Hetta - Pallas Trail 55 km</p>
+<p type="listitem">Hossa Canoeing Routes</p>
+<p type="listitem">Inari Area Water Routes - Ivalon Matti</p>
+<p type="listitem">Inari Area Water Routes - Lemmenjoki</p>
+<p type="listitem">Itäraja Summer Hiking Route</p>
+<p type="listitem">Karhunkierros 82 km</p>
+<p type="listitem">Kevo Trail 63 km</p>
+<p type="listitem">Nordkalottleden Trail 800 km</p>
+<p type="listitem">Nuortti Hiking Trail 40 km</p>
+<p type="listitem">Peura Trail 115 km</p>
+<p type="listitem">Pieni Karhunkierros 12 km</p>
+<p type="listitem">Piilola Trail 35 km</p>
+<p type="listitem">Poronpolku Trail 30 km</p>
+<p type="listitem">Pyhä-Luosto Trail 45 km</p>
+<p type="listitem">Ruijanpolku Trail 35 km</p>
+<p type="listitem">Ruostejärvi - Liesjärvi National Park Trail 24 km</p>
+<p type="listitem">Ruostejärvi - Saari Trail 14 km</p>
+<p type="listitem">Sevettijärvi - Pulmanki Trail 60 - 70 km</p>
+<p type="listitem">Taitajan taival Trail 31 km</p>
+<p type="listitem">Tapion taival Trail 20 km</p>
+<p type="listitem">Virvatulten polku Trail 19 km</p>
+<p type="listitem">Water Routes on Lake Inarijärvi</p>
+<p type="listitem">Trail Difficulty Classification</p>
+</list><list><p type="listitem">Directions and Maps</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Level of Difficulty</p>
+<p type="listitem">Route Descriptions</p>
+<p type="listitem">Services</p>
+<p type="listitem">More Information</p>
+</list><list><p type="listitem">Departure from Partakko</p>
+<p type="listitem">Departure from the Nanguniemi Boat Harbour</p>
+<p type="listitem">Departure from the Nellim Boat Harbour</p>
+<p type="listitem">Departure from the Inari Boat Harbour</p>
+<p type="listitem">Departure from the Veskoniemi Boat Harbour</p>
+</list><p>Water Route Menu</p>
+<p type="title">Water Routes on Lake Inarijärvi</p>
+<list><p type="listitem">Directions and Maps</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Level of Difficulty</p>
+<p type="listitem">Route Descriptions <list><p type="listitem">Departure from Partakko</p>
+<p type="listitem">Departure from the Nanguniemi Boat Harbour</p>
+<p type="listitem">Departure from the Nellim Boat Harbour</p>
+<p type="listitem">Departure from the Inari Boat Harbour</p>
+<p type="listitem">Departure from the Veskoniemi Boat Harbour</p>
+</list> </p>
+<p type="listitem">Services</p>
+<p type="listitem">More Information</p>
+</list><p type="title">Departure from Partakko</p>
+<p type="title">Partakko–Nitsijärvi Route</p>
+<p>At Partakko, you can start your trip from the Käyräniemi boat launch maintained by the municipality. The trip's finishing point is by the Nitsijärvi boat ramp. Of course, you can also take this trip in the opposite direction. The distance between the starting and finishing points by road is about 14 kilometres, so you can pick up your car from the starting point by bicycle at the end of the trip, provided you leave your bicycle at the finishing point before setting off from the start.</p>
+<p>The proposed route is vulnerable to strong winds both on Lake Nitsijärvi and Lake Inarijärvi, so you must have good canoeing skills and sufficient experience of paddling in rough waters.</p>
+<p>There are three alternatives for canoeing the Partakko–Nitsijärvi Route. In order to take the shortest route, you must pull or carry your kayak from the Kallovuono Fjord on Lake Inarijärvi to Lammaslahti Bay on Lake Nitsijärvi. There is a 330-metre-long boat road across the isthmus. The shortest alternative is 33 km long. You can stay overnight on Lammassaari Island.</p>
+<p type="title">Maps</p>
+<p type="title">Electronic maps</p>
+<p>Another alternative is to continue past Lammaslahti Bay to the Kuuva Canal and take a shortcut along the canal to Koskivuono Fjord. In this instance, you will have to canoe along the northern edge of the open waters of Vasikkaselkä. The shore only provides some shelter from the northern winds. The name "Kuuva Canal" comes from a man by the name of Matti Kuuva. He dug the canal with a spade at the turn of the 19th and 20th centuries. The canal shortens the distance between Kanavavuono Fjord and Koskivuono Fjord by 16 kilometres. The route's total length is 42 kilometres.</p>
+<p>The third and the longest alternative goes around Pisterinniemi. On this route, you can visit the Pisteri boating base (in Finnish), which provides some services. There is also an open wilderness hut at the boating base. The distance from Käyräniemi to the Pisteri boating base is 25 kilometres. The final section onto Lake Nitsijärvi and to the road side is equally long. The Nitsikoski Rapids are situated between Lakes Inarijärvi and Nitsijärvi. The rapids are short and easy to pass, as there are chutes in the rapids. There is also a footbridge.</p>
+<p>© Metsähallitus 2017</p>
+<list/><p>Share This Page</p>
+<p>Open Menu</p>
+</body></document>

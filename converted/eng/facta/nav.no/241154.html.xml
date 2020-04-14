@@ -1,76 +1,38 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>NAV - English - Parental benefit period in connection with adoption</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>1104</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <multilingual/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Parental benefit period in connection with adoption</p>
-    <p>The legislation was amended with effect from 1 July 2009. The length of the benefit period varies, depending on whether care of an adopted child was assumed on or before 30 June 2009 or on or after 1 July 2009. Below is a description of the rules that apply to adoptions finalised on or after 1 July 2009.</p>
-    <p>The length of the benefit period also depends on whether both parents are entitled to parental benefit, whether only the mother is entitled, whether only the father is entitled, whether the mother has sole responsibility for the child (sole custody) or whether the father has sole responsibility for the child (sole custody). The benefit period is also longer if you adopt several children at the same time. Below is information about the different benefit period lengths and whether any special conditions apply concerning how you can receive parental benefit.</p>
-    <p type="title">When both parents are eligible</p>
-    <p>If the parents live together and both are entitled to parental benefit, the benefit period is either 43 weeks with 100 per cent benefit or 53 weeks with 80 per cent benefit. The benefit period starts on the date of assumption of care or the adoption date. The benefit period is three weeks shorter than in connection with the birth of a child, because the benefit period in connection with birth starts at the latest three weeks before the estimated date of delivery.</p>
-    <p>A number of weeks of the benefit period are reserved for the father. The parents are free to share the weeks not earmarked for the father between them as they please.</p>
-    <p>If the mother was working in a 50 per cent or more position before the adoption, the following rules apply:</p>
-    <list>
-      <p type="listitem">Ten weeks are reserved for the father, called the paternal quota (fedrekvoten)</p>
-      <p type="listitem">33 or 43 weeks (depending on the percentage chosen) can be taken by either parent. Special conditions apply to the mother if the father is going to receive parental benefit that is not earmarked for the father (i.e. paternal quota) (see below)</p>
-    </list>
-    <p>If the mother was working less than 50 per cent of a full-time position before the adoption, the following rules apply:</p>
-    <list>
-      <p type="listitem">No weeks are reserved for the father</p>
-      <p type="listitem">The parents can share the weeks between them as they please. Special conditions apply to the mother if the father is going to receive parental benefit not earmarked for the father (paternal quota) (see below).</p>
-    </list>
-    <p>In other words, there is no paternal quota if the mother was working less than 50 per cent of a full-time position before the adoption.</p>
-    <p type="title">When only the mother is entitled to parental benefit</p>
-    <p>If the parents live together, but only the mother is entitled to parental benefit, the benefit period is either 43 weeks with 100 per cent benefit or 53 weeks with 80 per cent benefit. The entire benefit period is reserved for the mother. However, the father can earn entitlement to parental benefit while the mother is receiving parental benefit. If both parents agree, the father can make use of this right.</p>
-    <p type="title">When only the father is entitled to parental benefit</p>
-    <p>If the parents live together, but only the father is entitled to parental benefit, the benefit period is either 37 weeks with 100 per cent benefit or 47 weeks with 80 per cent benefit. The weeks that would have been reserved for the mother in connection with birth (three weeks before and six weeks after the birth) have been deducted. In other words, there is no paternal quota when only the father is entitled to parental benefit. Special conditions apply to the mother if the father is going to receive parental benefit not earmarked for the father (paternal quota) (see below). The mother may be entitled to a lump-sum grant on birth or adoption (engangsstønad) in addition to the father receiving parental benefit.</p>
-    <p type="title">When the mother is the sole carer of the child</p>
-    <p>Mothers who qualify for parental benefit and live alone with the child are entitled to a benefit period of 43 weeks with 100 per cent benefit or 53 weeks with 80 per cent benefit. The entire benefit period is reserved for the mother. There is no paternal quota.</p>
-    <p type="title">When the father is the sole carer of the child</p>
-    <p>Fathers who qualify for parental benefit and live alone with the child are entitled to a benefit period of 43 weeks with 100 per cent benefit or 53 weeks with 80 per cent benefit.</p>
-    <p type="title">Adoption of several children at the same time</p>
-    <list>
-      <p type="listitem">If both parents are entitled to parental benefit, 5 or 7 weeks (depending on the benefit percentage chosen) are added to the weeks that can be shared by the parents.</p>
-      <p type="listitem">If only one of the parents is entitled to parental benefit, 5 or 7 weeks (depending on the benefit percentage chosen) are added to the weeks that that parent can take.</p>
-    </list>
-    <p type="title">Special conditions for the mother when the father is receiving parental benefit</p>
-    <p>When the father is going to receive parental benefit not earmarked for the father (paternal quota), the mother of the child must be:</p>
-    <list>
-      <p type="listitem">working – full-time or part-time</p>
-      <p type="listitem">in full-time public education</p>
-      <p type="listitem">in education combined with work that together add up to full-time activity</p>
-      <p type="listitem">entirely dependent on assistance to be able to care for the child because of sickness or injury</p>
-      <p type="listitem">in a health institution and unable to care for the child</p>
-      <p type="listitem">participating in an introduction programme for recently arrived immigrants</p>
-      <p type="listitem">participating in the qualification programme for people with significantly reduced work and earning capacity</p>
-    </list>
-    <p>If after the adoption the mother works at least 75 per cent of a full-time position, she is regarded as working full-time. In this kind of case, the father can therefore receive parental benefit on the basis of the mother working full-time. If the mother is working less than 75 per cent of a full-time position, the father’s parental benefit will be reduced by a proportion corresponding to the reduction in the mother’s working hours. If the father wants to work full-time and postpone the benefit period, it is a condition that the mother is also working or studying full-time. This applies even if the mother does not qualify for parental benefit.</p>
-    <p type="title">If you have another child during the benefit period</p>
-    <p>If you have another child before the benefit period for the previous child has been used up, you lose the right to receive benefit for any remaining weeks for the previous child. However, you are entitled to a full period of parental benefit for the new child. The new benefit period starts three weeks before the due date.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>NAV - English - Parental benefit period in connection with adoption</title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>1104</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Parental benefit period in connection with adoption</p>
+<p>The legislation was amended with effect from 1 July 2009. The length of the benefit period varies, depending on whether care of an adopted child was assumed on or before 30 June 2009 or on or after 1 July 2009. Below is a description of the rules that apply to adoptions finalised on or after 1 July 2009.</p>
+<p>The length of the benefit period also depends on whether both parents are entitled to parental benefit, whether only the mother is entitled, whether only the father is entitled, whether the mother has sole responsibility for the child (sole custody) or whether the father has sole responsibility for the child (sole custody). The benefit period is also longer if you adopt several children at the same time. Below is information about the different benefit period lengths and whether any special conditions apply concerning how you can receive parental benefit.</p>
+<p type="title">When both parents are eligible</p>
+<p>If the parents live together and both are entitled to parental benefit, the benefit period is either 43 weeks with 100 per cent benefit or 53 weeks with 80 per cent benefit. The benefit period starts on the date of assumption of care or the adoption date. The benefit period is three weeks shorter than in connection with the birth of a child, because the benefit period in connection with birth starts at the latest three weeks before the estimated date of delivery.</p>
+<p>A number of weeks of the benefit period are reserved for the father. The parents are free to share the weeks not earmarked for the father between them as they please.</p>
+<p>If the mother was working in a 50 per cent or more position before the adoption, the following rules apply:</p>
+<list><p type="listitem">Ten weeks are reserved for the father, called the paternal quota (fedrekvoten)</p>
+<p type="listitem">33 or 43 weeks (depending on the percentage chosen) can be taken by either parent. Special conditions apply to the mother if the father is going to receive parental benefit that is not earmarked for the father (i.e. paternal quota) (see below)</p>
+</list><p>If the mother was working less than 50 per cent of a full-time position before the adoption, the following rules apply:</p>
+<list><p type="listitem">No weeks are reserved for the father</p>
+<p type="listitem">The parents can share the weeks between them as they please. Special conditions apply to the mother if the father is going to receive parental benefit not earmarked for the father (paternal quota) (see below).</p>
+</list><p>In other words, there is no paternal quota if the mother was working less than 50 per cent of a full-time position before the adoption.</p>
+<p type="title">When only the mother is entitled to parental benefit</p>
+<p>If the parents live together, but only the mother is entitled to parental benefit, the benefit period is either 43 weeks with 100 per cent benefit or 53 weeks with 80 per cent benefit. The entire benefit period is reserved for the mother. However, the father can earn entitlement to parental benefit while the mother is receiving parental benefit. If both parents agree, the father can make use of this right.</p>
+<p type="title">When only the father is entitled to parental benefit</p>
+<p>If the parents live together, but only the father is entitled to parental benefit, the benefit period is either 37 weeks with 100 per cent benefit or 47 weeks with 80 per cent benefit. The weeks that would have been reserved for the mother in connection with birth (three weeks before and six weeks after the birth) have been deducted. In other words, there is no paternal quota when only the father is entitled to parental benefit. Special conditions apply to the mother if the father is going to receive parental benefit not earmarked for the father (paternal quota) (see below). The mother may be entitled to a lump-sum grant on birth or adoption (engangsstønad) in addition to the father receiving parental benefit.</p>
+<p type="title">When the mother is the sole carer of the child</p>
+<p>Mothers who qualify for parental benefit and live alone with the child are entitled to a benefit period of 43 weeks with 100 per cent benefit or 53 weeks with 80 per cent benefit. The entire benefit period is reserved for the mother. There is no paternal quota.</p>
+<p type="title">When the father is the sole carer of the child</p>
+<p>Fathers who qualify for parental benefit and live alone with the child are entitled to a benefit period of 43 weeks with 100 per cent benefit or 53 weeks with 80 per cent benefit.</p>
+<p type="title">Adoption of several children at the same time</p>
+<list><p type="listitem">If both parents are entitled to parental benefit, 5 or 7 weeks (depending on the benefit percentage chosen) are added to the weeks that can be shared by the parents.</p>
+<p type="listitem">If only one of the parents is entitled to parental benefit, 5 or 7 weeks (depending on the benefit percentage chosen) are added to the weeks that that parent can take.</p>
+</list><p type="title">Special conditions for the mother when the father is receiving parental benefit</p>
+<p>When the father is going to receive parental benefit not earmarked for the father (paternal quota), the mother of the child must be:</p>
+<list><p type="listitem">working – full-time or part-time</p>
+<p type="listitem">in full-time public education</p>
+<p type="listitem">in education combined with work that together add up to full-time activity</p>
+<p type="listitem">entirely dependent on assistance to be able to care for the child because of sickness or injury</p>
+<p type="listitem">in a health institution and unable to care for the child</p>
+<p type="listitem">participating in an introduction programme for recently arrived immigrants</p>
+<p type="listitem">participating in the qualification programme for people with significantly reduced work and earning capacity</p>
+</list><p>If after the adoption the mother works at least 75 per cent of a full-time position, she is regarded as working full-time. In this kind of case, the father can therefore receive parental benefit on the basis of the mother working full-time. If the mother is working less than 75 per cent of a full-time position, the father’s parental benefit will be reduced by a proportion corresponding to the reduction in the mother’s working hours. If the father wants to work full-time and postpone the benefit period, it is a condition that the mother is also working or studying full-time. This applies even if the mother does not qualify for parental benefit.</p>
+<p type="title">If you have another child during the benefit period</p>
+<p>If you have another child before the benefit period for the previous child has been used up, you lose the right to receive benefit for any remaining weeks for the previous child. However, you are entitled to a full period of parental benefit for the new child. The new benefit period starts three weeks before the due date.</p>
+</body></document>

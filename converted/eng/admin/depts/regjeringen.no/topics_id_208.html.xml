@@ -1,248 +1,137 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Fáttát - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Government.no" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>887</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/en/topics.html?id=208</origFileName>
-    <parallel_text xml:lang="nno" location="tema_id_208.html"/>
-    <parallel_text xml:lang="nob" location="tema_id_208.html"/>
-    <parallel_text xml:lang="sme" location="fattat_id_208.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Topics - regjeringen.no</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p type="title">Topics</p>
-    <list>
-      <p type="listitem"><span>Business and industry </span><list><p type="listitem">Space related activities |</p><p type="listitem">Corporate social responsibility (CSR) |</p><p type="listitem">Instruments of Industrial Policy |</p><p type="listitem">Maritime Research and Innovation |</p><p type="listitem">State Ownership |</p><p type="listitem">The Maritime Industry |</p><p type="listitem">Simplification for Business |</p><p type="listitem">Travel Industry |</p><p type="listitem">Competition policy, public support and public procurement |</p><p type="listitem">Regional and rural policy |</p><p type="listitem">The Norwegian quota system |</p><p type="listitem">Norway's free trade agreements |</p></list></p>
-      <p type="listitem">
-        <span>Civil protection and defence </span>
-        <list>
-          <p type="listitem">Submarine Capability beyond 2020 |</p>
-          <p type="listitem">International operations |</p>
-          <p type="listitem">Security policy |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Consumers </span>
-        <list>
-          <p type="listitem">Consumer policy |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Culture, leisure and belief systems </span>
-        <list>
-          <p type="listitem" xml:lang="deu">Sports |</p>
-          <p type="listitem">Culture |</p>
-          <p type="listitem" xml:lang="nob">Film and media |</p>
-          <p type="listitem">The Voluntary sector |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Education and research </span>
-        <list>
-          <p type="listitem">Primary and Lower Secondary Education |</p>
-          <p type="listitem" xml:lang="deu">Kindergarten |</p>
-          <p type="listitem">Higher Education |</p>
-          <p type="listitem">Gender Equality in Kindergarten, Education and Research |</p>
-          <p type="listitem">Education and Training for Adults |</p>
-          <p type="listitem">Tertiary Vocational Education |</p>
-          <p type="listitem">Research |</p>
-          <p type="listitem">Policy for lifelong learning |</p>
-          <p type="listitem">Educational support |</p>
-          <p type="listitem">International Collaboration on Education and Research |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Energy </span>
-        <list>
-          <p type="listitem">Housing and building policy |</p>
-          <p type="listitem">Energy and petroleum research |</p>
-          <p type="listitem">Oil and Gas |</p>
-          <p type="listitem">Energy in Norway |</p>
-          <p type="listitem">Carbon capture and storage - CCS |</p>
-          <p type="listitem">State participation in the petroleum sector |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Equality </span>
-        <list>
-          <p type="listitem">Equality and discrimination |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Families and upbringing </span>
-        <list>
-          <p type="listitem">Children and young people |</p>
-          <p type="listitem">Child welfare |</p>
-          <p type="listitem">Family policy |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Food, fisheries and agriculture </span>
-        <list>
-          <p type="listitem">Biodiversity |</p>
-          <p type="listitem" xml:lang="ron">Agriculture |</p>
-          <p type="listitem">The Norwegian quota system |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Health and care </span>
-        <list>
-          <p type="listitem">Health preparedness |</p>
-          <p type="listitem">Health research |</p>
-          <p type="listitem" xml:lang="fin">Hospitals |</p>
-          <p type="listitem">Alcohol and drug addiction |</p>
-          <p type="listitem">Pharmaceuticals |</p>
-          <p type="listitem">Patient information |</p>
-          <p type="listitem">International health cooperation |</p>
-          <p type="listitem">Public Health |</p>
-          <p type="listitem">Biotechnology |</p>
-          <p type="listitem">Psychiatric health |</p>
-          <p type="listitem">Municipal health and care services |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Housing and property </span>
-        <list>
-          <p type="listitem">Housing and building policy |</p>
-          <p type="listitem">Research on local governments and regions, dwellings, buildings and the environment |</p>
-        </list>
-      </p>
-    </list>
-    <list>
-      <p type="listitem">
-        <span>Immigration and social inclusion </span>
-        <list>
-          <p type="listitem">Integration and diversity |</p>
-          <p type="listitem">Immigration |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Indigenous peoples and minorities </span>
-        <list>
-          <p type="listitem">National minorities |</p>
-          <p type="listitem">Sami policy |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>International relations </span>
-        <list>
-          <p type="listitem">International cooperation |</p>
-          <p type="listitem">Peace and reconciliation efforts |</p>
-          <p type="listitem">Security policy |</p>
-          <p type="listitem">International Law |</p>
-          <p type="listitem">Humanitarian efforts |</p>
-          <p type="listitem">Human rights |</p>
-          <p type="listitem">Trade policy |</p>
-          <p type="listitem">Public diplomacy and cultural cooperation |</p>
-          <p type="listitem">Corporate social responsibility (CSR) |</p>
-          <p type="listitem">United Nations |</p>
-          <p type="listitem">High North |</p>
-          <p type="listitem">Development cooperation |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Labour and welfare </span>
-        <list>
-          <p type="listitem">Pensions |</p>
-          <p type="listitem">Welfare policy |</p>
-          <p type="listitem">Labour market policy |</p>
-          <p type="listitem">Wage and personnel policy |</p>
-          <p type="listitem">The working environment and safety |</p>
-          <p type="listitem">Income policy |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Law and order </span>
-        <list>
-          <p type="listitem">Crime and abuse |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Municipalities and regions </span>
-        <list>
-          <p type="listitem">Regional and rural policy |</p>
-          <p type="listitem">Research on local governments and regions, dwellings, buildings and the environment |</p>
-          <p type="listitem">Municipal economy |</p>
-          <p type="listitem">Municipal law and municipal organisation |</p>
-          <p type="listitem">The Municipality-State-relationship |</p>
-          <p type="listitem">Reforming and regenerating the municipalities |</p>
-          <p type="listitem">Elections |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Public administration </span>
-        <list>
-          <p type="listitem">Elections |</p>
-          <p type="listitem">The Government Building Complex |</p>
-          <p type="listitem">Competition policy, public support and public procurement |</p>
-          <p type="listitem">Political Parties |</p>
-          <p type="listitem">Regional and rural policy |</p>
-          <p type="listitem">Government communication policy |</p>
-          <p type="listitem">Privacy protection |</p>
-          <p type="listitem">ICT policy |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Samfunnssikkerhet </span>
-        <list>
-          <p type="listitem">Health preparedness |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>The economy </span>
-        <list>
-          <p type="listitem">The Government Pension Fund |</p>
-          <p type="listitem">Direct and indirect taxes |</p>
-          <p type="listitem">Competition policy, public support and public procurement |</p>
-          <p type="listitem">Economic Policy |</p>
-          <p type="listitem">Income policy |</p>
-          <p type="listitem">The National Budget |</p>
-          <p type="listitem">Sustainable development |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>The environment </span>
-        <list>
-          <p type="listitem" xml:lang="ron">Climate |</p>
-          <p type="listitem">Sustainable development |</p>
-          <p type="listitem">Department for Marine Management and Pollution Control |</p>
-          <p type="listitem">Housing and building policy |</p>
-          <p type="listitem">Cultural heritage and cultural environment |</p>
-          <p type="listitem">Biodiversity |</p>
-        </list>
-      </p>
-      <p type="listitem">
-        <span>Transport and communications </span>
-        <list>
-          <p type="listitem">Sea transport and coastal management |</p>
-        </list>
-      </p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Fáttát - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Government.no" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>887</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/en/topics.html?id=208</origFileName><parallel_text xml:lang="nno" location="tema_id_208.html"/><parallel_text xml:lang="nob" location="tema_id_208.html"/><parallel_text xml:lang="sme" location="fattat_id_208.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Topics - regjeringen.no</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Topics</p>
+<list><p type="listitem"><span>Business and industry </span><list><p type="listitem">Space related activities |</p>
+<p type="listitem">Corporate social responsibility (CSR) |</p>
+<p type="listitem">Instruments of Industrial Policy |</p>
+<p type="listitem">Maritime Research and Innovation |</p>
+<p type="listitem">State Ownership |</p>
+<p type="listitem">The Maritime Industry |</p>
+<p type="listitem">Simplification for Business |</p>
+<p type="listitem">Travel Industry |</p>
+<p type="listitem">Competition policy, public support and public procurement |</p>
+<p type="listitem">Regional and rural policy |</p>
+<p type="listitem">The Norwegian quota system |</p>
+<p type="listitem">Norway's free trade agreements |</p>
+</list></p>
+<p type="listitem"><span>Civil protection and defence </span><list><p type="listitem">Submarine Capability beyond 2020 |</p>
+<p type="listitem">International operations |</p>
+<p type="listitem">Security policy |</p>
+</list></p>
+<p type="listitem"><span>Consumers </span><list><p type="listitem">Consumer policy |</p>
+</list></p>
+<p type="listitem"><span>Culture, leisure and belief systems </span><list><p type="listitem" xml:lang="deu">Sports |</p>
+<p type="listitem">Culture |</p>
+<p type="listitem" xml:lang="nob">Film and media |</p>
+<p type="listitem">The Voluntary sector |</p>
+</list></p>
+<p type="listitem"><span>Education and research </span><list><p type="listitem">Primary and Lower Secondary Education |</p>
+<p type="listitem" xml:lang="deu">Kindergarten |</p>
+<p type="listitem">Higher Education |</p>
+<p type="listitem">Gender Equality in Kindergarten, Education and Research |</p>
+<p type="listitem">Education and Training for Adults |</p>
+<p type="listitem">Tertiary Vocational Education |</p>
+<p type="listitem">Research |</p>
+<p type="listitem">Policy for lifelong learning |</p>
+<p type="listitem">Educational support |</p>
+<p type="listitem">International Collaboration on Education and Research |</p>
+</list></p>
+<p type="listitem"><span>Energy </span><list><p type="listitem">Housing and building policy |</p>
+<p type="listitem">Energy and petroleum research |</p>
+<p type="listitem">Oil and Gas |</p>
+<p type="listitem">Energy in Norway |</p>
+<p type="listitem">Carbon capture and storage - CCS |</p>
+<p type="listitem">State participation in the petroleum sector |</p>
+</list></p>
+<p type="listitem"><span>Equality </span><list><p type="listitem">Equality and discrimination |</p>
+</list></p>
+<p type="listitem"><span>Families and upbringing </span><list><p type="listitem">Children and young people |</p>
+<p type="listitem">Child welfare |</p>
+<p type="listitem">Family policy |</p>
+</list></p>
+<p type="listitem"><span>Food, fisheries and agriculture </span><list><p type="listitem">Biodiversity |</p>
+<p type="listitem">Agriculture |</p>
+<p type="listitem">The Norwegian quota system |</p>
+</list></p>
+<p type="listitem"><span>Health and care </span><list><p type="listitem">Health preparedness |</p>
+<p type="listitem">Health research |</p>
+<p type="listitem" xml:lang="fin">Hospitals |</p>
+<p type="listitem">Alcohol and drug addiction |</p>
+<p type="listitem">Pharmaceuticals |</p>
+<p type="listitem">Patient information |</p>
+<p type="listitem">International health cooperation |</p>
+<p type="listitem">Public Health |</p>
+<p type="listitem">Biotechnology |</p>
+<p type="listitem">Psychiatric health |</p>
+<p type="listitem">Municipal health and care services |</p>
+</list></p>
+<p type="listitem"><span>Housing and property </span><list><p type="listitem">Housing and building policy |</p>
+<p type="listitem">Research on local governments and regions, dwellings, buildings and the environment |</p>
+</list></p>
+</list><list><p type="listitem"><span>Immigration and social inclusion </span><list><p type="listitem">Integration and diversity |</p>
+<p type="listitem">Immigration |</p>
+</list></p>
+<p type="listitem"><span>Indigenous peoples and minorities </span><list><p type="listitem">National minorities |</p>
+<p type="listitem">Sami policy |</p>
+</list></p>
+<p type="listitem"><span>International relations </span><list><p type="listitem">International cooperation |</p>
+<p type="listitem">Peace and reconciliation efforts |</p>
+<p type="listitem">Security policy |</p>
+<p type="listitem">International Law |</p>
+<p type="listitem">Humanitarian efforts |</p>
+<p type="listitem">Human rights |</p>
+<p type="listitem">Trade policy |</p>
+<p type="listitem">Public diplomacy and cultural cooperation |</p>
+<p type="listitem">Corporate social responsibility (CSR) |</p>
+<p type="listitem">United Nations |</p>
+<p type="listitem">High North |</p>
+<p type="listitem">Development cooperation |</p>
+</list></p>
+<p type="listitem"><span>Labour and welfare </span><list><p type="listitem">Pensions |</p>
+<p type="listitem">Welfare policy |</p>
+<p type="listitem">Labour market policy |</p>
+<p type="listitem">Wage and personnel policy |</p>
+<p type="listitem">The working environment and safety |</p>
+<p type="listitem">Income policy |</p>
+</list></p>
+<p type="listitem"><span>Law and order </span><list><p type="listitem">Crime and abuse |</p>
+</list></p>
+<p type="listitem"><span>Municipalities and regions </span><list><p type="listitem">Regional and rural policy |</p>
+<p type="listitem">Research on local governments and regions, dwellings, buildings and the environment |</p>
+<p type="listitem">Municipal economy |</p>
+<p type="listitem">Municipal law and municipal organisation |</p>
+<p type="listitem">The Municipality-State-relationship |</p>
+<p type="listitem">Reforming and regenerating the municipalities |</p>
+<p type="listitem">Elections |</p>
+</list></p>
+<p type="listitem"><span>Public administration </span><list><p type="listitem">Elections |</p>
+<p type="listitem">The Government Building Complex |</p>
+<p type="listitem">Competition policy, public support and public procurement |</p>
+<p type="listitem">Political Parties |</p>
+<p type="listitem">Regional and rural policy |</p>
+<p type="listitem">Government communication policy |</p>
+<p type="listitem">Privacy protection |</p>
+<p type="listitem">ICT policy |</p>
+</list></p>
+<p type="listitem"><span>Samfunnssikkerhet </span><list><p type="listitem">Health preparedness |</p>
+</list></p>
+<p type="listitem"><span>The economy </span><list><p type="listitem">The Government Pension Fund |</p>
+<p type="listitem">Direct and indirect taxes |</p>
+<p type="listitem">Competition policy, public support and public procurement |</p>
+<p type="listitem">Economic Policy |</p>
+<p type="listitem">Income policy |</p>
+<p type="listitem">The National Budget |</p>
+<p type="listitem">Sustainable development |</p>
+</list></p>
+<p type="listitem"><span>The environment </span><list><p type="listitem" xml:lang="ron">Climate |</p>
+<p type="listitem">Sustainable development |</p>
+<p type="listitem">Department for Marine Management and Pollution Control |</p>
+<p type="listitem">Housing and building policy |</p>
+<p type="listitem">Cultural heritage and cultural environment |</p>
+<p type="listitem">Biodiversity |</p>
+</list></p>
+<p type="listitem"><span>Transport and communications </span><list><p type="listitem">Sea transport and coastal management |</p>
+</list></p>
+</list></body></document>

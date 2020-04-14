@@ -1,58 +1,25 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Educational Committee</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="fin"/>
-    <wordcount>288</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=47&amp;lang=english.html</origFileName>
-    <parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=47_lang=finnish.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=47_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=47_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=47_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Educational Committee</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>The Educational Committee prepares the political proposals, initiatives, statements and comments concerning education for the Sámi Parliament. The committee is in charge of planning, preparing and distributing learning material in Sámi.</p>
-    <p>The purpose of the committee is to advance Sámi students' rights for their own language and for receiving teaching in it, as well as the position of Sámi education in the Finnish educational system.   The committee participates in the co-operation of Sámi education on the regional, national, and Nordic level.   The committee decides on the usage of the government subsidy which is aimed at developing Sámi learning material and teaching. The subsidy is stated in the national budget (main category 29, Ministry of Education).   It prepares the annual and long-term plans for the Plenum about the production of learning material. The committee gives clarification annually for the Plenum and the National Board of Education on the learning material situation and on the use of the government subsidy.</p>
-    <p>In addition, the committee is in charge of the annual young Sámi art event (Sámenuoraid dáiddadáhpáhus) which is organized in co-operation with the municipalities and associations in the Sámi homeland region, and constitutes an art and culture event for children and young people.</p>
-    <p>The issues covered by the committee are prepared and implemented by the Educational Office.   The representatives of the committee are the Educational Secretary (educational politics issues), the Learning Material Secretary (learning material issues) and the Learning Material Designer (young Sámi art event).</p>
-    <p>The members of the Educational Committee for the years 2008-2011 are:</p>
-    <p><em type="italic">Members: </em> </p>
-    <p xml:lang="fin">Yrjö Musta, chair.</p>
-    <p xml:lang="fin">Rauni Äärelä, v-chair.</p>
-    <p xml:lang="fin">Inker-Anni Magga</p>
-    <p xml:lang="fin">Asla Järvensivu</p>
-    <p xml:lang="fin">Aslak Holmberg</p>
-    <p xml:lang="fin">Seija Sivertsen¨</p>
-    <p xml:lang="fin">Liisa Holmberg</p>
-    <p><em type="italic">Deputies: </em> </p>
-    <p xml:lang="fin">Teija Linnanmäki</p>
-    <p xml:lang="fin">Anna-Liisa Väyrynen</p>
-    <p xml:lang="fin">Maarit Magga</p>
-    <p xml:lang="fin">Kati Eriksen</p>
-    <p xml:lang="fin">Pirjo Länsman-Kiimalainen</p>
-    <p xml:lang="fin">Terhi Harju</p>
-    <p xml:lang="fin">Outi Länsman</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Educational Committee</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>288</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=47&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=47_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=47_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=47_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=47_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Educational Committee</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>The Educational Committee prepares the political proposals, initiatives, statements and comments concerning education for the Sámi Parliament. The committee is in charge of planning, preparing and distributing learning material in Sámi.</p>
+<p>The purpose of the committee is to advance Sámi students' rights for their own language and for receiving teaching in it, as well as the position of Sámi education in the Finnish educational system.   The committee participates in the co-operation of Sámi education on the regional, national, and Nordic level.   The committee decides on the usage of the government subsidy which is aimed at developing Sámi learning material and teaching. The subsidy is stated in the national budget (main category 29, Ministry of Education).   It prepares the annual and long-term plans for the Plenum about the production of learning material. The committee gives clarification annually for the Plenum and the National Board of Education on the learning material situation and on the use of the government subsidy.</p>
+<p>In addition, the committee is in charge of the annual young Sámi art event (Sámenuoraid dáiddadáhpáhus) which is organized in co-operation with the municipalities and associations in the Sámi homeland region, and constitutes an art and culture event for children and young people.</p>
+<p>The issues covered by the committee are prepared and implemented by the Educational Office.   The representatives of the committee are the Educational Secretary (educational politics issues), the Learning Material Secretary (learning material issues) and the Learning Material Designer (young Sámi art event).</p>
+<p>The members of the Educational Committee for the years 2008-2011 are:</p>
+<p><em type="italic">Members: </em> </p>
+<p xml:lang="fin">Yrjö Musta, chair.</p>
+<p xml:lang="fin">Rauni Äärelä, v-chair.</p>
+<p xml:lang="fin">Inker-Anni Magga</p>
+<p xml:lang="fin">Asla Järvensivu</p>
+<p xml:lang="fin">Aslak Holmberg</p>
+<p xml:lang="fin">Seija Sivertsen¨</p>
+<p xml:lang="fin">Liisa Holmberg</p>
+<p><em type="italic">Deputies: </em> </p>
+<p xml:lang="fin">Teija Linnanmäki</p>
+<p xml:lang="fin">Anna-Liisa Väyrynen</p>
+<p xml:lang="fin">Maarit Magga</p>
+<p xml:lang="fin">Kati Eriksen</p>
+<p xml:lang="fin">Pirjo Länsman-Kiimalainen</p>
+<p xml:lang="fin">Terhi Harju</p>
+<p xml:lang="fin">Outi Länsman</p>
+</body></document>

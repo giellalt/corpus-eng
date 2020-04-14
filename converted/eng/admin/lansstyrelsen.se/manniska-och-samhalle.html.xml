@@ -1,62 +1,24 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>98</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/En/manniska-och-samhalle/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="fit" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="sme" location="manniska-och-samhalle.html"/>
-    <parallel_text xml:lang="swe" location="manniska-och-samhalle.html"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmu"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rka"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmf"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmn"/>
-    <parallel_text location="manniska-och-samhalle.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>People and society - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem">People &amp; society</p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">People and society</p>
-    <p>The County Administrative Board collaborates with municipalities to create good conditions in society for the county's citizen – both private individuals and entrepreneurs. Everyone should, on equal terms, be provided living conditions which are secure, easy and safe to work and live in.</p>
-    <p type="title">Contact us</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe">skane snabela lansstyrelsen punkt se¤skane snabela lansstyrelsen punkt se</p>
-    <p>010–2241000</p>
-    <p>Send message</p>
-    <p>Hide form</p>
-    <p>Your email address (optional)</p>
-    <p>Send a copy of the message to the email address specified</p>
-    <p>Message</p>
-    <p>Enter the code below to send your message</p>
-    <p>Generate new image</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>98</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/En/manniska-och-samhalle/Pages/default.aspx</origFileName><parallel_text xml:lang="fin" location="manniska-och-samhalle.html"/><parallel_text xml:lang="fit" location="manniska-och-samhalle.html"/><parallel_text xml:lang="sma" location="manniska-och-samhalle.html"/><parallel_text xml:lang="sme" location="manniska-och-samhalle.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle.html"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmu"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rka"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmf"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rlo"/><parallel_text location="manniska-och-samhalle.html" xml:lang="rmn"/><parallel_text location="manniska-och-samhalle.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>People and society - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem">People &amp; society</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">People and society</p>
+<p>The County Administrative Board collaborates with municipalities to create good conditions in society for the county's citizen – both private individuals and entrepreneurs. Everyone should, on equal terms, be provided living conditions which are secure, easy and safe to work and live in.</p>
+<p type="title">Contact us</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe">skane snabela lansstyrelsen punkt se¤skane snabela lansstyrelsen punkt se</p>
+<p>010–2241000</p>
+<p>Send message</p>
+<p>Hide form</p>
+<p>Your email address (optional)</p>
+<p>Send a copy of the message to the email address specified</p>
+<p>Message</p>
+<p>Enter the code below to send your message</p>
+<p>Generate new image</p>
+</body></document>

@@ -1,46 +1,17 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>136</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/lantbruk-och-landsbygd/lantbruk/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="lantbruk-och-landsbygd-lantbruk.html"/>
-    <parallel_text xml:lang="swe" location="lantbruk-och-landsbygd-lantbruk.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Agriculture - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Agriculture</p>
-    <p>Photo: Erik Köpmans</p>
-    <p>The County Administrative Board works to develop agribusiness within the county. A viable farming industry is the basis for an open agricultural landscape and a prosperous countryside. Our commission includes agricultural policy, EU aid and protection of the environment and cultural landscape.</p>
-    <p>Our main task is to promote sustainable, efficient and environmentally friendly agriculture through the agricultural policy of Sweden and the EU. This means that we have to convey a substantial amount of information and advice to the county farmers.</p>
-    <p>We accept applications for EU aid, administer, inspect and make decisions in accordance with the EU regulations.</p>
-    <p>Other areas of work include the application for acquisition of land and forest in rural areas, monitoring of the county bee-keeping, and training for the authorization to use pesticides.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>136</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/lantbruk-och-landsbygd/lantbruk/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="lantbruk-och-landsbygd-lantbruk.html"/><parallel_text xml:lang="swe" location="lantbruk-och-landsbygd-lantbruk.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Agriculture - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Agriculture</p>
+<p>Photo: Erik Köpmans</p>
+<p>The County Administrative Board works to develop agribusiness within the county. A viable farming industry is the basis for an open agricultural landscape and a prosperous countryside. Our commission includes agricultural policy, EU aid and protection of the environment and cultural landscape.</p>
+<p>Our main task is to promote sustainable, efficient and environmentally friendly agriculture through the agricultural policy of Sweden and the EU. This means that we have to convey a substantial amount of information and advice to the county farmers.</p>
+<p>We accept applications for EU aid, administer, inspect and make decisions in accordance with the EU regulations.</p>
+<p>Other areas of work include the application for acquisition of land and forest in rural areas, monitoring of the county bee-keeping, and training for the authorization to use pesticides.</p>
+</body></document>

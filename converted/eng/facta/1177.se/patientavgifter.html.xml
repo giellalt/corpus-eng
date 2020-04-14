@@ -1,96 +1,53 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1068</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Patientavgifter</origFileName>
-    <parallel_text xml:lang="fin" location="patientavgifter.html"/>
-    <parallel_text xml:lang="fit" location="patientavgifter.html"/>
-    <parallel_text xml:lang="sma" location="patientavgift.html"/>
-    <parallel_text xml:lang="sme" location="patientavgifter.html"/>
-    <parallel_text xml:lang="smj" location="patientavgifter.html"/>
-    <parallel_text xml:lang="swe" location="patientavgifter.html"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmy-rka"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmn"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmu"/>
-    <parallel_text location="patientavgifter.html" xml:lang="yid"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="patientavgifter.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Patient Fees / Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title">Patient FeesPatientavgifter</p>
-    <p xml:lang="swe"></p>
-    <p type="title">What do I have to pay?</p>
-    <p>County and municipal taxes cover most health care costs in Sweden. The fee you pay for a doctor’s appointment or other care represents only a small fraction of the actual costs.</p>
-    <p>The situation is different for plastic surgery and other private care that is not provided for medical reasons. In such cases, you pay the entire cost on your own.</p>
-    <p type="title">Fees vary from one county or municipality to another</p>
-    <p>It is largely up to the counties and municipalities to set the fees that you pay for doctor’s appointments and other healthcare services. Generally speaking, the fees charged by the various counties are quite similar. If you need a lot of health care, you are covered by high-cost protection as described in the next section.</p>
-    <p>The following approximate fees apply to care offered by both the counties/municipalities and the private providers with which the counties have signed agreements.</p>
-    <p>If you are hospitalised, you will be charged a daily fee that by law cannot exceed SEK 100.</p>
-    <p>A doctor’s appointment at a health centre costs SEK 100-300. The fee for an appointment with a gynaecologist or paediatrician is SEK 200-350. If one of the above doctors issues a referral for an X-ray or a similar examination, you do not generally have to pay an additional fee. Appointments with other specialists cost SEK 150-350. A visit to an emergency room costs SEK 220-400. The fee for an appointment with a nurse or physiotherapist is SEK 50-220.</p>
-    <p>Gynaecological screening – mammography for early detection of breast cancer and Pap smears for cervical cancer – may cost up to SEK 200.</p>
-    <p>Some countries charge a fee for ambulance or helicopter service.</p>
-    <p>Certain counties refund the appointment fee if you have to wait longer than agreed to. If you fail to cancel an appointment that you are unable to make or if you do not show up on time, you may still have to pay the fee.</p>
-    <p>If you want to receive either outpatient or inpatient care in a county other than the one where you are living, you will be charged the patient fees (co-pays) in effect for that particular county.</p>
-    <p type="title">Other care providers may charge different fees</p>
-    <p>If you have private or employer-provided health insurance, you may be subject to completely different fees.</p>
-    <p>Municipal health care for elderly with chronic diseases charges various fees for nursing services.</p>
-    <p>The website of the Swedish Association of Local Authorities and Regions lists the addresses of the country’s municipalities, county councils and regions. Those authorities can provide you with current, detailed information about their fees.</p>
-    <p type="title">Fees for foreign citizens</p>
-    <p>Foreign citizens are entitled to emergency care in Sweden.</p>
-    <p>If you come from another EU or EEA country, or Switzerland, you need a European Health Insurance Card to prove that you are entitled to emergency care at the ordinary fee. If you do not have a card, you may have to pay the entire cost.</p>
-    <p>If you obtain non-emergency care and do not want to pay more than the fee, you must have a certificate indicating that your country of origin will pay the rest. If you do not have such a certificate, you will be responsible for the entire cost.</p>
-    <p>If you come from most countries outside the EU, EEA and Switzerland, you will have to pay the entire cost of emergency or any other type of care.</p>
-    <p type="title">If you are a Swedish citizen and become ill abroad</p>
-    <p>If you are a Swedish citizen, a European Health Insurance Card – which you can order from Försäkringskassan – entitles you to emergency care in other EU and EEA countries, as well as Switzerland, on the same financial terms as inhabitants of those countries. You do not have to show the card in other Nordic countries.</p>
-    <p>You cannot receive compensation – either from Sweden or the other country – for healthcare costs in most countries outside the EU, EEA and Switzerland. So it is important that you have private travel insurance that covers the costs of transport and other care if you become ill. If you have householder’s insurance, some of the costs are likely to be covered.</p>
-    <p>Försäkringskassan’s website has additional information about obtaining health care abroad.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">High-cost protection</p>
-    <p type="title">Free pass when you reach the ceiling</p>
-    <p>The amount that you pay for health care is subject to a ceiling. The ceiling is referred to as high-cost protection and is designed the same way in each county.</p>
-    <p>High-cost protection ensures that you will not pay more than SEK 1,100 over a period of twelve months. The calculation starts with your first appointment, regardless of the time of year. Once you have paid SEK 1,100, you will receive a free pass that is valid for the remainder of the 12-month period. After the twelve months are over, you start paying again until you reach the SEK 1,100 once more.</p>
-    <p>High-cost protection does not usually cover</p>
-    <list>
-      <p type="listitem">daily hospital fees</p>
-      <p type="listitem">vaccinations</p>
-      <p type="listitem">other preventive care, such as mammography screening</p>
-      <p type="listitem">appointments that you fail to show up for</p>
-      <p type="listitem">copies of your medical records</p>
-    </list>
-    <p>High-cost protection does not usually cover dental care.</p>
-    <p>But dental care may be covered if you have a major, chronic need for personal care or nursing in your daily life. High-cost protection may also cover dental care that is needed as part of other medical treatment.</p>
-    <p>Prescriptions issued by doctors, nurses and other authorised caregivers are subject to high-cost protection of SEK 2,200. Nonprescription drugs are not covered by high-cost protection.</p>
-    <p>Medical devices and travel to obtain health care are subject to high-cost protection as determined by the individual counties. As a result, the regulations may vary from country to county.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">Free health care</p>
-    <p>Some health care may be free of charge in certain counties. However, you will have to pay for any prescriptions issued at these appointments.</p>
-    <p>Appointments at maternity and child health centres are free throughout Sweden.</p>
-    <p>Both appointments and vaccinations provided by school health services are free of charge.</p>
-    <p>Most counties do not charge children and adolescents below the age of 20 for appointments at health centres, youth clinics or other outpatient facilities.</p>
-    <p>Care and medication required for treatment of a disease that is a public health danger under the Communicable Diseases Act are free of charge.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1059</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Patientavgifter</origFileName><parallel_text xml:lang="fin" location="patientavgifter.html"/><parallel_text xml:lang="fit" location="patientavgifter.html"/><parallel_text xml:lang="sma" location="patientavgift.html"/><parallel_text xml:lang="sme" location="patientavgifter.html"/><parallel_text xml:lang="smj" location="patientavgifter.html"/><parallel_text xml:lang="swe" location="patientavgifter.html"/><parallel_text location="patientavgifter.html" xml:lang="rmy-rka"/><parallel_text location="patientavgifter.html" xml:lang="rmn"/><parallel_text location="patientavgifter.html" xml:lang="rmu"/><parallel_text location="patientavgifter.html" xml:lang="yid"/><parallel_text location="patientavgifter.html" xml:lang="rmy-rlo"/><parallel_text location="patientavgifter.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Patient Fees / Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Patient FeesPatientavgifter</p>
+<p xml:lang="swe"></p>
+<p type="title">What do I have to pay?</p>
+<p>County and municipal taxes cover most health care costs in Sweden. The fee you pay for a doctor’s appointment or other care represents only a small fraction of the actual costs.</p>
+<p>The situation is different for plastic surgery and other private care that is not provided for medical reasons. In such cases, you pay the entire cost on your own.</p>
+<p type="title">Fees vary from one county or municipality to another</p>
+<p>It is largely up to the counties and municipalities to set the fees that you pay for doctor’s appointments and other healthcare services. Generally speaking, the fees charged by the various counties are quite similar. If you need a lot of health care, you are covered by high-cost protection as described in the next section.</p>
+<p>The following approximate fees apply to care offered by both the counties/municipalities and the private providers with which the counties have signed agreements.</p>
+<p>If you are hospitalised, you will be charged a daily fee that by law cannot exceed SEK 100.</p>
+<p>A doctor’s appointment at a health centre costs SEK 100-300. The fee for an appointment with a gynaecologist or paediatrician is SEK 200-350. If one of the above doctors issues a referral for an X-ray or a similar examination, you do not generally have to pay an additional fee. Appointments with other specialists cost SEK 150-350. A visit to an emergency room costs SEK 220-400. The fee for an appointment with a nurse or physiotherapist is SEK 50-220.</p>
+<p>Gynaecological screening – mammography for early detection of breast cancer and Pap smears for cervical cancer – may cost up to SEK 200.</p>
+<p>Some countries charge a fee for ambulance or helicopter service.</p>
+<p>Certain counties refund the appointment fee if you have to wait longer than agreed to. If you fail to cancel an appointment that you are unable to make or if you do not show up on time, you may still have to pay the fee.</p>
+<p>If you want to receive either outpatient or inpatient care in a county other than the one where you are living, you will be charged the patient fees (co-pays) in effect for that particular county.</p>
+<p type="title">Other care providers may charge different fees</p>
+<p>If you have private or employer-provided health insurance, you may be subject to completely different fees.</p>
+<p>Municipal health care for elderly with chronic diseases charges various fees for nursing services.</p>
+<p>The website of the Swedish Association of Local Authorities and Regions lists the addresses of the country’s municipalities, county councils and regions. Those authorities can provide you with current, detailed information about their fees.</p>
+<p type="title">Fees for foreign citizens</p>
+<p>Foreign citizens are entitled to emergency care in Sweden.</p>
+<p>If you come from another EU or EEA country, or Switzerland, you need a European Health Insurance Card to prove that you are entitled to emergency care at the ordinary fee. If you do not have a card, you may have to pay the entire cost.</p>
+<p>If you obtain non-emergency care and do not want to pay more than the fee, you must have a certificate indicating that your country of origin will pay the rest. If you do not have such a certificate, you will be responsible for the entire cost.</p>
+<p>If you come from most countries outside the EU, EEA and Switzerland, you will have to pay the entire cost of emergency or any other type of care.</p>
+<p type="title">If you are a Swedish citizen and become ill abroad</p>
+<p>If you are a Swedish citizen, a European Health Insurance Card – which you can order from Försäkringskassan – entitles you to emergency care in other EU and EEA countries, as well as Switzerland, on the same financial terms as inhabitants of those countries. You do not have to show the card in other Nordic countries.</p>
+<p>You cannot receive compensation – either from Sweden or the other country – for healthcare costs in most countries outside the EU, EEA and Switzerland. So it is important that you have private travel insurance that covers the costs of transport and other care if you become ill. If you have householder’s insurance, some of the costs are likely to be covered.</p>
+<p>Försäkringskassan’s website has additional information about obtaining health care abroad.</p>
+<p xml:lang="swe"></p>
+<p type="title">High-cost protection</p>
+<p type="title">Free pass when you reach the ceiling</p>
+<p>The amount that you pay for health care is subject to a ceiling. The ceiling is referred to as high-cost protection and is designed the same way in each county.</p>
+<p>High-cost protection ensures that you will not pay more than SEK 1,100 over a period of twelve months. The calculation starts with your first appointment, regardless of the time of year. Once you have paid SEK 1,100, you will receive a free pass that is valid for the remainder of the 12-month period. After the twelve months are over, you start paying again until you reach the SEK 1,100 once more.</p>
+<p>High-cost protection does not usually cover</p>
+<list><p type="listitem">daily hospital fees</p>
+<p type="listitem">vaccinations</p>
+<p type="listitem">other preventive care, such as mammography screening</p>
+<p type="listitem">appointments that you fail to show up for</p>
+<p type="listitem">copies of your medical records</p>
+</list><p>High-cost protection does not usually cover dental care.</p>
+<p>But dental care may be covered if you have a major, chronic need for personal care or nursing in your daily life. High-cost protection may also cover dental care that is needed as part of other medical treatment.</p>
+<p>Prescriptions issued by doctors, nurses and other authorised caregivers are subject to high-cost protection of SEK 2,200. Nonprescription drugs are not covered by high-cost protection.</p>
+<p>Medical devices and travel to obtain health care are subject to high-cost protection as determined by the individual counties. As a result, the regulations may vary from country to county.</p>
+<p xml:lang="swe"></p>
+<p type="title">Free health care</p>
+<p>Some health care may be free of charge in certain counties. However, you will have to pay for any prescriptions issued at these appointments.</p>
+<p>Appointments at maternity and child health centres are free throughout Sweden.</p>
+<p>Both appointments and vaccinations provided by school health services are free of charge.</p>
+<p>Most counties do not charge children and adolescents below the age of 20 for appointments at health centres, youth clinics or other outpatient facilities.</p>
+<p>Care and medication required for treatment of a disease that is a public health danger under the Communicable Diseases Act are free of charge.</p>
+</body></document>

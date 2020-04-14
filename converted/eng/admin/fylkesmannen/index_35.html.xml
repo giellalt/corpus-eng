@@ -1,90 +1,57 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>294</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/en/Climate-and-the-environment/Pollution/</origFileName>
-    <parallel_text xml:lang="nob" location="index_35.html"/>
-    <parallel_text xml:lang="sma" location="index_35.html"/>
-    <parallel_text xml:lang="sme" location="index_35.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno">Pollution - County Governor - Fylkesmannen.no</p>
-    <p>Jump to content</p>
-    <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Sound version</p>
-      <p type="listitem">High contrast</p>
-      <p type="listitem" xml:lang="nno"></p>
-      <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="dan">Miljø og klima</p>
-    <list>
-      <p type="listitem">People and society</p>
-      <p type="listitem">Nursery schools and education</p>
-      <p type="listitem">Children and parents</p>
-      <p type="listitem">Health, care and social services</p>
-    </list>
-    <list>
-      <p type="listitem">Agriculture and food</p>
-      <p type="listitem">Municipal administration</p>
-      <p type="listitem">Planning and building</p>
-      <p type="listitem">Civil protection</p>
-    </list>
-    <p xml:lang="nob">County Governor</p>
-    <p>Climate and the environment</p>
-    <p>Pollution</p>
-    <list>
-      <p type="listitem" xml:lang="ron">Climate</p>
-      <p type="listitem">Fish farming</p>
-      <p type="listitem">Large predators</p>
-      <p type="listitem">Natural diversity</p>
-      <p type="listitem">Offroad motor traffic</p>
-      <p type="listitem">Outdoor recreation</p>
-      <p type="listitem">Pollution</p>
-      <p type="listitem">Protected areas</p>
-      <p type="listitem">The freshwater fish administration</p>
-      <p type="listitem">Waste and recycling</p>
-      <p type="listitem">Water resources</p>
-    </list>
-    <p type="title">Pollution</p>
-    <p xml:lang="est">Published 10/14/2012 Updated 4/4/2017</p>
-    <p>The County Governor is the government authority for matters concerning pollution for a range of activities and measures, and can grant licences for activities that may cause pollution. Our areas of responsibility include chemicals that are hazardous to health and the environment, waste and recycling, air pollution and noise, as well as the pollution of water and soil.</p>
-    <p>Some of the County Governor’s responsibilities under the Pollution Control Act include:</p>
-    <list>
-      <p type="listitem">processing applications for discharge permits for activities that require licences from the County Governor, including asphalt and stone crushing plants, water treatment plants, waste treatment plants, vehicle scrapyards, incineration facilities, firing ranges, motor-racing tracks and various industrial firms;</p>
-      <p type="listitem">supervising operations in sectors for which no licence is required but which are nevertheless governed by regulations, including asphalt plants, stone crushing plants, biofuel plants and shipyards;</p>
-      <p type="listitem">making decisions on applications regarding the discharge of sewage into freshwater and seas;</p>
-      <p type="listitem">processing applications for the storage of waste water sludge;</p>
-      <p type="listitem">processing applications regarding dredging and dumping;</p>
-      <p type="listitem">monitoring areas in which the land is contaminated and decommissioned waste disposal sites; and supervising and inspecting to ensure there are no breaches of the Pollution Control Act, regulations or licences.</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title" xml:lang="est">Links</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Forurensningsloven</p>
-      <p type="listitem" xml:lang="nob">Forurensingsforskriften</p>
-      <p type="listitem" xml:lang="est">Miljøstatus</p>
-      <p type="listitem" xml:lang="nob">Miljødirektoratet</p>
-      <p type="listitem" xml:lang="nob">Norske utslipp</p>
-      <p type="listitem" xml:lang="nno">Regelhjelp</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>294</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/Climate-and-the-environment/Pollution/</origFileName><parallel_text xml:lang="nob" location="index_35.html"/><parallel_text xml:lang="sma" location="index_35.html"/><parallel_text xml:lang="sme" location="index_35.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Pollution - County Governor - Fylkesmannen.no</p>
+<p>Jump to content</p>
+<p xml:lang="nno">County Governor - Fylkesmannen.no</p>
+<list><p type="listitem">Sound version</p>
+<p type="listitem">High contrast</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="dan">Miljø og klima</p>
+<list><p type="listitem">People and society</p>
+<p type="listitem">Nursery schools and education</p>
+<p type="listitem">Children and parents</p>
+<p type="listitem">Health, care and social services</p>
+</list><list><p type="listitem">Agriculture and food</p>
+<p type="listitem">Municipal administration</p>
+<p type="listitem">Planning and building</p>
+<p type="listitem">Civil protection</p>
+</list><p xml:lang="nob">County Governor</p>
+<p>Climate and the environment</p>
+<p>Pollution</p>
+<list><p type="listitem" xml:lang="ron">Climate</p>
+<p type="listitem">Fish farming</p>
+<p type="listitem">Large predators</p>
+<p type="listitem">Natural diversity</p>
+<p type="listitem">Offroad motor traffic</p>
+<p type="listitem">Outdoor recreation</p>
+<p type="listitem">Pollution</p>
+<p type="listitem">Protected areas</p>
+<p type="listitem">The freshwater fish administration</p>
+<p type="listitem">Waste and recycling</p>
+<p type="listitem">Water resources</p>
+</list><p type="title">Pollution</p>
+<p xml:lang="est">Published 10/14/2012 Updated 4/4/2017</p>
+<p>The County Governor is the government authority for matters concerning pollution for a range of activities and measures, and can grant licences for activities that may cause pollution. Our areas of responsibility include chemicals that are hazardous to health and the environment, waste and recycling, air pollution and noise, as well as the pollution of water and soil.</p>
+<p>Some of the County Governor’s responsibilities under the Pollution Control Act include:</p>
+<list><p type="listitem">processing applications for discharge permits for activities that require licences from the County Governor, including asphalt and stone crushing plants, water treatment plants, waste treatment plants, vehicle scrapyards, incineration facilities, firing ranges, motor-racing tracks and various industrial firms;</p>
+<p type="listitem">supervising operations in sectors for which no licence is required but which are nevertheless governed by regulations, including asphalt plants, stone crushing plants, biofuel plants and shipyards;</p>
+<p type="listitem">making decisions on applications regarding the discharge of sewage into freshwater and seas;</p>
+<p type="listitem">processing applications for the storage of waste water sludge;</p>
+<p type="listitem">processing applications regarding dredging and dumping;</p>
+<p type="listitem">monitoring areas in which the land is contaminated and decommissioned waste disposal sites; and supervising and inspecting to ensure there are no breaches of the Pollution Control Act, regulations or licences.</p>
+</list><list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="est">Links</p>
+<list><p type="listitem" xml:lang="nob">Forurensningsloven</p>
+<p type="listitem" xml:lang="nob">Forurensingsforskriften</p>
+<p type="listitem" xml:lang="est">Miljøstatus</p>
+<p type="listitem" xml:lang="nob">Miljødirektoratet</p>
+<p type="listitem" xml:lang="nob">Norske utslipp</p>
+<p type="listitem" xml:lang="nno">Regelhjelp</p>
+</list></body></document>
