@@ -1,56 +1,32 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Anaras - Language</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <wordcount>1008</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/english/kieli/kieli.html</origFileName>
-    <parallel_text xml:lang="fin" location="kieli.html"/>
-    <parallel_text xml:lang="smn" location="kieli.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Orthography</p>
-    <p>Language and Identity</p>
-    <p>The Storytelling Tradition</p>
-    <p>Literature</p>
-    <p>Works Published in Inari Sámi</p>
-    <p>The identity of the Inari Sámi differentiates them not only from the Finns, but also form other Sámi peoples, the Northern and Skolt Sámis, though they in general identify themselves with all Sámis. The characteristics of their own group are above all else language, home territory, ancestors and clothing. Language is the foundation of culture and identity. It has, besides being also a means of communication, a built-in conception of living environment and other forms of nature, object culture, lifestyle and world view. If a language disappears, there is not much culture left. Even though, for example, a form of Sámi handicraft can be learned with a bit of practice, the terminology involved concerning the names of materials and the verbs describing the work needs to be learned. Life as a Sámi without fluency in the language is incomplete. The Region and Amount  There are about 300 speakers of Inari Sámi, depending on how fluency is determined. This amount is perhaps a third of all Inari Sámis. The greater part can speak only a little Sámi or only Finnish. Inari Sámi is traditionally spoken in the environs of Lake Inari in e.g. the following places: Nellim, Ivalo, Menesjärvi, Repojoki, Tirro, the village of Inari, Kaamanen, Aksujärvi, Syysjärvi, Iijärvi, Sevettijärvi and Partakko. The Characteristics of Inari Sámi  Inari Sámi is linguistically an eastern Sámi dialect, although it is easier for them to understand the western dialect northern Sámi than the eastern Skolt Sámi. This is so at least for the Inari Sámis living west of the border. The neighbors of the Skolts however better understand Skolt and some even speak it. Inari Sámis use the word language to express differences between dialects: <em type="italic">Anarâškielâ </em>, the Inari language. The distinction from other Sámi languages is so great that understanding neighboring languages requires getting accustomed to them. This explains why it is out of the question to use the same teaching materials between different Sámi language groups. The following are a few examples of words similar to each other in different Sámi languages: </p>
-    <p>English <em type="italic">fish </em><em type="italic">mother </em><em type="italic">reindeer </em></p>
-    <p xml:lang="sme">North Sámi <em type="italic">guolli </em><em type="italic">eadni boazu </em></p>
-    <p xml:lang="smn">Inari Sámi <em type="italic">kyeli </em><em type="italic">enni </em><em type="italic">puásui </em></p>
-    <p xml:lang="sms">Skolt Sámi <em type="italic">kue'll </em><em type="italic">jeä'n'n puä </em></p>
-    <p>Diverging words:</p>
-    <p>English <em type="italic">lynx </em><em type="italic">cat past/over </em></p>
-    <p xml:lang="sme">North Sámi <em type="italic">albbas </em><em type="italic">bussá meattá </em></p>
-    <p xml:lang="smn">Inari Sámi <em type="italic">iilvâs </em><em type="italic">kissá </em><em type="italic">lappâd </em></p>
-    <p xml:lang="sms">Skolt Sámi <em type="italic">riiss </em><em type="italic">kaass rääi </em></p>
-    <p>Although Finnish and Inari Sami are related languages and structurally similar, there are structural differences as well, for example: -Inari Sámi has only nine cases -In addition to the singular and plural in personal pronouns and verbs, there is a double form called the dual, e.g. čuoigâm (I ski), čyeigeen (we two ski), čuoigâp (we ski)</p>
-    <p>There are no partitive objects in Inari Sámi as in Finnish. E.g. the expression Mun puurâm leeibi can either mean <em type="italic">Minä syön leivän </em>(I eat the bread) or <em type="italic">Minä syön leipää </em>(I eat bread) in Finnish. The Sámi language has an abundant and multifaceted vocabulary concerning natural conditions, but modern language use requires new words as well. There are about 10,000 new word additions to Inari Sámi. </p>
-    <p>Back to Top</p>
-    <p>The Use of the Language in Official Contexts  Inari Sámi language teaching began in the first half of the 1970s in comprehensive school part-time teaching. Now Inari Sámi language is included in the curriculum both as the language of instruction and a subject. In 2005-2006 subjects were taught in the 1-4 grades of primary school in the Inari Sámi language. In addition to this, it is taught as the mother tongue and a foreign language in higher grades. All accounted for, 18 students receive education in Inari Sámi in comprehensive schools as well two in secondary school. Since 1998 students have been able to take matriculation exams at Ivalo Secondary School for Inari Sámi as a mother tongue or as a foreign language. It is possible to take basic studies in Inari Sámi at universities. The amount of teaching has increased over the last years. The instruction of the Inari Sámi language is nonetheless plagued by a great lack of teaching materials. There are only a few comprehensive school textbooks in existence because there are so few writers. There is also a tangible lack of teachers. The problem for this small language group is symptomatic; capable and active people are few and far between. The same person is often forced to be teacher, editor, cultural worker, lawyer, musician, artist, writer, researcher, politician, youth counselor, etc. <em type="italic">An Endangered Language Needs Support </em>According to information gathered by the Sámi Parliament in 1995 there are about 350 people for whom Inari Sámi is their first language. When the number of Finnish speaking Inari Sámis is added to this number, the total is around a thousand. Most of the most capable Inari Sámi experts are however old or middle-aged. There are comparatively few children and youth who can claim the same. In 1986 <em type="italic">Anarâškielâ servi Co. </em>(Inari Sámi Language Association; http://www.anaraskielaservi.net) was formed to promote the Inari Sámi language. The language bath (kindergarten) <em type="italic">Kielâpiervâl </em>run by the association began its operations in 1997 and has led to an increase in the number of young Inari Sámi speakers. Although there has been much done to resuscitate the language in recent times, it is still endangered and needs vigorous and speedy support. There is yet reason to believe that if the language receives a secure standing and multifaceted use, Inari will live. From the beginning of 2004 the Sámi language legislation that came into effect is applicable to the Inari Sámi language as well. It strengthens the stance of Inari Sámi and will lead to its greater use. </p>
-    <p xml:lang="fin"><em type="italic">Matti Morottaja </em> </p>
-    <p xml:lang="nno"></p>
-    <p>The  Sámi languages and language areas. Click on the picture to enlarge the map.</p>
-    <p>›› What does Inari Sámi sound like?</p>
-    <p>Kala (Fish)-Martti’s story  told by Iisakki Paadar</p>
-    <p xml:lang="vep">(.mp3 1.28mb)</p>
-    <p xml:lang="nno"></p>
-    <p>E.W. Borg’s <span type="quote" xml:lang="nob">“ABC- Book”</span> (published in  1859) illustrations.</p>
-    <p>Matti Morottaja, founder of Kielâpiervâl              (language nest), teaching willow grouse trap-making to language bath              children.</p>
-    <p>Back to Top</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Anaras - Language</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>1008</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/english/kieli/kieli.html</origFileName><parallel_text xml:lang="fin" location="kieli.html"/><parallel_text xml:lang="smn" location="kieli.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Orthography</p>
+<p>Language and Identity</p>
+<p>The Storytelling Tradition</p>
+<p>Literature</p>
+<p>Works Published in Inari Sámi</p>
+<p>The identity of the Inari Sámi differentiates them not only from the Finns, but also form other Sámi peoples, the Northern and Skolt Sámis, though they in general identify themselves with all Sámis. The characteristics of their own group are above all else language, home territory, ancestors and clothing. Language is the foundation of culture and identity. It has, besides being also a means of communication, a built-in conception of living environment and other forms of nature, object culture, lifestyle and world view. If a language disappears, there is not much culture left. Even though, for example, a form of Sámi handicraft can be learned with a bit of practice, the terminology involved concerning the names of materials and the verbs describing the work needs to be learned. Life as a Sámi without fluency in the language is incomplete. The Region and Amount  There are about 300 speakers of Inari Sámi, depending on how fluency is determined. This amount is perhaps a third of all Inari Sámis. The greater part can speak only a little Sámi or only Finnish. Inari Sámi is traditionally spoken in the environs of Lake Inari in e.g. the following places: Nellim, Ivalo, Menesjärvi, Repojoki, Tirro, the village of Inari, Kaamanen, Aksujärvi, Syysjärvi, Iijärvi, Sevettijärvi and Partakko. The Characteristics of Inari Sámi  Inari Sámi is linguistically an eastern Sámi dialect, although it is easier for them to understand the western dialect northern Sámi than the eastern Skolt Sámi. This is so at least for the Inari Sámis living west of the border. The neighbors of the Skolts however better understand Skolt and some even speak it. Inari Sámis use the word language to express differences between dialects: <em type="italic">Anarâškielâ </em>, the Inari language. The distinction from other Sámi languages is so great that understanding neighboring languages requires getting accustomed to them. This explains why it is out of the question to use the same teaching materials between different Sámi language groups. The following are a few examples of words similar to each other in different Sámi languages: </p>
+<p>English <em type="italic">fish </em><em type="italic">mother </em><em type="italic">reindeer </em></p>
+<p xml:lang="sme">North Sámi <em type="italic">guolli </em><em type="italic">eadni boazu </em></p>
+<p xml:lang="smn">Inari Sámi <em type="italic">kyeli </em><em type="italic">enni </em><em type="italic">puásui </em></p>
+<p xml:lang="sms">Skolt Sámi <em type="italic">kue'll </em><em type="italic">jeä'n'n puä </em></p>
+<p>Diverging words:</p>
+<p>English <em type="italic">lynx </em><em type="italic">cat past/over </em></p>
+<p xml:lang="sme">North Sámi <em type="italic">albbas </em><em type="italic">bussá meattá </em></p>
+<p xml:lang="smn">Inari Sámi <em type="italic">iilvâs </em><em type="italic">kissá </em><em type="italic">lappâd </em></p>
+<p xml:lang="sms">Skolt Sámi <em type="italic">riiss </em><em type="italic">kaass rääi </em></p>
+<p>Although Finnish and Inari Sami are related languages and structurally similar, there are structural differences as well, for example: -Inari Sámi has only nine cases -In addition to the singular and plural in personal pronouns and verbs, there is a double form called the dual, e.g. čuoigâm (I ski), čyeigeen (we two ski), čuoigâp (we ski)</p>
+<p>There are no partitive objects in Inari Sámi as in Finnish. E.g. the expression Mun puurâm leeibi can either mean <em type="italic">Minä syön leivän </em>(I eat the bread) or <em type="italic">Minä syön leipää </em>(I eat bread) in Finnish. The Sámi language has an abundant and multifaceted vocabulary concerning natural conditions, but modern language use requires new words as well. There are about 10,000 new word additions to Inari Sámi. </p>
+<p>Back to Top</p>
+<p>The Use of the Language in Official Contexts  Inari Sámi language teaching began in the first half of the 1970s in comprehensive school part-time teaching. Now Inari Sámi language is included in the curriculum both as the language of instruction and a subject. In 2005-2006 subjects were taught in the 1-4 grades of primary school in the Inari Sámi language. In addition to this, it is taught as the mother tongue and a foreign language in higher grades. All accounted for, 18 students receive education in Inari Sámi in comprehensive schools as well two in secondary school. Since 1998 students have been able to take matriculation exams at Ivalo Secondary School for Inari Sámi as a mother tongue or as a foreign language. It is possible to take basic studies in Inari Sámi at universities. The amount of teaching has increased over the last years. The instruction of the Inari Sámi language is nonetheless plagued by a great lack of teaching materials. There are only a few comprehensive school textbooks in existence because there are so few writers. There is also a tangible lack of teachers. The problem for this small language group is symptomatic; capable and active people are few and far between. The same person is often forced to be teacher, editor, cultural worker, lawyer, musician, artist, writer, researcher, politician, youth counselor, etc. <em type="italic">An Endangered Language Needs Support </em>According to information gathered by the Sámi Parliament in 1995 there are about 350 people for whom Inari Sámi is their first language. When the number of Finnish speaking Inari Sámis is added to this number, the total is around a thousand. Most of the most capable Inari Sámi experts are however old or middle-aged. There are comparatively few children and youth who can claim the same. In 1986 <em type="italic">Anarâškielâ servi Co. </em>(Inari Sámi Language Association; http://www.anaraskielaservi.net) was formed to promote the Inari Sámi language. The language bath (kindergarten) <em type="italic">Kielâpiervâl </em>run by the association began its operations in 1997 and has led to an increase in the number of young Inari Sámi speakers. Although there has been much done to resuscitate the language in recent times, it is still endangered and needs vigorous and speedy support. There is yet reason to believe that if the language receives a secure standing and multifaceted use, Inari will live. From the beginning of 2004 the Sámi language legislation that came into effect is applicable to the Inari Sámi language as well. It strengthens the stance of Inari Sámi and will lead to its greater use. </p>
+<p xml:lang="fin"><em type="italic">Matti Morottaja </em> </p>
+<p xml:lang="swe"></p>
+<p>The  Sámi languages and language areas. Click on the picture to enlarge the map.</p>
+<p>›› What does Inari Sámi sound like?</p>
+<p>Kala (Fish)-Martti’s story  told by Iisakki Paadar</p>
+<p xml:lang="vep">(.mp3 1.28mb)</p>
+<p xml:lang="swe"></p>
+<p>E.W. Borg’s <span type="quote" xml:lang="nob">“ABC- Book”</span> (published in  1859) illustrations.</p>
+<p>Matti Morottaja, founder of Kielâpiervâl              (language nest), teaching willow grouse trap-making to language bath              children.</p>
+<p>Back to Top</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

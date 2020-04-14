@@ -1,69 +1,48 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Ole Henrik Magga celebration seminar | Sámi University of Applied Sciences</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>405</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/en/a/ole-henrik-magga-celebration-seminar</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p xml:lang="sme">Seminára</p>
-    <p>15. November, 08:30  to 16:00</p>
-    <p type="title" xml:lang="nob">Ole Henrik Magga celebration seminar</p>
-    <p type="title" xml:lang="nob">A seminar to celebrate professor emeritus Ole Henrik Magga</p>
-    <p type="title">November 15, 2017, at the Sámi University of Applied Sciences</p>
-    <p>Please join the Sámi University of Applied Sciences in celebrating the 70th birthday of its first professor and the first president of the Sámi Parliament in Norway, Ole Henrik Magga. At this celebratory seminar, we will examine Magga’s career as a linguist and a Sámi politician, and his work to advance Indigenous human rights and Sámi higher education.</p>
-    <p>The seminar will be held primary in North Sámi. Interpretation into English will be arranged. The participation fee is 200 Nkr, and includes lunch and a celebratory dinner.</p>
-    <p>To register for the event, please visit: http://www.deltager.no/ohm_avvuseminara .</p>
-    <p>The deadline for registrations is November 1, 2017.</p>
-    <p>Lassedieđut/Contact information:</p>
-    <p xml:lang="deu">Professor Vuokko Hirvonen</p>
-    <p xml:lang="sme">vuokko.hirvonen@samiskhs.no</p>
-    <p>The seminar is organized by the Sámi University of Applied Sciences and the Sámi Parliament in Norway.</p>
-    <p xml:lang="vep"><em type="italic">Welcome! </em></p>
-    <p type="title" xml:lang="ron">Seminar program</p>
-    <p>08.30–09.00 Registration</p>
-    <p>09.00–09.10 Opening remarks</p>
-    <p>09.10–09.15 Celebratory address by the Rector of the Sámi University of Applied Sciences</p>
-    <p>09.20–09.30 Celebratory address by the President of the Sámi Parliament in Norway</p>
-    <p>09.30–10.15 <em type="italic">The challenges of the Sámi language as an Indigenous language: research and future </em></p>
-    <p xml:lang="nob">Celebratory lecture by Professor emeritus Ole Henrik Magga, Sámi University of Applied Sciences</p>
-    <p xml:lang="deu">10.15–10.45 <em type="italic">COFFEE BREAK </em></p>
-    <p xml:lang="nob">10.45–11.15 <em type="italic">Ole Henrik Magga as a linguist </em></p>
-    <p xml:lang="fin">Professor Jussi Ylikoski, Giellagas Institute, University of Oulu</p>
-    <p>11.45–12.15 When we began to show Sámi spirit ( <em type="italic">ČSV) </em></p>
-    <p xml:lang="nob">Professor emeritus Johán Lemet Kalstad, Sámi University of Applied Sciences</p>
-    <p xml:lang="vep">12.15–12.45 <em type="italic">LUNCH </em></p>
-    <p>12.45–13.15 <em type="italic">Ole Henrik Magga as the President of the Sámi Parliament in Norway </em></p>
-    <p>Rune Fjellheim, Director, Sámi Parliament in Norway</p>
-    <p>13.15–13.45 <em type="italic">Representing Indigenous Peoples: XHM as the Chairperson of the UN Permanent Forum for Indigenous Issues </em></p>
-    <p>Laila Susanne Vars, Deputy director, Norwegian National Human Rights Institution (NHRI)</p>
-    <p>13.45–14.15 <em type="italic">Ole Henrik Magga as an intermediary between the Sámi and state officials – the advancement of Sámi rights </em></p>
-    <p xml:lang="nob">Professor Else Grete Broderstad, Center for Sámi Research, UiT Arctic University in Norway</p>
-    <p xml:lang="deu">14.00–14.30 <em type="italic">COFFEE BREAK </em></p>
-    <p>14.30–15.15 <em type="italic"><span type="quote">“Place names hold the roots of a nation”</span>. The work of Ole Heandarat with Sámi place names </em></p>
-    <p xml:lang="nob">Associate Professor Kaisa Rautio Helander, Sámi University of Applied Sciences</p>
-    <p>15.15–15.45 <em type="italic">Ole Henrik Magga as a colleague, teacher and advisor </em></p>
-    <p xml:lang="nob">Doctoral Candidate Helena Omma, Sámi University of Applied Sciences</p>
-    <p xml:lang="nob">Professor Vuokko Hirvonen, Sámi University of Applied Sciences</p>
-    <p>15.45 Closing remarks</p>
-    <p xml:lang="nob">19.00– CELEBRATORY DINNER</p>
-    <p>The program is subject to change.</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Ole Henrik Magga celebration seminar | Sámi University of Applied Sciences</title><genre code="admin"/><author><unknown/></author><wordcount>405</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/en/a/ole-henrik-magga-celebration-seminar</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p xml:lang="sme">Seminára</p>
+<p>15. November, 08:30  to 16:00</p>
+<p type="title" xml:lang="nob">Ole Henrik Magga celebration seminar</p>
+<p type="title" xml:lang="nob">A seminar to celebrate professor emeritus Ole Henrik Magga</p>
+<p type="title">November 15, 2017, at the Sámi University of Applied Sciences</p>
+<p>Please join the Sámi University of Applied Sciences in celebrating the 70th birthday of its first professor and the first president of the Sámi Parliament in Norway, Ole Henrik Magga. At this celebratory seminar, we will examine Magga’s career as a linguist and a Sámi politician, and his work to advance Indigenous human rights and Sámi higher education.</p>
+<p>The seminar will be held primary in North Sámi. Interpretation into English will be arranged. The participation fee is 200 Nkr, and includes lunch and a celebratory dinner.</p>
+<p>To register for the event, please visit: http://www.deltager.no/ohm_avvuseminara .</p>
+<p>The deadline for registrations is November 1, 2017.</p>
+<p>Lassedieđut/Contact information:</p>
+<p xml:lang="deu">Professor Vuokko Hirvonen</p>
+<p xml:lang="sme">vuokko.hirvonen@samiskhs.no</p>
+<p>The seminar is organized by the Sámi University of Applied Sciences and the Sámi Parliament in Norway.</p>
+<p xml:lang="vep"><em type="italic">Welcome! </em></p>
+<p type="title" xml:lang="ron">Seminar program</p>
+<p>08.30–09.00 Registration</p>
+<p>09.00–09.10 Opening remarks</p>
+<p>09.10–09.15 Celebratory address by the Rector of the Sámi University of Applied Sciences</p>
+<p>09.20–09.30 Celebratory address by the President of the Sámi Parliament in Norway</p>
+<p>09.30–10.15 <em type="italic">The challenges of the Sámi language as an Indigenous language: research and future </em></p>
+<p xml:lang="nob">Celebratory lecture by Professor emeritus Ole Henrik Magga, Sámi University of Applied Sciences</p>
+<p xml:lang="deu">10.15–10.45 <em type="italic">COFFEE BREAK </em></p>
+<p xml:lang="nob">10.45–11.15 <em type="italic">Ole Henrik Magga as a linguist </em></p>
+<p xml:lang="fin">Professor Jussi Ylikoski, Giellagas Institute, University of Oulu</p>
+<p>11.45–12.15 When we began to show Sámi spirit ( <em type="italic">ČSV) </em></p>
+<p xml:lang="nob">Professor emeritus Johán Lemet Kalstad, Sámi University of Applied Sciences</p>
+<p xml:lang="nob">12.15–12.45 <em type="italic">LUNCH </em></p>
+<p>12.45–13.15 <em type="italic">Ole Henrik Magga as the President of the Sámi Parliament in Norway </em></p>
+<p>Rune Fjellheim, Director, Sámi Parliament in Norway</p>
+<p>13.15–13.45 <em type="italic">Representing Indigenous Peoples: XHM as the Chairperson of the UN Permanent Forum for Indigenous Issues </em></p>
+<p>Laila Susanne Vars, Deputy director, Norwegian National Human Rights Institution (NHRI)</p>
+<p>13.45–14.15 <em type="italic">Ole Henrik Magga as an intermediary between the Sámi and state officials – the advancement of Sámi rights </em></p>
+<p xml:lang="nob">Professor Else Grete Broderstad, Center for Sámi Research, UiT Arctic University in Norway</p>
+<p xml:lang="deu">14.00–14.30 <em type="italic">COFFEE BREAK </em></p>
+<p>14.30–15.15 <em type="italic"><span type="quote">“Place names hold the roots of a nation”</span>. The work of Ole Heandarat with Sámi place names </em></p>
+<p xml:lang="nob">Associate Professor Kaisa Rautio Helander, Sámi University of Applied Sciences</p>
+<p>15.15–15.45 <em type="italic">Ole Henrik Magga as a colleague, teacher and advisor </em></p>
+<p xml:lang="nob">Doctoral Candidate Helena Omma, Sámi University of Applied Sciences</p>
+<p xml:lang="nob">Professor Vuokko Hirvonen, Sámi University of Applied Sciences</p>
+<p>15.45 Closing remarks</p>
+<p xml:lang="deu">19.00– CELEBRATORY DINNER</p>
+<p>The program is subject to change.</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+</body></document>

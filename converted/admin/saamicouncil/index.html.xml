@@ -1,72 +1,47 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title> Saami Council - National symbols</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>652</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.saamicouncil.net/en/about-saami-council/national-symbols/</origFileName>
-    <parallel_text xml:lang="sme" location="index_1.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <list>
-      <p type="listitem" xml:lang="kal">   <list><p type="listitem" xml:lang="kal">Saami</p><p type="listitem">English</p><p type="listitem" xml:lang="kal">Finnish</p><p type="listitem">Norwegian</p><p type="listitem">Russian</p></list></p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nob">Home</p>
-      <p type="listitem">About Saami Council</p>
-      <p type="listitem">National symbols</p>
-    </list>
-    <p>About Saami Council</p>
-    <p>Representatives and staff</p>
-    <p>National symbols</p>
-    <p>Representations</p>
-    <p type="title">National Symbols</p>
-    <p>
-      <em type="italic">"...I also want to mention that many peoples expect that the Saami have their own symbol, and that the Saami have a symbol based on the notion that the Saami are one people and that we have our own homeland." </em>
-    </p>
-    <p>Representative of the Saami Council Mr. Lars Anders Baer, 8th Saami Conference, Åre 13.-15.8.1986</p>
-    <p>National symbols are meant to unite the people by forming a symbolic representative for a nation's and people's values, goals and history. These symbols are often used at festivities and celebrations. The Saami flag, Saami national days, the National Day of the Saami People and the national anthem of the Saami are examples of national symbols.</p>
-    <p type="title">The Saami flag</p>
-    <p>The Saami flag is the flag of all Saami, no matter what country they live in.</p>
-    <p>The 13th Saami Conference, held in Åre, Sweden in 1986, adopted the Saami flag.</p>
-    <p>The Saami Council had called for contributions to a competition to adopt a new Saami flag, with a reward of 2,000 FIM to the winning contribution. Rose Marie Huuva, Kaaren Kitti and Máret Sárá were appointed to a Flag Working Group by the Saami Council. Altogether 27 artists submitted 74 contributions, besides the flag designed by Synnøve Persen which had been used so far as an informal flag.</p>
-    <p>The Åre Saami Conference aadopted the flag design submitted by Astrid Båhl. Astrid Båhl comes from Ivgonvuonbahta (Skibotn, Norway). It was based on the flag that had already been used in Sápmi, but the green colour and the ring was added. The designer called the flag "Saami are children of the sun". The red part of the flag symbolizes the sun and the blue part symbolizes the moon.</p>
-    <p type="title" xml:lang="vep">Saami flag days</p>
-    <p>Saami flag days, adopted by the Saami Conference in Helsinki, 1992 the Saami Conference in Murmansk, 1996 and the Saami Conference in Tråante 2017:</p>
-    <list>
-      <p type="listitem"><em type="bold">February 6th </em>– The National Day of the Saami People which celebrates the memory of the first national gathering of the Saami, which was held in Trondheim in 1917 </p>
-      <p type="listitem"><em type="bold">March 2nd </em>– Opening of the new Saami Parliament of Finland in 1996 </p>
-      <p type="listitem"><em type="bold">March 25th </em>– Annunciation to the Blessed Virgin Mary, traditional Saami holiday </p>
-      <p type="listitem"><em type="bold">Midsummer's day - </em>official holiday </p>
-      <p type="listitem"><em type="bold">August 9th </em>– UN International Day of the World's Indigenous Peoples </p>
-      <p type="listitem"><em type="bold">August 15th </em>– The Saami flag was adoped on this date in 1986 </p>
-      <p type="listitem"><em type="bold">August 18th </em>– The Saami Council was founded on this date in 1956 </p>
-      <p type="listitem"><em type="bold">August 26th </em>– The Saami Parliament of Sweden was founded on this date in 1993 </p>
-      <p type="listitem"><em type="bold">October 9th </em>– The Saami Parliament of Norway was founded on this date in 1989 </p>
-      <p type="listitem"><em type="bold">November 9th </em>– The Delegation for Saami Issues in Finland was founded on this date in 1973 </p>
-      <p type="listitem"><em type="bold">November 29th </em>- Elsa Laula Renberg was born on this date. </p>
-      <p type="listitem"><em type="bold">November 15th </em>- Isak Saba was born on this date in 1875. He wrote the national anthem of the Saami. </p>
-    </list>
-    <p type="title">National anthem of the Saami</p>
-    <p>The national anthem of the Saami was adopted by the Saami Conference held in Åre in 1986. The national anthem is a poem that Isak Saba wrote which was submitted to and published in the newspaper Sagai Muittalægje in 1906. Arne Sørli wrote the music to the poem and the melody was adopted by the 15th Saami Conference, held in Helsinki in 1992. The lyrics have been translated from North Saami to other Saami languages.</p>
-    <p type="title">The National Day of the Saami People</p>
-    <p>February 6th is the National Day of the Saami People and it is celebrated all over Sápmi, the Saami lands. This day commemorates the first Saami national meeting, which was held in Trondheim in 1917. This was the first time the Saami gathered to work with common Saami issues cross national borders. This day was celebrated for the first time in 1993.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title> Saami Council - National symbols</title><genre code="admin"/><author><unknown/></author><wordcount>652</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.saamicouncil.net/en/about-saami-council/national-symbols/</origFileName><parallel_text xml:lang="sme" location="index_1.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<list><p type="listitem" xml:lang="kal">   <list><p type="listitem" xml:lang="kal">Saami</p>
+<p type="listitem">English</p>
+<p type="listitem" xml:lang="kal">Finnish</p>
+<p type="listitem">Norwegian</p>
+<p type="listitem">Russian</p>
+</list></p>
+</list><list><p type="listitem" xml:lang="nob">Home</p>
+<p type="listitem">About Saami Council</p>
+<p type="listitem">National symbols</p>
+</list><p>About Saami Council</p>
+<p>Representatives and staff</p>
+<p>National symbols</p>
+<p>Representations</p>
+<p type="title">National Symbols</p>
+<p><em type="italic">"...I also want to mention that many peoples expect that the Saami have their own symbol, and that the Saami have a symbol based on the notion that the Saami are one people and that we have our own homeland." </em></p>
+<p>Representative of the Saami Council Mr. Lars Anders Baer, 8th Saami Conference, Åre 13.-15.8.1986</p>
+<p>National symbols are meant to unite the people by forming a symbolic representative for a nation's and people's values, goals and history. These symbols are often used at festivities and celebrations. The Saami flag, Saami national days, the National Day of the Saami People and the national anthem of the Saami are examples of national symbols.</p>
+<p type="title">The Saami flag</p>
+<p>The Saami flag is the flag of all Saami, no matter what country they live in.</p>
+<p>The 13th Saami Conference, held in Åre, Sweden in 1986, adopted the Saami flag.</p>
+<p>The Saami Council had called for contributions to a competition to adopt a new Saami flag, with a reward of 2,000 FIM to the winning contribution. Rose Marie Huuva, Kaaren Kitti and Máret Sárá were appointed to a Flag Working Group by the Saami Council. Altogether 27 artists submitted 74 contributions, besides the flag designed by Synnøve Persen which had been used so far as an informal flag.</p>
+<p>The Åre Saami Conference aadopted the flag design submitted by Astrid Båhl. Astrid Båhl comes from Ivgonvuonbahta (Skibotn, Norway). It was based on the flag that had already been used in Sápmi, but the green colour and the ring was added. The designer called the flag "Saami are children of the sun". The red part of the flag symbolizes the sun and the blue part symbolizes the moon.</p>
+<p type="title" xml:lang="vep">Saami flag days</p>
+<p>Saami flag days, adopted by the Saami Conference in Helsinki, 1992 the Saami Conference in Murmansk, 1996 and the Saami Conference in Tråante 2017:</p>
+<list><p type="listitem"><em type="bold">February 6th </em>– The National Day of the Saami People which celebrates the memory of the first national gathering of the Saami, which was held in Trondheim in 1917 </p>
+<p type="listitem"><em type="bold">March 2nd </em>– Opening of the new Saami Parliament of Finland in 1996 </p>
+<p type="listitem"><em type="bold">March 25th </em>– Annunciation to the Blessed Virgin Mary, traditional Saami holiday </p>
+<p type="listitem"><em type="bold">Midsummer's day - </em>official holiday </p>
+<p type="listitem"><em type="bold">August 9th </em>– UN International Day of the World's Indigenous Peoples </p>
+<p type="listitem"><em type="bold">August 15th </em>– The Saami flag was adoped on this date in 1986 </p>
+<p type="listitem"><em type="bold">August 18th </em>– The Saami Council was founded on this date in 1956 </p>
+<p type="listitem"><em type="bold">August 26th </em>– The Saami Parliament of Sweden was founded on this date in 1993 </p>
+<p type="listitem"><em type="bold">October 9th </em>– The Saami Parliament of Norway was founded on this date in 1989 </p>
+<p type="listitem"><em type="bold">November 9th </em>– The Delegation for Saami Issues in Finland was founded on this date in 1973 </p>
+<p type="listitem"><em type="bold">November 29th </em>- Elsa Laula Renberg was born on this date. </p>
+<p type="listitem"><em type="bold">November 15th </em>- Isak Saba was born on this date in 1875. He wrote the national anthem of the Saami. </p>
+</list><p type="title">National anthem of the Saami</p>
+<p>The national anthem of the Saami was adopted by the Saami Conference held in Åre in 1986. The national anthem is a poem that Isak Saba wrote which was submitted to and published in the newspaper Sagai Muittalægje in 1906. Arne Sørli wrote the music to the poem and the melody was adopted by the 15th Saami Conference, held in Helsinki in 1992. The lyrics have been translated from North Saami to other Saami languages.</p>
+<p type="title">The National Day of the Saami People</p>
+<p>February 6th is the National Day of the Saami People and it is celebrated all over Sápmi, the Saami lands. This day commemorates the first Saami national meeting, which was held in Trondheim in 1917. This was the first time the Saami gathered to work with common Saami issues cross national borders. This day was celebrated for the first time in 1993.</p>
+</body></document>

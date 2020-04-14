@@ -1,62 +1,34 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Visit from the United Kingdom    - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>696</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=99704</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=99703.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=99799_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Visit from the United Kingdom</p>
-    <p>Their Royal Highnesses The Prince of Wales and The Duchess of Cornwall started their official visit to Norway today. Their Majesties King Harald and Queen Sonja are the hosts for the guests on their three-day visit.</p>
-    <p xml:lang="koi">20.03.2012</p>
-    <p>The Prince of Wales and the Duchess of Cornwall are visiting Norway, Sweden and Denmark as part of the commemorative activities marking the Diamond Jubilee of Her Majesty Queen Elizabeth II. The Queens 60-year reign on the British throne is being celebrated with a number of events this year, and the Diamond Jubilee central celebration will take place in the UK at the beginning of June.</p>
-    <p type="title">Wreath-laying ceremony</p>
-    <p>The official programme began at Akershus Fortress with the traditional wreath-laying ceremony. Prince Charles, accompanied by King Harald, inspected the Kings Guard before laying a wreath at the national monument commemorating the Norwegians who lost their lives in the Second World War.</p>
-    <p>After the ceremony, King Harald accompanied Prince Charles to the Office of the Prime Minister, where the Prince met with Prime Minister Jens Stoltenberg.</p>
-    <p type="title">Met with survivors of 22 July</p>
-    <p>Prior to their visit, the Prince of Wales and the Duchess of Cornwall had stated that they were greatly looking forward to engaging with Norwegian youth leaders. This afternoon King Harald and Queen Sonja accompanied the Prince and Duchess to the Nobel Peace Center, where they met with a number of representatives of Norwegian youth organisations.</p>
-    <p>Leader of Norwegian Labour Youth (AUF), Mr Eskil Pedersen, opened the first part, where the King and Queen and Their Royal Highnesses met with survivors of the tragic events on Utøya island on 22 July. They heard inspiring stories from the young people affected, and how they are determined to move forward with their lives.</p>
-    <p>The second part of the meeting was attended by youth representatives of the seven political parties represented in the Storting (Norwegian national assembly) as well as representatives of four youth non-governmental organisations. The topic of the discussion was: Engagement of youth on a local, national and global level – how do we do it? The Prince of Wales has a keen interest in this subject, and has founded a number of charities such as The Prince's Trust and The Prince's Youth Business International to work with disadvantaged young people.</p>
-    <p>The meeting was concluded with a short performance by the composer, singer and guitarist Mikhael Paskalev in the Main Hall of the Nobel Peace Center.</p>
-    <p type="title">Official banquet</p>
-    <p xml:lang="nob">In the evening, King Harald and Queen Sonja hosted a banquet at the Royal Palace for the Prince of Wales and the Duchess of Cornwall. Crown Prince Haakon, Crown Princess Mette-Marit, Princess Märtha Louise and Princess Astrid Mrs Ferner were also in attendance.</p>
-    <p>In his speech during the banquet, King Harald emphasised the close ties between the UK and Norway and expressed admiration for Queen Elizabeths long and distinguished service to her people:</p>
-    <p> <em type="italic">Queen Elizabeths achievements as monarch are remarkable. Throughout her long reign she has served the British people with unfailing devotion, dignity and distinction. Hers has indeed been a lifetime of exceptional service. As monarch and head of state, she has inspired respect and admiration not only in Britain but all over the world. </em> </p>
-    <p type="title" xml:lang="nob">Travelling to Bergen</p>
-    <p>Tomorrow, the King and Queen and the Prince of Wales and the Duchess of Cornwall will travel to Bergen where a busy programme awaits them.</p>
-    <p xml:lang="nob">King Harald and Prince Charles will visit the research vessel M/V Brennholm and the frigate HMS Liverpool, while Queen Sonja and Camilla, Duchess of Cornwall will visit an outdoor kindergarten and Troldhaugen, the villa of composer Edvard Grieg.</p>
-    <p>The programme will also include a guided tour, concert and reception at Håkons Hall as well as a guided tour of Bryggen, the old Hanseatic buildings along the wharf of Bergen.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>The Royals meet survivors from Utøya Island at the Nobel Peace Centre (Photo: Clarence House, 2012)</p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Visited Bergen (News article)</p>
-      <p type="listitem" xml:lang="nno">Concluded in Oslo (News article)</p>
-    </list>
-    <list>
-      <p type="listitem">Photo album from the visit</p>
-      <p type="listitem" xml:lang="nob">Clarence House: The Scandinavia Tour Day One</p>
-      <p type="listitem">Website of the British Monarchy</p>
-      <p type="listitem">The Prince of Wales.gov.uk</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Visit from the United Kingdom    - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>691</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=99704</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=99703.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=99799_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Visit from the United Kingdom</p>
+<p>Their Royal Highnesses The Prince of Wales and The Duchess of Cornwall started their official visit to Norway today. Their Majesties King Harald and Queen Sonja are the hosts for the guests on their three-day visit.</p>
+<p xml:lang="vep">20.03.2012</p>
+<p>The Prince of Wales and the Duchess of Cornwall are visiting Norway, Sweden and Denmark as part of the commemorative activities marking the Diamond Jubilee of Her Majesty Queen Elizabeth II. The Queens 60-year reign on the British throne is being celebrated with a number of events this year, and the Diamond Jubilee central celebration will take place in the UK at the beginning of June.</p>
+<p type="title">Wreath-laying ceremony</p>
+<p>The official programme began at Akershus Fortress with the traditional wreath-laying ceremony. Prince Charles, accompanied by King Harald, inspected the Kings Guard before laying a wreath at the national monument commemorating the Norwegians who lost their lives in the Second World War.</p>
+<p>After the ceremony, King Harald accompanied Prince Charles to the Office of the Prime Minister, where the Prince met with Prime Minister Jens Stoltenberg.</p>
+<p type="title">Met with survivors of 22 July</p>
+<p>Prior to their visit, the Prince of Wales and the Duchess of Cornwall had stated that they were greatly looking forward to engaging with Norwegian youth leaders. This afternoon King Harald and Queen Sonja accompanied the Prince and Duchess to the Nobel Peace Center, where they met with a number of representatives of Norwegian youth organisations.</p>
+<p>Leader of Norwegian Labour Youth (AUF), Mr Eskil Pedersen, opened the first part, where the King and Queen and Their Royal Highnesses met with survivors of the tragic events on Utøya island on 22 July. They heard inspiring stories from the young people affected, and how they are determined to move forward with their lives.</p>
+<p>The second part of the meeting was attended by youth representatives of the seven political parties represented in the Storting (Norwegian national assembly) as well as representatives of four youth non-governmental organisations. The topic of the discussion was: Engagement of youth on a local, national and global level – how do we do it? The Prince of Wales has a keen interest in this subject, and has founded a number of charities such as The Prince's Trust and The Prince's Youth Business International to work with disadvantaged young people.</p>
+<p>The meeting was concluded with a short performance by the composer, singer and guitarist Mikhael Paskalev in the Main Hall of the Nobel Peace Center.</p>
+<p type="title">Official banquet</p>
+<p xml:lang="nob">In the evening, King Harald and Queen Sonja hosted a banquet at the Royal Palace for the Prince of Wales and the Duchess of Cornwall. Crown Prince Haakon, Crown Princess Mette-Marit, Princess Märtha Louise and Princess Astrid Mrs Ferner were also in attendance.</p>
+<p>In his speech during the banquet, King Harald emphasised the close ties between the UK and Norway and expressed admiration for Queen Elizabeths long and distinguished service to her people:</p>
+<p> <em type="italic">Queen Elizabeths achievements as monarch are remarkable. Throughout her long reign she has served the British people with unfailing devotion, dignity and distinction. Hers has indeed been a lifetime of exceptional service. As monarch and head of state, she has inspired respect and admiration not only in Britain but all over the world. </em> </p>
+<p type="title" xml:lang="nob">Travelling to Bergen</p>
+<p>Tomorrow, the King and Queen and the Prince of Wales and the Duchess of Cornwall will travel to Bergen where a busy programme awaits them.</p>
+<p>King Harald and Prince Charles will visit the research vessel M/V Brennholm and the frigate HMS Liverpool, while Queen Sonja and Camilla, Duchess of Cornwall will visit an outdoor kindergarten and Troldhaugen, the villa of composer Edvard Grieg.</p>
+<p>The programme will also include a guided tour, concert and reception at Håkons Hall as well as a guided tour of Bryggen, the old Hanseatic buildings along the wharf of Bergen.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>The Royals meet survivors from Utøya Island at the Nobel Peace Centre (Photo: Clarence House, 2012)</p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem" xml:lang="nno">Visited Bergen (News article)</p>
+<p type="listitem" xml:lang="nno">Concluded in Oslo (News article)</p>
+</list><list><p type="listitem">Photo album from the visit</p>
+<p type="listitem" xml:lang="nob">Clarence House: The Scandinavia Tour Day One</p>
+<p type="listitem">Website of the British Monarchy</p>
+<p type="listitem">The Prince of Wales.gov.uk</p>
+</list></body></document>

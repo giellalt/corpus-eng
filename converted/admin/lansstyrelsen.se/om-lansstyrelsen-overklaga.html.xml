@@ -1,51 +1,22 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>525</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/om-lansstyrelsen/overklaga/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="om-lansstyrelsen-overklaga.html"/>
-    <parallel_text xml:lang="swe" location="om-lansstyrelsen-overklaga.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Appeals - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Appeals</p>
-    <p>The vast majority of decisions taken by the County Administrative Board may be appealed by the person affected by the decision. We also review appeals against decisions taken by a municipality or parish.</p>
-    <p type="title">Appealing the ruling of the County Administrative Board</p>
-    <p>If you are affected by a decision that the County Administrative Board has taken you can normally appeal it and you will also receive information explaining how to appeal with the notification of the decision. You have to file an appeal within a stipulated period of time which is calculated from the date you received notification of the decision. The appeal must be in writing and you must specify the decision you are dissatisfied with along with the requested change. Sign the document before sending it to the County Administrative Board.</p>
-    <p>If you are affected by a decision that the County Administrative Board has taken you can normally appeal it and you will also receive information explaining how to appeal with the notification of the decision. You have to file an appeal within a stipulated period of time which is calculated from the date you received notification of the decision. The appeal must be in writing and you must specify the decision you are dissatisfied with along with the requested change. Sign the document before sending it to the County Administrative Board. The County Administrative Board verifies that the appeal has been received within the stipulated time period, and then the appeal and other documents in the case are sent to the authority for adjudication. We can also correct or reconsider our own decisions.</p>
-    <p type="title">The County Administrative Board hears appeals of municipal decisions</p>
-    <p>Many types of decisions taken by a municipality can be appealed to the County Administrative Board. Examples include decisions regarding planning permission, development plans, parking permits and municipal decisions with regard to local traffic regulations and decisions taken by the municipality in accordance with the Swedish Environmental Code, Food Act and the Accident Prevention Act.</p>
-    <p>If you wish to appeal a municipal decision, send your letter to the municipality that made the decision. The municipality verifies that the appeal has been received within the stipulated time period, in which case it is forwarded to the County Administrative Board along with other case documents. Thereafter, you should contact us if you have any questions about the case. The County Administrative Board will then issue a decision, and if you remain dissatisfied with our decision, you can normally appeal that decision as well.</p>
-    <p>The rules of the Administrative Procedure Act (SFS 1986:223) apply when we are dealing with an appeal case. This means you have to be affected by a decision to have the right to appeal against it.</p>
-    <p type="title">The County Administrative Board reviews funeral issues</p>
-    <p>Sometimes the relatives are divided on burial arrangements and the parish or municipality in charge of the funeral services cannot manage to mediate between them. The issue can then be submitted to the County Administrative Board for review. You can also contact us to appeal a ruling on the right to a burial plot or removal of buried remains or ashes.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>525</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/om-lansstyrelsen/overklaga/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="om-lansstyrelsen-overklaga.html"/><parallel_text xml:lang="swe" location="om-lansstyrelsen-overklaga.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Appeals - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Appeals</p>
+<p>The vast majority of decisions taken by the County Administrative Board may be appealed by the person affected by the decision. We also review appeals against decisions taken by a municipality or parish.</p>
+<p type="title">Appealing the ruling of the County Administrative Board</p>
+<p>If you are affected by a decision that the County Administrative Board has taken you can normally appeal it and you will also receive information explaining how to appeal with the notification of the decision. You have to file an appeal within a stipulated period of time which is calculated from the date you received notification of the decision. The appeal must be in writing and you must specify the decision you are dissatisfied with along with the requested change. Sign the document before sending it to the County Administrative Board.</p>
+<p>If you are affected by a decision that the County Administrative Board has taken you can normally appeal it and you will also receive information explaining how to appeal with the notification of the decision. You have to file an appeal within a stipulated period of time which is calculated from the date you received notification of the decision. The appeal must be in writing and you must specify the decision you are dissatisfied with along with the requested change. Sign the document before sending it to the County Administrative Board. The County Administrative Board verifies that the appeal has been received within the stipulated time period, and then the appeal and other documents in the case are sent to the authority for adjudication. We can also correct or reconsider our own decisions.</p>
+<p type="title">The County Administrative Board hears appeals of municipal decisions</p>
+<p>Many types of decisions taken by a municipality can be appealed to the County Administrative Board. Examples include decisions regarding planning permission, development plans, parking permits and municipal decisions with regard to local traffic regulations and decisions taken by the municipality in accordance with the Swedish Environmental Code, Food Act and the Accident Prevention Act.</p>
+<p>If you wish to appeal a municipal decision, send your letter to the municipality that made the decision. The municipality verifies that the appeal has been received within the stipulated time period, in which case it is forwarded to the County Administrative Board along with other case documents. Thereafter, you should contact us if you have any questions about the case. The County Administrative Board will then issue a decision, and if you remain dissatisfied with our decision, you can normally appeal that decision as well.</p>
+<p>The rules of the Administrative Procedure Act (SFS 1986:223) apply when we are dealing with an appeal case. This means you have to be affected by a decision to have the right to appeal against it.</p>
+<p type="title">The County Administrative Board reviews funeral issues</p>
+<p>Sometimes the relatives are divided on burial arrangements and the parish or municipality in charge of the funeral services cannot manage to mediate between them. The issue can then be submitted to the County Administrative Board for review. You can also contact us to appeal a ruling on the right to a burial plot or removal of buried remains or ashes.</p>
+</body></document>

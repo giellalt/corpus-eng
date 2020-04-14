@@ -1,124 +1,71 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1004</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Barn/Barnsakerhet-3---12-man</origFileName>
-    <parallel_text xml:lang="fin" location="barnsakerhet-3---12-man.html"/>
-    <parallel_text xml:lang="swe" location="barnsakerhet-3-man1-ar.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Child safety, 3 months – 1 year / Barnsäkerhet 3 - 12 mån - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title">Child safety, 3 months – 1 yearBarnsäkerhet 3 - 12 mån</p>
-    <p xml:lang="swe"></p>
-    <p type="title">Tips and advice</p>
-    <list>
-      <p type="listitem">You need to use a hob guard on the cooker and turn pan handles inwards when the child becomes more curious and starts to stand up.</p>
-      <p type="listitem">Regularly pull the rubber teats on dummies to make sure they are not torn.</p>
-    </list>
-    <p type="title">To prevent fall-related injuries:</p>
-    <list>
-      <p type="listitem">always keep the child in view when it is on the changing table and always try to keep one hand on the child if you have to turn away</p>
-      <p type="listitem">only use baby-walkers with a stair protector that prevents the walker from tipping over the edge of a flight of stairs</p>
-      <p type="listitem">always keep the child in view when it is in the pram</p>
-      <p type="listitem">use a harness in the pram when the child becomes more mobile</p>
-      <p type="listitem">attach high chairs to the table with special anchorslift the child out of the high chair when you are not able to keep it viewuse gates at the top and bottom of the stairs</p>
-      <p type="listitem">ensure that openings between banisters, fences and stairs and the like are no larger than ten centimetres</p>
-      <p type="listitem">lower the bottom of the baby cot before the child can stand up</p>
-      <p type="listitem">do not let the child sleep unsupervised in its parents' bed</p>
-      <p type="listitem">attach heavy items of furniture to the wall using wall anchors</p>
-      <p type="listitem">equip windows or doors leading to balconies them with a catch so the child cannot open themuse a non-slip safety mat in the bath.</p>
-    </list>
-    <p type="title">To prevent burns:</p>
-    <list>
-      <p type="listitem">avoid drinking hot coffee or tea with the child on your lap</p>
-      <p type="listitem">measure the water temperature in the bath so it is not too hot. You can use a thermometer or dip your elbow in</p>
-      <p type="listitem">always keep the child in view during bath time so he or she does not turn the hot water tap on</p>
-      <p type="listitem">check that the radiators that are hotter than 60 degrees, or that they have guards</p>
-      <p type="listitem">use a hob guard and make sure that the anti-tilt chain is installed properly</p>
-      <p type="listitem">use a lock on the oven door and an oven protector if the door gets hotter than 60 degrees</p>
-      <p type="listitem">place hot objects out of the child's reach</p>
-      <p type="listitem">protect the child from strong sunlight by letting it spend time in the shade or use a sun hat and protective clothes.</p>
-    </list>
-    <p type="title">To avoid suffocation:</p>
-    <list>
-      <p type="listitem">tidy away any small objects that could get stuck in the child's throat</p>
-      <p type="listitem">make sure that the child cannot access plastic bagsensure that the child eats sitting down</p>
-      <p type="listitem">store nuts out of the child's reach</p>
-      <p type="listitem">regularly pull the rubber teats on dummies to make sure they are not torn.There is a special <span type="quote">"small object cylinder"</span> that can be helpful when assessing whether an object is too small for the child and poses a choking hazard. The cylinder is available from child welfare centres or from consumer guides.</p>
-    </list>
-    <p type="title">To protect hearing:</p>
-    <list>
-      <p type="listitem">avoid loud volume, for example loud music or sudden, loud noises</p>
-      <p type="listitem">make sure that toys do not make loud, shrill noises – try them before you buy them.</p>
-    </list>
-    <p type="title">To avoid poisoning:</p>
-    <list>
-      <p type="listitem">store chemicals and medicines out of the child's reach, for example in a locked medicine cabinet</p>
-      <p type="listitem">make sure that the child cannot access cigarettes or snuff</p>
-      <p type="listitem">check that none of your house plants are poisonous.</p>
-    </list>
-    <p type="title">To reduce the risk of electrical accidents, make sure that:</p>
-    <list>
-      <p type="listitem">all power sockets have socket covers</p>
-      <p type="listitem">leads, appliances and lamps are not damaged</p>
-      <p type="listitem">the child cannot access hanging electrical cords</p>
-      <p type="listitem">an earth fault breaker is installed by an authorised electrician.</p>
-    </list>
-    <p type="title">To minimise the risk of kitchen accidents:</p>
-    <list>
-      <p type="listitem">store sharp objects out of reach of the child</p>
-      <p type="listitem">use a hob guard and make sure that the anti-tilt chain is installed properly</p>
-      <p type="listitem">use a lock on the oven door and an oven protector if the door gets hotter than 60 degrees</p>
-      <p type="listitem">store dishwasher powder and chemicals out of reach of the child</p>
-      <p type="listitem">pull out the plugs on electrical appliances when not in use.</p>
-    </list>
-    <p type="title">For safe car trips:</p>
-    <list>
-      <p type="listitem">make sure that children under nine months old are always strapped into an approved baby seat</p>
-      <p type="listitem">from aged nine months, use an approved child car seat that is installed facing backwards</p>
-      <p type="listitem">if buying a used baby seat or child car seat, make sure it is not damaged in any way</p>
-      <p type="listitem">check that there are no loose objects that could be thrown around the car if you have to brake hard.</p>
-    </list>
-    <p>There are baby seats and child car seats that are approved to be installed in both the front and back seat. Always follow the installation instructions carefully.</p>
-    <p type="title">To reduce the risk of water-related accidents:</p>
-    <list>
-      <p type="listitem">always stay with the child when it is taking a bath or playing near water to avoid drowning accidents</p>
-      <p type="listitem">remember that large puddles, water-filled ditches, bird baths and small ponds can also pose a drowning hazard for a small child</p>
-      <p type="listitem">empty small paddling pools when not in use</p>
-      <p type="listitem">ensure that the child wears a life jacket, of the right size and for the appropriate weight</p>
-    </list>
-    <p>There are rules for how swimming pools and other kinds of pools must be covered or enclosed to prevent accidents. According to the Swedish Consumer Agency, swimming pools, pools, shallow ponds and garden ponds should be enclosed and have child-proof locks.</p>
-    <p type="title">To reduce risks when cycling:</p>
-    <list>
-      <p type="listitem">use bike helmets, child seats and spoke guards if you take your child on your bike.</p>
-    </list>
-    <p>For children up to seven years old there are special bike helmets with a green chin strap that opens when subjected to a certain load.</p>
-    <p type="title">To prevent other accidents</p>
-    <p>To prevent other accidents you can regularly check the child's equipment and toys, for example the brakes on the pram and the rubber teats on dummies.</p>
-    <p type="title">Passive smoking</p>
-    <p>Passive smoking exposes the child to health risks. If you cannot stop smoking completely, change your smoking habits and stop smoking at home. A completely smoke-free environment is best for the child.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>995</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Barn/Barnsakerhet-3---12-man</origFileName><parallel_text xml:lang="fin" location="barnsakerhet-3---12-man.html"/><parallel_text xml:lang="swe" location="barnsakerhet-3-man1-ar.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Child safety, 3 months – 1 year / Barnsäkerhet 3 - 12 mån - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Child safety, 3 months – 1 yearBarnsäkerhet 3 - 12 mån</p>
+<p xml:lang="swe"></p>
+<p type="title">Tips and advice</p>
+<list><p type="listitem">You need to use a hob guard on the cooker and turn pan handles inwards when the child becomes more curious and starts to stand up.</p>
+<p type="listitem">Regularly pull the rubber teats on dummies to make sure they are not torn.</p>
+</list><p type="title">To prevent fall-related injuries:</p>
+<list><p type="listitem">always keep the child in view when it is on the changing table and always try to keep one hand on the child if you have to turn away</p>
+<p type="listitem">only use baby-walkers with a stair protector that prevents the walker from tipping over the edge of a flight of stairs</p>
+<p type="listitem">always keep the child in view when it is in the pram</p>
+<p type="listitem">use a harness in the pram when the child becomes more mobile</p>
+<p type="listitem">attach high chairs to the table with special anchorslift the child out of the high chair when you are not able to keep it viewuse gates at the top and bottom of the stairs</p>
+<p type="listitem">ensure that openings between banisters, fences and stairs and the like are no larger than ten centimetres</p>
+<p type="listitem">lower the bottom of the baby cot before the child can stand up</p>
+<p type="listitem">do not let the child sleep unsupervised in its parents' bed</p>
+<p type="listitem">attach heavy items of furniture to the wall using wall anchors</p>
+<p type="listitem">equip windows or doors leading to balconies them with a catch so the child cannot open themuse a non-slip safety mat in the bath.</p>
+</list><p type="title">To prevent burns:</p>
+<list><p type="listitem">avoid drinking hot coffee or tea with the child on your lap</p>
+<p type="listitem">measure the water temperature in the bath so it is not too hot. You can use a thermometer or dip your elbow in</p>
+<p type="listitem">always keep the child in view during bath time so he or she does not turn the hot water tap on</p>
+<p type="listitem">check that the radiators that are hotter than 60 degrees, or that they have guards</p>
+<p type="listitem">use a hob guard and make sure that the anti-tilt chain is installed properly</p>
+<p type="listitem">use a lock on the oven door and an oven protector if the door gets hotter than 60 degrees</p>
+<p type="listitem">place hot objects out of the child's reach</p>
+<p type="listitem">protect the child from strong sunlight by letting it spend time in the shade or use a sun hat and protective clothes.</p>
+</list><p type="title">To avoid suffocation:</p>
+<list><p type="listitem">tidy away any small objects that could get stuck in the child's throat</p>
+<p type="listitem">make sure that the child cannot access plastic bagsensure that the child eats sitting down</p>
+<p type="listitem">store nuts out of the child's reach</p>
+<p type="listitem">regularly pull the rubber teats on dummies to make sure they are not torn.There is a special <span type="quote">"small object cylinder"</span> that can be helpful when assessing whether an object is too small for the child and poses a choking hazard. The cylinder is available from child welfare centres or from consumer guides.</p>
+</list><p type="title">To protect hearing:</p>
+<list><p type="listitem">avoid loud volume, for example loud music or sudden, loud noises</p>
+<p type="listitem">make sure that toys do not make loud, shrill noises – try them before you buy them.</p>
+</list><p type="title">To avoid poisoning:</p>
+<list><p type="listitem">store chemicals and medicines out of the child's reach, for example in a locked medicine cabinet</p>
+<p type="listitem">make sure that the child cannot access cigarettes or snuff</p>
+<p type="listitem">check that none of your house plants are poisonous.</p>
+</list><p type="title">To reduce the risk of electrical accidents, make sure that:</p>
+<list><p type="listitem">all power sockets have socket covers</p>
+<p type="listitem">leads, appliances and lamps are not damaged</p>
+<p type="listitem">the child cannot access hanging electrical cords</p>
+<p type="listitem">an earth fault breaker is installed by an authorised electrician.</p>
+</list><p type="title">To minimise the risk of kitchen accidents:</p>
+<list><p type="listitem">store sharp objects out of reach of the child</p>
+<p type="listitem">use a hob guard and make sure that the anti-tilt chain is installed properly</p>
+<p type="listitem">use a lock on the oven door and an oven protector if the door gets hotter than 60 degrees</p>
+<p type="listitem">store dishwasher powder and chemicals out of reach of the child</p>
+<p type="listitem">pull out the plugs on electrical appliances when not in use.</p>
+</list><p type="title">For safe car trips:</p>
+<list><p type="listitem">make sure that children under nine months old are always strapped into an approved baby seat</p>
+<p type="listitem">from aged nine months, use an approved child car seat that is installed facing backwards</p>
+<p type="listitem">if buying a used baby seat or child car seat, make sure it is not damaged in any way</p>
+<p type="listitem">check that there are no loose objects that could be thrown around the car if you have to brake hard.</p>
+</list><p>There are baby seats and child car seats that are approved to be installed in both the front and back seat. Always follow the installation instructions carefully.</p>
+<p type="title">To reduce the risk of water-related accidents:</p>
+<list><p type="listitem">always stay with the child when it is taking a bath or playing near water to avoid drowning accidents</p>
+<p type="listitem">remember that large puddles, water-filled ditches, bird baths and small ponds can also pose a drowning hazard for a small child</p>
+<p type="listitem">empty small paddling pools when not in use</p>
+<p type="listitem">ensure that the child wears a life jacket, of the right size and for the appropriate weight</p>
+</list><p>There are rules for how swimming pools and other kinds of pools must be covered or enclosed to prevent accidents. According to the Swedish Consumer Agency, swimming pools, pools, shallow ponds and garden ponds should be enclosed and have child-proof locks.</p>
+<p type="title">To reduce risks when cycling:</p>
+<list><p type="listitem">use bike helmets, child seats and spoke guards if you take your child on your bike.</p>
+</list><p>For children up to seven years old there are special bike helmets with a green chin strap that opens when subjected to a certain load.</p>
+<p type="title">To prevent other accidents</p>
+<p>To prevent other accidents you can regularly check the child's equipment and toys, for example the brakes on the pram and the rubber teats on dummies.</p>
+<p type="title">Passive smoking</p>
+<p>Passive smoking exposes the child to health risks. If you cannot stop smoking completely, change your smoking habits and stop smoking at home. A completely smoke-free environment is best for the child.</p>
+</body></document>

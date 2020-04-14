@@ -1,138 +1,100 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Sevettijärvi - Pulmanki Trail - Nationalparks.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>556</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.nationalparks.fi/en/sevettijarvi-pulmankitrail?inheritRedirect=true</origFileName>
-    <parallel_text xml:lang="fin" location="sevettijarvi-pulmanki_inheritredirect=true.html"/>
-    <parallel_text xml:lang="sme" location="ceavetjavribuolbmatjavri.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Skip to Content</p>
-    <p>Open Menu</p>
-    <list>
-      <p type="listitem">Suomeksi</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Sevettijärvi - Pulmanki Trail 60 - 70 km</p>
-    <list>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Level of Difficulty</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Trail Route Description</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p type="title">Destinations</p>
-    <list>
-      <p type="listitem">Top Natural Attractions</p>
-      <p type="listitem">National Parks</p>
-      <p type="listitem">World Heritage Sites</p>
-      <p type="listitem">National Hiking Areas</p>
-      <p type="listitem">Wilderness Areas</p>
-      <p type="listitem">Other Nature Sites</p>
-      <p type="listitem">Hiking Trails</p>
-      <p type="listitem">Huts</p>
-      <p type="listitem">Historical Sites</p>
-      <p type="listitem">Nature Centres</p>
-      <p type="listitem">Accessible Destinations</p>
-    </list>
-    <list>
-      <p type="listitem">Herajärvi Trail 30 - 61 km</p>
-      <p type="listitem">Hetta - Pallas Trail 55 km</p>
-      <p type="listitem">Hossa Canoeing Routes</p>
-      <p type="listitem">Inari Area Water Routes - Ivalon Matti</p>
-      <p type="listitem">Inari Area Water Routes - Lemmenjoki</p>
-      <p type="listitem">Itäraja Summer Hiking Route</p>
-      <p type="listitem">Karhunkierros 82 km</p>
-      <p type="listitem">Kevo Trail 63 km</p>
-      <p type="listitem">Nordkalottleden Trail 800 km</p>
-      <p type="listitem">Nuortti Hiking Trail 40 km</p>
-      <p type="listitem">Peura Trail 115 km</p>
-      <p type="listitem">Pieni Karhunkierros 12 km</p>
-      <p type="listitem">Piilola Trail 35 km</p>
-      <p type="listitem">Poronpolku Trail 30 km</p>
-      <p type="listitem">Pyhä-Luosto Trail 45 km</p>
-      <p type="listitem">Ruijanpolku Trail 35 km</p>
-      <p type="listitem">Ruostejärvi - Liesjärvi National Park Trail 24 km</p>
-      <p type="listitem">Ruostejärvi - Saari Trail 14 km</p>
-      <p type="listitem">Sevettijärvi - Pulmanki Trail 60 - 70 km</p>
-      <p type="listitem">Taitajan taival Trail 31 km</p>
-      <p type="listitem">Tapion taival Trail 20 km</p>
-      <p type="listitem">Virvatulten polku Trail 19 km</p>
-      <p type="listitem">Water Routes on Lake Inarijärvi</p>
-      <p type="listitem">Trail Difficulty Classification</p>
-    </list>
-    <list>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Level of Difficulty</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Trail Route Description</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p>Hiking Trail Menu</p>
-    <p type="title">Sevettijärvi - Pulmanki Trail 60 - 70 km</p>
-    <list>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Level of Difficulty</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Trail Route Description</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p type="title">Sevettijärvi - Pulmanki Trail</p>
-    <p></p>
-    <list>
-      <p type="listitem">Näätämöjoki River. Photo: Tuija Kangasniemi</p>
-      <p type="listitem">Näätämöjoki Rivers´ bridge. Photo: Tuija Kangasniemi</p>
-      <p type="listitem"></p>
-    </list>
-    <p></p>
-    <p>Northern Lapland Region Municipalities of Inari (www.inari.fi) and Utsjoki (www.utsjoki.fi, in Finnish) Kaldoaivi Wilderness Area and Sevettijärvi-Näätämö Area</p>
-    <p>The Sevettijärvi - Pulmanki Trail leads through the vast Kaldoaivi Wilderness Area. The trail is about 60 - 70 km depending on the route you choose. At its southern end the trail leads through pine forest, but when moving northward the terrain becomes more rugged fell upland and there are only birch trees growing along the trail. The trail is marked with orange-topped wooden poles. By the beginning of June snows have usually melted from the wilderness area, but this is when the area's rivers and streams flood. The best time to hike is from late June to the beginning of October.</p>
-    <p type="title">Winter Trail</p>
-    <p>There is also a winter trail between Sevettijärvi and Pulmanki, which is approximately 70 km long. The trail is marked with signs baring red X-symbols. The winter trail is intended for skiers. Not even those with snowmobile permits are allowed to drive along it. There is a separate snowmobile track from Sevettijärvi to Nuorgam. The track is marked with signs baring red Xs. The winter trail and snowmobile track follow the same route from Sevettijärvi to Opukasjärvi. At Opukasjärvi they part ways only to meet again at Tsaarajärvi. The route of the winter trail differs from that of the summer trail; the winter trail travels at a lower altitude across mires and frozen lakes. The winter trail is not maintained, but it is travelled regularly on snowmobile by Metsähallitus maintenance workers, the Finnish Border Guard and local reindeer herders. Skiers must be prepared to open the trail themselves during early winter and after snowfall.</p>
-    <p>This is the web page www.nationalparks.fi/sevettijarvi-pulmankitrail</p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Customer Service</p>
-    <p>Ivalo Customer Service Tel. + 358 206 39 7701 ivalo(at)metsa.fi</p>
-    <p>Northern Lapland Nature Centre Siida Tel. + 358 206 39 7740 siida(at)metsa.fi</p>
-    <p></p>
-    <p></p>
-    <p type="title">See also</p>
-    <p>Other trails of Kaldoaivi Wilderness Area</p>
-    <p></p>
-    <p></p>
-    <p>© Metsähallitus 2017</p>
-    <list>
-      <p type="listitem"></p>
-    </list>
-    <p>Share This Page</p>
-    <p>Open Menu</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Sevettijärvi - Pulmanki Trail - Nationalparks.fi</title><genre code="facta"/><author><unknown/></author><wordcount>556</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.nationalparks.fi/en/sevettijarvi-pulmankitrail?inheritRedirect=true</origFileName><parallel_text xml:lang="fin" location="sevettijarvi-pulmanki_inheritredirect=true.html"/><parallel_text xml:lang="sme" location="ceavetjavribuolbmatjavri.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skip to Content</p>
+<p>Open Menu</p>
+<list><p type="listitem">Suomeksi</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p></p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">Sevettijärvi - Pulmanki Trail 60 - 70 km</p>
+<list><p type="listitem">Directions and Maps</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Level of Difficulty</p>
+<p type="listitem">Services</p>
+<p type="listitem">Trail Route Description</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p type="title">Destinations</p>
+<list><p type="listitem">Top Natural Attractions</p>
+<p type="listitem">National Parks</p>
+<p type="listitem">World Heritage Sites</p>
+<p type="listitem">National Hiking Areas</p>
+<p type="listitem">Wilderness Areas</p>
+<p type="listitem">Other Nature Sites</p>
+<p type="listitem">Hiking Trails</p>
+<p type="listitem">Huts</p>
+<p type="listitem">Historical Sites</p>
+<p type="listitem">Nature Centres</p>
+<p type="listitem">Accessible Destinations</p>
+</list><list><p type="listitem">Herajärvi Trail 30 - 61 km</p>
+<p type="listitem">Hetta - Pallas Trail 55 km</p>
+<p type="listitem">Hossa Canoeing Routes</p>
+<p type="listitem">Inari Area Water Routes - Ivalon Matti</p>
+<p type="listitem">Inari Area Water Routes - Lemmenjoki</p>
+<p type="listitem">Itäraja Summer Hiking Route</p>
+<p type="listitem">Karhunkierros 82 km</p>
+<p type="listitem">Kevo Trail 63 km</p>
+<p type="listitem">Nordkalottleden Trail 800 km</p>
+<p type="listitem">Nuortti Hiking Trail 40 km</p>
+<p type="listitem">Peura Trail 115 km</p>
+<p type="listitem">Pieni Karhunkierros 12 km</p>
+<p type="listitem">Piilola Trail 35 km</p>
+<p type="listitem">Poronpolku Trail 30 km</p>
+<p type="listitem">Pyhä-Luosto Trail 45 km</p>
+<p type="listitem">Ruijanpolku Trail 35 km</p>
+<p type="listitem">Ruostejärvi - Liesjärvi National Park Trail 24 km</p>
+<p type="listitem">Ruostejärvi - Saari Trail 14 km</p>
+<p type="listitem">Sevettijärvi - Pulmanki Trail 60 - 70 km</p>
+<p type="listitem">Taitajan taival Trail 31 km</p>
+<p type="listitem">Tapion taival Trail 20 km</p>
+<p type="listitem">Virvatulten polku Trail 19 km</p>
+<p type="listitem">Water Routes on Lake Inarijärvi</p>
+<p type="listitem">Trail Difficulty Classification</p>
+</list><list><p type="listitem">Directions and Maps</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Level of Difficulty</p>
+<p type="listitem">Services</p>
+<p type="listitem">Trail Route Description</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p>Hiking Trail Menu</p>
+<p type="title">Sevettijärvi - Pulmanki Trail 60 - 70 km</p>
+<list><p type="listitem">Directions and Maps</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Level of Difficulty</p>
+<p type="listitem">Services</p>
+<p type="listitem">Trail Route Description</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p type="title">Sevettijärvi - Pulmanki Trail</p>
+<p></p>
+<list><p type="listitem">Näätämöjoki River. Photo: Tuija Kangasniemi</p>
+<p type="listitem">Näätämöjoki Rivers´ bridge. Photo: Tuija Kangasniemi</p>
+<p type="listitem"></p>
+</list><p></p>
+<p>Northern Lapland Region Municipalities of Inari (www.inari.fi) and Utsjoki (www.utsjoki.fi, in Finnish) Kaldoaivi Wilderness Area and Sevettijärvi-Näätämö Area</p>
+<p>The Sevettijärvi - Pulmanki Trail leads through the vast Kaldoaivi Wilderness Area. The trail is about 60 - 70 km depending on the route you choose. At its southern end the trail leads through pine forest, but when moving northward the terrain becomes more rugged fell upland and there are only birch trees growing along the trail. The trail is marked with orange-topped wooden poles. By the beginning of June snows have usually melted from the wilderness area, but this is when the area's rivers and streams flood. The best time to hike is from late June to the beginning of October.</p>
+<p type="title">Winter Trail</p>
+<p>There is also a winter trail between Sevettijärvi and Pulmanki, which is approximately 70 km long. The trail is marked with signs baring red X-symbols. The winter trail is intended for skiers. Not even those with snowmobile permits are allowed to drive along it. There is a separate snowmobile track from Sevettijärvi to Nuorgam. The track is marked with signs baring red Xs. The winter trail and snowmobile track follow the same route from Sevettijärvi to Opukasjärvi. At Opukasjärvi they part ways only to meet again at Tsaarajärvi. The route of the winter trail differs from that of the summer trail; the winter trail travels at a lower altitude across mires and frozen lakes. The winter trail is not maintained, but it is travelled regularly on snowmobile by Metsähallitus maintenance workers, the Finnish Border Guard and local reindeer herders. Skiers must be prepared to open the trail themselves during early winter and after snowfall.</p>
+<p>This is the web page www.nationalparks.fi/sevettijarvi-pulmankitrail</p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">Customer Service</p>
+<p>Ivalo Customer Service Tel. + 358 206 39 7701 ivalo(at)metsa.fi</p>
+<p>Northern Lapland Nature Centre Siida Tel. + 358 206 39 7740 siida(at)metsa.fi</p>
+<p></p>
+<p></p>
+<p type="title">See also</p>
+<p>Other trails of Kaldoaivi Wilderness Area</p>
+<p></p>
+<p></p>
+<p>© Metsähallitus 2017</p>
+<list><p type="listitem"></p>
+</list><p>Share This Page</p>
+<p>Open Menu</p>
+</body></document>

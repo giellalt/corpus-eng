@@ -1,57 +1,31 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Appleton House   - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>827</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/artikkel.html?tid=77243</origFileName>
-    <parallel_text xml:lang="nob" location="artikkel.html_tid=74140.html"/>
-    <parallel_text xml:lang="sme" location="artikkel.html_tid=77294_sek=75636.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Appleton House</p>
-    <p>Queen Maud travelled to Appleton House in Norfolk, England every winter. The house was attached to the family seat on the Sandringham Estate. The Queen celebrated her birthdays there and took part in Christmas celebrations together with her British family.</p>
-    <p>At Appleton she was surrounded by many of her closest relatives and was almost able to lead the life of a private citizen.</p>
-    <p>Prince Alexander, later King Olav V of Norway, was born at Appleton House on 2 July 1903.</p>
-    <p type="title">A wedding present</p>
-    <p>Prince Carl and Princess Maud were married in July of 1896, and Appleton House was a wedding gift to them from the brides parents, the Prince and Princess of Wales. The gift was intended to provide the newly married couple with a place to stay whenever they visited England. The Prince of Wales wrote to his Danish brother-in-law, Crown Prince Frederik of Denmark, I have given Maud and Charles a small house, their own country retreat – about one mile from here – they will always have a pied-à-terre when they come over to England. I know they will appreciate this very much.</p>
-    <p>A few months before the wedding the couple went to Sandringham to view their wedding gift. I saw my new house. It is quite lovely, Prince Carl wrote in a letter.</p>
-    <p>Queen Maud came to love the house. In 1899 she wrote in a letter, Our little house is a perfect paradise, it all seems like a dream, that we are here at last, that it is so beautiful and light, every single room is so clean and fresh and such wonderful care has been taken of my things, as we have two very able maids who are here year-round.</p>
-    <p type="title">The Appleton property</p>
-    <p>Appleton House was hardly a small house by todays standards. The house was on 2½ floors and was built of brick. It had four sitting rooms on the ground floor and the same on the first floor, together with rooms for the servants, 20 rooms in total. The house had a conservatory and was centrally heated and appeared as a rural idyll, covered in Virginia creeper and ivy.</p>
-    <p>The property stood alone, surrounded by forested parkland. The open, rolling character of the surrounding landscape inspired outdoor pursuits on horseback or by bicycle. It was also full of good subjects for Queen Maud, who was a keen amateur photographer.</p>
-    <p type="title" xml:lang="nob">The Gardens</p>
-    <p>Around the house the Prince of Wales had laid out a garden, designed in accordance with the tastes of the day. Here there were round, oval, triangular and square beds of roses and rhododendrons. There were extensive lawns and tall hedges of yew and box, with paths between them. Queen Maud enjoyed taking walks along these paths. Her albums contain many photographs that show her wandering alone along these paths – clad in a full-length, white dress, her parasol lifted high, King Olav recalled many years later.</p>
-    <p type="title" xml:lang="nob">Bygdø Royal Farm</p>
-    <p>For Queen Maud the garden was a sanctuary and a life-long object of affection and she maintained high ambitions for her Norwegian garden as well. From 1911 onwards the Queens gardener from Appleton, Mr Hubbard, came to Norway once a year, bringing with him plants and elements of the landscape style in England to tailor the garden at the Bygdø Royal Farm to the prevailing trends of the time.</p>
-    <p>In 2007 the garden at Bygdø was restored to the original style adopted by Queen Maud.</p>
-    <p type="title">The Queens empty house</p>
-    <p>Appleton House no longer exists. Two days after Queen Mauds interment King Haakon wrote to King George VI and informed him that the time had come to return Appleton House to the British Royal Family. The Queen had had the property as long as she had wanted, just as the Prince of Wales had said she could when she was given it in 1896.</p>
-    <p>For many years the house stood unused. Its last known inhabitants were King George VI and the Queen Mother, who lived in the house during a visit to Norfolk during World War II.</p>
-    <p>A 1968 newspaper article with the headline The Queens empty house reported that a large anti-air raid structure had been constructed around the property during WWII and that this was unattractive and expensive to remove. In addition it would have been extremely costly to restore the property to a habitable state again.</p>
-    <p>Under the circumstances, reopening Appleton House was not considered a feasible option. It was pulled down in July 1984.</p>
-    <p xml:lang="koi">05.03.2011</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nob">På 1800-tallet var det å tegne og male ansett som en del av en ung dames dannelse. I De kongelige samlinger finnes en rekke akvareller og Dronning Mauds skissebøker fra 1880-tallet. Utover 1890-tallet dabbet tegningen av - kanskje fordi den kommende dronningen fikk en ny hobby: Fotografering. Kort dokumentar utarbeidet av NRK i samarbeid med De kongelige samlinger.</p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">Bygdø Royal Farm (Article)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Appleton House   - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>822</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/artikkel.html?tid=77243</origFileName><parallel_text xml:lang="nob" location="artikkel.html_tid=74140.html"/><parallel_text xml:lang="sme" location="artikkel.html_tid=77294_sek=75636.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Appleton House</p>
+<p>Queen Maud travelled to Appleton House in Norfolk, England every winter. The house was attached to the family seat on the Sandringham Estate. The Queen celebrated her birthdays there and took part in Christmas celebrations together with her British family.</p>
+<p>At Appleton she was surrounded by many of her closest relatives and was almost able to lead the life of a private citizen.</p>
+<p>Prince Alexander, later King Olav V of Norway, was born at Appleton House on 2 July 1903.</p>
+<p type="title">A wedding present</p>
+<p>Prince Carl and Princess Maud were married in July of 1896, and Appleton House was a wedding gift to them from the brides parents, the Prince and Princess of Wales. The gift was intended to provide the newly married couple with a place to stay whenever they visited England. The Prince of Wales wrote to his Danish brother-in-law, Crown Prince Frederik of Denmark, I have given Maud and Charles a small house, their own country retreat – about one mile from here – they will always have a pied-à-terre when they come over to England. I know they will appreciate this very much.</p>
+<p>A few months before the wedding the couple went to Sandringham to view their wedding gift. I saw my new house. It is quite lovely, Prince Carl wrote in a letter.</p>
+<p>Queen Maud came to love the house. In 1899 she wrote in a letter, Our little house is a perfect paradise, it all seems like a dream, that we are here at last, that it is so beautiful and light, every single room is so clean and fresh and such wonderful care has been taken of my things, as we have two very able maids who are here year-round.</p>
+<p type="title">The Appleton property</p>
+<p>Appleton House was hardly a small house by todays standards. The house was on 2½ floors and was built of brick. It had four sitting rooms on the ground floor and the same on the first floor, together with rooms for the servants, 20 rooms in total. The house had a conservatory and was centrally heated and appeared as a rural idyll, covered in Virginia creeper and ivy.</p>
+<p>The property stood alone, surrounded by forested parkland. The open, rolling character of the surrounding landscape inspired outdoor pursuits on horseback or by bicycle. It was also full of good subjects for Queen Maud, who was a keen amateur photographer.</p>
+<p type="title" xml:lang="nob">The Gardens</p>
+<p>Around the house the Prince of Wales had laid out a garden, designed in accordance with the tastes of the day. Here there were round, oval, triangular and square beds of roses and rhododendrons. There were extensive lawns and tall hedges of yew and box, with paths between them. Queen Maud enjoyed taking walks along these paths. Her albums contain many photographs that show her wandering alone along these paths – clad in a full-length, white dress, her parasol lifted high, King Olav recalled many years later.</p>
+<p type="title" xml:lang="nob">Bygdø Royal Farm</p>
+<p>For Queen Maud the garden was a sanctuary and a life-long object of affection and she maintained high ambitions for her Norwegian garden as well. From 1911 onwards the Queens gardener from Appleton, Mr Hubbard, came to Norway once a year, bringing with him plants and elements of the landscape style in England to tailor the garden at the Bygdø Royal Farm to the prevailing trends of the time.</p>
+<p>In 2007 the garden at Bygdø was restored to the original style adopted by Queen Maud.</p>
+<p type="title">The Queens empty house</p>
+<p>Appleton House no longer exists. Two days after Queen Mauds interment King Haakon wrote to King George VI and informed him that the time had come to return Appleton House to the British Royal Family. The Queen had had the property as long as she had wanted, just as the Prince of Wales had said she could when she was given it in 1896.</p>
+<p>For many years the house stood unused. Its last known inhabitants were King George VI and the Queen Mother, who lived in the house during a visit to Norfolk during World War II.</p>
+<p>A 1968 newspaper article with the headline The Queens empty house reported that a large anti-air raid structure had been constructed around the property during WWII and that this was unattractive and expensive to remove. In addition it would have been extremely costly to restore the property to a habitable state again.</p>
+<p>Under the circumstances, reopening Appleton House was not considered a feasible option. It was pulled down in July 1984.</p>
+<p xml:lang="vep">05.03.2011</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="nob">På 1800-tallet var det å tegne og male ansett som en del av en ung dames dannelse. I De kongelige samlinger finnes en rekke akvareller og Dronning Mauds skissebøker fra 1880-tallet. Utover 1890-tallet dabbet tegningen av - kanskje fordi den kommende dronningen fikk en ny hobby: Fotografering. Kort dokumentar utarbeidet av NRK i samarbeid med De kongelige samlinger.</p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">Bygdø Royal Farm (Article)</p>
+</list></body></document>

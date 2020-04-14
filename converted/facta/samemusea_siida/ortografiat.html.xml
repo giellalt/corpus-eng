@@ -1,50 +1,26 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Anaras - Language - Orthography</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <wordcount>645</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/english/kieli/ortografiat.html</origFileName>
-    <parallel_text xml:lang="fin" location="ortografiat.html"/>
-    <parallel_text xml:lang="smn" location="ortografiat.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Orthography</p>
-    <p>Language and Identity</p>
-    <p>The Storytelling Tradition</p>
-    <p>Literature</p>
-    <p>Works Published in Inari Sámi</p>
-    <p>1. In 1854, <em type="italic">Elias Lönnrot </em>wrote an article, <em type="italic">Ueber den Enarelappischen Dialekt </em>, which was published in a 4-volume work, <em type="italic">Acta Societatis Scientiarum Fennicae </em>. There are Inari Sámi verbs and noun inflexion schemes, text and vocabulary in the article. Lönnrot’s orthography is not very logical; neither did he seem to clearly hear the pronunciation of his language informants. Here is an example of the Lord’s Prayer: </p>
-    <p xml:lang="smn">Ææc´e miij, kii læh olmin, paasotuvos tuu nommot! Aldanos tuu väldekoddat. Læos tuu taattot nuut æædnamest, kuo almest. Adde miijen odne miij juöhepæivac´ læibem! Ja adde miijen miij væælgiidem addagas, nuut kuo mijuv addagas addelep miij væælgogasaidem. Ja æla toalvu miij kivsedossan, poits pææste miij pa´ast, tälle tuust li väldekodde ja vuöime ja kudne nuvvohadna.</p>
-    <p>2. <em type="italic">E. W. Borg </em>published in 1857 the book <em type="italic">Anar </em><em type="italic">sämi kiela aapis kirje </em><em type="italic">ja doktor Martti Lutherus Ucca katkismus </em>. ( An Inari Sámi Language Alphabet Book and Dr. Martin Luther’s Little Catechism.) Here the Lord’s Prayer looks like this: </p>
-    <p xml:lang="smn">Mii Eec kote läh almest. Pasottum lävus Tu nommad Alda puodus Tuu wäldekoddad. Sados Tuu taattud. nuut eednamest, kuo almest. Adde miijan taan päivi mii jyöche päiväli leipim. Ja adde miijan mii sudoidim addagas, nuutkuo miiuv addagas addelep mii welguliidim. Ja elä tualwu mii kiusadossan mutto päästeh mii paast. Talle Tuu li wäldekodde ja wuöime ja kudne, nuuvhannawuodast.</p>
-    <p>3. Inari Pastor <em type="italic">Lauri Itkonen </em>produced the book <em type="italic">Katkismus </em>(Catechism) 1902 and <em type="italic">Ráámmát Historia </em>(History of the <em type="italic">Bible </em>) 1906. If one compares the orthography with the preceding example, the change is significant. The writing appears to correspond rather exactly to the spoken language. The modern writing characters <em type="italic">č, š, đ, ŋ ja á </em><em type="italic"></em>appear. The manner of writing is almost the same as that in use in 1934 – 1990: </p>
-    <p xml:lang="smn">Mii Eeči, kote lah oolmijn. Pasottum leävus tuu nomm. Poađus tuu väldikodde. Šados tuu táttu eennâm alne, nuutko almeest. Adde miijan onnaa peeivi mii jyehipeäiválii leibi. Ja adde miijan addagas mii suddoid, nuutko mijuv addagas addelep toid, keäh lee mi vuästárikkom. Ja ele jođeet mii kivsadasan. Mut peesti paast. Tastko tuu lii väldikodde ja vyeimi ja kunnee nuuvhannaavuođast.</p>
-    <p>4. Even more accurate is the manner of writing developed by Erkki Itkonen, in use in the years 1934 – 1990. The Inari Sámi articles in the journal Sabmelaš (Sápmelaš) were mostly written in this manner from the beginning of the journal from 1934. 5. In the current manner of writing some sounds are marked more accurately than before to correspond to spoken language. The changes are as follows: - <em type="italic">eä </em>is written as <em type="italic">iä </em>, e.g. <em type="italic">eänui </em>– <em type="italic">iänui </em><em type="italic"></em><em type="italic">- oa </em>is written as <em type="italic">uá </em>, e.g. <em type="italic">koati </em>– <em type="italic">kuáti </em>- the back a-sound began to be written with the letter â; e.g. kulma – kulmâ - the significant j-half vowel and its preceding <em type="italic">i </em>began to be written more logically: <em type="italic">ij:iij </em><em type="italic">, </em>e.g. <em type="italic">nijbe: niijbán </em>(knife: to the knife) </p>
-    <p xml:lang="smn">1934-1990 manner of writing <em type="italic">Pasottum leävus tuu nomma. </em><em type="italic">Poađus tuu väldikodde. </em></p>
-    <p xml:lang="smn">modern manner of writing <em type="italic">Pasottum liävus tuu nommâ. </em><em type="italic">Puáđus tuu väldikodde. </em></p>
-    <p>The orthography of modern Inari Sámi is to some extent loose. For example, not all differences of dialect are standardized so there may be more than one form of an accepted word and spelling. Textbook language is, however, homogenous. 6. <em type="italic">Erkki Itkonen </em>has used his own manner of writing that diverges from the general in various textbooks of linguistics and in the dictionary <em type="italic">Inarilappisches Wörterbuch </em>(Inari Lapp Dictionary). Here are some examples: </p>
-    <p xml:lang="smn">Itkonen <em type="italic">æænab ain </em><em type="italic">skīipa ooudast kuáysuj Taaa vaīin roozaj </em></p>
-    <p xml:lang="smn">modern <em type="italic">eenâb ain </em><em type="italic">skiijpâ </em><em type="italic">oovdâst kuávsui </em><em type="italic">Taažâ vazzijn roosâi </em></p>
-    <p xml:lang="fin"><em type="italic">Matti Morottaja </em> </p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno">An sample from Elias Lönnrot’s work, Ueber  den Enarelappischen Dialekt“ from 1854.</p>
-    <p xml:lang="nno"></p>
-    <p>Juhani Aikio’s letter to his brother  Iisakki from Königsted manor, Espoo  in 1910.</p>
-    <p>Back to Top</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Anaras - Language - Orthography</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>645</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/english/kieli/ortografiat.html</origFileName><parallel_text xml:lang="fin" location="ortografiat.html"/><parallel_text xml:lang="smn" location="ortografiat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Orthography</p>
+<p>Language and Identity</p>
+<p>The Storytelling Tradition</p>
+<p>Literature</p>
+<p>Works Published in Inari Sámi</p>
+<p>1. In 1854, <em type="italic">Elias Lönnrot </em>wrote an article, <em type="italic">Ueber den Enarelappischen Dialekt </em>, which was published in a 4-volume work, <em type="italic">Acta Societatis Scientiarum Fennicae </em>. There are Inari Sámi verbs and noun inflexion schemes, text and vocabulary in the article. Lönnrot’s orthography is not very logical; neither did he seem to clearly hear the pronunciation of his language informants. Here is an example of the Lord’s Prayer: </p>
+<p xml:lang="smn">Ææc´e miij, kii læh olmin, paasotuvos tuu nommot! Aldanos tuu väldekoddat. Læos tuu taattot nuut æædnamest, kuo almest. Adde miijen odne miij juöhepæivac´ læibem! Ja adde miijen miij væælgiidem addagas, nuut kuo mijuv addagas addelep miij væælgogasaidem. Ja æla toalvu miij kivsedossan, poits pææste miij pa´ast, tälle tuust li väldekodde ja vuöime ja kudne nuvvohadna.</p>
+<p>2. <em type="italic">E. W. Borg </em>published in 1857 the book <em type="italic">Anar </em><em type="italic">sämi kiela aapis kirje </em><em type="italic">ja doktor Martti Lutherus Ucca katkismus </em>. ( An Inari Sámi Language Alphabet Book and Dr. Martin Luther’s Little Catechism.) Here the Lord’s Prayer looks like this: </p>
+<p xml:lang="smn">Mii Eec kote läh almest. Pasottum lävus Tu nommad Alda puodus Tuu wäldekoddad. Sados Tuu taattud. nuut eednamest, kuo almest. Adde miijan taan päivi mii jyöche päiväli leipim. Ja adde miijan mii sudoidim addagas, nuutkuo miiuv addagas addelep mii welguliidim. Ja elä tualwu mii kiusadossan mutto päästeh mii paast. Talle Tuu li wäldekodde ja wuöime ja kudne, nuuvhannawuodast.</p>
+<p>3. Inari Pastor <em type="italic">Lauri Itkonen </em>produced the book <em type="italic">Katkismus </em>(Catechism) 1902 and <em type="italic">Ráámmát Historia </em>(History of the <em type="italic">Bible </em>) 1906. If one compares the orthography with the preceding example, the change is significant. The writing appears to correspond rather exactly to the spoken language. The modern writing characters <em type="italic">č, š, đ, ŋ ja á </em><em type="italic"></em>appear. The manner of writing is almost the same as that in use in 1934 – 1990: </p>
+<p xml:lang="smn">Mii Eeči, kote lah oolmijn. Pasottum leävus tuu nomm. Poađus tuu väldikodde. Šados tuu táttu eennâm alne, nuutko almeest. Adde miijan onnaa peeivi mii jyehipeäiválii leibi. Ja adde miijan addagas mii suddoid, nuutko mijuv addagas addelep toid, keäh lee mi vuästárikkom. Ja ele jođeet mii kivsadasan. Mut peesti paast. Tastko tuu lii väldikodde ja vyeimi ja kunnee nuuvhannaavuođast.</p>
+<p>4. Even more accurate is the manner of writing developed by Erkki Itkonen, in use in the years 1934 – 1990. The Inari Sámi articles in the journal Sabmelaš (Sápmelaš) were mostly written in this manner from the beginning of the journal from 1934. 5. In the current manner of writing some sounds are marked more accurately than before to correspond to spoken language. The changes are as follows: - <em type="italic">eä </em>is written as <em type="italic">iä </em>, e.g. <em type="italic">eänui </em>– <em type="italic">iänui </em><em type="italic"></em><em type="italic">- oa </em>is written as <em type="italic">uá </em>, e.g. <em type="italic">koati </em>– <em type="italic">kuáti </em>- the back a-sound began to be written with the letter â; e.g. kulma – kulmâ - the significant j-half vowel and its preceding <em type="italic">i </em>began to be written more logically: <em type="italic">ij:iij </em><em type="italic">, </em>e.g. <em type="italic">nijbe: niijbán </em>(knife: to the knife) </p>
+<p xml:lang="smn">1934-1990 manner of writing <em type="italic">Pasottum leävus tuu nomma. </em><em type="italic">Poađus tuu väldikodde. </em></p>
+<p xml:lang="smn">modern manner of writing <em type="italic">Pasottum liävus tuu nommâ. </em><em type="italic">Puáđus tuu väldikodde. </em></p>
+<p>The orthography of modern Inari Sámi is to some extent loose. For example, not all differences of dialect are standardized so there may be more than one form of an accepted word and spelling. Textbook language is, however, homogenous. 6. <em type="italic">Erkki Itkonen </em>has used his own manner of writing that diverges from the general in various textbooks of linguistics and in the dictionary <em type="italic">Inarilappisches Wörterbuch </em>(Inari Lapp Dictionary). Here are some examples: </p>
+<p xml:lang="smn">Itkonen <em type="italic">æænab ain </em><em type="italic">skīipa ooudast kuáysuj Taaa vaīin roozaj </em></p>
+<p xml:lang="smn">modern <em type="italic">eenâb ain </em><em type="italic">skiijpâ </em><em type="italic">oovdâst kuávsui </em><em type="italic">Taažâ vazzijn roosâi </em></p>
+<p xml:lang="fin"><em type="italic">Matti Morottaja </em> </p>
+<p xml:lang="swe"></p>
+<p xml:lang="nno">An sample from Elias Lönnrot’s work, Ueber  den Enarelappischen Dialekt“ from 1854.</p>
+<p xml:lang="swe"></p>
+<p>Juhani Aikio’s letter to his brother  Iisakki from Königsted manor, Espoo  in 1910.</p>
+<p>Back to Top</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

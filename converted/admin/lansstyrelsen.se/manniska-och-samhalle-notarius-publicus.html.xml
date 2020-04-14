@@ -1,52 +1,21 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>187</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/notarius-publicus/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-notarius-publicus.html"/>
-    <parallel_text xml:lang="swe" location="manniska-och-samhalle-notarius-publicus.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Notary public - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Notary public</p>
-    <p>A notary public is an individual appointed by the County Administrative Board, who is commissioned to help the public to check and certify the accuracy of various tasks. The title is Latin and is roughly the equivalent of <span type="quote">"public secretary"</span>.</p>
-    <p>The position of notary public can be subject to a time limit and the County Administrative Board states within which geographical area, usually a municipality, the notary public is commissioned to work. However, the notary public should also be authorized to work outside the designated area.</p>
-    <p>In order to become a notary public, you should have obtained a law degree. You may not be declared bankrupt or have a trustee.</p>
-    <p type="title">What does a notary public do?</p>
-    <p>A notary public assists members of the public by</p>
-    <list>
-      <p type="listitem">attesting signatures, transcripts, translations and other details about the content of documents</p>
-      <p type="listitem">attending as a witness when a depository is opened or closed, or when seals are placed or broken</p>
-      <p type="listitem">supervising lottery draws</p>
-      <p type="listitem">confirming that someone is authorized to do certain things or that someone is competent or in a position to represent someone.</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>187</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/notarius-publicus/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="manniska-och-samhalle-notarius-publicus.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle-notarius-publicus.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Notary public - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Notary public</p>
+<p>A notary public is an individual appointed by the County Administrative Board, who is commissioned to help the public to check and certify the accuracy of various tasks. The title is Latin and is roughly the equivalent of <span type="quote">"public secretary"</span>.</p>
+<p>The position of notary public can be subject to a time limit and the County Administrative Board states within which geographical area, usually a municipality, the notary public is commissioned to work. However, the notary public should also be authorized to work outside the designated area.</p>
+<p>In order to become a notary public, you should have obtained a law degree. You may not be declared bankrupt or have a trustee.</p>
+<p type="title">What does a notary public do?</p>
+<p>A notary public assists members of the public by</p>
+<list><p type="listitem">attesting signatures, transcripts, translations and other details about the content of documents</p>
+<p type="listitem">attending as a witness when a depository is opened or closed, or when seals are placed or broken</p>
+<p type="listitem">supervising lottery draws</p>
+<p type="listitem">confirming that someone is authorized to do certain things or that someone is competent or in a position to represent someone.</p>
+</list></body></document>

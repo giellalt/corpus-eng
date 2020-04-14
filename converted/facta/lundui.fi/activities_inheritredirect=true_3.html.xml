@@ -1,171 +1,133 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Activities in Kevo Strict Nature Reserve - Nationalparks.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>326</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.nationalparks.fi/en/kevo/activities?inheritRedirect=true</origFileName>
-    <parallel_text xml:lang="fin" location="aktiviteetit_inheritredirect=true_2.html"/>
-    <parallel_text xml:lang="sme" location="aktivitehtat_12.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Skip to Content</p>
-    <p>Open Menu</p>
-    <list>
-      <p type="listitem">Suomeksi</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Kevo</p>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p type="title">Destinations</p>
-    <list>
-      <p type="listitem">Top Natural Attractions</p>
-      <p type="listitem">National Parks</p>
-      <p type="listitem">World Heritage Sites</p>
-      <p type="listitem">National Hiking Areas</p>
-      <p type="listitem">Wilderness Areas</p>
-      <p type="listitem">Other Nature Sites</p>
-      <p type="listitem">Hiking Trails</p>
-      <p type="listitem">Huts</p>
-      <p type="listitem">Historical Sites</p>
-      <p type="listitem">Nature Centres</p>
-      <p type="listitem">Accessible Destinations</p>
-    </list>
-    <list>
-      <p type="listitem">Aulanko</p>
-      <p type="listitem">Auttiköngäs</p>
-      <p type="listitem">Elimyssalo</p>
-      <p type="listitem">Hepoköngäs</p>
-      <p type="listitem">Hetta Area</p>
-      <p type="listitem">Hirvisuo</p>
-      <p type="listitem">Hämeenkangas</p>
-      <p type="listitem">Iivaara</p>
-      <p type="listitem">Ilmakkiaapa</p>
-      <p type="listitem">Iso-Palonen - Maariansärkät</p>
-      <p type="listitem">Juortanansalo-Lapinsuo</p>
-      <p type="listitem">Karkali</p>
-      <p type="listitem">Kermajärvi</p>
-      <p type="listitem">Kevo</p>
-      <p type="listitem">Koitajoki</p>
-      <p type="listitem">Kolvananuuro</p>
-      <p type="listitem">Komio</p>
-      <p type="listitem">Korouoma</p>
-      <p type="listitem">Kurimonkoski Rapids</p>
-      <p type="listitem">Laajalahti</p>
-      <p type="listitem">Langinkoski</p>
-      <p type="listitem">Liminka Bay</p>
-      <p type="listitem">Lentua</p>
-      <p type="listitem">Luiro Mires</p>
-      <p type="listitem">Malla</p>
-      <p type="listitem">Martimoaapa</p>
-      <p type="listitem">Melkuttimet</p>
-      <p type="listitem">Nellim</p>
-      <p type="listitem">Näränkä</p>
-      <p type="listitem">Olvassuo</p>
-      <p type="listitem">Pihlajavesi</p>
-      <p type="listitem">Punkaharju</p>
-      <p type="listitem">Pääjärvi</p>
-      <p type="listitem">Reposuo</p>
-      <p type="listitem">Riuttaskorpi</p>
-      <p type="listitem">Ruostejärvi</p>
-      <p type="listitem">Saari</p>
-      <p type="listitem">Saariselkä</p>
-      <p type="listitem">Sallatunturi Area</p>
-      <p type="listitem">Sevettijärvi-Näätämö Area</p>
-      <p type="listitem">Siikalahti Wetland</p>
-      <p type="listitem">Simojärvi and Soppana</p>
-      <p type="listitem">Sompio</p>
-      <p type="listitem">Suvasvesi</p>
-      <p type="listitem">Teerisuo-Lososuo</p>
-      <p type="listitem">Telkkämäki</p>
-      <p type="listitem">Teuravuoma - Kivijärvenvuoma</p>
-      <p type="listitem">Utsjoki</p>
-      <p type="listitem">Vaarunvuoret</p>
-      <p type="listitem">Valtavaara-Pyhävaara</p>
-      <p type="listitem">Vehoniemenharju</p>
-      <p type="listitem">Viiankiaapa</p>
-      <p type="listitem">Öjen</p>
-    </list>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p>Kevo Menu</p>
-    <p type="title">Kevo</p>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p type="title">Activities in Kevo Strict Nature Reserve</p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">What can one do inKevo Strict Nature Reserve?</p>
-    <p type="title">Walk on Marked Trails</p>
-    <p>Kevo Strict Nature Reserve has been divided into two parts: the fell area and the canyon area. Moving is allowed only on marked trails, which are the Kevo Trail and the Guivi Trail . In the fell area, walking on the marked trail is allowed during1.5. - 15.10, and in the canyon area during 15.6. - 15.10.</p>
-    <p type="title">See the Sights andScenery</p>
-    <list>
-      <p type="listitem">The spring of Sulaoja</p>
-      <p type="listitem">The southern end of the Kevo Canyon</p>
-      <p type="listitem">Fiellu Waterfall</p>
-    </list>
-    <p type="title">Walk on a Nature Trail</p>
-    <p>At Sulaoja, there is a 2-km-long nature trail, where you get information, for example, about the holy spring of Sulaoja, and about the damages done by the caterpillar of the Autumnal Moth <em type="italic">(Epirrita autumnata). </em></p>
-    <p type="title">Ski Cross-country off Trails</p>
-    <p>In the fell area,skiing is allowed everywhere during 16.10. - 30.4., and in the canyon area,skiing is allowed during 16.10. - 30.3. There are nomarked skiing trails.</p>
-    <p></p>
-    <p>© Metsähallitus 2017</p>
-    <list>
-      <p type="listitem"></p>
-    </list>
-    <p>Share This Page</p>
-    <p>Open Menu</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Activities in Kevo Strict Nature Reserve - Nationalparks.fi</title><genre code="facta"/><author><unknown/></author><wordcount>326</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.nationalparks.fi/en/kevo/activities?inheritRedirect=true</origFileName><parallel_text xml:lang="fin" location="aktiviteetit_inheritredirect=true_2.html"/><parallel_text xml:lang="sme" location="aktivitehtat_12.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skip to Content</p>
+<p>Open Menu</p>
+<list><p type="listitem">Suomeksi</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p></p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">Kevo</p>
+<list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p type="title">Destinations</p>
+<list><p type="listitem">Top Natural Attractions</p>
+<p type="listitem">National Parks</p>
+<p type="listitem">World Heritage Sites</p>
+<p type="listitem">National Hiking Areas</p>
+<p type="listitem">Wilderness Areas</p>
+<p type="listitem">Other Nature Sites</p>
+<p type="listitem">Hiking Trails</p>
+<p type="listitem">Huts</p>
+<p type="listitem">Historical Sites</p>
+<p type="listitem">Nature Centres</p>
+<p type="listitem">Accessible Destinations</p>
+</list><list><p type="listitem">Aulanko</p>
+<p type="listitem">Auttiköngäs</p>
+<p type="listitem">Elimyssalo</p>
+<p type="listitem">Hepoköngäs</p>
+<p type="listitem">Hetta Area</p>
+<p type="listitem">Hirvisuo</p>
+<p type="listitem">Hämeenkangas</p>
+<p type="listitem">Iivaara</p>
+<p type="listitem">Ilmakkiaapa</p>
+<p type="listitem">Iso-Palonen - Maariansärkät</p>
+<p type="listitem">Juortanansalo-Lapinsuo</p>
+<p type="listitem">Karkali</p>
+<p type="listitem">Kermajärvi</p>
+<p type="listitem">Kevo</p>
+<p type="listitem">Koitajoki</p>
+<p type="listitem">Kolvananuuro</p>
+<p type="listitem">Komio</p>
+<p type="listitem">Korouoma</p>
+<p type="listitem">Kurimonkoski Rapids</p>
+<p type="listitem">Laajalahti</p>
+<p type="listitem">Langinkoski</p>
+<p type="listitem">Liminka Bay</p>
+<p type="listitem">Lentua</p>
+<p type="listitem">Luiro Mires</p>
+<p type="listitem">Malla</p>
+<p type="listitem">Martimoaapa</p>
+<p type="listitem">Melkuttimet</p>
+<p type="listitem">Nellim</p>
+<p type="listitem">Näränkä</p>
+<p type="listitem">Olvassuo</p>
+<p type="listitem">Pihlajavesi</p>
+<p type="listitem">Punkaharju</p>
+<p type="listitem">Pääjärvi</p>
+<p type="listitem">Reposuo</p>
+<p type="listitem">Riuttaskorpi</p>
+<p type="listitem">Ruostejärvi</p>
+<p type="listitem">Saari</p>
+<p type="listitem">Saariselkä</p>
+<p type="listitem">Sallatunturi Area</p>
+<p type="listitem">Sevettijärvi-Näätämö Area</p>
+<p type="listitem">Siikalahti Wetland</p>
+<p type="listitem">Simojärvi and Soppana</p>
+<p type="listitem">Sompio</p>
+<p type="listitem">Suvasvesi</p>
+<p type="listitem">Teerisuo-Lososuo</p>
+<p type="listitem">Telkkämäki</p>
+<p type="listitem">Teuravuoma - Kivijärvenvuoma</p>
+<p type="listitem">Utsjoki</p>
+<p type="listitem">Vaarunvuoret</p>
+<p type="listitem">Valtavaara-Pyhävaara</p>
+<p type="listitem">Vehoniemenharju</p>
+<p type="listitem">Viiankiaapa</p>
+<p type="listitem">Öjen</p>
+</list><list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p>Kevo Menu</p>
+<p type="title">Kevo</p>
+<list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p type="title">Activities in Kevo Strict Nature Reserve</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">What can one do inKevo Strict Nature Reserve?</p>
+<p type="title">Walk on Marked Trails</p>
+<p>Kevo Strict Nature Reserve has been divided into two parts: the fell area and the canyon area. Moving is allowed only on marked trails, which are the Kevo Trail and the Guivi Trail . In the fell area, walking on the marked trail is allowed during1.5. - 15.10, and in the canyon area during 15.6. - 15.10.</p>
+<p type="title">See the Sights andScenery</p>
+<list><p type="listitem">The spring of Sulaoja</p>
+<p type="listitem">The southern end of the Kevo Canyon</p>
+<p type="listitem">Fiellu Waterfall</p>
+</list><p type="title">Walk on a Nature Trail</p>
+<p>At Sulaoja, there is a 2-km-long nature trail, where you get information, for example, about the holy spring of Sulaoja, and about the damages done by the caterpillar of the Autumnal Moth <em type="italic">(Epirrita autumnata). </em></p>
+<p type="title">Ski Cross-country off Trails</p>
+<p>In the fell area,skiing is allowed everywhere during 16.10. - 30.4., and in the canyon area,skiing is allowed during 16.10. - 30.3. There are nomarked skiing trails.</p>
+<p></p>
+<p>© Metsähallitus 2017</p>
+<list><p type="listitem"></p>
+</list><p>Share This Page</p>
+<p>Open Menu</p>
+</body></document>

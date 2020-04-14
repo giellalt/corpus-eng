@@ -1,55 +1,34 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Risten Turi" lastname="Aleksandersen" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2015</year>
-    <wordcount>303</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://galdu.custompublish.com/administrative-areas-for-the-sami-language.359113.en.html</origFileName>
-    <parallel_text xml:lang="nob" location="forvaltningsomraadet-for-samisk-spraak.359113.no.html"/>
-    <parallel_text xml:lang="sme" location="samegiela-halddaanguovlu.359113.se.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Administrative areas for the Sami Language. - Gáldu</p>
-    <p xml:lang="nob">Hopp til hovedinnholdet på siden</p>
-    <p type="title">The Rights of the Sámi</p>
-    <list>
-      <p type="listitem">The Draft Nordic Sámi Convention</p>
-      <p type="listitem">Constitutional Protection of the Sámi People <list><p type="listitem">The Sámi in the Constitution of Norway</p><p type="listitem">The Sámi People in the Constitution of Sweden</p><p type="listitem">The Sámi in the Constitution of Finland</p><p type="listitem">The Constitution of Russia</p><p type="listitem">The Act on the Sámi Parliament and other Sámi legal matters (The Sámi Act)</p><p type="listitem">Administrative areas for the Sami Language</p><p type="listitem" xml:lang="nob">Samisk språkutvalg</p></list></p>
-      <p type="listitem">The Rights of Sámi Children and Youth</p>
-      <p type="listitem">Sámi Language and Social Rights</p>
-      <p type="listitem">The rights of Sámi women</p>
-      <p type="listitem">The Rights of Sámi Elders</p>
-      <p type="listitem">Sámi Land Rights and Rights to Natural Resources</p>
-      <p type="listitem">Rights of Sámi Livelihoods</p>
-      <p type="listitem">Cultural Rights of the Sámi</p>
-      <p type="listitem">Sámi International Participation</p>
-      <p type="listitem">Relevant legal sources</p>
-    </list>
-    <p type="title">Administrative areas for the Sami Language.</p>
-    <p>
-      <em type="italic">Administrative areas for the Sami language are municipalities where Sami and Norwegian are equal languages. </em>
-    </p>
-    <p>It is the municipal council that decides whether a municipality shall become part of an administrative area for the Sami language. If they decide for it, they must submit an application about incorporation to the Municipal and Modernization Ministry (Kommunal- og moderniseringsdepartementet). When a municipality is incorporated into the administrative area, the country administration is also automatically incorporated.</p>
-    <p>Municipalities and County administrations incorporated into the administrative areas for the Sami language are:</p>
-    <p xml:lang="nob">Kautokeino, Karasjok, Tana, Porsanger, Nesseby, Kåfjord, Lavangen, Tysfjord, Snåsa and Røyrvik</p>
-    <p xml:lang="nob">Finnmark fylkeskommune, Troms fylkeskommune, Nordland fylkeskommune and Nord-Trøndelag fylkeskommune.</p>
-    <p>The Sami Act</p>
-    <p xml:lang="nob">Forskrift om forvaltningsområdet for samisk språk (Regulations on Administrative Areas for the Sami Language)</p>
-    <p xml:lang="nob">Av</p>
-    <p xml:lang="nob">Risten Turi Aleksandersen</p>
-    <p xml:lang="nno">Publisert 10.09.15</p>
-    <p xml:lang="nno">| Oppdatert 15.09.15</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Risten Turi" lastname="Aleksandersen" sex="unknown" born="" nationality=""/></author><year>2015</year><wordcount>303</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://galdu.custompublish.com/administrative-areas-for-the-sami-language.359113.en.html</origFileName><parallel_text xml:lang="nob" location="forvaltningsomraadet-for-samisk-spraak.359113.no.html"/><parallel_text xml:lang="sme" location="samegiela-halddaanguovlu.359113.se.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Administrative areas for the Sami Language. - Gáldu</p>
+<p xml:lang="nob">Hopp til hovedinnholdet på siden</p>
+<p type="title">The Rights of the Sámi</p>
+<list><p type="listitem">The Draft Nordic Sámi Convention</p>
+<p type="listitem">Constitutional Protection of the Sámi People <list><p type="listitem">The Sámi in the Constitution of Norway</p>
+<p type="listitem">The Sámi People in the Constitution of Sweden</p>
+<p type="listitem">The Sámi in the Constitution of Finland</p>
+<p type="listitem">The Constitution of Russia</p>
+<p type="listitem">The Act on the Sámi Parliament and other Sámi legal matters (The Sámi Act)</p>
+<p type="listitem">Administrative areas for the Sami Language</p>
+<p type="listitem" xml:lang="nob">Samisk språkutvalg</p>
+</list></p>
+<p type="listitem">The Rights of Sámi Children and Youth</p>
+<p type="listitem">Sámi Language and Social Rights</p>
+<p type="listitem">The rights of Sámi women</p>
+<p type="listitem">The Rights of Sámi Elders</p>
+<p type="listitem">Sámi Land Rights and Rights to Natural Resources</p>
+<p type="listitem">Rights of Sámi Livelihoods</p>
+<p type="listitem">Cultural Rights of the Sámi</p>
+<p type="listitem">Sámi International Participation</p>
+<p type="listitem">Relevant legal sources</p>
+</list><p type="title">Administrative areas for the Sami Language.</p>
+<p><em type="italic">Administrative areas for the Sami language are municipalities where Sami and Norwegian are equal languages. </em></p>
+<p>It is the municipal council that decides whether a municipality shall become part of an administrative area for the Sami language. If they decide for it, they must submit an application about incorporation to the Municipal and Modernization Ministry (Kommunal- og moderniseringsdepartementet). When a municipality is incorporated into the administrative area, the country administration is also automatically incorporated.</p>
+<p>Municipalities and County administrations incorporated into the administrative areas for the Sami language are:</p>
+<p xml:lang="nob">Kautokeino, Karasjok, Tana, Porsanger, Nesseby, Kåfjord, Lavangen, Tysfjord, Snåsa and Røyrvik</p>
+<p xml:lang="nob">Finnmark fylkeskommune, Troms fylkeskommune, Nordland fylkeskommune and Nord-Trøndelag fylkeskommune.</p>
+<p>The Sami Act</p>
+<p xml:lang="nob">Forskrift om forvaltningsområdet for samisk språk (Regulations on Administrative Areas for the Sami Language)</p>
+<p xml:lang="nob">Av</p>
+<p xml:lang="nob">Risten Turi Aleksandersen</p>
+<p xml:lang="nno">Publisert 10.09.15</p>
+<p xml:lang="nno">| Oppdatert 15.09.15</p>
+</body></document>

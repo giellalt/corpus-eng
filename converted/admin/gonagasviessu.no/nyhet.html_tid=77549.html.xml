@@ -1,59 +1,33 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>A busy day in Mexico  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>628</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=77549</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=77497.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=77543_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">A busy day in Mexico</p>
-    <p>The second day of the official visit to Mexico by Their Royal Highnesses The Crown Prince and Crown Princess involved activities related to trade and industry, health and culture.</p>
-    <p xml:lang="koi">20.03.2009</p>
-    <p>Crown Prince Haakon also spoke about the UNs Millennium Development Goals at the National Autonomous University of Mexico (UNAM).</p>
-    <p>The Crown Prince began his day at a breakfast with business leaders, after which he officially opened the trade and industry seminar in Mexico City.</p>
-    <p type="title">Trade and industry</p>
-    <p>The Mexican economy is one of the 15 largest in the world, making the country a valuable partner for Norwegian trade and industry. The delegation that has travelled with the Crown Prince and Crown Princess to Mexico comprises over 80 representatives from more than 50 Norwegian companies.</p>
-    <p>Club de Industriales is the most important forum for the Mexican business world. Crown Prince Haakon opened the days seminars by emphasising the potential for expanded cooperation between Norway and Mexico. The two countries already collaborate in a number of areas, including the petroleum industry. The Crown Prince stressed the importance of ensuring that oil exploitation activity is carried out in a sound, sustainable manner and pointed out that Norwegian technology provides a vital contribution in this regard.</p>
-    <p type="title">Visit to an HIV/AIDS clinic</p>
-    <p>Crown Princess Mette-Marit visited Clinica Condesa, a public health clinic specialising in the prevention and treatment of HIV/AIDS. The clinic also provides a venue for meetings of various types of health-related support groups. The clinic treats approximately 6,000 patients each year, and is the only clinic in Mexico City that accepts patients without health insurance. Clinica Condesa runs a separate programme focusing on human rights and measures to prevent HIV for people who are victims of sexual abuse.</p>
-    <p>The Crown Princess was received by the clinics director Dr. Andrea Gonzáles Rodriguez, and met ordinary users of the clinic.</p>
-    <p>Horacio Franco, one of the worlds most renowned flautists, performed during the visit. Franco is known for his active support of homosexual rights.</p>
-    <p type="title">Presentation on the Millennium Development Goals</p>
-    <p>Both the Crown Prince and Crown Princess visited UNAM, a public university based in Mexico City. UNAM has over 300,000 students and conducts much of Mexicos research. Crown Prince Haakon spoke at the university about his experiences as ambassador for the United Nations Development Programme and the UNs Millennium Development Goals. After the presentation, the Crown Prince answered questions from the students.</p>
-    <p type="title">Opened an architecture exhibition</p>
-    <p>The Crown Princess performed the official opening of Kristin Jarmund Architects – Selected Works, a comprehensive presentation of Norwegian architecture comprising an exhibition, lecture and workshop. The presentation is intended to form the basis for long-term cooperation between the faculties of architecture at UNAM and the Norwegian University of Science and Technology in Trondheim.</p>
-    <p>Kristin Jarmund attended the opening, and discussed the exhibition and the efforts involved in creating it.</p>
-    <p type="title">Norwegian film week</p>
-    <p>Crown Prince Haakon gave the opening speech to mark the launching of a collaborative effort between the film institutes in Norway and Mexico.</p>
-    <p>Several representatives of the Norwegian film industry are included in the Norwegian delegation, including directors Nils Gaup, Bent Hamer, Bård Breien and Eva Sørhaug, all of whom have directed films that will be shown at the film festival in Guadalajara later in the week.</p>
-    <p>Trailers of all five films were shown, and Nils Gaup gave a brief presentation on his film Kautokeinoopprøret (The Kautokeino Rebellion), which will open the Norwegian film week in Mexico City.</p>
-    <p type="title">Reception</p>
-    <p>The day concluded with an official reception hosted by the Norwegian ambassador to Mexico, Mr Knut Solem.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">Official visit to Mexico (News article)</p>
-      <p type="listitem">Seminar on indigenous peoples (News article)</p>
-      <p type="listitem">Final day in Mexico (News article)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>A busy day in Mexico  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>623</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=77549</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=77497.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=77543_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">A busy day in Mexico</p>
+<p>The second day of the official visit to Mexico by Their Royal Highnesses The Crown Prince and Crown Princess involved activities related to trade and industry, health and culture.</p>
+<p xml:lang="vep">20.03.2009</p>
+<p>Crown Prince Haakon also spoke about the UNs Millennium Development Goals at the National Autonomous University of Mexico (UNAM).</p>
+<p>The Crown Prince began his day at a breakfast with business leaders, after which he officially opened the trade and industry seminar in Mexico City.</p>
+<p type="title">Trade and industry</p>
+<p>The Mexican economy is one of the 15 largest in the world, making the country a valuable partner for Norwegian trade and industry. The delegation that has travelled with the Crown Prince and Crown Princess to Mexico comprises over 80 representatives from more than 50 Norwegian companies.</p>
+<p>Club de Industriales is the most important forum for the Mexican business world. Crown Prince Haakon opened the days seminars by emphasising the potential for expanded cooperation between Norway and Mexico. The two countries already collaborate in a number of areas, including the petroleum industry. The Crown Prince stressed the importance of ensuring that oil exploitation activity is carried out in a sound, sustainable manner and pointed out that Norwegian technology provides a vital contribution in this regard.</p>
+<p type="title">Visit to an HIV/AIDS clinic</p>
+<p>Crown Princess Mette-Marit visited Clinica Condesa, a public health clinic specialising in the prevention and treatment of HIV/AIDS. The clinic also provides a venue for meetings of various types of health-related support groups. The clinic treats approximately 6,000 patients each year, and is the only clinic in Mexico City that accepts patients without health insurance. Clinica Condesa runs a separate programme focusing on human rights and measures to prevent HIV for people who are victims of sexual abuse.</p>
+<p>The Crown Princess was received by the clinics director Dr. Andrea Gonzáles Rodriguez, and met ordinary users of the clinic.</p>
+<p>Horacio Franco, one of the worlds most renowned flautists, performed during the visit. Franco is known for his active support of homosexual rights.</p>
+<p type="title">Presentation on the Millennium Development Goals</p>
+<p>Both the Crown Prince and Crown Princess visited UNAM, a public university based in Mexico City. UNAM has over 300,000 students and conducts much of Mexicos research. Crown Prince Haakon spoke at the university about his experiences as ambassador for the United Nations Development Programme and the UNs Millennium Development Goals. After the presentation, the Crown Prince answered questions from the students.</p>
+<p type="title">Opened an architecture exhibition</p>
+<p>The Crown Princess performed the official opening of Kristin Jarmund Architects – Selected Works, a comprehensive presentation of Norwegian architecture comprising an exhibition, lecture and workshop. The presentation is intended to form the basis for long-term cooperation between the faculties of architecture at UNAM and the Norwegian University of Science and Technology in Trondheim.</p>
+<p>Kristin Jarmund attended the opening, and discussed the exhibition and the efforts involved in creating it.</p>
+<p type="title">Norwegian film week</p>
+<p>Crown Prince Haakon gave the opening speech to mark the launching of a collaborative effort between the film institutes in Norway and Mexico.</p>
+<p>Several representatives of the Norwegian film industry are included in the Norwegian delegation, including directors Nils Gaup, Bent Hamer, Bård Breien and Eva Sørhaug, all of whom have directed films that will be shown at the film festival in Guadalajara later in the week.</p>
+<p>Trailers of all five films were shown, and Nils Gaup gave a brief presentation on his film Kautokeinoopprøret (The Kautokeino Rebellion), which will open the Norwegian film week in Mexico City.</p>
+<p type="title">Reception</p>
+<p>The day concluded with an official reception hosted by the Norwegian ambassador to Mexico, Mr Knut Solem.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">Official visit to Mexico (News article)</p>
+<p type="listitem">Seminar on indigenous peoples (News article)</p>
+<p type="listitem">Final day in Mexico (News article)</p>
+</list></body></document>

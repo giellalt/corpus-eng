@@ -1,56 +1,27 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>215</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/djur-och-natur/smittskydd/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="djur-och-natur-smittskydd.html"/>
-    <parallel_text xml:lang="swe" location="djur-och-natur-smittskydd.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Disease control - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Disease control</p>
-    <p>The County Administrative Board is responsible for preventative animal disease control in the county.</p>
-    <p>The Swedish Board of Agriculture has the overall responsibility for animal health and for combating infectious animal diseases.</p>
-    <p type="title">The County Administrative Board prevents and combats</p>
-    <p>The County Administrative Board is responsible for preventive disease control of animals in the county, and we manage and coordinate the fight against certain serious infectious diseases. Some are very contagious and have major implications for animals and animal husbandry, known as Epizootic diseases (for example, bluetongue and foot and mouth disease). Other diseases can be transmitted between animals and humans and can cause serious illness in humans, known as Zoonotic diseases (for example, salmonella, tuberculosis and rabies).</p>
-    <p>In these circumstances the County Administrative Board may cooperate with the County Medical Officer, the Swedish Institute for Infectious Disease Control, the Swedish Board of Agriculture, the National Food Administration, the National Veterinary Institute, veterinarians operating in the field and the county municipalities.</p>
-    <p type="title">Contact us</p>
-    <p>County Administrative Board of Dalarna</p>
-    <p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
-    <p>Send message</p>
-    <p>Hide form</p>
-    <p>Your email address (optional)</p>
-    <p>Send a copy of the message to the email address specified</p>
-    <p>Message</p>
-    <p>Enter the code below to send your message</p>
-    <p>Generate new image</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>215</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/djur-och-natur/smittskydd/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="djur-och-natur-smittskydd.html"/><parallel_text xml:lang="swe" location="djur-och-natur-smittskydd.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Disease control - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Disease control</p>
+<p>The County Administrative Board is responsible for preventative animal disease control in the county.</p>
+<p>The Swedish Board of Agriculture has the overall responsibility for animal health and for combating infectious animal diseases.</p>
+<p type="title">The County Administrative Board prevents and combats</p>
+<p>The County Administrative Board is responsible for preventive disease control of animals in the county, and we manage and coordinate the fight against certain serious infectious diseases. Some are very contagious and have major implications for animals and animal husbandry, known as Epizootic diseases (for example, bluetongue and foot and mouth disease). Other diseases can be transmitted between animals and humans and can cause serious illness in humans, known as Zoonotic diseases (for example, salmonella, tuberculosis and rabies).</p>
+<p>In these circumstances the County Administrative Board may cooperate with the County Medical Officer, the Swedish Institute for Infectious Disease Control, the Swedish Board of Agriculture, the National Food Administration, the National Veterinary Institute, veterinarians operating in the field and the county municipalities.</p>
+<p type="title">Contact us</p>
+<p>County Administrative Board of Dalarna</p>
+<p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
+<p>Send message</p>
+<p>Hide form</p>
+<p>Your email address (optional)</p>
+<p>Send a copy of the message to the email address specified</p>
+<p>Message</p>
+<p>Enter the code below to send your message</p>
+<p>Generate new image</p>
+</body></document>

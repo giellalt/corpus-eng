@@ -1,46 +1,22 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>The Order of Merit  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>291</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/artikkel.html?tid=28663</origFileName>
-    <parallel_text xml:lang="nob" location="artikkel.html_tid=27596.html"/>
-    <parallel_text xml:lang="sme" location="artikkel.html_tid=76215_sek=75869.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">The Order of Merit</p>
-    <p>The Royal Norwegian Order of Merit was founded by King Olav V in 1985. It is conferred on foreign and Norwegian nationals as a reward for their outstanding service in the interest of Norway.</p>
-    <p>His Majesty The King is the Grand Master of the Order. The Order of Merit is divided into three classes and two sub-classes:</p>
-    <list>
-      <p type="listitem">Grand Cross</p>
-      <p type="listitem" xml:lang="nob">Grand Officer <list><p type="listitem" xml:lang="nob">Commander</p></list></p>
-      <p type="listitem" xml:lang="isl">Officer <list><p type="listitem" xml:lang="deu">Knight</p></list></p>
-    </list>
-    <p type="title" xml:lang="nob">Design</p>
-    <p>The Insignia of the Order is the Cross of St. Olav, wrought in gold or silver, with a plain crown in each of the four corners formed by the arms of the cross, inlaid with a rounded, red cross in the centre with King Olav V’s monogram surmounted by a crown.</p>
-    <p>Commander of the Norwegian Order of Merit. Photo: Kjartan Hauglid, the Royal Court.</p>
-    <p type="title">How the insignia is worn</p>
-    <p>The Insignia of the Order is worn in the same manner at that of the Order of St. Olav:</p>
-    <p>The Knight’s Cross is worn on the left breast, and the Commander’s Cross is suspended from a ribbon around the neck. The Grand Cross is attached to a broad sash worn passing from the right shoulder to the left side. Women wear the Knight’s Cross and Commander’s Cross on the left breast attached to a bow made from the Knight’s Cross ribbon.</p>
-    <p>The Insignia of the Order is returned to the Council of the Order in the event of the promotion or death of the recipient.</p>
-    <p type="title">Nominations</p>
-    <p>Nominations for order recipients should be addressed to His Majesty The King and submitted via the Department for Culture, Public Diplomacy and Protocol at the Ministry of Foreign Affairs.</p>
-    <p xml:lang="koi">05.04.2017</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>The Order of Merit  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>286</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/artikkel.html?tid=28663</origFileName><parallel_text xml:lang="nob" location="artikkel.html_tid=27596.html"/><parallel_text xml:lang="sme" location="artikkel.html_tid=76215_sek=75869.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">The Order of Merit</p>
+<p>The Royal Norwegian Order of Merit was founded by King Olav V in 1985. It is conferred on foreign and Norwegian nationals as a reward for their outstanding service in the interest of Norway.</p>
+<p>His Majesty The King is the Grand Master of the Order. The Order of Merit is divided into three classes and two sub-classes:</p>
+<list><p type="listitem">Grand Cross</p>
+<p type="listitem" xml:lang="nob">Grand Officer <list><p type="listitem" xml:lang="nob">Commander</p>
+</list></p>
+<p type="listitem" xml:lang="nob">Officer <list><p type="listitem" xml:lang="deu">Knight</p>
+</list></p>
+</list><p type="title" xml:lang="nob">Design</p>
+<p>The Insignia of the Order is the Cross of St. Olav, wrought in gold or silver, with a plain crown in each of the four corners formed by the arms of the cross, inlaid with a rounded, red cross in the centre with King Olav V’s monogram surmounted by a crown.</p>
+<p>Commander of the Norwegian Order of Merit. Photo: Kjartan Hauglid, the Royal Court.</p>
+<p type="title">How the insignia is worn</p>
+<p>The Insignia of the Order is worn in the same manner at that of the Order of St. Olav:</p>
+<p>The Knight’s Cross is worn on the left breast, and the Commander’s Cross is suspended from a ribbon around the neck. The Grand Cross is attached to a broad sash worn passing from the right shoulder to the left side. Women wear the Knight’s Cross and Commander’s Cross on the left breast attached to a bow made from the Knight’s Cross ribbon.</p>
+<p>The Insignia of the Order is returned to the Council of the Order in the event of the promotion or death of the recipient.</p>
+<p type="title">Nominations</p>
+<p>Nominations for order recipients should be addressed to His Majesty The King and submitted via the Department for Culture, Public Diplomacy and Protocol at the Ministry of Foreign Affairs.</p>
+<p xml:lang="vep">05.04.2017</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+</body></document>

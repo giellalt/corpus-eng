@@ -1,74 +1,43 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>318</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/en/Nursery-schools-and-education/Education-abroad/</origFileName>
-    <parallel_text xml:lang="nob" location="index_18.html"/>
-    <parallel_text xml:lang="sma" location="index_18.html"/>
-    <parallel_text xml:lang="sme" location="index_18.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Education abroad - County Governor - Fylkesmannen.no</p>
-    <p>Jump to content</p>
-    <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Sound version</p>
-      <p type="listitem">High contrast</p>
-      <p type="listitem" xml:lang="nno"></p>
-      <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="nob">Barnehage og opplæring</p>
-    <list>
-      <p type="listitem">People and society</p>
-      <p type="listitem">Children and parents</p>
-      <p type="listitem">Health, care and social services</p>
-      <p type="listitem">Climate and the environment</p>
-    </list>
-    <list>
-      <p type="listitem">Agriculture and food</p>
-      <p type="listitem">Municipal administration</p>
-      <p type="listitem">Planning and building</p>
-      <p type="listitem">Civil protection</p>
-    </list>
-    <p xml:lang="nob">County Governor</p>
-    <p>Nursery schools and education</p>
-    <p>Education abroad</p>
-    <list>
-      <p type="listitem">Education abroad</p>
-      <p type="listitem">Education in prisons</p>
-      <p type="listitem">Nursery schools</p>
-      <p type="listitem">Primary and lower and upper secondary education</p>
-    </list>
-    <p type="title">Education abroad</p>
-    <p xml:lang="est">Published 10/10/2012</p>
-    <p>Norwegian primary and lower secondary schools abroad can apply for accreditation under the Independent Schools Act. The list of accredited primary, lower and upper secondary schools can be found on the County Governor of Oslo and Akershus’s website. There are accredited schools in Europe, Africa and South America. The Norwegian Directorate for Education and Training is the supervisory authority for this field and is also the body that allocates funding to the accredited schools.</p>
-    <p type="title">School psychology services at Norwegian schools abroad</p>
-    <p>Under the Independent Schools Act, all students are entitled to special education and school psychology services. The County Governor of Oslo and Akershus is responsible for the running of this service, and the Norwegian Directorate for Education and Training is the relevant administrative appeals body. School psychology services abroad are available for students in primary and lower and upper secondary education alike. Children who are not yet of compulsory school age (pre-school children) do not have a statutory right to such psychology services.</p>
-    <p>On the County Governor of Oslo and Akershus’s website, you can find more information on school psychology services abroad .</p>
-    <p type="title">Grants and support schemes for students abroad</p>
-    <p>There is special support available for pursuing upper secondary education in several locations around the world. The Norwegian Centre for International Co-operation in Education is responsible for promoting international co-operation at each stage of education.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title">Forms</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Melding til Fylkesmannen fra norsk skole i utlandet</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>318</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/Nursery-schools-and-education/Education-abroad/</origFileName><parallel_text xml:lang="nob" location="index_18.html"/><parallel_text xml:lang="sma" location="index_18.html"/><parallel_text xml:lang="sme" location="index_18.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Education abroad - County Governor - Fylkesmannen.no</p>
+<p>Jump to content</p>
+<p xml:lang="nno">County Governor - Fylkesmannen.no</p>
+<list><p type="listitem">Sound version</p>
+<p type="listitem">High contrast</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="nob">Barnehage og opplæring</p>
+<list><p type="listitem">People and society</p>
+<p type="listitem">Children and parents</p>
+<p type="listitem">Health, care and social services</p>
+<p type="listitem">Climate and the environment</p>
+</list><list><p type="listitem">Agriculture and food</p>
+<p type="listitem">Municipal administration</p>
+<p type="listitem">Planning and building</p>
+<p type="listitem">Civil protection</p>
+</list><p xml:lang="nob">County Governor</p>
+<p>Nursery schools and education</p>
+<p>Education abroad</p>
+<list><p type="listitem">Education abroad</p>
+<p type="listitem">Education in prisons</p>
+<p type="listitem">Nursery schools</p>
+<p type="listitem">Primary and lower and upper secondary education</p>
+</list><p type="title">Education abroad</p>
+<p xml:lang="est">Published 10/10/2012</p>
+<p>Norwegian primary and lower secondary schools abroad can apply for accreditation under the Independent Schools Act. The list of accredited primary, lower and upper secondary schools can be found on the County Governor of Oslo and Akershus’s website. There are accredited schools in Europe, Africa and South America. The Norwegian Directorate for Education and Training is the supervisory authority for this field and is also the body that allocates funding to the accredited schools.</p>
+<p type="title">School psychology services at Norwegian schools abroad</p>
+<p>Under the Independent Schools Act, all students are entitled to special education and school psychology services. The County Governor of Oslo and Akershus is responsible for the running of this service, and the Norwegian Directorate for Education and Training is the relevant administrative appeals body. School psychology services abroad are available for students in primary and lower and upper secondary education alike. Children who are not yet of compulsory school age (pre-school children) do not have a statutory right to such psychology services.</p>
+<p>On the County Governor of Oslo and Akershus’s website, you can find more information on school psychology services abroad .</p>
+<p type="title">Grants and support schemes for students abroad</p>
+<p>There is special support available for pursuing upper secondary education in several locations around the world. The Norwegian Centre for International Co-operation in Education is responsible for promoting international co-operation at each stage of education.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title">Forms</p>
+<list><p type="listitem" xml:lang="nno">Melding til Fylkesmannen fra norsk skole i utlandet</p>
+</list></body></document>

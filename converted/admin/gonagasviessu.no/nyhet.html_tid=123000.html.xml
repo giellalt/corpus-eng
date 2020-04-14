@@ -1,54 +1,26 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Norwegian-Indian cooperation  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>540</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=123000</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=123000.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=123000_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Norwegian-Indian cooperation</p>
-    <p>Cooperation between India and Norway in the business and cultural spheres was the focus of the second day of the State Visit from India. Their Majesties The King and Queen accompanied His Excellency President Pranab Mukherjee of India and his daughter, Madame Sharmistha Mukherjee, during their programme of activities.</p>
-    <p xml:lang="koi">14.10.2014</p>
-    <p>King Harald and President Mukherjee began their day at the offices of the Confederation of Norwegian Enterprise (NHO), where they were welcomed by NHO President Tore Ulstein. President Mukherjee opened a business seminar attended by over 100 Norwegian and Indian businesspeople, as well as government representatives from both countries. The seminar explored the opportunities for expanded cooperation on business, research and education, and King Harald and President Mukherjee observed the signing of several cooperation agreements.</p>
-    <p>Minister of Trade and Industry Monica Mæland and Minister of Education and Research Torbjørn Røe Isaksen spoke at the opening of the seminar, which was organised by NHO and the Research Council of Norway in cooperation with NHO’s sister organisation the Confederation of Indian Industry (CII) and the Norway India Chamber of Commerce and Industry (NICCI).</p>
-    <p type="title">Parallel programme</p>
-    <p>In a parallel programme, Queen Sonja accompanied Madame Sharmistha Mukherjee to the Museum of Decorative Arts and Design to view an exhibition by the Norwegian fashion designer Julie Skarland, which opens on Saturday. Ms Skarland has resided in India for the past nine years, which is evident in the exhibition entitled <em type="italic">Paris – New Delhi – Oslo </em>. The exhibition displays clothing from her collections from Paris and New Delhi, and Queen Sonja and Madame Mukherjee had the opportunity to view clothing inspired by recycling, fair trade – and knitting.   </p>
-    <p>From the Museum of Decorative Arts and Design they moved on to the Norwegian National Opera and Ballet. Here they had a guided tour of the Oslo Opera House, where they visited both the main concert hall and some of the rooms backstage, such as the sewing and rehearsal rooms. They also had the opportunity to watch part of the dress rehearsal of <em type="italic">Kammer-Kylián – Last Touch First, </em>which opens on Scene 2 on Wednesday.   </p>
-    <p type="title" xml:lang="nob">Luncheon at Akershus Fortress</p>
-    <p>On behalf the Norwegian Government, Prime Minister Erna Solberg hosted a luncheon at Akershus Fortress in honour of the State Visit on Tuesday. The King and Queen and Their Royal Highnesses The Crown Prince and Crown Princess were in attendance.</p>
-    <p type="title">Concluded at the Munch Museum</p>
-    <p>The Munch Museum was the final stop of the programme for the State Visit. Together with the King and Queen, President Mukherjee and Madame Mukherjee viewed the exhibition entitled <em type="italic">Through Nature, </em>which explores the extent to which Munch incorporated nature into his artwork and how stories from nature are depicted in his paintings.  </p>
-    <p>A Memorandum of Understanding between India and Norway in the cultural sphere was signed as well, in part for facilitating an exhibition of the artwork of Edvard Munch for the Indian public.</p>
-    <p>Following the visit to the Munch Museum, the King and Queen said their formal farewells to President Mukherjee and Madame Sharmistha Mukherjee.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">State Visit from India (News article)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno">NICCI.no om konferansen</p>
-      <p type="listitem">The Munch Museum</p>
-      <p type="listitem">The National Museum</p>
-      <p type="listitem" xml:lang="nob">The Opera House</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Norwegian-Indian cooperation  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>535</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=123000</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=123000.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=123000_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Norwegian-Indian cooperation</p>
+<p>Cooperation between India and Norway in the business and cultural spheres was the focus of the second day of the State Visit from India. Their Majesties The King and Queen accompanied His Excellency President Pranab Mukherjee of India and his daughter, Madame Sharmistha Mukherjee, during their programme of activities.</p>
+<p xml:lang="vep">14.10.2014</p>
+<p>King Harald and President Mukherjee began their day at the offices of the Confederation of Norwegian Enterprise (NHO), where they were welcomed by NHO President Tore Ulstein. President Mukherjee opened a business seminar attended by over 100 Norwegian and Indian businesspeople, as well as government representatives from both countries. The seminar explored the opportunities for expanded cooperation on business, research and education, and King Harald and President Mukherjee observed the signing of several cooperation agreements.</p>
+<p>Minister of Trade and Industry Monica Mæland and Minister of Education and Research Torbjørn Røe Isaksen spoke at the opening of the seminar, which was organised by NHO and the Research Council of Norway in cooperation with NHO’s sister organisation the Confederation of Indian Industry (CII) and the Norway India Chamber of Commerce and Industry (NICCI).</p>
+<p type="title">Parallel programme</p>
+<p>In a parallel programme, Queen Sonja accompanied Madame Sharmistha Mukherjee to the Museum of Decorative Arts and Design to view an exhibition by the Norwegian fashion designer Julie Skarland, which opens on Saturday. Ms Skarland has resided in India for the past nine years, which is evident in the exhibition entitled <em type="italic">Paris – New Delhi – Oslo </em>. The exhibition displays clothing from her collections from Paris and New Delhi, and Queen Sonja and Madame Mukherjee had the opportunity to view clothing inspired by recycling, fair trade – and knitting.   </p>
+<p>From the Museum of Decorative Arts and Design they moved on to the Norwegian National Opera and Ballet. Here they had a guided tour of the Oslo Opera House, where they visited both the main concert hall and some of the rooms backstage, such as the sewing and rehearsal rooms. They also had the opportunity to watch part of the dress rehearsal of <em type="italic">Kammer-Kylián – Last Touch First, </em>which opens on Scene 2 on Wednesday.   </p>
+<p type="title" xml:lang="nob">Luncheon at Akershus Fortress</p>
+<p>On behalf the Norwegian Government, Prime Minister Erna Solberg hosted a luncheon at Akershus Fortress in honour of the State Visit on Tuesday. The King and Queen and Their Royal Highnesses The Crown Prince and Crown Princess were in attendance.</p>
+<p type="title">Concluded at the Munch Museum</p>
+<p>The Munch Museum was the final stop of the programme for the State Visit. Together with the King and Queen, President Mukherjee and Madame Mukherjee viewed the exhibition entitled <em type="italic">Through Nature, </em>which explores the extent to which Munch incorporated nature into his artwork and how stories from nature are depicted in his paintings.  </p>
+<p>A Memorandum of Understanding between India and Norway in the cultural sphere was signed as well, in part for facilitating an exhibition of the artwork of Edvard Munch for the Indian public.</p>
+<p>Following the visit to the Munch Museum, the King and Queen said their formal farewells to President Mukherjee and Madame Sharmistha Mukherjee.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">State Visit from India (News article)</p>
+</list><list><p type="listitem" xml:lang="nno">NICCI.no om konferansen</p>
+<p type="listitem">The Munch Museum</p>
+<p type="listitem">The National Museum</p>
+<p type="listitem" xml:lang="nob">The Opera House</p>
+</list></body></document>

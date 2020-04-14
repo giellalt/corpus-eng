@@ -1,83 +1,40 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1180</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Professional-Secrecy-and-Confidentiality</origFileName>
-    <parallel_text xml:lang="fin" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="smj" location="tystnadplikt-och-sekretess.html"/>
-    <parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rka"/>
-    <parallel_text location="tystnadsplikt-och-sekretess-.html" xml:lang="rmn"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmu"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Professional Secrecy and Confidentiality / Tystnadsplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title" xml:lang="swe">Professional Secrecy and ConfidentialityTystnadsplikt och sekretess</p>
-    <p>When turning to the Swedish health care system, it is important to feel confident in the healthcare professionals you meet. This confidence is crucial for feeling safe and having the courage to openly talk about ailments and symptoms in order to receive the treatment you need.</p>
-    <p xml:lang="swe"></p>
-    <p>That is why all healthcare professionals within the Swedish health care system are bound by professional secrecy. The fundamental principle is that no one in the health care system is permitted to release information without the patient's consent. This applies to information regarding a patient's disease, treatment, or personal situation.</p>
-    <p>The obligation to Professional Secrecy is regulated by the Public Access to Information and Secrecy Act for those who work within the Swedish government, the county councils, and the municipalities, while those who work for a private caregiver are regulated by the rules of confidentiality stated in the Patient Safety Act. Those who violate the obligation to professional secrecy can be charged in court, or be punished via other means by the authorities that regulate the Swedish Healthcare System.</p>
-    <p>All health care professionals are bound by professional secrecy amongst each other. Only those who treat the same patient are permitted to talk to each other regarding the patient's condition or personal situation. That means that a doctor is only permitted to discuss a patient's treatment with another colleague, if they are both treating the same patient.</p>
-    <p>The obligation to professional secrecy concerns all professionals within the Swedish health care system, regardless of whether it is within public or private health care, and regardless of whether they are doctors, nurses, or administrative personnel. Pharmacists are also bound to professional secrecy.</p>
-    <p>Patient medical records are also protected by confidentiality, and the only ones allowed to read a patient's medical records are the ones who are currently treating the patient in question. It does not matter if the medical records are digital or printed on paper.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">You decide</p>
-    <p>The laws mean that not even the next of kin has the right to know what is happening or being said at the hospital unless you want them to know. The health care professionals usually ask whom they are allowed to give out information to. You make the choice of whom they are allowed to inform. You can, for example, prior to having surgery, inform the healthcare professionals that they are permitted to let others know how the operation went before you wake up from it.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">Children also have the right to confidentiality</p>
-    <p>Parents or legal guardians generally have the right to find out about care and medical records for children below the age of 18. Nevertheless, children may be entitled to determine whether caregivers can disclose such information. In other words, parents and other family members are not always entitled to know what a child has told a caregiver or what the medical records say.</p>
-    <p>There is no specific age at which a child can decide—that determination is made on a case-by-case basis.</p>
-    <p>If medical personnel suspect that a child is mistreated by her guardian, or custodian can not protect the child, the child's medical record is not being replaced.</p>
-    <p>If you are under 18 and go to a youth clinic, the caregivers there are almost always under an oath of confidentiality. Exceptions may be made if you authorize them to disclose information or if your health or safety is at risk.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">Exceptions to confidentiality</p>
-    <p>Even if confidentiality and the obligation of professional secrecy are extensive, there are some cases when confidentiality can be broken without the consent of the patient. Those are</p>
-    <list>
-      <p type="listitem">when a court, prosecutor, police, law enforcement, or tax authority demands to know if a certain person is being treated at a health care institution.</p>
-      <p type="listitem">when the National Board of Health and Welfare requires the information for their activities.</p>
-      <p type="listitem">when the Swedish Transport Agency needs the information to review someone's suitability for having a driver's license, a tractor license or a taxi driver's licence.</p>
-      <p type="listitem">when the information is needed for reviewing if a student should be suspended from studying at university.</p>
-      <p type="listitem">when the information is needed in a forensic investigation.</p>
-    </list>
-    <p>Regarding suspicion of a crime that is severe enough to warrant at least one year in prison, health care professionals have the right to break confidentiality by reporting the crime to the police, and answer the questions made by the police and prosecuting authorities. Examples of such crimes are murder, rape, and aggravated assault. There some traffic offences with milder penalties, like driving under the influence, which health care professionals are entitled to report.</p>
-    <p type="title">Special exceptions for children</p>
-    <p>Exceptions to the obligation of professional secrecy are made when it comes to children, if health care professionals suspect that the child is being subjected to a crime, like assault or sexual abuse.</p>
-    <p>If health care professionals suspect that a child is being harmed, they should report their suspicions to social services, who then conduct an investigation and later report to the police if necessary. The same thing applies if there is an investigation under way regarding a minor's need of protection. Then, healthcare professionals are obligated to give out information that can be of value to the investigation.</p>
-    <p type="title">The Swedish Social Insurance Agency and insurance companies</p>
-    <p>Patients decide themselves if the health and medical care system are permitted to release information regarding current or previous diseases and treatments. But if you are sick and you apply for financial compensation at the Swedish Social Insurance Agency, health care professionals are entitled to give out the information required to assess whether the application is eligible for compensation.</p>
-    <p>This also applies when you are injured or catch a disease and want to be compensated by an insurance company. If applying for financial compensation, the insurance company is entitled to study the information needed to make a correct assessment regarding your right to receive compensation.</p>
-    <p>As regards small children, the legal caregiver decides whether or not information is to be handed out. When the child gets older, and is considered to be mature enough in this regard, he or she is entitled to decide alone whether or not healthcare professionals are allowed to release information, and to whom. Thus, there is no specific age limit as to when a child is entitled to decide alone; it is determined in each individual case. In some cases, legal caretakers are not allowed to be informed of the child's health condition.</p>
-    <p type="title">Breach of Confidentiality</p>
-    <p>Even if there are some situations when healthcare professionals are allowed or obligated by law to break the rules of confidentiality, those cases are exceptions. The general idea is that being bound by professional secrecy should ensure the protection of the patient.</p>
-    <p>If a patient suspects that a healthcare professional is in breach of confidentiality, he or she can report it to the police or social services. It can lead to that person being prosecuted and sentenced.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1171</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Professional-Secrecy-and-Confidentiality</origFileName><parallel_text xml:lang="fin" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/><parallel_text xml:lang="smj" location="tystnadplikt-och-sekretess.html"/><parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rka"/><parallel_text location="tystnadsplikt-och-sekretess-.html" xml:lang="rmn"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmu"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rlo"/><parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Professional Secrecy and Confidentiality / Tystnadsplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Professional Secrecy and ConfidentialityTystnadsplikt och sekretess</p>
+<p>When turning to the Swedish health care system, it is important to feel confident in the healthcare professionals you meet. This confidence is crucial for feeling safe and having the courage to openly talk about ailments and symptoms in order to receive the treatment you need.</p>
+<p xml:lang="swe"></p>
+<p>That is why all healthcare professionals within the Swedish health care system are bound by professional secrecy. The fundamental principle is that no one in the health care system is permitted to release information without the patient's consent. This applies to information regarding a patient's disease, treatment, or personal situation.</p>
+<p>The obligation to Professional Secrecy is regulated by the Public Access to Information and Secrecy Act for those who work within the Swedish government, the county councils, and the municipalities, while those who work for a private caregiver are regulated by the rules of confidentiality stated in the Patient Safety Act. Those who violate the obligation to professional secrecy can be charged in court, or be punished via other means by the authorities that regulate the Swedish Healthcare System.</p>
+<p>All health care professionals are bound by professional secrecy amongst each other. Only those who treat the same patient are permitted to talk to each other regarding the patient's condition or personal situation. That means that a doctor is only permitted to discuss a patient's treatment with another colleague, if they are both treating the same patient.</p>
+<p>The obligation to professional secrecy concerns all professionals within the Swedish health care system, regardless of whether it is within public or private health care, and regardless of whether they are doctors, nurses, or administrative personnel. Pharmacists are also bound to professional secrecy.</p>
+<p>Patient medical records are also protected by confidentiality, and the only ones allowed to read a patient's medical records are the ones who are currently treating the patient in question. It does not matter if the medical records are digital or printed on paper.</p>
+<p xml:lang="swe"></p>
+<p type="title">You decide</p>
+<p>The laws mean that not even the next of kin has the right to know what is happening or being said at the hospital unless you want them to know. The health care professionals usually ask whom they are allowed to give out information to. You make the choice of whom they are allowed to inform. You can, for example, prior to having surgery, inform the healthcare professionals that they are permitted to let others know how the operation went before you wake up from it.</p>
+<p xml:lang="swe"></p>
+<p type="title">Children also have the right to confidentiality</p>
+<p>Parents or legal guardians generally have the right to find out about care and medical records for children below the age of 18. Nevertheless, children may be entitled to determine whether caregivers can disclose such information. In other words, parents and other family members are not always entitled to know what a child has told a caregiver or what the medical records say.</p>
+<p>There is no specific age at which a child can decide—that determination is made on a case-by-case basis.</p>
+<p>If medical personnel suspect that a child is mistreated by her guardian, or custodian can not protect the child, the child's medical record is not being replaced.</p>
+<p>If you are under 18 and go to a youth clinic, the caregivers there are almost always under an oath of confidentiality. Exceptions may be made if you authorize them to disclose information or if your health or safety is at risk.</p>
+<p xml:lang="swe"></p>
+<p type="title">Exceptions to confidentiality</p>
+<p>Even if confidentiality and the obligation of professional secrecy are extensive, there are some cases when confidentiality can be broken without the consent of the patient. Those are</p>
+<list><p type="listitem">when a court, prosecutor, police, law enforcement, or tax authority demands to know if a certain person is being treated at a health care institution.</p>
+<p type="listitem">when the National Board of Health and Welfare requires the information for their activities.</p>
+<p type="listitem">when the Swedish Transport Agency needs the information to review someone's suitability for having a driver's license, a tractor license or a taxi driver's licence.</p>
+<p type="listitem">when the information is needed for reviewing if a student should be suspended from studying at university.</p>
+<p type="listitem">when the information is needed in a forensic investigation.</p>
+</list><p>Regarding suspicion of a crime that is severe enough to warrant at least one year in prison, health care professionals have the right to break confidentiality by reporting the crime to the police, and answer the questions made by the police and prosecuting authorities. Examples of such crimes are murder, rape, and aggravated assault. There some traffic offences with milder penalties, like driving under the influence, which health care professionals are entitled to report.</p>
+<p type="title">Special exceptions for children</p>
+<p>Exceptions to the obligation of professional secrecy are made when it comes to children, if health care professionals suspect that the child is being subjected to a crime, like assault or sexual abuse.</p>
+<p>If health care professionals suspect that a child is being harmed, they should report their suspicions to social services, who then conduct an investigation and later report to the police if necessary. The same thing applies if there is an investigation under way regarding a minor's need of protection. Then, healthcare professionals are obligated to give out information that can be of value to the investigation.</p>
+<p type="title">The Swedish Social Insurance Agency and insurance companies</p>
+<p>Patients decide themselves if the health and medical care system are permitted to release information regarding current or previous diseases and treatments. But if you are sick and you apply for financial compensation at the Swedish Social Insurance Agency, health care professionals are entitled to give out the information required to assess whether the application is eligible for compensation.</p>
+<p>This also applies when you are injured or catch a disease and want to be compensated by an insurance company. If applying for financial compensation, the insurance company is entitled to study the information needed to make a correct assessment regarding your right to receive compensation.</p>
+<p>As regards small children, the legal caregiver decides whether or not information is to be handed out. When the child gets older, and is considered to be mature enough in this regard, he or she is entitled to decide alone whether or not healthcare professionals are allowed to release information, and to whom. Thus, there is no specific age limit as to when a child is entitled to decide alone; it is determined in each individual case. In some cases, legal caretakers are not allowed to be informed of the child's health condition.</p>
+<p type="title">Breach of Confidentiality</p>
+<p>Even if there are some situations when healthcare professionals are allowed or obligated by law to break the rules of confidentiality, those cases are exceptions. The general idea is that being bound by professional secrecy should ensure the protection of the patient.</p>
+<p>If a patient suspects that a healthcare professional is in breach of confidentiality, he or she can report it to the police or social services. It can lead to that person being prosecuted and sentenced.</p>
+</body></document>

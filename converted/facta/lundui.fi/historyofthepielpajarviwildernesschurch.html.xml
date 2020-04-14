@@ -1,138 +1,103 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>History of the Pielpajärvi Wilderness Church - Nationalparks.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>912</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.nationalparks.fi/en/pielpajarviwildernesschurch/historyofthepielpajarviwildernesschurch</origFileName>
-    <parallel_text xml:lang="fin" location="historiaa.html"/>
-    <parallel_text xml:lang="sme" location="bielbajavrrimeahccegirkuhistorja.html"/>
-    <parallel_text xml:lang="smn" location="pialppaajavrimeccikirhohistorja.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Skip to Content</p>
-    <p>Open Menu</p>
-    <list>
-      <p type="listitem">Suomeksi</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Pielpajärvi Wilderness Church</p>
-    <list>
-      <p type="listitem">History of the Pielpajärvi Wilderness Church</p>
-    </list>
-    <p></p>
-    <p type="title">Destinations</p>
-    <list>
-      <p type="listitem">Top Natural Attractions</p>
-      <p type="listitem">National Parks</p>
-      <p type="listitem">World Heritage Sites</p>
-      <p type="listitem">National Hiking Areas</p>
-      <p type="listitem">Wilderness Areas</p>
-      <p type="listitem">Other Nature Sites</p>
-      <p type="listitem">Hiking Trails</p>
-      <p type="listitem">Huts</p>
-      <p type="listitem">Historical Sites</p>
-      <p type="listitem">Nature Centres</p>
-      <p type="listitem">Accessible Destinations</p>
-    </list>
-    <list>
-      <p type="listitem">Heretty Loggers´ Cabin</p>
-      <p type="listitem">Hunting Pits on Jyppyrä Hill</p>
-      <p type="listitem">Hytermä</p>
-      <p type="listitem">Iso Linnamäki Castle Hill</p>
-      <p type="listitem">Kajaani Castle Ruins</p>
-      <p type="listitem">Kalmosärkkä Sandbank</p>
-      <p type="listitem">Kappelniitty Ancient Site</p>
-      <p type="listitem">Katanpää Fortress Island</p>
-      <p type="listitem">Koroistenniemi</p>
-      <p type="listitem">Korteniemi</p>
-      <p type="listitem">Kovero</p>
-      <p type="listitem">Kultala Gold Village of River Ivalojoki</p>
-      <p type="listitem">Kurjenpolvi Graveyard</p>
-      <p type="listitem">Kuusisto Bishop’s Castle Ruins</p>
-      <p type="listitem">Kärnäkoski Fortress</p>
-      <p type="listitem">Käräjämäki Hill</p>
-      <p type="listitem">Langinkoski Imperial Fishing Lodge</p>
-      <p type="listitem">Latvavaara Farm</p>
-      <p type="listitem">Lemmenjoki’s Deer Pits</p>
-      <p type="listitem">Levävaara Farm</p>
-      <p type="listitem">Liinmaa Castle</p>
-      <p type="listitem">Lounatkoski</p>
-      <p type="listitem">Mattila Farm</p>
-      <p type="listitem">Matti Musta´s Cottage</p>
-      <p type="listitem">Ollila and Turula Farms</p>
-      <p type="listitem">Pakasaivo and the Kirkkopahta Seida Rock</p>
-      <p type="listitem">Pielpajärvi Wilderness Church</p>
-      <p type="listitem">Pisamalahti Hill Fort</p>
-      <p type="listitem">Päivääniemi Burial Ground</p>
-      <p type="listitem">Raja-Jooseppi Homestead</p>
-      <p type="listitem">Rapola Hill Fort</p>
-      <p type="listitem">Raseborg Castle Ruin</p>
-      <p type="listitem">Ristinpelto</p>
-      <p type="listitem">Rytivaara Crown Tenant Farm</p>
-      <p type="listitem">Sallivaara Reindeer Round-Up Site</p>
-      <p type="listitem">Salpa-line, Änäkäinen</p>
-      <p type="listitem">Seili Island</p>
-      <p type="listitem">Skolt Sámi Heritage House</p>
-      <p type="listitem">Svartholma Sea Fortress</p>
-      <p type="listitem">Telkkämäki</p>
-      <p type="listitem">The Grounds of Kaapin Jouni</p>
-      <p type="listitem">The Old Suomunruoktu Hut</p>
-      <p type="listitem">The Rumakuru Old Day Trip Hut</p>
-      <p type="listitem">The Settlement of Wooded Hills in Kuhmo</p>
-      <p type="listitem">Tiainen Crown Tenant Farm</p>
-      <p type="listitem">Ukonsaari Island</p>
-      <p type="listitem">Untamala Ancient Site</p>
-      <p type="listitem">Vallisaari</p>
-      <p type="listitem">Välimaa River Sámi Farm</p>
-      <p type="listitem">Värikallio</p>
-      <p type="listitem">Äkässaivo and Seitapahta</p>
-      <p type="listitem">Örö Fortress Island</p>
-    </list>
-    <list>
-      <p type="listitem">History of the Pielpajärvi Wilderness Church</p>
-    </list>
-    <p></p>
-    <p type="title">History of the Pielpajärvi Wilderness Church</p>
-    <p></p>
-    <p type="title">Pielpajärvi Became the Centre of Inari</p>
-    <p>The areas around Lake Inarijärvi have been inhabited by the Inari Sámi people for a very long time. The Inari Sámi people's most important sources of livelihood were fishing and hunting. Reindeer husbandry was small-scale, and reindeer were chiefly used as pack and draught animals.</p>
-    <p>The annual migration cycle was an integral part of the Inari Sámi people's way of life. From spring to autumn, the families moved from one place to another depending on the hunting and fishing destinations. However, for winter the families gathered in one place of dwelling, i.e., the winter village. The winter village was the centre of social life and was also visited by merchants, ministers as well as the tax authorities. In the early 1600s, the winter village of Inari was moved to Pielpajärvi, which functioned as Inari's centre for a long time.</p>
-    <p type="title">The First Church in Pielpajärvi</p>
-    <p>Consequently, it was only natural that the first church in Inari was built in Pielpajärvi. However, it was too small for people's needs right after it was completed. It was also difficult to get a minister to Pielpajärvi as there was no proper dwelling for him. The minister therefore only visited Inari once or twice a year.</p>
-    <p>The church service was a major event at the time. The event took one or one and a half weeks in winter and two or three days in summer. During that time people stayed in church cabins that were built on the church grounds. Besides religious affairs, worldly matters were also attended to: the minister and the parish clerk educated people and taught children, the market was organised, tax was levied and court sessions were also often held.</p>
-    <p type="title">The New Church</p>
-    <p>The building of a new church became topical in the mid-1700s, when the old church was in disrepair and almost falling down. The construction work for the current church of Pielpajärvi began in 1752 and was completed in 1760. The new church was probably built on top of the old church, as was the custom of the time.</p>
-    <p>The shape of the church is a cross with almost equal arms. It is 14 metres long from north to south and 13.6 metres long from east to west. In 1760 - 1766 a belfry was built as an extension to the western transept. The lower part of the belfry functions as the church porch. The church galleries are located in the northern and western transepts. The stony church yard is surrounded by a skilfully-made paling fence. There is no graveyard in the vicinity of the church, as the dead were buried, because of beasts of prey, on the nearby Hautuumaasaaret islands.</p>
-    <p>The church was regularly maintained for a long time but after the mid-1800s, its maintenance was neglected. Consequently, the church was so badly run down that it was beyond repair. It was decided that a new church be built alongside better connections, i.e., by the mouth of River Juutuanjoki, where the current village of Inari had started to develop. The building of the new church was completed in 1888 and use of the Pielpajärvi Church was discontinued.</p>
-    <p type="title">A New Upswing</p>
-    <p>The Pielpajärvi Church was reopened in 1940. The church located in the current village of Inari was destroyed in the Winter War bombings earlier that same year, and the Inari prayerhouse was made into a temporary church. However, the Inari inhabitants decided to have a service at Pielpajärvi during Midsummer. This became a tradition that still continues. Nowadays the Easter service is also organised at the Pielpajärvi Church. It is also a popular wedding church.</p>
-    <p>The church is a relic protected by law. The 30 - 40 church cabins and the parsonage located on the church grounds have been almost completely destroyed. The National Board of Antiquities renovated the church using traditional work methods in 1975 - 1976. Thereafter, it has been repaired and renovated at regular intervals.</p>
-    <p>There is plenty of flora on the church grounds. Metsähallitus has drawn up a management plan for the area. The church grounds have been mowed by voluntary workers in late summer from the year 2000 onwards.</p>
-    <p></p>
-    <p>© Metsähallitus 2017</p>
-    <list>
-      <p type="listitem"></p>
-    </list>
-    <p>Share This Page</p>
-    <p>Open Menu</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>History of the Pielpajärvi Wilderness Church - Nationalparks.fi</title><genre code="facta"/><author><unknown/></author><wordcount>912</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.nationalparks.fi/en/pielpajarviwildernesschurch/historyofthepielpajarviwildernesschurch</origFileName><parallel_text xml:lang="fin" location="historiaa.html"/><parallel_text xml:lang="sme" location="bielbajavrrimeahccegirkuhistorja.html"/><parallel_text xml:lang="smn" location="pialppaajavrimeccikirhohistorja.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skip to Content</p>
+<p>Open Menu</p>
+<list><p type="listitem">Suomeksi</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p></p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">Pielpajärvi Wilderness Church</p>
+<list><p type="listitem">History of the Pielpajärvi Wilderness Church</p>
+</list><p></p>
+<p type="title">Destinations</p>
+<list><p type="listitem">Top Natural Attractions</p>
+<p type="listitem">National Parks</p>
+<p type="listitem">World Heritage Sites</p>
+<p type="listitem">National Hiking Areas</p>
+<p type="listitem">Wilderness Areas</p>
+<p type="listitem">Other Nature Sites</p>
+<p type="listitem">Hiking Trails</p>
+<p type="listitem">Huts</p>
+<p type="listitem">Historical Sites</p>
+<p type="listitem">Nature Centres</p>
+<p type="listitem">Accessible Destinations</p>
+</list><list><p type="listitem">Heretty Loggers´ Cabin</p>
+<p type="listitem">Hunting Pits on Jyppyrä Hill</p>
+<p type="listitem">Hytermä</p>
+<p type="listitem">Iso Linnamäki Castle Hill</p>
+<p type="listitem">Kajaani Castle Ruins</p>
+<p type="listitem">Kalmosärkkä Sandbank</p>
+<p type="listitem">Kappelniitty Ancient Site</p>
+<p type="listitem">Katanpää Fortress Island</p>
+<p type="listitem">Koroistenniemi</p>
+<p type="listitem">Korteniemi</p>
+<p type="listitem">Kovero</p>
+<p type="listitem">Kultala Gold Village of River Ivalojoki</p>
+<p type="listitem">Kurjenpolvi Graveyard</p>
+<p type="listitem">Kuusisto Bishop’s Castle Ruins</p>
+<p type="listitem">Kärnäkoski Fortress</p>
+<p type="listitem">Käräjämäki Hill</p>
+<p type="listitem">Langinkoski Imperial Fishing Lodge</p>
+<p type="listitem">Latvavaara Farm</p>
+<p type="listitem">Lemmenjoki’s Deer Pits</p>
+<p type="listitem">Levävaara Farm</p>
+<p type="listitem">Liinmaa Castle</p>
+<p type="listitem">Lounatkoski</p>
+<p type="listitem">Mattila Farm</p>
+<p type="listitem">Matti Musta´s Cottage</p>
+<p type="listitem">Ollila and Turula Farms</p>
+<p type="listitem">Pakasaivo and the Kirkkopahta Seida Rock</p>
+<p type="listitem">Pielpajärvi Wilderness Church</p>
+<p type="listitem">Pisamalahti Hill Fort</p>
+<p type="listitem">Päivääniemi Burial Ground</p>
+<p type="listitem">Raja-Jooseppi Homestead</p>
+<p type="listitem">Rapola Hill Fort</p>
+<p type="listitem">Raseborg Castle Ruin</p>
+<p type="listitem">Ristinpelto</p>
+<p type="listitem">Rytivaara Crown Tenant Farm</p>
+<p type="listitem">Sallivaara Reindeer Round-Up Site</p>
+<p type="listitem">Salpa-line, Änäkäinen</p>
+<p type="listitem">Seili Island</p>
+<p type="listitem">Skolt Sámi Heritage House</p>
+<p type="listitem">Svartholma Sea Fortress</p>
+<p type="listitem">Telkkämäki</p>
+<p type="listitem">The Grounds of Kaapin Jouni</p>
+<p type="listitem">The Old Suomunruoktu Hut</p>
+<p type="listitem">The Rumakuru Old Day Trip Hut</p>
+<p type="listitem">The Settlement of Wooded Hills in Kuhmo</p>
+<p type="listitem">Tiainen Crown Tenant Farm</p>
+<p type="listitem">Ukonsaari Island</p>
+<p type="listitem">Untamala Ancient Site</p>
+<p type="listitem">Vallisaari</p>
+<p type="listitem">Välimaa River Sámi Farm</p>
+<p type="listitem">Värikallio</p>
+<p type="listitem">Äkässaivo and Seitapahta</p>
+<p type="listitem">Örö Fortress Island</p>
+</list><list><p type="listitem">History of the Pielpajärvi Wilderness Church</p>
+</list><p></p>
+<p type="title">History of the Pielpajärvi Wilderness Church</p>
+<p></p>
+<p type="title">Pielpajärvi Became the Centre of Inari</p>
+<p>The areas around Lake Inarijärvi have been inhabited by the Inari Sámi people for a very long time. The Inari Sámi people's most important sources of livelihood were fishing and hunting. Reindeer husbandry was small-scale, and reindeer were chiefly used as pack and draught animals.</p>
+<p>The annual migration cycle was an integral part of the Inari Sámi people's way of life. From spring to autumn, the families moved from one place to another depending on the hunting and fishing destinations. However, for winter the families gathered in one place of dwelling, i.e., the winter village. The winter village was the centre of social life and was also visited by merchants, ministers as well as the tax authorities. In the early 1600s, the winter village of Inari was moved to Pielpajärvi, which functioned as Inari's centre for a long time.</p>
+<p type="title">The First Church in Pielpajärvi</p>
+<p>Consequently, it was only natural that the first church in Inari was built in Pielpajärvi. However, it was too small for people's needs right after it was completed. It was also difficult to get a minister to Pielpajärvi as there was no proper dwelling for him. The minister therefore only visited Inari once or twice a year.</p>
+<p>The church service was a major event at the time. The event took one or one and a half weeks in winter and two or three days in summer. During that time people stayed in church cabins that were built on the church grounds. Besides religious affairs, worldly matters were also attended to: the minister and the parish clerk educated people and taught children, the market was organised, tax was levied and court sessions were also often held.</p>
+<p type="title">The New Church</p>
+<p>The building of a new church became topical in the mid-1700s, when the old church was in disrepair and almost falling down. The construction work for the current church of Pielpajärvi began in 1752 and was completed in 1760. The new church was probably built on top of the old church, as was the custom of the time.</p>
+<p>The shape of the church is a cross with almost equal arms. It is 14 metres long from north to south and 13.6 metres long from east to west. In 1760 - 1766 a belfry was built as an extension to the western transept. The lower part of the belfry functions as the church porch. The church galleries are located in the northern and western transepts. The stony church yard is surrounded by a skilfully-made paling fence. There is no graveyard in the vicinity of the church, as the dead were buried, because of beasts of prey, on the nearby Hautuumaasaaret islands.</p>
+<p>The church was regularly maintained for a long time but after the mid-1800s, its maintenance was neglected. Consequently, the church was so badly run down that it was beyond repair. It was decided that a new church be built alongside better connections, i.e., by the mouth of River Juutuanjoki, where the current village of Inari had started to develop. The building of the new church was completed in 1888 and use of the Pielpajärvi Church was discontinued.</p>
+<p type="title">A New Upswing</p>
+<p>The Pielpajärvi Church was reopened in 1940. The church located in the current village of Inari was destroyed in the Winter War bombings earlier that same year, and the Inari prayerhouse was made into a temporary church. However, the Inari inhabitants decided to have a service at Pielpajärvi during Midsummer. This became a tradition that still continues. Nowadays the Easter service is also organised at the Pielpajärvi Church. It is also a popular wedding church.</p>
+<p>The church is a relic protected by law. The 30 - 40 church cabins and the parsonage located on the church grounds have been almost completely destroyed. The National Board of Antiquities renovated the church using traditional work methods in 1975 - 1976. Thereafter, it has been repaired and renovated at regular intervals.</p>
+<p>There is plenty of flora on the church grounds. Metsähallitus has drawn up a management plan for the area. The church grounds have been mowed by voluntary workers in late summer from the year 2000 onwards.</p>
+<p></p>
+<p>© Metsähallitus 2017</p>
+<list><p type="listitem"></p>
+</list><p>Share This Page</p>
+<p>Open Menu</p>
+</body></document>

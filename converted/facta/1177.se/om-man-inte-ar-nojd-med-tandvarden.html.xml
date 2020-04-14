@@ -1,110 +1,71 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>2005</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-tandvarden</origFileName>
-    <parallel_text xml:lang="fin" location="om-man-inte-ar-nljd-med-tandvarden.html"/>
-    <parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-tandvarden.html"/>
-    <parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-tandvarden.html"/>
-    <parallel_text xml:lang="swe" location="om-man-ar-missnojd-med-tandvarden.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">If you are not happy with dental care / Om man inte är nöjd med tandvården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title">If you are not happy with dental careOm man inte är nöjd med tandvården</p>
-    <p xml:lang="swe"></p>
-    <p type="title">Where do you turn to?</p>
-    <p type="title">There are various places to turn to</p>
-    <p>If you have complaints about dental care there are various instances you can turn to, depending on what you are unhappy about and what you want help with. In most cases complaints and misunderstandings can be resolved by contacting the dentist or dental hygienist who provided the dental care.</p>
-    <p>If you cannot come to an agreement or if your case involves medical error or injury, you may need to turn elsewhere, for example the county’s patient board, private dentists’ support committee, The Swedish National Board of Health and Welfare or the Patient Insurance LÖF.</p>
-    <p>Regardless of which instance you turn to, it can be a good idea to ask for a written response in order to avoid misunderstandings.</p>
-    <p type="title">Make a complaint to the dental care staff</p>
-    <p>Complaints should primarily be made to the person you were examined or treated by. For example, you may feel dissatisfied with the work performed, that you were treated incorrectly or that you have paid too much.</p>
-    <p type="title">If you received treatment from the Swedish Public Dental Service</p>
-    <p>If you do not want to contact the person(s) you were treated by or if you cannot come to an agreement, you can turn to the clinic manager or operations manager. You can also contact the head of the Swedish Public Dental Service in your region/county or someone else at the local authorities who is responsible for the Swedish Public Dental Service.</p>
-    <p>Each county council or region also has what are known as patient boards, sometimes also called support committees. These patient boards receive complaints and opinions on staff conduct, diagnosis, medication, treatment, fees and secrecy issues. The board is staffed by politicians, while the complaints are dealt with by public servants. The politicians and public servants on the patient boards are bound to observe professional secrecy.</p>
-    <p>The patient board provides advice and support for people who have complaints about the Swedish Public Dental Service or about treatment that was entirely or partly financed by the county council or the region.</p>
-    <p>The patient board will also inform you where to turn to in various kinds of matters in order to investigate what has happened.</p>
-    <p>It does not cost anything to contact the patient board. There is no time limit for how old a case is allowed to be.</p>
-    <p type="title">If you received treatment from a private clinic</p>
-    <p>If you do not want to contact the person(s) you were treated by or if you cannot come to an agreement, you can turn to the clinic manager or operations manager.</p>
-    <p>If you been to a private dentist who is member of the Privattandläkarna organisation you can also turn to one their support committees. You can also turn to a support committee if you have been to a dental nurse or dental hygienist who works for a dentist who is affiliated with Privattandläkarna.</p>
-    <p>Privattandläkarna’s support committees can be found in several locations around the country and they will provide suggestions on how to come to an agreement with your dentist. If the private dentist does not follow their recommendation then he or she is not allowed to continue to be a member of Privattandläkarna. Normally the support committee does not investigate cases that are more than two years old.</p>
-    <p>To get in touch with the right support committee you can phone the Private Dental Care Information Service. If you are not satisfied with the support committee’s decision you can appeal it to Privattandläkarna’s central support committee.</p>
-    <p>The Privattandläkarna website contains information on where to turn if you want to make a complaint. You can also search their database to see if your dentist is a member of Privattandläkarna.</p>
-    <p>If the dentist is not affiliated with Privattandläkarna you will not be able to turn to the support committees. However, you can take the case through the legal system, but then you should be aware of the risk that you will have to pay for your own and your opponent’s legal fees if you lose.</p>
-    <p>You can also turn to the county council’s patient board if you were treated by a private dentist who is entirely or partly financed by the county council. For example, this may be a clinic that offers dental care for children and young people.</p>
-    <p>You also turn to the patient board for private dental care where the dentist or dental hygienist has an agreement with the county council for dental care as part of the treatment of a disease during a limited period.</p>
-    <p type="title">If you feel that a mistake has been made</p>
-    <p>You can report an event or a person you have been treated by to The Swedish National Board of Health and Welfare. It does not matter whether the person works for the Swedish Public Dental Service or is a private dentist.</p>
-    <p>You must make your complaint within two years of the treatment and it must be in writing. Primarily it is you as the patient who can make the complaint, but relatives or friends can also make a complaint if you cannot do so yourself.</p>
-    <p>Complaints made to the The Swedish National Board of Health and Welfare and their decisions are public documents, so anyone that wants to can read them. However, patient journals and similar documents that are part of the investigation are classified.</p>
-    <p>The Swedish National Board of Health and Welfare can criticise dental care staff and can also report people to the Health and Medical Care Liability Board, HSAN. This can take place if necessary in order to stop routines and work methods that may be hazardous.</p>
-    <p>HSAN can examine the case and decide to:</p>
-    <list>
-      <p type="listitem">revoke licences of dentists or dental hygienists who have mismanaged their work</p>
-      <p type="listitem">issue a probation period, which means that the dentist or dental hygienist must be monitored for up to three years, and a specific plan must be established during that time</p>
-      <p type="listitem">limit or revoke a dentist’s right to prescribe medicines.</p>
-    </list>
-    <p>The Swedish National Board of Health and Welfare and HSAN do not assess whether you can receive compensation. If you feel that you have been injured by treatment you must apply for financial compensation from the Patient Insurance LÖF.</p>
-    <p>If you have a complaint of a more general nature, you can also report the matter to The Swedish National Board of Health and Welfare. For example, you may want to criticise a clinic’s organisation or general shortcomings in patient safety. Complaints must be investigated impartially and you do not have to know yourself who has done something wrong or what has not worked well.</p>
-    <p>You should also turn to The Swedish National Board of Health and Welfare if you want something deleted from your journal.</p>
-    <p>The Swedish Public Dental Service or the private clinic is obligated to report itself to The Swedish National Board of Health and Welfare if there is an injury or someone risks serious injury in dental care. This is done in accordance with Lex Maria.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">Possibilities of receiving compensation</p>
-    <p type="title">You can receive compensation if you are injured</p>
-    <p>If you are injured when you have received dental care you may sometimes be entitled to financial compensation from patient insurance, which all dental clinics must have. It does not matter whether the injury occurred within the Swedish Public Dental Service or at a private clinic. You can receive compensation for injuries that were incurred in conjunction with an examination or treatment. This also applies if the injury was caused by a mistake, by equipment breaking down or if you have received an incorrect diagnosis that has resulted in an injury.</p>
-    <p>A few examples of cases where you can receive compensation from patient insurance:</p>
-    <list>
-      <p type="listitem">The dentist has not diagnosed and treated periodonditis even though your entire dentition has been examined regularly, which has resulted in you being affected by periodonditis.</p>
-      <p type="listitem">The wrong tooth was repaired or extracted.</p>
-      <p type="listitem">You were injured because the equipment at the clinic broke.</p>
-    </list>
-    <p>Compensation can be granted for physical and mental suffering, extra dental costs and travel costs resulting from the injury, and lost earnings.</p>
-    <p>However, dental treatments always entail a risk of unavoidable complications. Examples of unavoidable complications include that the treatment does not lead to the desired result or that pulling out or repairing a tooth can be quite painful afterwards. You cannot receive compensation for this.</p>
-    <p>Examples of cases where you cannot receive compensation:</p>
-    <list>
-      <p type="listitem">When you do not think that the results looks good, for example if crowns, bridges or fillings are the wrong colour or shape.</p>
-      <p type="listitem">You have received a dental prosthesis that is not stable when you eat or talk.</p>
-      <p type="listitem">When a filling breaks and you have to go to the dentist several times to have it repaired again.</p>
-    </list>
-    <p>If you do not receive compensation for injury or suffering it is usually because it was unavoidable.</p>
-    <p>You can make a complaint to the LÖF Patient Insurance yourself. The complaint can also be made by a relative or friend if you cannot do so yourself.</p>
-    <p>The report must be filed within three years after you became aware that you can request financial compensation for the injury. It must also be possible for the insurance company to assess if there is an injury. The insurance company does this using journals and X-rays from the dentist who has examined the injury.</p>
-    <p type="title">Injury that has occurred in the Swedish Public Dental Service</p>
-    <p>If you want to report an injury that occurred when you visited the Swedish Public Dental Service, you can do so to the patient insurance at the county council insurance company, Patient Insurance LÖF. Their website has forms that you can fill out when you make a complaint, and also offers more information about the rules for compensation. You can also receive information and help from the patient board when you make a complaint.</p>
-    <p>If you are not satisfied with the Patient Insurance’s decision you can appeal it to the Patient Claims Panel. More information about the Patient Claims Panel is available from Patient Insurance LÖF website.</p>
-    <p type="title">Injury that has occurred at a private clinic</p>
-    <p>If the dentist is a member of the Privattandläkarna organisation you can turn to them to make your complaint. This also applies if you received the injury at a dental hygienist or dental nurse who works for a dentist who is affiliated with Privattandläkarna. The Privattandläkarna website contains more information about who to turn to.</p>
-    <p>If the dentist is not a member of Privattandläkarna you must find out which insurance company to send the complaint to. The easiest way is to ask your dentist, but you can also turn to The Swedish Patient Insurance Association, PFF, for information on where to submit your complaint. This also applies if you have been to a private dental hygienist.</p>
-    <p type="title">Injury from medicines in conjunction with dental care</p>
-    <p>If you have developed an adverse effect or injury from a medicine in conjunction with dental care, you may be entitled to compensation from The Pharmaceutical Insurance. The Pharmaceutical Insurance is an insurance that all manufacturers and importers of medicines in Sweden have. You must report the injury to The Pharmaceutical Insurance within three years from when you became aware that the injury was probably caused by a medicine.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">Dissatisfied with dental care abroad</p>
-    <p type="title">Claim cannot be made in Sweden</p>
-    <p>If you have been mistreated, received a treatment injury or are dissatisfied with dental care you have received abroad, you cannot make a complaint about it in Sweden. Instead the complaint must be made in the country where you were examined and treated.</p>
-    <p>Insurance coverage is often inferior in other countries, and as a rule there is less chance of receiving help. However, the Nordic countries have insurance cover that is similar to that in Sweden.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1996</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-tandvarden</origFileName><parallel_text xml:lang="fin" location="om-man-inte-ar-nljd-med-tandvarden.html"/><parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-tandvarden.html"/><parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-tandvarden.html"/><parallel_text xml:lang="swe" location="om-man-ar-missnojd-med-tandvarden.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">If you are not happy with dental care / Om man inte är nöjd med tandvården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">If you are not happy with dental careOm man inte är nöjd med tandvården</p>
+<p xml:lang="swe"></p>
+<p type="title">Where do you turn to?</p>
+<p type="title">There are various places to turn to</p>
+<p>If you have complaints about dental care there are various instances you can turn to, depending on what you are unhappy about and what you want help with. In most cases complaints and misunderstandings can be resolved by contacting the dentist or dental hygienist who provided the dental care.</p>
+<p>If you cannot come to an agreement or if your case involves medical error or injury, you may need to turn elsewhere, for example the county’s patient board, private dentists’ support committee, The Swedish National Board of Health and Welfare or the Patient Insurance LÖF.</p>
+<p>Regardless of which instance you turn to, it can be a good idea to ask for a written response in order to avoid misunderstandings.</p>
+<p type="title">Make a complaint to the dental care staff</p>
+<p>Complaints should primarily be made to the person you were examined or treated by. For example, you may feel dissatisfied with the work performed, that you were treated incorrectly or that you have paid too much.</p>
+<p type="title">If you received treatment from the Swedish Public Dental Service</p>
+<p>If you do not want to contact the person(s) you were treated by or if you cannot come to an agreement, you can turn to the clinic manager or operations manager. You can also contact the head of the Swedish Public Dental Service in your region/county or someone else at the local authorities who is responsible for the Swedish Public Dental Service.</p>
+<p>Each county council or region also has what are known as patient boards, sometimes also called support committees. These patient boards receive complaints and opinions on staff conduct, diagnosis, medication, treatment, fees and secrecy issues. The board is staffed by politicians, while the complaints are dealt with by public servants. The politicians and public servants on the patient boards are bound to observe professional secrecy.</p>
+<p>The patient board provides advice and support for people who have complaints about the Swedish Public Dental Service or about treatment that was entirely or partly financed by the county council or the region.</p>
+<p>The patient board will also inform you where to turn to in various kinds of matters in order to investigate what has happened.</p>
+<p>It does not cost anything to contact the patient board. There is no time limit for how old a case is allowed to be.</p>
+<p type="title">If you received treatment from a private clinic</p>
+<p>If you do not want to contact the person(s) you were treated by or if you cannot come to an agreement, you can turn to the clinic manager or operations manager.</p>
+<p>If you been to a private dentist who is member of the Privattandläkarna organisation you can also turn to one their support committees. You can also turn to a support committee if you have been to a dental nurse or dental hygienist who works for a dentist who is affiliated with Privattandläkarna.</p>
+<p>Privattandläkarna’s support committees can be found in several locations around the country and they will provide suggestions on how to come to an agreement with your dentist. If the private dentist does not follow their recommendation then he or she is not allowed to continue to be a member of Privattandläkarna. Normally the support committee does not investigate cases that are more than two years old.</p>
+<p>To get in touch with the right support committee you can phone the Private Dental Care Information Service. If you are not satisfied with the support committee’s decision you can appeal it to Privattandläkarna’s central support committee.</p>
+<p>The Privattandläkarna website contains information on where to turn if you want to make a complaint. You can also search their database to see if your dentist is a member of Privattandläkarna.</p>
+<p>If the dentist is not affiliated with Privattandläkarna you will not be able to turn to the support committees. However, you can take the case through the legal system, but then you should be aware of the risk that you will have to pay for your own and your opponent’s legal fees if you lose.</p>
+<p>You can also turn to the county council’s patient board if you were treated by a private dentist who is entirely or partly financed by the county council. For example, this may be a clinic that offers dental care for children and young people.</p>
+<p>You also turn to the patient board for private dental care where the dentist or dental hygienist has an agreement with the county council for dental care as part of the treatment of a disease during a limited period.</p>
+<p type="title">If you feel that a mistake has been made</p>
+<p>You can report an event or a person you have been treated by to The Swedish National Board of Health and Welfare. It does not matter whether the person works for the Swedish Public Dental Service or is a private dentist.</p>
+<p>You must make your complaint within two years of the treatment and it must be in writing. Primarily it is you as the patient who can make the complaint, but relatives or friends can also make a complaint if you cannot do so yourself.</p>
+<p>Complaints made to the The Swedish National Board of Health and Welfare and their decisions are public documents, so anyone that wants to can read them. However, patient journals and similar documents that are part of the investigation are classified.</p>
+<p>The Swedish National Board of Health and Welfare can criticise dental care staff and can also report people to the Health and Medical Care Liability Board, HSAN. This can take place if necessary in order to stop routines and work methods that may be hazardous.</p>
+<p>HSAN can examine the case and decide to:</p>
+<list><p type="listitem">revoke licences of dentists or dental hygienists who have mismanaged their work</p>
+<p type="listitem">issue a probation period, which means that the dentist or dental hygienist must be monitored for up to three years, and a specific plan must be established during that time</p>
+<p type="listitem">limit or revoke a dentist’s right to prescribe medicines.</p>
+</list><p>The Swedish National Board of Health and Welfare and HSAN do not assess whether you can receive compensation. If you feel that you have been injured by treatment you must apply for financial compensation from the Patient Insurance LÖF.</p>
+<p>If you have a complaint of a more general nature, you can also report the matter to The Swedish National Board of Health and Welfare. For example, you may want to criticise a clinic’s organisation or general shortcomings in patient safety. Complaints must be investigated impartially and you do not have to know yourself who has done something wrong or what has not worked well.</p>
+<p>You should also turn to The Swedish National Board of Health and Welfare if you want something deleted from your journal.</p>
+<p>The Swedish Public Dental Service or the private clinic is obligated to report itself to The Swedish National Board of Health and Welfare if there is an injury or someone risks serious injury in dental care. This is done in accordance with Lex Maria.</p>
+<p xml:lang="swe"></p>
+<p type="title">Possibilities of receiving compensation</p>
+<p type="title">You can receive compensation if you are injured</p>
+<p>If you are injured when you have received dental care you may sometimes be entitled to financial compensation from patient insurance, which all dental clinics must have. It does not matter whether the injury occurred within the Swedish Public Dental Service or at a private clinic. You can receive compensation for injuries that were incurred in conjunction with an examination or treatment. This also applies if the injury was caused by a mistake, by equipment breaking down or if you have received an incorrect diagnosis that has resulted in an injury.</p>
+<p>A few examples of cases where you can receive compensation from patient insurance:</p>
+<list><p type="listitem">The dentist has not diagnosed and treated periodonditis even though your entire dentition has been examined regularly, which has resulted in you being affected by periodonditis.</p>
+<p type="listitem">The wrong tooth was repaired or extracted.</p>
+<p type="listitem">You were injured because the equipment at the clinic broke.</p>
+</list><p>Compensation can be granted for physical and mental suffering, extra dental costs and travel costs resulting from the injury, and lost earnings.</p>
+<p>However, dental treatments always entail a risk of unavoidable complications. Examples of unavoidable complications include that the treatment does not lead to the desired result or that pulling out or repairing a tooth can be quite painful afterwards. You cannot receive compensation for this.</p>
+<p>Examples of cases where you cannot receive compensation:</p>
+<list><p type="listitem">When you do not think that the results looks good, for example if crowns, bridges or fillings are the wrong colour or shape.</p>
+<p type="listitem">You have received a dental prosthesis that is not stable when you eat or talk.</p>
+<p type="listitem">When a filling breaks and you have to go to the dentist several times to have it repaired again.</p>
+</list><p>If you do not receive compensation for injury or suffering it is usually because it was unavoidable.</p>
+<p>You can make a complaint to the LÖF Patient Insurance yourself. The complaint can also be made by a relative or friend if you cannot do so yourself.</p>
+<p>The report must be filed within three years after you became aware that you can request financial compensation for the injury. It must also be possible for the insurance company to assess if there is an injury. The insurance company does this using journals and X-rays from the dentist who has examined the injury.</p>
+<p type="title">Injury that has occurred in the Swedish Public Dental Service</p>
+<p>If you want to report an injury that occurred when you visited the Swedish Public Dental Service, you can do so to the patient insurance at the county council insurance company, Patient Insurance LÖF. Their website has forms that you can fill out when you make a complaint, and also offers more information about the rules for compensation. You can also receive information and help from the patient board when you make a complaint.</p>
+<p>If you are not satisfied with the Patient Insurance’s decision you can appeal it to the Patient Claims Panel. More information about the Patient Claims Panel is available from Patient Insurance LÖF website.</p>
+<p type="title">Injury that has occurred at a private clinic</p>
+<p>If the dentist is a member of the Privattandläkarna organisation you can turn to them to make your complaint. This also applies if you received the injury at a dental hygienist or dental nurse who works for a dentist who is affiliated with Privattandläkarna. The Privattandläkarna website contains more information about who to turn to.</p>
+<p>If the dentist is not a member of Privattandläkarna you must find out which insurance company to send the complaint to. The easiest way is to ask your dentist, but you can also turn to The Swedish Patient Insurance Association, PFF, for information on where to submit your complaint. This also applies if you have been to a private dental hygienist.</p>
+<p type="title">Injury from medicines in conjunction with dental care</p>
+<p>If you have developed an adverse effect or injury from a medicine in conjunction with dental care, you may be entitled to compensation from The Pharmaceutical Insurance. The Pharmaceutical Insurance is an insurance that all manufacturers and importers of medicines in Sweden have. You must report the injury to The Pharmaceutical Insurance within three years from when you became aware that the injury was probably caused by a medicine.</p>
+<p xml:lang="swe"></p>
+<p type="title">Dissatisfied with dental care abroad</p>
+<p type="title">Claim cannot be made in Sweden</p>
+<p>If you have been mistreated, received a treatment injury or are dissatisfied with dental care you have received abroad, you cannot make a complaint about it in Sweden. Instead the complaint must be made in the country where you were examined and treated.</p>
+<p>Insurance coverage is often inferior in other countries, and as a rule there is less chance of receiving help. However, the Nordic countries have insurance cover that is similar to that in Sweden.</p>
+</body></document>

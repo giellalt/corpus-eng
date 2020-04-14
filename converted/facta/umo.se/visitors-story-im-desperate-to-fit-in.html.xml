@@ -1,35 +1,9 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>206</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/UMO-in-English/Visitors-story-Im-desperate-to-fit-in</origFileName>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Visitor's story: I’m desperate to fit in!</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title">Visitor's story: I’m desperate to fit in!</p>
-    <p>I’m desperate to fit in.</p>
-    <p>I dress like everybody else and I copy how they act. Naturally I only say things the way other people say them, when those people aren’t around. Otherwise, I risk being seen as a wannabee.</p>
-    <p>Putting make- up on in the morning is a duty! I listen to music that I don’t like just so I can talk about it with the others in the dressing room. I don’t eat much, to keep from getting fat. After school I go to town with the others and spend my money ion cafés and on clothes instead of saving up for the computer that I really want.</p>
-    <p>I hang out with the smokers even though the smoke makes me sick. Nobody can notice, it’s dorky. I pretend that I just don’t want to waste money on cigarettes.</p>
-    <p>I feel locked in! All the demands! All the rumours! All the bullshit! I feel sick when I look at myself in the mirror!</p>
-    <p>Why do I do this? Why do I hang out with these people? Why don’t I just leave? Why don’t I dare to?</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>201</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/UMO-in-English/Visitors-story-Im-desperate-to-fit-in</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Visitor's story: I’m desperate to fit in!</p>
+<p type="title">Visitor's story: I’m desperate to fit in!</p>
+<p>I’m desperate to fit in.</p>
+<p>I dress like everybody else and I copy how they act. Naturally I only say things the way other people say them, when those people aren’t around. Otherwise, I risk being seen as a wannabee.</p>
+<p>Putting make- up on in the morning is a duty! I listen to music that I don’t like just so I can talk about it with the others in the dressing room. I don’t eat much, to keep from getting fat. After school I go to town with the others and spend my money ion cafés and on clothes instead of saving up for the computer that I really want.</p>
+<p>I hang out with the smokers even though the smoke makes me sick. Nobody can notice, it’s dorky. I pretend that I just don’t want to waste money on cigarettes.</p>
+<p>I feel locked in! All the demands! All the rumours! All the bullshit! I feel sick when I look at myself in the mirror!</p>
+<p>Why do I do this? Why do I hang out with these people? Why don’t I just leave? Why don’t I dare to?</p>
+</body></document>

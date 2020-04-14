@@ -1,62 +1,31 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>245</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/naringsliv-och-foreningar/stiftelser/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-stiftelser.html"/>
-    <parallel_text xml:lang="swe" location="naringsliv-och-foreningar-stiftelser.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Foundations and trusts - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Foundations and trusts</p>
-    <p>The County Administrative Board is a supervisory authority for the foundations and trusts in the county and has the responsibility for registering them.</p>
-    <p type="title">What is a foundation or trust?</p>
-    <p>A foundation or trust is an independent capital sum which is administered permanently to satisfy a specific purpose. The foundation or trust is formed by means of a deed of gift, a will, the minutes of a board meeting or another document. A board or a trustee has the responsibility of managing the finances.</p>
-    <p type="title">The law governs four different types of foundation or trust:</p>
-    <list>
-      <p type="listitem">normal foundations and trusts</p>
-      <p type="listitem">fund-raising foundations and trusts</p>
-      <p type="listitem">collective agreement foundations and trusts</p>
-      <p type="listitem">pension trusts and personnel funds</p>
-    </list>
-    <p>In accordance with Chapter 10 of the Foundation Act (SFS 1994:1220), all foundations and trusts must be registered, except foundations and trusts whose assets according to the deed of foundation may be used only for specified natural persons. Pension trusts and personnel funds shall, in accordance with the Safeguarding of Pension Commitments etc. Act (SFS 1967:531) always be reported for supervision to the County Administrative Board, which maintains a register of these foundations and trusts.</p>
-    <p type="title">Contact us</p>
-    <p>Foundations and trusts</p>
-    <p xml:lang="swe">stiftelser punkt dalarna snabela lansstyrelsen punkt se¤stiftelser punkt dalarna snabela lansstyrelsen punkt se</p>
-    <p>Send message</p>
-    <p>Hide form</p>
-    <p>Your email address (optional)</p>
-    <p>Send a copy of the message to the email address specified</p>
-    <p>Message</p>
-    <p>Enter the code below to send your message</p>
-    <p>Generate new image</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>245</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/naringsliv-och-foreningar/stiftelser/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="naringsliv-och-foreningar-stiftelser.html"/><parallel_text xml:lang="swe" location="naringsliv-och-foreningar-stiftelser.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Foundations and trusts - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Foundations and trusts</p>
+<p>The County Administrative Board is a supervisory authority for the foundations and trusts in the county and has the responsibility for registering them.</p>
+<p type="title">What is a foundation or trust?</p>
+<p>A foundation or trust is an independent capital sum which is administered permanently to satisfy a specific purpose. The foundation or trust is formed by means of a deed of gift, a will, the minutes of a board meeting or another document. A board or a trustee has the responsibility of managing the finances.</p>
+<p type="title">The law governs four different types of foundation or trust:</p>
+<list><p type="listitem">normal foundations and trusts</p>
+<p type="listitem">fund-raising foundations and trusts</p>
+<p type="listitem">collective agreement foundations and trusts</p>
+<p type="listitem">pension trusts and personnel funds</p>
+</list><p>In accordance with Chapter 10 of the Foundation Act (SFS 1994:1220), all foundations and trusts must be registered, except foundations and trusts whose assets according to the deed of foundation may be used only for specified natural persons. Pension trusts and personnel funds shall, in accordance with the Safeguarding of Pension Commitments etc. Act (SFS 1967:531) always be reported for supervision to the County Administrative Board, which maintains a register of these foundations and trusts.</p>
+<p type="title">Contact us</p>
+<p>Foundations and trusts</p>
+<p xml:lang="swe">stiftelser punkt dalarna snabela lansstyrelsen punkt se¤stiftelser punkt dalarna snabela lansstyrelsen punkt se</p>
+<p>Send message</p>
+<p>Hide form</p>
+<p>Your email address (optional)</p>
+<p>Send a copy of the message to the email address specified</p>
+<p>Message</p>
+<p>Enter the code below to send your message</p>
+<p>Generate new image</p>
+</body></document>

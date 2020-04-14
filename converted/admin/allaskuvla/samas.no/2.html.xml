@@ -1,60 +1,31 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Dep. of Social Sciences | Sámi University of Applied Sciences</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>251</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://samas.no/en/taxonomy/term/2</origFileName>
-    <parallel_text xml:lang="nob" location="2.html"/>
-    <parallel_text xml:lang="sme" location="2.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Dep. of Social Sciences</p>
-    <p>The Social Science Faculty is made up of several subject areas such as Law, History, Journalism, Reindeer Husbandry, Indigenous Knowledge, Traditional Knowledge, etc. These subjects are important in order to develop the Sámi Society. The indigenous perspective is pivotal in our subject areas as well as in our research. The Social Science Faculty undertakes the following projects: Sámi Pathfinders, Árbediehtu (Traditional Knowledge), the Sámi Statistical analysis group and Sámi election research.</p>
-    <p>The Social Science Faculty offers the following study programs:</p>
-    <list>
-      <p type="listitem">Bachelor and master programs in journalism</p>
-      <p type="listitem" xml:lang="nno">Bachelor program in reindeer husbandry</p>
-      <p type="listitem">Indigenous knowledge and philosophy</p>
-      <p type="listitem">Sámi history 1 and 2</p>
-      <p type="listitem">Traditional knowledge program</p>
-      <p type="listitem">Sámi culture and society (in Norwegian)</p>
-    </list>
-    <p>Why you should attend these programs?</p>
-    <list>
-      <p type="listitem">The Sámi society requires Sámi lingual journalists in all over the Sámi territory, both in radio and TV services.</p>
-      <p type="listitem">The indigenous society requires journalists at a master level who are trained both in indigenous and majority society perspectives.</p>
-      <p type="listitem">The reindeer husbandry, the administrative system and the society as a whole, require people with high level competence in reindeer husbandry and professional training in law, economics, business competence, ecology, management, etc.</p>
-      <p type="listitem">If you are studying at a bachelor level, then the Social Science Faculty offers numerous optional subjects for the bachelor program.</p>
-    </list>
-    <p type="title" xml:lang="nno">BOA Bachelor in Reindeer Husbandry Studies</p>
-    <p xml:lang="isl">BA - Program</p>
-    <p xml:lang="sme">Ollesáiggis</p>
-    <p xml:lang="sme">180 oč</p>
-    <p type="title">JUO Master in Sámi Journalism from an Indigenous Perspective</p>
-    <p xml:lang="isl">MA - Program</p>
-    <p>Full-time study</p>
-    <p>-90/120 ECTS</p>
-    <p type="title">Ansatte Dep. of Social Sciences</p>
-    <p type="title" xml:lang="deu">Pages</p>
-    <list>
-      <p type="listitem" xml:lang="koi">1</p>
-      <p type="listitem" xml:lang="koi">2</p>
-      <p type="listitem" xml:lang="koi">3</p>
-      <p type="listitem" xml:lang="ron">neste ›</p>
-      <p type="listitem" xml:lang="nob">siste »</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Dep. of Social Sciences | Sámi University of Applied Sciences</title><genre code="admin"/><author><unknown/></author><wordcount>251</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/en/taxonomy/term/2</origFileName><parallel_text xml:lang="nob" location="2.html"/><parallel_text xml:lang="sme" location="2.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Dep. of Social Sciences</p>
+<p>The Social Science Faculty is made up of several subject areas such as Law, History, Journalism, Reindeer Husbandry, Indigenous Knowledge, Traditional Knowledge, etc. These subjects are important in order to develop the Sámi Society. The indigenous perspective is pivotal in our subject areas as well as in our research. The Social Science Faculty undertakes the following projects: Sámi Pathfinders, Árbediehtu (Traditional Knowledge), the Sámi Statistical analysis group and Sámi election research.</p>
+<p>The Social Science Faculty offers the following study programs:</p>
+<list><p type="listitem">Bachelor and master programs in journalism</p>
+<p type="listitem" xml:lang="nno">Bachelor program in reindeer husbandry</p>
+<p type="listitem">Indigenous knowledge and philosophy</p>
+<p type="listitem">Sámi history 1 and 2</p>
+<p type="listitem">Traditional knowledge program</p>
+<p type="listitem">Sámi culture and society (in Norwegian)</p>
+</list><p>Why you should attend these programs?</p>
+<list><p type="listitem">The Sámi society requires Sámi lingual journalists in all over the Sámi territory, both in radio and TV services.</p>
+<p type="listitem">The indigenous society requires journalists at a master level who are trained both in indigenous and majority society perspectives.</p>
+<p type="listitem">The reindeer husbandry, the administrative system and the society as a whole, require people with high level competence in reindeer husbandry and professional training in law, economics, business competence, ecology, management, etc.</p>
+<p type="listitem">If you are studying at a bachelor level, then the Social Science Faculty offers numerous optional subjects for the bachelor program.</p>
+</list><p type="title" xml:lang="nno">BOA Bachelor in Reindeer Husbandry Studies</p>
+<p xml:lang="isl">BA - Program</p>
+<p xml:lang="sme">Ollesáiggis</p>
+<p xml:lang="sme">180 oč</p>
+<p type="title">JUO Master in Sámi Journalism from an Indigenous Perspective</p>
+<p xml:lang="isl">MA - Program</p>
+<p>Full-time study</p>
+<p>-90/120 ECTS</p>
+<p type="title">Ansatte Dep. of Social Sciences</p>
+<p type="title" xml:lang="deu">Pages</p>
+<list><p type="listitem" xml:lang="vep">1</p>
+<p type="listitem" xml:lang="vep">2</p>
+<p type="listitem" xml:lang="vep">3</p>
+<p type="listitem" xml:lang="ron">neste ›</p>
+<p type="listitem" xml:lang="nob">siste »</p>
+</list></body></document>

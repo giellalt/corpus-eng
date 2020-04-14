@@ -1,68 +1,44 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title> Saami Council - The Saami conference 2013</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>561</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.saamicouncil.net/en/organization/saami-conference/the-saami-conference-2013/</origFileName>
-    <parallel_text xml:lang="nob" location="index_1.html"/>
-    <parallel_text xml:lang="sme" location="index_3.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <list>
-      <p type="listitem" xml:lang="kal">   <list><p type="listitem" xml:lang="kal">Saami</p><p type="listitem">English</p><p type="listitem" xml:lang="kal">Finnish</p><p type="listitem">Norwegian</p><p type="listitem">Russian</p></list></p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nob">Home</p>
-      <p type="listitem">Organization</p>
-      <p type="listitem">Saami Conference</p>
-      <p type="listitem">The Saami conference 2013</p>
-    </list>
-    <p>Organization</p>
-    <p>Saami Conference</p>
-    <p>The Saami conference 2013</p>
-    <p>The Saami conference 2013</p>
-    <p>Saami Council's Honorary Award</p>
-    <p>Saami Council</p>
-    <p>Executive board</p>
-    <p>Member organizations</p>
-    <p>Units</p>
-    <p type="title">The 20th Saami Conference</p>
-    <p>The 20th Saami Conference was arranged in Murmansk, Russia in May 2nd-4th, 2013. The theme of the conference - <em type="italic">Sápmi 2053 – Saami Culture and increasing industrial development - </em>raised very central issues of the Saami society. The conference gave the Saami in four different countries a unique possibility to meet and discuss issues common for the Saami as a people. The conference adopted the Kuellnegk Neark declaration and seven resolutions proposed by the delegations from the member organizations. The declaration and resolutions form the base of the policy of the Saami Council for the next four years. This is the mandate given to the Saami Council’s activities on the international arena: in the human rights mechanisms of the UN, in the Arctic Council and in the cultural work of the Saami Council. The Saami Conference is also an arena for the national Saami organizations to meet for discussions, exchange of experience and to develop policy. The impressions and results is brought back to the organizations and inspires their daily activity. </p>
-    <p>The main theme of the conference, <em type="italic">Sápmi 2053 – Saami Culture and increasing industrial development </em>, was discussed during a one-day seminar. Invited speakers presented issues regarding how the Saami can maintain their identity and culture with a steadily increasing focus on the northern region, industrial development and extraction of non-renewable resources on traditional Saami areas. Challenges in regards to the definition of who is a Saami person and who has the right to vote and who is eligible for the Saami Parliament elections where parliaments are established, was also discussed. </p>
-    <p>The Saami parliament has two member organizations on the Russian side. Murmansk and the regional Saami association (OOSMO) were hosts for the conference and organized the cultural programme during the conference. Members of the Saami youth organization Sam Nurasj assisted with the practical arrangements of the conference itself.</p>
-    <p type="title">Decisions of the Saami Conference</p>
-    <p>The Saami Conference appointed an elections committee and two working groups, one for resolutions and one for the declaration. The resolutions working group handled the resolutions that were presented during the conference. The heads of the units of the Saami Council prepared a draft Kuellnegk Neark declaration, which was presented to the conference. The declaration working group handled all amendments and additions that were proposed during the conference. The elections committee gathered names of candidates for the Saami Council for the next period from Sápmi’s four countries’ sections of representatives. The list of candidates was presented to the Saami Conference and a new Saami Council, consisting of 15 members and their alternate members, was elected for the period 2013-2017.</p>
-    <p>Here you can see who are members of the Saami Council &gt;&gt;</p>
-    <p>The Saami Conference adopted seven resolutions on the following issues:</p>
-    <list>
-      <p type="listitem">Psychosocial health</p>
-      <p type="listitem">Discrimination against Saami</p>
-      <p type="listitem">Barents cooperation</p>
-      <p type="listitem">Term of office of the Saami Parliaments</p>
-      <p type="listitem">Saami youth and traditional livelihoods</p>
-      <p type="listitem">Predator issues in reindeer herding lands</p>
-      <p type="listitem">Intergovernmental agreements (regarding border rivers).</p>
-    </list>
-    <p>The declaration covered the following issues: industrial developments in Sápmi, Saami identity, climate change and the environment and the traditional livelihoods of the Saami.</p>
-    <p>Here you will find the Saami Conference documents &gt;&gt;</p>
-    <p>To top</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title> Saami Council - The Saami conference 2013</title><genre code="admin"/><author><unknown/></author><wordcount>561</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.saamicouncil.net/en/organization/saami-conference/the-saami-conference-2013/</origFileName><parallel_text xml:lang="nob" location="index_1.html"/><parallel_text xml:lang="sme" location="index_3.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<list><p type="listitem" xml:lang="kal">   <list><p type="listitem" xml:lang="kal">Saami</p>
+<p type="listitem">English</p>
+<p type="listitem" xml:lang="kal">Finnish</p>
+<p type="listitem">Norwegian</p>
+<p type="listitem">Russian</p>
+</list></p>
+</list><list><p type="listitem" xml:lang="nob">Home</p>
+<p type="listitem">Organization</p>
+<p type="listitem">Saami Conference</p>
+<p type="listitem">The Saami conference 2013</p>
+</list><p>Organization</p>
+<p>Saami Conference</p>
+<p>The Saami conference 2013</p>
+<p>The Saami conference 2013</p>
+<p>Saami Council's Honorary Award</p>
+<p>Saami Council</p>
+<p>Executive board</p>
+<p>Member organizations</p>
+<p>Units</p>
+<p type="title">The 20th Saami Conference</p>
+<p>The 20th Saami Conference was arranged in Murmansk, Russia in May 2nd-4th, 2013. The theme of the conference - <em type="italic">Sápmi 2053 – Saami Culture and increasing industrial development - </em>raised very central issues of the Saami society. The conference gave the Saami in four different countries a unique possibility to meet and discuss issues common for the Saami as a people. The conference adopted the Kuellnegk Neark declaration and seven resolutions proposed by the delegations from the member organizations. The declaration and resolutions form the base of the policy of the Saami Council for the next four years. This is the mandate given to the Saami Council’s activities on the international arena: in the human rights mechanisms of the UN, in the Arctic Council and in the cultural work of the Saami Council. The Saami Conference is also an arena for the national Saami organizations to meet for discussions, exchange of experience and to develop policy. The impressions and results is brought back to the organizations and inspires their daily activity. </p>
+<p>The main theme of the conference, <em type="italic">Sápmi 2053 – Saami Culture and increasing industrial development </em>, was discussed during a one-day seminar. Invited speakers presented issues regarding how the Saami can maintain their identity and culture with a steadily increasing focus on the northern region, industrial development and extraction of non-renewable resources on traditional Saami areas. Challenges in regards to the definition of who is a Saami person and who has the right to vote and who is eligible for the Saami Parliament elections where parliaments are established, was also discussed. </p>
+<p>The Saami parliament has two member organizations on the Russian side. Murmansk and the regional Saami association (OOSMO) were hosts for the conference and organized the cultural programme during the conference. Members of the Saami youth organization Sam Nurasj assisted with the practical arrangements of the conference itself.</p>
+<p type="title">Decisions of the Saami Conference</p>
+<p>The Saami Conference appointed an elections committee and two working groups, one for resolutions and one for the declaration. The resolutions working group handled the resolutions that were presented during the conference. The heads of the units of the Saami Council prepared a draft Kuellnegk Neark declaration, which was presented to the conference. The declaration working group handled all amendments and additions that were proposed during the conference. The elections committee gathered names of candidates for the Saami Council for the next period from Sápmi’s four countries’ sections of representatives. The list of candidates was presented to the Saami Conference and a new Saami Council, consisting of 15 members and their alternate members, was elected for the period 2013-2017.</p>
+<p>Here you can see who are members of the Saami Council &gt;&gt;</p>
+<p>The Saami Conference adopted seven resolutions on the following issues:</p>
+<list><p type="listitem">Psychosocial health</p>
+<p type="listitem">Discrimination against Saami</p>
+<p type="listitem">Barents cooperation</p>
+<p type="listitem">Term of office of the Saami Parliaments</p>
+<p type="listitem">Saami youth and traditional livelihoods</p>
+<p type="listitem">Predator issues in reindeer herding lands</p>
+<p type="listitem">Intergovernmental agreements (regarding border rivers).</p>
+</list><p>The declaration covered the following issues: industrial developments in Sápmi, Saami identity, climate change and the environment and the traditional livelihoods of the Saami.</p>
+<p>Here you will find the Saami Conference documents &gt;&gt;</p>
+<p>To top</p>
+</body></document>

@@ -1,44 +1,15 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>130</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/naringsliv-och-foreningar/naringslivsutveckling/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar-naringslivsutveckling.html"/>
-    <parallel_text xml:lang="swe" location="naringsliv-och-foreningar-naringslivsutveckling.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Business development - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Business development</p>
-    <p>The County Administrative Board stimulates the business sector in the region in a number of ways in order to bring about financially sustainable development and increased employment. We also collaborate with municipalities, businesses and other organizations to achieve the national goals for regional growth policy.</p>
-    <p>The regional growth policy aims to promote healthy growth throughout the country. By providing various grants and allowances, the County Administrative Board helps create a good business climate, good infrastructure in the form of roads, communications, education and research as well as access to capital.</p>
-    <p>The County Administrative Board encourages the business sector to work with aspects related to equality, the environment and integration to ensure that they are an integral part of sustainable development and growth.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>130</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/naringsliv-och-foreningar/naringslivsutveckling/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="naringsliv-och-foreningar-naringslivsutveckling.html"/><parallel_text xml:lang="swe" location="naringsliv-och-foreningar-naringslivsutveckling.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Business development - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Business development</p>
+<p>The County Administrative Board stimulates the business sector in the region in a number of ways in order to bring about financially sustainable development and increased employment. We also collaborate with municipalities, businesses and other organizations to achieve the national goals for regional growth policy.</p>
+<p>The regional growth policy aims to promote healthy growth throughout the country. By providing various grants and allowances, the County Administrative Board helps create a good business climate, good infrastructure in the form of roads, communications, education and research as well as access to capital.</p>
+<p>The County Administrative Board encourages the business sector to work with aspects related to equality, the environment and integration to ensure that they are an integral part of sustainable development and growth.</p>
+</body></document>

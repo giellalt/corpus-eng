@@ -1,87 +1,55 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Renting facilities</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="fin"/>
-    <wordcount>252</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=406&amp;lang=english.html</origFileName>
-    <parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=406_lang=finnish.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=406_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=406_lang=anaras.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Renting facilities</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>The Sámi Cultural Centre Sajos's premises are perfect for concerts, theatrical performances, exhibitions and fairs, and also for various special occasions. The Sámi Cultural Centre Sajos provides venues for meetings and conferences of different scale. All our facilities have modern conference technology and communications capabilities.</p>
-    <p xml:lang="fin"></p>
-    <p>AUDITORIUM DOLLA</p>
-    <p>for 195-260 persons, 298 m2.</p>
-    <p xml:lang="fin"></p>
-    <p>DOLLAGADDI-HALL</p>
-    <p>for 70-140 persons, 117 m2.</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin">MAIN HALL</p>
-    <p>(connected with Auditorium Dolla and Dollagáddi-Hall) for 195-430 persons,</p>
-    <p>417 m2.</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin">PARLIAMENT HALL SOLJU</p>
-    <p>FOR 60 persons.126m2.</p>
-    <p xml:lang="fin"></p>
-    <p>CONFERENCE ROOM SILBA for 10 persons, 22 m2</p>
-    <p xml:lang="fin"></p>
-    <p>CONFERENCE ROOM NÁSTI</p>
-    <p>for 15 persons, 32 m2</p>
-    <p xml:lang="fin"></p>
-    <p>CONFERENCE ROOM SILBANÁSTI</p>
-    <p>(connected withe Silba and Násti) for 25 persons.</p>
-    <p>55 m2.</p>
-    <p xml:lang="fin"></p>
-    <p>CONFERENCE ROOM SISTI</p>
-    <p>(on the 3rd floor) for 16-20 persons. 40 m2</p>
-    <p xml:lang="fin"></p>
-    <p>FOYER FOR ARTISTS (connected with the foyer and make-up room). Foyer for group working for 6 persons.</p>
-    <p xml:lang="fin"></p>
-    <p>MUSIC STUDIO</p>
-    <p xml:lang="fin"></p>
-    <p>VIDEOSTUDIO</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin">LOUNGE 300 m2.</p>
-    <p>THREE CLASS ROOMS</p>
-    <p>Available for meeting only during summer time</p>
-    <p xml:lang="fin"></p>
-    <p>OUTSIDE AREA</p>
-    <p>for outdoor fairs, festivals and other events.</p>
-    <p xml:lang="fin"></p>
-    <p>RESTAURANT LYEME for 50 persons</p>
-    <p>(available also Dollagáddi Hall for dinners, coctail events, lunches etc.)</p>
-    <p xml:lang="fin"></p>
-    <p>AUDITORIUM AT SAMI MUSEUM SIIDA for 80 persons.</p>
-    <p>Sami Museum Siida is situated 5 minutes walk (200 m) from Sajos.</p>
-    <p>STAFF FOR CONFERENCES AND EVENTS: * AV-technicIans for sound and lights * Av-technicIans for straming * Conference assistants</p>
-    <p>* Simultaneous interpretations</p>
-    <p>TECHNOLOGY AND EQUIPMENT: * ask for a list of tecnology and equipment</p>
-    <p>RESERVATIONS: Sámi Cultural Centre email: tel: +358 -10 839 3109.</p>
-    <p>Ask for an offer by this form lomakkeella.</p>
-    <p>Load the floorplan (pdf).</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Renting facilities</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>252</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=406&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=406_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=406_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=406_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Renting facilities</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>The Sámi Cultural Centre Sajos's premises are perfect for concerts, theatrical performances, exhibitions and fairs, and also for various special occasions. The Sámi Cultural Centre Sajos provides venues for meetings and conferences of different scale. All our facilities have modern conference technology and communications capabilities.</p>
+<p xml:lang="fin"></p>
+<p>AUDITORIUM DOLLA</p>
+<p>for 195-260 persons, 298 m2.</p>
+<p xml:lang="fin"></p>
+<p>DOLLAGADDI-HALL</p>
+<p>for 70-140 persons, 117 m2.</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin">MAIN HALL</p>
+<p>(connected with Auditorium Dolla and Dollagáddi-Hall) for 195-430 persons,</p>
+<p>417 m2.</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin">PARLIAMENT HALL SOLJU</p>
+<p>FOR 60 persons.126m2.</p>
+<p xml:lang="fin"></p>
+<p>CONFERENCE ROOM SILBA for 10 persons, 22 m2</p>
+<p xml:lang="fin"></p>
+<p>CONFERENCE ROOM NÁSTI</p>
+<p>for 15 persons, 32 m2</p>
+<p xml:lang="fin"></p>
+<p>CONFERENCE ROOM SILBANÁSTI</p>
+<p>(connected withe Silba and Násti) for 25 persons.</p>
+<p>55 m2.</p>
+<p xml:lang="fin"></p>
+<p>CONFERENCE ROOM SISTI</p>
+<p>(on the 3rd floor) for 16-20 persons. 40 m2</p>
+<p xml:lang="fin"></p>
+<p>FOYER FOR ARTISTS (connected with the foyer and make-up room). Foyer for group working for 6 persons.</p>
+<p xml:lang="fin"></p>
+<p>MUSIC STUDIO</p>
+<p xml:lang="fin"></p>
+<p>VIDEOSTUDIO</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin">LOUNGE 300 m2.</p>
+<p>THREE CLASS ROOMS</p>
+<p>Available for meeting only during summer time</p>
+<p xml:lang="fin"></p>
+<p>OUTSIDE AREA</p>
+<p>for outdoor fairs, festivals and other events.</p>
+<p xml:lang="fin"></p>
+<p>RESTAURANT LYEME for 50 persons</p>
+<p>(available also Dollagáddi Hall for dinners, coctail events, lunches etc.)</p>
+<p xml:lang="fin"></p>
+<p>AUDITORIUM AT SAMI MUSEUM SIIDA for 80 persons.</p>
+<p>Sami Museum Siida is situated 5 minutes walk (200 m) from Sajos.</p>
+<p>STAFF FOR CONFERENCES AND EVENTS: * AV-technicIans for sound and lights * Av-technicIans for straming * Conference assistants</p>
+<p>* Simultaneous interpretations</p>
+<p>TECHNOLOGY AND EQUIPMENT: * ask for a list of tecnology and equipment</p>
+<p>RESERVATIONS: Sámi Cultural Centre email: tel: +358 -10 839 3109.</p>
+<p>Ask for an offer by this form lomakkeella.</p>
+<p>Load the floorplan (pdf).</p>
+</body></document>

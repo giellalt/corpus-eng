@@ -1,48 +1,15 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - The Northern Finland Centre of Expertise on Social Welfare</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="fin"/>
-    <wordcount>444</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="albbas@gmail.com"/>
-    <multilingual>
-      <language xml:lang="fin"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=110&amp;lang=english.html</origFileName>
-    <parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=110_lang=finnish.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=110_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=110_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=110_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>The Northern Finland Centre of Expertise on Social Welfare</p>
-    <p xml:lang="fin"></p>
-    <p xml:lang="fin"></p>
-    <p>The Northern Finland Centre of Expertise on Social Welfare (Poske) belongs to a nationwide network of centres of expertise. The Act (1230/2001) and Decree (1411/2001) concerning the centre of expertise action on a national level came into effect at the beginning of 2002. Poske is a contract-based organisation which involves The University of Lapland, the Sámi Parliament, the federation of municipalities of Kolpene Service Centre, and the Oulu University of Applied Sciences. The organisation is led and managed by the Consultative Committee. Poske is one consistent functional entity which is comprised of three regional operational units: the Lapland Unit, the Oulu Region Unit, and the Sámi Unit. The Sámi Unit is in charge of developing welfare services for the Sámi; this is a specific duty on a national level for the Northern Finland Centre of Expertise on Social Welfare.</p>
-    <p>The purpose of the Centre of Expertise is to advance:</p>
-    <p>-the network-like, multiprofessional, and multi-actor service forms; work methods, consultation, and experimental activity related to them, in the whole social welfare area;</p>
-    <p>-actual social work, the cooperation of educational systems, and basic, post-graduate and further education;</p>
-    <p>-the introduction of new technology in social welfare;</p>
-    <p>-regional evaluation of social effects and welfare strategic work; and</p>
-    <p>-the development of social welfare services in the Sámi language.</p>
-    <p><em type="italic">The Sámi unit of the northern Fnland centre of expertise on social welfare </em></p>
-    <p>The special nationwide activity of the Northern Finland Centre of Expertise (Poske) is considering the service needs of the Sámi in required actions. Poske’s specialist area is the development of welfare services for the Sámi, as well as the research, training and evaluation relating to these services.</p>
-    <p>The Sámi Unit, functioning in connection with the Sámi Parliament, attends to these tasks. The area of operation for the Sámi Unit is mainly the Sámi region. The Poske operational units, municipalities, universities and schools, and other quarters producing services in Sámi in Norway and Sweden, belong to the co-operation network. Essentially, the goal of the Sámi Unit is to develop the Sámi early education, geriatric care, and social welfare work, in addition to the contentual and qualitative development of social services, so that the level and availability of these services can be guaranteed for the Sámi.</p>
-    <p>Poske takes account of the goals of the Sámi Parliament for social and health services. The Sámi Parliament has set a goal for social and health services; social services meant for the Sámi are planned contentually from the foundation of their own culture and regarding their traditional values and way of life. The services are provided in the Sámi language, based on the Sámi self-government.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - The Northern Finland Centre of Expertise on Social Welfare</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>444</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/><language xml:lang="eng"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=110&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=110_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=110_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=110_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=110_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>The Northern Finland Centre of Expertise on Social Welfare</p>
+<p xml:lang="fin"></p>
+<p xml:lang="fin"></p>
+<p>The Northern Finland Centre of Expertise on Social Welfare (Poske) belongs to a nationwide network of centres of expertise. The Act (1230/2001) and Decree (1411/2001) concerning the centre of expertise action on a national level came into effect at the beginning of 2002. Poske is a contract-based organisation which involves The University of Lapland, the Sámi Parliament, the federation of municipalities of Kolpene Service Centre, and the Oulu University of Applied Sciences. The organisation is led and managed by the Consultative Committee. Poske is one consistent functional entity which is comprised of three regional operational units: the Lapland Unit, the Oulu Region Unit, and the Sámi Unit. The Sámi Unit is in charge of developing welfare services for the Sámi; this is a specific duty on a national level for the Northern Finland Centre of Expertise on Social Welfare.</p>
+<p>The purpose of the Centre of Expertise is to advance:</p>
+<p>-the network-like, multiprofessional, and multi-actor service forms; work methods, consultation, and experimental activity related to them, in the whole social welfare area;</p>
+<p>-actual social work, the cooperation of educational systems, and basic, post-graduate and further education;</p>
+<p>-the introduction of new technology in social welfare;</p>
+<p>-regional evaluation of social effects and welfare strategic work; and</p>
+<p>-the development of social welfare services in the Sámi language.</p>
+<p><em type="italic">The Sámi unit of the northern Fnland centre of expertise on social welfare </em></p>
+<p>The special nationwide activity of the Northern Finland Centre of Expertise (Poske) is considering the service needs of the Sámi in required actions. Poske’s specialist area is the development of welfare services for the Sámi, as well as the research, training and evaluation relating to these services.</p>
+<p>The Sámi Unit, functioning in connection with the Sámi Parliament, attends to these tasks. The area of operation for the Sámi Unit is mainly the Sámi region. The Poske operational units, municipalities, universities and schools, and other quarters producing services in Sámi in Norway and Sweden, belong to the co-operation network. Essentially, the goal of the Sámi Unit is to develop the Sámi early education, geriatric care, and social welfare work, in addition to the contentual and qualitative development of social services, so that the level and availability of these services can be guaranteed for the Sámi.</p>
+<p>Poske takes account of the goals of the Sámi Parliament for social and health services. The Sámi Parliament has set a goal for social and health services; social services meant for the Sámi are planned contentually from the foundation of their own culture and regarding their traditional values and way of life. The services are provided in the Sámi language, based on the Sámi self-government.</p>
+</body></document>

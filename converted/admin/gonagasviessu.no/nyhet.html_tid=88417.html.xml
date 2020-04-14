@@ -1,61 +1,33 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Visit concluded in Banská tiavnica   - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>659</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=88417</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=88355.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=88519_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Visit concluded in Banská tiavnica</p>
-    <p>On the final day of their State Visit to Slovakia Their Majesties The King and Queen visited the former mining town of Banská tiavnica, which is home to a sizeable aluminium production industry. The Norwegian companies Hydro and Orkla are both involved in the region.</p>
-    <p xml:lang="koi">28.10.2010</p>
-    <p>Although Banská tiavnica gained the status of royal town in 1238, the earliest settlements date back to before the common era. The town is situated in a caldera created after the collapse of a large volcano, and gold and silver mining formed the basis for its growth. It is a well-preserved medieval town and was designated a UNESCO World Heritage Site in 1993.</p>
-    <p type="title">Protecting cultural heritage</p>
-    <p>The King and Queen were formally welcomed at the town hall, where the miners choir performed for them. From there they were escorted on foot to the Banská tiavnica city museum, which is part of the Slovak Mining Museum.</p>
-    <p>The mining museum features artworks from as far back as the 13th century, and is participating in a cultural heritage project to establish a workshop for restoring books, documents, paintings and other works of art. The project is primarily financed by EEA and Norway Grants.</p>
-    <p>The King and Queen visited Starý zámok (the Old Castle) as well, which also has a collection of objects that have been restored with the support of EEA and Norway Grants.</p>
-    <p type="title">Flourishing woodcarving tradition</p>
-    <p>Traditional woodcarving remains a popular pastime in Banská tiavnica. The towns Bethlehem exhibition features some 800 wooden figures and is one of Slovakias largest. King Harald and Queen Sonja were accompanied on a tour by the artisans responsible for the exhibition, which covers an area of 21 x 2.5 metres.</p>
-    <p>An official luncheon was held at the Svätý Anton Manor House, which also has a hunting museum on the premises. After the luncheon, the King and Queen attended a falconry demonstration with gyrfalcons.</p>
-    <p type="title">Company visits in iar nad Hronom</p>
-    <p>iar nad Hronom is an industrial town with around 20 000 inhabitants. Two Norwegian companies are major players in the town. Hydro owns 55 per cent of the aluminium producer Slovalco, which has just over 550 employees. Hydro has been involved with the company since 1994, and today all production is carried out using Norwegian technology. The King and Queen were given a presentation of the company and a tour of the production facilities before continuing on to Sapa Profily.</p>
-    <p>The Orkla Group acquired Sapa Profily in 2008. The company manufactures more than 7 000 different aluminium products and has 350 employees. Thanks to investment support, the company is further expanding its operations. The foundation stone for a new production facility was laid today, and the King and Queen together with the president and his wife were present during the ceremony.</p>
-    <p>This was the last stop on the three-day programme in Slovakia. Later in the afternoon, the King and Queen bade farewell to President Gaparovič and Mrs Gaparovičová in a ceremony that marked the official conclusion of the State Visit.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Facts</p>
-    <p><em type="italic">About the Slovak Republic </em></p>
-    <p>Capital: Bratislava Largest cities: Bratislava, Košice and Prešov</p>
-    <p>Total area: 49 035 km² Population (2010): approximately 5.4 million Official language: Slovak</p>
-    <p>Form of government: Republic Head of state (2010): President Ivan Gašparovič</p>
-    <p>Diplomatic ties were established between Norway and Slovakia on 1 January 1993, when Slovakia became an independent state after the dissolution of the former Czechoslovakia.</p>
-    <p>Although cooperation between Slovakia and Norway has been relatively limited, collaborative activities in the spheres of trade and industry and cultural affairs are now on the rise, due in part to Norway’s support via EEA and Norway Grants and the establishment of the Norwegian Embassy in Bratislava in January 2005.</p>
-    <p>Source: Norwegian Ministry of Foreign Affairs</p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">State Visit to Slovakia (News article)</p>
-      <p type="listitem">Good deeds save the world (News article)</p>
-    </list>
-    <list>
-      <p type="listitem">Photo album from the State Visit to Slovakia</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Visit concluded in Banská tiavnica   - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>654</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=88417</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=88355.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=88519_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Visit concluded in Banská tiavnica</p>
+<p>On the final day of their State Visit to Slovakia Their Majesties The King and Queen visited the former mining town of Banská tiavnica, which is home to a sizeable aluminium production industry. The Norwegian companies Hydro and Orkla are both involved in the region.</p>
+<p xml:lang="vep">28.10.2010</p>
+<p>Although Banská tiavnica gained the status of royal town in 1238, the earliest settlements date back to before the common era. The town is situated in a caldera created after the collapse of a large volcano, and gold and silver mining formed the basis for its growth. It is a well-preserved medieval town and was designated a UNESCO World Heritage Site in 1993.</p>
+<p type="title">Protecting cultural heritage</p>
+<p>The King and Queen were formally welcomed at the town hall, where the miners choir performed for them. From there they were escorted on foot to the Banská tiavnica city museum, which is part of the Slovak Mining Museum.</p>
+<p>The mining museum features artworks from as far back as the 13th century, and is participating in a cultural heritage project to establish a workshop for restoring books, documents, paintings and other works of art. The project is primarily financed by EEA and Norway Grants.</p>
+<p>The King and Queen visited Starý zámok (the Old Castle) as well, which also has a collection of objects that have been restored with the support of EEA and Norway Grants.</p>
+<p type="title">Flourishing woodcarving tradition</p>
+<p>Traditional woodcarving remains a popular pastime in Banská tiavnica. The towns Bethlehem exhibition features some 800 wooden figures and is one of Slovakias largest. King Harald and Queen Sonja were accompanied on a tour by the artisans responsible for the exhibition, which covers an area of 21 x 2.5 metres.</p>
+<p>An official luncheon was held at the Svätý Anton Manor House, which also has a hunting museum on the premises. After the luncheon, the King and Queen attended a falconry demonstration with gyrfalcons.</p>
+<p type="title">Company visits in iar nad Hronom</p>
+<p>iar nad Hronom is an industrial town with around 20 000 inhabitants. Two Norwegian companies are major players in the town. Hydro owns 55 per cent of the aluminium producer Slovalco, which has just over 550 employees. Hydro has been involved with the company since 1994, and today all production is carried out using Norwegian technology. The King and Queen were given a presentation of the company and a tour of the production facilities before continuing on to Sapa Profily.</p>
+<p>The Orkla Group acquired Sapa Profily in 2008. The company manufactures more than 7 000 different aluminium products and has 350 employees. Thanks to investment support, the company is further expanding its operations. The foundation stone for a new production facility was laid today, and the King and Queen together with the president and his wife were present during the ceremony.</p>
+<p>This was the last stop on the three-day programme in Slovakia. Later in the afternoon, the King and Queen bade farewell to President Gaparovič and Mrs Gaparovičová in a ceremony that marked the official conclusion of the State Visit.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Facts</p>
+<p><em type="italic">About the Slovak Republic </em></p>
+<p>Capital: Bratislava Largest cities: Bratislava, Košice and Prešov</p>
+<p>Total area: 49 035 km² Population (2010): approximately 5.4 million Official language: Slovak</p>
+<p>Form of government: Republic Head of state (2010): President Ivan Gašparovič</p>
+<p>Diplomatic ties were established between Norway and Slovakia on 1 January 1993, when Slovakia became an independent state after the dissolution of the former Czechoslovakia.</p>
+<p>Although cooperation between Slovakia and Norway has been relatively limited, collaborative activities in the spheres of trade and industry and cultural affairs are now on the rise, due in part to Norway’s support via EEA and Norway Grants and the establishment of the Norwegian Embassy in Bratislava in January 2005.</p>
+<p>Source: Norwegian Ministry of Foreign Affairs</p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">State Visit to Slovakia (News article)</p>
+<p type="listitem">Good deeds save the world (News article)</p>
+</list><list><p type="listitem">Photo album from the State Visit to Slovakia</p>
+</list></body></document>

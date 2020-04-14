@@ -1,192 +1,165 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Nature and environment</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="fin"/>
-    <wordcount>574</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=130&amp;lang=english.html</origFileName>
-    <parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=130_lang=finnish.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=130_lang=davvi.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Nature and environment</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="smn">Satu Arjanne, Pirkko Kenno, Teuvo Nyberg, Matti Palosaari,</p>
-    <p xml:lang="fin">Päivi Vehmas and Olavi Vestelin</p>
-    <p xml:lang="sme"><em type="italic">Skuvlla birasdiehtu 3  </em></p>
-    <p>Textbook</p>
-    <p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
-    <p xml:lang="fin">illustr.: Jorma Happonen and Jorma Suonto</p>
-    <p xml:lang="ron">price: 23,00 €</p>
-    <p xml:lang="swe">3. grade</p>
-    <p xml:lang="sms">ISBN 978-952-441-148-6</p>
-    <p xml:lang="sme"><em type="italic">Sámediggi </em>2008 </p>
-    <p xml:lang="koi">___________________________________</p>
-    <p xml:lang="smn">Satu Arjanne, Sanna Jortikka, Pirkko Kenno,  Teuvo Nyberg,  Matti Palosaari, Jyrki Uusi-Viitala and Päivi Vehmas</p>
-    <p xml:lang="sme"><em type="italic">Skuvlla birasdiehtu 3  </em><em type="italic">Bargogirji  </em></p>
-    <p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
-    <p xml:lang="fin">illustr.: Jorma Happonen and Riitta Pouttu</p>
-    <p xml:lang="ron">price: 17,00 €</p>
-    <p xml:lang="swe">3. grade</p>
-    <p xml:lang="sms">ISBN 978-952-441-149-3</p>
-    <p xml:lang="sme"><em type="italic">Sámediggi </em>2008 </p>
-    <p xml:lang="koi">___________________________________</p>
-    <p xml:lang="smn">Satu Arjanne, Sanna Jortikka, Pirkko Kenno,  Matti Palosaari, Jyrki Uusi-Viitala ja Päivi Vehmas</p>
-    <p xml:lang="sme"><em type="italic">Skuvlla birasdiehtu 3   </em><em type="italic">Oahpaheaddji girji  </em>(Teahcher´s book) </p>
-    <p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
-    <p xml:lang="fin">illustr.: Jorma Happonen and Riitta Pouttu, Maisa Rajamäki and Jorma Suonto</p>
-    <p xml:lang="ron">price: 47,00 €</p>
-    <p xml:lang="swe">3. grade</p>
-    <p xml:lang="sms">ISBN 978-952-441-170-7</p>
-    <p xml:lang="sme"><em type="italic">Sámediggi </em><em type="italic">2009 </em></p>
-    <p xml:lang="koi">___________________________________</p>
-    <p xml:lang="fin">Satu Arjanne, Sanna Jortikka, Matti Leinonen,</p>
-    <p xml:lang="smn">Teuvo Nyberg, Matti Palosaari ja Jyrki Uusi-Viitala</p>
-    <p xml:lang="sme"><em type="italic">Skuvlla birasdiehtu 4  </em></p>
-    <p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
-    <p xml:lang="fin">illustr.: Jorma Happonen</p>
-    <p xml:lang="ron">price: 25,00 €</p>
-    <p xml:lang="swe">4. grade</p>
-    <p xml:lang="sms">ISBN 978-952-441-151-6</p>
-    <p xml:lang="sme"><em type="italic">Sámediggi </em><em type="italic">2009 </em></p>
-    <p xml:lang="koi">___________________________________</p>
-    <p xml:lang="smn">Satu Arjanne, Sanna Jortikka, Teuvo Nyberg,</p>
-    <p xml:lang="fin">Matti Palosaari ja Jyrki Uusi-Viitala</p>
-    <p xml:lang="sme"><em type="italic">Skuvlla birasdiehtu 4  </em><em type="italic">Bargogirji </em> </p>
-    <p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
-    <p xml:lang="smn">illustr.: Jorma Happonen, Ulriikka Järvinen</p>
-    <p xml:lang="fin">and Riitta Pouttu</p>
-    <p xml:lang="ron">price: 19,00 €</p>
-    <p xml:lang="swe">4. grade</p>
-    <p xml:lang="sms">ISBN 978-952-441-168-4</p>
-    <p xml:lang="sme"><em type="italic">Sámediggi </em><em type="italic">2009 </em></p>
-    <p xml:lang="koi">___________________________________</p>
-    <p xml:lang="smn">Satu Arjanne, Sanna Jortikka,  Matti Leinonen, Teuvo Nyberg, Matti Palosaari ja Jyrki Uusi-Viitala</p>
-    <p xml:lang="sme"><em type="italic">Skuvlla birasdiehtu 4   </em><em type="italic">Oahpaheaddji girji  </em>(Teahcher´s book) </p>
-    <p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
-    <p xml:lang="fin">illustr.: Jorma Happonen, Riitta Pouttu, Maisa Rajamäki and Miia Kovanen</p>
-    <p xml:lang="ron">price: 47,00 €</p>
-    <p xml:lang="swe">4. grade</p>
-    <p xml:lang="sms">ISBN 978-952-441-174-5</p>
-    <p xml:lang="sme"><em type="italic">Sámediggi </em><em type="italic">2009 </em></p>
-    <p xml:lang="koi">___________________________________</p>
-    <p xml:lang="sme">Britt Sara Allas-Labba</p>
-    <p xml:lang="deu"><em type="italic">Boazu  </em>(Reindeer) <em type="italic"></em></p>
-    <p>Textbook</p>
-    <p xml:lang="ron">price: 7,00 €</p>
-    <p xml:lang="sms">ISBN 91-7716-064-9</p>
-    <p xml:lang="swe">3. grade</p>
-    <p xml:lang="sme">Sámiid skuvlenáššiid Ráđđi 1996</p>
-    <p xml:lang="sme">Britt Sara Allas-Labba</p>
-    <p xml:lang="sme"><em type="italic">Boazu, oahpaheaddji gihpa  </em></p>
-    <p>Teacher´s book</p>
-    <p xml:lang="ron">price: 1,00 €</p>
-    <p xml:lang="sms">ISBN 91-7716-063-0</p>
-    <p xml:lang="sme">Sámiid skuvlenáššiid Ráđđi 1996</p>
-    <p xml:lang="koi">______________________________________</p>
-    <p xml:lang="fin">Anna Maaria Nuutinen and Pirjo Tolvanen</p>
-    <p xml:lang="vep"><em type="italic">Luonddugirji 1  </em></p>
-    <p>Textbook</p>
-    <p xml:lang="fin">transl. into North Sámi: Anni Näkkäläjärvi</p>
-    <p xml:lang="fin">illustr.: Erkki Alanen</p>
-    <p xml:lang="ron">price: 15,00 €</p>
-    <p xml:lang="swe">1. grade</p>
-    <p xml:lang="sms">ISBN 978-952-441-164-6</p>
-    <p xml:lang="fin">2. edition Saamelaiskäräjät 2008</p>
-    <p xml:lang="fin">Anna Maaria Nuutinen and Pirjo Tolvanen</p>
-    <p xml:lang="sme"><em type="italic">Luonddugirji 1 Bargogihpa  </em></p>
-    <p xml:lang="nno">Workbook</p>
-    <p xml:lang="fin">transl. into North Sámi: Anni Näkkäläjärvi</p>
-    <p xml:lang="fin">illustr.: Cara Knuutinen</p>
-    <p xml:lang="ron">price: 10,00 €</p>
-    <p xml:lang="swe">1. grade</p>
-    <p xml:lang="sms">ISBN 978-952-441-165-3</p>
-    <p xml:lang="fin">2. edition Saamelaiskäräjät 2008</p>
-    <p xml:lang="fin">Anna Maaria Nuutinen and Pirjo Tolvanen</p>
-    <p xml:lang="sme"><em type="italic">Luonddugirji 1 </em><em type="italic">Oahpaheaddji materiála </em> </p>
-    <p>Teacher´s book</p>
-    <p xml:lang="fin">transl. into North Sámi: Anni Näkkäläjärvi</p>
-    <p xml:lang="ron">price: 50,00 €</p>
-    <p xml:lang="sms">ISBN-13: 978-952-441-138-7</p>
-    <p xml:lang="sme">Sámediggi 2007</p>
-    <p xml:lang="koi">______________________________________</p>
-    <p xml:lang="fin">Anna Maaria Nuutinen and Pirjo Tolvanen</p>
-    <p xml:lang="vep"><em type="italic">Luonddugirji 2  </em></p>
-    <p>Textbook</p>
-    <p xml:lang="fin">transl. into North Sámi: Anni Näkkäläjärvi</p>
-    <p xml:lang="fin">illustr.: Erkki Alanen</p>
-    <p xml:lang="ron">price: 15,00 €</p>
-    <p xml:lang="swe">2. grade</p>
-    <p xml:lang="sms">ISBN 978-952-441-162-2</p>
-    <p xml:lang="fin">2. edition Saamelaiskäräjät 2008</p>
-    <p xml:lang="fin">Anna Maaria Nuutinen and Pirjo Tolvanen</p>
-    <p xml:lang="sme"><em type="italic">Luonddugirji 2 Bargogihpa  </em></p>
-    <p xml:lang="fin">transl. into North Sámi: Anni Näkkäläjärvi</p>
-    <p xml:lang="fin">illustr.: Cara Knuutinen</p>
-    <p xml:lang="ron">price: 10,00 €</p>
-    <p xml:lang="swe">2. grade</p>
-    <p xml:lang="sms">ISBN 978-952-441-163-9</p>
-    <p xml:lang="fin">2. edition Saamelaiskäräjät 2008</p>
-    <p xml:lang="fin">Anna Maaria Nuutinen and Pirjo Tolvanen</p>
-    <p xml:lang="sme"><em type="italic">Luonddugirji 2 </em><em type="italic">Oahpaheaddji materiála </em> </p>
-    <p>Teacher´s book</p>
-    <p xml:lang="fin">transl. into North Sámi: Anni Näkkäläjärvi</p>
-    <p xml:lang="ron">price: 50,00 €</p>
-    <p xml:lang="sms">ISBN: 978-952-441-139-4</p>
-    <p xml:lang="sme">Sámediggi 2007</p>
-    <p xml:lang="koi">______________________________________</p>
-    <p><em type="italic">Sold out!  </em></p>
-    <p xml:lang="est"><em type="italic">Luonddudutki 3-4  </em></p>
-    <p xml:lang="sms">ISBN 952-441-028-1</p>
-    <p xml:lang="sme">Sámediggi 2001</p>
-    <p xml:lang="koi">______________________________________</p>
-    <p xml:lang="fin">Mirja Holste, Pekka Kröger, Martti Raekunnas and</p>
-    <p xml:lang="sms">Mervi Wäre</p>
-    <p xml:lang="smj"><em type="italic">Luonddudutki Hárjehallangirji 3  </em></p>
-    <p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
-    <p xml:lang="ron">price: 9,00 €</p>
-    <p xml:lang="sms">ISBN 952-441-086-9</p>
-    <p xml:lang="sme">Sámediggi 2003</p>
-    <p xml:lang="fin">Mirja Holste, Pekka Kröger, Martti Raekunnas and Jorma Riikonen</p>
-    <p xml:lang="smj"><em type="italic">Luonddudutki Hárjehallangirji 4  </em></p>
-    <p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
-    <p xml:lang="ron">price: 9,00 €</p>
-    <p xml:lang="sms">ISBN 952-441-087-7</p>
-    <p xml:lang="sme">Sámediggi 2003</p>
-    <p xml:lang="koi">______________________________________</p>
-    <p><em type="italic">Sold out!  </em></p>
-    <p xml:lang="est"><em type="italic">Luonddudutki 5-6 </em></p>
-    <p xml:lang="fin">ISBN 952-441-046-X</p>
-    <p xml:lang="sme">Sámediggi 2001</p>
-    <p xml:lang="koi">______________________________________</p>
-    <p xml:lang="fin">Mirja Holste, Pekka Kröger, Martti Raekunnas and Jorma Riikonen</p>
-    <p xml:lang="smj"><em type="italic">Luonddudutki Hárjehallangirji 5  </em></p>
-    <p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
-    <p xml:lang="sms">ISBN 952-441-088-5</p>
-    <p xml:lang="ron">price: 9,00 €</p>
-    <p xml:lang="sme">Sámediggi 2003</p>
-    <p xml:lang="fin">Mirja Holste, Pekka Kröger, Martti Raekunnas and Jorma Riikonen</p>
-    <p xml:lang="smj"><em type="italic">Luonddudutki Hárjehallangirji 6  </em></p>
-    <p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
-    <p xml:lang="sms">ISBN 952-441-089-3</p>
-    <p xml:lang="ron">price: 9,00 €</p>
-    <p xml:lang="sme">Sámediggi 2003</p>
-    <p xml:lang="koi">______________________________________</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Nature and environment</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>574</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=130&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=130_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=130_lang=davvi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Nature and environment</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="smn">Satu Arjanne, Pirkko Kenno, Teuvo Nyberg, Matti Palosaari,</p>
+<p xml:lang="fin">Päivi Vehmas and Olavi Vestelin</p>
+<p xml:lang="sme"><em type="italic">Skuvlla birasdiehtu 3  </em></p>
+<p>Textbook</p>
+<p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
+<p xml:lang="fin">illustr.: Jorma Happonen and Jorma Suonto</p>
+<p xml:lang="ron">price: 23,00 €</p>
+<p xml:lang="swe">3. grade</p>
+<p xml:lang="sms">ISBN 978-952-441-148-6</p>
+<p xml:lang="sme"><em type="italic">Sámediggi </em>2008 </p>
+<p xml:lang="vep">___________________________________</p>
+<p xml:lang="smn">Satu Arjanne, Sanna Jortikka, Pirkko Kenno,  Teuvo Nyberg,  Matti Palosaari, Jyrki Uusi-Viitala and Päivi Vehmas</p>
+<p xml:lang="sme"><em type="italic">Skuvlla birasdiehtu 3  </em><em type="italic">Bargogirji  </em></p>
+<p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
+<p xml:lang="fin">illustr.: Jorma Happonen and Riitta Pouttu</p>
+<p xml:lang="ron">price: 17,00 €</p>
+<p xml:lang="swe">3. grade</p>
+<p xml:lang="sms">ISBN 978-952-441-149-3</p>
+<p xml:lang="sme"><em type="italic">Sámediggi </em>2008 </p>
+<p xml:lang="vep">___________________________________</p>
+<p xml:lang="smn">Satu Arjanne, Sanna Jortikka, Pirkko Kenno,  Matti Palosaari, Jyrki Uusi-Viitala ja Päivi Vehmas</p>
+<p xml:lang="sme"><em type="italic">Skuvlla birasdiehtu 3   </em><em type="italic">Oahpaheaddji girji  </em>(Teahcher´s book) </p>
+<p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
+<p xml:lang="fin">illustr.: Jorma Happonen and Riitta Pouttu, Maisa Rajamäki and Jorma Suonto</p>
+<p xml:lang="ron">price: 47,00 €</p>
+<p xml:lang="swe">3. grade</p>
+<p xml:lang="sms">ISBN 978-952-441-170-7</p>
+<p xml:lang="sme"><em type="italic">Sámediggi </em><em type="italic">2009 </em></p>
+<p xml:lang="vep">___________________________________</p>
+<p xml:lang="fin">Satu Arjanne, Sanna Jortikka, Matti Leinonen,</p>
+<p xml:lang="smn">Teuvo Nyberg, Matti Palosaari ja Jyrki Uusi-Viitala</p>
+<p xml:lang="sme"><em type="italic">Skuvlla birasdiehtu 4  </em></p>
+<p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
+<p xml:lang="fin">illustr.: Jorma Happonen</p>
+<p xml:lang="ron">price: 25,00 €</p>
+<p xml:lang="swe">4. grade</p>
+<p xml:lang="sms">ISBN 978-952-441-151-6</p>
+<p xml:lang="sme"><em type="italic">Sámediggi </em><em type="italic">2009 </em></p>
+<p xml:lang="vep">___________________________________</p>
+<p xml:lang="smn">Satu Arjanne, Sanna Jortikka, Teuvo Nyberg,</p>
+<p xml:lang="fin">Matti Palosaari ja Jyrki Uusi-Viitala</p>
+<p xml:lang="sme"><em type="italic">Skuvlla birasdiehtu 4  </em><em type="italic">Bargogirji </em> </p>
+<p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
+<p xml:lang="smn">illustr.: Jorma Happonen, Ulriikka Järvinen</p>
+<p xml:lang="fin">and Riitta Pouttu</p>
+<p xml:lang="ron">price: 19,00 €</p>
+<p xml:lang="swe">4. grade</p>
+<p xml:lang="sms">ISBN 978-952-441-168-4</p>
+<p xml:lang="sme"><em type="italic">Sámediggi </em><em type="italic">2009 </em></p>
+<p xml:lang="vep">___________________________________</p>
+<p xml:lang="smn">Satu Arjanne, Sanna Jortikka,  Matti Leinonen, Teuvo Nyberg, Matti Palosaari ja Jyrki Uusi-Viitala</p>
+<p xml:lang="sme"><em type="italic">Skuvlla birasdiehtu 4   </em><em type="italic">Oahpaheaddji girji  </em>(Teahcher´s book) </p>
+<p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
+<p xml:lang="fin">illustr.: Jorma Happonen, Riitta Pouttu, Maisa Rajamäki and Miia Kovanen</p>
+<p xml:lang="ron">price: 47,00 €</p>
+<p xml:lang="swe">4. grade</p>
+<p xml:lang="sms">ISBN 978-952-441-174-5</p>
+<p xml:lang="sme"><em type="italic">Sámediggi </em><em type="italic">2009 </em></p>
+<p xml:lang="vep">___________________________________</p>
+<p xml:lang="sme">Britt Sara Allas-Labba</p>
+<p xml:lang="deu"><em type="italic">Boazu  </em>(Reindeer) <em type="italic"></em></p>
+<p>Textbook</p>
+<p xml:lang="ron">price: 7,00 €</p>
+<p xml:lang="sms">ISBN 91-7716-064-9</p>
+<p xml:lang="swe">3. grade</p>
+<p xml:lang="sme">Sámiid skuvlenáššiid Ráđđi 1996</p>
+<p xml:lang="sme">Britt Sara Allas-Labba</p>
+<p xml:lang="sme"><em type="italic">Boazu, oahpaheaddji gihpa  </em></p>
+<p>Teacher´s book</p>
+<p xml:lang="ron">price: 1,00 €</p>
+<p xml:lang="sms">ISBN 91-7716-063-0</p>
+<p xml:lang="sme">Sámiid skuvlenáššiid Ráđđi 1996</p>
+<p xml:lang="vep">______________________________________</p>
+<p xml:lang="fin">Anna Maaria Nuutinen and Pirjo Tolvanen</p>
+<p xml:lang="smj"><em type="italic">Luonddugirji 1  </em></p>
+<p>Textbook</p>
+<p xml:lang="fin">transl. into North Sámi: Anni Näkkäläjärvi</p>
+<p xml:lang="smn">illustr.: Erkki Alanen</p>
+<p xml:lang="ron">price: 15,00 €</p>
+<p xml:lang="swe">1. grade</p>
+<p xml:lang="sms">ISBN 978-952-441-164-6</p>
+<p xml:lang="fin">2. edition Saamelaiskäräjät 2008</p>
+<p xml:lang="fin">Anna Maaria Nuutinen and Pirjo Tolvanen</p>
+<p xml:lang="sme"><em type="italic">Luonddugirji 1 Bargogihpa  </em></p>
+<p xml:lang="nno">Workbook</p>
+<p xml:lang="fin">transl. into North Sámi: Anni Näkkäläjärvi</p>
+<p xml:lang="fin">illustr.: Cara Knuutinen</p>
+<p xml:lang="ron">price: 10,00 €</p>
+<p xml:lang="swe">1. grade</p>
+<p xml:lang="sms">ISBN 978-952-441-165-3</p>
+<p xml:lang="fin">2. edition Saamelaiskäräjät 2008</p>
+<p xml:lang="fin">Anna Maaria Nuutinen and Pirjo Tolvanen</p>
+<p xml:lang="sme"><em type="italic">Luonddugirji 1 </em><em type="italic">Oahpaheaddji materiála </em> </p>
+<p>Teacher´s book</p>
+<p xml:lang="fin">transl. into North Sámi: Anni Näkkäläjärvi</p>
+<p xml:lang="ron">price: 50,00 €</p>
+<p xml:lang="sms">ISBN-13: 978-952-441-138-7</p>
+<p xml:lang="sme">Sámediggi 2007</p>
+<p xml:lang="vep">______________________________________</p>
+<p xml:lang="fin">Anna Maaria Nuutinen and Pirjo Tolvanen</p>
+<p xml:lang="smj"><em type="italic">Luonddugirji 2  </em></p>
+<p>Textbook</p>
+<p xml:lang="fin">transl. into North Sámi: Anni Näkkäläjärvi</p>
+<p xml:lang="smn">illustr.: Erkki Alanen</p>
+<p xml:lang="ron">price: 15,00 €</p>
+<p xml:lang="swe">2. grade</p>
+<p xml:lang="sms">ISBN 978-952-441-162-2</p>
+<p xml:lang="fin">2. edition Saamelaiskäräjät 2008</p>
+<p xml:lang="fin">Anna Maaria Nuutinen and Pirjo Tolvanen</p>
+<p xml:lang="sme"><em type="italic">Luonddugirji 2 Bargogihpa  </em></p>
+<p xml:lang="fin">transl. into North Sámi: Anni Näkkäläjärvi</p>
+<p xml:lang="fin">illustr.: Cara Knuutinen</p>
+<p xml:lang="ron">price: 10,00 €</p>
+<p xml:lang="swe">2. grade</p>
+<p xml:lang="sms">ISBN 978-952-441-163-9</p>
+<p xml:lang="fin">2. edition Saamelaiskäräjät 2008</p>
+<p xml:lang="fin">Anna Maaria Nuutinen and Pirjo Tolvanen</p>
+<p xml:lang="sme"><em type="italic">Luonddugirji 2 </em><em type="italic">Oahpaheaddji materiála </em> </p>
+<p>Teacher´s book</p>
+<p xml:lang="fin">transl. into North Sámi: Anni Näkkäläjärvi</p>
+<p xml:lang="ron">price: 50,00 €</p>
+<p xml:lang="sms">ISBN: 978-952-441-139-4</p>
+<p xml:lang="sme">Sámediggi 2007</p>
+<p xml:lang="vep">______________________________________</p>
+<p><em type="italic">Sold out!  </em></p>
+<p xml:lang="est"><em type="italic">Luonddudutki 3-4  </em></p>
+<p xml:lang="sms">ISBN 952-441-028-1</p>
+<p xml:lang="sme">Sámediggi 2001</p>
+<p xml:lang="vep">______________________________________</p>
+<p xml:lang="fin">Mirja Holste, Pekka Kröger, Martti Raekunnas and</p>
+<p xml:lang="sms">Mervi Wäre</p>
+<p xml:lang="smj"><em type="italic">Luonddudutki Hárjehallangirji 3  </em></p>
+<p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
+<p xml:lang="ron">price: 9,00 €</p>
+<p xml:lang="sms">ISBN 952-441-086-9</p>
+<p xml:lang="sme">Sámediggi 2003</p>
+<p xml:lang="fin">Mirja Holste, Pekka Kröger, Martti Raekunnas and Jorma Riikonen</p>
+<p xml:lang="smj"><em type="italic">Luonddudutki Hárjehallangirji 4  </em></p>
+<p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
+<p xml:lang="ron">price: 9,00 €</p>
+<p xml:lang="sms">ISBN 952-441-087-7</p>
+<p xml:lang="sme">Sámediggi 2003</p>
+<p xml:lang="vep">______________________________________</p>
+<p><em type="italic">Sold out!  </em></p>
+<p xml:lang="est"><em type="italic">Luonddudutki 5-6 </em></p>
+<p xml:lang="fin">ISBN 952-441-046-X</p>
+<p xml:lang="sme">Sámediggi 2001</p>
+<p xml:lang="vep">______________________________________</p>
+<p xml:lang="fin">Mirja Holste, Pekka Kröger, Martti Raekunnas and Jorma Riikonen</p>
+<p xml:lang="smj"><em type="italic">Luonddudutki Hárjehallangirji 5  </em></p>
+<p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
+<p xml:lang="sms">ISBN 952-441-088-5</p>
+<p xml:lang="ron">price: 9,00 €</p>
+<p xml:lang="sme">Sámediggi 2003</p>
+<p xml:lang="fin">Mirja Holste, Pekka Kröger, Martti Raekunnas and Jorma Riikonen</p>
+<p xml:lang="smj"><em type="italic">Luonddudutki Hárjehallangirji 6  </em></p>
+<p xml:lang="fin">transl. into North Sámi: Jovnna-Ánde Vest</p>
+<p xml:lang="sms">ISBN 952-441-089-3</p>
+<p xml:lang="ron">price: 9,00 €</p>
+<p xml:lang="sme">Sámediggi 2003</p>
+<p xml:lang="vep">______________________________________</p>
+</body></document>

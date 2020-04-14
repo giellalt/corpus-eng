@@ -1,46 +1,22 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Anaras - Research - Lönnrot</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2006</year>
-    <wordcount>697</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/english/tutkimus/lonnrot.html</origFileName>
-    <parallel_text xml:lang="fin" location="lonnrot.html"/>
-    <parallel_text xml:lang="smn" location="lonnrot.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="vep">Elias Lönnrot</p>
-    <p xml:lang="deu">E.W. Borg</p>
-    <p xml:lang="smn">Heikki Mattus</p>
-    <p xml:lang="smn">A.V. Koskimies</p>
-    <p xml:lang="vep">Lauri Itkonen</p>
-    <p xml:lang="fin">T.I. Itkonen</p>
-    <p xml:lang="fin">Erkki Itkonen</p>
-    <p xml:lang="fin">Uula Morottaja</p>
-    <p xml:lang="fin">Matti Morottaja</p>
-    <p xml:lang="sme">Pekka Sammallahti</p>
-    <p xml:lang="vep">Lea Laitinen</p>
-    <p xml:lang="fin">Marja-Liisa Olthuis</p>
-    <p>Catalogue of Literature</p>
-    <p>The first person who influenced the birth of Inari Sámi literature was Elias Lönnrot. He published an article in 1854 called <em type="italic"><span type="quote" xml:lang="deu">“Über den Enare-lappischen Dialekt”</span> in the series of books Acta Societatis Scientiarum Fennicae, no 4. </em>The publisher was evidently Suomen Tiedeseura (Finnish Scientific Society) <em type="italic">. </em>He may thus be called the father of the Inari Sámi written language, just as Mikael Agricola was called the father of the Finnish written language. Elias Lönnrot was also dubbed second father of the Finnish written language, after Mikael Agricola. </p>
-    <p>Elias Lönnrot was born in the crofter’s cottage of Paikkari in Sammatti <em type="italic"></em>4.9.1802 to the tailor Fredrik Johan Lönnrot and his wife Ulrika Wahlberg, the fourth boy, or the middle child in a large family. In those days a school education was difficult to get but due to a great desire to learn and the help of patrons Lönnrot succeeded. He studied with the support of his older brother Henrik Johan at the Ekenäs Grammar School 1814 – 1815 and the Cathedral School of Turku 1816 – 1818. His studies were however temporarily interrupted due to lack of money. In order to finance their studies students, i.e. teenagers, wandered around begging for food, grain and money, even by singing. In time, Lönnrot, who had had to wander and work as a tailor from village to village, was accepted as a student at the Porvo Secondary School 3.20.1820, but he left school in April already to go to Hämeenlinna because there was a position available to study pharmacology. </p>
-    <p>Through the guidance of private individuals Lönnrot finally graduated and was admitted into Åbo Academy 10.11.1822. Some of his student comrades were J. L. Runeberg and J. V. Snellman. After nearly five years of study Lönnrot received the Bachelor of Arts degree in June 1827. The subject of his Master’s degree thesis was Väinämöinen, who was considered an ancient Finnish god. He got the subject from Professor Reinhold von Becker, who was chief physician <em type="italic"></em>J.A. Törngren’s cousin. From 1824 Lönnrot had worked as a tutor in the summers at the Laukko manor at Vesilahti owned by surgeon and obstetrician Professor Törngren (1772 – 1859). After a fire in Turku he spent the winter of 1828 at the Laukko manor and began to prepare for his first fieldtrip. He became a medical doctor in 1832. At Laukko Lönnrot also drafted the later manuscript for the second edition of Kalevala which was published in 1849. </p>
-    <p>Elias Lönnrot made 11 trips of which his next to the last trip (his tenth trip) in January 1842 was the second major trip that was cancelled, this time at the beginning because of passport formalities. The trip continued on October 31st and it extended as far as from Kemi to Inari, northern Norway, Kola and Archangel. On this same survey trip he recorded e.g. language samples from the Inari Sámi language. He as accompanied in the beginning by Norwegian language researcher Nils Stockfleth as well as Mathias Alexander Castrén (1813 – 1852), a discoverer of Finnish tribes and who directed his trip to the lands of the Samoyeds in July 1842. Lönnrot for his part went via water routes to the headwaters of the Ojatti River inhabited by speakers of the Vepsian languages. The knowledge gathered of the language and folk poetry of the northern Veps people later became the subject of a thesis written on behalf of Finnish language professors. Lönnrot’s journey ended in October 1842. His last survey trip was taken to Estonia 1844–1845. As well as the survey trips he made, he served as an assistant doctor in Oulu 1832, as district doctor of Kajaani 1833 – 1854, as professor of Finnish at The University of Alexander 1854 – 1862 and editor of a Finnish–Swedish dictionary. Elias Lönnrot died in Sammatti <em type="italic"></em>3.19.1884, nearly 82 years old, which was considered in those times to be a considerable age. </p>
-    <p xml:lang="vep">Elias Lönnrot photographed in <span type="quote" xml:lang="fin">”Suomen kulttuurihistoria”</span> ('Finnish Cultural History') .</p>
-    <p>Back to Top</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Anaras - Research - Lönnrot</title><genre code="facta"/><author><unknown/></author><year>2006</year><wordcount>697</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/english/tutkimus/lonnrot.html</origFileName><parallel_text xml:lang="fin" location="lonnrot.html"/><parallel_text xml:lang="smn" location="lonnrot.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep">Elias Lönnrot</p>
+<p xml:lang="deu">E.W. Borg</p>
+<p xml:lang="smn">Heikki Mattus</p>
+<p xml:lang="smn">A.V. Koskimies</p>
+<p xml:lang="vep">Lauri Itkonen</p>
+<p xml:lang="fin">T.I. Itkonen</p>
+<p xml:lang="fin">Erkki Itkonen</p>
+<p xml:lang="fin">Uula Morottaja</p>
+<p xml:lang="fin">Matti Morottaja</p>
+<p xml:lang="sme">Pekka Sammallahti</p>
+<p xml:lang="est">Lea Laitinen</p>
+<p xml:lang="fin">Marja-Liisa Olthuis</p>
+<p>Catalogue of Literature</p>
+<p>The first person who influenced the birth of Inari Sámi literature was Elias Lönnrot. He published an article in 1854 called <em type="italic"><span type="quote" xml:lang="deu">“Über den Enare-lappischen Dialekt”</span> in the series of books Acta Societatis Scientiarum Fennicae, no 4. </em>The publisher was evidently Suomen Tiedeseura (Finnish Scientific Society) <em type="italic">. </em>He may thus be called the father of the Inari Sámi written language, just as Mikael Agricola was called the father of the Finnish written language. Elias Lönnrot was also dubbed second father of the Finnish written language, after Mikael Agricola. </p>
+<p>Elias Lönnrot was born in the crofter’s cottage of Paikkari in Sammatti <em type="italic"></em>4.9.1802 to the tailor Fredrik Johan Lönnrot and his wife Ulrika Wahlberg, the fourth boy, or the middle child in a large family. In those days a school education was difficult to get but due to a great desire to learn and the help of patrons Lönnrot succeeded. He studied with the support of his older brother Henrik Johan at the Ekenäs Grammar School 1814 – 1815 and the Cathedral School of Turku 1816 – 1818. His studies were however temporarily interrupted due to lack of money. In order to finance their studies students, i.e. teenagers, wandered around begging for food, grain and money, even by singing. In time, Lönnrot, who had had to wander and work as a tailor from village to village, was accepted as a student at the Porvo Secondary School 3.20.1820, but he left school in April already to go to Hämeenlinna because there was a position available to study pharmacology. </p>
+<p>Through the guidance of private individuals Lönnrot finally graduated and was admitted into Åbo Academy 10.11.1822. Some of his student comrades were J. L. Runeberg and J. V. Snellman. After nearly five years of study Lönnrot received the Bachelor of Arts degree in June 1827. The subject of his Master’s degree thesis was Väinämöinen, who was considered an ancient Finnish god. He got the subject from Professor Reinhold von Becker, who was chief physician <em type="italic"></em>J.A. Törngren’s cousin. From 1824 Lönnrot had worked as a tutor in the summers at the Laukko manor at Vesilahti owned by surgeon and obstetrician Professor Törngren (1772 – 1859). After a fire in Turku he spent the winter of 1828 at the Laukko manor and began to prepare for his first fieldtrip. He became a medical doctor in 1832. At Laukko Lönnrot also drafted the later manuscript for the second edition of Kalevala which was published in 1849. </p>
+<p>Elias Lönnrot made 11 trips of which his next to the last trip (his tenth trip) in January 1842 was the second major trip that was cancelled, this time at the beginning because of passport formalities. The trip continued on October 31st and it extended as far as from Kemi to Inari, northern Norway, Kola and Archangel. On this same survey trip he recorded e.g. language samples from the Inari Sámi language. He as accompanied in the beginning by Norwegian language researcher Nils Stockfleth as well as Mathias Alexander Castrén (1813 – 1852), a discoverer of Finnish tribes and who directed his trip to the lands of the Samoyeds in July 1842. Lönnrot for his part went via water routes to the headwaters of the Ojatti River inhabited by speakers of the Vepsian languages. The knowledge gathered of the language and folk poetry of the northern Veps people later became the subject of a thesis written on behalf of Finnish language professors. Lönnrot’s journey ended in October 1842. His last survey trip was taken to Estonia 1844–1845. As well as the survey trips he made, he served as an assistant doctor in Oulu 1832, as district doctor of Kajaani 1833 – 1854, as professor of Finnish at The University of Alexander 1854 – 1862 and editor of a Finnish–Swedish dictionary. Elias Lönnrot died in Sammatti <em type="italic"></em>3.19.1884, nearly 82 years old, which was considered in those times to be a considerable age. </p>
+<p xml:lang="vep">Elias Lönnrot photographed in <span type="quote" xml:lang="fin">”Suomen kulttuurihistoria”</span> ('Finnish Cultural History') .</p>
+<p>Back to Top</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

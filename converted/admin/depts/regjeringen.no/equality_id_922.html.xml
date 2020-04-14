@@ -1,89 +1,54 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Dásseárvu - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Government.no" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>672</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/en/topics/Equality.html?id=922</origFileName>
-    <parallel_text xml:lang="nno" location="likestilling_id_922.html"/>
-    <parallel_text xml:lang="nob" location="likestilling_id_922.html"/>
-    <parallel_text xml:lang="sme" location="dassearvu_id_922.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Equality - regjeringen.no</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p type="title">Equality</p>
-    <p><em type="italic">The Ministry of Children and Equality </em>is responsible for coordinating the Government’s family and equality policies and legislation in this area. <em type="italic">The Ministry of Labour and Social Inclusion </em>is responsible for immigration and asylum policy. <em type="italic">The Ministry of Local Government and Modernisation </em>is responsible for the policy towards the Sami people and minorities. On this page you will find general information and documents that relate to equality. You can explore this topic in more detail by using the menu on the right. </p>
-    <p xml:lang="nno"></p>
-    <p>Subscribe to e-mail alert</p>
-    <p xml:lang="nno"></p>
-    <p>Subscribe to RSS feed</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Violence against women – our response</p>
-    <p type="title">EEA and Norway Grants</p>
-    <p>[News story, Europaportalen, 07.03.2014]</p>
-    <p>With the celebration of the International Women’s Day around the corner, we take the opportunity to focus on violence against women in Europe – a violation of fundamental human rights which cuts across all levels of society.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Gender equality</p>
-    <p>[Article, Ministry of Children, Equality and Social Inclusion, 25.01.2012]</p>
-    <p>The Ministry of Children, Equality and Social Inclusion has the coordinating responsibility for gender equality policies. Key measures in the Government's work for gender equality integration are the activity and reporting obligations that are embedded in the Gender Equality and Anti-discrimination Acts, the reporting instruction and the main budget circular from the Ministry of Finance.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Ethnic Discrimination</p>
-    <p>[Article, Ministry of Children, Equality and Social Inclusion, 24.01.2012]</p>
-    <p>All people shall have the same rights, obligations and opportunities regardless ethnic background. The Anti-Discrimination Act protects against ethnic discrimination. The Government has an action plan for promoting equality and preventing ethnic discrimination covering the period 2009 – 2012, and this is reviewed on an annual basis through status reports.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Disabilities</p>
-    <p>[Article, Ministry of Children, Equality and Social Inclusion, 24.01.2012]</p>
-    <p>The Government aims to ensure that persons with disabilities can protect their rights and obligations as citizens. Persons with disabilities must be ensured living conditions and a quality of life equal to the general population.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Gender Equality in Higher Education</p>
-    <p>[Article, Ministry of Education and Research, 15.07.2009]</p>
-    <p>Norway has a very high proportion of women with higher education degrees. In 2004, almost 60 per cent of registered students at Norwegian universities and colleges were women. More than 21 per cent of Norwegian women have a university or college degree, compared with 16 per cent of Norwegian men.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Gender Equality in the Research Sector</p>
-    <p>[Article, Ministry of Education and Research, 15.07.2009]</p>
-    <p>In 1992, women accounted for only 21 per cent of all doctorates in Norwegian universities and university colleges. By 2002 the proportion of women had increased significantly to 40 per cent and it has remained stable at this level ever since. However, in 2004 women accounted for only 16 per cent of appointments to professorships, and progress in this area is very slow.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Gender Equality in Comprehensive Education</p>
-    <p>[Article, Ministry of Education and Research, 15.07.2009]</p>
-    <p>Work on achieving gender equality in the Norwegian school system has been given a high priority for many years. The content of educational programmes shall have sufficient focus on the question of gender equality, boys and girls shall receive equal treatment at school, and the gender distribution of staff shall be evened out.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Gender Equality in Kindergartens</p>
-    <p>[Article, Ministry of Education and Research, 31.03.2009]</p>
-    <p>From 1 January 2006, day care centres come under the Ministry of Education and Research, rather than the Ministry of Children and Equality. This means that day care centres in Norway are regarded as being part of the educational system, part of the learning process.</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p type="title">Review of the accessibility of goods, services and information aimed at the general public</p>
-    <p>[Article, Ministry of Children, Equality and Social Inclusion, 23.10.2008]</p>
-    <p>In Proposition to the Odelsting no. 44 (2007-2008) Concerning an Act relating to prohibition against discrimination on the basis of disability (the Anti-Discrimination and Accessibility Act), the Government announced that the Ministry of Children and Equality would do a review of the accessibility of goods, services and information aimed at the general public.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">The Norwegian State Council on Disability</p>
-    <p>[Article, Ministry of Children, Equality and Social Inclusion, 19.05.2008]</p>
-    <p xml:lang="nno"></p>
-    <p>More documents about this subject</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Dásseárvu - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Government.no" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>672</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/en/topics/Equality.html?id=922</origFileName><parallel_text xml:lang="nno" location="likestilling_id_922.html"/><parallel_text xml:lang="nob" location="likestilling_id_922.html"/><parallel_text xml:lang="sme" location="dassearvu_id_922.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Equality - regjeringen.no</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Equality</p>
+<p><em type="italic">The Ministry of Children and Equality </em>is responsible for coordinating the Government’s family and equality policies and legislation in this area. <em type="italic">The Ministry of Labour and Social Inclusion </em>is responsible for immigration and asylum policy. <em type="italic">The Ministry of Local Government and Modernisation </em>is responsible for the policy towards the Sami people and minorities. On this page you will find general information and documents that relate to equality. You can explore this topic in more detail by using the menu on the right. </p>
+<p xml:lang="swe"></p>
+<p>Subscribe to e-mail alert</p>
+<p xml:lang="swe"></p>
+<p>Subscribe to RSS feed</p>
+<p xml:lang="swe"></p>
+<p type="title">Violence against women – our response</p>
+<p type="title">EEA and Norway Grants</p>
+<p>[News story, Europaportalen, 07.03.2014]</p>
+<p>With the celebration of the International Women’s Day around the corner, we take the opportunity to focus on violence against women in Europe – a violation of fundamental human rights which cuts across all levels of society.</p>
+<p xml:lang="swe"></p>
+<p type="title">Gender equality</p>
+<p>[Article, Ministry of Children, Equality and Social Inclusion, 25.01.2012]</p>
+<p>The Ministry of Children, Equality and Social Inclusion has the coordinating responsibility for gender equality policies. Key measures in the Government's work for gender equality integration are the activity and reporting obligations that are embedded in the Gender Equality and Anti-discrimination Acts, the reporting instruction and the main budget circular from the Ministry of Finance.</p>
+<p xml:lang="swe"></p>
+<p type="title">Ethnic Discrimination</p>
+<p>[Article, Ministry of Children, Equality and Social Inclusion, 24.01.2012]</p>
+<p>All people shall have the same rights, obligations and opportunities regardless ethnic background. The Anti-Discrimination Act protects against ethnic discrimination. The Government has an action plan for promoting equality and preventing ethnic discrimination covering the period 2009 – 2012, and this is reviewed on an annual basis through status reports.</p>
+<p xml:lang="swe"></p>
+<p type="title">Disabilities</p>
+<p>[Article, Ministry of Children, Equality and Social Inclusion, 24.01.2012]</p>
+<p>The Government aims to ensure that persons with disabilities can protect their rights and obligations as citizens. Persons with disabilities must be ensured living conditions and a quality of life equal to the general population.</p>
+<p xml:lang="swe"></p>
+<p type="title">Gender Equality in Higher Education</p>
+<p>[Article, Ministry of Education and Research, 15.07.2009]</p>
+<p>Norway has a very high proportion of women with higher education degrees. In 2004, almost 60 per cent of registered students at Norwegian universities and colleges were women. More than 21 per cent of Norwegian women have a university or college degree, compared with 16 per cent of Norwegian men.</p>
+<p xml:lang="swe"></p>
+<p type="title">Gender Equality in the Research Sector</p>
+<p>[Article, Ministry of Education and Research, 15.07.2009]</p>
+<p>In 1992, women accounted for only 21 per cent of all doctorates in Norwegian universities and university colleges. By 2002 the proportion of women had increased significantly to 40 per cent and it has remained stable at this level ever since. However, in 2004 women accounted for only 16 per cent of appointments to professorships, and progress in this area is very slow.</p>
+<p xml:lang="swe"></p>
+<p type="title">Gender Equality in Comprehensive Education</p>
+<p>[Article, Ministry of Education and Research, 15.07.2009]</p>
+<p>Work on achieving gender equality in the Norwegian school system has been given a high priority for many years. The content of educational programmes shall have sufficient focus on the question of gender equality, boys and girls shall receive equal treatment at school, and the gender distribution of staff shall be evened out.</p>
+<p xml:lang="swe"></p>
+<p type="title">Gender Equality in Kindergartens</p>
+<p>[Article, Ministry of Education and Research, 31.03.2009]</p>
+<p>From 1 January 2006, day care centres come under the Ministry of Education and Research, rather than the Ministry of Children and Equality. This means that day care centres in Norway are regarded as being part of the educational system, part of the learning process.</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Review of the accessibility of goods, services and information aimed at the general public</p>
+<p>[Article, Ministry of Children, Equality and Social Inclusion, 23.10.2008]</p>
+<p>In Proposition to the Odelsting no. 44 (2007-2008) Concerning an Act relating to prohibition against discrimination on the basis of disability (the Anti-Discrimination and Accessibility Act), the Government announced that the Ministry of Children and Equality would do a review of the accessibility of goods, services and information aimed at the general public.</p>
+<p xml:lang="swe"></p>
+<p type="title">The Norwegian State Council on Disability</p>
+<p>[Article, Ministry of Children, Equality and Social Inclusion, 19.05.2008]</p>
+<p xml:lang="swe"></p>
+<p>More documents about this subject</p>
+</body></document>

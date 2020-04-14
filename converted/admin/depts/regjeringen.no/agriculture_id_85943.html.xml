@@ -1,89 +1,55 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Eanadoallu - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Government.no" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>314</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://regjeringen.no/en/topics/Food-fisheries-and-agriculture/agriculture.html?id=85943</origFileName>
-    <parallel_text xml:lang="nno" location="landbruk_id_85943.html"/>
-    <parallel_text xml:lang="nob" location="landbruk_id_85943.html"/>
-    <parallel_text xml:lang="sme" location="eanadoallu_id_85943.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Agriculture - regjeringen.no</p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Agriculture</p>
-    <p>Agricultural policy includes land management, agriculture and forestry, animal husbandry, reindeer husbandry and the development of new industries based on agriculture. The Government’s agricultural policy is intended to secure the resource basis for agricultural production, develop the knowledge base and contribute to value creation and employment in the whole country based on agriculture and agricultural production.</p>
-    <p>On this page you will find general information and documents relating to agriculture. You can explore this topic in more detail by using the menu on the right.</p>
-    <p></p>
-    <p>Subscribe to e-mail alert</p>
-    <p></p>
-    <p>Subscribe to RSS feed</p>
-    <p></p>
-    <p type="title">Norwegian Forests</p>
-    <p type="title">Policy and Resources</p>
-    <p>[Guidelines and brochures, Ministry of Agriculture and Food, 14.06.2011]</p>
-    <p>Policy and Resources</p>
-    <p></p>
-    <p type="title">The Norwegian Forest Habitat Inventory</p>
-    <p>[Guidelines and brochures, Ministry of Agriculture and Food, 30.06.2010]</p>
-    <p></p>
-    <p type="title">Animal Welfare Act.</p>
-    <p>[Law, Government.no, 19.06.2009]</p>
-    <p>Text of the law (in Norwegian)</p>
-    <p></p>
-    <p type="title">Proposal for a new Act concerning animal welfare</p>
-    <p>[Article, Ministry of Agriculture and Food, 15.05.2009]</p>
-    <p></p>
-    <p></p>
-    <p type="title">Ministry of Agriculture and Food Environmental Strategy 2008 - 2015</p>
-    <p>[Plan, Ministry of Agriculture and Food, 16.10.2008]</p>
-    <p></p>
-    <p type="title">Norwegian Forests - Policy and Resources</p>
-    <p type="title">2007</p>
-    <p>[Guidelines and brochures, Ministry of Agriculture and Food, 20.11.2007]</p>
-    <p>2007</p>
-    <p></p>
-    <p type="title">Informal International Consultation on Farmers' Rights, 18 - 20 September 2007, Lusaka, Zambia</p>
-    <p type="title">Co-hosted by the Ministry of Agriculture and Food and the Fridtjof Nansen Institute, Norway, and the Zambia Agriculture Research Institute of the Ministry of Agriculture, Food and Fisheries</p>
-    <p>[Report, Ministry of Agriculture and Food, 15.11.2007]</p>
-    <p>Co-hosted by the Ministry of Agriculture and Food and the Fridtjof Nansen Institute, Norway, and the Zambia Agriculture Research Institute of the Ministry of Agriculture, Food and Fisheries</p>
-    <p></p>
-    <p type="title">Strategy for Equality in the Agriculture Sector</p>
-    <p>[Plan, Ministry of Agriculture and Food, 10.07.2007]</p>
-    <p></p>
-    <p type="title">Strategy for Developing New Businesses in Agriculture</p>
-    <p>[Plan, Ministry of Agriculture and Food, 10.07.2007]</p>
-    <p></p>
-    <p></p>
-    <p type="title">T-1460 E Norwegian Strategy on Invasive Alien Species</p>
-    <p type="title">Strategy</p>
-    <p>[Plan, Ministry of Climate and Environment, 31.05.2007]</p>
-    <p>Strategy</p>
-    <p></p>
-    <p>More documents about this subject</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Eanadoallu - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Government.no" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>314</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://regjeringen.no/en/topics/Food-fisheries-and-agriculture/agriculture.html?id=85943</origFileName><parallel_text xml:lang="nno" location="landbruk_id_85943.html"/><parallel_text xml:lang="nob" location="landbruk_id_85943.html"/><parallel_text xml:lang="sme" location="eanadoallu_id_85943.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Agriculture - regjeringen.no</p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">Agriculture</p>
+<p>Agricultural policy includes land management, agriculture and forestry, animal husbandry, reindeer husbandry and the development of new industries based on agriculture. The Government’s agricultural policy is intended to secure the resource basis for agricultural production, develop the knowledge base and contribute to value creation and employment in the whole country based on agriculture and agricultural production.</p>
+<p>On this page you will find general information and documents relating to agriculture. You can explore this topic in more detail by using the menu on the right.</p>
+<p></p>
+<p>Subscribe to e-mail alert</p>
+<p></p>
+<p>Subscribe to RSS feed</p>
+<p></p>
+<p type="title">Norwegian Forests</p>
+<p type="title">Policy and Resources</p>
+<p>[Guidelines and brochures, Ministry of Agriculture and Food, 14.06.2011]</p>
+<p>Policy and Resources</p>
+<p></p>
+<p type="title">The Norwegian Forest Habitat Inventory</p>
+<p>[Guidelines and brochures, Ministry of Agriculture and Food, 30.06.2010]</p>
+<p></p>
+<p type="title">Animal Welfare Act.</p>
+<p>[Law, Government.no, 19.06.2009]</p>
+<p>Text of the law (in Norwegian)</p>
+<p></p>
+<p type="title">Proposal for a new Act concerning animal welfare</p>
+<p>[Article, Ministry of Agriculture and Food, 15.05.2009]</p>
+<p></p>
+<p></p>
+<p type="title">Ministry of Agriculture and Food Environmental Strategy 2008 - 2015</p>
+<p>[Plan, Ministry of Agriculture and Food, 16.10.2008]</p>
+<p></p>
+<p type="title">Norwegian Forests - Policy and Resources</p>
+<p type="title">2007</p>
+<p>[Guidelines and brochures, Ministry of Agriculture and Food, 20.11.2007]</p>
+<p>2007</p>
+<p></p>
+<p type="title">Informal International Consultation on Farmers' Rights, 18 - 20 September 2007, Lusaka, Zambia</p>
+<p type="title">Co-hosted by the Ministry of Agriculture and Food and the Fridtjof Nansen Institute, Norway, and the Zambia Agriculture Research Institute of the Ministry of Agriculture, Food and Fisheries</p>
+<p>[Report, Ministry of Agriculture and Food, 15.11.2007]</p>
+<p>Co-hosted by the Ministry of Agriculture and Food and the Fridtjof Nansen Institute, Norway, and the Zambia Agriculture Research Institute of the Ministry of Agriculture, Food and Fisheries</p>
+<p></p>
+<p type="title">Strategy for Equality in the Agriculture Sector</p>
+<p>[Plan, Ministry of Agriculture and Food, 10.07.2007]</p>
+<p></p>
+<p type="title">Strategy for Developing New Businesses in Agriculture</p>
+<p>[Plan, Ministry of Agriculture and Food, 10.07.2007]</p>
+<p></p>
+<p></p>
+<p type="title">T-1460 E Norwegian Strategy on Invasive Alien Species</p>
+<p type="title">Strategy</p>
+<p>[Plan, Ministry of Climate and Environment, 31.05.2007]</p>
+<p>Strategy</p>
+<p></p>
+<p>More documents about this subject</p>
+</body></document>

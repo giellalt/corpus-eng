@@ -1,60 +1,34 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>State Visit from Switzerland  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>591</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=88138</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=88099.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=88204_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">State Visit from Switzerland</p>
-    <p>The State Visit from the Swiss Confederation began today, as Their Majesties King Harald and Queen Sonja welcomed Her Excellency Ms Doris Leuthard and Dr Roland Hausin in a formal ceremony on the Palace Square.</p>
-    <p xml:lang="koi">14.10.2010</p>
-    <p>President Leuthard and Dr Hausin are conducting a State Visit in Norway on 14-15 October.</p>
-    <p type="title">Official welcoming ceremony</p>
-    <p>President Leuthard and Dr Hausin were formally welcomed to Norway by King Harald and Queen Sonja, their personal hosts during their visit, as well as by Crown Princess Mette-Marit. King Harald accompanied President Leuthard as she inspected the Kings Guard, and also took time to greet children in the Palace Square. The King then introduced the guests to representatives of official institutions in Norway.</p>
-    <p type="title">Wreath-laying at the national monument</p>
-    <p>In keeping with the traditions of State Visits, President Leuthard laid a wreath at the national monument at Akershus Fortress following the welcoming ceremony and official luncheon at the Royal Palace. She inspected the Kings Guard before laying a wreath to commemorate the Norwegians who lost their lives in the Second World War.</p>
-    <p>After the wreath-laying ceremony, the entourage paid a visit to the Norwegian Centre for Design and Architecture (DogA).</p>
-    <p type="title" xml:lang="nob">Swiss design at DogA</p>
-    <p>At DogA, King Harald, Queen Sonja, President Leuthard and Dr Hausin attended the opening of the exhibition in connection with the Swiss award known as Design Preis Schweiz. Bestowed every two years, the award pays tribute to innovative Swiss design. Design Preis Schweiz is awarded to projects that demonstrate new lines of thinking and are oriented towards the future. The exhibition, which opened today, features the award-winners and nominees in the areas of furniture and interior design, fashion and textiles, and product and industrial design.</p>
-    <p type="title">High-level meetings</p>
-    <p>Following the opening at DogA, King Harald accompanied President Leuthard to the Storting for a meeting with the President of the Storting, Dag Terje Andersen. Then the Swiss president continued on to the Ministry of Trade and Industry, where she met with Minister Trond Giske.</p>
-    <p type="title">Oil and plastic at the Museum of Science and Technology</p>
-    <p>While the King and President Leuthard attended meetings, Queen Sonja and Dr Hausin visited the Norwegian Museum of Science and Technology, where they were given a guided tour of two of the exhibitions.</p>
-    <p>The exhibition on oil and gas depicts the history of how petroleum became Norways new industry and main source of revenues after 1970. The exhibition entitled Plastic in modern Norway looks at various aspects of plastic as a material, including as a symbol of all that is artificial, of the use-and-discard mentality and the garbage dump. It also considers the democratising effect of plastic in that it makes consumer goods less expensive and therefore more available to more people.</p>
-    <p type="title" xml:lang="smj">Gala banquet</p>
-    <p>This evening, a gala banquet is being held at the Royal Palace in honour of President Leuthard and Dr Hausin.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Facts</p>
-    <p><em type="italic">Facts about the Swiss Confederation </em></p>
-    <p>Capital city: Bern Largest cities: Zürich, Genève, Basel and Bern</p>
-    <p>Total area: 41 284 km² Population in 2010: approximately 7.8 million Official languages: German, French and Italian</p>
-    <p>Form of government: Federal republic Head of state: President Doris Leuthard</p>
-    <p>Diplomatic relations with Norway since 1906.</p>
-    <p>Switzerland is an important partner for Norway in international organisations such as the European Free Trade Association (EFTA) and the World Trade Organization (WTO), in which the two countries cooperate closely on agricultural policy.</p>
-    <p>Source: Norwegian Ministry of Foreign Affairs</p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">Swiss light art and technology (News article)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>State Visit from Switzerland  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>586</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=88138</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=88099.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=88204_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">State Visit from Switzerland</p>
+<p>The State Visit from the Swiss Confederation began today, as Their Majesties King Harald and Queen Sonja welcomed Her Excellency Ms Doris Leuthard and Dr Roland Hausin in a formal ceremony on the Palace Square.</p>
+<p xml:lang="vep">14.10.2010</p>
+<p>President Leuthard and Dr Hausin are conducting a State Visit in Norway on 14-15 October.</p>
+<p type="title">Official welcoming ceremony</p>
+<p>President Leuthard and Dr Hausin were formally welcomed to Norway by King Harald and Queen Sonja, their personal hosts during their visit, as well as by Crown Princess Mette-Marit. King Harald accompanied President Leuthard as she inspected the Kings Guard, and also took time to greet children in the Palace Square. The King then introduced the guests to representatives of official institutions in Norway.</p>
+<p type="title">Wreath-laying at the national monument</p>
+<p>In keeping with the traditions of State Visits, President Leuthard laid a wreath at the national monument at Akershus Fortress following the welcoming ceremony and official luncheon at the Royal Palace. She inspected the Kings Guard before laying a wreath to commemorate the Norwegians who lost their lives in the Second World War.</p>
+<p>After the wreath-laying ceremony, the entourage paid a visit to the Norwegian Centre for Design and Architecture (DogA).</p>
+<p type="title" xml:lang="nob">Swiss design at DogA</p>
+<p>At DogA, King Harald, Queen Sonja, President Leuthard and Dr Hausin attended the opening of the exhibition in connection with the Swiss award known as Design Preis Schweiz. Bestowed every two years, the award pays tribute to innovative Swiss design. Design Preis Schweiz is awarded to projects that demonstrate new lines of thinking and are oriented towards the future. The exhibition, which opened today, features the award-winners and nominees in the areas of furniture and interior design, fashion and textiles, and product and industrial design.</p>
+<p type="title">High-level meetings</p>
+<p>Following the opening at DogA, King Harald accompanied President Leuthard to the Storting for a meeting with the President of the Storting, Dag Terje Andersen. Then the Swiss president continued on to the Ministry of Trade and Industry, where she met with Minister Trond Giske.</p>
+<p type="title">Oil and plastic at the Museum of Science and Technology</p>
+<p>While the King and President Leuthard attended meetings, Queen Sonja and Dr Hausin visited the Norwegian Museum of Science and Technology, where they were given a guided tour of two of the exhibitions.</p>
+<p>The exhibition on oil and gas depicts the history of how petroleum became Norways new industry and main source of revenues after 1970. The exhibition entitled Plastic in modern Norway looks at various aspects of plastic as a material, including as a symbol of all that is artificial, of the use-and-discard mentality and the garbage dump. It also considers the democratising effect of plastic in that it makes consumer goods less expensive and therefore more available to more people.</p>
+<p type="title" xml:lang="smj">Gala banquet</p>
+<p>This evening, a gala banquet is being held at the Royal Palace in honour of President Leuthard and Dr Hausin.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Facts</p>
+<p><em type="italic">Facts about the Swiss Confederation </em></p>
+<p>Capital city: Bern Largest cities: Zürich, Genève, Basel and Bern</p>
+<p>Total area: 41 284 km² Population in 2010: approximately 7.8 million Official languages: German, French and Italian</p>
+<p>Form of government: Federal republic Head of state: President Doris Leuthard</p>
+<p>Diplomatic relations with Norway since 1906.</p>
+<p>Switzerland is an important partner for Norway in international organisations such as the European Free Trade Association (EFTA) and the World Trade Organization (WTO), in which the two countries cooperate closely on agricultural policy.</p>
+<p>Source: Norwegian Ministry of Foreign Affairs</p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">Swiss light art and technology (News article)</p>
+</list></body></document>

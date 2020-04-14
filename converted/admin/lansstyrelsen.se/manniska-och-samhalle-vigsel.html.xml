@@ -1,45 +1,16 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>120</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/vigsel/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-vigsel.html"/>
-    <parallel_text xml:lang="swe" location="manniska-och-samhalle-vigsel.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Marriage - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Marriage</p>
-    <p>The County Administrative Board appoints civil marriage officiators, usually following a proposal from the municipal authorities in the county.</p>
-    <p>The persons appointed as marriage officiators receive an official appointment and as a rule cannot only be appointed for individual wedding ceremonies. The County Administrative Board has a list of those appointed as marriage officiators in each county and you can contact the County Administrative Board or your municipality to find out who they are.</p>
-    <p>The time of the marriage is scheduled with the marriage officiator but in some municipalities, the time can also be scheduled via the municipal authority.</p>
-    <p>If you are under 18 years you are not allowed to get married in Sweden.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>120</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/vigsel/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="manniska-och-samhalle-vigsel.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle-vigsel.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Marriage - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Marriage</p>
+<p>The County Administrative Board appoints civil marriage officiators, usually following a proposal from the municipal authorities in the county.</p>
+<p>The persons appointed as marriage officiators receive an official appointment and as a rule cannot only be appointed for individual wedding ceremonies. The County Administrative Board has a list of those appointed as marriage officiators in each county and you can contact the County Administrative Board or your municipality to find out who they are.</p>
+<p>The time of the marriage is scheduled with the marriage officiator but in some municipalities, the time can also be scheduled via the municipal authority.</p>
+<p>If you are under 18 years you are not allowed to get married in Sweden.</p>
+</body></document>

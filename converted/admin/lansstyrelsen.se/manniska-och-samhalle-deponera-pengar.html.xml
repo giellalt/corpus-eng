@@ -1,52 +1,23 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>596</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/deponera-pengar/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-deponera-pengar.html"/>
-    <parallel_text xml:lang="swe" location="manniska-och-samhalle-deponera-pengar.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Deposit money - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Deposit money</p>
-    <p>The County Administrative Board can deposit your money in a specific account, that is, receive and safeguard the money you shall pay to someone.</p>
-    <p type="title">Deposit rent</p>
-    <p>As a tenant you can sometimes make a deduction from your rent and deposit the deducted amount with the County Administrative Board, for example, this may be in a situation where you feel that you are entitled to a reduction in the rent as a result of defects in your rented apartment. It could also involve a dispute regarding the size of the rent. The advantage of depositing the rent with the County Administrative Board compared with simply not paying is that the landlord cannot claim that the tenancy right has been forfeited. Thus, you cannot be evicted due to non-payment. However, the tenancy right can be forfeited, if you deposit a large part of the rent, for example, the total monthly rent, even if only one room in a three-room flat could not be used. The tenancy right can also be forfeited if you make the deposit after the rent's due date.</p>
-    <p type="title">Deposit lease charges</p>
-    <p>As a lessee you can make a deduction from the lease charge in certain situations and deposit the deducted amount with the County Administrative Board. The deduction must be equivalent to the amount to which you feel you are entitled. It could, for example, involve a situation where you feel that you are entitled to compensation for damage or that you are not in agreement with the landowner about what should be paid. The advantage of depositing the lease charge with the County Administrative Board compared with simply not paying is that the landowner cannot claim that the leasehold right has been forfeited because you have not paid and that you have thereby forfeited the entitlement to the leased property. However, the leasehold right can be forfeited, if the amount of lease charge you deposit is too large, for example, the total lease charge, even if only 5 % of the leased estate has been affected by a landslide. The leasehold right can also be forfeited if you make the deposit after the due date of the lease charge.</p>
-    <p type="title">Security to deposit</p>
-    <p>In order for a tenant or lessee to be allowed to deposit a sum of money with the County Administrative Board, you must provide collateral in the form of a mortgage or a guarantee.  The collateral should cover any litigation costs and penalty interest to which the landlord or the landowner could be entitled if he or she is granted, through a legal process, the right to the deposited amount.</p>
-    <p type="title">Redemption sum from compulsorily purchased shares</p>
-    <p>When shares have been compulsorily purchased it could be unclear who holds the shares or the shareholders may not wish to receive the redemption sum (the value of the redeemed shares). In that case the redemption sum can be deposited with the County Administrative Board, this is known as a reduction in the redemption sum.  For you as a shareholder to gain access to the redemption sum you must send the share certificates or security advice note to the County Administrative Board.</p>
-    <p type="title">Reduction in money at an authority in specific cases</p>
-    <p>If you owe someone money you can, in certain cases, deposit the money with the County Administrative Board,  for example, if you do not know who is to receive the money, or if the recipient refuses to receive the money. Your debt is then deemed to have been paid on time if certain statutory conditions are fulfilled.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>596</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/deponera-pengar/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="manniska-och-samhalle-deponera-pengar.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle-deponera-pengar.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Deposit money - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Deposit money</p>
+<p>The County Administrative Board can deposit your money in a specific account, that is, receive and safeguard the money you shall pay to someone.</p>
+<p type="title">Deposit rent</p>
+<p>As a tenant you can sometimes make a deduction from your rent and deposit the deducted amount with the County Administrative Board, for example, this may be in a situation where you feel that you are entitled to a reduction in the rent as a result of defects in your rented apartment. It could also involve a dispute regarding the size of the rent. The advantage of depositing the rent with the County Administrative Board compared with simply not paying is that the landlord cannot claim that the tenancy right has been forfeited. Thus, you cannot be evicted due to non-payment. However, the tenancy right can be forfeited, if you deposit a large part of the rent, for example, the total monthly rent, even if only one room in a three-room flat could not be used. The tenancy right can also be forfeited if you make the deposit after the rent's due date.</p>
+<p type="title">Deposit lease charges</p>
+<p>As a lessee you can make a deduction from the lease charge in certain situations and deposit the deducted amount with the County Administrative Board. The deduction must be equivalent to the amount to which you feel you are entitled. It could, for example, involve a situation where you feel that you are entitled to compensation for damage or that you are not in agreement with the landowner about what should be paid. The advantage of depositing the lease charge with the County Administrative Board compared with simply not paying is that the landowner cannot claim that the leasehold right has been forfeited because you have not paid and that you have thereby forfeited the entitlement to the leased property. However, the leasehold right can be forfeited, if the amount of lease charge you deposit is too large, for example, the total lease charge, even if only 5 % of the leased estate has been affected by a landslide. The leasehold right can also be forfeited if you make the deposit after the due date of the lease charge.</p>
+<p type="title">Security to deposit</p>
+<p>In order for a tenant or lessee to be allowed to deposit a sum of money with the County Administrative Board, you must provide collateral in the form of a mortgage or a guarantee.  The collateral should cover any litigation costs and penalty interest to which the landlord or the landowner could be entitled if he or she is granted, through a legal process, the right to the deposited amount.</p>
+<p type="title">Redemption sum from compulsorily purchased shares</p>
+<p>When shares have been compulsorily purchased it could be unclear who holds the shares or the shareholders may not wish to receive the redemption sum (the value of the redeemed shares). In that case the redemption sum can be deposited with the County Administrative Board, this is known as a reduction in the redemption sum.  For you as a shareholder to gain access to the redemption sum you must send the share certificates or security advice note to the County Administrative Board.</p>
+<p type="title">Reduction in money at an authority in specific cases</p>
+<p>If you owe someone money you can, in certain cases, deposit the money with the County Administrative Board,  for example, if you do not know who is to receive the money, or if the recipient refuses to receive the money. Your debt is then deemed to have been paid on time if certain statutory conditions are fulfilled.</p>
+</body></document>

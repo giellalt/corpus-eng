@@ -1,47 +1,25 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Janne" lastname="Hansen" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2016</year>
-    <wordcount>351</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://galdu.custompublish.com/sami-women-paved-the-way-for-the-celebration-of-a-sami-national-day.5841481-353621.html</origFileName>
-    <parallel_text xml:lang="nob" location="samiske-kvinner-banet-vei-for-nasjonaldagsfeiring.5808984-353621.html"/>
-    <parallel_text xml:lang="sme" location="sami-nissonat-galle-geainnu-sami-albmotbeaivvi-avvudeapmai.5841477-353621.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sami women paved the way for the celebration of a Sami National Day - Gáldu</p>
-    <p xml:lang="nob">Hopp til hovedinnholdet på siden</p>
-    <p type="title" xml:lang="est">Tema</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Menneske <list><p type="listitem" xml:lang="nob">Barn</p><p type="listitem" xml:lang="nno">Eldre</p><p type="listitem" xml:lang="deu">Familie</p><p type="listitem" xml:lang="nob">Funksjonshemmede</p><p type="listitem" xml:lang="nob">Kvinner</p><p type="listitem" xml:lang="nno">Ungdom</p></list></p>
-      <p type="listitem" xml:lang="isl">Natur</p>
-      <p type="listitem" xml:lang="nob">Samfunn</p>
-    </list>
-    <p xml:lang="sma">Elsa Laula Renberg (1877-1931) ©Saemien Sijte</p>
-    <p type="title">Sami women paved the way for the celebration of a Sami National Day</p>
-    <p>On Saturday 6 February, we celebrate the Sami National Day. The background for the celebration was the first large Sami national meeting that took place in the Methodist Church in Trondheim on 6 February 1917. Elsa Laula Renberg together with «Brurskanken Samiske kvindeforening» (Sami Women's Association) were the organisers behind this meeting.</p>
-    <p>Sami people from both Norway and Sweden participated in the large Sami national meeting in the Methodist Church in Trondheim on 6 February 1917. The organising committee was to a large extent made up of women, and a large share of the participants were women.</p>
-    <p>Elsa Laula Renberg (1877-1931) headed the organisation of the meeting. Elsa Laula Renberg was a female pioneer for the political rights of the Sami people and women. Renberg encouraged Sami women in particular to join an association in order to fight injustice and poverty, and to protect the future of their people.</p>
-    <p>Elsa Laula Renberg was also the founder of «Brurskanken Samiske Kvindeforening», which was established in Helgeland in the County of Nordland on 5 December 1910. The purpose of the association was to help ensure the establishment of a school for Sami children in Nordland, and to educate the Sami.</p>
-    <p>
-      <em type="italic">Sami women occupied the Office of the Prime Minister </em>
-    </p>
-    <p>In connection with the fight against the development of the Alta-Kautokeino Watercourse, 15 Sami women occupied the office of Prime Minister Gro Harlem Brundtland. This took place on 6 February 1981. Together with other protest actions during this period, this established the basis for the Act of 12 June 1987 No. 56 relating to the Sameting (the Sami Parliament) and other Sami legal matters (the Sami Act), Article 110a of the Constitution in 1988 (now Article 108) and the establishment of the Sami Parliament in 1989.</p>
-    <p xml:lang="nob">Av</p>
-    <p xml:lang="nno">Janne Hansen</p>
-    <p xml:lang="nno">Publisert 05.02.16</p>
-    <p xml:lang="nno">| Oppdatert 10.03.16</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Janne" lastname="Hansen" sex="unknown" born="" nationality=""/></author><year>2016</year><wordcount>351</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://galdu.custompublish.com/sami-women-paved-the-way-for-the-celebration-of-a-sami-national-day.5841481-353621.html</origFileName><parallel_text xml:lang="nob" location="samiske-kvinner-banet-vei-for-nasjonaldagsfeiring.5808984-353621.html"/><parallel_text xml:lang="sme" location="sami-nissonat-galle-geainnu-sami-albmotbeaivvi-avvudeapmai.5841477-353621.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sami women paved the way for the celebration of a Sami National Day - Gáldu</p>
+<p xml:lang="nob">Hopp til hovedinnholdet på siden</p>
+<p type="title" xml:lang="est">Tema</p>
+<list><p type="listitem" xml:lang="nno">Menneske <list><p type="listitem" xml:lang="nob">Barn</p>
+<p type="listitem" xml:lang="nno">Eldre</p>
+<p type="listitem" xml:lang="deu">Familie</p>
+<p type="listitem" xml:lang="nob">Funksjonshemmede</p>
+<p type="listitem" xml:lang="nob">Kvinner</p>
+<p type="listitem" xml:lang="nno">Ungdom</p>
+</list></p>
+<p type="listitem" xml:lang="isl">Natur</p>
+<p type="listitem" xml:lang="nob">Samfunn</p>
+</list><p xml:lang="sma">Elsa Laula Renberg (1877-1931) ©Saemien Sijte</p>
+<p type="title">Sami women paved the way for the celebration of a Sami National Day</p>
+<p>On Saturday 6 February, we celebrate the Sami National Day. The background for the celebration was the first large Sami national meeting that took place in the Methodist Church in Trondheim on 6 February 1917. Elsa Laula Renberg together with «Brurskanken Samiske kvindeforening» (Sami Women's Association) were the organisers behind this meeting.</p>
+<p>Sami people from both Norway and Sweden participated in the large Sami national meeting in the Methodist Church in Trondheim on 6 February 1917. The organising committee was to a large extent made up of women, and a large share of the participants were women.</p>
+<p>Elsa Laula Renberg (1877-1931) headed the organisation of the meeting. Elsa Laula Renberg was a female pioneer for the political rights of the Sami people and women. Renberg encouraged Sami women in particular to join an association in order to fight injustice and poverty, and to protect the future of their people.</p>
+<p>Elsa Laula Renberg was also the founder of «Brurskanken Samiske Kvindeforening», which was established in Helgeland in the County of Nordland on 5 December 1910. The purpose of the association was to help ensure the establishment of a school for Sami children in Nordland, and to educate the Sami.</p>
+<p><em type="italic">Sami women occupied the Office of the Prime Minister </em></p>
+<p>In connection with the fight against the development of the Alta-Kautokeino Watercourse, 15 Sami women occupied the office of Prime Minister Gro Harlem Brundtland. This took place on 6 February 1981. Together with other protest actions during this period, this established the basis for the Act of 12 June 1987 No. 56 relating to the Sameting (the Sami Parliament) and other Sami legal matters (the Sami Act), Article 110a of the Constitution in 1988 (now Article 108) and the establishment of the Sami Parliament in 1989.</p>
+<p xml:lang="nob">Av</p>
+<p xml:lang="nno">Janne Hansen</p>
+<p xml:lang="nno">Publisert 05.02.16</p>
+<p xml:lang="nno">| Oppdatert 10.03.16</p>
+</body></document>

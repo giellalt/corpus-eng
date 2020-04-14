@@ -1,54 +1,37 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title> Saami Council - Thirty years ago today, the Saami flag was adopted.</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2016</year>
-    <wordcount>275</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.saamicouncil.net/en/article/thirty-years-ago-today-the-saami-flag-was-adopted/</origFileName>
-    <parallel_text xml:lang="sme" location="index_11.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <list>
-      <p type="listitem" xml:lang="kal">   <list><p type="listitem" xml:lang="kal">Saami</p><p type="listitem">English</p><p type="listitem" xml:lang="kal">Finnish</p><p type="listitem">Norwegian</p><p type="listitem">Russian</p></list></p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nob">Home</p>
-      <p type="listitem">Article</p>
-    </list>
-    <p type="title" xml:lang="deu">Archive</p>
-    <list>
-      <p type="listitem">2017 <list><p type="listitem">February 2017 (2 entries)</p></list></p>
-      <p type="listitem">2016 <list><p type="listitem">December 2016 (1 entry)</p><p type="listitem">November 2016 (2 entries)</p><p type="listitem">September 2016 (1 entry)</p><p type="listitem">August 2016 (1 entry)</p><p type="listitem">July 2016 (1 entry)</p><p type="listitem">March 2016 (2 entries)</p></list></p>
-      <p type="listitem">2015 <list><p type="listitem">December 2015 (1 entry)</p><p type="listitem">October 2015 (3 entries)</p></list></p>
-    </list>
-    <p type="title">Thirty years ago today, the Saami flag was adopted.</p>
-    <p xml:lang="nob">News</p>
-    <p>On Augst 15th, 1986, the 13th Saami Conference, held in Åre, Sweden, adopted the Saami flag.</p>
-    <p>The Saami flag is the flag of all Saami, no matter what country they live in.</p>
-    <p>The Saami Council had called for contributions to a competition to adopt a new Saami flag, with a reward of 2,000 FIM to the winning contribution. Rose Marie Huuva, Kaaren Kitti and Máret Sárá were appointed to a Flag Working Group by the Saami Council. Altogether 27 artists submitted 74 contributions, besides the flag designed by Synnøve Persen which had been used so far as an informal flag.</p>
-    <p>The Åre Saami Conference aadopted the flag design submitted by Astrid Båhl. Astrid Båhl comes from Ivgonvuonbahta (Skibotn, Norway). It was based on the flag that had already been used in Sápmi, but the green colour and the ring was added. The designer called the flag "Saami are children of the sun". The red part of the flag symbolizes the sun and the blue part symbolizes the moon.</p>
-    <p>This day is also a Saami national day.</p>
-    <p type="title" xml:lang="est">Related links</p>
-    <list>
-      <p type="listitem">More information about the Saami flag and national days</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title> Saami Council - Thirty years ago today, the Saami flag was adopted.</title><genre code="admin"/><author><unknown/></author><year>2016</year><wordcount>275</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.saamicouncil.net/en/article/thirty-years-ago-today-the-saami-flag-was-adopted/</origFileName><parallel_text xml:lang="sme" location="index_11.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<list><p type="listitem" xml:lang="kal">   <list><p type="listitem" xml:lang="kal">Saami</p>
+<p type="listitem">English</p>
+<p type="listitem" xml:lang="kal">Finnish</p>
+<p type="listitem">Norwegian</p>
+<p type="listitem">Russian</p>
+</list></p>
+</list><list><p type="listitem" xml:lang="nob">Home</p>
+<p type="listitem">Article</p>
+</list><p type="title" xml:lang="deu">Archive</p>
+<list><p type="listitem">2017 <list><p type="listitem">February 2017 (2 entries)</p>
+</list></p>
+<p type="listitem">2016 <list><p type="listitem">December 2016 (1 entry)</p>
+<p type="listitem">November 2016 (2 entries)</p>
+<p type="listitem">September 2016 (1 entry)</p>
+<p type="listitem">August 2016 (1 entry)</p>
+<p type="listitem">July 2016 (1 entry)</p>
+<p type="listitem">March 2016 (2 entries)</p>
+</list></p>
+<p type="listitem">2015 <list><p type="listitem">December 2015 (1 entry)</p>
+<p type="listitem">October 2015 (3 entries)</p>
+</list></p>
+</list><p type="title">Thirty years ago today, the Saami flag was adopted.</p>
+<p xml:lang="nob">News</p>
+<p>On Augst 15th, 1986, the 13th Saami Conference, held in Åre, Sweden, adopted the Saami flag.</p>
+<p>The Saami flag is the flag of all Saami, no matter what country they live in.</p>
+<p>The Saami Council had called for contributions to a competition to adopt a new Saami flag, with a reward of 2,000 FIM to the winning contribution. Rose Marie Huuva, Kaaren Kitti and Máret Sárá were appointed to a Flag Working Group by the Saami Council. Altogether 27 artists submitted 74 contributions, besides the flag designed by Synnøve Persen which had been used so far as an informal flag.</p>
+<p>The Åre Saami Conference aadopted the flag design submitted by Astrid Båhl. Astrid Båhl comes from Ivgonvuonbahta (Skibotn, Norway). It was based on the flag that had already been used in Sápmi, but the green colour and the ring was added. The designer called the flag "Saami are children of the sun". The red part of the flag symbolizes the sun and the blue part symbolizes the moon.</p>
+<p>This day is also a Saami national day.</p>
+<p type="title" xml:lang="est">Related links</p>
+<list><p type="listitem">More information about the Saami flag and national days</p>
+</list></body></document>

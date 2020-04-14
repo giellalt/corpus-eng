@@ -1,65 +1,37 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Concluded in Bergen   - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>816</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=152645</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=152645.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=152645_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="nob">Concluded in Bergen</p>
-    <p>The State Visit from Iceland was concluded today. His Excellency President Guðni Th. Jóhannesson and his wife Ms Eliza Reid were accompanied by His Majesty King Harald during the day’s programme, which centred around the countries’ common marine interests.</p>
-    <p xml:lang="koi">23.03.2017</p>
-    <p>Fish pay little heed to national boundaries. Norway and Iceland are therefore cooperating on research on and management of wild fish stocks such as mackerel, capelin and herring. Sustainable utilisation of marine resources was the focus of today’s programme.</p>
-    <p>There was a snow flurry in Bergen today. Photo: Sven Gj. Gjeruldsen, the Royal Court</p>
-    <p type="title">The blue economy</p>
-    <p>The global population is projected to increase by two billion people in the next few decades. This growth, compounded by climate change, will put serious pressure on the Earth’s resources. The world’s oceans have tremendous potential for production of food, medicine and energy. More knowledge about marine processes and marine life is needed if we are to utilise this potential optimally and sustainably. Accessibility is a challenge in this context. How can we learn more about what happens in the depths of the sea?</p>
-    <p>The first stop on the programme was ViVite Bergen Science Centre and a workshop on marine innovation. Icelandic and Norwegian workshop participants examined various aspects of sustainable value creation based on marine resources, including use of new species and, importantly, utilisation of the entire catch.</p>
-    <p type="title">Mackerel on the move</p>
-    <p>The exploration of marine-based opportunities continued at the Institute of Marine Research, where the main focus was mackerel.</p>
-    <p>Mackerel migrate over a vast area, from the foreshore of Norwegian fjords to far out to sea, and from there to the waters surrounding Iceland and up towards Svalbard. The Institute of Marine Research in Bergen collaborates closely with Icelandic research groups to map the migration of mackerel. By tagging the mackerel, researchers can find out how far the fish swim, over what period of time the fish swim, and whether the individual fish are ultimately caught by an Icelandic or a Norwegian fisherman. The tags are scanned at fish landing centres in Iceland and Norway and facilitate much more precise calculation of the size of the mackerel stock. This is important for long-term management of fisheries resources.</p>
-    <p>King Harald, President Jóhannesson and Ms Reid all tried their hand at tagging mackerel, and the President joked about what fun it was for an Icelander to catch mackerel in Norwegian waters. The fish were released into the fjord later in the day. Some may perhaps make their way to Iceland.</p>
-    <p type="title">Sounds of the sea</p>
-    <p>The King, President Jóhannesson and Ms Reid also had the opportunity to experience the sounds of the sea. The Managing Director of the Institute for Marine Research, Ms Sissel Rogne, invited the guests on an underwater audio tour during which they listened to skrei cod arriving at the Lofoten Islands, whales singing and other underwater sounds. Audio recordings are a type of observation technology used to gather information about fish, whales and other deep-sea animals for use by researchers.</p>
-    <p type="title">History and identity</p>
-    <p>The next stop represented a shift in topic, with a panel discussion at the University of Bergen entitled <span type="quote">“The Use and Abuse of History, National Heritage and Nationalism”</span>. Human migration is not a new phenomenon, and was, for example, widespread in the Middle Ages. President Jóhannesson, who holds a Master’s degree in history, gave a speech entitled <span type="quote">“Icelanders or Norwegians? Leifur, Snorri and the National Identity then and now”</span>.</p>
-    <p>President Guðni Jóhannesson gave a speech at the University of Bergen. Photo: Sven Gj. Gjeruldsen, the Royal Court</p>
-    <p>The President also took part in the panel debate that followed.</p>
-    <p type="title" xml:lang="nob">Luncheon in Håkon’s Hall</p>
-    <p>The Mayor of Bergen, Ms Marte Mjøs Persen, hosted a luncheon in honour of the State Visit. It was held in Håkon’s Hall, a royal residence and banqueting hall erected in the 13th century. Following the luncheon, King Harald, President Jóhannesson and Ms Reid travelled to Troldhaugen, the home of composer Edvard Grieg and his wife Nina.</p>
-    <p type="title" xml:lang="dan">Concluded at Troldhaugen</p>
-    <p>Troldhaugen is located outside of Bergen and is where Edvard Grieg lived and composed many of his works. The villa and grounds have been a museum since 1928, and today incorporate a separate concert hall, Troldsalen.</p>
-    <p>In addition to a general introduction to Grieg and Troldhaugen, the King and the President and First Lady were treated to a short voice and piano concert featuring soprano Lydia Hoen Tjore and pianist Ingrid Andsnes, who performed five of Grieg’s pieces.</p>
-    <p>The guests were treated to a short concert at Troldhaugen. Photo: Sven Gj. Gjeruldsen, the Royal Court.</p>
-    <p>The visit to Troldhaugen concluded the three-day State Visit from Iceland.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">State Visit from Iceland (News article)</p>
-      <p type="listitem">Start-ups and saga literature (News article)</p>
-    </list>
-    <list>
-      <p type="listitem">Norwegian Institute of Marine Research</p>
-      <p type="listitem" xml:lang="nob">Bergen Science Centre - vilvite.no</p>
-      <p type="listitem" xml:lang="nob">Grieg Museum - Troldhaugen</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Concluded in Bergen   - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>811</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=152645</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=152645.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=152645_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="nob">Concluded in Bergen</p>
+<p>The State Visit from Iceland was concluded today. His Excellency President Guðni Th. Jóhannesson and his wife Ms Eliza Reid were accompanied by His Majesty King Harald during the day’s programme, which centred around the countries’ common marine interests.</p>
+<p xml:lang="vep">23.03.2017</p>
+<p>Fish pay little heed to national boundaries. Norway and Iceland are therefore cooperating on research on and management of wild fish stocks such as mackerel, capelin and herring. Sustainable utilisation of marine resources was the focus of today’s programme.</p>
+<p>There was a snow flurry in Bergen today. Photo: Sven Gj. Gjeruldsen, the Royal Court</p>
+<p type="title">The blue economy</p>
+<p>The global population is projected to increase by two billion people in the next few decades. This growth, compounded by climate change, will put serious pressure on the Earth’s resources. The world’s oceans have tremendous potential for production of food, medicine and energy. More knowledge about marine processes and marine life is needed if we are to utilise this potential optimally and sustainably. Accessibility is a challenge in this context. How can we learn more about what happens in the depths of the sea?</p>
+<p>The first stop on the programme was ViVite Bergen Science Centre and a workshop on marine innovation. Icelandic and Norwegian workshop participants examined various aspects of sustainable value creation based on marine resources, including use of new species and, importantly, utilisation of the entire catch.</p>
+<p type="title">Mackerel on the move</p>
+<p>The exploration of marine-based opportunities continued at the Institute of Marine Research, where the main focus was mackerel.</p>
+<p>Mackerel migrate over a vast area, from the foreshore of Norwegian fjords to far out to sea, and from there to the waters surrounding Iceland and up towards Svalbard. The Institute of Marine Research in Bergen collaborates closely with Icelandic research groups to map the migration of mackerel. By tagging the mackerel, researchers can find out how far the fish swim, over what period of time the fish swim, and whether the individual fish are ultimately caught by an Icelandic or a Norwegian fisherman. The tags are scanned at fish landing centres in Iceland and Norway and facilitate much more precise calculation of the size of the mackerel stock. This is important for long-term management of fisheries resources.</p>
+<p>King Harald, President Jóhannesson and Ms Reid all tried their hand at tagging mackerel, and the President joked about what fun it was for an Icelander to catch mackerel in Norwegian waters. The fish were released into the fjord later in the day. Some may perhaps make their way to Iceland.</p>
+<p type="title">Sounds of the sea</p>
+<p>The King, President Jóhannesson and Ms Reid also had the opportunity to experience the sounds of the sea. The Managing Director of the Institute for Marine Research, Ms Sissel Rogne, invited the guests on an underwater audio tour during which they listened to skrei cod arriving at the Lofoten Islands, whales singing and other underwater sounds. Audio recordings are a type of observation technology used to gather information about fish, whales and other deep-sea animals for use by researchers.</p>
+<p type="title">History and identity</p>
+<p>The next stop represented a shift in topic, with a panel discussion at the University of Bergen entitled <span type="quote">“The Use and Abuse of History, National Heritage and Nationalism”</span>. Human migration is not a new phenomenon, and was, for example, widespread in the Middle Ages. President Jóhannesson, who holds a Master’s degree in history, gave a speech entitled <span type="quote">“Icelanders or Norwegians? Leifur, Snorri and the National Identity then and now”</span>.</p>
+<p>President Guðni Jóhannesson gave a speech at the University of Bergen. Photo: Sven Gj. Gjeruldsen, the Royal Court</p>
+<p>The President also took part in the panel debate that followed.</p>
+<p type="title" xml:lang="nob">Luncheon in Håkon’s Hall</p>
+<p>The Mayor of Bergen, Ms Marte Mjøs Persen, hosted a luncheon in honour of the State Visit. It was held in Håkon’s Hall, a royal residence and banqueting hall erected in the 13th century. Following the luncheon, King Harald, President Jóhannesson and Ms Reid travelled to Troldhaugen, the home of composer Edvard Grieg and his wife Nina.</p>
+<p type="title">Concluded at Troldhaugen</p>
+<p>Troldhaugen is located outside of Bergen and is where Edvard Grieg lived and composed many of his works. The villa and grounds have been a museum since 1928, and today incorporate a separate concert hall, Troldsalen.</p>
+<p>In addition to a general introduction to Grieg and Troldhaugen, the King and the President and First Lady were treated to a short voice and piano concert featuring soprano Lydia Hoen Tjore and pianist Ingrid Andsnes, who performed five of Grieg’s pieces.</p>
+<p>The guests were treated to a short concert at Troldhaugen. Photo: Sven Gj. Gjeruldsen, the Royal Court.</p>
+<p>The visit to Troldhaugen concluded the three-day State Visit from Iceland.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">State Visit from Iceland (News article)</p>
+<p type="listitem">Start-ups and saga literature (News article)</p>
+</list><list><p type="listitem">Norwegian Institute of Marine Research</p>
+<p type="listitem" xml:lang="nob">Bergen Science Centre - vilvite.no</p>
+<p type="listitem" xml:lang="nob">Grieg Museum - Troldhaugen</p>
+</list></body></document>

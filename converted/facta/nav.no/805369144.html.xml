@@ -1,109 +1,71 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>NAV - Stay in Norway - </title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>1364</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://www.nav.no/English/Stay+in+Norway/805369144.cms</origFileName>
-    <parallel_text xml:lang="nno" location="805322311.html"/>
-    <parallel_text xml:lang="nob" location="foreldrepenger_ved_adopsjon.html"/>
-    <parallel_text xml:lang="sme" location="229397.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Parental benefit on adoption</p>
-    <p>The purpose of parental benefit is to ensure income for parents in connection with adoption. The legislation was amended with effect from 1 July 2009, and now the length of the benefit period varies, depending on whether care was assumed before 1 July or after 30 June 2009.</p>
-    <p type="title">Who can receive parental benefit?</p>
-    <p>You can receive parental benefit if you have been occupationally active and have had a pensionable income for at least six of the last ten months before the benefit period commences. Your annual income must be at least half of the national insurance basic amount (<span type="quote" xml:lang="smj">“G”</span>). Equivalent to work are also periods during which you have received:</p>
-    <list>
-      <p type="listitem">sickness benefit</p>
-      <p type="listitem">parental benefit on birth or adoption</p>
-      <p type="listitem">pregnancy benefit</p>
-      <p type="listitem">care benefit in connection with the child or the person who usually minds the child being sick</p>
-      <p type="listitem">attendance allowance or training allowance</p>
-      <p type="listitem">unemployment benefit</p>
-      <p type="listitem">work assessment allowance</p>
-    </list>
-    <p>Other circumstances may also be regarded as equivalent to being occupationally active, i.e. working, including:</p>
-    <list>
-      <p type="listitem">receiving pay from your employer whilst undergoing training</p>
-      <p type="listitem">severance pay</p>
-      <p type="listitem">doing military or civil conscript service or mandatory civil defence service</p>
-    </list>
-    <p type="title">How much will you receive?</p>
-    <p>You will not receive benefit for that part of your income that exceeds six times the national insurance basic amount (<span type="quote" xml:lang="smj">“G”</span>).</p>
-    <p>If you are employed, parental benefit is usually calculated on the basis of your income at the time your leave starts. However, NAV assesses each case individually.</p>
-    <p>Employees are also entitled to holiday pay from their parental leave. Together parents receive holiday pay for the first 12 weeks if you choose to receive 100 per cent parental benefit. If only the mother takes leave for the first 12 weeks, only she will receive holiday pay. If you have opted to receive 80 per cent of your parental benefit (over a longer period of leave), you will receive holiday pay for the first 15 weeks. If only one parent is employed, this parent will receive all the holiday pay.</p>
-    <p>If you are self-employed or freelance, parental benefit is calculated on the basis of the mean of your pensionable income for the last three years. However, NAV assesses each case individually.</p>
-    <p>Use our Parental benefit guide to calculate how much parental benefit you will receive.</p>
-    <p type="title">For how long will you receive parental benefit?</p>
-    <p>If you assumed care of the child on or after 1 July 2009, you can receive 100 per cent parental benefit for a period of 43 weeks or 80 per cent benefit for a period of 53 weeks. If care of the child was assumed before 1 July 2009, parental leave with pay lasts either 41 weeks (100 per cent) or 51 weeks (80 per cent pay).</p>
-    <p>It is up to you to decide if you want to receive 100 per cent of your benefit for a shorter period or 80 per cent of your benefit for a longer period. Your choice will apply to the whole period and both parents. One week is five benefit days; benefit is not paid for Saturdays and Sundays.</p>
-    <p>Please note that the overall amount you will receive for your entire period of parental leave will be slightly lower if you choose to receive 80 per cent benefit over a longer period than if you choose 100 per cent parental leave.</p>
-    <p>The benefit period can be postponed due to statutory holiday (but not holiday determined by a collective agreement if you or the child are admitted to a health institution, or if you are in full-time work.</p>
-    <p>If the father wants to postpone taking his paternal quota , he must submit a claim for this before the benefit period that is not the paternal quota (the shared weeks) comes to an end.</p>
-    <p>Parental benefit is not granted if more than three years have passed since care was assumed. The child must be younger than 15 years of age for the parents to be entitled to parental benefit. Parental benefit is not paid in connection with adoption of your spouse’s children.</p>
-    <p type="title">Combination of part-time work and partial parental benefit (graduated parental benefit)</p>
-    <p>You can choose to receive graduated parental benefit , whereby you receive partial parental benefit and work part-time. The period during which you receive parental benefit is then extended as you receive less benefit per day over a longer period of time. The amount of benefit you receive altogether will be the same as if you had not chosen to receive graduated parental benefit.</p>
-    <p type="title">Distribution of benefit weeks between the mother and the father</p>
-    <p>Ten weeks of the paid parental leave are reserved for the father (known as the paternal quota or paternity leave). If care of the child was assumed before 1 July 2009, the paternal quota is six weeks. The remaining benefit weeks can be shared between the parents. Read more about this in the article Benefit period for parental benefit under Related information in the menu to the right.</p>
-    <p>If the father is going to receive parental benefit beyond that earmarked for father (the paternal quota), please note that special rules apply and conditions are set to the mother. Read more about this in the article Parental benefit for father in connection with birth and adoption under Related information in the menu to the right.</p>
-    <p>If you have another child before the benefit period for the first child has been used up, you lose the right to receive benefit for any remaining weeks for the first child. However, you are entitled to a full period of parental benefit for the new child.</p>
-    <p type="title">How do you apply?</p>
-    <p>You must submit a written application for parental benefit. This applies even if you receive full pay from your employer during the benefit period. Submit your claim using the application form <span type="quote">“ Application for parental benefit/Lump sum benefit in connection with birth and adoption ”</span>, which is available under the heading Forms and enclosures in the menu to the right. Here there is also information about what documents need to be submitted with your claim for parental benefit .</p>
-    <p>In order for NAV to be able to calculate how much benefit you are entitled to, your employer must also fill in the form "Inntektsopplysninger for arbeidstaker (Income information for employees)- NAV 08-30.01 . Your employer must also complete the form <span type="quote" xml:lang="dan">“Trekkopplysninger”</span> (Deductions) – NAV 08-30.02 if you as an employee have a deduction from earnings order and NAV is going to pay parental benefit to you directly.</p>
-    <p>If your employer pays you your full pay during your leave and ticks the box for this on the income and tax information form and also ticks the box that he / she wants the parental benefit paid to them, this is regarded as your employer submitting a claim for reimbursement from the national insurance. However, you as the employee must still submit a separate claim for parental benefit in order for your employer to be reimbursed.</p>
-    <p>Benefit cannot be paid out for more than three months before the date on which the claim was submitted. This is calculated from the date of the last claim submitted by you or your employer. If one of you submits your claim later, payment will be reduced correspondingly.</p>
-    <p>Submit your application to your NAV office.</p>
-    <p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian.</p>
-    <p type="title">Payment dates</p>
-    <p type="title">Parental benefit and pregnancy benefit</p>
-    <p>Payments dates for 2010</p>
-    <p xml:lang="fkv">Jan</p>
-    <p xml:lang="deu">Feb</p>
-    <p xml:lang="nob">Mar</p>
-    <p xml:lang="nob">Apr</p>
-    <p>May</p>
-    <p xml:lang="nno">June</p>
-    <p>July</p>
-    <p xml:lang="est">Aug</p>
-    <p xml:lang="nno">Sep</p>
-    <p>Oct</p>
-    <p xml:lang="smn">Nov</p>
-    <p xml:lang="dan">Dec</p>
-    <p>13*, 25, 27 and 29</p>
-    <p>3*, 15*, 24 and 25</p>
-    <p>1*, 3*, 15*, 24, 26 and 31</p>
-    <p>8*, 14*, 23, 28 and 30</p>
-    <p>5*, 14*, 25 and 28</p>
-    <p>1*, 3*, 15*, 23, 25 and 30</p>
-    <p>5*, 14*, 23, 28 and 30</p>
-    <p>4*, 13*, 25 and 27</p>
-    <p>1*, 3*, 15*, 23, 28 and 30</p>
-    <p>5*, 13*, 25, 27 and 29</p>
-    <p>1*, 3*, 9*, 15, 17, 21 and 23</p>
-    <p>1*, 3*, 9*, 15, 17, 21 and 23</p>
-    <p>The payment dates for sickness benefit and parental / pregnancy benefit marked with an asterisk (*) pertain to payment for the previous month.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>NAV - Stay in Norway - </title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>1364</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><multilingual/><origFileName>http://www.nav.no/English/Stay+in+Norway/805369144.cms</origFileName><parallel_text xml:lang="nno" location="805322311.html"/><parallel_text xml:lang="nob" location="foreldrepenger_ved_adopsjon.html"/><parallel_text xml:lang="sme" location="229397.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Parental benefit on adoption</p>
+<p>The purpose of parental benefit is to ensure income for parents in connection with adoption. The legislation was amended with effect from 1 July 2009, and now the length of the benefit period varies, depending on whether care was assumed before 1 July or after 30 June 2009.</p>
+<p type="title">Who can receive parental benefit?</p>
+<p>You can receive parental benefit if you have been occupationally active and have had a pensionable income for at least six of the last ten months before the benefit period commences. Your annual income must be at least half of the national insurance basic amount (<span type="quote" xml:lang="smj">“G”</span>). Equivalent to work are also periods during which you have received:</p>
+<list><p type="listitem">sickness benefit</p>
+<p type="listitem">parental benefit on birth or adoption</p>
+<p type="listitem">pregnancy benefit</p>
+<p type="listitem">care benefit in connection with the child or the person who usually minds the child being sick</p>
+<p type="listitem">attendance allowance or training allowance</p>
+<p type="listitem">unemployment benefit</p>
+<p type="listitem">work assessment allowance</p>
+</list><p>Other circumstances may also be regarded as equivalent to being occupationally active, i.e. working, including:</p>
+<list><p type="listitem">receiving pay from your employer whilst undergoing training</p>
+<p type="listitem">severance pay</p>
+<p type="listitem">doing military or civil conscript service or mandatory civil defence service</p>
+</list><p type="title">How much will you receive?</p>
+<p>You will not receive benefit for that part of your income that exceeds six times the national insurance basic amount (<span type="quote" xml:lang="smj">“G”</span>).</p>
+<p>If you are employed, parental benefit is usually calculated on the basis of your income at the time your leave starts. However, NAV assesses each case individually.</p>
+<p>Employees are also entitled to holiday pay from their parental leave. Together parents receive holiday pay for the first 12 weeks if you choose to receive 100 per cent parental benefit. If only the mother takes leave for the first 12 weeks, only she will receive holiday pay. If you have opted to receive 80 per cent of your parental benefit (over a longer period of leave), you will receive holiday pay for the first 15 weeks. If only one parent is employed, this parent will receive all the holiday pay.</p>
+<p>If you are self-employed or freelance, parental benefit is calculated on the basis of the mean of your pensionable income for the last three years. However, NAV assesses each case individually.</p>
+<p>Use our Parental benefit guide to calculate how much parental benefit you will receive.</p>
+<p type="title">For how long will you receive parental benefit?</p>
+<p>If you assumed care of the child on or after 1 July 2009, you can receive 100 per cent parental benefit for a period of 43 weeks or 80 per cent benefit for a period of 53 weeks. If care of the child was assumed before 1 July 2009, parental leave with pay lasts either 41 weeks (100 per cent) or 51 weeks (80 per cent pay).</p>
+<p>It is up to you to decide if you want to receive 100 per cent of your benefit for a shorter period or 80 per cent of your benefit for a longer period. Your choice will apply to the whole period and both parents. One week is five benefit days; benefit is not paid for Saturdays and Sundays.</p>
+<p>Please note that the overall amount you will receive for your entire period of parental leave will be slightly lower if you choose to receive 80 per cent benefit over a longer period than if you choose 100 per cent parental leave.</p>
+<p>The benefit period can be postponed due to statutory holiday (but not holiday determined by a collective agreement if you or the child are admitted to a health institution, or if you are in full-time work.</p>
+<p>If the father wants to postpone taking his paternal quota , he must submit a claim for this before the benefit period that is not the paternal quota (the shared weeks) comes to an end.</p>
+<p>Parental benefit is not granted if more than three years have passed since care was assumed. The child must be younger than 15 years of age for the parents to be entitled to parental benefit. Parental benefit is not paid in connection with adoption of your spouse’s children.</p>
+<p type="title">Combination of part-time work and partial parental benefit (graduated parental benefit)</p>
+<p>You can choose to receive graduated parental benefit , whereby you receive partial parental benefit and work part-time. The period during which you receive parental benefit is then extended as you receive less benefit per day over a longer period of time. The amount of benefit you receive altogether will be the same as if you had not chosen to receive graduated parental benefit.</p>
+<p type="title">Distribution of benefit weeks between the mother and the father</p>
+<p>Ten weeks of the paid parental leave are reserved for the father (known as the paternal quota or paternity leave). If care of the child was assumed before 1 July 2009, the paternal quota is six weeks. The remaining benefit weeks can be shared between the parents. Read more about this in the article Benefit period for parental benefit under Related information in the menu to the right.</p>
+<p>If the father is going to receive parental benefit beyond that earmarked for father (the paternal quota), please note that special rules apply and conditions are set to the mother. Read more about this in the article Parental benefit for father in connection with birth and adoption under Related information in the menu to the right.</p>
+<p>If you have another child before the benefit period for the first child has been used up, you lose the right to receive benefit for any remaining weeks for the first child. However, you are entitled to a full period of parental benefit for the new child.</p>
+<p type="title">How do you apply?</p>
+<p>You must submit a written application for parental benefit. This applies even if you receive full pay from your employer during the benefit period. Submit your claim using the application form <span type="quote">“ Application for parental benefit/Lump sum benefit in connection with birth and adoption ”</span>, which is available under the heading Forms and enclosures in the menu to the right. Here there is also information about what documents need to be submitted with your claim for parental benefit .</p>
+<p>In order for NAV to be able to calculate how much benefit you are entitled to, your employer must also fill in the form "Inntektsopplysninger for arbeidstaker (Income information for employees)- NAV 08-30.01 . Your employer must also complete the form <span type="quote" xml:lang="dan">“Trekkopplysninger”</span> (Deductions) – NAV 08-30.02 if you as an employee have a deduction from earnings order and NAV is going to pay parental benefit to you directly.</p>
+<p>If your employer pays you your full pay during your leave and ticks the box for this on the income and tax information form and also ticks the box that he / she wants the parental benefit paid to them, this is regarded as your employer submitting a claim for reimbursement from the national insurance. However, you as the employee must still submit a separate claim for parental benefit in order for your employer to be reimbursed.</p>
+<p>Benefit cannot be paid out for more than three months before the date on which the claim was submitted. This is calculated from the date of the last claim submitted by you or your employer. If one of you submits your claim later, payment will be reduced correspondingly.</p>
+<p>Submit your application to your NAV office.</p>
+<p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian.</p>
+<p type="title">Payment dates</p>
+<p type="title">Parental benefit and pregnancy benefit</p>
+<p>Payments dates for 2010</p>
+<p xml:lang="smj">Jan</p>
+<p xml:lang="deu">Feb</p>
+<p xml:lang="nob">Mar</p>
+<p xml:lang="nob">Apr</p>
+<p>May</p>
+<p xml:lang="nno">June</p>
+<p>July</p>
+<p xml:lang="est">Aug</p>
+<p xml:lang="nno">Sep</p>
+<p>Oct</p>
+<p xml:lang="smn">Nov</p>
+<p xml:lang="dan">Dec</p>
+<p>13*, 25, 27 and 29</p>
+<p>3*, 15*, 24 and 25</p>
+<p>1*, 3*, 15*, 24, 26 and 31</p>
+<p>8*, 14*, 23, 28 and 30</p>
+<p>5*, 14*, 25 and 28</p>
+<p>1*, 3*, 15*, 23, 25 and 30</p>
+<p>5*, 14*, 23, 28 and 30</p>
+<p>4*, 13*, 25 and 27</p>
+<p>1*, 3*, 15*, 23, 28 and 30</p>
+<p>5*, 13*, 25, 27 and 29</p>
+<p>1*, 3*, 9*, 15, 17, 21 and 23</p>
+<p>1*, 3*, 9*, 15, 17, 21 and 23</p>
+<p>The payment dates for sickness benefit and parental / pregnancy benefit marked with an asterisk (*) pertain to payment for the previous month.</p>
+</body></document>

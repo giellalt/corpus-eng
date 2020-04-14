@@ -1,109 +1,64 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Ráđđehus.no - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Government.no" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2006</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>337</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/en.html?id=4</origFileName>
-    <parallel_text xml:lang="nno" location="nn_id_4.html"/>
-    <parallel_text xml:lang="nob" location="nb_id_4.html"/>
-    <parallel_text xml:lang="sme" location="se_id_4.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Government.no - regjeringen.no</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p type="title">Foreign Minister Brende: ‘Norway likely to align itself with EU’s new restrictive measures against Russia’</p>
-    <p>‘The EU’s new restrictive measures against Russia reflect the gravity of the deteriorating situation in Ukraine. Norway will study the measures closely. Given the important foreign policy considerations involved, there is good reason for Norway to align itself with the new measures. We will consult the Storting before a final decision is taken,’ said Minister of Foreign Affairs Børge Brende.</p>
-    <p xml:lang="nno"></p>
-    <p>Minister of Foreign Affairs Børge Brende</p>
-    <p xml:lang="nno"></p>
-    <p type="title">The threat against Norway is downgraded</p>
-    <p>The Norwegian Police Security Service (PST) states that the threat level in Norway is on the way back to where it was when they presented their threat assessment in February 2014. (Ministry of Justice and Public Security, 31.07.2014)</p>
-    <p type="title" xml:lang="vep">MORE NEWS</p>
-    <p>Foreign Minister Brende concerned about South Sudan peace talks</p>
-    <p>(Ministry of Foreign Affairs, 05.08.2014)</p>
-    <p>Final effort to reach the Millennium Development Goals</p>
-    <p>(The Office of the Prime Minister, 03.07.2014)</p>
-    <p>All news</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Celebrating the Constitution abroad</p>
-    <p>Nearly 150 different events to celebrate the bicentenary of the Norwegian Constitution will be held by our missions abroad in 2014.</p>
-    <p>See more about the celebration at the Storting's web site (the Parliament)</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Fields of responsibility in Erna Solberg’s government</p>
-    <p>Erna Solberg’s Government was appointed by the King in a session of the Council of State on 16 October 2013. It represents the Conservative Party (C) and the Progress Party (PrP).</p>
-    <p>Members of the Government</p>
-    <p type="title" xml:lang="vep">WHATS NEW</p>
-    <list>
-      <p type="listitem" xml:lang="nob">News</p>
-      <p type="listitem">Calendar</p>
-      <p type="listitem">Speeches and articles</p>
-    </list>
-    <p type="title" xml:lang="deu">WEBCAST</p>
-    <p type="title" xml:lang="deu">DOCUMENTS</p>
-    <list>
-      <p type="listitem">Draft resolutions, bills and white papers</p>
-      <p type="listitem">Acts and regulations</p>
-      <p type="listitem" xml:lang="ron">Circular</p>
-      <p type="listitem">Official Norwegian Reports</p>
-      <p type="listitem">Reports and plans</p>
-      <p type="listitem">Guidelines and brochures</p>
-    </list>
-    <p type="title" xml:lang="deu">DOCUMENT ARCHIVE</p>
-    <p type="title" xml:lang="deu">USEFUL PAGES</p>
-    <list>
-      <p type="listitem" xml:lang="isl">Altinn</p>
-      <p type="listitem">Norway.no</p>
-      <p type="listitem">Storting (Norwegian Parliament)</p>
-    </list>
-    <p type="title" xml:lang="vep">TOPICS</p>
-    <list>
-      <p type="listitem">Business and industry</p>
-      <p type="listitem">Civil protection and defence</p>
-      <p type="listitem">Consumers</p>
-      <p type="listitem">Culture, leisure and belief systems</p>
-      <p type="listitem">Education and research</p>
-      <p type="listitem">Energy</p>
-      <p type="listitem">Equality</p>
-      <p type="listitem">Families and upbringing</p>
-      <p type="listitem">Food, fisheries and agriculture</p>
-      <p type="listitem">Health and care</p>
-      <p type="listitem">Housing and property</p>
-    </list>
-    <list>
-      <p type="listitem">Immigration and social inclusion</p>
-      <p type="listitem">Indigenous peoples and minorities</p>
-      <p type="listitem">International relations</p>
-      <p type="listitem">Labour and welfare</p>
-      <p type="listitem">Law and order</p>
-      <p type="listitem">Municipalities and regions</p>
-      <p type="listitem">Public administration</p>
-      <p type="listitem">The economy</p>
-      <p type="listitem">The environment</p>
-      <p type="listitem">Transport and communications</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Ráđđehus.no - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Government.no" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2006</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>337</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/en.html?id=4</origFileName><parallel_text xml:lang="nno" location="nn_id_4.html"/><parallel_text xml:lang="nob" location="nb_id_4.html"/><parallel_text xml:lang="sme" location="se_id_4.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Government.no - regjeringen.no</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Foreign Minister Brende: ‘Norway likely to align itself with EU’s new restrictive measures against Russia’</p>
+<p>‘The EU’s new restrictive measures against Russia reflect the gravity of the deteriorating situation in Ukraine. Norway will study the measures closely. Given the important foreign policy considerations involved, there is good reason for Norway to align itself with the new measures. We will consult the Storting before a final decision is taken,’ said Minister of Foreign Affairs Børge Brende.</p>
+<p xml:lang="swe"></p>
+<p>Minister of Foreign Affairs Børge Brende</p>
+<p xml:lang="swe"></p>
+<p type="title">The threat against Norway is downgraded</p>
+<p>The Norwegian Police Security Service (PST) states that the threat level in Norway is on the way back to where it was when they presented their threat assessment in February 2014. (Ministry of Justice and Public Security, 31.07.2014)</p>
+<p type="title" xml:lang="vep">MORE NEWS</p>
+<p>Foreign Minister Brende concerned about South Sudan peace talks</p>
+<p>(Ministry of Foreign Affairs, 05.08.2014)</p>
+<p>Final effort to reach the Millennium Development Goals</p>
+<p>(The Office of the Prime Minister, 03.07.2014)</p>
+<p>All news</p>
+<p xml:lang="swe"></p>
+<p type="title">Celebrating the Constitution abroad</p>
+<p>Nearly 150 different events to celebrate the bicentenary of the Norwegian Constitution will be held by our missions abroad in 2014.</p>
+<p>See more about the celebration at the Storting's web site (the Parliament)</p>
+<p xml:lang="swe"></p>
+<p type="title">Fields of responsibility in Erna Solberg’s government</p>
+<p>Erna Solberg’s Government was appointed by the King in a session of the Council of State on 16 October 2013. It represents the Conservative Party (C) and the Progress Party (PrP).</p>
+<p>Members of the Government</p>
+<p type="title" xml:lang="vep">WHATS NEW</p>
+<list><p type="listitem" xml:lang="nob">News</p>
+<p type="listitem">Calendar</p>
+<p type="listitem">Speeches and articles</p>
+</list><p type="title" xml:lang="deu">WEBCAST</p>
+<p type="title" xml:lang="nob">DOCUMENTS</p>
+<list><p type="listitem">Draft resolutions, bills and white papers</p>
+<p type="listitem">Acts and regulations</p>
+<p type="listitem" xml:lang="ron">Circular</p>
+<p type="listitem">Official Norwegian Reports</p>
+<p type="listitem">Reports and plans</p>
+<p type="listitem">Guidelines and brochures</p>
+</list><p type="title" xml:lang="deu">DOCUMENT ARCHIVE</p>
+<p type="title" xml:lang="deu">USEFUL PAGES</p>
+<list><p type="listitem" xml:lang="isl">Altinn</p>
+<p type="listitem">Norway.no</p>
+<p type="listitem">Storting (Norwegian Parliament)</p>
+</list><p type="title" xml:lang="vep">TOPICS</p>
+<list><p type="listitem">Business and industry</p>
+<p type="listitem">Civil protection and defence</p>
+<p type="listitem">Consumers</p>
+<p type="listitem">Culture, leisure and belief systems</p>
+<p type="listitem">Education and research</p>
+<p type="listitem">Energy</p>
+<p type="listitem">Equality</p>
+<p type="listitem">Families and upbringing</p>
+<p type="listitem">Food, fisheries and agriculture</p>
+<p type="listitem">Health and care</p>
+<p type="listitem">Housing and property</p>
+</list><list><p type="listitem">Immigration and social inclusion</p>
+<p type="listitem">Indigenous peoples and minorities</p>
+<p type="listitem">International relations</p>
+<p type="listitem">Labour and welfare</p>
+<p type="listitem">Law and order</p>
+<p type="listitem">Municipalities and regions</p>
+<p type="listitem">Public administration</p>
+<p type="listitem">The economy</p>
+<p type="listitem">The environment</p>
+<p type="listitem">Transport and communications</p>
+</list></body></document>

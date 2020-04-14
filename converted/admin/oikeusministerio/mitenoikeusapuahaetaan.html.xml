@@ -1,35 +1,11 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>How to apply for legal aid - 
+<document xml:lang="eng" id="no_id"><header><title>How to apply for legal aid - 
 	Oikeus.fi
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2014</year>
-    <wordcount>292</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://oikeus.fi/en/index/esitteet/oikeusapu/mitenoikeusapuahaetaan.html</origFileName>
-    <parallel_text xml:lang="fin" location="mitenoikeusapuahaetaan.html"/>
-    <parallel_text xml:lang="sme" location="movuoigatvuo273aveahkkiohccojuvvo.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Information on Legal Aid</p>
-    <p type="title">How to apply for legal aid</p>
-    <p>Legal aid is always applied for from a state legal aid office. The application can be filed with any of the legal aid offices, regardless of where the applicant lives. In most cases, the client's first contact is to the attorney of choice, who then draws up the application for legal aid.</p>
-    <p>Legal aid can be applied for on the Internet. The electronic Legal Aid Application Form can be found in at www.oikeus.fi under the heading Legal Aid.</p>
-    <p>The application can be filed in writing or orally. The application form is accessible on the Finnish judicial web portal www.oikeus.fi under the link <em type="italic">Lomakkeita </em>. The form can also be obtained from legal aid offices, courthouses, law offices and legal counselling offices. </p>
-    <p>The applicant must present evidence of his or her financial circumstances and of the matter for which legal aid is being sought. The income and expenses of the applicant, as well as his or her assets and liabilities, are to be accounted for by way of receipts or other documentation. The necessary information can usually be found in bank account statements, wage sheets, tax receipts or e.g. from a social welfare decision. The correctness of the information submitted electronically is verified by spot checks.</p>
-    <p>The legal aid office has the right to contact the authorities and insurance companies so as to check the information that the applicant has provided on his or her financial circumstances. Also banks are under the obligation to give the legal aid office the assistance it needs, if there is reason to doubt the reliability of the information by the applicant. If bank information will be requested, the applicant must be notified in advance of the request.</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2014</year><wordcount>292</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/en/index/esitteet/oikeusapu/mitenoikeusapuahaetaan.html</origFileName><parallel_text xml:lang="fin" location="mitenoikeusapuahaetaan.html"/><parallel_text xml:lang="sme" location="movuoigatvuo273aveahkkiohccojuvvo.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Information on Legal Aid</p>
+<p type="title">How to apply for legal aid</p>
+<p>Legal aid is always applied for from a state legal aid office. The application can be filed with any of the legal aid offices, regardless of where the applicant lives. In most cases, the client's first contact is to the attorney of choice, who then draws up the application for legal aid.</p>
+<p>Legal aid can be applied for on the Internet. The electronic Legal Aid Application Form can be found in at www.oikeus.fi under the heading Legal Aid.</p>
+<p>The application can be filed in writing or orally. The application form is accessible on the Finnish judicial web portal www.oikeus.fi under the link <em type="italic">Lomakkeita </em>. The form can also be obtained from legal aid offices, courthouses, law offices and legal counselling offices. </p>
+<p>The applicant must present evidence of his or her financial circumstances and of the matter for which legal aid is being sought. The income and expenses of the applicant, as well as his or her assets and liabilities, are to be accounted for by way of receipts or other documentation. The necessary information can usually be found in bank account statements, wage sheets, tax receipts or e.g. from a social welfare decision. The correctness of the information submitted electronically is verified by spot checks.</p>
+<p>The legal aid office has the right to contact the authorities and insurance companies so as to check the information that the applicant has provided on his or her financial circumstances. Also banks are under the obligation to give the legal aid office the assistance it needs, if there is reason to doubt the reliability of the information by the applicant. If bank information will be requested, the applicant must be notified in advance of the request.</p>
+</body></document>

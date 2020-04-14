@@ -1,51 +1,25 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>From Berliner to Buick   - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>617</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=115905</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=115905.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=115905_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">From Berliner to Buick</p>
-    <p>On Monday, 3 June, Their Majesties The King and Queen attended the opening of the exhibition entitled From Berliner to Buick in Trondheim. On display are some of the vehicles from the Royal Palaces fleet from the years 1905 to 1940.</p>
-    <p xml:lang="koi">03.06.2013</p>
-    <p>It is the final exhibition in the series The Royal Journey" which is the Norwegian Governments gift to King Harald and Queen Sonja in honour of their 75th birthdays in 2012.</p>
-    <p type="title">A unique collection</p>
-    <p>When King Haakon and Queen Maud took up residence in the Royal Palace in 1905 as Norways new Royal Family, there were no carriages or horses; none were left behind after the dissolution of the union between Norway and Sweden. The empty stables had to be filled, and vehicles for gala events, official occasions and private use had to be acquired. Nineteen carriages and seven sleds have been preserved, representing a unique collection in Norway. Several of these carriages are now on display at the Dora Kulturbunker archive centre in Trondheim.</p>
-    <p>Several of the Royal Familys oldest automobiles are also featured in the exhibition, whose centrepiece is the elaborate coronation carriage from 1906. Manufactured by O. Sørensens carriage factory in Christiania (now Oslo), the coach showcases the finest Norwegian craftsmanship. The small sled given to Crown Prince Olav by the schoolchildren of Trondheim in honour of his third birthday is on display for the first time.</p>
-    <p type="title">Very early electric car</p>
-    <p>Among the automobiles viewed by the King and Queen was a toy car given to Crown Prince Olav by his grandmother, Queen Alexandra of England, in 1912. The car is a 1:3 scale Cadillac Roadster and was one of three to be manufactured to promote the worlds first electric starter motor at the Worlds Fair in London that same year. The little Cadillac could drive 15 miles before the batteries had to be recharged.</p>
-    <p type="title">Journeys</p>
-    <p>Then, as now, journeys throughout the country comprised an important part of the Royal Familys life. The exhibition follows King Haakon, Queen Maud and Crown Prince Olav on their first major trip through Norway: the coronation journey in the summer of 1906. The Royal Family travelled through the Gudbrandsdal valley by train, over the Dovre mountains and down to the Romsdal valley by horse and carriage, and from Åndalsnes along the coastline to Trondheim on board the Royal Yacht <em type="italic">Norge </em>. Queen Maud was a talented and avid photographer, and her photographs are used to illustrate the story. </p>
-    <p>Norwegian Minister of Culture Hadia Tajik undertook the official opening of the exhibition, after which King Harald and Queen Sonja were given a guided tour by Suzette Paasche, CEO of the Museums of South-Trøndelag, and project manager Sissel Guttormsen.</p>
-    <p type="title">A-1 is the highlight</p>
-    <p>King Harald took particular pleasure in seeing the A-1 again. After the guided tour, the King spoke of the Buick, which was a gift to Crown Prince Olav and Crown Princess Märtha on their visit to the US in 1939, as a favourite. On 7 June 1945, after five years in exile, the Royal Family rode in the A-1 up Karl Johans gate to the Royal Palace amidst the throngs of jubilant Norwegians.</p>
-    <p type="title">County visit</p>
-    <p>King Harald and Queen Sonja will be spending the next several days in Sør-Trøndelag county. They began their three-day county visit in Hitra on Tuesday, and are using the Royal Yacht <em type="italic">Norge </em>as their base. </p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nob">Kongeparet fikk en omvisning da utstillingen Fra Berliner til Buick åpnet i Trondheim 3. juni 2013. Utstillingen viser eksempler fra Slottets samling av kjøretøy fra 1905 til 1940 (Foto: Det kongelige hoff)</p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">The Royal Journey</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>From Berliner to Buick   - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>612</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=115905</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=115905.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=115905_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">From Berliner to Buick</p>
+<p>On Monday, 3 June, Their Majesties The King and Queen attended the opening of the exhibition entitled From Berliner to Buick in Trondheim. On display are some of the vehicles from the Royal Palaces fleet from the years 1905 to 1940.</p>
+<p xml:lang="vep">03.06.2013</p>
+<p>It is the final exhibition in the series The Royal Journey" which is the Norwegian Governments gift to King Harald and Queen Sonja in honour of their 75th birthdays in 2012.</p>
+<p type="title">A unique collection</p>
+<p>When King Haakon and Queen Maud took up residence in the Royal Palace in 1905 as Norways new Royal Family, there were no carriages or horses; none were left behind after the dissolution of the union between Norway and Sweden. The empty stables had to be filled, and vehicles for gala events, official occasions and private use had to be acquired. Nineteen carriages and seven sleds have been preserved, representing a unique collection in Norway. Several of these carriages are now on display at the Dora Kulturbunker archive centre in Trondheim.</p>
+<p>Several of the Royal Familys oldest automobiles are also featured in the exhibition, whose centrepiece is the elaborate coronation carriage from 1906. Manufactured by O. Sørensens carriage factory in Christiania (now Oslo), the coach showcases the finest Norwegian craftsmanship. The small sled given to Crown Prince Olav by the schoolchildren of Trondheim in honour of his third birthday is on display for the first time.</p>
+<p type="title">Very early electric car</p>
+<p>Among the automobiles viewed by the King and Queen was a toy car given to Crown Prince Olav by his grandmother, Queen Alexandra of England, in 1912. The car is a 1:3 scale Cadillac Roadster and was one of three to be manufactured to promote the worlds first electric starter motor at the Worlds Fair in London that same year. The little Cadillac could drive 15 miles before the batteries had to be recharged.</p>
+<p type="title">Journeys</p>
+<p>Then, as now, journeys throughout the country comprised an important part of the Royal Familys life. The exhibition follows King Haakon, Queen Maud and Crown Prince Olav on their first major trip through Norway: the coronation journey in the summer of 1906. The Royal Family travelled through the Gudbrandsdal valley by train, over the Dovre mountains and down to the Romsdal valley by horse and carriage, and from Åndalsnes along the coastline to Trondheim on board the Royal Yacht <em type="italic">Norge </em>. Queen Maud was a talented and avid photographer, and her photographs are used to illustrate the story. </p>
+<p>Norwegian Minister of Culture Hadia Tajik undertook the official opening of the exhibition, after which King Harald and Queen Sonja were given a guided tour by Suzette Paasche, CEO of the Museums of South-Trøndelag, and project manager Sissel Guttormsen.</p>
+<p type="title">A-1 is the highlight</p>
+<p>King Harald took particular pleasure in seeing the A-1 again. After the guided tour, the King spoke of the Buick, which was a gift to Crown Prince Olav and Crown Princess Märtha on their visit to the US in 1939, as a favourite. On 7 June 1945, after five years in exile, the Royal Family rode in the A-1 up Karl Johans gate to the Royal Palace amidst the throngs of jubilant Norwegians.</p>
+<p type="title">County visit</p>
+<p>King Harald and Queen Sonja will be spending the next several days in Sør-Trøndelag county. They began their three-day county visit in Hitra on Tuesday, and are using the Royal Yacht <em type="italic">Norge </em>as their base. </p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="nob">Kongeparet fikk en omvisning da utstillingen Fra Berliner til Buick åpnet i Trondheim 3. juni 2013. Utstillingen viser eksempler fra Slottets samling av kjøretøy fra 1905 til 1940 (Foto: Det kongelige hoff)</p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">The Royal Journey</p>
+</list></body></document>

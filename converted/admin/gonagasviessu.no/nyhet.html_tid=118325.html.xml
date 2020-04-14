@@ -1,48 +1,20 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>The 158th Storting opened  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>256</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=118325</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=118325.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=118325_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">The 158th Storting opened</p>
-    <p>His Majesty King Harald officially opened the Norwegian Storting (Parliament) today. The 2013-2014 session of the Storting is the 158th since its inception, and the proceedings follow a fixed ceremony laid down in the Constitution.</p>
-    <p xml:lang="koi">09.10.2013</p>
-    <p>Her Majesty The Queen and His Royal Highness The Crown Prince were also in attendance.</p>
-    <p type="title">The Speech from the Trone</p>
-    <p>During the ceremony, the Prime Minister hands the Speech from the Throne to the King, which the King then delivers. The speech presents the main features of the Governments policies for the coming year. The Speech from the Throne is written by representatives of the Government, not by the King.</p>
-    <p>The Speech from the Throne is followed by the Report on the State of the Realm. Traditionnaly read by the youngest member of the Government, the report presents a summary of what the Government has achieved during the past year.</p>
-    <p type="title">Article 74 of the Constitution</p>
-    <p>The ceremony is stipulated in Article 74 of the Constitution:</p>
-    <p>As soon as the Storting is constituted, the King, or whoever he appoints for the purpose, shall open its proceedings with a Speech, in which he shall inform it of the state of the Realm and of the issues to which he particularly desires to call the attention of the Storting. No deliberations may take place in the presence of the King.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">The Kings constitutional role (Subject entry page)</p>
-    </list>
-    <list>
-      <p type="listitem" xml:lang="nno">Stortinget.no (in English)</p>
-      <p type="listitem">The Norwegian Constitution</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>The 158th Storting opened  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>251</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=118325</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=118325.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=118325_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">The 158th Storting opened</p>
+<p>His Majesty King Harald officially opened the Norwegian Storting (Parliament) today. The 2013-2014 session of the Storting is the 158th since its inception, and the proceedings follow a fixed ceremony laid down in the Constitution.</p>
+<p xml:lang="vep">09.10.2013</p>
+<p>Her Majesty The Queen and His Royal Highness The Crown Prince were also in attendance.</p>
+<p type="title">The Speech from the Trone</p>
+<p>During the ceremony, the Prime Minister hands the Speech from the Throne to the King, which the King then delivers. The speech presents the main features of the Governments policies for the coming year. The Speech from the Throne is written by representatives of the Government, not by the King.</p>
+<p>The Speech from the Throne is followed by the Report on the State of the Realm. Traditionnaly read by the youngest member of the Government, the report presents a summary of what the Government has achieved during the past year.</p>
+<p type="title">Article 74 of the Constitution</p>
+<p>The ceremony is stipulated in Article 74 of the Constitution:</p>
+<p>As soon as the Storting is constituted, the King, or whoever he appoints for the purpose, shall open its proceedings with a Speech, in which he shall inform it of the state of the Realm and of the issues to which he particularly desires to call the attention of the Storting. No deliberations may take place in the presence of the King.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">The Kings constitutional role (Subject entry page)</p>
+</list><list><p type="listitem" xml:lang="nno">Stortinget.no (in English)</p>
+<p type="listitem">The Norwegian Constitution</p>
+</list></body></document>

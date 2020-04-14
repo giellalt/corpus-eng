@@ -1,163 +1,126 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Nature in Nellim Area - Nationalparks.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>481</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.nationalparks.fi/en/nellim/nature</origFileName>
-    <parallel_text xml:lang="fin" location="luonto_2.html"/>
-    <parallel_text xml:lang="sme" location="luondu_25.html"/>
-    <parallel_text xml:lang="smn" location="luandu_2.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Skip to Content</p>
-    <p>Open Menu</p>
-    <list>
-      <p type="listitem">Suomeksi</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Nellim</p>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">History</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p type="title">Destinations</p>
-    <list>
-      <p type="listitem">Top Natural Attractions</p>
-      <p type="listitem">National Parks</p>
-      <p type="listitem">World Heritage Sites</p>
-      <p type="listitem">National Hiking Areas</p>
-      <p type="listitem">Wilderness Areas</p>
-      <p type="listitem">Other Nature Sites</p>
-      <p type="listitem">Hiking Trails</p>
-      <p type="listitem">Huts</p>
-      <p type="listitem">Historical Sites</p>
-      <p type="listitem">Nature Centres</p>
-      <p type="listitem">Accessible Destinations</p>
-    </list>
-    <list>
-      <p type="listitem">Aulanko</p>
-      <p type="listitem">Auttiköngäs</p>
-      <p type="listitem">Elimyssalo</p>
-      <p type="listitem">Hepoköngäs</p>
-      <p type="listitem">Hetta Area</p>
-      <p type="listitem">Hirvisuo</p>
-      <p type="listitem">Hämeenkangas</p>
-      <p type="listitem">Iivaara</p>
-      <p type="listitem">Ilmakkiaapa</p>
-      <p type="listitem">Iso-Palonen - Maariansärkät</p>
-      <p type="listitem">Juortanansalo-Lapinsuo</p>
-      <p type="listitem">Karkali</p>
-      <p type="listitem">Kermajärvi</p>
-      <p type="listitem">Kevo</p>
-      <p type="listitem">Koitajoki</p>
-      <p type="listitem">Kolvananuuro</p>
-      <p type="listitem">Komio</p>
-      <p type="listitem">Korouoma</p>
-      <p type="listitem">Kurimonkoski Rapids</p>
-      <p type="listitem">Laajalahti</p>
-      <p type="listitem">Langinkoski</p>
-      <p type="listitem">Liminka Bay</p>
-      <p type="listitem">Lentua</p>
-      <p type="listitem">Luiro Mires</p>
-      <p type="listitem">Malla</p>
-      <p type="listitem">Martimoaapa</p>
-      <p type="listitem">Melkuttimet</p>
-      <p type="listitem">Nellim</p>
-      <p type="listitem">Näränkä</p>
-      <p type="listitem">Olvassuo</p>
-      <p type="listitem">Pihlajavesi</p>
-      <p type="listitem">Punkaharju</p>
-      <p type="listitem">Pääjärvi</p>
-      <p type="listitem">Reposuo</p>
-      <p type="listitem">Riuttaskorpi</p>
-      <p type="listitem">Ruostejärvi</p>
-      <p type="listitem">Saari</p>
-      <p type="listitem">Saariselkä</p>
-      <p type="listitem">Sallatunturi Area</p>
-      <p type="listitem">Sevettijärvi-Näätämö Area</p>
-      <p type="listitem">Siikalahti Wetland</p>
-      <p type="listitem">Simojärvi and Soppana</p>
-      <p type="listitem">Sompio</p>
-      <p type="listitem">Suvasvesi</p>
-      <p type="listitem">Teerisuo-Lososuo</p>
-      <p type="listitem">Telkkämäki</p>
-      <p type="listitem">Teuravuoma - Kivijärvenvuoma</p>
-      <p type="listitem">Utsjoki</p>
-      <p type="listitem">Vaarunvuoret</p>
-      <p type="listitem">Valtavaara-Pyhävaara</p>
-      <p type="listitem">Vehoniemenharju</p>
-      <p type="listitem">Viiankiaapa</p>
-      <p type="listitem">Öjen</p>
-    </list>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">History</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p>Nellim Menu</p>
-    <p type="title">Nellim</p>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">History</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p type="title">Natural Features of Nellim</p>
-    <p></p>
-    <p type="title">Forest Land</p>
-    <p>The majority of the Nellim area consists of forest dotted with ponds and small lakes. The area also boasts wooded hills but there are no fells in the area except for Kontostunturi, which is located in the frontier zone.</p>
-    <p>The most common vegetation type is the fairly dry pine heath. As much as 90 per cent of the forests are pure pine forests. The birch is the most common deciduous tree. The undergrowth mostly consists of sparse shrubs. Due to the poor soil, the number of plant species is rather low and there are no real specialities.</p>
-    <p>The industrial utilisation of the extensive forest areas of Nellim started in the 1920s, which is why the age of the trees varies greatly. The entire area belongs to a commercial forest site and there are no protected forest areas.</p>
-    <p type="title">River Paatsjoki</p>
-    <p>The mighty River Paatsjoki has its origins at the base of Paatsvuono Fjord, through which Lake Inarijärvi carries its waters into the Arctic Ocean. This border river between Norway and Russia only flows for a couple of kilometres in Finnish territory. The easiest spot from which to admire the wide River Paatsjoki is the Virtaniemi Bridge. The River Paatsjoki was a historically important travelling route to the Arctic Ocean, and the river valley became a meeting place for different cultures.</p>
-    <p type="title">Bears</p>
-    <p>The area surrounding the Paatsjoki river valley is home to a fairly vital bear population. Bears ignore state borders, so they move about in Finland, Norway and Russia as they wish. The bears in the Nellim area belong to the population that roams the territory of these three countries. In the past few years, bears have been monitored and researched by using DNA methods, for example, in the international nature conservation project  for the Inari – Paatsjoki area (www.pasvik-inari.net). It is very rare to meet a bear in nature as it avoids man as best it can.</p>
-    <p></p>
-    <p>© Metsähallitus 2017</p>
-    <list>
-      <p type="listitem"></p>
-    </list>
-    <p>Share This Page</p>
-    <p>Open Menu</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Nature in Nellim Area - Nationalparks.fi</title><genre code="facta"/><author><unknown/></author><wordcount>481</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.nationalparks.fi/en/nellim/nature</origFileName><parallel_text xml:lang="fin" location="luonto_2.html"/><parallel_text xml:lang="sme" location="luondu_25.html"/><parallel_text xml:lang="smn" location="luandu_2.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skip to Content</p>
+<p>Open Menu</p>
+<list><p type="listitem">Suomeksi</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p></p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">Nellim</p>
+<list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">History</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p type="title">Destinations</p>
+<list><p type="listitem">Top Natural Attractions</p>
+<p type="listitem">National Parks</p>
+<p type="listitem">World Heritage Sites</p>
+<p type="listitem">National Hiking Areas</p>
+<p type="listitem">Wilderness Areas</p>
+<p type="listitem">Other Nature Sites</p>
+<p type="listitem">Hiking Trails</p>
+<p type="listitem">Huts</p>
+<p type="listitem">Historical Sites</p>
+<p type="listitem">Nature Centres</p>
+<p type="listitem">Accessible Destinations</p>
+</list><list><p type="listitem">Aulanko</p>
+<p type="listitem">Auttiköngäs</p>
+<p type="listitem">Elimyssalo</p>
+<p type="listitem">Hepoköngäs</p>
+<p type="listitem">Hetta Area</p>
+<p type="listitem">Hirvisuo</p>
+<p type="listitem">Hämeenkangas</p>
+<p type="listitem">Iivaara</p>
+<p type="listitem">Ilmakkiaapa</p>
+<p type="listitem">Iso-Palonen - Maariansärkät</p>
+<p type="listitem">Juortanansalo-Lapinsuo</p>
+<p type="listitem">Karkali</p>
+<p type="listitem">Kermajärvi</p>
+<p type="listitem">Kevo</p>
+<p type="listitem">Koitajoki</p>
+<p type="listitem">Kolvananuuro</p>
+<p type="listitem">Komio</p>
+<p type="listitem">Korouoma</p>
+<p type="listitem">Kurimonkoski Rapids</p>
+<p type="listitem">Laajalahti</p>
+<p type="listitem">Langinkoski</p>
+<p type="listitem">Liminka Bay</p>
+<p type="listitem">Lentua</p>
+<p type="listitem">Luiro Mires</p>
+<p type="listitem">Malla</p>
+<p type="listitem">Martimoaapa</p>
+<p type="listitem">Melkuttimet</p>
+<p type="listitem">Nellim</p>
+<p type="listitem">Näränkä</p>
+<p type="listitem">Olvassuo</p>
+<p type="listitem">Pihlajavesi</p>
+<p type="listitem">Punkaharju</p>
+<p type="listitem">Pääjärvi</p>
+<p type="listitem">Reposuo</p>
+<p type="listitem">Riuttaskorpi</p>
+<p type="listitem">Ruostejärvi</p>
+<p type="listitem">Saari</p>
+<p type="listitem">Saariselkä</p>
+<p type="listitem">Sallatunturi Area</p>
+<p type="listitem">Sevettijärvi-Näätämö Area</p>
+<p type="listitem">Siikalahti Wetland</p>
+<p type="listitem">Simojärvi and Soppana</p>
+<p type="listitem">Sompio</p>
+<p type="listitem">Suvasvesi</p>
+<p type="listitem">Teerisuo-Lososuo</p>
+<p type="listitem">Telkkämäki</p>
+<p type="listitem">Teuravuoma - Kivijärvenvuoma</p>
+<p type="listitem">Utsjoki</p>
+<p type="listitem">Vaarunvuoret</p>
+<p type="listitem">Valtavaara-Pyhävaara</p>
+<p type="listitem">Vehoniemenharju</p>
+<p type="listitem">Viiankiaapa</p>
+<p type="listitem">Öjen</p>
+</list><list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">History</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p>Nellim Menu</p>
+<p type="title">Nellim</p>
+<list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">History</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p type="title">Natural Features of Nellim</p>
+<p></p>
+<p type="title">Forest Land</p>
+<p>The majority of the Nellim area consists of forest dotted with ponds and small lakes. The area also boasts wooded hills but there are no fells in the area except for Kontostunturi, which is located in the frontier zone.</p>
+<p>The most common vegetation type is the fairly dry pine heath. As much as 90 per cent of the forests are pure pine forests. The birch is the most common deciduous tree. The undergrowth mostly consists of sparse shrubs. Due to the poor soil, the number of plant species is rather low and there are no real specialities.</p>
+<p>The industrial utilisation of the extensive forest areas of Nellim started in the 1920s, which is why the age of the trees varies greatly. The entire area belongs to a commercial forest site and there are no protected forest areas.</p>
+<p type="title">River Paatsjoki</p>
+<p>The mighty River Paatsjoki has its origins at the base of Paatsvuono Fjord, through which Lake Inarijärvi carries its waters into the Arctic Ocean. This border river between Norway and Russia only flows for a couple of kilometres in Finnish territory. The easiest spot from which to admire the wide River Paatsjoki is the Virtaniemi Bridge. The River Paatsjoki was a historically important travelling route to the Arctic Ocean, and the river valley became a meeting place for different cultures.</p>
+<p type="title">Bears</p>
+<p>The area surrounding the Paatsjoki river valley is home to a fairly vital bear population. Bears ignore state borders, so they move about in Finland, Norway and Russia as they wish. The bears in the Nellim area belong to the population that roams the territory of these three countries. In the past few years, bears have been monitored and researched by using DNA methods, for example, in the international nature conservation project  for the Inari – Paatsjoki area (www.pasvik-inari.net). It is very rare to meet a bear in nature as it avoids man as best it can.</p>
+<p></p>
+<p>© Metsähallitus 2017</p>
+<list><p type="listitem"></p>
+</list><p>Share This Page</p>
+<p>Open Menu</p>
+</body></document>

@@ -1,82 +1,53 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/>
-    </author>
-    <translator>
-      <person firstname="Simon" lastname="Aldridge" sex="m" born="" nationality="GB"/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <wordcount>1789</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://skuvla.info/minaigi1-e.htm</origFileName>
-    <parallel_text xml:lang="nob" location="minaigi1-n.html"/>
-    <parallel_text xml:lang="sme" location="minaigi1.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Why Sami school history?</p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p xml:lang="nno">Sámegillii På norsk Po polsku</p>
-    <p>Articles about Sami school history 1. part - printed in Min Áigi 28.09.2007</p>
-    <p type="title">Do you know Sami school history?</p>
-    <p><em type="bold">Sámi skuvlahistorjá / Samisk skolehistorie (Sami School History) is a series of books published by the publishing house Davvi Girji. In about 240 articles in 6 volumes there is told about the experiences of Sami children in Norwegian schools, and about the changes in the educational politics of the Norwegian authorities towards the Sami population. The books are published with parallell text in Sami and Norwegian language. </em></p>
-    <p>In this web site some of the articles of the first book are also published in English. It would be too much to translate it all, so to make this history available to a greater public, we are translating a series of newspaper articles, which sorted by topics make a summary of stories in the books. So far there are 29 articles published in Sami language by the Sami newspapers <em type="italic">Min Áigi </em>and <em type="italic">Ávvir </em>. They are also published here in Norwegian and English. Articles 30-36 will be published here gradually as they are printed and other language versions gradually as they are translated. </p>
-    <p>These articles are edited by the main editor, Svein Lund. Besides him the editing board of the book series consist of Elfrid Boine, Siri Broch Johansen and Siv Rasmussen.</p>
-    <p type="title">Why Sami school history?</p>
-    <p type="title" xml:lang="nob">English translation: Simon Aldridge / Anja Tiller (Story of Hans Hansen)</p>
-    <p>Sami school history is a very special part of the history of Norway and of the Nordic countries. School has, for centuries, been the authorities’ instrument for making the Sami into Christians and Norwegians. School has often been conducted in such a way that one would have to call it a crime and many have suffered in very many ways because of Norwegian schools.</p>
-    <p>Though much has been written about how the authorities’ policy have changed throughout the years, little has been written about how school has really been and about what pupils, teachers, parents and boarding-school employees have experienced. Little has also been written about the opposition to the authorities’ school-policy or about the struggle that, in the end, led to the Sami language and culture being given its place in school.</p>
-    <p>In my own encounters with Sami schools, as a pupil, student and teacher, I discovered how little was known about Sami school-history, both among pupils and teachers, and I myself have experienced how difficult it can be to find information. Then I started to ask why and discovered a possible reason for this; school was so traumatic for many that they have not been able to talk about it.</p>
-    <p><em type="bold">Sami school in Hattfjelldal, Nordland. Dinner at the boarding school, 1953 </em></p>
-    <p xml:lang="nno">(Photo: Sigrid Bergli Sørnes)</p>
-    <p><em type="bold">Schoolchildren in Sirma in the early 1950s. </em></p>
-    <p xml:lang="nno">(Photo: Ivar Skotte)</p>
-    <p>In the first article of <em type="italic">Sami school-history 1 </em>, Henry Minde gives the following explanation of why so little has been spoken about Norwegianization: <em type="italic"><span type="quote">“Usually, people tell a lot of stories about their time at school. But such stories and information from the Sami school milieu, have, until now, been lacking, or have been brief and superficial. There is every reason to believe that this difference is due to suppressed shame over experiences and episodes that have stayed with many Sami from their time at school.”</span> </em>( Henry Minde's article, SSH-1 ) </p>
-    <p>With this series of books, we shall attempt to do something about this gap in our knowledge. When we have asked people for their stories, we have often been met with similar reactions to those referred to by Henry Minde. Some have said that their time at school was so difficult, that they neither wish to be reminded of it or talk about it. Others have said that they will talk to us, but only if they can do so anonymously or, be allowed to drink a bottle of wine first. Such accounts have not been included in this series. We have only included accounts with a name and photograph and where the narrator has been sober. It might mean that we haven’t got the worst stories or that the reality was even worse than the picture we present in these books. Even so, I think we have managed to show quite clearly that he was right, the young teacher who, in the 1950s, wrote in a letter to his parents: <em type="italic">"In school we are progressing rather slowly, but at least there is progress. Poor children who do not have teachers who speak their own language. It is a crime against them..." </em>( Marit Aubert's story, SSH-1 ) </p>
-    <p>The Sami’s bad experiences at school may also be one of the reasons that they who have, until now, written most about Sami school-history are people from another background, who have themselves not suffered because of a linguistically and culturally foreign school. I also belong to that group, and I had had 13 years schooling in my own mother-tongue before I arrived in Samiland and saw how much worse the conditions had been for Sami of my age, who had attended a school where their mother-tongue was forbidden.</p>
-    <p>When I started studying educational science, I was interested to find out more about this history, about what had happened and why, and how school had affected pupils, teachers and the community. I sought others with the same interest, and together with a couple of former Sami teachers, we formed an editing committee and started collecting stories that will, in time, come out in book-form.</p>
-    <p>This time, we bring you a complete story from Porsanger, with the late Hans Hansen as narrator. He told his story to Hanna Hansen, who has written it down in the form of a poem.</p>
-    <p type="title">The story of Hans Hansen’s schooldays.</p>
-    <p><em type="bold">Hans Hansen as a representative at a national conference for <span type="quote" xml:lang="nno">“Norske Samers Riksforbund”</span> (Norwegian Sami Association), Kåfjord 1986. </em></p>
-    <p xml:lang="nno">(Photo: Svein Lund)</p>
-    <p><em type="italic">Long before I started at school I knew we were not as good and wise as those in shirt, topcoat and shoes </em></p>
-    <p>My father followed me the first day I attended school We walked those five kilometres along the country road I was dressed in a <span type="quote" xml:lang="swe">"kofte"</span> [Traditional Sami costume] Most of us were in those days. We received the bible history and catechism to bring home – in Norwegian.</p>
-    <p>I had heard the bailiff and the tax collector speak Norwegian. I did not know more about the Norwegian language before I started in school.</p>
-    <p>Our teacher spoke Sami and Finnish. He had been taught at school in Lakselv. When he attended school they had bilingual textbooks. Sami and Norwegian. He spoke Sami with us both outside and inside school but had to teach us to read in Norwegian.</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nob"><em type="bold">Kolvik School 1929 </em></p>
-    <p xml:lang="nno">(Source: Porsanger bygdebok 2 - p. 135)</p>
-    <p>We learnt twenty-nine letters from the Norwegian alphabet. To put letters together into words was difficult. We learnt about numbers. <span type="quote" xml:lang="nob">"Fire"</span> (4) and <span type="quote" xml:lang="isl">"fem"</span> (5) the teacher said. It was difficult to understand the meaning. The teacher said it meant <span type="quote" xml:lang="sme">“njeallje”</span> and <span type="quote" xml:lang="sme">“vihtta”</span>. Then we understood.</p>
-    <p>We wrote with slate pencils on stone boards. Spat on the board and erased it with the costume sleeve. We did not understand what we wrote.</p>
-    <p>Read many books – Norwegian books on geography and natural science. We understood the teacher’s questions, but could not answer. Could not speak or explain.</p>
-    <p>Some children did not understand anything. They were punished. Had to stand during the whole lesson.</p>
-    <p>I was lucky, The teacher spoke Sami to explain to me. He may have understood that I had talents for learning, even if I did not understand the language. Ninety-two weeks I had attended school. In forty-six of those weeks I did not understand much of what the teacher said.</p>
-    <p>Additional education was for the few. Some started at school of agriculture and some started at folk high school.</p>
-    <p xml:lang="nob"><em type="bold">From Porsanger </em></p>
-    <p xml:lang="nob">(Photo: Hanna H. Hansen)</p>
-    <p>The rest of us continued our lives as before. What we carried with us from school was feelings of inferiority. Everywhere in society they spoke Norwegian. It was difficult for us. We could not express ourselves. At the same time we had to obey authority that spoke with us in Norwegian.</p>
-    <p>When we could not take it anymore They told us to be objective and self-controlled. It was not easy to understand the meaning of that. Gradually I understood that they were asking from us what they were lacking themselves: impartiality and self-control. From that moment I did not feel inferior anymore.</p>
-    <p>They can hold positions, military grades and stars. That does not make a difference to me. I speak to people, not to positions or stars.</p>
-    <p xml:lang="nob"><em type="bold">Hans Hansen is mending nets. </em></p>
-    <p xml:lang="nob">(Photo: Arvid Petterson /Porsanger bygdebok)</p>
-    <p>People down south are not the worst. The worst are among our own. Many came from other places. They could hide their Sami origin here, a solution for those who spoke a little Norwegian. In that way they got into better positions.</p>
-    <p>I have never tried to hide myself. Have had no brains for that.</p>
-    <p>Those who cut their own roots do not grow anymore.</p>
-    <p>Here you find all the articles in the series:</p>
-    <p>28.09.2007 Why Sami school history? 05.10.2007 Boundless ignorance 12.10.2007 Southerner-teachers encounter the Sami language 19.10.2007 The start of Sami beginner instruction 26.10.2007 The start of education in reindeer-herding 02.11.2007 From Sami to Norwegian vocational training 16.11.2007 Struggle for Sami gymnasium 28.11.2007 School experiences of Norwegian speaking Samis 14.12.2007 Resistence against Sami language and culture 25.01.2008 A strange world 23.05.2009 On Sami teachers 30.05.2009 Life in boarding school 06.06.2009 Sami pupils were bullied 13.06.2009 Sami content in the teaching 20.06.2009 Pupil as interpreter 04.07.2009 How the children quit speaking Sami 10.09.2010 God does not understand Sami 08.10.2010 The point of view of the Norwegianizers 13.10.2010 Men of the church defending the Sami language 02.12.2010 Sami teachers in old times 09.12.2010 Boarding school life in old times 18.12.2010 Sami pupils in special schools 14.01.2012 The parents' struggle for Sami education 21.01.2012 Reluctance and absence 28.01.2012 The school during the war 04.02.2012 Reconstruction and barrack schools 11.02.2012 Curriculums - for Norwegianization and for Sami school 18.02.2012 The great struggle of the curriculum 11.05.2013 Sami language forbidden? – 1 xx.05.2013 Sami language forbidden? – 2 xx.05.2013 Folk high school for norwegianization xx.06.2013 Folk high school against norwegianization? xx.06.2013 Skolt Sami school history – does it exist? xx.06.2013 Duodji education – in and outside of school xx.06.2013 Sami in the cities xx.07.2013 Sami language in teacher education</p>
-    <p>Sami school history 1 Sami school history 2 Sami school history 3 Sami school history 4 Sami school history 5 Sami school history 6 Sami school history - main page</p>
-    <p>Write to the webmaster</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><person firstname="Svein" lastname="Lund" sex="m" born="1950" nationality="NO"/></author><translator><person firstname="Simon" lastname="Aldridge" sex="m" born="" nationality="GB"/></translator><translated_from xml:lang="nob"/><year>2007</year><wordcount>1789</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://skuvla.info/minaigi1-e.htm</origFileName><parallel_text xml:lang="nob" location="minaigi1-n.html"/><parallel_text xml:lang="sme" location="minaigi1.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Why Sami school history?</p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p xml:lang="nno">Sámegillii På norsk Po polsku</p>
+<p>Articles about Sami school history 1. part - printed in Min Áigi 28.09.2007</p>
+<p type="title">Do you know Sami school history?</p>
+<p><em type="bold">Sámi skuvlahistorjá / Samisk skolehistorie (Sami School History) is a series of books published by the publishing house Davvi Girji. In about 240 articles in 6 volumes there is told about the experiences of Sami children in Norwegian schools, and about the changes in the educational politics of the Norwegian authorities towards the Sami population. The books are published with parallell text in Sami and Norwegian language. </em></p>
+<p>In this web site some of the articles of the first book are also published in English. It would be too much to translate it all, so to make this history available to a greater public, we are translating a series of newspaper articles, which sorted by topics make a summary of stories in the books. So far there are 29 articles published in Sami language by the Sami newspapers <em type="italic">Min Áigi </em>and <em type="italic">Ávvir </em>. They are also published here in Norwegian and English. Articles 30-36 will be published here gradually as they are printed and other language versions gradually as they are translated. </p>
+<p>These articles are edited by the main editor, Svein Lund. Besides him the editing board of the book series consist of Elfrid Boine, Siri Broch Johansen and Siv Rasmussen.</p>
+<p type="title">Why Sami school history?</p>
+<p type="title" xml:lang="nob">English translation: Simon Aldridge / Anja Tiller (Story of Hans Hansen)</p>
+<p>Sami school history is a very special part of the history of Norway and of the Nordic countries. School has, for centuries, been the authorities’ instrument for making the Sami into Christians and Norwegians. School has often been conducted in such a way that one would have to call it a crime and many have suffered in very many ways because of Norwegian schools.</p>
+<p>Though much has been written about how the authorities’ policy have changed throughout the years, little has been written about how school has really been and about what pupils, teachers, parents and boarding-school employees have experienced. Little has also been written about the opposition to the authorities’ school-policy or about the struggle that, in the end, led to the Sami language and culture being given its place in school.</p>
+<p>In my own encounters with Sami schools, as a pupil, student and teacher, I discovered how little was known about Sami school-history, both among pupils and teachers, and I myself have experienced how difficult it can be to find information. Then I started to ask why and discovered a possible reason for this; school was so traumatic for many that they have not been able to talk about it.</p>
+<p><em type="bold">Sami school in Hattfjelldal, Nordland. Dinner at the boarding school, 1953 </em></p>
+<p xml:lang="nno">(Photo: Sigrid Bergli Sørnes)</p>
+<p><em type="bold">Schoolchildren in Sirma in the early 1950s. </em></p>
+<p xml:lang="nno">(Photo: Ivar Skotte)</p>
+<p>In the first article of <em type="italic">Sami school-history 1 </em>, Henry Minde gives the following explanation of why so little has been spoken about Norwegianization: <em type="italic"><span type="quote">“Usually, people tell a lot of stories about their time at school. But such stories and information from the Sami school milieu, have, until now, been lacking, or have been brief and superficial. There is every reason to believe that this difference is due to suppressed shame over experiences and episodes that have stayed with many Sami from their time at school.”</span> </em>( Henry Minde's article, SSH-1 ) </p>
+<p>With this series of books, we shall attempt to do something about this gap in our knowledge. When we have asked people for their stories, we have often been met with similar reactions to those referred to by Henry Minde. Some have said that their time at school was so difficult, that they neither wish to be reminded of it or talk about it. Others have said that they will talk to us, but only if they can do so anonymously or, be allowed to drink a bottle of wine first. Such accounts have not been included in this series. We have only included accounts with a name and photograph and where the narrator has been sober. It might mean that we haven’t got the worst stories or that the reality was even worse than the picture we present in these books. Even so, I think we have managed to show quite clearly that he was right, the young teacher who, in the 1950s, wrote in a letter to his parents: <em type="italic">"In school we are progressing rather slowly, but at least there is progress. Poor children who do not have teachers who speak their own language. It is a crime against them..." </em>( Marit Aubert's story, SSH-1 ) </p>
+<p>The Sami’s bad experiences at school may also be one of the reasons that they who have, until now, written most about Sami school-history are people from another background, who have themselves not suffered because of a linguistically and culturally foreign school. I also belong to that group, and I had had 13 years schooling in my own mother-tongue before I arrived in Samiland and saw how much worse the conditions had been for Sami of my age, who had attended a school where their mother-tongue was forbidden.</p>
+<p>When I started studying educational science, I was interested to find out more about this history, about what had happened and why, and how school had affected pupils, teachers and the community. I sought others with the same interest, and together with a couple of former Sami teachers, we formed an editing committee and started collecting stories that will, in time, come out in book-form.</p>
+<p>This time, we bring you a complete story from Porsanger, with the late Hans Hansen as narrator. He told his story to Hanna Hansen, who has written it down in the form of a poem.</p>
+<p type="title">The story of Hans Hansen’s schooldays.</p>
+<p><em type="bold">Hans Hansen as a representative at a national conference for <span type="quote" xml:lang="nno">“Norske Samers Riksforbund”</span> (Norwegian Sami Association), Kåfjord 1986. </em></p>
+<p xml:lang="nno">(Photo: Svein Lund)</p>
+<p><em type="italic">Long before I started at school I knew we were not as good and wise as those in shirt, topcoat and shoes </em></p>
+<p>My father followed me the first day I attended school We walked those five kilometres along the country road I was dressed in a <span type="quote" xml:lang="swe">"kofte"</span> [Traditional Sami costume] Most of us were in those days. We received the bible history and catechism to bring home – in Norwegian.</p>
+<p>I had heard the bailiff and the tax collector speak Norwegian. I did not know more about the Norwegian language before I started in school.</p>
+<p>Our teacher spoke Sami and Finnish. He had been taught at school in Lakselv. When he attended school they had bilingual textbooks. Sami and Norwegian. He spoke Sami with us both outside and inside school but had to teach us to read in Norwegian.</p>
+<p xml:lang="swe"></p>
+<p xml:lang="nob"><em type="bold">Kolvik School 1929 </em></p>
+<p xml:lang="nno">(Source: Porsanger bygdebok 2 - p. 135)</p>
+<p>We learnt twenty-nine letters from the Norwegian alphabet. To put letters together into words was difficult. We learnt about numbers. <span type="quote" xml:lang="nob">"Fire"</span> (4) and <span type="quote" xml:lang="isl">"fem"</span> (5) the teacher said. It was difficult to understand the meaning. The teacher said it meant <span type="quote" xml:lang="sme">“njeallje”</span> and <span type="quote" xml:lang="sme">“vihtta”</span>. Then we understood.</p>
+<p>We wrote with slate pencils on stone boards. Spat on the board and erased it with the costume sleeve. We did not understand what we wrote.</p>
+<p>Read many books – Norwegian books on geography and natural science. We understood the teacher’s questions, but could not answer. Could not speak or explain.</p>
+<p>Some children did not understand anything. They were punished. Had to stand during the whole lesson.</p>
+<p>I was lucky, The teacher spoke Sami to explain to me. He may have understood that I had talents for learning, even if I did not understand the language. Ninety-two weeks I had attended school. In forty-six of those weeks I did not understand much of what the teacher said.</p>
+<p>Additional education was for the few. Some started at school of agriculture and some started at folk high school.</p>
+<p xml:lang="nob"><em type="bold">From Porsanger </em></p>
+<p xml:lang="nob">(Photo: Hanna H. Hansen)</p>
+<p>The rest of us continued our lives as before. What we carried with us from school was feelings of inferiority. Everywhere in society they spoke Norwegian. It was difficult for us. We could not express ourselves. At the same time we had to obey authority that spoke with us in Norwegian.</p>
+<p>When we could not take it anymore They told us to be objective and self-controlled. It was not easy to understand the meaning of that. Gradually I understood that they were asking from us what they were lacking themselves: impartiality and self-control. From that moment I did not feel inferior anymore.</p>
+<p>They can hold positions, military grades and stars. That does not make a difference to me. I speak to people, not to positions or stars.</p>
+<p xml:lang="nob"><em type="bold">Hans Hansen is mending nets. </em></p>
+<p xml:lang="nob">(Photo: Arvid Petterson /Porsanger bygdebok)</p>
+<p>People down south are not the worst. The worst are among our own. Many came from other places. They could hide their Sami origin here, a solution for those who spoke a little Norwegian. In that way they got into better positions.</p>
+<p>I have never tried to hide myself. Have had no brains for that.</p>
+<p>Those who cut their own roots do not grow anymore.</p>
+<p>Here you find all the articles in the series:</p>
+<p>28.09.2007 Why Sami school history? 05.10.2007 Boundless ignorance 12.10.2007 Southerner-teachers encounter the Sami language 19.10.2007 The start of Sami beginner instruction 26.10.2007 The start of education in reindeer-herding 02.11.2007 From Sami to Norwegian vocational training 16.11.2007 Struggle for Sami gymnasium 28.11.2007 School experiences of Norwegian speaking Samis 14.12.2007 Resistence against Sami language and culture 25.01.2008 A strange world 23.05.2009 On Sami teachers 30.05.2009 Life in boarding school 06.06.2009 Sami pupils were bullied 13.06.2009 Sami content in the teaching 20.06.2009 Pupil as interpreter 04.07.2009 How the children quit speaking Sami 10.09.2010 God does not understand Sami 08.10.2010 The point of view of the Norwegianizers 13.10.2010 Men of the church defending the Sami language 02.12.2010 Sami teachers in old times 09.12.2010 Boarding school life in old times 18.12.2010 Sami pupils in special schools 14.01.2012 The parents' struggle for Sami education 21.01.2012 Reluctance and absence 28.01.2012 The school during the war 04.02.2012 Reconstruction and barrack schools 11.02.2012 Curriculums - for Norwegianization and for Sami school 18.02.2012 The great struggle of the curriculum 11.05.2013 Sami language forbidden? – 1 xx.05.2013 Sami language forbidden? – 2 xx.05.2013 Folk high school for norwegianization xx.06.2013 Folk high school against norwegianization? xx.06.2013 Skolt Sami school history – does it exist? xx.06.2013 Duodji education – in and outside of school xx.06.2013 Sami in the cities xx.07.2013 Sami language in teacher education</p>
+<p>Sami school history 1 Sami school history 2 Sami school history 3 Sami school history 4 Sami school history 5 Sami school history 6 Sami school history - main page</p>
+<p>Write to the webmaster</p>
+</body></document>

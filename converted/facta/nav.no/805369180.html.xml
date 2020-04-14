@@ -1,103 +1,68 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>NAV - Kontantstøtte - </title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <publChannel>
-      <publication>
-        <publisher>NAV</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>609</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/>
-    <origFileName>http://www.nav.no/Familie/Kontantstøtte/Kontantstøtte/805369180.cms</origFileName>
-    <parallel_text xml:lang="nno" location="1073749154.html"/>
-    <parallel_text xml:lang="nob" location="kontantstotte.html"/>
-    <parallel_text xml:lang="sme" location="kontantstotte.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p></p>
-    <p type="title">Cash benefit for parents of infants</p>
-    <p>This may be granted for children between one and three years of age, and for adopted children who have not started school. The benefit can be provided for a maximum of 23 months and the child must not have a full-time place at a publicly maintained day care institution.</p>
-    <p><em type="italic">Who can get cash benefit? </em></p>
-    <p>If you have children between one and three years of age who do not use publicly maintained day care institutions, you can receive full cash benefit. If the child has a part-time place in a day care institution, you may receive partial cash benefit.</p>
-    <p>You may receive cash benefit for up to 23 months for adopted children after the benefit period for full adoption allowance has expired, even if the child has reached the age of three or will become three during this period, <em type="italic">provided </em>that the child has not started school. </p>
-    <p>Cash benefit is not given:</p>
-    <list>
-      <p type="listitem">for children in foster homes or institutions under the Child Welfare Services Act.</p>
-      <p type="listitem">simultaneously with full adoption allowance. In such instances, the earliest the benefit will be awarded is from the month after the period of full adoption allowance expires. The same time limit also applies if, instead of adoption allowance, you have received a lump sum grant on adoption.</p>
-    </list>
-    <p>As a general rule, the child must be resident in Norway. The child will generally be considered as resident in Norway if he/she will be staying in Norway for more than 12 months.</p>
-    <p>In some instances, cash benefit may be granted for a temporary stay abroad of up to three months.</p>
-    <p>Cash benefit may also be granted in some instances for children who are residing in another EEA country if the breadwinner is working in Norway, on a Norwegian ship, or on the Norwegian continental shelf, or receives a pension from Norway based on employment, or is an employee posted abroad from Norway.</p>
-    <p><em type="italic">The right application gets a quicker response </em></p>
-    <p>If both parents live together, one of you should apply.</p>
-    <p>If the parents live separately, the one having the child living with them permanently should apply for cash benefit.</p>
-    <p>Parents, who have entered a written agreement about dual domicile for the child, may elect to share the cash benefit. In such instances, neither parent may use a publicly maintained day care institution, and both must submit applications.</p>
-    <p>The application should be sent to the NAV Local Services where you live.</p>
-    <p><em type="italic">What can you get paid? </em></p>
-    <p>It is the time allocated in a day care institution that determines how much you receive in cash benefit. It is irrelevant whether the child spends less time in the day care institution than is allocated.</p>
-    <p>It is important that you notify us if the child begins in a day care institution. Wrongly paid cash benefit must be repaid.</p>
-    <p><em type="italic">When will the benefit be paid? </em></p>
-    <p>Cash benefit is tax-free and is paid once a month.</p>
-    <p>Cash benefit cannot be paid in arrears for more than three months prior to the calendar month in which you apply.</p>
-    <p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian.</p>
-    <p type="title">Rates</p>
-    <p type="title">Kontantstøtte</p>
-    <p>Avtalt oppholdstid i barnehagen (timer pr uke)</p>
-    <p>Beløp pr måned</p>
-    <p>0</p>
-    <p>3 303 kr.</p>
-    <p>1-8</p>
-    <p>2 642 kr.</p>
-    <p>9-16</p>
-    <p>1 982 kr.</p>
-    <p>17-24</p>
-    <p>1 321 kr.</p>
-    <p>25-32</p>
-    <p>661 kr.</p>
-    <p>33 og mer</p>
-    <p>0 kr.</p>
-    <p type="title">Payment dates</p>
-    <p type="title">Kontantstøtte</p>
-    <p>Datoene gjelder for 2010.</p>
-    <p>Jan</p>
-    <p>Feb</p>
-    <p>Mar</p>
-    <p>Apr</p>
-    <p>Mai</p>
-    <p>Jun</p>
-    <p>Jul</p>
-    <p>Aug</p>
-    <p>Sept</p>
-    <p>Okt</p>
-    <p>Nov</p>
-    <p>Des</p>
-    <p>27.</p>
-    <p>24.</p>
-    <p>29.</p>
-    <p>28.</p>
-    <p>28.</p>
-    <p>28.</p>
-    <p>28.</p>
-    <p>27.</p>
-    <p>28.</p>
-    <p>27.</p>
-    <p>26.</p>
-    <p>15.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>NAV - Kontantstøtte - </title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>609</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><origFileName>http://www.nav.no/Familie/Kontantstøtte/Kontantstøtte/805369180.cms</origFileName><parallel_text xml:lang="nno" location="1073749154.html"/><parallel_text xml:lang="nob" location="kontantstotte.html"/><parallel_text xml:lang="sme" location="kontantstotte.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p></p>
+<p type="title">Cash benefit for parents of infants</p>
+<p>This may be granted for children between one and three years of age, and for adopted children who have not started school. The benefit can be provided for a maximum of 23 months and the child must not have a full-time place at a publicly maintained day care institution.</p>
+<p><em type="italic">Who can get cash benefit? </em></p>
+<p>If you have children between one and three years of age who do not use publicly maintained day care institutions, you can receive full cash benefit. If the child has a part-time place in a day care institution, you may receive partial cash benefit.</p>
+<p>You may receive cash benefit for up to 23 months for adopted children after the benefit period for full adoption allowance has expired, even if the child has reached the age of three or will become three during this period, <em type="italic">provided </em>that the child has not started school. </p>
+<p>Cash benefit is not given:</p>
+<list><p type="listitem">for children in foster homes or institutions under the Child Welfare Services Act.</p>
+<p type="listitem">simultaneously with full adoption allowance. In such instances, the earliest the benefit will be awarded is from the month after the period of full adoption allowance expires. The same time limit also applies if, instead of adoption allowance, you have received a lump sum grant on adoption.</p>
+</list><p>As a general rule, the child must be resident in Norway. The child will generally be considered as resident in Norway if he/she will be staying in Norway for more than 12 months.</p>
+<p>In some instances, cash benefit may be granted for a temporary stay abroad of up to three months.</p>
+<p>Cash benefit may also be granted in some instances for children who are residing in another EEA country if the breadwinner is working in Norway, on a Norwegian ship, or on the Norwegian continental shelf, or receives a pension from Norway based on employment, or is an employee posted abroad from Norway.</p>
+<p><em type="italic">The right application gets a quicker response </em></p>
+<p>If both parents live together, one of you should apply.</p>
+<p>If the parents live separately, the one having the child living with them permanently should apply for cash benefit.</p>
+<p>Parents, who have entered a written agreement about dual domicile for the child, may elect to share the cash benefit. In such instances, neither parent may use a publicly maintained day care institution, and both must submit applications.</p>
+<p>The application should be sent to the NAV Local Services where you live.</p>
+<p><em type="italic">What can you get paid? </em></p>
+<p>It is the time allocated in a day care institution that determines how much you receive in cash benefit. It is irrelevant whether the child spends less time in the day care institution than is allocated.</p>
+<p>It is important that you notify us if the child begins in a day care institution. Wrongly paid cash benefit must be repaid.</p>
+<p><em type="italic">When will the benefit be paid? </em></p>
+<p>Cash benefit is tax-free and is paid once a month.</p>
+<p>Cash benefit cannot be paid in arrears for more than three months prior to the calendar month in which you apply.</p>
+<p>Most of the main information about your entitlements and duties is available here in English. There are also links to other more detailed information; however, some of this information is only available in Norwegian.</p>
+<p type="title">Rates</p>
+<p type="title">Kontantstøtte</p>
+<p>Avtalt oppholdstid i barnehagen (timer pr uke)</p>
+<p>Beløp pr måned</p>
+<p>0</p>
+<p>3 303 kr.</p>
+<p>1-8</p>
+<p>2 642 kr.</p>
+<p>9-16</p>
+<p>1 982 kr.</p>
+<p>17-24</p>
+<p>1 321 kr.</p>
+<p>25-32</p>
+<p>661 kr.</p>
+<p>33 og mer</p>
+<p>0 kr.</p>
+<p type="title">Payment dates</p>
+<p type="title">Kontantstøtte</p>
+<p>Datoene gjelder for 2010.</p>
+<p>Jan</p>
+<p>Feb</p>
+<p>Mar</p>
+<p>Apr</p>
+<p>Mai</p>
+<p>Jun</p>
+<p>Jul</p>
+<p>Aug</p>
+<p>Sept</p>
+<p>Okt</p>
+<p>Nov</p>
+<p>Des</p>
+<p>27.</p>
+<p>24.</p>
+<p>29.</p>
+<p>28.</p>
+<p>28.</p>
+<p>28.</p>
+<p>28.</p>
+<p>27.</p>
+<p>28.</p>
+<p>27.</p>
+<p>26.</p>
+<p>15.</p>
+</body></document>

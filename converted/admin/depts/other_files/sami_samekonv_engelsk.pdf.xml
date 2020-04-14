@@ -1,556 +1,529 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <wordcount>4967</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <origFileName>http://www.regjeringen.no/upload/AID/temadokumenter/sami/sami_samekonv_engelsk.pdf</origFileName>
-    <parallel_text xml:lang="sma" location="sami_samekonv_sorsamisk.pdf"/>
-    <parallel_text xml:lang="smj" location="sami_samekonv_lulesamisk.pdf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p><em type="italic">Text of the Convention in English </em></p>
-    <p><em type="bold">NORDIC SAAMI CONVENTION </em></p>
-    <p>The Governments of Finland, Norway and Sweden,</p>
-    <p>affirming</p>
-    <p>−  that the Saami is the indigenous people of the three countries,</p>
-    <p>−  that the Saami is one people residing across national borders, −  that the Saami people has its own culture culture, its own society, its own history,</p>
-    <p>its own traditions, its own language, its own livelihoods and its own visions of the</p>
-    <p>future,</p>
-    <p>−  that the three states have a national as well as an international responsibility to</p>
-    <p>provide adequate conditions for the Saami culture and society,</p>
-    <p>−  that the Saami people has the right of self-determination,</p>
-    <p>−  that the Saami people’s culture and society constitutes an enrichment to the</p>
-    <p>countries’ collected cultures and societies,</p>
-    <p>−  that the Saami people has a particular need to develop its society across national</p>
-    <p>borders,</p>
-    <p>−  that lands and waters constitute the foundation for the Saami culture an that hence,</p>
-    <p>the Saami must have access to such,</p>
-    <p>−  and that, in determining the legal status of the Saami people, particular regard shall</p>
-    <p>be paid to the fact that during the course of history the Saami have not been treated as</p>
-    <p>a people of equal value, and have thus been subjected to injustice,</p>
-    <p>that take as a basis for their deliberations that the Saami parliaments in the three states</p>
-    <p>−  want to build a better future for the life and culture of the Saami people,</p>
-    <p>−  hold the vision that the national boundaries of the states shall not obstruct the</p>
-    <p>community of the Saami people and Saami individuals,</p>
-    <p>−  view a new Saami convention as a renewal and a development of  Saami rights</p>
-    <p>established through historical use of land that were codified in the Lapp Codicil of</p>
-    <p>1751,</p>
-    <p>−  emphasize the importance of respecting the right of self-determination, that the</p>
-    <p>Saami enjoy as a people,</p>
-    <p>−  particularly emphasise that the Saami have rights to the land and water areas that</p>
-    <p>constitutes the Saami people’s historical homeland, as well as to natural resources in</p>
-    <p>those,</p>
-    <p>−  maintain that the traditional knowledge and traditional cultural expressions of the</p>
-    <p>Saami people, integrated with the people’s use of natural resources, constitutes a part</p>
-    <p>of the Saami culture,</p>
-    <p>−  hold that increased consideration shall be given to the role of Saami women as</p>
-    <p>custodians of traditions in the Saami society, including when appointing</p>
-    <p>representatives to public bodies,</p>
-    <p>−  want that the Saami shall live as one people within the three states,</p>
-    <p>−  emphasize the Saami people’s aspiration, wish and right to take responsibility for</p>
-    <p>the development of its own future</p>
-    <p>−  and will assert the Saami people’s rights and freedoms in accordance with</p>
-    <p>international human rights law and other international law,</p>
-    <p>that have elaborated this convention in close cooperation with representatives of the</p>
-    <p>Saami,</p>
-    <p>deeming it to be of particular importance that the Convention, before being ratified by</p>
-    <p>the states, be approved by the three Saami parliaments</p>
-    <p>and that commit themselves to secure the future of the Saami people in accordance</p>
-    <p>with this convention,</p>
-    <p>have agreed on the following Nordic Saami Convention.</p>
-    <p><em type="bold">Chapter I </em></p>
-    <p><em type="bold">The general rights of the Saami people </em></p>
-    <p>Article 1</p>
-    <p>The objective of the Convention</p>
-    <p>The objective of this Convention is to affirm and strengthen such rights of the</p>
-    <p>Saami people that are necessary to secure and develop its language, its culture, its</p>
-    <p>livelihoods and society, with the smallest possible interference of the national</p>
-    <p>borders.</p>
-    <p>Article 2</p>
-    <p>The Saami as an indigenous people</p>
-    <p>The Saami people is the indigenous people of Finland, Norway and Sweden.</p>
-    <p>Article 3</p>
-    <p>The right of  self-determination</p>
-    <p>As a people, the Saami has the right of self-determination in accordance with</p>
-    <p>the rules and provisions of international law and of this Convention. In so far as it</p>
-    <p>follows from these rules and provisions, the Saami people has the right to determine</p>
-    <p>its own economic, social and cultural development and to dispose, to their own</p>
-    <p>benefit, over its own natural resources.</p>
-    <p>Article 4</p>
-    <p>Persons to whom the Convention applies</p>
-    <p>The Convention applies to persons residing in Finland, Norway or Sweden</p>
-    <p>that identify themselves as Saami and who</p>
-    <p>1.  have Saami as their domestic language or have at least one parent or grandparent</p>
-    <p>who has or has had Saami as his or her domestic language, or</p>
-    <p>2.  have a right to pursue Saami reindeer husbandry in Norway or Sweden, or</p>
-    <p>3.  fulfil the requirements to be eligible to vote in elections to the Saami parliament in</p>
-    <p>Finland, Norway or Sweden, or</p>
-    <p>4.  are children of a person referred to in 1, 2 or 3.</p>
-    <p>Article 5</p>
-    <p>The scope of the State’s responsibility</p>
-    <p>The responsibilities of the state pursuant to this Convention apply to all state</p>
-    <p>bodies at national, regional and local levels. Other public administrative bodies and</p>
-    <p>public undertakings also have such responsibilities. The same applies to private legal</p>
-    <p>entities when exercising public authority or performing other public duties.</p>
-    <p>In applying this Convention, the Saami parliaments and other Saami bodies,</p>
-    <p>regardless of their legal status under national or international law, shall not be deemed</p>
-    <p>to fall under the concept state, except when exercising public authority.</p>
-    <p>Article 6</p>
-    <p>State measures with respect to the Saami people</p>
-    <p>The three states shall effectively establish conditions enabling the Saami</p>
-    <p>people to secure and develop its language, its culture, its livelihoods and its society.</p>
-    <p>The states shall create favourable conditions for maintaining and developing</p>
-    <p>the local Saami communities.</p>
-    <p>To a reasonable extent, the states’ responsibility to take measures pursuant to</p>
-    <p>this Convention shall apply also to Saami persons who are residing outside the</p>
-    <p>traditional Saami areas.</p>
-    <p>Article 7</p>
-    <p>Non-discrimination and special measures</p>
-    <p>The Saami people and Saami individuals shall be ensured protection against</p>
-    <p>all discrimination.</p>
-    <p>The States shall, when necessary for the implementation of Saami rights</p>
-    <p>pursuant to this Convention, adopt special positive measures with respect to such</p>
-    <p>rights.<em type="bold"> </em></p>
-    <p>Article 8</p>
-    <p>Minimum rights</p>
-    <p>The rights laid down in this Convention are minimum rights. They shall not be</p>
-    <p>construed as preventing any state from extending the scope of Saami rights or from</p>
-    <p>adopting more far reaching measures than contained in this Convention.  The</p>
-    <p>Convention may not be used as a basis for limiting such Saami rights that follow from</p>
-    <p>other legal provisions.</p>
-    <p>Article 9</p>
-    <p>Saami legal customs</p>
-    <p>The states shall show due respect for the Saami people’s conceptions of law,</p>
-    <p>legal traditions and customs.</p>
-    <p>Pursuant to the provisions in the first paragraph, the states shall, when</p>
-    <p>elaborating legislation in areas where there might exist relevant Saami legal customs,</p>
-    <p>particularly investigate whether such customs exist, and if so, consider whether these</p>
-    <p>customs should be afforded protection or in other manners be reflected in the national</p>
-    <p>legislation. Due consideration shall also be paid to Saami legal customs in the</p>
-    <p>application of law.</p>
-    <p>Article 10</p>
-    <p>Harmonization of legal provisions</p>
-    <p>The states shall, in cooperation with the Saami parliaments, strive to ensure</p>
-    <p>continued harmonization of legislation and other regulation of significance for Saami</p>
-    <p>activities across national borders.</p>
-    <p>Article 11</p>
-    <p>Cooperation on cultural and commercial arrangements</p>
-    <p>The states shall implement measures to render it easier for the Saami to pursue</p>
-    <p>economic activities across national borders and to provide for their cultural needs</p>
-    <p>across these borders. For this purpose, the states shall strive to remove remaining</p>
-    <p>obstacles to Saami economic activities that are based on their citizenship or residence</p>
-    <p>or that otherwise are a result of the Saami settlement area stretching across national</p>
-    <p>borders.  The states shall also give Saami individuals access to the cultural provisions</p>
-    <p>of the country where they are staying at any given time.</p>
-    <p>Article 12</p>
-    <p>Cooperation on education and welfare arrangements</p>
-    <p>The states shall take measures to provide Saami individuals residing in any of</p>
-    <p>the three countries with the possibility to obtain education, medical services and</p>
-    <p>social provisions in another of these countries when this appears to be more</p>
-    <p>appropriate.</p>
-    <p>Article 13</p>
-    <p>The symbols of the Saami people</p>
-    <p>The states shall respect the right of the Saami to decide over the use of the</p>
-    <p>Saami flag and other Saami national symbols. The states shall moreover, in</p>
-    <p>cooperation with the Saami parliaments, make efforts to ensure that the Saami</p>
-    <p>symbols are made visible in a manner signifying the Saami’s status as a distinct</p>
-    <p>people in the three countries.</p>
-    <p><em type="bold">Chapter II </em></p>
-    <p><em type="bold">Saami governance </em></p>
-    <p>Article 14</p>
-    <p>The Saami parliaments</p>
-    <p>In each of the three countries there shall be a Saami parliament. The Saami</p>
-    <p>parliament is the highest representative body of the Saami people in the country. The</p>
-    <p>Saami parliament acts on behalf of the Saami people of the country concerned, and</p>
-    <p>shall be elected through general elections among the Saami in the country.</p>
-    <p>Further regulations concerning the elections of the Saami parliaments shall be</p>
-    <p>prescribed by law, prepared through negotiations with the Saami parliaments pursuant</p>
-    <p>to Article 16.</p>
-    <p>The Saami parliaments shall have such a mandate that enables them to</p>
-    <p>contribute effectively to the realization of the Saami people’s right of self</p>
-    <p>determination pursuant to the rules and provisions of international law and of this</p>
-    <p>Convention. Further regulations concerning the mandate of the Saami parliaments</p>
-    <p>shall be prescribed by law.</p>
-    <p>The Saami parliaments take initiatives and state their views on all matters</p>
-    <p>where they find reason to do so.</p>
-    <p>Article 15</p>
-    <p>Independent decisions by the Saami parliaments</p>
-    <p>The Saami parliaments make independent decisions on all matters where they</p>
-    <p>have the mandate to do so under national or international law.</p>
-    <p>The Saami parliaments may conclude agreements with national, regional and</p>
-    <p>local entities concerning cooperation with regard to the strengthening of Saami</p>
-    <p>culture and the Saami society.</p>
-    <p>Article 16</p>
-    <p>The Saami parliaments’ right to negotiations</p>
-    <p>In matters of major importance to the Saami, negotiations shall be held with</p>
-    <p>the Saami parliaments before decisions on such matters are made by a public</p>
-    <p>authority. These negotiations must take place sufficiently early to enable the Saami</p>
-    <p>parliaments to have a real influence over the proceedings and the result.</p>
-    <p>The states shall not adopt or permit measures that may significantly damage</p>
-    <p>the basic conditions for Saami culture, Saami livelihoods or society, unless consented</p>
-    <p>to by the Saami parliament concerned.</p>
-    <p>Article 17</p>
-    <p>The rights of the Saami parliaments during preparation of other matters</p>
-    <p>The Saami parliaments shall have the right to be represented on public</p>
-    <p>councils and committees when these deal with matters that concerns the interests of</p>
-    <p>the Saami.</p>
-    <p>Matters concerning Saami interests shall be submitted to the Saami</p>
-    <p>parliaments before a decision is made by a public authority.</p>
-    <p>The states shall investigate the need for such representation and prior opinions</p>
-    <p>from the Saami parliaments. This must take place sufficiently early to enable the</p>
-    <p>Saami parliaments to influence the proceedings and the outcome.</p>
-    <p>The Saami parliaments shall themselves decide when they wish to be</p>
-    <p>represented or submit prior opinions during such preparation of matters.</p>
-    <p>Article 18</p>
-    <p>The relationship to national assemblies</p>
-    <p>The national assemblies of the states or their committees or other bodies shall,</p>
-    <p>upon request, receive representatives of the Saami parliaments in order to enable them</p>
-    <p>to report on matters of importance to the Saami.</p>
-    <p>The Saami parliaments shall be given the opportunity to be heard during the</p>
-    <p>consideration by national assemblies of matters that particularly concern the Saami</p>
-    <p>people.</p>
-    <p>The national assemblies of the individual states shall issue further regulations</p>
-    <p>concerning which matters this applies to and concerning the procedure to be followed.</p>
-    <p>Article 19</p>
-    <p>The Saami and international representation</p>
-    <p>The Saami parliaments shall represent the Saami in intergovernmental matters.</p>
-    <p>The states shall promote Saami representation in international institutions and</p>
-    <p>Saami participation in international meetings.</p>
-    <p>Article 20</p>
-    <p>Joint Saami organizations</p>
-    <p>The Saami parliaments may form joint organizations. In consultation with the</p>
-    <p>Saami parliaments, the states shall strive to transfer public authority to such joint</p>
-    <p>organizations as needed.</p>
-    <p>Article 21</p>
-    <p>Other Saami associations</p>
-    <p>The states shall respect and when necessary consult Saami villages</p>
-    <p>(samebyar), siidas, reindeer herders’ communities (renbeteslag), the village</p>
-    <p>assemblies of the Skolt Saami (<em type="italic">byastämma)</em> and other competent Saami organizations </p>
-    <p>or local Saami representatives.</p>
-    <p>Article 22</p>
-    <p>A Saami region</p>
-    <p>The states shall actively seek to identify and develop the area within which the</p>
-    <p>Saami people can manage its particular rights pursuant to this Convention and</p>
-    <p>national legislation.</p>
-    <p><em type="bold">Chapter III </em></p>
-    <p><em type="bold">Saami language and culture </em></p>
-    <p>Article 23</p>
-    <p>Saami language rights</p>
-    <p>The Saami shall have the right to use, develop and pass on to future</p>
-    <p>generations its language and its traditions and have the right to make efforts to ensure that knowledge of the Saami language is also disseminated to Saami persons with</p>
-    <p>little or no command of this language.</p>
-    <p>The Saami shall have the right to decide and retain their personal names and</p>
-    <p>geographical names, as well as to have these publicly acknowledged.</p>
-    <p>Article 24</p>
-    <p>The states’ responsibility for the Saami language</p>
-    <p>The states shall enable the Saami to preserve, develop and disseminate the</p>
-    <p>Saami language. To meet this end, states shall ensure that the Saami alphabet can be</p>
-    <p>used effectively.</p>
-    <p>It shall be possible to use the Saami language effectively in courts of law and</p>
-    <p>in relation to public authorities in the Saami areas. The same shall also apply outside</p>
-    <p>these areas in disputes and cases first dealt with in the Saami areas or which in any</p>
-    <p>other manner have a particular association with these areas.</p>
-    <p>The states shall promote the publication of literature in the Saami language.</p>
-    <p>The provisions of this article shall also apply to the less prevalent Saami</p>
-    <p>dialects.</p>
-    <p>Article 25</p>
-    <p>Saami media</p>
-    <p>The states shall create conditions for an independent Saami media policy</p>
-    <p>which enables the Saami media to control its own development and to provide the</p>
-    <p>Saami population with rich and multi-faced information and opinions in matters of</p>
-    <p>general interest.</p>
-    <p>The states shall ensure that programmes in the Saami language can be</p>
-    <p>broadcast on radio and TV, and shall promote the publication of newspapers in this</p>
-    <p>language. In cooperation with the Saami parliaments, the states shall also promote</p>
-    <p>cooperation across national borders between media institutions that provide</p>
-    <p>programmes or articles in the Saami language.</p>
-    <p>The provision of the second paragraph concerning the Saami language shall</p>
-    <p>also to a reasonable extent apply to the less prevalent Saami dialects.</p>
-    <p>Article 26</p>
-    <p>Saami education</p>
-    <p>The Saami population residing in the Saami areas shall have access to</p>
-    <p>education both in and through the medium of the Saami language. The education and</p>
-    <p>study financing system shall be adapted to their background. Such education shall</p>
-    <p>enable attendance of further education at all levels while at the same time meet the</p>
-    <p>needs of Saami individuals to continuously be active within the traditional Saami</p>
-    <p>livelihoods. The study financing system shall be arranged in such a way as to enable</p>
-    <p>higher education through the medium of the Saami language.</p>
-    <p>Saami children and adolescents outside the Saami areas shall have access to</p>
-    <p>education in the Saami language, and also through the medium of the Saami language</p>
-    <p>to the extent that may be deemed reasonable in the area concerned. The education</p>
-    <p>shall as far as possible be adapted to their background.</p>
-    <p>The national curricula shall be prepared in cooperation with the Saami</p>
-    <p>parliaments and be adapted to the cultural backgrounds and needs of Saami children</p>
-    <p>and adolescents.</p>
-    <p>Article 27</p>
-    <p>Research</p>
-    <p>The states shall, in cooperation with the Saami parliaments, create good</p>
-    <p>conditions for research based on the knowledge needs of the Saami society, and</p>
-    <p>promote recruitment of Saami researchers. In planning such research, regard shall be</p>
-    <p>paid to the linguistic and cultural conditions in the Saami society.</p>
-    <p>The states shall, in consultation with the Saami parliaments, promote</p>
-    <p>cooperation between Saami and other research institutions in the various countries</p>
-    <p>and across national borders, and strengthen research institutions with a primary</p>
-    <p>responsibility for such research referred to in the first paragraph.</p>
-    <p>Research concerning Saami matters shall be adapted to such ethical rules that</p>
-    <p>the Saami’s status as an indigenous people requires.</p>
-    <p>Article 28</p>
-    <p>Education and information about the Saami</p>
-    <p>The Saami people’s culture and society shall be appropriately reflected in</p>
-    <p>education outside the Saami society. Such education shall particularly aim to promote</p>
-    <p>knowledge of the status of the Saami as the country’s indigenous people. The states</p>
-    <p>shall, in cooperation with the Saami parliaments, offer education about the Saami</p>
-    <p>culture and society to persons who are going to work in the Saami areas.</p>
-    <p>The states shall, in cooperation with the Saami parliaments, provide the</p>
-    <p>general public with information about the Saami culture and society.</p>
-    <p>Article 29</p>
-    <p>Health and social services</p>
-    <p>The states shall, in cooperation with the Saami parliaments, ensure that health</p>
-    <p>and social services in the Saami settlement areas are organized in such a way that the</p>
-    <p>Saami population in these areas are ensured health and social services adapted to their</p>
-    <p>linguistic and cultural background.</p>
-    <p>Also health and social services outside the Saami settlement areas shall pay</p>
-    <p>regard to the linguistic and cultural background of Saami patients and clients.</p>
-    <p>Article 30</p>
-    <p>Saami children and adolescents</p>
-    <p>Saami children and adolescents have the right to practise their culture and to</p>
-    <p>preserve and develop their Saami identity.</p>
-    <p>Article 31</p>
-    <p>Traditional knowledge and cultural expressions</p>
-    <p>The states shall respect the right of the Saami people to manage its traditional</p>
-    <p>knowledge and its traditional cultural expressions while striving to ensure that the</p>
-    <p>Saami are able to preserve, develop and pass these on to future generations.</p>
-    <p>When Saami culture is applied commercially by persons other than Saami</p>
-    <p>persons, the states shall make efforts to ensure that the Saami people gains influence</p>
-    <p>over such activities and a reasonable share of the financial revenues. The Saami culture shall be protected against the use of cultural expressions that in a misleading</p>
-    <p>manner give the impression of having a Saami origin.</p>
-    <p>The states shall make efforts to ensure that regard is paid to Saami traditional</p>
-    <p>knowledge in decisions concerning Saami matters.</p>
-    <p>Article 32</p>
-    <p>Saami cultural heritage</p>
-    <p>Saami cultural heritage shall be protected by law and shall be cared for by the</p>
-    <p>country’s Saami parliament or by cultural institutions in cooperation with the Saami</p>
-    <p>parliament.</p>
-    <p>The states shall implement measures for cooperation across national borders</p>
-    <p>on documentation, protection and care of Saami cultural heritage.</p>
-    <p>The states shall make efforts to ensure that Saami cultural heritage that has</p>
-    <p>been removed from the Saami areas and that is of particular interest to the Saami</p>
-    <p>community is entrusted to suitable museums or cultural institutions as further agreed</p>
-    <p>with the countries’ Saami parliaments.</p>
-    <p>Article 33</p>
-    <p>The cultural basis</p>
-    <p>The responsibilities of the states in matters concerning the Saami culture shall</p>
-    <p>include the material cultural basis in such a way that the Saami are provided with the</p>
-    <p>necessary commercial and economic conditions to secure and develop their culture.</p>
-    <p><em type="bold">Chapter IV </em></p>
-    <p><em type="bold">Saami right to land and water </em></p>
-    <p>Article 34</p>
-    <p>Traditional use of land and water</p>
-    <p>Protracted traditional use of land or water areas constitutes the basis for</p>
-    <p>individual or collective ownership right to these areas for the Saami in accordance</p>
-    <p>with national or international norms concerning protracted usage.</p>
-    <p>If the Saami, without being deemed to be the owners, occupy and have</p>
-    <p>traditionally used certain land or water areas for reindeer husbandry, hunting, fishing or in other ways, they shall have the right to continue to occupy and use these areas to</p>
-    <p>the same extent as before. If these areas are used by the Saami in association with</p>
-    <p>other users, the exercise of their rights by the Saami and the other users shall be</p>
-    <p>subject to due regard to each other and to the nature of the competing rights.</p>
-    <p>Particular regard in this connection shall be paid to the interests of reindeer-herding</p>
-    <p>Saami. The fact that the Saami use of these areas is limited to the right of continued</p>
-    <p>use to the same extent as before shall not prevent the forms of use from being adapted</p>
-    <p>as necessary to technical and economic developments.</p>
-    <p>Assessment of whether traditional use exists pursuant to this provision shall be</p>
-    <p>made on the basis of what constitutes traditional Saami use of land and water and bear</p>
-    <p>in mind that Saami land and water usage often does not leave permanent traces in the</p>
-    <p>environment.</p>
-    <p>The provisions of this article shall not be construed as to imply any limitation</p>
-    <p>in the right to restitution of property that the Saami might have under national or</p>
-    <p>international law.</p>
-    <p>Article 35</p>
-    <p>Protection of Saami rights to land and water</p>
-    <p>The states shall take adequate measures for effective protection of Saami</p>
-    <p>rights pursuant to article 34. To that end, the states shall particularly identify the land</p>
-    <p>and water areas that the Saami traditionally use.</p>
-    <p>Appropriate procedures for examination of questions concerning Saami rights</p>
-    <p>to land and water shall be available under national law. In particular, the Saami shall</p>
-    <p>have access to such financial support that is necessary for them to be able to have</p>
-    <p>their rights to land and water tried through legal proceedings.</p>
-    <p>Article 36</p>
-    <p>Utilization of natural resources</p>
-    <p>The rights of the Saami to natural resources within such land or water areas</p>
-    <p>that fall within the scope of Article 34 shall be afforded particular protection. In this</p>
-    <p>connection, regard shall be paid to the fact that continues access to such natural</p>
-    <p>resources may be a prerequisite for the preservation of traditional Saami knowledge</p>
-    <p>and cultural expressions.</p>
-    <p>Before public authorities, based on law, grant a permit for prospecting or</p>
-    <p>extraction of minerals or other sub-surface resources, or make decisions concerning</p>
-    <p>utilization of other natural resources within such land or water areas that are owned or</p>
-    <p>used by the Saami, negotiations shall be held with the affected Saami, as well as with</p>
-    <p>the Saami parliament, when the matter is such that it falls within Article 16.</p>
-    <p>Permit for prospecting or extraction of natural resources shall not be granted if</p>
-    <p>the activity would make it impossible or substantially more difficult for the Saami to</p>
-    <p>continue to utilize the areas concerned, and this utilization is essential to the Saami</p>
-    <p>culture, unless so consented by the Saami parliament and the affected Saami.</p>
-    <p>The above provisions of this article also apply to other forms of natural</p>
-    <p>resource utilization and to other forms of intervention in the nature in such</p>
-    <p>geographical areas that fall under Article 34, including activities such as forest</p>
-    <p>logging, hydroelectric and wind power plants, construction of roads and recreational</p>
-    <p>housing and military exercise activities and permanent exercise ranges.</p>
-    <p>Article 37</p>
-    <p>Compensation and share of profits</p>
-    <p>The affected Saami shall have the right to compensation for all damage</p>
-    <p>inflicted through activities referred to in Article 36, paragraphs two and four. If</p>
-    <p>national law obliges persons granted permit to extract natural resources to pay a fee or</p>
-    <p>share of the profit from such activities, to the landowner, the permit holder shall be</p>
-    <p>similarly obliged in relation to the Saami that have traditionally used and continue to</p>
-    <p>use the area concerned.</p>
-    <p>The provisions of this article shall not be construed as to imply any limitation</p>
-    <p>in the right to a share of the profit from extraction of natural resources that may</p>
-    <p>follow under international law.</p>
-    <p>Article 38</p>
-    <p>Fjords and coastal seas</p>
-    <p>The provisions of Articles 34–37 concerning rights to water areas and use of</p>
-    <p>water areas shall apply correspondingly to Saami fishing and other use of fjords and</p>
-    <p>coastal seas.</p>
-    <p>In connection with the allocation of catch quotas for fish and other marine</p>
-    <p>resources, as well as when otherwise regulation such resources, due regard shall be</p>
-    <p>paid to Saami use of these resources and its importance to local Saami communities.</p>
-    <p>This shall apply even though this use has been reduced or has ceased due to the fact</p>
-    <p>that catch quotas have not been granted or owing to other regulations of the fisheries</p>
-    <p>or other exploitation of resources in these areas. The same shall apply if the use is</p>
-    <p>reduced or has ceased owing to a reduction of marine resources in these areas.</p>
-    <p>Article 39</p>
-    <p>Land and resource management</p>
-    <p>In addition to the ownership or usage rights that the Saami enjoy, the Saami</p>
-    <p>parliaments shall have the right of co-determination in the public management of the</p>
-    <p>areas referred to in Articles 34 and 38, pursuant to Article 16.</p>
-    <p>Article 40</p>
-    <p>Environmental protection and environmental management</p>
-    <p>The states are in cooperation with the Saami parliaments, obliged to actively</p>
-    <p>protect the environment in order to ensure sustainable development of the Saami land</p>
-    <p>and water areas referred to in Articles 34 and 38.</p>
-    <p>Pursuant to Article 16, the Saami parliaments shall have the right of co</p>
-    <p>determination in the environmental management affecting these areas.</p>
-    <p><em type="bold">Chapter V </em></p>
-    <p><em type="bold">Saami livelihoods </em></p>
-    <p>Article 41</p>
-    <p>Protection of Saami livelihoods</p>
-    <p>Saami livelihoods and Saami use of natural resources shall enjoy special</p>
-    <p>protection by means of legal or economic measures to the extent that they constitute</p>
-    <p>an important fundament for the Saami culture.</p>
-    <p>Saami livelihoods and Saami use of natural resources are such activities that</p>
-    <p>are essential for the maintenance and development of the local Saami communities.</p>
-    <p>Article 42</p>
-    <p>Reindeer husbandry as a Saami livelihood</p>
-    <p>Reindeer husbandry, as a particular and traditional Saami livelihood and a</p>
-    <p>form of culture, is based on custom and shall enjoy special legal protection.</p>
-    <p>To that end, Norway and Sweden shall maintain and develop reindeer</p>
-    <p>husbandry as a sole right of the Saami in the Saami reindeer grazing areas.</p>
-    <p>Acknowledging Protocol No. 3 of its Affiliation Agreement with the European</p>
-    <p>Union concerning the Saami as an indigenous people, Finland undertakes to</p>
-    <p>strengthen the position of Saami reindeer husbandry.</p>
-    <p>Article 43</p>
-    <p>Reindeer husbandry across national borders</p>
-    <p>The right of the Saami to reindeer grazing across national borders is based on</p>
-    <p>custom.</p>
-    <p>If agreements have been concluded between Saami villages (samebyar), siidas</p>
-    <p>or reindeer grazing communities (renbeteslag) concerning the right to reindeer</p>
-    <p>grazing across national borders, these agreements shall prevail. In the event of dispute</p>
-    <p>concerning the interpretation or application of such an agreement, a party shall have</p>
-    <p>the opportunity to bring the dispute before an arbitration committee for decision.</p>
-    <p>Regarding the composition of such an arbitration committee and its rules of</p>
-    <p>procedure, the regulation jointly decided by the three Saami parliaments shall apply.</p>
-    <p>A party who is dissatisfied with the arbitration committee’s decision of the dispute</p>
-    <p>shall have the right to file a suit on the matter in a court of law in the country on</p>
-    <p>which territory the grazing area is situated.</p>
-    <p>In the absence of an applicable agreement between Saami villages (samebyar),</p>
-    <p>siidas or reindeer grazing communities (renbeteslag), if a valid bilateral treaty</p>
-    <p>regarding reindeer grazing exists, such a treaty shall apply. Notwithstanding any such</p>
-    <p>treaty, shall a person asserting that he or she has a reindeer grazing right based on</p>
-    <p>custom that goes beyond what follows from the bilateral treaty, have the opportunity</p>
-    <p>to have his or her claim tried before a court of law in the country on which territory</p>
-    <p>the grazing area is situated.</p>
-    <p><em type="bold">Chapter VI </em></p>
-    <p><em type="bold">Implementation and development of the Convention </em></p>
-    <p>Article 44</p>
-    <p>Cooperation Council of Saami ministers and presidents of Saami Parliaments</p>
-    <p>The ministers in Finland, Norway and Sweden responsible for Saami affairs</p>
-    <p>and the presidents of Saami Parliaments from each of these countries shall convene</p>
-    <p>regularly.</p>
-    <p>The said cooperation shall promote the objectives of this Convention pursuant</p>
-    <p>to Article 1. The meetings shall consider relevant Saami matters of common interest.</p>
-    <p>Article 45</p>
-    <p>Convention committee</p>
-    <p>A Nordic Saami Convention Committee shall be established to monitor the</p>
-    <p>implementation of this Convention. The committee shall have six members serving in</p>
-    <p>their independent capacity. Each of the three states and and each of the three Saami</p>
-    <p>parliaments appoint one member each. Members shall be appointed for a period of</p>
-    <p>five years.</p>
-    <p>The committee shall submit reports to the governments of the three countries</p>
-    <p>and to the three Saami parliaments. It may submit proposals aimed at strengthening</p>
-    <p>the objective of this Convention to the governments of the three countries and to the</p>
-    <p>three Saami parliaments. The committee may also deliver opinions in response to</p>
-    <p>questions from individuals and groups.</p>
-    <p>Article 46</p>
-    <p>National implementation</p>
-    <p>In order to ensure as uniform an application of this Convention as possible, the</p>
-    <p>states shall make the provisions of the Convention directly applicable as national law.</p>
-    <p>Article 47</p>
-    <p>Economic commitments</p>
-    <p>The states shall provide the financial resources necessary to implement the</p>
-    <p>provisions of this Convention. The joint expenses of the three countries shall be</p>
-    <p>divided between them in relation to the Saami population in each country.</p>
-    <p>In addition to situations referred to in paragraph 2 of Article 35,  it shall be</p>
-    <p>possible for the Saami to receive the necessary financial assistance to bring important</p>
-    <p>questions of principle concerning the rights contained in this Convention before a</p>
-    <p>court of law.</p>
-    <p><em type="bold">Chapter VII </em></p>
-    <p><em type="bold">Final provisions </em></p>
-    <p>Article 48</p>
-    <p>The approval of the Saami parliaments</p>
-    <p>After being signed, this Convention shall be submitted to the three Saami</p>
-    <p>parliaments for approval.</p>
-    <p>Article 49</p>
-    <p>Ratification</p>
-    <p>This Convention shall be subject to ratification. Ratification may not take</p>
-    <p>place until the three Saami parliaments have given their approval pursuant to Article</p>
-    <p>48.</p>
-    <p>Article 50</p>
-    <p>Entry into force</p>
-    <p>The Convention shall enter into force thirty days after the date that the</p>
-    <p>instruments of ratification are deposited with the Norwegian Ministry of Foreign</p>
-    <p>Affairs.</p>
-    <p>The Norwegian Ministry of Foreign Affairs shall notify Finland, Sweden and</p>
-    <p>the three Saami parliaments of the deposit of the instruments of ratification and of the</p>
-    <p>date of entry into force of the Convention.</p>
-    <p>The original of this Convention shall be deposited with the Norwegian</p>
-    <p>Ministry of Foreign Affairs, which shall provide authenticated copies to Finland,</p>
-    <p>Sweden and the three Saami parliaments.</p>
-    <p>Article 51</p>
-    <p>Amendments to the Convention</p>
-    <p>Amendments to this Convention shall be made in cooperation with the three</p>
-    <p>Saami parliaments, and with respect for the provision in Article 48.</p>
-    <p>An amendment to the Convention enters into force thirty days after the date</p>
-    <p>that the parties to the Convention notify the Norwegian Ministry of Foreign Affairs</p>
-    <p>that the amendments have been approved by them.</p>
-    <p>In witness whereof the representatives of the parties to the Convention have</p>
-    <p>signed the present Convention.</p>
-    <p>Which took place at …. on …. 20…. in a single copy in the Finnish,</p>
-    <p>Norwegian, Swedish and Saami languages, all texts being equally authentic.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><wordcount>4967</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><origFileName>http://www.regjeringen.no/upload/AID/temadokumenter/sami/sami_samekonv_engelsk.pdf</origFileName><parallel_text xml:lang="sma" location="sami_samekonv_sorsamisk.pdf"/><parallel_text xml:lang="smj" location="sami_samekonv_lulesamisk.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p><em type="italic">Text of the Convention in English </em></p>
+<p><em type="bold">NORDIC SAAMI CONVENTION </em></p>
+<p>The Governments of Finland, Norway and Sweden,</p>
+<p>affirming</p>
+<p>−  that the Saami is the indigenous people of the three countries,</p>
+<p>−  that the Saami is one people residing across national borders, −  that the Saami people has its own culture culture, its own society, its own history,</p>
+<p>its own traditions, its own language, its own livelihoods and its own visions of the</p>
+<p>future,</p>
+<p>−  that the three states have a national as well as an international responsibility to</p>
+<p>provide adequate conditions for the Saami culture and society,</p>
+<p>−  that the Saami people has the right of self-determination,</p>
+<p>−  that the Saami people’s culture and society constitutes an enrichment to the</p>
+<p>countries’ collected cultures and societies,</p>
+<p>−  that the Saami people has a particular need to develop its society across national</p>
+<p>borders,</p>
+<p>−  that lands and waters constitute the foundation for the Saami culture an that hence,</p>
+<p>the Saami must have access to such,</p>
+<p>−  and that, in determining the legal status of the Saami people, particular regard shall</p>
+<p>be paid to the fact that during the course of history the Saami have not been treated as</p>
+<p>a people of equal value, and have thus been subjected to injustice,</p>
+<p>that take as a basis for their deliberations that the Saami parliaments in the three states</p>
+<p>−  want to build a better future for the life and culture of the Saami people,</p>
+<p>−  hold the vision that the national boundaries of the states shall not obstruct the</p>
+<p>community of the Saami people and Saami individuals,</p>
+<p>−  view a new Saami convention as a renewal and a development of  Saami rights</p>
+<p>established through historical use of land that were codified in the Lapp Codicil of</p>
+<p>1751,</p>
+<p>−  emphasize the importance of respecting the right of self-determination, that the</p>
+<p>Saami enjoy as a people,</p>
+<p>−  particularly emphasise that the Saami have rights to the land and water areas that</p>
+<p>constitutes the Saami people’s historical homeland, as well as to natural resources in</p>
+<p>those,</p>
+<p>−  maintain that the traditional knowledge and traditional cultural expressions of the</p>
+<p>Saami people, integrated with the people’s use of natural resources, constitutes a part</p>
+<p>of the Saami culture,</p>
+<p>−  hold that increased consideration shall be given to the role of Saami women as</p>
+<p>custodians of traditions in the Saami society, including when appointing</p>
+<p>representatives to public bodies,</p>
+<p>−  want that the Saami shall live as one people within the three states,</p>
+<p>−  emphasize the Saami people’s aspiration, wish and right to take responsibility for</p>
+<p>the development of its own future</p>
+<p>−  and will assert the Saami people’s rights and freedoms in accordance with</p>
+<p>international human rights law and other international law,</p>
+<p>that have elaborated this convention in close cooperation with representatives of the</p>
+<p>Saami,</p>
+<p>deeming it to be of particular importance that the Convention, before being ratified by</p>
+<p>the states, be approved by the three Saami parliaments</p>
+<p>and that commit themselves to secure the future of the Saami people in accordance</p>
+<p>with this convention,</p>
+<p>have agreed on the following Nordic Saami Convention.</p>
+<p><em type="bold">Chapter I </em></p>
+<p><em type="bold">The general rights of the Saami people </em></p>
+<p>Article 1</p>
+<p>The objective of the Convention</p>
+<p>The objective of this Convention is to affirm and strengthen such rights of the</p>
+<p>Saami people that are necessary to secure and develop its language, its culture, its</p>
+<p>livelihoods and society, with the smallest possible interference of the national</p>
+<p>borders.</p>
+<p>Article 2</p>
+<p>The Saami as an indigenous people</p>
+<p>The Saami people is the indigenous people of Finland, Norway and Sweden.</p>
+<p>Article 3</p>
+<p>The right of  self-determination</p>
+<p>As a people, the Saami has the right of self-determination in accordance with</p>
+<p>the rules and provisions of international law and of this Convention. In so far as it</p>
+<p>follows from these rules and provisions, the Saami people has the right to determine</p>
+<p>its own economic, social and cultural development and to dispose, to their own</p>
+<p>benefit, over its own natural resources.</p>
+<p>Article 4</p>
+<p>Persons to whom the Convention applies</p>
+<p>The Convention applies to persons residing in Finland, Norway or Sweden</p>
+<p>that identify themselves as Saami and who</p>
+<p>1.  have Saami as their domestic language or have at least one parent or grandparent</p>
+<p>who has or has had Saami as his or her domestic language, or</p>
+<p>2.  have a right to pursue Saami reindeer husbandry in Norway or Sweden, or</p>
+<p>3.  fulfil the requirements to be eligible to vote in elections to the Saami parliament in</p>
+<p>Finland, Norway or Sweden, or</p>
+<p>4.  are children of a person referred to in 1, 2 or 3.</p>
+<p>Article 5</p>
+<p>The scope of the State’s responsibility</p>
+<p>The responsibilities of the state pursuant to this Convention apply to all state</p>
+<p>bodies at national, regional and local levels. Other public administrative bodies and</p>
+<p>public undertakings also have such responsibilities. The same applies to private legal</p>
+<p>entities when exercising public authority or performing other public duties.</p>
+<p>In applying this Convention, the Saami parliaments and other Saami bodies,</p>
+<p>regardless of their legal status under national or international law, shall not be deemed</p>
+<p>to fall under the concept state, except when exercising public authority.</p>
+<p>Article 6</p>
+<p>State measures with respect to the Saami people</p>
+<p>The three states shall effectively establish conditions enabling the Saami</p>
+<p>people to secure and develop its language, its culture, its livelihoods and its society.</p>
+<p>The states shall create favourable conditions for maintaining and developing</p>
+<p>the local Saami communities.</p>
+<p>To a reasonable extent, the states’ responsibility to take measures pursuant to</p>
+<p>this Convention shall apply also to Saami persons who are residing outside the</p>
+<p>traditional Saami areas.</p>
+<p>Article 7</p>
+<p>Non-discrimination and special measures</p>
+<p>The Saami people and Saami individuals shall be ensured protection against</p>
+<p>all discrimination.</p>
+<p>The States shall, when necessary for the implementation of Saami rights</p>
+<p>pursuant to this Convention, adopt special positive measures with respect to such</p>
+<p>rights.<em type="bold"> </em></p>
+<p>Article 8</p>
+<p>Minimum rights</p>
+<p>The rights laid down in this Convention are minimum rights. They shall not be</p>
+<p>construed as preventing any state from extending the scope of Saami rights or from</p>
+<p>adopting more far reaching measures than contained in this Convention.  The</p>
+<p>Convention may not be used as a basis for limiting such Saami rights that follow from</p>
+<p>other legal provisions.</p>
+<p>Article 9</p>
+<p>Saami legal customs</p>
+<p>The states shall show due respect for the Saami people’s conceptions of law,</p>
+<p>legal traditions and customs.</p>
+<p>Pursuant to the provisions in the first paragraph, the states shall, when</p>
+<p>elaborating legislation in areas where there might exist relevant Saami legal customs,</p>
+<p>particularly investigate whether such customs exist, and if so, consider whether these</p>
+<p>customs should be afforded protection or in other manners be reflected in the national</p>
+<p>legislation. Due consideration shall also be paid to Saami legal customs in the</p>
+<p>application of law.</p>
+<p>Article 10</p>
+<p>Harmonization of legal provisions</p>
+<p>The states shall, in cooperation with the Saami parliaments, strive to ensure</p>
+<p>continued harmonization of legislation and other regulation of significance for Saami</p>
+<p>activities across national borders.</p>
+<p>Article 11</p>
+<p>Cooperation on cultural and commercial arrangements</p>
+<p>The states shall implement measures to render it easier for the Saami to pursue</p>
+<p>economic activities across national borders and to provide for their cultural needs</p>
+<p>across these borders. For this purpose, the states shall strive to remove remaining</p>
+<p>obstacles to Saami economic activities that are based on their citizenship or residence</p>
+<p>or that otherwise are a result of the Saami settlement area stretching across national</p>
+<p>borders.  The states shall also give Saami individuals access to the cultural provisions</p>
+<p>of the country where they are staying at any given time.</p>
+<p>Article 12</p>
+<p>Cooperation on education and welfare arrangements</p>
+<p>The states shall take measures to provide Saami individuals residing in any of</p>
+<p>the three countries with the possibility to obtain education, medical services and</p>
+<p>social provisions in another of these countries when this appears to be more</p>
+<p>appropriate.</p>
+<p>Article 13</p>
+<p>The symbols of the Saami people</p>
+<p>The states shall respect the right of the Saami to decide over the use of the</p>
+<p>Saami flag and other Saami national symbols. The states shall moreover, in</p>
+<p>cooperation with the Saami parliaments, make efforts to ensure that the Saami</p>
+<p>symbols are made visible in a manner signifying the Saami’s status as a distinct</p>
+<p>people in the three countries.</p>
+<p><em type="bold">Chapter II </em></p>
+<p><em type="bold">Saami governance </em></p>
+<p>Article 14</p>
+<p>The Saami parliaments</p>
+<p>In each of the three countries there shall be a Saami parliament. The Saami</p>
+<p>parliament is the highest representative body of the Saami people in the country. The</p>
+<p>Saami parliament acts on behalf of the Saami people of the country concerned, and</p>
+<p>shall be elected through general elections among the Saami in the country.</p>
+<p>Further regulations concerning the elections of the Saami parliaments shall be</p>
+<p>prescribed by law, prepared through negotiations with the Saami parliaments pursuant</p>
+<p>to Article 16.</p>
+<p>The Saami parliaments shall have such a mandate that enables them to</p>
+<p>contribute effectively to the realization of the Saami people’s right of self</p>
+<p>determination pursuant to the rules and provisions of international law and of this</p>
+<p>Convention. Further regulations concerning the mandate of the Saami parliaments</p>
+<p>shall be prescribed by law.</p>
+<p>The Saami parliaments take initiatives and state their views on all matters</p>
+<p>where they find reason to do so.</p>
+<p>Article 15</p>
+<p>Independent decisions by the Saami parliaments</p>
+<p>The Saami parliaments make independent decisions on all matters where they</p>
+<p>have the mandate to do so under national or international law.</p>
+<p>The Saami parliaments may conclude agreements with national, regional and</p>
+<p>local entities concerning cooperation with regard to the strengthening of Saami</p>
+<p>culture and the Saami society.</p>
+<p>Article 16</p>
+<p>The Saami parliaments’ right to negotiations</p>
+<p>In matters of major importance to the Saami, negotiations shall be held with</p>
+<p>the Saami parliaments before decisions on such matters are made by a public</p>
+<p>authority. These negotiations must take place sufficiently early to enable the Saami</p>
+<p>parliaments to have a real influence over the proceedings and the result.</p>
+<p>The states shall not adopt or permit measures that may significantly damage</p>
+<p>the basic conditions for Saami culture, Saami livelihoods or society, unless consented</p>
+<p>to by the Saami parliament concerned.</p>
+<p>Article 17</p>
+<p>The rights of the Saami parliaments during preparation of other matters</p>
+<p>The Saami parliaments shall have the right to be represented on public</p>
+<p>councils and committees when these deal with matters that concerns the interests of</p>
+<p>the Saami.</p>
+<p>Matters concerning Saami interests shall be submitted to the Saami</p>
+<p>parliaments before a decision is made by a public authority.</p>
+<p>The states shall investigate the need for such representation and prior opinions</p>
+<p>from the Saami parliaments. This must take place sufficiently early to enable the</p>
+<p>Saami parliaments to influence the proceedings and the outcome.</p>
+<p>The Saami parliaments shall themselves decide when they wish to be</p>
+<p>represented or submit prior opinions during such preparation of matters.</p>
+<p>Article 18</p>
+<p>The relationship to national assemblies</p>
+<p>The national assemblies of the states or their committees or other bodies shall,</p>
+<p>upon request, receive representatives of the Saami parliaments in order to enable them</p>
+<p>to report on matters of importance to the Saami.</p>
+<p>The Saami parliaments shall be given the opportunity to be heard during the</p>
+<p>consideration by national assemblies of matters that particularly concern the Saami</p>
+<p>people.</p>
+<p>The national assemblies of the individual states shall issue further regulations</p>
+<p>concerning which matters this applies to and concerning the procedure to be followed.</p>
+<p>Article 19</p>
+<p>The Saami and international representation</p>
+<p>The Saami parliaments shall represent the Saami in intergovernmental matters.</p>
+<p>The states shall promote Saami representation in international institutions and</p>
+<p>Saami participation in international meetings.</p>
+<p>Article 20</p>
+<p>Joint Saami organizations</p>
+<p>The Saami parliaments may form joint organizations. In consultation with the</p>
+<p>Saami parliaments, the states shall strive to transfer public authority to such joint</p>
+<p>organizations as needed.</p>
+<p>Article 21</p>
+<p>Other Saami associations</p>
+<p>The states shall respect and when necessary consult Saami villages</p>
+<p>(samebyar), siidas, reindeer herders’ communities (renbeteslag), the village</p>
+<p>assemblies of the Skolt Saami (<em type="italic">byastämma)</em> and other competent Saami organizations </p>
+<p>or local Saami representatives.</p>
+<p>Article 22</p>
+<p>A Saami region</p>
+<p>The states shall actively seek to identify and develop the area within which the</p>
+<p>Saami people can manage its particular rights pursuant to this Convention and</p>
+<p>national legislation.</p>
+<p><em type="bold">Chapter III </em></p>
+<p><em type="bold">Saami language and culture </em></p>
+<p>Article 23</p>
+<p>Saami language rights</p>
+<p>The Saami shall have the right to use, develop and pass on to future</p>
+<p>generations its language and its traditions and have the right to make efforts to ensure that knowledge of the Saami language is also disseminated to Saami persons with</p>
+<p>little or no command of this language.</p>
+<p>The Saami shall have the right to decide and retain their personal names and</p>
+<p>geographical names, as well as to have these publicly acknowledged.</p>
+<p>Article 24</p>
+<p>The states’ responsibility for the Saami language</p>
+<p>The states shall enable the Saami to preserve, develop and disseminate the</p>
+<p>Saami language. To meet this end, states shall ensure that the Saami alphabet can be</p>
+<p>used effectively.</p>
+<p>It shall be possible to use the Saami language effectively in courts of law and</p>
+<p>in relation to public authorities in the Saami areas. The same shall also apply outside</p>
+<p>these areas in disputes and cases first dealt with in the Saami areas or which in any</p>
+<p>other manner have a particular association with these areas.</p>
+<p>The states shall promote the publication of literature in the Saami language.</p>
+<p>The provisions of this article shall also apply to the less prevalent Saami</p>
+<p>dialects.</p>
+<p>Article 25</p>
+<p>Saami media</p>
+<p>The states shall create conditions for an independent Saami media policy</p>
+<p>which enables the Saami media to control its own development and to provide the</p>
+<p>Saami population with rich and multi-faced information and opinions in matters of</p>
+<p>general interest.</p>
+<p>The states shall ensure that programmes in the Saami language can be</p>
+<p>broadcast on radio and TV, and shall promote the publication of newspapers in this</p>
+<p>language. In cooperation with the Saami parliaments, the states shall also promote</p>
+<p>cooperation across national borders between media institutions that provide</p>
+<p>programmes or articles in the Saami language.</p>
+<p>The provision of the second paragraph concerning the Saami language shall</p>
+<p>also to a reasonable extent apply to the less prevalent Saami dialects.</p>
+<p>Article 26</p>
+<p>Saami education</p>
+<p>The Saami population residing in the Saami areas shall have access to</p>
+<p>education both in and through the medium of the Saami language. The education and</p>
+<p>study financing system shall be adapted to their background. Such education shall</p>
+<p>enable attendance of further education at all levels while at the same time meet the</p>
+<p>needs of Saami individuals to continuously be active within the traditional Saami</p>
+<p>livelihoods. The study financing system shall be arranged in such a way as to enable</p>
+<p>higher education through the medium of the Saami language.</p>
+<p>Saami children and adolescents outside the Saami areas shall have access to</p>
+<p>education in the Saami language, and also through the medium of the Saami language</p>
+<p>to the extent that may be deemed reasonable in the area concerned. The education</p>
+<p>shall as far as possible be adapted to their background.</p>
+<p>The national curricula shall be prepared in cooperation with the Saami</p>
+<p>parliaments and be adapted to the cultural backgrounds and needs of Saami children</p>
+<p>and adolescents.</p>
+<p>Article 27</p>
+<p>Research</p>
+<p>The states shall, in cooperation with the Saami parliaments, create good</p>
+<p>conditions for research based on the knowledge needs of the Saami society, and</p>
+<p>promote recruitment of Saami researchers. In planning such research, regard shall be</p>
+<p>paid to the linguistic and cultural conditions in the Saami society.</p>
+<p>The states shall, in consultation with the Saami parliaments, promote</p>
+<p>cooperation between Saami and other research institutions in the various countries</p>
+<p>and across national borders, and strengthen research institutions with a primary</p>
+<p>responsibility for such research referred to in the first paragraph.</p>
+<p>Research concerning Saami matters shall be adapted to such ethical rules that</p>
+<p>the Saami’s status as an indigenous people requires.</p>
+<p>Article 28</p>
+<p>Education and information about the Saami</p>
+<p>The Saami people’s culture and society shall be appropriately reflected in</p>
+<p>education outside the Saami society. Such education shall particularly aim to promote</p>
+<p>knowledge of the status of the Saami as the country’s indigenous people. The states</p>
+<p>shall, in cooperation with the Saami parliaments, offer education about the Saami</p>
+<p>culture and society to persons who are going to work in the Saami areas.</p>
+<p>The states shall, in cooperation with the Saami parliaments, provide the</p>
+<p>general public with information about the Saami culture and society.</p>
+<p>Article 29</p>
+<p>Health and social services</p>
+<p>The states shall, in cooperation with the Saami parliaments, ensure that health</p>
+<p>and social services in the Saami settlement areas are organized in such a way that the</p>
+<p>Saami population in these areas are ensured health and social services adapted to their</p>
+<p>linguistic and cultural background.</p>
+<p>Also health and social services outside the Saami settlement areas shall pay</p>
+<p>regard to the linguistic and cultural background of Saami patients and clients.</p>
+<p>Article 30</p>
+<p>Saami children and adolescents</p>
+<p>Saami children and adolescents have the right to practise their culture and to</p>
+<p>preserve and develop their Saami identity.</p>
+<p>Article 31</p>
+<p>Traditional knowledge and cultural expressions</p>
+<p>The states shall respect the right of the Saami people to manage its traditional</p>
+<p>knowledge and its traditional cultural expressions while striving to ensure that the</p>
+<p>Saami are able to preserve, develop and pass these on to future generations.</p>
+<p>When Saami culture is applied commercially by persons other than Saami</p>
+<p>persons, the states shall make efforts to ensure that the Saami people gains influence</p>
+<p>over such activities and a reasonable share of the financial revenues. The Saami culture shall be protected against the use of cultural expressions that in a misleading</p>
+<p>manner give the impression of having a Saami origin.</p>
+<p>The states shall make efforts to ensure that regard is paid to Saami traditional</p>
+<p>knowledge in decisions concerning Saami matters.</p>
+<p>Article 32</p>
+<p>Saami cultural heritage</p>
+<p>Saami cultural heritage shall be protected by law and shall be cared for by the</p>
+<p>country’s Saami parliament or by cultural institutions in cooperation with the Saami</p>
+<p>parliament.</p>
+<p>The states shall implement measures for cooperation across national borders</p>
+<p>on documentation, protection and care of Saami cultural heritage.</p>
+<p>The states shall make efforts to ensure that Saami cultural heritage that has</p>
+<p>been removed from the Saami areas and that is of particular interest to the Saami</p>
+<p>community is entrusted to suitable museums or cultural institutions as further agreed</p>
+<p>with the countries’ Saami parliaments.</p>
+<p>Article 33</p>
+<p>The cultural basis</p>
+<p>The responsibilities of the states in matters concerning the Saami culture shall</p>
+<p>include the material cultural basis in such a way that the Saami are provided with the</p>
+<p>necessary commercial and economic conditions to secure and develop their culture.</p>
+<p><em type="bold">Chapter IV </em></p>
+<p><em type="bold">Saami right to land and water </em></p>
+<p>Article 34</p>
+<p>Traditional use of land and water</p>
+<p>Protracted traditional use of land or water areas constitutes the basis for</p>
+<p>individual or collective ownership right to these areas for the Saami in accordance</p>
+<p>with national or international norms concerning protracted usage.</p>
+<p>If the Saami, without being deemed to be the owners, occupy and have</p>
+<p>traditionally used certain land or water areas for reindeer husbandry, hunting, fishing or in other ways, they shall have the right to continue to occupy and use these areas to</p>
+<p>the same extent as before. If these areas are used by the Saami in association with</p>
+<p>other users, the exercise of their rights by the Saami and the other users shall be</p>
+<p>subject to due regard to each other and to the nature of the competing rights.</p>
+<p>Particular regard in this connection shall be paid to the interests of reindeer-herding</p>
+<p>Saami. The fact that the Saami use of these areas is limited to the right of continued</p>
+<p>use to the same extent as before shall not prevent the forms of use from being adapted</p>
+<p>as necessary to technical and economic developments.</p>
+<p>Assessment of whether traditional use exists pursuant to this provision shall be</p>
+<p>made on the basis of what constitutes traditional Saami use of land and water and bear</p>
+<p>in mind that Saami land and water usage often does not leave permanent traces in the</p>
+<p>environment.</p>
+<p>The provisions of this article shall not be construed as to imply any limitation</p>
+<p>in the right to restitution of property that the Saami might have under national or</p>
+<p>international law.</p>
+<p>Article 35</p>
+<p>Protection of Saami rights to land and water</p>
+<p>The states shall take adequate measures for effective protection of Saami</p>
+<p>rights pursuant to article 34. To that end, the states shall particularly identify the land</p>
+<p>and water areas that the Saami traditionally use.</p>
+<p>Appropriate procedures for examination of questions concerning Saami rights</p>
+<p>to land and water shall be available under national law. In particular, the Saami shall</p>
+<p>have access to such financial support that is necessary for them to be able to have</p>
+<p>their rights to land and water tried through legal proceedings.</p>
+<p>Article 36</p>
+<p>Utilization of natural resources</p>
+<p>The rights of the Saami to natural resources within such land or water areas</p>
+<p>that fall within the scope of Article 34 shall be afforded particular protection. In this</p>
+<p>connection, regard shall be paid to the fact that continues access to such natural</p>
+<p>resources may be a prerequisite for the preservation of traditional Saami knowledge</p>
+<p>and cultural expressions.</p>
+<p>Before public authorities, based on law, grant a permit for prospecting or</p>
+<p>extraction of minerals or other sub-surface resources, or make decisions concerning</p>
+<p>utilization of other natural resources within such land or water areas that are owned or</p>
+<p>used by the Saami, negotiations shall be held with the affected Saami, as well as with</p>
+<p>the Saami parliament, when the matter is such that it falls within Article 16.</p>
+<p>Permit for prospecting or extraction of natural resources shall not be granted if</p>
+<p>the activity would make it impossible or substantially more difficult for the Saami to</p>
+<p>continue to utilize the areas concerned, and this utilization is essential to the Saami</p>
+<p>culture, unless so consented by the Saami parliament and the affected Saami.</p>
+<p>The above provisions of this article also apply to other forms of natural</p>
+<p>resource utilization and to other forms of intervention in the nature in such</p>
+<p>geographical areas that fall under Article 34, including activities such as forest</p>
+<p>logging, hydroelectric and wind power plants, construction of roads and recreational</p>
+<p>housing and military exercise activities and permanent exercise ranges.</p>
+<p>Article 37</p>
+<p>Compensation and share of profits</p>
+<p>The affected Saami shall have the right to compensation for all damage</p>
+<p>inflicted through activities referred to in Article 36, paragraphs two and four. If</p>
+<p>national law obliges persons granted permit to extract natural resources to pay a fee or</p>
+<p>share of the profit from such activities, to the landowner, the permit holder shall be</p>
+<p>similarly obliged in relation to the Saami that have traditionally used and continue to</p>
+<p>use the area concerned.</p>
+<p>The provisions of this article shall not be construed as to imply any limitation</p>
+<p>in the right to a share of the profit from extraction of natural resources that may</p>
+<p>follow under international law.</p>
+<p>Article 38</p>
+<p>Fjords and coastal seas</p>
+<p>The provisions of Articles 34–37 concerning rights to water areas and use of</p>
+<p>water areas shall apply correspondingly to Saami fishing and other use of fjords and</p>
+<p>coastal seas.</p>
+<p>In connection with the allocation of catch quotas for fish and other marine</p>
+<p>resources, as well as when otherwise regulation such resources, due regard shall be</p>
+<p>paid to Saami use of these resources and its importance to local Saami communities.</p>
+<p>This shall apply even though this use has been reduced or has ceased due to the fact</p>
+<p>that catch quotas have not been granted or owing to other regulations of the fisheries</p>
+<p>or other exploitation of resources in these areas. The same shall apply if the use is</p>
+<p>reduced or has ceased owing to a reduction of marine resources in these areas.</p>
+<p>Article 39</p>
+<p>Land and resource management</p>
+<p>In addition to the ownership or usage rights that the Saami enjoy, the Saami</p>
+<p>parliaments shall have the right of co-determination in the public management of the</p>
+<p>areas referred to in Articles 34 and 38, pursuant to Article 16.</p>
+<p>Article 40</p>
+<p>Environmental protection and environmental management</p>
+<p>The states are in cooperation with the Saami parliaments, obliged to actively</p>
+<p>protect the environment in order to ensure sustainable development of the Saami land</p>
+<p>and water areas referred to in Articles 34 and 38.</p>
+<p>Pursuant to Article 16, the Saami parliaments shall have the right of co</p>
+<p>determination in the environmental management affecting these areas.</p>
+<p><em type="bold">Chapter V </em></p>
+<p><em type="bold">Saami livelihoods </em></p>
+<p>Article 41</p>
+<p>Protection of Saami livelihoods</p>
+<p>Saami livelihoods and Saami use of natural resources shall enjoy special</p>
+<p>protection by means of legal or economic measures to the extent that they constitute</p>
+<p>an important fundament for the Saami culture.</p>
+<p>Saami livelihoods and Saami use of natural resources are such activities that</p>
+<p>are essential for the maintenance and development of the local Saami communities.</p>
+<p>Article 42</p>
+<p>Reindeer husbandry as a Saami livelihood</p>
+<p>Reindeer husbandry, as a particular and traditional Saami livelihood and a</p>
+<p>form of culture, is based on custom and shall enjoy special legal protection.</p>
+<p>To that end, Norway and Sweden shall maintain and develop reindeer</p>
+<p>husbandry as a sole right of the Saami in the Saami reindeer grazing areas.</p>
+<p>Acknowledging Protocol No. 3 of its Affiliation Agreement with the European</p>
+<p>Union concerning the Saami as an indigenous people, Finland undertakes to</p>
+<p>strengthen the position of Saami reindeer husbandry.</p>
+<p>Article 43</p>
+<p>Reindeer husbandry across national borders</p>
+<p>The right of the Saami to reindeer grazing across national borders is based on</p>
+<p>custom.</p>
+<p>If agreements have been concluded between Saami villages (samebyar), siidas</p>
+<p>or reindeer grazing communities (renbeteslag) concerning the right to reindeer</p>
+<p>grazing across national borders, these agreements shall prevail. In the event of dispute</p>
+<p>concerning the interpretation or application of such an agreement, a party shall have</p>
+<p>the opportunity to bring the dispute before an arbitration committee for decision.</p>
+<p>Regarding the composition of such an arbitration committee and its rules of</p>
+<p>procedure, the regulation jointly decided by the three Saami parliaments shall apply.</p>
+<p>A party who is dissatisfied with the arbitration committee’s decision of the dispute</p>
+<p>shall have the right to file a suit on the matter in a court of law in the country on</p>
+<p>which territory the grazing area is situated.</p>
+<p>In the absence of an applicable agreement between Saami villages (samebyar),</p>
+<p>siidas or reindeer grazing communities (renbeteslag), if a valid bilateral treaty</p>
+<p>regarding reindeer grazing exists, such a treaty shall apply. Notwithstanding any such</p>
+<p>treaty, shall a person asserting that he or she has a reindeer grazing right based on</p>
+<p>custom that goes beyond what follows from the bilateral treaty, have the opportunity</p>
+<p>to have his or her claim tried before a court of law in the country on which territory</p>
+<p>the grazing area is situated.</p>
+<p><em type="bold">Chapter VI </em></p>
+<p><em type="bold">Implementation and development of the Convention </em></p>
+<p>Article 44</p>
+<p>Cooperation Council of Saami ministers and presidents of Saami Parliaments</p>
+<p>The ministers in Finland, Norway and Sweden responsible for Saami affairs</p>
+<p>and the presidents of Saami Parliaments from each of these countries shall convene</p>
+<p>regularly.</p>
+<p>The said cooperation shall promote the objectives of this Convention pursuant</p>
+<p>to Article 1. The meetings shall consider relevant Saami matters of common interest.</p>
+<p>Article 45</p>
+<p>Convention committee</p>
+<p>A Nordic Saami Convention Committee shall be established to monitor the</p>
+<p>implementation of this Convention. The committee shall have six members serving in</p>
+<p>their independent capacity. Each of the three states and and each of the three Saami</p>
+<p>parliaments appoint one member each. Members shall be appointed for a period of</p>
+<p>five years.</p>
+<p>The committee shall submit reports to the governments of the three countries</p>
+<p>and to the three Saami parliaments. It may submit proposals aimed at strengthening</p>
+<p>the objective of this Convention to the governments of the three countries and to the</p>
+<p>three Saami parliaments. The committee may also deliver opinions in response to</p>
+<p>questions from individuals and groups.</p>
+<p>Article 46</p>
+<p>National implementation</p>
+<p>In order to ensure as uniform an application of this Convention as possible, the</p>
+<p>states shall make the provisions of the Convention directly applicable as national law.</p>
+<p>Article 47</p>
+<p>Economic commitments</p>
+<p>The states shall provide the financial resources necessary to implement the</p>
+<p>provisions of this Convention. The joint expenses of the three countries shall be</p>
+<p>divided between them in relation to the Saami population in each country.</p>
+<p>In addition to situations referred to in paragraph 2 of Article 35,  it shall be</p>
+<p>possible for the Saami to receive the necessary financial assistance to bring important</p>
+<p>questions of principle concerning the rights contained in this Convention before a</p>
+<p>court of law.</p>
+<p><em type="bold">Chapter VII </em></p>
+<p><em type="bold">Final provisions </em></p>
+<p>Article 48</p>
+<p>The approval of the Saami parliaments</p>
+<p>After being signed, this Convention shall be submitted to the three Saami</p>
+<p>parliaments for approval.</p>
+<p>Article 49</p>
+<p>Ratification</p>
+<p>This Convention shall be subject to ratification. Ratification may not take</p>
+<p>place until the three Saami parliaments have given their approval pursuant to Article</p>
+<p>48.</p>
+<p>Article 50</p>
+<p>Entry into force</p>
+<p>The Convention shall enter into force thirty days after the date that the</p>
+<p>instruments of ratification are deposited with the Norwegian Ministry of Foreign</p>
+<p>Affairs.</p>
+<p>The Norwegian Ministry of Foreign Affairs shall notify Finland, Sweden and</p>
+<p>the three Saami parliaments of the deposit of the instruments of ratification and of the</p>
+<p>date of entry into force of the Convention.</p>
+<p>The original of this Convention shall be deposited with the Norwegian</p>
+<p>Ministry of Foreign Affairs, which shall provide authenticated copies to Finland,</p>
+<p>Sweden and the three Saami parliaments.</p>
+<p>Article 51</p>
+<p>Amendments to the Convention</p>
+<p>Amendments to this Convention shall be made in cooperation with the three</p>
+<p>Saami parliaments, and with respect for the provision in Article 48.</p>
+<p>An amendment to the Convention enters into force thirty days after the date</p>
+<p>that the parties to the Convention notify the Norwegian Ministry of Foreign Affairs</p>
+<p>that the amendments have been approved by them.</p>
+<p>In witness whereof the representatives of the parties to the Convention have</p>
+<p>signed the present Convention.</p>
+<p>Which took place at …. on …. 20…. in a single copy in the Finnish,</p>
+<p>Norwegian, Swedish and Saami languages, all texts being equally authentic.</p>
+</body></document>

@@ -1,327 +1,261 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>3977</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual/>
-    <origFileName>http://www.udir.no/kl06/ENG1-03/Hele/Komplett_visning?lplang=eng&amp;read=1</origFileName>
-    <parallel_text xml:lang="nob" location="laereplan_engelsk.html"/>
-    <parallel_text xml:lang="sma" location="laereplan_engelsk.html"/>
-    <parallel_text xml:lang="sme" location="laereplan_engelsk.html"/>
-    <parallel_text xml:lang="smj" location="laereplan_engelsk.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Udir.no - English subject curriculum</p>
-    <p xml:lang="nob">Hovedinnhold</p>
-    <p type="title">English subject curriculum</p>
-    <p>Established as a Regulation by the Ministry of Education and Research on 21 June 2013</p>
-    <p>Applicable from: 01.08.2013</p>
-    <p type="title">Purpose</p>
-    <p>English is a universal language. When we meet people from other countries, at home or abroad, we need English for communication. English is used in films, literature, songs, sports, trade, products, science and technology, and through these areas many English words and expressions have found their way into our own languages. When we want information on something of private or professional interest, we often search for it in English. In addition, English is increasingly used in education and as a working language in many companies.</p>
-    <p>To succeed in a world where English is used for international communication, it is necessary to be able to use the English language and to have knowledge of how it is used in different contexts. Thus, we need to develop a vocabulary and skills in using the systems of the English language, it`s phonology orthography, grammar and principles for sentence and text construction and to be able to adapt the language to different topics and communication situations. This involves being able to distinguish between oral (spoken) and textual (written) styles and formal and informal styles. Moreover, when using the language for communication we must also be able to take cultural norms and conventions into consideration.</p>
-    <p>Language learning occurs while encountering a diversity of texts, where the concept of text is used in the broadest sense of the word. It involves oral and written representations in different combinations and a range of oral and written texts from digital media. When we are aware of the strategies that are used to learn a language, and strategies that help us to understand and to be understood, the acquisition of knowledge and skills becomes easier and more meaningful. It is also important to establish our own goals for learning, to determine how these can be reached and to assess the way we use the language. Learning English will contribute to multilingualism and can be an important part of our personal development.</p>
-    <p>In addition to language learning, the subject of English shall contribute to providing insight into the way people live and different cultures where English is the primary or the official language. The subject of English shall provide insight into how English is used as an international means of communication. Learning about the English-speaking world and the increasing use of English in different international contexts will provide a good basis for understanding the world around us and how English developed into a world language. Literary texts in English can instil a lifelong joy of reading and a deeper understanding of others and of oneself. Oral, written and digital texts, films, music and other cultural forms of expression can further inspire personal expressions and creativity.</p>
-    <p>Thus, English as a school subject is both a tool and a way of gaining knowledge and personal insight. It will enable the pupils to communicate with others on personal, social, literary and interdisciplinary topics. The subject shall help build up general language proficiency through listening, speaking, reading and writing, and provide the opportunity to acquire information and specialised knowledge through the English language. Development of communicative language skills and cultural insight can promote greater interaction, understanding and respect between persons with different cultural backgrounds. Thus, language and cultural competence promote the general education perspective and strengthen democratic involvement and co-citizenship.</p>
-    <p type="title">Main subject areas</p>
-    <p>The subject of English is structured into main subject areas with competence aims. The main subject areas supplement each other and must be considered together.</p>
-    <p>The subject of English is a common core subject for all the upper secondary education programmes. Learning in this subject shall therefore be made as relevant as possible for pupils by adapting each subject to the different education programmes.</p>
-    <p>English has competence aims after the second, fourth, seventh and tenth years in primary and lower secondary school and after the first year in the programmes for general studies (Vg1) or after the second year of a vocational education programmes (Vg2).</p>
-    <p><em type="bold">Overview of main subject areas: </em></p>
-    <p><em type="bold">Year </em></p>
-    <p><em type="bold">Main subject areas </em></p>
-    <p xml:lang="koi"><em type="bold">1–10 </em></p>
-    <p xml:lang="deu"><em type="bold">Vg1 </em></p>
-    <p xml:lang="deu"><em type="bold">Vg2 </em></p>
-    <p><em type="bold">(vocational education programme) </em></p>
-    <p xml:lang="isl">Language learning</p>
-    <p>Oral communication</p>
-    <p>Written communication</p>
-    <p>Culture, society and literature</p>
-    <p type="title" xml:lang="isl">Language learning</p>
-    <p>The main subject area Language learning focuses on what is involved in learning a new language and seeing relationships between English, one's native language and other languages. It covers knowledge about the language, language usage and insight into one's own language learning. The ability to evaluate own language usage and learning needs and to select suitable strategies and working methods is useful when learning and using the English language.</p>
-    <p type="title">Oral communication</p>
-    <p>The main subject area Oral communication deals with understanding and using the English language by listening, speaking, conversing and applying suitable communication strategies. The main subject area involves developing a vocabulary and using idiomatic structures and grammatical patterns when speaking and conversing. It also covers learning to speak clearly and to use the correct intonation.</p>
-    <p>The main subject area involves listening to, understand and using English in different situations where communication needs to be done orally. General politeness and awareness of social norms in different situations are also an important element. This also involves adapting the language to purposeful objectives and adapting the language to the recipient, i.e. by distinguishing between formal and informal spoken language.</p>
-    <p>The use of different media and resources and the development of a linguistic repertoire across subjects and topics are also key elements of the main subject area.</p>
-    <p type="title">Written communication</p>
-    <p>The main subject area Written communication deals with understanding and using English language through reading, writing and using suitable reading and writing strategies.</p>
-    <p>The main subject area includes reading a variety of different texts in English to stimulate the joy of reading, to experience greater understanding and to acquire knowledge. This involves reading a large quantity of literature to promote language understanding and competence in the use of text. Reading different types of texts can lay the foundation for personal growth, maturation and creativity and provide the inspiration necessary to create texts.</p>
-    <p>The main subject area includes writing different texts in English in different situations where written communication is necessary to stimulate the joy of writing, to experience greater understanding and to acquire knowledge. This also involves adapting the language to purposeful objectives and to the recipient, i.e. by distinguishing between formal and informal written language. The main subject area involves developing a vocabulary and using orthography, idiomatic structures and grammatical patterns when writing. It also covers creating structure, coherence and concise meaning in texts.</p>
-    <p>The use of different media and resources and the development of a linguistic repertoire across subjects and topics are also key elements of the main subject area.</p>
-    <p type="title">Culture, society and literature</p>
-    <p>The main subject area Culture, society and literature focuses on cultural understanding in a broad sense. It is based on the English-speaking countries and covers key topics connected to social issues, literature and other cultural expressions. This main area also involves developing knowledge about English as a world language with many areas of use.</p>
-    <p>The main subject area involves working with and discussing expository texts, literary texts and cultural forms of expression from different media. This is essential to develop knowledge about, understanding of and respect for the lives and cultures of other people.</p>
-    <p type="title">Teaching hours</p>
-    <p>Teaching hours are given in 60-minute units:</p>
-    <p xml:lang="vep">PRIMARY SCHOOL</p>
-    <p>Years 1-4: 138 teaching hours</p>
-    <p>Years 5-7: 228 teaching hours</p>
-    <p xml:lang="vep">LOWER SECONDARY LEVEL</p>
-    <p>Years 8-10: 222 teaching hours</p>
-    <p xml:lang="nob">PROGRAMME FOR GENERAL STUDIES</p>
-    <p>Vg1: 140 teaching hours</p>
-    <p xml:lang="deu">VOCATIONAL EDUCATION PROGRAMME</p>
-    <p>Vg1: 84 teaching hours</p>
-    <p>Vg2: 56 teaching hours</p>
-    <p type="title">Basic skills</p>
-    <p>Basic skills are integrated in the competence aims where they contribute to the development of competence in the subject, while also being part of this competence. In the subject of English, the basic skills are understood as follows:</p>
-    <p><em type="italic">Oral skills </em>in English means being able to listen, speak and interact using the English language. It means evaluating and adapting ways of expression to the purpose of the conversation, the recipient and the situation. This further involves learning about social conventions and customs in English-speaking countries and in international contexts. The development of oral skills in English involves using oral language in gradually using more precise and nuanced language in conversation and in other kinds of oral communication. It also involves listening to, understanding and discussing topics and issues to acquire more specialised knowledge. This also involves being able to understand variations in spoken English from different parts of the world. </p>
-    <p><em type="italic">Being able to express oneself in writing </em>in English means being able to express ideas and opinions in an understandable and purposeful manner using written English. It means planning, formulating and working with texts that communicates and that are well structured and coherent. Writing is also a tool for language learning. The development of writing proficiency in English involves learning orthography and developing a more extensive repertoire of English words and linguistic structures. Furthermore, it involves developing versatile competence in writing different kinds of generalised, literary and technical texts in English using informal and formal language that is suited to the objective and recipient. </p>
-    <p><em type="italic">Being able to read </em>in English means the ability to create meaning by reading different types of text. It means reading English language texts to understand, reflect on and acquire insight and knowledge across cultural borders and within specific fields of study. This further involves preparing and working with reading English texts for different reasons and of varying lengths and complexities. The development of reading proficiency in English implies using reading strategies that are suited to the objective by reading texts that are advancingly more demanding. Furthermore, it involves reading English texts fluently and to understand, explore, discuss, learn from and to reflect upon different types of information. </p>
-    <p><em type="italic">Numeracy </em>in English means being able to use relevant mathematical concepts in English in different situations. This involves familiarity with units of measure used in English-speaking countries and to understand and to communicate in figures, graphic representations, tables and statistics in English. The development of numeracy in English involves using figures and calculations to develop a repertoire of mathematical terms in English related to daily life and general and technical fields. </p>
-    <p><em type="italic">Digital skills </em>in English means being able to use a varied selection of digital tools, media and resources to assist in language learning, to communicate in English and to acquire relevant knowledge in the subject of English. The use of digital resources provides opportunities to experience English texts in authentic situations, meaning natural and unadapted situations. The development of digital skills involves gathering and processing information to create different kinds of text. Formal requirements in digital texts means that effects, images, tables, headlines and bullet points are compiled to emphasise and communicate a message. This further involves using digital sources in written texts and oral communication and having a critical and independent attitude to the use of sources. Digital skills involve developing knowledge about copyright and protection of personal privacy through verifiable references to sources. </p>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after Year 2</p>
-    <p type="title" xml:lang="isl">Language learning</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">give examples of situations where it might be useful to have some English language skills</p>
-      <p type="listitem">find words and phrases that are common to English and one’s native language</p>
-      <p type="listitem">use digital resources in experiencing the language</p>
-    </list>
-    <p type="title">Oral communication</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">listen for and use English phonemes through practical-aesthetic forms of expression</p>
-      <p type="listitem">listen to and understand basic instructions in English</p>
-      <p type="listitem">listen to and understand words and expressions in English nursery rhymes, word games, songs, fairy tales and stories</p>
-      <p type="listitem">understand and use some English words, expressions and sentence patterns related to local surroundings and own interests</p>
-      <p type="listitem">greet people, ask and respond to simple questions and use some polite expressions</p>
-      <p type="listitem">participate in simple rehearsed dialogues and spontaneous conversations related to local surroundings and own experiences</p>
-      <p type="listitem">use figures in conversation about local surroundings and own experiences</p>
-    </list>
-    <p type="title">Written communication</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">recognise the relation between some English phonemes and spelling patterns</p>
-      <p type="listitem">experiment with reading and writing English words, expressions and basic sentences related to local surroundings and own interests</p>
-    </list>
-    <p type="title">Culture, society and literature</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">converse about aspects of the day-to-day life of children in English-speaking countries</p>
-      <p type="listitem">participate in and experience children’s culture from English-speaking countries through words, pictures, music and movement</p>
-      <p type="listitem">express own experiences from English nursery rhymes, word games, songs, fairy tales and stories</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after Year 4</p>
-    <p type="title" xml:lang="isl">Language learning</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">identify situations where it might be useful or necessary to have English language skills</p>
-      <p type="listitem">converse about one`s own work in learning English</p>
-      <p type="listitem">find similarities between words and expressions in English and his/her own native language</p>
-      <p type="listitem">use digital resources and other aids in exploring the language</p>
-    </list>
-    <p type="title">Oral communication</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">use simple listening and speaking strategies</p>
-      <p type="listitem">listen to and understand the meaning of words and expressions based on the context they are used in</p>
-      <p type="listitem">understand and use English words, expressions and sentence patterns related to one’s needs and feelings, daily life, leisure time and own interests</p>
-      <p type="listitem">understand the main content of nursery rhymes, word games, songs, fairy tales and stories</p>
-      <p type="listitem">use some polite expressions and simple phrases to obtain help in understanding and being understood</p>
-      <p type="listitem">participate in everyday conversations related to local surroundings and own experiences</p>
-      <p type="listitem">be able to repeat the English alphabet and spell names and home town</p>
-      <p type="listitem">understand and use English words and expressions related to prices, quantities, shape and size when communicating about one’s daily life, leisure time and own interests</p>
-    </list>
-    <p type="title">Written communication</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">use simple reading and writing strategies</p>
-      <p type="listitem">understand the relation between English phonemes and letters and put sounds together to form words</p>
-      <p type="listitem">understand the meaning of words and expressions based on the context they are used in</p>
-      <p type="listitem">read, understand and write English words and expressions related to one’s needs and feelings, daily life, leisure time and own interests</p>
-      <p type="listitem">understand the main content of simple texts about familiar topics</p>
-      <p type="listitem">write short texts that express opinions and interests, and that describe, narrate and enquire</p>
-      <p type="listitem">use some common short words and simple spelling and sentence patterns</p>
-      <p type="listitem">use digital tools to retrieve information and experiment in creating texts</p>
-    </list>
-    <p type="title">Culture, society and literature</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">give some examples of English-speaking countries and famous people from these countries</p>
-      <p type="listitem">converse about some aspects of different ways of living, traditions and customs in English-speaking countries and in Norway</p>
-      <p type="listitem">participate in presenting nursery rhymes, word games, songs, short plays and stories in English</p>
-      <p type="listitem">express own thoughts and opinions in the encounter with English-language literature and child culture</p>
-      <p type="listitem">create own texts inspired by English-language literature and child culture</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after Year 7</p>
-    <p type="title" xml:lang="isl">Language learning</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">identify and use different situations and learning strategies to expand one`s English-language skills</p>
-      <p type="listitem">describe his/her own work in learning English</p>
-      <p type="listitem">identify some linguistic similarities and differences between English and one’s native language</p>
-      <p type="listitem">use digital resources and other aids in one`s own language learning</p>
-    </list>
-    <p type="title">Oral communication</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">use listening and speaking strategies</p>
-      <p type="listitem">understand and use a vocabulary related to familiar topics</p>
-      <p type="listitem">understand the main content of oral texts about familiar topics</p>
-      <p type="listitem">use expressions of politeness and appropriate expressions for the situation</p>
-      <p type="listitem">express oneself to obtain help in understanding and being understood in different situations</p>
-      <p type="listitem">express and give grounds for own opinions about familiar topics</p>
-      <p type="listitem">introduce, maintain and terminate conversations related to familiar situations</p>
-      <p type="listitem">use basic patterns for pronunciation, intonation, word inflection and different types of sentences in communication</p>
-      <p type="listitem">express oneself using simple calculations, currency and units of measure when communicating about everyday situations</p>
-    </list>
-    <p type="title">Written communication</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">use reading and writing strategies</p>
-      <p type="listitem">understand and use a vocabulary related to familiar topics</p>
-      <p type="listitem">understand the main content of texts one has chosen</p>
-      <p type="listitem">read and understand different types of texts of varying length from different sources</p>
-      <p type="listitem">take notes to create different types of texts</p>
-      <p type="listitem">write coherent texts that narrate, retell and describe experiences and express own opinions</p>
-      <p type="listitem">use basic patterns for orthography, word inflection, sentence and text construction to produce texts</p>
-      <p type="listitem">use digital tools and other aids to find relevant information and to create different types of texts</p>
-    </list>
-    <p type="title">Culture, society and literature</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">narrate about people, places and events in English-speaking countries</p>
-      <p type="listitem">converse about the way people live and socialise in different cultures in English-speaking countries and in Norway, including the Sami culture</p>
-      <p type="listitem">read children’s and youth literature in English and converse about persons and content</p>
-      <p type="listitem">express own reactions to English literary texts, films, internet culture, pictures and music</p>
-      <p type="listitem">express oneself creatively inspired by different types of English literature from various sources</p>
-      <p type="listitem">communicate short texts about topics one has chosen</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after Year 10</p>
-    <p type="title" xml:lang="isl">Language learning</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">use different situations, working methods and learning strategies to develop one’s English-language skills</p>
-      <p type="listitem">comment on own work in learning English</p>
-      <p type="listitem">identify significant linguistic similarities and differences between English and one’s native language and use this knowledge in one's own language learning</p>
-      <p type="listitem">select different digital resources and other aids and use them in an independent manner in own language learning</p>
-    </list>
-    <p type="title">Oral communication</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">choose and use different listening and speaking strategies that are suitable for the purpose</p>
-      <p type="listitem">understand and use a general vocabulary related to different topics</p>
-      <p type="listitem">demonstrate the ability to distinguish positively and negatively loaded expressions referring to individuals and groups</p>
-      <p type="listitem">understand the main content and details of different types of oral texts on different topics</p>
-      <p type="listitem">listen to and understand variations of English from different authentic situations</p>
-      <p type="listitem">express oneself fluently and coherently, suited to the purpose and situation</p>
-      <p type="listitem">express and justify own opinions about different topics</p>
-      <p type="listitem">introduce, maintain and terminate conversations on different topics by asking questions and following up on input</p>
-      <p type="listitem">use the central patterns for pronunciation, intonation, word inflection and different types of sentences in communication</p>
-      <p type="listitem">understand and use different numerical expressions and other kinds of data in communication</p>
-    </list>
-    <p type="title">Written communication</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">choose and use different reading and writing strategies that are suitable for the purpose</p>
-      <p type="listitem">understand and use a general vocabulary related to different topics</p>
-      <p type="listitem">demonstrate the ability to distinguish positively and negatively loaded expressions referring to individuals and groups</p>
-      <p type="listitem">understand the main content and details of texts one has chosen</p>
-      <p type="listitem">read, understand and evaluate different types of texts of varying length about different topics</p>
-      <p type="listitem">use own notes and different sources as a basis for writing</p>
-      <p type="listitem">write different types of texts with structure and coherence</p>
-      <p type="listitem">use central patterns for orthography, word inflection, sentence and text construction to produce texts</p>
-      <p type="listitem">use digital tools and formal requirements for information processing, text production and communication</p>
-      <p type="listitem">be familiar with protection of personal privacy and copyright and chose and use content from different sources in a verifiable way</p>
-    </list>
-    <p type="title">Culture, society and literature</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">discuss and elaborate on the way people live and how they socialise in Great Britain, USA and other English-speaking countries and Norway</p>
-      <p type="listitem">explain features of history and geography in Great Britain and the USA</p>
-      <p type="listitem">discuss and elaborate on different types of English literature from English-speaking countries</p>
-      <p type="listitem">describe and reflect on the situation of indigenous peoples in English-speaking countries</p>
-      <p type="listitem">create, communicate and converse about own texts inspired by English literature, films and cultural forms of expression</p>
-      <p type="listitem">communicate and converse about contemporary and academic topics</p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Competence aims after Vg1 – programmes for general studies and Vg2 – vocational education programmes</p>
-    <p type="title" xml:lang="isl">Language learning</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">evaluate and use different situations, working methods and learning strategies to further develop one’s English-language skills</p>
-      <p type="listitem">evaluate own progress in learning English</p>
-      <p type="listitem">evaluate different digital resources and other aids critically and independently, and use them in own language learning</p>
-    </list>
-    <p type="title">Oral communication</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">evaluate and use suitable listening and speaking strategies adapted for the purpose and the situation</p>
-      <p type="listitem">understand and use a wide general vocabulary and an academic vocabulary related to his/her own education programme</p>
-      <p type="listitem">understand the main content and details of different types of oral texts about general and academic topics related to one’s education programme</p>
-      <p type="listitem">listen to and understand social and geographic variations of English from authentic situations</p>
-      <p type="listitem">express oneself fluently and coherently in a detailed and precise manner suited to the purpose and situation</p>
-      <p type="listitem">introduce, maintain and terminate conversations and discussions about general and academic topics related to one’s education programme</p>
-      <p type="listitem">use patterns for pronunciation, intonation, word inflection and various types of sentences in communication</p>
-      <p type="listitem">interpret and use technical and mathematical information in communication</p>
-    </list>
-    <p type="title">Written communication</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">evaluate and use suitable reading and writing strategies adapted for the purpose and type of text</p>
-      <p type="listitem">understand and use an extensive general vocabulary and an academic vocabulary related to one’s education programme</p>
-      <p type="listitem">understand the main content and details in texts of varying length about different topics</p>
-      <p type="listitem">read to acquire knowledge in a particular subject from one’s education programme</p>
-      <p type="listitem">use own notes to write texts related to one’s education programme</p>
-      <p type="listitem">write different types of texts with structure and coherence suited to the purpose and situation</p>
-      <p type="listitem">use patterns for orthography, word inflection and varied sentence and text construction to produce texts</p>
-      <p type="listitem">produce different kinds of texts suited to formal digital requirements for different digital media</p>
-      <p type="listitem">evaluate different sources and use contents from sources in an independent, critical and verifiable manner</p>
-    </list>
-    <p type="title">Culture, society and literature</p>
-    <p>The aims of the studies are to enable pupils to</p>
-    <list>
-      <p type="listitem">discuss and elaborate on culture and social conditions in several English-speaking countries</p>
-      <p type="listitem">present and discuss current news items from English language sources</p>
-      <p type="listitem">discuss and elaborate on the growth of English as a universal language</p>
-      <p type="listitem">discuss and elaborate on different types of English language literary texts from different parts of the world</p>
-      <p type="listitem">discuss and elaborate on English language films and other forms of cultural expressions from different media</p>
-      <p type="listitem">discuss and elaborate on texts by and about indigenous peoples in English-speaking countries</p>
-      <p type="listitem">select an in-depth study topic within one’s education programme and present this</p>
-    </list>
-    <p type="title">Assessment</p>
-    <p>Provisions for final assessment:</p>
-    <p><em type="bold">Overall achievement assessment </em></p>
-    <p><em type="bold">Year </em></p>
-    <p><em type="bold">Provision </em></p>
-    <p>Year 10</p>
-    <p>The pupils shall have one overall achievement grade for written work and one overall achievement grade for oral performance.</p>
-    <p>Vg1 Programme for General Studies</p>
-    <p>Vg2 Vocational Education Programme</p>
-    <p>The pupils shall have one overall achievement grade.</p>
-    <p><em type="bold">Examinations for pupils </em></p>
-    <p><em type="bold">Year </em></p>
-    <p><em type="bold">Provision </em></p>
-    <p>Year 10</p>
-    <p>The pupils may be selected for a written examination. The written examination is prepared and graded centrally. The pupils may also be selected for an oral examination. The oral examination is prepared and graded locally.</p>
-    <p>Vg1 programme for general studies</p>
-    <p>Vg2 vocational education programme</p>
-    <p>The pupils may be selected for a written examination. The written examination is prepared and graded centrally. The pupils may also be selected for an oral examination. The oral examination is prepared and graded locally. The examination covers the entire subject (140 teaching hours).</p>
-    <p><em type="bold">Examinations for external candidates </em></p>
-    <p><em type="bold">Year </em></p>
-    <p><em type="bold">Provision </em></p>
-    <p>Year 10</p>
-    <p>See the provisions in force for primary school education for adults.</p>
-    <p>Vg1 programme for general studies</p>
-    <p>Vg2 vocational education programme</p>
-    <p>External candidates shall sit for written and oral examinations. The written examination is prepared and graded centrally. The oral examination is prepared and graded locally. The examination covers the entire subject (140 teaching hours).</p>
-    <p>The general provisions on assessment have been laid down in the Regulations relating to the Norwegian Education Act.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>3977</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/ENG1-03/Hele/Komplett_visning?lplang=eng&amp;read=1</origFileName><parallel_text xml:lang="nob" location="laereplan_engelsk.html"/><parallel_text xml:lang="sma" location="laereplan_engelsk.html"/><parallel_text xml:lang="sme" location="laereplan_engelsk.html"/><parallel_text xml:lang="smj" location="laereplan_engelsk.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Udir.no - English subject curriculum</p>
+<p xml:lang="nob">Hovedinnhold</p>
+<p type="title">English subject curriculum</p>
+<p>Established as a Regulation by the Ministry of Education and Research on 21 June 2013</p>
+<p>Applicable from: 01.08.2013</p>
+<p type="title">Purpose</p>
+<p>English is a universal language. When we meet people from other countries, at home or abroad, we need English for communication. English is used in films, literature, songs, sports, trade, products, science and technology, and through these areas many English words and expressions have found their way into our own languages. When we want information on something of private or professional interest, we often search for it in English. In addition, English is increasingly used in education and as a working language in many companies.</p>
+<p>To succeed in a world where English is used for international communication, it is necessary to be able to use the English language and to have knowledge of how it is used in different contexts. Thus, we need to develop a vocabulary and skills in using the systems of the English language, it`s phonology orthography, grammar and principles for sentence and text construction and to be able to adapt the language to different topics and communication situations. This involves being able to distinguish between oral (spoken) and textual (written) styles and formal and informal styles. Moreover, when using the language for communication we must also be able to take cultural norms and conventions into consideration.</p>
+<p>Language learning occurs while encountering a diversity of texts, where the concept of text is used in the broadest sense of the word. It involves oral and written representations in different combinations and a range of oral and written texts from digital media. When we are aware of the strategies that are used to learn a language, and strategies that help us to understand and to be understood, the acquisition of knowledge and skills becomes easier and more meaningful. It is also important to establish our own goals for learning, to determine how these can be reached and to assess the way we use the language. Learning English will contribute to multilingualism and can be an important part of our personal development.</p>
+<p>In addition to language learning, the subject of English shall contribute to providing insight into the way people live and different cultures where English is the primary or the official language. The subject of English shall provide insight into how English is used as an international means of communication. Learning about the English-speaking world and the increasing use of English in different international contexts will provide a good basis for understanding the world around us and how English developed into a world language. Literary texts in English can instil a lifelong joy of reading and a deeper understanding of others and of oneself. Oral, written and digital texts, films, music and other cultural forms of expression can further inspire personal expressions and creativity.</p>
+<p>Thus, English as a school subject is both a tool and a way of gaining knowledge and personal insight. It will enable the pupils to communicate with others on personal, social, literary and interdisciplinary topics. The subject shall help build up general language proficiency through listening, speaking, reading and writing, and provide the opportunity to acquire information and specialised knowledge through the English language. Development of communicative language skills and cultural insight can promote greater interaction, understanding and respect between persons with different cultural backgrounds. Thus, language and cultural competence promote the general education perspective and strengthen democratic involvement and co-citizenship.</p>
+<p type="title">Main subject areas</p>
+<p>The subject of English is structured into main subject areas with competence aims. The main subject areas supplement each other and must be considered together.</p>
+<p>The subject of English is a common core subject for all the upper secondary education programmes. Learning in this subject shall therefore be made as relevant as possible for pupils by adapting each subject to the different education programmes.</p>
+<p>English has competence aims after the second, fourth, seventh and tenth years in primary and lower secondary school and after the first year in the programmes for general studies (Vg1) or after the second year of a vocational education programmes (Vg2).</p>
+<p><em type="bold">Overview of main subject areas: </em></p>
+<p><em type="bold">Year </em></p>
+<p><em type="bold">Main subject areas </em></p>
+<p xml:lang="vep"><em type="bold">1–10 </em></p>
+<p xml:lang="deu"><em type="bold">Vg1 </em></p>
+<p xml:lang="deu"><em type="bold">Vg2 </em></p>
+<p><em type="bold">(vocational education programme) </em></p>
+<p>Language learning</p>
+<p>Oral communication</p>
+<p>Written communication</p>
+<p>Culture, society and literature</p>
+<p type="title">Language learning</p>
+<p>The main subject area Language learning focuses on what is involved in learning a new language and seeing relationships between English, one's native language and other languages. It covers knowledge about the language, language usage and insight into one's own language learning. The ability to evaluate own language usage and learning needs and to select suitable strategies and working methods is useful when learning and using the English language.</p>
+<p type="title">Oral communication</p>
+<p>The main subject area Oral communication deals with understanding and using the English language by listening, speaking, conversing and applying suitable communication strategies. The main subject area involves developing a vocabulary and using idiomatic structures and grammatical patterns when speaking and conversing. It also covers learning to speak clearly and to use the correct intonation.</p>
+<p>The main subject area involves listening to, understand and using English in different situations where communication needs to be done orally. General politeness and awareness of social norms in different situations are also an important element. This also involves adapting the language to purposeful objectives and adapting the language to the recipient, i.e. by distinguishing between formal and informal spoken language.</p>
+<p>The use of different media and resources and the development of a linguistic repertoire across subjects and topics are also key elements of the main subject area.</p>
+<p type="title">Written communication</p>
+<p>The main subject area Written communication deals with understanding and using English language through reading, writing and using suitable reading and writing strategies.</p>
+<p>The main subject area includes reading a variety of different texts in English to stimulate the joy of reading, to experience greater understanding and to acquire knowledge. This involves reading a large quantity of literature to promote language understanding and competence in the use of text. Reading different types of texts can lay the foundation for personal growth, maturation and creativity and provide the inspiration necessary to create texts.</p>
+<p>The main subject area includes writing different texts in English in different situations where written communication is necessary to stimulate the joy of writing, to experience greater understanding and to acquire knowledge. This also involves adapting the language to purposeful objectives and to the recipient, i.e. by distinguishing between formal and informal written language. The main subject area involves developing a vocabulary and using orthography, idiomatic structures and grammatical patterns when writing. It also covers creating structure, coherence and concise meaning in texts.</p>
+<p>The use of different media and resources and the development of a linguistic repertoire across subjects and topics are also key elements of the main subject area.</p>
+<p type="title">Culture, society and literature</p>
+<p>The main subject area Culture, society and literature focuses on cultural understanding in a broad sense. It is based on the English-speaking countries and covers key topics connected to social issues, literature and other cultural expressions. This main area also involves developing knowledge about English as a world language with many areas of use.</p>
+<p>The main subject area involves working with and discussing expository texts, literary texts and cultural forms of expression from different media. This is essential to develop knowledge about, understanding of and respect for the lives and cultures of other people.</p>
+<p type="title">Teaching hours</p>
+<p>Teaching hours are given in 60-minute units:</p>
+<p xml:lang="vep">PRIMARY SCHOOL</p>
+<p>Years 1-4: 138 teaching hours</p>
+<p>Years 5-7: 228 teaching hours</p>
+<p xml:lang="vep">LOWER SECONDARY LEVEL</p>
+<p>Years 8-10: 222 teaching hours</p>
+<p xml:lang="nob">PROGRAMME FOR GENERAL STUDIES</p>
+<p>Vg1: 140 teaching hours</p>
+<p xml:lang="deu">VOCATIONAL EDUCATION PROGRAMME</p>
+<p>Vg1: 84 teaching hours</p>
+<p>Vg2: 56 teaching hours</p>
+<p type="title">Basic skills</p>
+<p>Basic skills are integrated in the competence aims where they contribute to the development of competence in the subject, while also being part of this competence. In the subject of English, the basic skills are understood as follows:</p>
+<p><em type="italic">Oral skills </em>in English means being able to listen, speak and interact using the English language. It means evaluating and adapting ways of expression to the purpose of the conversation, the recipient and the situation. This further involves learning about social conventions and customs in English-speaking countries and in international contexts. The development of oral skills in English involves using oral language in gradually using more precise and nuanced language in conversation and in other kinds of oral communication. It also involves listening to, understanding and discussing topics and issues to acquire more specialised knowledge. This also involves being able to understand variations in spoken English from different parts of the world. </p>
+<p><em type="italic">Being able to express oneself in writing </em>in English means being able to express ideas and opinions in an understandable and purposeful manner using written English. It means planning, formulating and working with texts that communicates and that are well structured and coherent. Writing is also a tool for language learning. The development of writing proficiency in English involves learning orthography and developing a more extensive repertoire of English words and linguistic structures. Furthermore, it involves developing versatile competence in writing different kinds of generalised, literary and technical texts in English using informal and formal language that is suited to the objective and recipient. </p>
+<p><em type="italic">Being able to read </em>in English means the ability to create meaning by reading different types of text. It means reading English language texts to understand, reflect on and acquire insight and knowledge across cultural borders and within specific fields of study. This further involves preparing and working with reading English texts for different reasons and of varying lengths and complexities. The development of reading proficiency in English implies using reading strategies that are suited to the objective by reading texts that are advancingly more demanding. Furthermore, it involves reading English texts fluently and to understand, explore, discuss, learn from and to reflect upon different types of information. </p>
+<p><em type="italic">Numeracy </em>in English means being able to use relevant mathematical concepts in English in different situations. This involves familiarity with units of measure used in English-speaking countries and to understand and to communicate in figures, graphic representations, tables and statistics in English. The development of numeracy in English involves using figures and calculations to develop a repertoire of mathematical terms in English related to daily life and general and technical fields. </p>
+<p><em type="italic">Digital skills </em>in English means being able to use a varied selection of digital tools, media and resources to assist in language learning, to communicate in English and to acquire relevant knowledge in the subject of English. The use of digital resources provides opportunities to experience English texts in authentic situations, meaning natural and unadapted situations. The development of digital skills involves gathering and processing information to create different kinds of text. Formal requirements in digital texts means that effects, images, tables, headlines and bullet points are compiled to emphasise and communicate a message. This further involves using digital sources in written texts and oral communication and having a critical and independent attitude to the use of sources. Digital skills involve developing knowledge about copyright and protection of personal privacy through verifiable references to sources. </p>
+<p xml:lang="swe"></p>
+<p type="title">Competence aims after Year 2</p>
+<p type="title">Language learning</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">give examples of situations where it might be useful to have some English language skills</p>
+<p type="listitem">find words and phrases that are common to English and one’s native language</p>
+<p type="listitem">use digital resources in experiencing the language</p>
+</list><p type="title">Oral communication</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">listen for and use English phonemes through practical-aesthetic forms of expression</p>
+<p type="listitem">listen to and understand basic instructions in English</p>
+<p type="listitem">listen to and understand words and expressions in English nursery rhymes, word games, songs, fairy tales and stories</p>
+<p type="listitem">understand and use some English words, expressions and sentence patterns related to local surroundings and own interests</p>
+<p type="listitem">greet people, ask and respond to simple questions and use some polite expressions</p>
+<p type="listitem">participate in simple rehearsed dialogues and spontaneous conversations related to local surroundings and own experiences</p>
+<p type="listitem">use figures in conversation about local surroundings and own experiences</p>
+</list><p type="title">Written communication</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">recognise the relation between some English phonemes and spelling patterns</p>
+<p type="listitem">experiment with reading and writing English words, expressions and basic sentences related to local surroundings and own interests</p>
+</list><p type="title">Culture, society and literature</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">converse about aspects of the day-to-day life of children in English-speaking countries</p>
+<p type="listitem">participate in and experience children’s culture from English-speaking countries through words, pictures, music and movement</p>
+<p type="listitem">express own experiences from English nursery rhymes, word games, songs, fairy tales and stories</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Competence aims after Year 4</p>
+<p type="title">Language learning</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">identify situations where it might be useful or necessary to have English language skills</p>
+<p type="listitem">converse about one`s own work in learning English</p>
+<p type="listitem">find similarities between words and expressions in English and his/her own native language</p>
+<p type="listitem">use digital resources and other aids in exploring the language</p>
+</list><p type="title">Oral communication</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">use simple listening and speaking strategies</p>
+<p type="listitem">listen to and understand the meaning of words and expressions based on the context they are used in</p>
+<p type="listitem">understand and use English words, expressions and sentence patterns related to one’s needs and feelings, daily life, leisure time and own interests</p>
+<p type="listitem">understand the main content of nursery rhymes, word games, songs, fairy tales and stories</p>
+<p type="listitem">use some polite expressions and simple phrases to obtain help in understanding and being understood</p>
+<p type="listitem">participate in everyday conversations related to local surroundings and own experiences</p>
+<p type="listitem">be able to repeat the English alphabet and spell names and home town</p>
+<p type="listitem">understand and use English words and expressions related to prices, quantities, shape and size when communicating about one’s daily life, leisure time and own interests</p>
+</list><p type="title">Written communication</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">use simple reading and writing strategies</p>
+<p type="listitem">understand the relation between English phonemes and letters and put sounds together to form words</p>
+<p type="listitem">understand the meaning of words and expressions based on the context they are used in</p>
+<p type="listitem">read, understand and write English words and expressions related to one’s needs and feelings, daily life, leisure time and own interests</p>
+<p type="listitem">understand the main content of simple texts about familiar topics</p>
+<p type="listitem">write short texts that express opinions and interests, and that describe, narrate and enquire</p>
+<p type="listitem">use some common short words and simple spelling and sentence patterns</p>
+<p type="listitem">use digital tools to retrieve information and experiment in creating texts</p>
+</list><p type="title">Culture, society and literature</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">give some examples of English-speaking countries and famous people from these countries</p>
+<p type="listitem">converse about some aspects of different ways of living, traditions and customs in English-speaking countries and in Norway</p>
+<p type="listitem">participate in presenting nursery rhymes, word games, songs, short plays and stories in English</p>
+<p type="listitem">express own thoughts and opinions in the encounter with English-language literature and child culture</p>
+<p type="listitem">create own texts inspired by English-language literature and child culture</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Competence aims after Year 7</p>
+<p type="title">Language learning</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">identify and use different situations and learning strategies to expand one`s English-language skills</p>
+<p type="listitem">describe his/her own work in learning English</p>
+<p type="listitem">identify some linguistic similarities and differences between English and one’s native language</p>
+<p type="listitem">use digital resources and other aids in one`s own language learning</p>
+</list><p type="title">Oral communication</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">use listening and speaking strategies</p>
+<p type="listitem">understand and use a vocabulary related to familiar topics</p>
+<p type="listitem">understand the main content of oral texts about familiar topics</p>
+<p type="listitem">use expressions of politeness and appropriate expressions for the situation</p>
+<p type="listitem">express oneself to obtain help in understanding and being understood in different situations</p>
+<p type="listitem">express and give grounds for own opinions about familiar topics</p>
+<p type="listitem">introduce, maintain and terminate conversations related to familiar situations</p>
+<p type="listitem">use basic patterns for pronunciation, intonation, word inflection and different types of sentences in communication</p>
+<p type="listitem">express oneself using simple calculations, currency and units of measure when communicating about everyday situations</p>
+</list><p type="title">Written communication</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">use reading and writing strategies</p>
+<p type="listitem">understand and use a vocabulary related to familiar topics</p>
+<p type="listitem">understand the main content of texts one has chosen</p>
+<p type="listitem">read and understand different types of texts of varying length from different sources</p>
+<p type="listitem">take notes to create different types of texts</p>
+<p type="listitem">write coherent texts that narrate, retell and describe experiences and express own opinions</p>
+<p type="listitem">use basic patterns for orthography, word inflection, sentence and text construction to produce texts</p>
+<p type="listitem">use digital tools and other aids to find relevant information and to create different types of texts</p>
+</list><p type="title">Culture, society and literature</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">narrate about people, places and events in English-speaking countries</p>
+<p type="listitem">converse about the way people live and socialise in different cultures in English-speaking countries and in Norway, including the Sami culture</p>
+<p type="listitem">read children’s and youth literature in English and converse about persons and content</p>
+<p type="listitem">express own reactions to English literary texts, films, internet culture, pictures and music</p>
+<p type="listitem">express oneself creatively inspired by different types of English literature from various sources</p>
+<p type="listitem">communicate short texts about topics one has chosen</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Competence aims after Year 10</p>
+<p type="title">Language learning</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">use different situations, working methods and learning strategies to develop one’s English-language skills</p>
+<p type="listitem">comment on own work in learning English</p>
+<p type="listitem">identify significant linguistic similarities and differences between English and one’s native language and use this knowledge in one's own language learning</p>
+<p type="listitem">select different digital resources and other aids and use them in an independent manner in own language learning</p>
+</list><p type="title">Oral communication</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">choose and use different listening and speaking strategies that are suitable for the purpose</p>
+<p type="listitem">understand and use a general vocabulary related to different topics</p>
+<p type="listitem">demonstrate the ability to distinguish positively and negatively loaded expressions referring to individuals and groups</p>
+<p type="listitem">understand the main content and details of different types of oral texts on different topics</p>
+<p type="listitem">listen to and understand variations of English from different authentic situations</p>
+<p type="listitem">express oneself fluently and coherently, suited to the purpose and situation</p>
+<p type="listitem">express and justify own opinions about different topics</p>
+<p type="listitem">introduce, maintain and terminate conversations on different topics by asking questions and following up on input</p>
+<p type="listitem">use the central patterns for pronunciation, intonation, word inflection and different types of sentences in communication</p>
+<p type="listitem">understand and use different numerical expressions and other kinds of data in communication</p>
+</list><p type="title">Written communication</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">choose and use different reading and writing strategies that are suitable for the purpose</p>
+<p type="listitem">understand and use a general vocabulary related to different topics</p>
+<p type="listitem">demonstrate the ability to distinguish positively and negatively loaded expressions referring to individuals and groups</p>
+<p type="listitem">understand the main content and details of texts one has chosen</p>
+<p type="listitem">read, understand and evaluate different types of texts of varying length about different topics</p>
+<p type="listitem">use own notes and different sources as a basis for writing</p>
+<p type="listitem">write different types of texts with structure and coherence</p>
+<p type="listitem">use central patterns for orthography, word inflection, sentence and text construction to produce texts</p>
+<p type="listitem">use digital tools and formal requirements for information processing, text production and communication</p>
+<p type="listitem">be familiar with protection of personal privacy and copyright and chose and use content from different sources in a verifiable way</p>
+</list><p type="title">Culture, society and literature</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">discuss and elaborate on the way people live and how they socialise in Great Britain, USA and other English-speaking countries and Norway</p>
+<p type="listitem">explain features of history and geography in Great Britain and the USA</p>
+<p type="listitem">discuss and elaborate on different types of English literature from English-speaking countries</p>
+<p type="listitem">describe and reflect on the situation of indigenous peoples in English-speaking countries</p>
+<p type="listitem">create, communicate and converse about own texts inspired by English literature, films and cultural forms of expression</p>
+<p type="listitem">communicate and converse about contemporary and academic topics</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Competence aims after Vg1 – programmes for general studies and Vg2 – vocational education programmes</p>
+<p type="title">Language learning</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">evaluate and use different situations, working methods and learning strategies to further develop one’s English-language skills</p>
+<p type="listitem">evaluate own progress in learning English</p>
+<p type="listitem">evaluate different digital resources and other aids critically and independently, and use them in own language learning</p>
+</list><p type="title">Oral communication</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">evaluate and use suitable listening and speaking strategies adapted for the purpose and the situation</p>
+<p type="listitem">understand and use a wide general vocabulary and an academic vocabulary related to his/her own education programme</p>
+<p type="listitem">understand the main content and details of different types of oral texts about general and academic topics related to one’s education programme</p>
+<p type="listitem">listen to and understand social and geographic variations of English from authentic situations</p>
+<p type="listitem">express oneself fluently and coherently in a detailed and precise manner suited to the purpose and situation</p>
+<p type="listitem">introduce, maintain and terminate conversations and discussions about general and academic topics related to one’s education programme</p>
+<p type="listitem">use patterns for pronunciation, intonation, word inflection and various types of sentences in communication</p>
+<p type="listitem">interpret and use technical and mathematical information in communication</p>
+</list><p type="title">Written communication</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">evaluate and use suitable reading and writing strategies adapted for the purpose and type of text</p>
+<p type="listitem">understand and use an extensive general vocabulary and an academic vocabulary related to one’s education programme</p>
+<p type="listitem">understand the main content and details in texts of varying length about different topics</p>
+<p type="listitem">read to acquire knowledge in a particular subject from one’s education programme</p>
+<p type="listitem">use own notes to write texts related to one’s education programme</p>
+<p type="listitem">write different types of texts with structure and coherence suited to the purpose and situation</p>
+<p type="listitem">use patterns for orthography, word inflection and varied sentence and text construction to produce texts</p>
+<p type="listitem">produce different kinds of texts suited to formal digital requirements for different digital media</p>
+<p type="listitem">evaluate different sources and use contents from sources in an independent, critical and verifiable manner</p>
+</list><p type="title">Culture, society and literature</p>
+<p>The aims of the studies are to enable pupils to</p>
+<list><p type="listitem">discuss and elaborate on culture and social conditions in several English-speaking countries</p>
+<p type="listitem">present and discuss current news items from English language sources</p>
+<p type="listitem">discuss and elaborate on the growth of English as a universal language</p>
+<p type="listitem">discuss and elaborate on different types of English language literary texts from different parts of the world</p>
+<p type="listitem">discuss and elaborate on English language films and other forms of cultural expressions from different media</p>
+<p type="listitem">discuss and elaborate on texts by and about indigenous peoples in English-speaking countries</p>
+<p type="listitem">select an in-depth study topic within one’s education programme and present this</p>
+</list><p type="title">Assessment</p>
+<p>Provisions for final assessment:</p>
+<p><em type="bold">Overall achievement assessment </em></p>
+<p><em type="bold">Year </em></p>
+<p><em type="bold">Provision </em></p>
+<p>Year 10</p>
+<p>The pupils shall have one overall achievement grade for written work and one overall achievement grade for oral performance.</p>
+<p>Vg1 Programme for General Studies</p>
+<p>Vg2 Vocational Education Programme</p>
+<p>The pupils shall have one overall achievement grade.</p>
+<p><em type="bold">Examinations for pupils </em></p>
+<p><em type="bold">Year </em></p>
+<p><em type="bold">Provision </em></p>
+<p>Year 10</p>
+<p>The pupils may be selected for a written examination. The written examination is prepared and graded centrally. The pupils may also be selected for an oral examination. The oral examination is prepared and graded locally.</p>
+<p>Vg1 programme for general studies</p>
+<p>Vg2 vocational education programme</p>
+<p>The pupils may be selected for a written examination. The written examination is prepared and graded centrally. The pupils may also be selected for an oral examination. The oral examination is prepared and graded locally. The examination covers the entire subject (140 teaching hours).</p>
+<p><em type="bold">Examinations for external candidates </em></p>
+<p><em type="bold">Year </em></p>
+<p><em type="bold">Provision </em></p>
+<p>Year 10</p>
+<p>See the provisions in force for primary school education for adults.</p>
+<p>Vg1 programme for general studies</p>
+<p>Vg2 vocational education programme</p>
+<p>External candidates shall sit for written and oral examinations. The written examination is prepared and graded centrally. The oral examination is prepared and graded locally. The examination covers the entire subject (140 teaching hours).</p>
+<p>The general provisions on assessment have been laid down in the Regulations relating to the Norwegian Education Act.</p>
+</body></document>

@@ -1,64 +1,36 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>State Visit from Finland   - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>653</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=103139</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=103115.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=103162_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">State Visit from Finland</p>
-    <p>On Wednesday morning, His Majesty The King welcomed His Excellency the President of the Republic of Finland Mr Sauli Niinistö and his wife Mrs Jenni Haukio to Norway. King Harald and Queen Sonja are acting as hosts for the Finnish president, who is conducting a three-day State Visit to Norway.</p>
-    <p xml:lang="koi">11.10.2012</p>
-    <p>The visit began with an official welcoming ceremony on the Palace Square, where the guests were received by Their Majesties The King and Queen, Their Royal Highnesses The Crown Prince and Crown Princess and several representatives of official institutions in Norway.</p>
-    <p>Accompanying the President are Finlands Minister for Foreign Affairs and Minister for European Affairs and Foreign Trade, as well as several trade and industry leaders and experts on the High North. A main theme of the visit is enhanced cooperation in the North.</p>
-    <p type="title">Wreath-laying at the national monument</p>
-    <p>King Harald and Queen Sonja accompanied President Niinistö and Mrs Haukio from an official luncheon at the Royal Palace to Akershus Fortress. It is traditional for heads of state paying an official visit to Norway to lay a wreath at the national monument at Akershus Fortress. President Niinistö inspected the Kings Honour Guard before laying a wreath to commemorate the Norwegians who lost their lives in the Second World War.</p>
-    <p>Following the wreath laying, King Harald accompanied President Niinistö to the Storting for a meeting with acting President of the Storting, Per Kristian Foss. Later in the day the President met with Prime Minister Jens Stoltenberg.</p>
-    <p type="title">Graphic prints from Finland</p>
-    <p>In the afternoon, Queen Sonja and Mrs Jenni Haukio paid a visit to Kunstverket Gallery , where the exhibition Fire Grafiske Fortellinger (Four Graphic Stories) opened today. The exhibition presents the works of four Finnish graphic artists: Tiina Kivinen, Ari Pelkonen, Jaana Paulus and Annu Vertanen. Earlier this year Tiina Kivinen became the first recipient of the Queen Sonja Nordic Art Award.</p>
-    <p>All four are contemporary artists who depict todays society using several hundred year old techniques. The exhibition is a collaboration between the gallery and the Finnish-Norwegian Cultural Institute.</p>
-    <p type="title" xml:lang="nob">Gala dinner</p>
-    <p>In the evening, King Harald and Queen Sonja hosted a gala banquet for 193 guests at the Royal Palace for President Sauli Niinistö and Mrs Jenni Haukio. Crown Prince Haakon and Crown Princess Mette-Marit were also in attendance. King Harald and President Niinistö both spoke during the banquet. The Kings speech is published on this website.</p>
-    <p>On Thursday, King Harald and Queen Sonja will accompany the Finnish president and his wife through a busy programme of activities that includes presentations, meetings with trade and industry leaders, and visits to the House of Literature and Rommen School and Cultural Centre.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Welcoming ceremony for Finland's President Sauli Niinistö and Mrs Jenni Haukio (Photo: The Royal Court)</p>
-    <p>Facts</p>
-    <p><em type="italic">Facts about Finland </em></p>
-    <p>Capital city: Helsinki Largest cities: Helsinki, Tampere and Turku</p>
-    <p>Total area: 338 000 km² Population (2012): approximately 5.3 million Official languages: Finnish and Swedish, as well as sami in certain areas.</p>
-    <p>Form of government: Republic Head of State (2012): President Sauli Niinistö</p>
-    <p>Diplomatic ties were established between Norway and Finland on 6 April 1918, after Finland gained its independence from Russia on 6 December 1917.</p>
-    <p>Relations between Finland and Norway are excellent, and the countries have close contact in most areas in the political, defence, cultural and industrial spheres. Their Majesties The King and Queen conducted a State Visit to Finland in 2007.</p>
-    <p>In 2010, Finland was Norway’s 11th most important import country and 13th most important export country, and trade between the two nations is growing. There are currently some 220 Norwegian-owned companies in Finland.</p>
-    <p>Source: Norwegian Ministry of Foreign Affairs</p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">Norwegian-Finnish cooperation (News article)</p>
-      <p type="listitem" xml:lang="nno">State Visit to Tromsø (News article)</p>
-      <p type="listitem">State visits (Subject entry page)</p>
-      <p type="listitem">State visits during the reign of King Harald (Article)</p>
-    </list>
-    <list>
-      <p type="listitem">The President of the Republic of Finland</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>State Visit from Finland   - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>648</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=103139</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=103115.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=103162_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">State Visit from Finland</p>
+<p>On Wednesday morning, His Majesty The King welcomed His Excellency the President of the Republic of Finland Mr Sauli Niinistö and his wife Mrs Jenni Haukio to Norway. King Harald and Queen Sonja are acting as hosts for the Finnish president, who is conducting a three-day State Visit to Norway.</p>
+<p xml:lang="vep">11.10.2012</p>
+<p>The visit began with an official welcoming ceremony on the Palace Square, where the guests were received by Their Majesties The King and Queen, Their Royal Highnesses The Crown Prince and Crown Princess and several representatives of official institutions in Norway.</p>
+<p>Accompanying the President are Finlands Minister for Foreign Affairs and Minister for European Affairs and Foreign Trade, as well as several trade and industry leaders and experts on the High North. A main theme of the visit is enhanced cooperation in the North.</p>
+<p type="title">Wreath-laying at the national monument</p>
+<p>King Harald and Queen Sonja accompanied President Niinistö and Mrs Haukio from an official luncheon at the Royal Palace to Akershus Fortress. It is traditional for heads of state paying an official visit to Norway to lay a wreath at the national monument at Akershus Fortress. President Niinistö inspected the Kings Honour Guard before laying a wreath to commemorate the Norwegians who lost their lives in the Second World War.</p>
+<p>Following the wreath laying, King Harald accompanied President Niinistö to the Storting for a meeting with acting President of the Storting, Per Kristian Foss. Later in the day the President met with Prime Minister Jens Stoltenberg.</p>
+<p type="title">Graphic prints from Finland</p>
+<p>In the afternoon, Queen Sonja and Mrs Jenni Haukio paid a visit to Kunstverket Gallery , where the exhibition Fire Grafiske Fortellinger (Four Graphic Stories) opened today. The exhibition presents the works of four Finnish graphic artists: Tiina Kivinen, Ari Pelkonen, Jaana Paulus and Annu Vertanen. Earlier this year Tiina Kivinen became the first recipient of the Queen Sonja Nordic Art Award.</p>
+<p>All four are contemporary artists who depict todays society using several hundred year old techniques. The exhibition is a collaboration between the gallery and the Finnish-Norwegian Cultural Institute.</p>
+<p type="title" xml:lang="nob">Gala dinner</p>
+<p>In the evening, King Harald and Queen Sonja hosted a gala banquet for 193 guests at the Royal Palace for President Sauli Niinistö and Mrs Jenni Haukio. Crown Prince Haakon and Crown Princess Mette-Marit were also in attendance. King Harald and President Niinistö both spoke during the banquet. The Kings speech is published on this website.</p>
+<p>On Thursday, King Harald and Queen Sonja will accompany the Finnish president and his wife through a busy programme of activities that includes presentations, meetings with trade and industry leaders, and visits to the House of Literature and Rommen School and Cultural Centre.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Welcoming ceremony for Finland's President Sauli Niinistö and Mrs Jenni Haukio (Photo: The Royal Court)</p>
+<p>Facts</p>
+<p><em type="italic">Facts about Finland </em></p>
+<p>Capital city: Helsinki Largest cities: Helsinki, Tampere and Turku</p>
+<p>Total area: 338 000 km² Population (2012): approximately 5.3 million Official languages: Finnish and Swedish, as well as sami in certain areas.</p>
+<p>Form of government: Republic Head of State (2012): President Sauli Niinistö</p>
+<p>Diplomatic ties were established between Norway and Finland on 6 April 1918, after Finland gained its independence from Russia on 6 December 1917.</p>
+<p>Relations between Finland and Norway are excellent, and the countries have close contact in most areas in the political, defence, cultural and industrial spheres. Their Majesties The King and Queen conducted a State Visit to Finland in 2007.</p>
+<p>In 2010, Finland was Norway’s 11th most important import country and 13th most important export country, and trade between the two nations is growing. There are currently some 220 Norwegian-owned companies in Finland.</p>
+<p>Source: Norwegian Ministry of Foreign Affairs</p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">Norwegian-Finnish cooperation (News article)</p>
+<p type="listitem" xml:lang="nno">State Visit to Tromsø (News article)</p>
+<p type="listitem">State visits (Subject entry page)</p>
+<p type="listitem">State visits during the reign of King Harald (Article)</p>
+</list><list><p type="listitem">The President of the Republic of Finland</p>
+</list></body></document>

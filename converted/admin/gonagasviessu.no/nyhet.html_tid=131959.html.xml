@@ -1,45 +1,19 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>New official photographs  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>251</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=131959</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=131959.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=131959_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">New official photographs</p>
-    <p>New official photographs of the Royal House of Norway was published today,  in connection with the 25th anniversary of the ascension to the throne of Their Majesties King Harald and Queen Sonja.</p>
-    <p xml:lang="koi">15.01.2016</p>
-    <p>There are new photographs of Their Majesties The King and Queen, Their Royal Highnesses The Crown Prince and Crown Princess - and a picture of the three generations: His Majesty King Harald, His Royal Highness Crown Prince Haakon and Her Royal Highness Princess Ingrid Alexandra.</p>
-    <p>A selection of photographs are presented in the media player on your right - more are to be found in the photoalbum via the link below the player.</p>
-    <p>The photographer is Jørgen Gomnæs, an internationally recognised photographer based in Oslo and Paris.</p>
-    <p type="title">The tradition</p>
-    <p>Portraits of the Royal Family after the union with Sweden have been taken since 1905, from the beginning of the reign of King Haakon and Queen Maud. At that time, the photographs represented the official face of the Royal House to the outside world, and were used on stamps and coins. Since then, official portraits have been taken on an irregular basis and in connection with major events.</p>
-    <p type="title">For the Press</p>
-    <p>A selection of photographs are available for editorial use. These can be downloaded via a photoalbum for the press. Please follow the link on your right.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">Photo album for the press: Photographs for editorial use</p>
-      <p type="listitem">Photoalbum: New official photographs</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>New official photographs  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>246</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=131959</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=131959.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=131959_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">New official photographs</p>
+<p>New official photographs of the Royal House of Norway was published today,  in connection with the 25th anniversary of the ascension to the throne of Their Majesties King Harald and Queen Sonja.</p>
+<p xml:lang="vep">15.01.2016</p>
+<p>There are new photographs of Their Majesties The King and Queen, Their Royal Highnesses The Crown Prince and Crown Princess - and a picture of the three generations: His Majesty King Harald, His Royal Highness Crown Prince Haakon and Her Royal Highness Princess Ingrid Alexandra.</p>
+<p>A selection of photographs are presented in the media player on your right - more are to be found in the photoalbum via the link below the player.</p>
+<p>The photographer is Jørgen Gomnæs, an internationally recognised photographer based in Oslo and Paris.</p>
+<p type="title">The tradition</p>
+<p>Portraits of the Royal Family after the union with Sweden have been taken since 1905, from the beginning of the reign of King Haakon and Queen Maud. At that time, the photographs represented the official face of the Royal House to the outside world, and were used on stamps and coins. Since then, official portraits have been taken on an irregular basis and in connection with major events.</p>
+<p type="title">For the Press</p>
+<p>A selection of photographs are available for editorial use. These can be downloaded via a photoalbum for the press. Please follow the link on your right.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">Photo album for the press: Photographs for editorial use</p>
+<p type="listitem">Photoalbum: New official photographs</p>
+</list></body></document>

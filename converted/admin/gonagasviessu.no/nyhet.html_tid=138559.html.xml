@@ -1,56 +1,30 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>State Visit from Singapore  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>623</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=138559</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=138559.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=138559_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">State Visit from Singapore</p>
-    <p>Monday morning Their Majesties King Harald and Queen Sonja formally received the President and First Lady of Singapore.</p>
-    <p xml:lang="koi">10.10.2016</p>
-    <p>His Excellency Tony Tan Keng Yam, President of the Republic of Singapore, and Mrs Mary Tan are visiting Norway from 10 to 12 October 2016. This is the first official State Visit from Singapore to Norway. The first two days of the programme will take place in Oslo, and the final day will be held in Tromsø.</p>
-    <p>Economic cooperation between Norway and Singapore is expanding quickly and is important for both countries. More than 250 Norwegian companies are established in Singapore, which is their most important gateway into the Asian markets.</p>
-    <p>The visit began with a formal welcoming ceremony on the Palace Square this morning.</p>
-    <p type="title">Welcoming ceremony</p>
-    <p>His Royal Highness The Crown Prince accompanied President Tan and Mrs Tan to the Palace Square, where they were received by the King and Queen and Her Royal Highness The Crown Princess. The traditional welcome is conducted as a formal ceremony. The King accompanies the visiting head of state on an inspection of a guard of honour from His Majesty The King’s Guard, and the national anthems of both countries are played.</p>
-    <p>After the ceremony in the Palace Square, the entourage entered the Royal Palace, where official photographs were taken in the Bird Room. This was followed by an exchange of gifts in the White Parlour.</p>
-    <p type="title">Wreath-laying ceremony</p>
-    <p>On the first day, it is also traditional for the visiting head of state to lay a wreath at the national monument commemorating the Norwegians who lost their lives in the Second World War. The King and Queen accompanied President Tan and Mrs Tan to Akershus Fortress for the ceremony.</p>
-    <p>Following the wreath-laying ceremony, President Tan visited the President of the Storting, Olemic Thommessen.</p>
-    <p type="title">Seeds in the Tøyen district</p>
-    <p>A new collection of seeds will be added to the Svalbard Global Seed Vault. Queen Sonja and Mrs Tan paid a visit to the Botanical Gardens in the Tøyen district of Oslo, where seeds from Singapore were presented.</p>
-    <p>Seeds from around the world are stored in the <span type="quote" xml:lang="est">“doomsday vault”</span> on Svalbard, where genetic material from global food crops are being safeguarded for future generations. If a plant species is eradicated in a particular region due to war or other disaster, the plants can be recreated with seeds from the vault, where they are safely stored deep within the permafrost.</p>
-    <p>Queen Sonja and Mrs Tan had the opportunity to look more closely at another seed bank: the national seed bank for threatened Norwegian plant species at the Natural History Museum of Oslo. They also viewed a very special exhibition of jewellery created by artist Ingjerd Hanevold, in which all of the pieces are inspired by seeds and nature.</p>
-    <p type="title">Maritime cooperation</p>
-    <p>Following a luncheon at the Royal Palace, King Harald accompanied President Tan to the Norwegian Shipowners’ Association for the signing of a bilateral cooperation agreement between Norway and Singapore this afternoon.</p>
-    <p>Both Norway and Singapore are global maritime actors whose competitive advantages are high quality and advanced technology. Expansion of maritime cooperation between the two countries is one of the most important themes of the State Visit.</p>
-    <p type="title" xml:lang="smj">Gala banquet</p>
-    <p>In the evening the King and Queen hosted a gala banquet at the Royal Palace in honour of the President and First Lady. Both King Harald and President Tan will speak, and Crown Prince Haakon, Crown Princess Mette-Marit and Princess Astrid, Mrs Ferner were in attendance.</p>
-    <p>The program on Tuesday includes a visit to the Research Council of Norway and Norges Bank, the central bank of Norway.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">State visit from Singapore (Speech)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>State Visit from Singapore  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>618</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=138559</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=138559.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=138559_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">State Visit from Singapore</p>
+<p>Monday morning Their Majesties King Harald and Queen Sonja formally received the President and First Lady of Singapore.</p>
+<p xml:lang="vep">10.10.2016</p>
+<p>His Excellency Tony Tan Keng Yam, President of the Republic of Singapore, and Mrs Mary Tan are visiting Norway from 10 to 12 October 2016. This is the first official State Visit from Singapore to Norway. The first two days of the programme will take place in Oslo, and the final day will be held in Tromsø.</p>
+<p>Economic cooperation between Norway and Singapore is expanding quickly and is important for both countries. More than 250 Norwegian companies are established in Singapore, which is their most important gateway into the Asian markets.</p>
+<p>The visit began with a formal welcoming ceremony on the Palace Square this morning.</p>
+<p type="title">Welcoming ceremony</p>
+<p>His Royal Highness The Crown Prince accompanied President Tan and Mrs Tan to the Palace Square, where they were received by the King and Queen and Her Royal Highness The Crown Princess. The traditional welcome is conducted as a formal ceremony. The King accompanies the visiting head of state on an inspection of a guard of honour from His Majesty The King’s Guard, and the national anthems of both countries are played.</p>
+<p>After the ceremony in the Palace Square, the entourage entered the Royal Palace, where official photographs were taken in the Bird Room. This was followed by an exchange of gifts in the White Parlour.</p>
+<p type="title">Wreath-laying ceremony</p>
+<p>On the first day, it is also traditional for the visiting head of state to lay a wreath at the national monument commemorating the Norwegians who lost their lives in the Second World War. The King and Queen accompanied President Tan and Mrs Tan to Akershus Fortress for the ceremony.</p>
+<p>Following the wreath-laying ceremony, President Tan visited the President of the Storting, Olemic Thommessen.</p>
+<p type="title">Seeds in the Tøyen district</p>
+<p>A new collection of seeds will be added to the Svalbard Global Seed Vault. Queen Sonja and Mrs Tan paid a visit to the Botanical Gardens in the Tøyen district of Oslo, where seeds from Singapore were presented.</p>
+<p>Seeds from around the world are stored in the <span type="quote" xml:lang="est">“doomsday vault”</span> on Svalbard, where genetic material from global food crops are being safeguarded for future generations. If a plant species is eradicated in a particular region due to war or other disaster, the plants can be recreated with seeds from the vault, where they are safely stored deep within the permafrost.</p>
+<p>Queen Sonja and Mrs Tan had the opportunity to look more closely at another seed bank: the national seed bank for threatened Norwegian plant species at the Natural History Museum of Oslo. They also viewed a very special exhibition of jewellery created by artist Ingjerd Hanevold, in which all of the pieces are inspired by seeds and nature.</p>
+<p type="title">Maritime cooperation</p>
+<p>Following a luncheon at the Royal Palace, King Harald accompanied President Tan to the Norwegian Shipowners’ Association for the signing of a bilateral cooperation agreement between Norway and Singapore this afternoon.</p>
+<p>Both Norway and Singapore are global maritime actors whose competitive advantages are high quality and advanced technology. Expansion of maritime cooperation between the two countries is one of the most important themes of the State Visit.</p>
+<p type="title" xml:lang="smj">Gala banquet</p>
+<p>In the evening the King and Queen hosted a gala banquet at the Royal Palace in honour of the President and First Lady. Both King Harald and President Tan will speak, and Crown Prince Haakon, Crown Princess Mette-Marit and Princess Astrid, Mrs Ferner were in attendance.</p>
+<p>The program on Tuesday includes a visit to the Research Council of Norway and Norges Bank, the central bank of Norway.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">State visit from Singapore (Speech)</p>
+</list></body></document>

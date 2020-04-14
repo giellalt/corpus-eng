@@ -1,48 +1,19 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>277</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/om-lansstyrelsen/landshovding-och-lansledning/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="om-lansstyrelsen-landshovding-och-lansledning.html"/>
-    <parallel_text xml:lang="swe" location="om-lansstyrelsen-landshovding-och-lansledning.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>County Governor and County Leadership - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">County Governor and County Leadership</p>
-    <p><em type="italic">The County Governor is the County Administrative Board's chief officer and is appointed directly by the Government. The Executive Committee of the County Administrative Board is composed of the County Governor along with a County Director. </em> </p>
-    <p type="title">The County Governor</p>
-    <p>The County Governor is the Government's representative in the county and is often designated a six-year appointment. The appointment can be extended if the person has reached retirement age. An important role of the County Governor is to coordinate government activities in the county, and he/she must also comply with the county's permits and inform the government of the county's needs. County Governors were introduced in Sweden in 1634, when Axel Oxenstierna divided the country into royal areas (counties).</p>
-    <p type="title">County Director</p>
-    <p>In Stockholm, Skåne and Västra Götaland County there is a Deputy County Governor and in the other counties, a County Director who manages the daily work of the County Administrative Board. They also serve as the County Governor's main co-worker and Deputy when he/she is not in service or is unavailable. The County Director or Deputy County Governor is appointed by the Government, in accordance with the standard recruitment procedure.</p>
-    <p type="title">Deputy County Governor</p>
-    <p>In Stockholm, Skåne and Västra Götaland County there is a Deputy County Governor and in the other counties, a County Director who manages the daily work of the County Administrative Board. They also serve as the County Governor's main co-worker and Deputy when he/she is not in service or is unavailable. The County Director or Deputy County Governor is appointed by the government, in accordance with the standard recruitment procedure.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>277</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/om-lansstyrelsen/landshovding-och-lansledning/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="om-lansstyrelsen-landshovding-och-lansledning.html"/><parallel_text xml:lang="swe" location="om-lansstyrelsen-landshovding-och-lansledning.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>County Governor and County Leadership - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">County Governor and County Leadership</p>
+<p><em type="italic">The County Governor is the County Administrative Board's chief officer and is appointed directly by the Government. The Executive Committee of the County Administrative Board is composed of the County Governor along with a County Director. </em> </p>
+<p type="title">The County Governor</p>
+<p>The County Governor is the Government's representative in the county and is often designated a six-year appointment. The appointment can be extended if the person has reached retirement age. An important role of the County Governor is to coordinate government activities in the county, and he/she must also comply with the county's permits and inform the government of the county's needs. County Governors were introduced in Sweden in 1634, when Axel Oxenstierna divided the country into royal areas (counties).</p>
+<p type="title">County Director</p>
+<p>In Stockholm, Skåne and Västra Götaland County there is a Deputy County Governor and in the other counties, a County Director who manages the daily work of the County Administrative Board. They also serve as the County Governor's main co-worker and Deputy when he/she is not in service or is unavailable. The County Director or Deputy County Governor is appointed by the Government, in accordance with the standard recruitment procedure.</p>
+<p type="title">Deputy County Governor</p>
+<p>In Stockholm, Skåne and Västra Götaland County there is a Deputy County Governor and in the other counties, a County Director who manages the daily work of the County Administrative Board. They also serve as the County Governor's main co-worker and Deputy when he/she is not in service or is unavailable. The County Director or Deputy County Governor is appointed by the government, in accordance with the standard recruitment procedure.</p>
+</body></document>

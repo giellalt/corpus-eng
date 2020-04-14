@@ -1,65 +1,41 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Anaras - Language - Literature</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/>
-    </author>
-    <year>2006</year>
-    <wordcount>1081</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/english/kieli/kirjallisuus.html</origFileName>
-    <parallel_text xml:lang="fin" location="kirjallisuus.html"/>
-    <parallel_text xml:lang="smn" location="kirjallisuus.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Orthography</p>
-    <p>Language and Identity</p>
-    <p>The Storytelling Tradition</p>
-    <p>Literature</p>
-    <p>Works Published in Inari Sámi</p>
-    <p>Inari Sámi literature is very young. Practical considerations have imposed barriers to its development. Writing was not done until after the beginning of the 1900’s. The Sámis lacked education in their language and writing; it did not begin until the 1970’s. Reading and what little writing that was done happened in Finnish.</p>
-    <p>The need for literature in various functions was earlier compensated for through verbal narrative which had after all been developed in many ways. The narrated story and memoirs hold a central position in Sámi linguistic arts. A skillful story-teller was valued more than a writer. In his narrations he could emphasize the important and juicy details, could move between truth and imagination so the listener would have to figure out himself all the time what he was hearing. The sounds the teller used, the laughter and gestures enriched the narrative; these are not visible in the written text. It is a novel, a show and theatre all in one.</p>
-    <p>The following Inari Sámi works listed in chronological order possess literary flair, prose and poetry.</p>
-    <p><em type="italic">Compilations </em><em type="italic">1. Inari Lapp Folklore </em></p>
-    <p>Written Inari Sámi literature can be said to have begun when A.V. Koskimies’ and T.I. Ikonen’s compilation and publication <em type="italic"><span type="quote" xml:lang="smn">“Inari Lapp Folklore”</span> </em>was published in 1917. It is comprised of material that A.V. Koskimies gathered in 1886. The narrators represented are Heikki Mattus, Iisakki Mannermaa, Mikko Aikio, Pekka Aikio, Juho Petteri Lusmaniemi, Paavali Valle, Santeri Valle, Antti Kitti, Antti Sarre, Matti Sarre, Pietari Valle, Yrjänä Sarre, Heikki Morottaja, Uula Morottaja and <span type="quote">“the Matron of Juutua”</span>. The book was edited by Lea Laitinen and published slightly altered in a re-edition in 1979. Erkki Itkonen’s <span type="quote">“dictionary orthography”</span> was used in it (the same as used in the <span type="quote" xml:lang="deu">“Inari Lappisches Wörtebuch”</span>); earlier it was written in phonetic or transcription script. </p>
-    <p>The compilation is multifaceted in its types. <em type="italic">Story varieties </em>included are animal stories, miracle stories, fictional and funny stories. There is one <em type="italic">creation tale </em>, a famous tale about the Moon Tarnisher. <em type="italic">Stories of belief </em>are much the same as for other Sámis: Staalo, treasure sprites, giants, holy places (seita), shamans, shape-shifters and apparitions. There are many <em type="italic">historical and local stories </em>. The best-known of these are the story of Sigga and stories of oppressors. There are also memoirs which have historical significance. Examples of <em type="italic">minor folklore </em>are proverbs, sayings, riddles, signs and omens. There are also <em type="italic">yoiks and songs </em>in the book. </p>
-    <p>One can identify from the stories especially a connection with Finnish and multinational stories. Light is shed on this fact in the beginning of the book when it is mentioned that one of the informants was a diligent correspondent to an Finnish language newspaper from Oulu and apparently a subscriber to a weekly paper from Oulu in which there were stories in the Finnish language. Stories and tales in the Sámi language have received more or less local color, as often occurs.</p>
-    <p><em type="italic">1.2. Aanaarkiela čájttuzeh </em>was published in 1992. It contains Erkki Itkonen’s recorded memoirs which were produced in book form by Lea Laitinen. <span type="quote">“Dictionary orthography”</span> is made use of in the book. </p>
-    <p><em type="italic">1.3. Tovlááh mainâseh </em>is a collection of recordings from 1968-70, Anarâš and Sabmelaš journals and selected stories from the anthology Aanaarkiela čájttuzeh. </p>
-    <p><em type="italic">1.4. Javrij jieŋah parguu </em>(The Ice on the Lakes is Crying) is a text anthology meant for adult students. The selections are compiled from books, Anarâš Journal and radio recordings. Produced by Pekka Sammallahti in 2004. </p>
-    <p><em type="italic">1.5. </em>Matti Morottaja and Ilmari Mattus produced a 305 pp. Novel anthology called <em type="italic"><span type="quote" xml:lang="smn">“Kyelisieidi maccâm já eres novelleh”</span> </em>(The Return of the Fish Seita and Other Novels) was published at Christmas, 2005. There are a total of 14 writers and the time scale covered by the anthology is 500 years. </p>
-    <p><em type="italic">2. Individual Books and Texts Written in Inari Sámi </em></p>
-    <p><em type="italic">2.1. Uula Morottaja </em>diligently wrote about memories and current affairs in Inari Sámi for Sabmelaš/Sápmelaš Journal. His language was rich and writing eloquent. It was Erkki Itkonen that said that Uula Morottaja would have been an equal to Johan Turing as a writer if there would have been sufficient opportunity. </p>
-    <p><em type="italic">2.1. <span type="quote" xml:lang="smn">“Piiččus”</span> </em>(The Golden Plover), A children’s songbook in Inari Sámi and Northern Sámi. Words and music by Aune Vesa. Published in 1987. </p>
-    <p><em type="italic">2.3. <span type="quote" xml:lang="smn">“Uáináh-uv”</span> </em>(Do You See?), a book of poems written by Aune Vesa was published in 1992. It is in both Inari Sámi and Northern Sámi. It is comprised of poetry and Martti Rikkonen’s black and white photographs. </p>
-    <p><em type="italic">2.4. </em>Aune Vesa’s children’s book <em type="italic"><span type="quote" xml:lang="smn">“Tuálu faŋgâ”</span> </em>(Prisoner of Frost) published in 1994. The book is illustrated by photographer Martti Rikkonen. </p>
-    <p><em type="italic">2.5. </em>Iisakki Mattus’ memoirs <em type="italic">"Eellimpäälgis </em>", published in 1996, contains novel-like stories from the writer’s life. </p>
-    <p><em type="italic">2.6. </em>Ilmari Mattus’ documentary novel <em type="italic"><span type="quote" xml:lang="smn">"Čovčjäävrist Kaamâsân"</span> </em>describes the writer’s childhood and school-going days. Published in 1996. </p>
-    <p><em type="italic">2.7. <span type="quote" xml:lang="smn">“Suábi maainâs”</span> </em>(Story of the Pole) a young persons’ novel written by Petter Morottaja and illustrated by Martti Rikkonen was published in 1999. It is a fantasy novel based on Sámi narrative. </p>
-    <p><em type="italic">2.8. </em>Petter Morottaja wrote and Martti Rikkonen illustrated <em type="italic"><span type="quote" xml:lang="smn">“Riävskánieidâ”</span> </em>(Willow Grouse Girl), a children’s novel published in 2000. </p>
-    <p><em type="italic">3. Books Translated into Inari Sámi </em></p>
-    <p><em type="italic">3.1. "Nieidâ kote šoodâi kollekuálsin” </em>(The Girl Who Changed into a Merganser) produced by Samuli Aikio according to an old story. The book is translated from Northern Sámi by Matti Morottaja. Published in 1982. </p>
-    <p><em type="italic">3.2. <span type="quote" xml:lang="sme">“Halstemjeegi noaidi”</span> </em>(The Witch of Halstamo Bog), a children’s book written by Rauna Paadar-Leivo, published in 1990. Translated by Matti Morottaja from Northern Sámi. <em type="italic">3.3. </em>Kirsti Paltto wrote and Matti Morottaja translated the children’s book <em type="italic"><span type="quote" xml:lang="smn">“Tivgâ”</span> </em>(Tiuku), published in 1994.The book was the first publication of Anarâškielâ Servi Co., telling of the friendship between a boy named Mikko and a whale. <em type="italic">3.4. </em>Veikko Holmberg wrote, Marja Helander illustrated, Matti Morottaja translated and Davvi Girji Co. published <em type="italic"><span type="quote" xml:lang="smn">“Tuuru-kuobžâ”</span> </em>(Tuuru-Bear), published in 1995. <em type="italic">3.5. <span type="quote" xml:lang="smn">“Uccâ priinsâš”</span> </em>(The Little Prince) 2., was written by Antoine de Saint-Exupéry and translated by Iisakki Mattus. The corrected reprint was published in 2004. Saamelaiskäräjät, 95 pp. <em type="italic">3.6. </em>Iisakki Mattus’ translation of <span type="quote" xml:lang="nob">“Shaman Sisters”</span>, <em type="italic"><span type="quote" xml:lang="est">“Kollepäddi”</span> </em>(Golden Collar) was published in 2001. </p>
-    <p xml:lang="fin"><em type="italic">Matti Morottaja </em> </p>
-    <p><span type="quote" xml:lang="smn">”Javrij jieŋah parguu”</span> produced by Pekka  Sammallahti in 2004.</p>
-    <p xml:lang="smn">” Kyelisieidi maccâm já eres novelleh”  produced by Matti Morottaja and Ilmari Mattus in 2005.</p>
-    <p><span type="quote" xml:lang="smn">”Suábi maainâs”</span> written by Petter  Morottaja, published in 1999.</p>
-    <p xml:lang="smn">Aune Vesa’s ” Uáináh-uv” from 1992.</p>
-    <p xml:lang="nno"></p>
-    <p><em type="bold">Literature sample  </em></p>
-    <p xml:lang="nno"></p>
-    <p>Children’s Literature</p>
-    <p>Back to Top</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Anaras - Language - Literature</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>1081</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/english/kieli/kirjallisuus.html</origFileName><parallel_text xml:lang="fin" location="kirjallisuus.html"/><parallel_text xml:lang="smn" location="kirjallisuus.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Orthography</p>
+<p>Language and Identity</p>
+<p>The Storytelling Tradition</p>
+<p>Literature</p>
+<p>Works Published in Inari Sámi</p>
+<p>Inari Sámi literature is very young. Practical considerations have imposed barriers to its development. Writing was not done until after the beginning of the 1900’s. The Sámis lacked education in their language and writing; it did not begin until the 1970’s. Reading and what little writing that was done happened in Finnish.</p>
+<p>The need for literature in various functions was earlier compensated for through verbal narrative which had after all been developed in many ways. The narrated story and memoirs hold a central position in Sámi linguistic arts. A skillful story-teller was valued more than a writer. In his narrations he could emphasize the important and juicy details, could move between truth and imagination so the listener would have to figure out himself all the time what he was hearing. The sounds the teller used, the laughter and gestures enriched the narrative; these are not visible in the written text. It is a novel, a show and theatre all in one.</p>
+<p>The following Inari Sámi works listed in chronological order possess literary flair, prose and poetry.</p>
+<p xml:lang="fin"><em type="italic">Compilations </em><em type="italic">1. Inari Lapp Folklore </em></p>
+<p>Written Inari Sámi literature can be said to have begun when A.V. Koskimies’ and T.I. Ikonen’s compilation and publication <em type="italic"><span type="quote" xml:lang="smn">“Inari Lapp Folklore”</span> </em>was published in 1917. It is comprised of material that A.V. Koskimies gathered in 1886. The narrators represented are Heikki Mattus, Iisakki Mannermaa, Mikko Aikio, Pekka Aikio, Juho Petteri Lusmaniemi, Paavali Valle, Santeri Valle, Antti Kitti, Antti Sarre, Matti Sarre, Pietari Valle, Yrjänä Sarre, Heikki Morottaja, Uula Morottaja and <span type="quote">“the Matron of Juutua”</span>. The book was edited by Lea Laitinen and published slightly altered in a re-edition in 1979. Erkki Itkonen’s <span type="quote">“dictionary orthography”</span> was used in it (the same as used in the <span type="quote" xml:lang="deu">“Inari Lappisches Wörtebuch”</span>); earlier it was written in phonetic or transcription script. </p>
+<p>The compilation is multifaceted in its types. <em type="italic">Story varieties </em>included are animal stories, miracle stories, fictional and funny stories. There is one <em type="italic">creation tale </em>, a famous tale about the Moon Tarnisher. <em type="italic">Stories of belief </em>are much the same as for other Sámis: Staalo, treasure sprites, giants, holy places (seita), shamans, shape-shifters and apparitions. There are many <em type="italic">historical and local stories </em>. The best-known of these are the story of Sigga and stories of oppressors. There are also memoirs which have historical significance. Examples of <em type="italic">minor folklore </em>are proverbs, sayings, riddles, signs and omens. There are also <em type="italic">yoiks and songs </em>in the book. </p>
+<p>One can identify from the stories especially a connection with Finnish and multinational stories. Light is shed on this fact in the beginning of the book when it is mentioned that one of the informants was a diligent correspondent to an Finnish language newspaper from Oulu and apparently a subscriber to a weekly paper from Oulu in which there were stories in the Finnish language. Stories and tales in the Sámi language have received more or less local color, as often occurs.</p>
+<p><em type="italic">1.2. Aanaarkiela čájttuzeh </em>was published in 1992. It contains Erkki Itkonen’s recorded memoirs which were produced in book form by Lea Laitinen. <span type="quote">“Dictionary orthography”</span> is made use of in the book. </p>
+<p><em type="italic">1.3. Tovlááh mainâseh </em>is a collection of recordings from 1968-70, Anarâš and Sabmelaš journals and selected stories from the anthology Aanaarkiela čájttuzeh. </p>
+<p><em type="italic">1.4. Javrij jieŋah parguu </em>(The Ice on the Lakes is Crying) is a text anthology meant for adult students. The selections are compiled from books, Anarâš Journal and radio recordings. Produced by Pekka Sammallahti in 2004. </p>
+<p><em type="italic">1.5. </em>Matti Morottaja and Ilmari Mattus produced a 305 pp. Novel anthology called <em type="italic"><span type="quote" xml:lang="smn">“Kyelisieidi maccâm já eres novelleh”</span> </em>(The Return of the Fish Seita and Other Novels) was published at Christmas, 2005. There are a total of 14 writers and the time scale covered by the anthology is 500 years. </p>
+<p><em type="italic">2. Individual Books and Texts Written in Inari Sámi </em></p>
+<p><em type="italic">2.1. Uula Morottaja </em>diligently wrote about memories and current affairs in Inari Sámi for Sabmelaš/Sápmelaš Journal. His language was rich and writing eloquent. It was Erkki Itkonen that said that Uula Morottaja would have been an equal to Johan Turing as a writer if there would have been sufficient opportunity. </p>
+<p><em type="italic">2.1. <span type="quote" xml:lang="smn">“Piiččus”</span> </em>(The Golden Plover), A children’s songbook in Inari Sámi and Northern Sámi. Words and music by Aune Vesa. Published in 1987. </p>
+<p><em type="italic">2.3. <span type="quote" xml:lang="smn">“Uáináh-uv”</span> </em>(Do You See?), a book of poems written by Aune Vesa was published in 1992. It is in both Inari Sámi and Northern Sámi. It is comprised of poetry and Martti Rikkonen’s black and white photographs. </p>
+<p><em type="italic">2.4. </em>Aune Vesa’s children’s book <em type="italic"><span type="quote" xml:lang="smn">“Tuálu faŋgâ”</span> </em>(Prisoner of Frost) published in 1994. The book is illustrated by photographer Martti Rikkonen. </p>
+<p><em type="italic">2.5. </em>Iisakki Mattus’ memoirs <em type="italic">"Eellimpäälgis </em>", published in 1996, contains novel-like stories from the writer’s life. </p>
+<p><em type="italic">2.6. </em>Ilmari Mattus’ documentary novel <em type="italic"><span type="quote" xml:lang="smn">"Čovčjäävrist Kaamâsân"</span> </em>describes the writer’s childhood and school-going days. Published in 1996. </p>
+<p><em type="italic">2.7. <span type="quote" xml:lang="smn">“Suábi maainâs”</span> </em>(Story of the Pole) a young persons’ novel written by Petter Morottaja and illustrated by Martti Rikkonen was published in 1999. It is a fantasy novel based on Sámi narrative. </p>
+<p><em type="italic">2.8. </em>Petter Morottaja wrote and Martti Rikkonen illustrated <em type="italic"><span type="quote" xml:lang="smn">“Riävskánieidâ”</span> </em>(Willow Grouse Girl), a children’s novel published in 2000. </p>
+<p><em type="italic">3. Books Translated into Inari Sámi </em></p>
+<p><em type="italic">3.1. "Nieidâ kote šoodâi kollekuálsin” </em>(The Girl Who Changed into a Merganser) produced by Samuli Aikio according to an old story. The book is translated from Northern Sámi by Matti Morottaja. Published in 1982. </p>
+<p><em type="italic">3.2. <span type="quote" xml:lang="sme">“Halstemjeegi noaidi”</span> </em>(The Witch of Halstamo Bog), a children’s book written by Rauna Paadar-Leivo, published in 1990. Translated by Matti Morottaja from Northern Sámi. <em type="italic">3.3. </em>Kirsti Paltto wrote and Matti Morottaja translated the children’s book <em type="italic"><span type="quote" xml:lang="smn">“Tivgâ”</span> </em>(Tiuku), published in 1994.The book was the first publication of Anarâškielâ Servi Co., telling of the friendship between a boy named Mikko and a whale. <em type="italic">3.4. </em>Veikko Holmberg wrote, Marja Helander illustrated, Matti Morottaja translated and Davvi Girji Co. published <em type="italic"><span type="quote" xml:lang="smn">“Tuuru-kuobžâ”</span> </em>(Tuuru-Bear), published in 1995. <em type="italic">3.5. <span type="quote" xml:lang="smn">“Uccâ priinsâš”</span> </em>(The Little Prince) 2., was written by Antoine de Saint-Exupéry and translated by Iisakki Mattus. The corrected reprint was published in 2004. Saamelaiskäräjät, 95 pp. <em type="italic">3.6. </em>Iisakki Mattus’ translation of <span type="quote" xml:lang="nob">“Shaman Sisters”</span>, <em type="italic"><span type="quote" xml:lang="est">“Kollepäddi”</span> </em>(Golden Collar) was published in 2001. </p>
+<p xml:lang="fin"><em type="italic">Matti Morottaja </em> </p>
+<p><span type="quote" xml:lang="smn">”Javrij jieŋah parguu”</span> produced by Pekka  Sammallahti in 2004.</p>
+<p xml:lang="smn">” Kyelisieidi maccâm já eres novelleh”  produced by Matti Morottaja and Ilmari Mattus in 2005.</p>
+<p><span type="quote" xml:lang="smn">”Suábi maainâs”</span> written by Petter  Morottaja, published in 1999.</p>
+<p xml:lang="smn">Aune Vesa’s ” Uáináh-uv” from 1992.</p>
+<p xml:lang="swe"></p>
+<p><em type="bold">Literature sample  </em></p>
+<p xml:lang="swe"></p>
+<p>Children’s Literature</p>
+<p>Back to Top</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

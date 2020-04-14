@@ -1,50 +1,21 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>198</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/djur-och-natur/jakt-och-vilt/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="djur-och-natur-jakt-och-vilt.html"/>
-    <parallel_text xml:lang="swe" location="djur-och-natur-jakt-och-vilt.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Hunting and Wildlife - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Hunting and Wildlife</p>
-    <p>The County Administrative Board is responsible for providing information to hunters and landowners, registering hunting grounds, issuing licences and gathering and compiling shooting statistics.</p>
-    <p type="title">All wildlife is protected</p>
-    <p>The Hunting and Game Act (SFS 1987:259) states that all wildlife is protected. The protection of wildlife even relates to their eggs and nests. This means that wildlife can only be hunted – that is, caught or killed – if allowed by means of hunting legislation.</p>
-    <p type="title">Protective hunting</p>
-    <p>We are responsible for matters relating to protective hunting to prevent wildlife damage. In some cases we can provide grants for loss-prevention measures and in certain cases compensation for losses that have occurred.</p>
-    <p type="title">Wildlife management</p>
-    <p>We also make an inventory of and administer predators in the county and appoint a hunting control officer. Each County Administrative Board has a wildlife conservation committee which provides advice on matters relating to wildlife conservation.</p>
-    <p type="title">State Game may not be hunted</p>
-    <p>In Sweden, the property owner is usually entitled to hunt on land belonging to the property. Exceptions to this principle are certain endangered, rare or particularly valuable animal species. These are usually called state game.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>198</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/djur-och-natur/jakt-och-vilt/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="djur-och-natur-jakt-och-vilt.html"/><parallel_text xml:lang="swe" location="djur-och-natur-jakt-och-vilt.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Hunting and Wildlife - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Hunting and Wildlife</p>
+<p>The County Administrative Board is responsible for providing information to hunters and landowners, registering hunting grounds, issuing licences and gathering and compiling shooting statistics.</p>
+<p type="title">All wildlife is protected</p>
+<p>The Hunting and Game Act (SFS 1987:259) states that all wildlife is protected. The protection of wildlife even relates to their eggs and nests. This means that wildlife can only be hunted – that is, caught or killed – if allowed by means of hunting legislation.</p>
+<p type="title">Protective hunting</p>
+<p>We are responsible for matters relating to protective hunting to prevent wildlife damage. In some cases we can provide grants for loss-prevention measures and in certain cases compensation for losses that have occurred.</p>
+<p type="title">Wildlife management</p>
+<p>We also make an inventory of and administer predators in the county and appoint a hunting control officer. Each County Administrative Board has a wildlife conservation committee which provides advice on matters relating to wildlife conservation.</p>
+<p type="title">State Game may not be hunted</p>
+<p>In Sweden, the property owner is usually entitled to hunt on land belonging to the property. Exceptions to this principle are certain endangered, rare or particularly valuable animal species. These are usually called state game.</p>
+</body></document>

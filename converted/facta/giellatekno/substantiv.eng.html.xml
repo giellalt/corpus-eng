@@ -1,294 +1,246 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Nouns</title>
-    <genre code="facta"/>
-    <author>
-      <person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/>
-    </author>
-    <wordcount>2732</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Børre Gaup" email="borre.gaup@uit.no"/>
-    <multilingual/>
-    <origFileName>http://oahpa.no/sme/gramm/substantiv.eng.html</origFileName>
-    <parallel_text xml:lang="nob" location="substantiv.nob.html"/>
-    <parallel_text xml:lang="sme" location="substantiv.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p type="title">Nouns</p>
-    <list>
-      <p type="listitem">Different stems</p>
-      <p type="listitem">Diphthong simplification</p>
-      <p type="listitem">Consonant gradation</p>
-      <p type="listitem">Other Consonant Alternations</p>
-      <p type="listitem">Cases</p>
-      <p type="listitem">The Nominative</p>
-      <p type="listitem">The Accusative</p>
-      <p type="listitem">The Genitive</p>
-      <p type="listitem">The Illative</p>
-      <p type="listitem">The Locative</p>
-      <p type="listitem">The Comitative</p>
-      <p type="listitem">The Essive</p>
-    </list>
-    <p>Back to the grammar main page .</p>
-    <p>Nouns are the words we use to indicate people, animals, things, processes or abstract relations, e.g.: <em type="italic">nieida </em>'girl', <em type="italic">Káre </em>'Káre (a name)', <em type="italic">beavdi </em>'table', <em type="italic">ráhkisvuohta </em>'love', <em type="italic">dávda </em>'illness', <em type="italic">Norga </em>'Norway'. </p>
-    <p xml:lang="nno"></p>
-    <p type="title">Different stems</p>
-    <p>In Saami nouns are declined, that is, they take different forms to indicate what they are used for in a given sentence. The inflectional suffixes of nouns vary according to the number of syllables in the final <em type="italic">foot </em>of a word. The term foot, perhaps familiar from the study of poetry, is a group of syllables in which the first syllable has stress. In the examples below, syllables are separated with <span type="quote">"-", and feet are enclosed in parentheses "()"</span>. Stress is marked with a single apostrophe "'" preceding the syllable. </p>
-    <list>
-      <p type="listitem"><em type="italic">gussa </em>'cow' ('gus-sa) consists of two syllables and one foot. </p>
-      <p type="listitem"><em type="italic">sámegiella </em>'Saami language' ('sá-me)('giel-la) consists of four syllables and two feet. </p>
-      <p type="listitem"><em type="italic">fatnasa </em>'boat' ('fa-tna-sa) consists of three syllables and one foot. </p>
-      <p type="listitem"><em type="italic">vilbealle </em>'male cousin' ('vil)('beal-le) consists of three syllables and two feet. </p>
-    </list>
-    <p><em type="italic">Nouns with vowel stems </em>(also called bisyllabic nouns) are nouns that have two syllables in the final foot in the nominative plural. </p>
-    <list>
-      <p type="listitem"><em type="italic">gussa - gusat </em>('gu-sat) consists of two syllables and one foot. </p>
-      <p type="listitem"><em type="italic">vilbealle - vilbealit </em>('vil)('bea-lit) consists of three syllables and two feet. </p>
-      <p type="listitem"><em type="italic">sámegiella - sámegielat </em>('sá-me)('gie-lat) consists of four syllables and two feet. </p>
-      <p type="listitem"><em type="italic">gonagas - gonagasat </em>'king' ('go-na)('ga-sat) consists of four syllables and two feet. </p>
-      <p type="listitem"><em type="italic">gonagasbárdni - gonagasbártnit </em>'prince' ('go-na-gas)('bárt-nit) consists of five syllables and two feet. </p>
-    </list>
-    <p>These nouns are strong grade in the nominative singular, and weak grade in the plural.</p>
-    <p><em type="italic">Nouns with consonant stems </em>(also called trisyllabic nouns) have three syllables in the final foot in the nominative plural. </p>
-    <list>
-      <p type="listitem"><em type="italic">rieban - riebanat </em>'fox' ('rie-ba-nat) has three syllables and one foot. </p>
-      <p type="listitem"><em type="italic">nisu - nissonat </em>'woman' ('nis-so-nat) has three syllables and one foot. </p>
-      <p type="listitem"><em type="italic">ruksesrieban - ruksesriebanat </em>'red fox' ('ruk-ses)('rie-ba-nat) has five syllables and two feet. </p>
-    </list>
-    <p>The nominative singular and essive are weak-grade forms, the other forms are strong-grade, but not all consonant stem nouns are subject to gradation.</p>
-    <p><em type="italic">Contracted nouns </em>have two syllables in the final foot in both the singular and the plural. The noun is weak-grade in the nominative singular and strong or extra strong-grade in the in the plural. </p>
-    <list>
-      <p type="listitem"><em type="italic">boazu - bohccot </em>'reindeer' ('bohc-cot) has two syllables and one foot. </p>
-      <p type="listitem"><em type="italic">bálggis - bálgát </em>'path' ('bál-gát) has two syllables and one foot. </p>
-      <p type="listitem"><em type="italic">vuovdebálggis - vuovdebálgát </em>'forest path' ('vuov-de)('bál-gát) has four syllables and two feet. </p>
-      <p type="listitem"><em type="italic">olmmái - olbmát </em>'man, companion' ('olb-mát) has two syllables and one foot. </p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Diphthong simplification</p>
-    <p>The diphthong in the first syllable of a foot can be affected by the vowel in the second syllable. The diphthong becomes a monophthong (a single vowel) when the vowel in the second syllable is:</p>
-    <list>
-      <p type="listitem" xml:lang="sme">-ii- , e.g. <em type="italic">gihtii (giehta) </em>'hand; arm' </p>
-      <p type="listitem">-ui- , but only in the illative singular, e.g. <em type="italic">vissui (viessu) </em>'house' </p>
-      <p type="listitem" xml:lang="sme">-o- , e.g. <em type="italic">bohccot (boazu) </em>'reindeer' </p>
-    </list>
-    <p>In contracted nouns that end in "-u", diphthong simplification occurs in all cases, except for the nominative singular and the essive.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Consonant gradation</p>
-    <p>Gradation usually occurs in the consonants between the first and second syllable in the final foot, e.g. <em type="italic">sámegiella - sámegiela </em>'the Saami language'. This alternation is called <em type="italic">gradation </em>. We have, e.g. <em type="italic">strong-grade forms </em>in the nominative singular in vowel stem nouns, and in the nominative plural in consonant stem nouns. The <em type="italic">weak-grade form </em>, it will be noted, is what occurs for example in the nominative plural in vowel stem nouns, or in the nominative singular in consonant stem nouns. </p>
-    <p>Here are some examples of gradation - strong-grade forms on the left, weak-grade forms on the right. Please, note that, when the letter <span type="quote" xml:lang="nob">"-i-"</span> follows a vowel, it, in fact, indicates a consonant [-j-], and for this reason it is part of the consonant cluster:</p>
-    <list>
-      <p type="listitem" xml:lang="isl">má <em type="italic">nn </em>á - má <em type="italic">n </em>át 'child', lá <em type="italic">vv </em>u - lá <em type="italic">v </em>ut 'lavvu', vie <em type="italic">ss </em>u - vie <em type="italic">s </em>ut 'house', guo <em type="italic">ll </em>i - guo <em type="italic">l </em>it 'fish' </p>
-      <p type="listitem" xml:lang="sme">lá <em type="italic">ib </em>i - lá <em type="italic">ibb </em>it 'bread', bá <em type="italic">id </em>i - bá <em type="italic">idd </em>it 'shirt', lá <em type="italic">vl </em>agat - lá <em type="italic">vll </em>a 'song' </p>
-      <p type="listitem" xml:lang="nno">oa <em type="italic">bb </em>á - oa <em type="italic">pp </em>át 'sister', stá <em type="italic">gg </em>u - stá <em type="italic">kk </em>ut 'pole/rod' </p>
-      <p type="listitem" xml:lang="nno">bea <em type="italic">tn </em>agat - bea <em type="italic">n </em>a 'dog', vuo <em type="italic">pm </em>i - vuo <em type="italic">m </em>it 'forest in a valley' </p>
-      <p type="listitem" xml:lang="kal">u <em type="italic">ks </em>a - u <em type="italic">vss </em>at 'door', gá <em type="italic">kt </em>i - gá <em type="italic">vtt </em>it 'sami costume' </p>
-      <p type="listitem" xml:lang="isl">gá <em type="italic">hkk </em>u - gá <em type="italic">hk </em>u 'cake', á <em type="italic">hčč </em>i - á <em type="italic">hči </em>t 'father' </p>
-    </list>
-    <p>Vowel stem nouns can also end in consonants in the nominative singular, for example, words such as <em type="italic">gonagas </em>'king', <em type="italic">lávvardat </em>'Saturday'. In the declension of these words you will note an extra syllable, and the word will be broken into two feet: ('go-na)('ga-sa) 'of the king'. Since the final foot is now bisyllabic, it is open to consonant gradation. The strong grade will occur in the illative singular and the essive. Here are some examples with the nominative singular, nominative plural and the illative singular: </p>
-    <list>
-      <p type="listitem" xml:lang="kal">gonaga <em type="italic">s </em>- gonaga <em type="italic">s </em>at - gonaga <em type="italic">ss </em>ii 'king' </p>
-      <p type="listitem" xml:lang="nno">lávvarda <em type="italic">t </em>- lávvarda <em type="italic">g </em>at - lávvarda <em type="italic">hk </em>ii 'Saturday' </p>
-      <p type="listitem" xml:lang="smn">ofela <em type="italic">š </em>- ofela <em type="italic">čč </em>at - ofela <em type="italic">žž </em>ii 'guide' </p>
-      <p type="listitem" xml:lang="smn">borramu <em type="italic">š </em>- borramu <em type="italic">š </em>at - borramu <em type="italic">šš </em>ii 'food' </p>
-    </list>
-    <p>You can read more about consonant gradation here</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Other Consonant Alternations</p>
-    <p>Some nouns end in consonants in the nominative singular. In North Saami, there are limitations as to which consonants can occur in word-final position, and this is where we can observe special types of consonant alternations between the nominative singular and the other cases. The consonants that can occur in word-final position are: <span type="quote" xml:lang="est">"t", "s"</span>, <span type="quote" xml:lang="sms">"š", "l"</span>, <span type="quote">"r" and "n"</span>. Here are some examples of consonant alternations in consonant stem nouns and the word <span type="quote" xml:lang="sme">"olmmoš"</span> 'person':</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">t &gt; h </em>, e.g. rievssat - rievssaha 'ptarmigan' </p>
-      <p type="listitem"><em type="italic">t &gt; d </em>, e.g. eamit - eamida 'lady of the house, wife' </p>
-      <p type="listitem" xml:lang="est"><em type="italic">t &gt; g </em>, e.g. rusttet - rusttega 'equipment' </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">t &gt; b </em>, e.g. ustit - ustiba 'friend' </p>
-      <p type="listitem" xml:lang="vep"><em type="italic">n &gt; m </em>, e.g. goaskin - goaskima 'eagle' </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">š &gt; ž </em>, e.g. cizáš - cizáža 'little bird', olmmoš - olmmožin 'person' </p>
-    </list>
-    <p>Note that <span type="quote">"š" and "n"</span> do not always alternate: <em type="italic">bearaš - bearraša 'family', gearpmaš - gearbmaša 'snake', čálán - čálána 'printer', suohpan - suohpana 'reindeer herder's lassoo' </em>. </p>
-    <p>Vowel stem nouns that end in consonants undergo similar alternation:</p>
-    <list>
-      <p type="listitem" xml:lang="vep"><em type="italic">t &gt; g </em>, e.g. sihkaldat - sihkaldaga 'towel' </p>
-      <p type="listitem" xml:lang="sme"><em type="italic">š &gt; čč </em>, e.g. sápmelaš - sápmelačča 'Saami person' </p>
-    </list>
-    <p>Vowel stem nouns also undergo consonant gradation in these consonants, read more about this variation here .</p>
-    <p>Some trisyllabic nouns that end in a vowel in the nominative singular also acquire and extra consonant in the other forms:</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">_ &gt; g </em>, e.g. beana - beatnaga 'dog', gáma - gápmaga 'shoe' </p>
-      <p type="listitem" xml:lang="vep"><em type="italic">_ &gt; m </em>, e.g. ađa - ađđama 'marrow', gietkka - gietkama 'cradle' </p>
-    </list>
-    <p>Contracted nouns that end in <span type="quote">"-i" undergo a spelling change in the written language language with the "i"</span> of the nominative singular form changing to "j" in the essive.</p>
-    <list>
-      <p type="listitem" xml:lang="sme"><em type="italic">i &gt; j </em>, e.g. olmmái - olmmájin, almmái - almmájin 'man, husband' </p>
-    </list>
-    <p xml:lang="nno"></p>
-    <p type="title">Cases</p>
-    <p>are declension forms that mark which function a <em type="italic">noun phrase head </em>has in a sentence. A noun phrase head is typically a noun or pronoun but it can also be and adjective or a numeral. In North Saami there are seven cases. </p>
-    <p xml:lang="nno"></p>
-    <p type="title">The Nominative</p>
-    <p>is the case given as the base form (presentational form) of a noun phrase head. It is the case used to mark the subject and the subject complement or predicative. The ending "-t" is used to mark the nominative plural.</p>
-    <p>Vowel stem nouns are strong-grade in the singular and weak-grade in the plural: <em type="italic">Min 'gussa' lea návehis. </em>(Our cow is in the cowshed.) <em type="italic">Min 'gusat' leat návehis. </em>(Our cows are in the cowshed.) </p>
-    <p>Consonant stem nouns are weak-grade in the singular and strong-grade in the plural, e.g. <em type="italic">Čoahkkimis lei dušše okta 'nisu'. </em>(There was only one lady at the meeting.) <em type="italic">Čoahkkimis ledje ollu 'nissonat'. </em>(There were a lot of women at the meeting.) </p>
-    <p>Contracted nouns are weak-grade in the singular and strong or extra strong-grade in the plural. In the plural there is also diphthong simplification, e.g. <em type="italic">Šiljus lea 'boazu'. </em>(There is a reindeer in the yard.) <em type="italic">Duoddaris leat ollu 'bohccot'. </em>(There are a lot of reindeer on the mountain plateau.) </p>
-    <p xml:lang="vep"><em type="italic">NOMINATIVE </em></p>
-    <p><em type="italic">stem type </em></p>
-    <p xml:lang="isl"><em type="italic">singular </em></p>
-    <p><em type="italic">plural </em></p>
-    <p>Vowel stem nouns</p>
-    <p xml:lang="sme"><em type="italic">guolli </em></p>
-    <p xml:lang="sme"><em type="italic">guolit </em></p>
-    <p>Consonant stem nouns</p>
-    <p xml:lang="sme"><em type="italic">čála </em></p>
-    <p xml:lang="sme"><em type="italic">čállagat </em></p>
-    <p>Contracted nouns</p>
-    <p xml:lang="sme"><em type="italic">boazu </em></p>
-    <p xml:lang="sme"><em type="italic">bohccot </em></p>
-    <p xml:lang="nno"></p>
-    <p type="title">The Accusative</p>
-    <p>is the case used to indicate the object, e.g. <em type="italic">Mun oasttán 'gusa'. </em>(I'm going to buy a cow.) In the plural the accusative marker is <span type="quote" xml:lang="sme">"-id"</span>. </p>
-    <p>Vowel stem nouns are weak-grade in both the singular and the plural. Nouns that end in "-i" undergo diphthong simplification in the plural: <em type="italic">Mun oasttán 'gusa'/'gusaid'. (gussa) </em>(I am going to buy a cow / cows). <em type="italic">Mun čorgen 'goađi'/'gođiid'. (goahti) </em>(I am going to clean the goahti / goahtis.) </p>
-    <p>Consonant stem nouns are strong-grade, and in the singular they end in "-a": <em type="italic">Mun dovddan 'nissona'/'nissoniid'. (nisu). </em>(I know the woman / women.) </p>
-    <p>Contracted nouns are strong or extra strong-grade, and they also have diphthong simplification: <em type="italic">Gal mun oainnán 'bohcco'/'bohccuid'. (boazu) </em>(I do see a reindeer /reindeer.) </p>
-    <p>In North Saami, the accusative and genitive forms are identical.</p>
-    <p xml:lang="vep"><em type="italic">ACCUSATIVE </em></p>
-    <p><em type="italic">stem type </em></p>
-    <p xml:lang="isl"><em type="italic">singular </em></p>
-    <p><em type="italic">plural </em></p>
-    <p>Vowel stem nouns</p>
-    <p xml:lang="sme"><em type="italic">guolli </em></p>
-    <p xml:lang="sme"><em type="italic">guoli </em></p>
-    <p xml:lang="sme"><em type="italic">guliid </em></p>
-    <p>Consonant stem nouns</p>
-    <p xml:lang="sme"><em type="italic">čála </em></p>
-    <p xml:lang="sme"><em type="italic">čállaga </em></p>
-    <p xml:lang="sme"><em type="italic">čállagiid </em></p>
-    <p>Contracted nouns</p>
-    <p xml:lang="sme"><em type="italic">boazu </em></p>
-    <p xml:lang="sme"><em type="italic">bohcco </em></p>
-    <p xml:lang="sme"><em type="italic">bohccuid </em></p>
-    <p xml:lang="nno"></p>
-    <p type="title">The Genitive</p>
-    <p>is the case used to mark the possessor: <em type="italic">'nissona' lávka (the woman's knapsack), 'skuvlla' njuolggadusat (school rules) </em>. The genitive is also used in other contexts, e.g. to mark the complement of postpositions and prepositions: <em type="italic">'sullo' lahka (near the island) </em>. The genitive is also used in combination with expressions with cardinal numerals when the number is larger than "1": <em type="italic">guokte 'nieidda' ja golbma 'bártni' (two girls and three boys) </em>. The genitive plural is marked with <span type="quote" xml:lang="sme">"-id"</span>. </p>
-    <p>Vowel stem nouns are weak-grade in both the singular and the plural. Nouns that end in "-i" undergo diphthong simplification in the plural: <em type="italic">Dat lea 'gusa'/'gusaid' biebmu. (gussa) </em>(That is cow's/cows' food.) <em type="italic">Dat leat 'goađi'/'gođiid' duohken. (goahti) </em>(They are behind the goahti.) </p>
-    <p>Consonant stem nouns are strong-grade, and in the singular they end in "-a": <em type="italic">Dat lea 'nissona'/'nissoniid' lávka. (nisu) </em>(That is the woman's/ women's knapsack.) </p>
-    <p>Contracted nouns are strong or extra strong-grade, and they are subject to diphthong simplification: <em type="italic">Mun bivden guoli 'sullo'/'sulluid' davábealde. (suolu) </em>(I caught a fish on the north side of the island/islands.) </p>
-    <p>In North Saami, the accusative and genitive forms are identical.</p>
-    <p xml:lang="vep"><em type="italic">GENITIVE </em></p>
-    <p><em type="italic">stem type </em></p>
-    <p xml:lang="isl"><em type="italic">singular </em></p>
-    <p><em type="italic">plural </em></p>
-    <p>Vowel stem nouns</p>
-    <p xml:lang="sme"><em type="italic">guolli </em></p>
-    <p xml:lang="sme"><em type="italic">guoli </em></p>
-    <p xml:lang="sme"><em type="italic">guliid </em></p>
-    <p>Consonant stem nouns</p>
-    <p xml:lang="sme"><em type="italic">čála </em></p>
-    <p xml:lang="sme"><em type="italic">čállaga </em></p>
-    <p xml:lang="sme"><em type="italic">čállagiid </em></p>
-    <p>Contracted nouns</p>
-    <p xml:lang="sme"><em type="italic">boazu </em></p>
-    <p xml:lang="sme"><em type="italic">bohcco </em></p>
-    <p xml:lang="sme"><em type="italic">bohccuid </em></p>
-    <p xml:lang="nno"></p>
-    <p type="title">The Illative</p>
-    <p>is the case that indicates motion toward or into something. The illative can also be used to indicate the recipient: <em type="italic">Mun manan 'skuvlii'. </em>(I'm going to school.) - <em type="italic">Sii mannet 'skuvllaide'. </em>(They are going to the schools.) <em type="italic">Son attii 'mánnái' girjji. (He/She gave the child a book.) Mánná bijai girjji 'hildui'. </em>(The child put the book on the shelf.) There are also illative verbs, that is verbs that require a noun in the illative. The verbs <em type="italic">liikot </em>'to like' and <em type="italic">álgit </em>'to start' are examples of some typical illative verbs: <em type="italic">Son álgá 'skuvlii'. </em>(He/She is starting school.) <em type="italic">Mun liikon 'eadnái'. </em>(I like mom.) Read more about illative verbs here . </p>
-    <p>Vowel stem nouns are strong-grade, the vowel in the second syllable changes and the ending "-i" is added: <em type="italic">áhččái (áhčči) </em>'to dad', <em type="italic">gussii (gussa) </em>'to the cow', <em type="italic">reŋkui (reŋko) </em>'onto the stool', <em type="italic">báŋkui (báŋku) </em>'into/to the bank'. </p>
-    <p>Nouns ending in <span type="quote">"-u" and "-a"</span> undergo diphthong simplification in the singular: <em type="italic">merrii (mearra) </em>'into the sea', <em type="italic">vissui (viessu) </em>'into the house'. </p>
-    <p>Consonant stem nouns are strong-grade and end in <span type="quote" xml:lang="smn">"-ii"</span>: <em type="italic">nissonii (nisu) </em>'to the woman'. </p>
-    <p>Contracted nouns are strong or extra strong-grade and take the ending "-i". There is also diphthong simplification: <em type="italic">bohccui (boazu) </em>'to the reindeer', <em type="italic">sullui (suolu) </em>'to the island'. </p>
-    <p>In the plural, the ending for vowel and contracted stems is <span type="quote" xml:lang="est">"-ide"</span>: <em type="italic">etniide </em>to the mothers', <em type="italic">bohccuide </em>'to the reindeer', and <span type="quote" xml:lang="sme">"-iidda"</span> for consonant stems: <em type="italic">nissoniidda </em>'to the women'. </p>
-    <p>Nouns with contracted or vowel stems that end in "-i" are subject to diphthong simplification: <em type="italic">gođiide (goahti) </em>'to the goahtis', <em type="italic">sulluide (suolu) </em>'to the islands'. </p>
-    <p xml:lang="vep"><em type="italic">ILLATIVE </em></p>
-    <p><em type="italic">stem type </em></p>
-    <p xml:lang="isl"><em type="italic">singular </em></p>
-    <p><em type="italic">plural </em></p>
-    <p>Vowel stem nouns</p>
-    <p xml:lang="sme"><em type="italic">guolli </em></p>
-    <p xml:lang="sme"><em type="italic">guollái </em></p>
-    <p xml:lang="sme"><em type="italic">guliide </em></p>
-    <p xml:lang="est"><em type="italic">nieida </em></p>
-    <p xml:lang="sme"><em type="italic">niidii </em></p>
-    <p xml:lang="sme"><em type="italic">nieiddaide </em></p>
-    <p xml:lang="nno"><em type="italic"></em></p>
-    <p xml:lang="fkv"><em type="italic">reŋko </em></p>
-    <p xml:lang="ron"><em type="italic">reŋkui </em></p>
-    <p xml:lang="sme"><em type="italic">reŋkkuide </em></p>
-    <p>Consonant stem nouns</p>
-    <p xml:lang="sme"><em type="italic">čála </em></p>
-    <p xml:lang="sme"><em type="italic">čállagii </em></p>
-    <p xml:lang="sme"><em type="italic">čállagiidda </em></p>
-    <p>Contracted nouns</p>
-    <p xml:lang="sme"><em type="italic">boazu </em></p>
-    <p xml:lang="sme"><em type="italic">bohccui </em></p>
-    <p xml:lang="sme"><em type="italic">bohccuide </em></p>
-    <p xml:lang="nno"></p>
-    <p type="title">The Locative</p>
-    <p>is the case that is used to indicate the notions in/at or from a place. The locative can also indicate the giver or where something comes from: <em type="italic">Mánát leat 'skuvllas'. </em>(The children are at school.) <em type="italic">Mánát bohtet 'skuvllas'. </em>(The children are coming from school.) <em type="italic">Mun ožžon 'áhčis' niibbi. </em>(I got a knife from dad.) <em type="italic">Mii gulaimet 'rádios' ođđasiid. </em>(We heard the news on the radio.) The locative can also be used in <span type="quote">"have"</span> constructions: <em type="italic">'Nieiddas' leat ollu girjjit. </em>(The girl has lots of books.) There are also locative verbs. These are verbs that require a noun in the locative case. The verbs <span type="quote" xml:lang="sme">"beroštit"</span> 'to be interested in', <span type="quote" xml:lang="sme">"ballat"</span> 'to be afraid of' and <span type="quote" xml:lang="sme">"heaitit"</span> 'to quit': <em type="italic">Mun beroštan 'dus'. </em>(I care about you.) <em type="italic">Bárdni heittii 'skuvllas'. </em>(The boy quit school.) <em type="italic">Mánát balle 'beatnagis'. </em>(The children were afraid of the dog.) Read more about locative verbs here . </p>
-    <p>In the singular the ending is "-s". Vowel stem nouns are weak-grade: <em type="italic">gusas (gussa) </em>'the cow [has]', and consonant stem nouns are strong-grade: <em type="italic">nissonis (nisu) </em>'the woman [has]'. Contracted nouns are strong or extra strong-grade and undergo diphthong simplification: <em type="italic">bohccos (boazu) </em>'the reindeer [has]'. </p>
-    <p>In the plural the ending is <span type="quote">"-in"</span>. Contracted nouns and vowel stem nouns ending in "-i" undergo diphthong simplification: <em type="italic">gusain </em>'the cows [have]', <em type="italic">gođiin </em>'in the goahtis', <em type="italic">nissoniin </em>'the women [have]', <em type="italic">bohccuin </em>'the reindeer have'. </p>
-    <p xml:lang="vep"><em type="italic">LOCATIVE </em></p>
-    <p><em type="italic">stem type </em></p>
-    <p xml:lang="isl"><em type="italic">singular </em></p>
-    <p><em type="italic">plural </em></p>
-    <p>Vowel stem nouns</p>
-    <p xml:lang="sme"><em type="italic">guolli </em></p>
-    <p xml:lang="sme"><em type="italic">guolis </em></p>
-    <p xml:lang="sme"><em type="italic">guliin </em></p>
-    <p>Consonant stem nouns</p>
-    <p xml:lang="sme"><em type="italic">čála </em></p>
-    <p xml:lang="sme"><em type="italic">čállagis </em></p>
-    <p xml:lang="sme"><em type="italic">čállagiin </em></p>
-    <p>Contracted nouns</p>
-    <p xml:lang="sme"><em type="italic">boazu </em></p>
-    <p xml:lang="sme"><em type="italic">bohccos </em></p>
-    <p xml:lang="sme"><em type="italic">bohccuin </em></p>
-    <p xml:lang="nno"></p>
-    <p type="title">The Comitative</p>
-    <p>is the case that often indicates the notion <span type="quote">"with"</span>: <em type="italic">Mun čuohpan láibbi 'niibbiin' </em>. (I'm cutting the bread with a knife.) <em type="italic">Mun hupmen 'vieljain' ikte. </em>(I spoke with [my] brother yesterday.) There are also comitative verbs . </p>
-    <p>In the singular the ending is <span type="quote">"-in"</span>. Vowel stem nouns are weak-grade, and words ending in "-i" undergo diphthong simplification <em type="italic">gusain (gussa) </em>'with the cow', <em type="italic">gođiin (goahti) </em>'with the goahti', consonant stem nouns are strong-grade, <em type="italic">nissoniin (nisu) </em>'with the woman', and contracted nouns are strong or extra strong-grade with diphthong simplification: <em type="italic">bohccuin (boazu) </em>'with the reindeer [pl.]', <em type="italic">sulluin (suolu) </em>'with an island [postmodifier]'. </p>
-    <p>The plural ending is <span type="quote" xml:lang="sme">"-iguin"</span>. Contracted nouns and bisyllabic nouns ending in "-i" undergo diphthong simplification: <em type="italic">niibbiiguin </em>'with knives', <em type="italic">etniiguin </em>'with mothers', <em type="italic">nissoniiguin </em>'with women', <em type="italic">bohccuiguin </em>'with reindeer [pl.]'. </p>
-    <p xml:lang="vep"><em type="italic">COMITATIVE </em></p>
-    <p><em type="italic">stem type </em></p>
-    <p xml:lang="isl"><em type="italic">singular </em></p>
-    <p><em type="italic">plural </em></p>
-    <p>Vowel stem nouns</p>
-    <p xml:lang="sme"><em type="italic">guolli </em></p>
-    <p xml:lang="sme"><em type="italic">guliin </em></p>
-    <p xml:lang="sme"><em type="italic">guliiguin </em></p>
-    <p>Consonant stem nouns</p>
-    <p xml:lang="sme"><em type="italic">čála </em></p>
-    <p xml:lang="sme"><em type="italic">čállagiin </em></p>
-    <p xml:lang="sme"><em type="italic">čállagiiguin </em></p>
-    <p>Contracted nouns</p>
-    <p xml:lang="sme"><em type="italic">boazu </em></p>
-    <p xml:lang="sme"><em type="italic">bohccuin </em></p>
-    <p xml:lang="sme"><em type="italic">bohccuiguin </em></p>
-    <p xml:lang="nno"></p>
-    <p type="title">The Essive</p>
-    <p>is the case that provides the notion <span type="quote" xml:lang="nno">"like, as, for"</span>. The essive can also indicate <span type="quote" xml:lang="deu">"when"</span> or <span type="quote">"under what conditions"</span> something happens, or what something is called (it also marks object complement).</p>
-    <p><em type="italic">Viessu geavahuvvo 'skuvlan'. </em>(The house is used 'as/for a school'.) </p>
-    <p><em type="italic">'Arvin' in gille mannat oaggut. </em>('When it rains,' I don't like to go fishing.) </p>
-    <p><em type="italic">'Nuorran' mun lohken ollu divttaid. </em>('When I was young,' I read a lot of poems. </p>
-    <p><em type="italic">Mii gohčodit beatnaga 'Čáhppen'. </em>(We call the dog 'Čáhppe'.) </p>
-    <p xml:lang="sme"><em type="italic">'Ovdamearkan' sáhttá atnit Guovdageainnu ja Kárášjoga. </em>(You can use Kautokeino and Karasjok 'as examples'.) </p>
-    <p xml:lang="sme"><em type="italic">Mun lean šaddan 'siessán'. </em>(I have become 'an aunt'.) </p>
-    <p>The ending <span type="quote">"-n" is added directly to the nominative singular form of vowel stem nouns with word-final vowels. There is no distinction made between singular and plural. Consonant stem nouns and contracted nouns ending in a consonant in the nominative singular take the ending "-in"</span> added to the nominative singular: <em type="italic">mális - málisin </em>'for a meal', <em type="italic">olmmái - olmmájin </em>'as a man/husband'. Vowel stem nouns that end in a consonant are marked with <span type="quote">"-an"</span> after the consonant. The consonants should be strong-grade in the essive: <em type="italic">gonagas - gonagassan </em>'as a king', <em type="italic">sihkaldat - sihkaldahkan </em>'for a towel'. </p>
-    <p xml:lang="deu"><em type="italic">ESSIVE </em></p>
-    <p><em type="italic">stem type </em></p>
-    <p><em type="italic">singular and plural </em></p>
-    <p>Vowel stem nouns</p>
-    <p xml:lang="sme"><em type="italic">guolli </em></p>
-    <p xml:lang="smj"><em type="italic">guollin </em></p>
-    <p>Consonant stem nouns</p>
-    <p xml:lang="sme"><em type="italic">čála </em></p>
-    <p xml:lang="sme"><em type="italic">čálan </em></p>
-    <p>Contracted nouns</p>
-    <p xml:lang="sme"><em type="italic">boazu </em></p>
-    <p xml:lang="deu"><em type="italic">boazun </em></p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Nouns</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>2732</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/substantiv.eng.html</origFileName><parallel_text xml:lang="nob" location="substantiv.nob.html"/><parallel_text xml:lang="sme" location="substantiv.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Nouns</p>
+<list><p type="listitem">Different stems</p>
+<p type="listitem">Diphthong simplification</p>
+<p type="listitem">Consonant gradation</p>
+<p type="listitem">Other Consonant Alternations</p>
+<p type="listitem">Cases</p>
+<p type="listitem">The Nominative</p>
+<p type="listitem">The Accusative</p>
+<p type="listitem">The Genitive</p>
+<p type="listitem">The Illative</p>
+<p type="listitem">The Locative</p>
+<p type="listitem">The Comitative</p>
+<p type="listitem">The Essive</p>
+</list><p>Back to the grammar main page .</p>
+<p>Nouns are the words we use to indicate people, animals, things, processes or abstract relations, e.g.: <em type="italic">nieida </em>'girl', <em type="italic">Káre </em>'Káre (a name)', <em type="italic">beavdi </em>'table', <em type="italic">ráhkisvuohta </em>'love', <em type="italic">dávda </em>'illness', <em type="italic">Norga </em>'Norway'. </p>
+<p xml:lang="swe"></p>
+<p type="title">Different stems</p>
+<p>In Saami nouns are declined, that is, they take different forms to indicate what they are used for in a given sentence. The inflectional suffixes of nouns vary according to the number of syllables in the final <em type="italic">foot </em>of a word. The term foot, perhaps familiar from the study of poetry, is a group of syllables in which the first syllable has stress. In the examples below, syllables are separated with <span type="quote">"-", and feet are enclosed in parentheses "()"</span>. Stress is marked with a single apostrophe "'" preceding the syllable. </p>
+<list><p type="listitem"><em type="italic">gussa </em>'cow' ('gus-sa) consists of two syllables and one foot. </p>
+<p type="listitem"><em type="italic">sámegiella </em>'Saami language' ('sá-me)('giel-la) consists of four syllables and two feet. </p>
+<p type="listitem"><em type="italic">fatnasa </em>'boat' ('fa-tna-sa) consists of three syllables and one foot. </p>
+<p type="listitem"><em type="italic">vilbealle </em>'male cousin' ('vil)('beal-le) consists of three syllables and two feet. </p>
+</list><p><em type="italic">Nouns with vowel stems </em>(also called bisyllabic nouns) are nouns that have two syllables in the final foot in the nominative plural. </p>
+<list><p type="listitem"><em type="italic">gussa - gusat </em>('gu-sat) consists of two syllables and one foot. </p>
+<p type="listitem"><em type="italic">vilbealle - vilbealit </em>('vil)('bea-lit) consists of three syllables and two feet. </p>
+<p type="listitem"><em type="italic">sámegiella - sámegielat </em>('sá-me)('gie-lat) consists of four syllables and two feet. </p>
+<p type="listitem"><em type="italic">gonagas - gonagasat </em>'king' ('go-na)('ga-sat) consists of four syllables and two feet. </p>
+<p type="listitem"><em type="italic">gonagasbárdni - gonagasbártnit </em>'prince' ('go-na-gas)('bárt-nit) consists of five syllables and two feet. </p>
+</list><p>These nouns are strong grade in the nominative singular, and weak grade in the plural.</p>
+<p><em type="italic">Nouns with consonant stems </em>(also called trisyllabic nouns) have three syllables in the final foot in the nominative plural. </p>
+<list><p type="listitem"><em type="italic">rieban - riebanat </em>'fox' ('rie-ba-nat) has three syllables and one foot. </p>
+<p type="listitem"><em type="italic">nisu - nissonat </em>'woman' ('nis-so-nat) has three syllables and one foot. </p>
+<p type="listitem"><em type="italic">ruksesrieban - ruksesriebanat </em>'red fox' ('ruk-ses)('rie-ba-nat) has five syllables and two feet. </p>
+</list><p>The nominative singular and essive are weak-grade forms, the other forms are strong-grade, but not all consonant stem nouns are subject to gradation.</p>
+<p><em type="italic">Contracted nouns </em>have two syllables in the final foot in both the singular and the plural. The noun is weak-grade in the nominative singular and strong or extra strong-grade in the in the plural. </p>
+<list><p type="listitem"><em type="italic">boazu - bohccot </em>'reindeer' ('bohc-cot) has two syllables and one foot. </p>
+<p type="listitem"><em type="italic">bálggis - bálgát </em>'path' ('bál-gát) has two syllables and one foot. </p>
+<p type="listitem"><em type="italic">vuovdebálggis - vuovdebálgát </em>'forest path' ('vuov-de)('bál-gát) has four syllables and two feet. </p>
+<p type="listitem"><em type="italic">olmmái - olbmát </em>'man, companion' ('olb-mát) has two syllables and one foot. </p>
+</list><p xml:lang="swe"></p>
+<p type="title">Diphthong simplification</p>
+<p>The diphthong in the first syllable of a foot can be affected by the vowel in the second syllable. The diphthong becomes a monophthong (a single vowel) when the vowel in the second syllable is:</p>
+<list><p type="listitem" xml:lang="sme">-ii- , e.g. <em type="italic">gihtii (giehta) </em>'hand; arm' </p>
+<p type="listitem">-ui- , but only in the illative singular, e.g. <em type="italic">vissui (viessu) </em>'house' </p>
+<p type="listitem" xml:lang="sme">-o- , e.g. <em type="italic">bohccot (boazu) </em>'reindeer' </p>
+</list><p>In contracted nouns that end in "-u", diphthong simplification occurs in all cases, except for the nominative singular and the essive.</p>
+<p xml:lang="swe"></p>
+<p type="title">Consonant gradation</p>
+<p>Gradation usually occurs in the consonants between the first and second syllable in the final foot, e.g. <em type="italic">sámegiella - sámegiela </em>'the Saami language'. This alternation is called <em type="italic">gradation </em>. We have, e.g. <em type="italic">strong-grade forms </em>in the nominative singular in vowel stem nouns, and in the nominative plural in consonant stem nouns. The <em type="italic">weak-grade form </em>, it will be noted, is what occurs for example in the nominative plural in vowel stem nouns, or in the nominative singular in consonant stem nouns. </p>
+<p>Here are some examples of gradation - strong-grade forms on the left, weak-grade forms on the right. Please, note that, when the letter <span type="quote" xml:lang="nob">"-i-"</span> follows a vowel, it, in fact, indicates a consonant [-j-], and for this reason it is part of the consonant cluster:</p>
+<list><p type="listitem" xml:lang="isl">má <em type="italic">nn </em>á - má <em type="italic">n </em>át 'child', lá <em type="italic">vv </em>u - lá <em type="italic">v </em>ut 'lavvu', vie <em type="italic">ss </em>u - vie <em type="italic">s </em>ut 'house', guo <em type="italic">ll </em>i - guo <em type="italic">l </em>it 'fish' </p>
+<p type="listitem" xml:lang="isl">lá <em type="italic">ib </em>i - lá <em type="italic">ibb </em>it 'bread', bá <em type="italic">id </em>i - bá <em type="italic">idd </em>it 'shirt', lá <em type="italic">vl </em>agat - lá <em type="italic">vll </em>a 'song' </p>
+<p type="listitem" xml:lang="nno">oa <em type="italic">bb </em>á - oa <em type="italic">pp </em>át 'sister', stá <em type="italic">gg </em>u - stá <em type="italic">kk </em>ut 'pole/rod' </p>
+<p type="listitem" xml:lang="nno">bea <em type="italic">tn </em>agat - bea <em type="italic">n </em>a 'dog', vuo <em type="italic">pm </em>i - vuo <em type="italic">m </em>it 'forest in a valley' </p>
+<p type="listitem" xml:lang="kal">u <em type="italic">ks </em>a - u <em type="italic">vss </em>at 'door', gá <em type="italic">kt </em>i - gá <em type="italic">vtt </em>it 'sami costume' </p>
+<p type="listitem" xml:lang="isl">gá <em type="italic">hkk </em>u - gá <em type="italic">hk </em>u 'cake', á <em type="italic">hčč </em>i - á <em type="italic">hči </em>t 'father' </p>
+</list><p>Vowel stem nouns can also end in consonants in the nominative singular, for example, words such as <em type="italic">gonagas </em>'king', <em type="italic">lávvardat </em>'Saturday'. In the declension of these words you will note an extra syllable, and the word will be broken into two feet: ('go-na)('ga-sa) 'of the king'. Since the final foot is now bisyllabic, it is open to consonant gradation. The strong grade will occur in the illative singular and the essive. Here are some examples with the nominative singular, nominative plural and the illative singular: </p>
+<list><p type="listitem" xml:lang="kal">gonaga <em type="italic">s </em>- gonaga <em type="italic">s </em>at - gonaga <em type="italic">ss </em>ii 'king' </p>
+<p type="listitem" xml:lang="nno">lávvarda <em type="italic">t </em>- lávvarda <em type="italic">g </em>at - lávvarda <em type="italic">hk </em>ii 'Saturday' </p>
+<p type="listitem" xml:lang="smn">ofela <em type="italic">š </em>- ofela <em type="italic">čč </em>at - ofela <em type="italic">žž </em>ii 'guide' </p>
+<p type="listitem" xml:lang="smn">borramu <em type="italic">š </em>- borramu <em type="italic">š </em>at - borramu <em type="italic">šš </em>ii 'food' </p>
+</list><p>You can read more about consonant gradation here</p>
+<p xml:lang="swe"></p>
+<p type="title">Other Consonant Alternations</p>
+<p>Some nouns end in consonants in the nominative singular. In North Saami, there are limitations as to which consonants can occur in word-final position, and this is where we can observe special types of consonant alternations between the nominative singular and the other cases. The consonants that can occur in word-final position are: <span type="quote" xml:lang="est">"t", "s"</span>, <span type="quote" xml:lang="sms">"š", "l"</span>, <span type="quote">"r" and "n"</span>. Here are some examples of consonant alternations in consonant stem nouns and the word <span type="quote" xml:lang="sme">"olmmoš"</span> 'person':</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">t &gt; h </em>, e.g. rievssat - rievssaha 'ptarmigan' </p>
+<p type="listitem"><em type="italic">t &gt; d </em>, e.g. eamit - eamida 'lady of the house, wife' </p>
+<p type="listitem" xml:lang="est"><em type="italic">t &gt; g </em>, e.g. rusttet - rusttega 'equipment' </p>
+<p type="listitem" xml:lang="sme"><em type="italic">t &gt; b </em>, e.g. ustit - ustiba 'friend' </p>
+<p type="listitem" xml:lang="sme"><em type="italic">n &gt; m </em>, e.g. goaskin - goaskima 'eagle' </p>
+<p type="listitem" xml:lang="sme"><em type="italic">š &gt; ž </em>, e.g. cizáš - cizáža 'little bird', olmmoš - olmmožin 'person' </p>
+</list><p>Note that <span type="quote">"š" and "n"</span> do not always alternate: <em type="italic">bearaš - bearraša 'family', gearpmaš - gearbmaša 'snake', čálán - čálána 'printer', suohpan - suohpana 'reindeer herder's lassoo' </em>. </p>
+<p>Vowel stem nouns that end in consonants undergo similar alternation:</p>
+<list><p type="listitem" xml:lang="est"><em type="italic">t &gt; g </em>, e.g. sihkaldat - sihkaldaga 'towel' </p>
+<p type="listitem" xml:lang="sme"><em type="italic">š &gt; čč </em>, e.g. sápmelaš - sápmelačča 'Saami person' </p>
+</list><p>Vowel stem nouns also undergo consonant gradation in these consonants, read more about this variation here .</p>
+<p>Some trisyllabic nouns that end in a vowel in the nominative singular also acquire and extra consonant in the other forms:</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">_ &gt; g </em>, e.g. beana - beatnaga 'dog', gáma - gápmaga 'shoe' </p>
+<p type="listitem" xml:lang="smn"><em type="italic">_ &gt; m </em>, e.g. ađa - ađđama 'marrow', gietkka - gietkama 'cradle' </p>
+</list><p>Contracted nouns that end in <span type="quote">"-i" undergo a spelling change in the written language language with the "i"</span> of the nominative singular form changing to "j" in the essive.</p>
+<list><p type="listitem" xml:lang="sme"><em type="italic">i &gt; j </em>, e.g. olmmái - olmmájin, almmái - almmájin 'man, husband' </p>
+</list><p xml:lang="swe"></p>
+<p type="title">Cases</p>
+<p>are declension forms that mark which function a <em type="italic">noun phrase head </em>has in a sentence. A noun phrase head is typically a noun or pronoun but it can also be and adjective or a numeral. In North Saami there are seven cases. </p>
+<p xml:lang="swe"></p>
+<p type="title">The Nominative</p>
+<p>is the case given as the base form (presentational form) of a noun phrase head. It is the case used to mark the subject and the subject complement or predicative. The ending "-t" is used to mark the nominative plural.</p>
+<p>Vowel stem nouns are strong-grade in the singular and weak-grade in the plural: <em type="italic">Min 'gussa' lea návehis. </em>(Our cow is in the cowshed.) <em type="italic">Min 'gusat' leat návehis. </em>(Our cows are in the cowshed.) </p>
+<p>Consonant stem nouns are weak-grade in the singular and strong-grade in the plural, e.g. <em type="italic">Čoahkkimis lei dušše okta 'nisu'. </em>(There was only one lady at the meeting.) <em type="italic">Čoahkkimis ledje ollu 'nissonat'. </em>(There were a lot of women at the meeting.) </p>
+<p>Contracted nouns are weak-grade in the singular and strong or extra strong-grade in the plural. In the plural there is also diphthong simplification, e.g. <em type="italic">Šiljus lea 'boazu'. </em>(There is a reindeer in the yard.) <em type="italic">Duoddaris leat ollu 'bohccot'. </em>(There are a lot of reindeer on the mountain plateau.) </p>
+<p xml:lang="vep"><em type="italic">NOMINATIVE </em></p>
+<p xml:lang="nob"><em type="italic">stem type </em></p>
+<p xml:lang="isl"><em type="italic">singular </em></p>
+<p><em type="italic">plural </em></p>
+<p>Vowel stem nouns</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="sme"><em type="italic">guolit </em></p>
+<p>Consonant stem nouns</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čállagat </em></p>
+<p>Contracted nouns</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="sme"><em type="italic">bohccot </em></p>
+<p xml:lang="swe"></p>
+<p type="title">The Accusative</p>
+<p>is the case used to indicate the object, e.g. <em type="italic">Mun oasttán 'gusa'. </em>(I'm going to buy a cow.) In the plural the accusative marker is <span type="quote" xml:lang="sme">"-id"</span>. </p>
+<p>Vowel stem nouns are weak-grade in both the singular and the plural. Nouns that end in "-i" undergo diphthong simplification in the plural: <em type="italic">Mun oasttán 'gusa'/'gusaid'. (gussa) </em>(I am going to buy a cow / cows). <em type="italic">Mun čorgen 'goađi'/'gođiid'. (goahti) </em>(I am going to clean the goahti / goahtis.) </p>
+<p>Consonant stem nouns are strong-grade, and in the singular they end in "-a": <em type="italic">Mun dovddan 'nissona'/'nissoniid'. (nisu). </em>(I know the woman / women.) </p>
+<p>Contracted nouns are strong or extra strong-grade, and they also have diphthong simplification: <em type="italic">Gal mun oainnán 'bohcco'/'bohccuid'. (boazu) </em>(I do see a reindeer /reindeer.) </p>
+<p>In North Saami, the accusative and genitive forms are identical.</p>
+<p xml:lang="vep"><em type="italic">ACCUSATIVE </em></p>
+<p xml:lang="nob"><em type="italic">stem type </em></p>
+<p xml:lang="isl"><em type="italic">singular </em></p>
+<p><em type="italic">plural </em></p>
+<p>Vowel stem nouns</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="sme"><em type="italic">guoli </em></p>
+<p xml:lang="sme"><em type="italic">guliid </em></p>
+<p>Consonant stem nouns</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čállaga </em></p>
+<p xml:lang="sme"><em type="italic">čállagiid </em></p>
+<p>Contracted nouns</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="sme"><em type="italic">bohcco </em></p>
+<p xml:lang="sme"><em type="italic">bohccuid </em></p>
+<p xml:lang="swe"></p>
+<p type="title">The Genitive</p>
+<p>is the case used to mark the possessor: <em type="italic">'nissona' lávka (the woman's knapsack), 'skuvlla' njuolggadusat (school rules) </em>. The genitive is also used in other contexts, e.g. to mark the complement of postpositions and prepositions: <em type="italic">'sullo' lahka (near the island) </em>. The genitive is also used in combination with expressions with cardinal numerals when the number is larger than "1": <em type="italic">guokte 'nieidda' ja golbma 'bártni' (two girls and three boys) </em>. The genitive plural is marked with <span type="quote" xml:lang="sme">"-id"</span>. </p>
+<p>Vowel stem nouns are weak-grade in both the singular and the plural. Nouns that end in "-i" undergo diphthong simplification in the plural: <em type="italic">Dat lea 'gusa'/'gusaid' biebmu. (gussa) </em>(That is cow's/cows' food.) <em type="italic">Dat leat 'goađi'/'gođiid' duohken. (goahti) </em>(They are behind the goahti.) </p>
+<p>Consonant stem nouns are strong-grade, and in the singular they end in "-a": <em type="italic">Dat lea 'nissona'/'nissoniid' lávka. (nisu) </em>(That is the woman's/ women's knapsack.) </p>
+<p>Contracted nouns are strong or extra strong-grade, and they are subject to diphthong simplification: <em type="italic">Mun bivden guoli 'sullo'/'sulluid' davábealde. (suolu) </em>(I caught a fish on the north side of the island/islands.) </p>
+<p>In North Saami, the accusative and genitive forms are identical.</p>
+<p xml:lang="vep"><em type="italic">GENITIVE </em></p>
+<p xml:lang="nob"><em type="italic">stem type </em></p>
+<p xml:lang="isl"><em type="italic">singular </em></p>
+<p><em type="italic">plural </em></p>
+<p>Vowel stem nouns</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="sme"><em type="italic">guoli </em></p>
+<p xml:lang="sme"><em type="italic">guliid </em></p>
+<p>Consonant stem nouns</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čállaga </em></p>
+<p xml:lang="sme"><em type="italic">čállagiid </em></p>
+<p>Contracted nouns</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="sme"><em type="italic">bohcco </em></p>
+<p xml:lang="sme"><em type="italic">bohccuid </em></p>
+<p xml:lang="swe"></p>
+<p type="title">The Illative</p>
+<p>is the case that indicates motion toward or into something. The illative can also be used to indicate the recipient: <em type="italic">Mun manan 'skuvlii'. </em>(I'm going to school.) - <em type="italic">Sii mannet 'skuvllaide'. </em>(They are going to the schools.) <em type="italic">Son attii 'mánnái' girjji. (He/She gave the child a book.) Mánná bijai girjji 'hildui'. </em>(The child put the book on the shelf.) There are also illative verbs, that is verbs that require a noun in the illative. The verbs <em type="italic">liikot </em>'to like' and <em type="italic">álgit </em>'to start' are examples of some typical illative verbs: <em type="italic">Son álgá 'skuvlii'. </em>(He/She is starting school.) <em type="italic">Mun liikon 'eadnái'. </em>(I like mom.) Read more about illative verbs here . </p>
+<p>Vowel stem nouns are strong-grade, the vowel in the second syllable changes and the ending "-i" is added: <em type="italic">áhččái (áhčči) </em>'to dad', <em type="italic">gussii (gussa) </em>'to the cow', <em type="italic">reŋkui (reŋko) </em>'onto the stool', <em type="italic">báŋkui (báŋku) </em>'into/to the bank'. </p>
+<p>Nouns ending in <span type="quote">"-u" and "-a"</span> undergo diphthong simplification in the singular: <em type="italic">merrii (mearra) </em>'into the sea', <em type="italic">vissui (viessu) </em>'into the house'. </p>
+<p>Consonant stem nouns are strong-grade and end in <span type="quote" xml:lang="smn">"-ii"</span>: <em type="italic">nissonii (nisu) </em>'to the woman'. </p>
+<p>Contracted nouns are strong or extra strong-grade and take the ending "-i". There is also diphthong simplification: <em type="italic">bohccui (boazu) </em>'to the reindeer', <em type="italic">sullui (suolu) </em>'to the island'. </p>
+<p>In the plural, the ending for vowel and contracted stems is <span type="quote" xml:lang="est">"-ide"</span>: <em type="italic">etniide </em>to the mothers', <em type="italic">bohccuide </em>'to the reindeer', and <span type="quote" xml:lang="sme">"-iidda"</span> for consonant stems: <em type="italic">nissoniidda </em>'to the women'. </p>
+<p>Nouns with contracted or vowel stems that end in "-i" are subject to diphthong simplification: <em type="italic">gođiide (goahti) </em>'to the goahtis', <em type="italic">sulluide (suolu) </em>'to the islands'. </p>
+<p xml:lang="vep"><em type="italic">ILLATIVE </em></p>
+<p xml:lang="nob"><em type="italic">stem type </em></p>
+<p xml:lang="isl"><em type="italic">singular </em></p>
+<p><em type="italic">plural </em></p>
+<p>Vowel stem nouns</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="sme"><em type="italic">guollái </em></p>
+<p xml:lang="sme"><em type="italic">guliide </em></p>
+<p xml:lang="est"><em type="italic">nieida </em></p>
+<p xml:lang="sme"><em type="italic">niidii </em></p>
+<p xml:lang="sme"><em type="italic">nieiddaide </em></p>
+<p xml:lang="swe"><em type="italic"></em></p>
+<p xml:lang="rmf"><em type="italic">reŋko </em></p>
+<p xml:lang="ron"><em type="italic">reŋkui </em></p>
+<p xml:lang="sme"><em type="italic">reŋkkuide </em></p>
+<p>Consonant stem nouns</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čállagii </em></p>
+<p xml:lang="sme"><em type="italic">čállagiidda </em></p>
+<p>Contracted nouns</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="sme"><em type="italic">bohccui </em></p>
+<p xml:lang="sme"><em type="italic">bohccuide </em></p>
+<p xml:lang="swe"></p>
+<p type="title">The Locative</p>
+<p>is the case that is used to indicate the notions in/at or from a place. The locative can also indicate the giver or where something comes from: <em type="italic">Mánát leat 'skuvllas'. </em>(The children are at school.) <em type="italic">Mánát bohtet 'skuvllas'. </em>(The children are coming from school.) <em type="italic">Mun ožžon 'áhčis' niibbi. </em>(I got a knife from dad.) <em type="italic">Mii gulaimet 'rádios' ođđasiid. </em>(We heard the news on the radio.) The locative can also be used in <span type="quote">"have"</span> constructions: <em type="italic">'Nieiddas' leat ollu girjjit. </em>(The girl has lots of books.) There are also locative verbs. These are verbs that require a noun in the locative case. The verbs <span type="quote" xml:lang="sme">"beroštit"</span> 'to be interested in', <span type="quote" xml:lang="sme">"ballat"</span> 'to be afraid of' and <span type="quote" xml:lang="sme">"heaitit"</span> 'to quit': <em type="italic">Mun beroštan 'dus'. </em>(I care about you.) <em type="italic">Bárdni heittii 'skuvllas'. </em>(The boy quit school.) <em type="italic">Mánát balle 'beatnagis'. </em>(The children were afraid of the dog.) Read more about locative verbs here . </p>
+<p>In the singular the ending is "-s". Vowel stem nouns are weak-grade: <em type="italic">gusas (gussa) </em>'the cow [has]', and consonant stem nouns are strong-grade: <em type="italic">nissonis (nisu) </em>'the woman [has]'. Contracted nouns are strong or extra strong-grade and undergo diphthong simplification: <em type="italic">bohccos (boazu) </em>'the reindeer [has]'. </p>
+<p>In the plural the ending is <span type="quote">"-in"</span>. Contracted nouns and vowel stem nouns ending in "-i" undergo diphthong simplification: <em type="italic">gusain </em>'the cows [have]', <em type="italic">gođiin </em>'in the goahtis', <em type="italic">nissoniin </em>'the women [have]', <em type="italic">bohccuin </em>'the reindeer have'. </p>
+<p xml:lang="vep"><em type="italic">LOCATIVE </em></p>
+<p xml:lang="nob"><em type="italic">stem type </em></p>
+<p xml:lang="isl"><em type="italic">singular </em></p>
+<p><em type="italic">plural </em></p>
+<p>Vowel stem nouns</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="sme"><em type="italic">guolis </em></p>
+<p xml:lang="sme"><em type="italic">guliin </em></p>
+<p>Consonant stem nouns</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čállagis </em></p>
+<p xml:lang="sme"><em type="italic">čállagiin </em></p>
+<p>Contracted nouns</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="sme"><em type="italic">bohccos </em></p>
+<p xml:lang="sme"><em type="italic">bohccuin </em></p>
+<p xml:lang="swe"></p>
+<p type="title">The Comitative</p>
+<p>is the case that often indicates the notion <span type="quote">"with"</span>: <em type="italic">Mun čuohpan láibbi 'niibbiin' </em>. (I'm cutting the bread with a knife.) <em type="italic">Mun hupmen 'vieljain' ikte. </em>(I spoke with [my] brother yesterday.) There are also comitative verbs . </p>
+<p>In the singular the ending is <span type="quote">"-in"</span>. Vowel stem nouns are weak-grade, and words ending in "-i" undergo diphthong simplification <em type="italic">gusain (gussa) </em>'with the cow', <em type="italic">gođiin (goahti) </em>'with the goahti', consonant stem nouns are strong-grade, <em type="italic">nissoniin (nisu) </em>'with the woman', and contracted nouns are strong or extra strong-grade with diphthong simplification: <em type="italic">bohccuin (boazu) </em>'with the reindeer [pl.]', <em type="italic">sulluin (suolu) </em>'with an island [postmodifier]'. </p>
+<p>The plural ending is <span type="quote" xml:lang="sme">"-iguin"</span>. Contracted nouns and bisyllabic nouns ending in "-i" undergo diphthong simplification: <em type="italic">niibbiiguin </em>'with knives', <em type="italic">etniiguin </em>'with mothers', <em type="italic">nissoniiguin </em>'with women', <em type="italic">bohccuiguin </em>'with reindeer [pl.]'. </p>
+<p xml:lang="vep"><em type="italic">COMITATIVE </em></p>
+<p xml:lang="nob"><em type="italic">stem type </em></p>
+<p xml:lang="isl"><em type="italic">singular </em></p>
+<p><em type="italic">plural </em></p>
+<p>Vowel stem nouns</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="sme"><em type="italic">guliin </em></p>
+<p xml:lang="sme"><em type="italic">guliiguin </em></p>
+<p>Consonant stem nouns</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čállagiin </em></p>
+<p xml:lang="sme"><em type="italic">čállagiiguin </em></p>
+<p>Contracted nouns</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="sme"><em type="italic">bohccuin </em></p>
+<p xml:lang="sme"><em type="italic">bohccuiguin </em></p>
+<p xml:lang="swe"></p>
+<p type="title">The Essive</p>
+<p>is the case that provides the notion <span type="quote" xml:lang="nno">"like, as, for"</span>. The essive can also indicate <span type="quote" xml:lang="deu">"when"</span> or <span type="quote">"under what conditions"</span> something happens, or what something is called (it also marks object complement).</p>
+<p><em type="italic">Viessu geavahuvvo 'skuvlan'. </em>(The house is used 'as/for a school'.) </p>
+<p><em type="italic">'Arvin' in gille mannat oaggut. </em>('When it rains,' I don't like to go fishing.) </p>
+<p><em type="italic">'Nuorran' mun lohken ollu divttaid. </em>('When I was young,' I read a lot of poems. </p>
+<p><em type="italic">Mii gohčodit beatnaga 'Čáhppen'. </em>(We call the dog 'Čáhppe'.) </p>
+<p xml:lang="sme"><em type="italic">'Ovdamearkan' sáhttá atnit Guovdageainnu ja Kárášjoga. </em>(You can use Kautokeino and Karasjok 'as examples'.) </p>
+<p xml:lang="sme"><em type="italic">Mun lean šaddan 'siessán'. </em>(I have become 'an aunt'.) </p>
+<p>The ending <span type="quote">"-n" is added directly to the nominative singular form of vowel stem nouns with word-final vowels. There is no distinction made between singular and plural. Consonant stem nouns and contracted nouns ending in a consonant in the nominative singular take the ending "-in"</span> added to the nominative singular: <em type="italic">mális - málisin </em>'for a meal', <em type="italic">olmmái - olmmájin </em>'as a man/husband'. Vowel stem nouns that end in a consonant are marked with <span type="quote">"-an"</span> after the consonant. The consonants should be strong-grade in the essive: <em type="italic">gonagas - gonagassan </em>'as a king', <em type="italic">sihkaldat - sihkaldahkan </em>'for a towel'. </p>
+<p xml:lang="deu"><em type="italic">ESSIVE </em></p>
+<p xml:lang="nob"><em type="italic">stem type </em></p>
+<p><em type="italic">singular and plural </em></p>
+<p>Vowel stem nouns</p>
+<p xml:lang="sme"><em type="italic">guolli </em></p>
+<p xml:lang="smj"><em type="italic">guollin </em></p>
+<p>Consonant stem nouns</p>
+<p xml:lang="sme"><em type="italic">čála </em></p>
+<p xml:lang="sme"><em type="italic">čálan </em></p>
+<p>Contracted nouns</p>
+<p xml:lang="sme"><em type="italic">boazu </em></p>
+<p xml:lang="deu"><em type="italic">boazun </em></p>
+</body></document>

@@ -1,45 +1,20 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Health care - Regional State Administrative Agencies</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>209</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.avi.fi/en/web/avi-en/healt-care#.WR68HcYvHNQ</origFileName>
-    <parallel_text xml:lang="fin" location="terveys_.wr67ysyvhnq.html"/>
-    <parallel_text xml:lang="sme" location="dearvvasvuohta_.wr67xsyvhnq.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>› Back to the graphical version</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="koi">2013-05-10</p>
-    <p type="title">Health care</p>
-    <p>The Regional State Administrative Agency (AVI) is the regional authority in charge of directing, licensing and overseeing health care. The aim of the Agency is to make sure that high-quality health care services are available for the citizens.</p>
-    <p>The AVI Agency directs and oversees public health care services and health care services provided by private actors. The Agency supports the work carried out by your municipality, joint municipal authorities and other actors to promote the health of people in your area. It can also advise you if you feel that there are serious shortcomings in the availability or quality of the services available to you.</p>
-    <p>By performing its tasks, the AVI Agency contributes to implementing national health care policy. The Agency's activities in the field of health care are informed by the legislation, instructions from the Ministry of Social Affairs and Health and cooperation with other actors, including the National Supervisory Authority for Welfare and Health Valvira and the National Institute for Health and Welfare.</p>
-    <p>The AVI Agency's tasks include:</p>
-    <list>
-      <p type="listitem">direction and oversight of health care services,</p>
-      <p type="listitem">granting licences to private health care service providers</p>
-      <p type="listitem">supervising health care professionals</p>
-      <p type="listitem">quality management</p>
-      <p type="listitem">complaints</p>
-      <p type="listitem">discretionary and specified government transfers.</p>
-    </list>
-    <p xml:lang="est">Updated</p>
-    <p>Print</p>
-    <p xml:lang="nno">Share</p>
-    <p xml:lang="nno"></p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Health care - Regional State Administrative Agencies</title><genre code="admin"/><author><unknown/></author><wordcount>209</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.avi.fi/en/web/avi-en/healt-care#.WR68HcYvHNQ</origFileName><parallel_text xml:lang="fin" location="terveys_.wr67ysyvhnq.html"/><parallel_text xml:lang="sme" location="dearvvasvuohta_.wr67xsyvhnq.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>› Back to the graphical version</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="vep">2013-05-10</p>
+<p type="title">Health care</p>
+<p>The Regional State Administrative Agency (AVI) is the regional authority in charge of directing, licensing and overseeing health care. The aim of the Agency is to make sure that high-quality health care services are available for the citizens.</p>
+<p>The AVI Agency directs and oversees public health care services and health care services provided by private actors. The Agency supports the work carried out by your municipality, joint municipal authorities and other actors to promote the health of people in your area. It can also advise you if you feel that there are serious shortcomings in the availability or quality of the services available to you.</p>
+<p>By performing its tasks, the AVI Agency contributes to implementing national health care policy. The Agency's activities in the field of health care are informed by the legislation, instructions from the Ministry of Social Affairs and Health and cooperation with other actors, including the National Supervisory Authority for Welfare and Health Valvira and the National Institute for Health and Welfare.</p>
+<p>The AVI Agency's tasks include:</p>
+<list><p type="listitem">direction and oversight of health care services,</p>
+<p type="listitem">granting licences to private health care service providers</p>
+<p type="listitem">supervising health care professionals</p>
+<p type="listitem">quality management</p>
+<p type="listitem">complaints</p>
+<p type="listitem">discretionary and specified government transfers.</p>
+</list><p xml:lang="est">Updated</p>
+<p>Print</p>
+<p xml:lang="nno">Share</p>
+<p xml:lang="swe"></p>
+</body></document>

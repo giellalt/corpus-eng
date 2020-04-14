@@ -1,184 +1,146 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Activities in Sompio Strict Nature Reserve - Nationalparks.fi</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>814</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <origFileName>http://www.nationalparks.fi/en/sompio/activities</origFileName>
-    <parallel_text xml:lang="fin" location="aktiviteetit_2.html"/>
-    <parallel_text xml:lang="sme" location="aktivitehtat_8.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Skip to Content</p>
-    <p>Open Menu</p>
-    <list>
-      <p type="listitem">Suomeksi</p>
-      <p type="listitem">På svenska</p>
-      <p type="listitem">Anarâškielâ</p>
-      <p type="listitem">Davvisámegiella</p>
-      <p type="listitem">中文</p>
-      <p type="listitem">По-русски</p>
-    </list>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p type="title">Sompio</p>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">History</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p type="title">Destinations</p>
-    <list>
-      <p type="listitem">Top Natural Attractions</p>
-      <p type="listitem">National Parks</p>
-      <p type="listitem">World Heritage Sites</p>
-      <p type="listitem">National Hiking Areas</p>
-      <p type="listitem">Wilderness Areas</p>
-      <p type="listitem">Other Nature Sites</p>
-      <p type="listitem">Hiking Trails</p>
-      <p type="listitem">Huts</p>
-      <p type="listitem">Historical Sites</p>
-      <p type="listitem">Nature Centres</p>
-      <p type="listitem">Accessible Destinations</p>
-    </list>
-    <list>
-      <p type="listitem">Aulanko</p>
-      <p type="listitem">Auttiköngäs</p>
-      <p type="listitem">Elimyssalo</p>
-      <p type="listitem">Hepoköngäs</p>
-      <p type="listitem">Hetta Area</p>
-      <p type="listitem">Hirvisuo</p>
-      <p type="listitem">Hämeenkangas</p>
-      <p type="listitem">Iivaara</p>
-      <p type="listitem">Ilmakkiaapa</p>
-      <p type="listitem">Iso-Palonen - Maariansärkät</p>
-      <p type="listitem">Juortanansalo-Lapinsuo</p>
-      <p type="listitem">Karkali</p>
-      <p type="listitem">Kermajärvi</p>
-      <p type="listitem">Kevo</p>
-      <p type="listitem">Koitajoki</p>
-      <p type="listitem">Kolvananuuro</p>
-      <p type="listitem">Komio</p>
-      <p type="listitem">Korouoma</p>
-      <p type="listitem">Kurimonkoski Rapids</p>
-      <p type="listitem">Laajalahti</p>
-      <p type="listitem">Langinkoski</p>
-      <p type="listitem">Liminka Bay</p>
-      <p type="listitem">Lentua</p>
-      <p type="listitem">Luiro Mires</p>
-      <p type="listitem">Malla</p>
-      <p type="listitem">Martimoaapa</p>
-      <p type="listitem">Melkuttimet</p>
-      <p type="listitem">Nellim</p>
-      <p type="listitem">Näränkä</p>
-      <p type="listitem">Olvassuo</p>
-      <p type="listitem">Pihlajavesi</p>
-      <p type="listitem">Punkaharju</p>
-      <p type="listitem">Pääjärvi</p>
-      <p type="listitem">Reposuo</p>
-      <p type="listitem">Riuttaskorpi</p>
-      <p type="listitem">Ruostejärvi</p>
-      <p type="listitem">Saari</p>
-      <p type="listitem">Saariselkä</p>
-      <p type="listitem">Sallatunturi Area</p>
-      <p type="listitem">Sevettijärvi-Näätämö Area</p>
-      <p type="listitem">Siikalahti Wetland</p>
-      <p type="listitem">Simojärvi and Soppana</p>
-      <p type="listitem">Sompio</p>
-      <p type="listitem">Suvasvesi</p>
-      <p type="listitem">Teerisuo-Lososuo</p>
-      <p type="listitem">Telkkämäki</p>
-      <p type="listitem">Teuravuoma - Kivijärvenvuoma</p>
-      <p type="listitem">Utsjoki</p>
-      <p type="listitem">Vaarunvuoret</p>
-      <p type="listitem">Valtavaara-Pyhävaara</p>
-      <p type="listitem">Vehoniemenharju</p>
-      <p type="listitem">Viiankiaapa</p>
-      <p type="listitem">Öjen</p>
-    </list>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">History</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p>Sompio Menu</p>
-    <p type="title">Sompio</p>
-    <list>
-      <p type="listitem">Activities</p>
-      <p type="listitem">Directions and Maps</p>
-      <p type="listitem">Frequently Asked Questions</p>
-      <p type="listitem">History</p>
-      <p type="listitem">Instructions and Rules</p>
-      <p type="listitem">Nature</p>
-      <p type="listitem">Services</p>
-      <p type="listitem">Sights</p>
-      <p type="listitem">Trails</p>
-      <p type="listitem">More Information</p>
-    </list>
-    <p></p>
-    <p type="title">Activities in Sompio Strict Nature Reserve</p>
-    <p></p>
-    <p></p>
-    <p type="title">What can one do in Sompio Strict Nature Reserve?</p>
-    <p type="title">Walk on Marked Trails</p>
-    <p>In the Sompio Strict Nature Reserve you are only allowed to move along the marked trails . The Sompiojärvi forest road passes through the reserve's southern part, starting from Highway no. 4. The Ruijanpolku Trail runs in a south–north direction starting from the shores of Lake Sompiojärvi and ending at Kiilopää. You can reach the Pyhä-Nattanen circle trail from the Sompiojärvi forest road. The circle trail takes you onto Pyhä-Nattanen's summit. From Sompiojärventie Road, you can also set off for a marked trail and continue along an old wartime maintenance road along which you can go to Tankavaara and the Tankavaara Visitor Centre. Hikers must follow the Rules and Regulations of the Sompio Strict Nature Reserve .</p>
-    <p type="title">Go Wilderness Trekking</p>
-    <p>Ruijanpolku is a 35-km long hiking trail, so walking the trail from one end to the other requires an overnight stay on the trail. Part of the trail runs in the Sompio Strict Nature Reserve, part in the Urho Kekkonen National Park, and the northernmost part outside the protected areas (i.e., from Kiilopääntie Road to Laanila). Camping in the Sompio Strict Nature Reserve is only allowed on the shores of Lake Sompiojärvi.</p>
-    <p type="title">Go Canoeing and Rowing</p>
-    <p>You can row and canoe on Lake Sompiojärvi, but there are no actual water routes in the area.</p>
-    <p type="title">Go Bird Watching</p>
-    <p>You can observe the strict nature reserve's diverse bird species on the shores of Lake Sompiojärvi (a bird-watching tower) and along the marked trails. The number of different waterfowl and waders by Lake Sompiojärvi and in the mire areas is considerable. As regards birds of prey that hunt by day, you can even spot the white-tailed eagle in addition to the rough-legged buzzard, the osprey and the golden eagle. The ptarmigan, which thrives on treeless, open fell areas, is also amongst the species nesting in the area.</p>
-    <p type="title">See the Sights and Scenery</p>
-    <p>Amongst the sights of the area are, for example, the Nattastunturit Fells . You can hike along the marked trails on to Pyhä-Nattanen Fell and Terävä-Nattanen Fell; from both summits there are handsome wilderness views looming in the distance. On the Nattastunturit Fells you can also admire tors, which are large rocks.</p>
-    <p type="title">See the Visitor Centre</p>
-    <p>The Tankavaara Visitor Centre's exhibitions and slide programmes present the forest, mire and fell nature of the Peräpohjola region and Forest Lapland as well as the area's cultural history. In addition, the visitor centre annually houses several changing exhibitions and various events.</p>
-    <p type="title">Go Fishing</p>
-    <list>
-      <p type="listitem">In the Sompio Strict Nature Reserve any kind of fishing carried out in any season is only allowed on Lake Sompiojärvi.</p>
-      <p type="listitem">Angling and ice fishing are permitted in the area free-of-charge as Everyman's Rights (www.ym.fi).</p>
-      <p type="listitem">In Lake Sompiojärvi one need a fishing managemnet fee (www.eraluvat.fi) for one rod and if fishing with several rods one need also a recreational fishing licence (permit area 1401) (www.eraluvat.fi).</p>
-      <p type="listitem"></p>
-    </list>
-    <p type="title">Go on Guided Group Tour at the Visitor Centre</p>
-    <p>The Tankavaara Visitor Centre tells the story of the Urho Kekkonen National Park (i.e., the Koilliskaira region). The visitor centre also provides information on the Sompio Strict Nature Reserve. It introduces you to the area's diverse natural features, the history of nature utilisation in the area, and hiking in Lapland. The Tankavaara Visitor Centre offers versatile programmes for groups. Some of the programmes also contain a terrain section that takes place in the nearby area and on nature trails. Please book guiding in advance. There is a fee for guiding.</p>
-    <p type="title">Go Berry and Mushroom Picking</p>
-    <p>In the Sompio Strict Nature Reserve picking berries and edible mushrooms is only allowed for people whose domicile is in the municipality of Sodankylä and those who also live there permanently.</p>
-    <p type="title">Go Snowshoe Walking</p>
-    <p>In the Sompio Strict Nature Reserve you may only go snowshoeing along the marked trails .</p>
-    <p></p>
-    <p>© Metsähallitus 2017</p>
-    <list>
-      <p type="listitem"></p>
-    </list>
-    <p>Share This Page</p>
-    <p>Open Menu</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Activities in Sompio Strict Nature Reserve - Nationalparks.fi</title><genre code="facta"/><author><unknown/></author><wordcount>814</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><origFileName>http://www.nationalparks.fi/en/sompio/activities</origFileName><parallel_text xml:lang="fin" location="aktiviteetit_2.html"/><parallel_text xml:lang="sme" location="aktivitehtat_8.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Skip to Content</p>
+<p>Open Menu</p>
+<list><p type="listitem">Suomeksi</p>
+<p type="listitem">På svenska</p>
+<p type="listitem">Anarâškielâ</p>
+<p type="listitem">Davvisámegiella</p>
+<p type="listitem">中文</p>
+<p type="listitem">По-русски</p>
+</list><p></p>
+<p></p>
+<p></p>
+<p></p>
+<p type="title">Sompio</p>
+<list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">History</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p type="title">Destinations</p>
+<list><p type="listitem">Top Natural Attractions</p>
+<p type="listitem">National Parks</p>
+<p type="listitem">World Heritage Sites</p>
+<p type="listitem">National Hiking Areas</p>
+<p type="listitem">Wilderness Areas</p>
+<p type="listitem">Other Nature Sites</p>
+<p type="listitem">Hiking Trails</p>
+<p type="listitem">Huts</p>
+<p type="listitem">Historical Sites</p>
+<p type="listitem">Nature Centres</p>
+<p type="listitem">Accessible Destinations</p>
+</list><list><p type="listitem">Aulanko</p>
+<p type="listitem">Auttiköngäs</p>
+<p type="listitem">Elimyssalo</p>
+<p type="listitem">Hepoköngäs</p>
+<p type="listitem">Hetta Area</p>
+<p type="listitem">Hirvisuo</p>
+<p type="listitem">Hämeenkangas</p>
+<p type="listitem">Iivaara</p>
+<p type="listitem">Ilmakkiaapa</p>
+<p type="listitem">Iso-Palonen - Maariansärkät</p>
+<p type="listitem">Juortanansalo-Lapinsuo</p>
+<p type="listitem">Karkali</p>
+<p type="listitem">Kermajärvi</p>
+<p type="listitem">Kevo</p>
+<p type="listitem">Koitajoki</p>
+<p type="listitem">Kolvananuuro</p>
+<p type="listitem">Komio</p>
+<p type="listitem">Korouoma</p>
+<p type="listitem">Kurimonkoski Rapids</p>
+<p type="listitem">Laajalahti</p>
+<p type="listitem">Langinkoski</p>
+<p type="listitem">Liminka Bay</p>
+<p type="listitem">Lentua</p>
+<p type="listitem">Luiro Mires</p>
+<p type="listitem">Malla</p>
+<p type="listitem">Martimoaapa</p>
+<p type="listitem">Melkuttimet</p>
+<p type="listitem">Nellim</p>
+<p type="listitem">Näränkä</p>
+<p type="listitem">Olvassuo</p>
+<p type="listitem">Pihlajavesi</p>
+<p type="listitem">Punkaharju</p>
+<p type="listitem">Pääjärvi</p>
+<p type="listitem">Reposuo</p>
+<p type="listitem">Riuttaskorpi</p>
+<p type="listitem">Ruostejärvi</p>
+<p type="listitem">Saari</p>
+<p type="listitem">Saariselkä</p>
+<p type="listitem">Sallatunturi Area</p>
+<p type="listitem">Sevettijärvi-Näätämö Area</p>
+<p type="listitem">Siikalahti Wetland</p>
+<p type="listitem">Simojärvi and Soppana</p>
+<p type="listitem">Sompio</p>
+<p type="listitem">Suvasvesi</p>
+<p type="listitem">Teerisuo-Lososuo</p>
+<p type="listitem">Telkkämäki</p>
+<p type="listitem">Teuravuoma - Kivijärvenvuoma</p>
+<p type="listitem">Utsjoki</p>
+<p type="listitem">Vaarunvuoret</p>
+<p type="listitem">Valtavaara-Pyhävaara</p>
+<p type="listitem">Vehoniemenharju</p>
+<p type="listitem">Viiankiaapa</p>
+<p type="listitem">Öjen</p>
+</list><list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">History</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p>Sompio Menu</p>
+<p type="title">Sompio</p>
+<list><p type="listitem">Activities</p>
+<p type="listitem">Directions and Maps</p>
+<p type="listitem">Frequently Asked Questions</p>
+<p type="listitem">History</p>
+<p type="listitem">Instructions and Rules</p>
+<p type="listitem">Nature</p>
+<p type="listitem">Services</p>
+<p type="listitem">Sights</p>
+<p type="listitem">Trails</p>
+<p type="listitem">More Information</p>
+</list><p></p>
+<p type="title">Activities in Sompio Strict Nature Reserve</p>
+<p></p>
+<p></p>
+<p type="title">What can one do in Sompio Strict Nature Reserve?</p>
+<p type="title">Walk on Marked Trails</p>
+<p>In the Sompio Strict Nature Reserve you are only allowed to move along the marked trails . The Sompiojärvi forest road passes through the reserve's southern part, starting from Highway no. 4. The Ruijanpolku Trail runs in a south–north direction starting from the shores of Lake Sompiojärvi and ending at Kiilopää. You can reach the Pyhä-Nattanen circle trail from the Sompiojärvi forest road. The circle trail takes you onto Pyhä-Nattanen's summit. From Sompiojärventie Road, you can also set off for a marked trail and continue along an old wartime maintenance road along which you can go to Tankavaara and the Tankavaara Visitor Centre. Hikers must follow the Rules and Regulations of the Sompio Strict Nature Reserve .</p>
+<p type="title">Go Wilderness Trekking</p>
+<p>Ruijanpolku is a 35-km long hiking trail, so walking the trail from one end to the other requires an overnight stay on the trail. Part of the trail runs in the Sompio Strict Nature Reserve, part in the Urho Kekkonen National Park, and the northernmost part outside the protected areas (i.e., from Kiilopääntie Road to Laanila). Camping in the Sompio Strict Nature Reserve is only allowed on the shores of Lake Sompiojärvi.</p>
+<p type="title">Go Canoeing and Rowing</p>
+<p>You can row and canoe on Lake Sompiojärvi, but there are no actual water routes in the area.</p>
+<p type="title">Go Bird Watching</p>
+<p>You can observe the strict nature reserve's diverse bird species on the shores of Lake Sompiojärvi (a bird-watching tower) and along the marked trails. The number of different waterfowl and waders by Lake Sompiojärvi and in the mire areas is considerable. As regards birds of prey that hunt by day, you can even spot the white-tailed eagle in addition to the rough-legged buzzard, the osprey and the golden eagle. The ptarmigan, which thrives on treeless, open fell areas, is also amongst the species nesting in the area.</p>
+<p type="title">See the Sights and Scenery</p>
+<p>Amongst the sights of the area are, for example, the Nattastunturit Fells . You can hike along the marked trails on to Pyhä-Nattanen Fell and Terävä-Nattanen Fell; from both summits there are handsome wilderness views looming in the distance. On the Nattastunturit Fells you can also admire tors, which are large rocks.</p>
+<p type="title">See the Visitor Centre</p>
+<p>The Tankavaara Visitor Centre's exhibitions and slide programmes present the forest, mire and fell nature of the Peräpohjola region and Forest Lapland as well as the area's cultural history. In addition, the visitor centre annually houses several changing exhibitions and various events.</p>
+<p type="title">Go Fishing</p>
+<list><p type="listitem">In the Sompio Strict Nature Reserve any kind of fishing carried out in any season is only allowed on Lake Sompiojärvi.</p>
+<p type="listitem">Angling and ice fishing are permitted in the area free-of-charge as Everyman's Rights (www.ym.fi).</p>
+<p type="listitem">In Lake Sompiojärvi one need a fishing managemnet fee (www.eraluvat.fi) for one rod and if fishing with several rods one need also a recreational fishing licence (permit area 1401) (www.eraluvat.fi).</p>
+<p type="listitem"></p>
+</list><p type="title">Go on Guided Group Tour at the Visitor Centre</p>
+<p>The Tankavaara Visitor Centre tells the story of the Urho Kekkonen National Park (i.e., the Koilliskaira region). The visitor centre also provides information on the Sompio Strict Nature Reserve. It introduces you to the area's diverse natural features, the history of nature utilisation in the area, and hiking in Lapland. The Tankavaara Visitor Centre offers versatile programmes for groups. Some of the programmes also contain a terrain section that takes place in the nearby area and on nature trails. Please book guiding in advance. There is a fee for guiding.</p>
+<p type="title">Go Berry and Mushroom Picking</p>
+<p>In the Sompio Strict Nature Reserve picking berries and edible mushrooms is only allowed for people whose domicile is in the municipality of Sodankylä and those who also live there permanently.</p>
+<p type="title">Go Snowshoe Walking</p>
+<p>In the Sompio Strict Nature Reserve you may only go snowshoeing along the marked trails .</p>
+<p></p>
+<p>© Metsähallitus 2017</p>
+<list><p type="listitem"></p>
+</list><p>Share This Page</p>
+<p>Open Menu</p>
+</body></document>

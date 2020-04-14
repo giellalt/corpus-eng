@@ -1,62 +1,31 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>322</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/om-lansstyrelsen/diarium/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="om-lansstyrelsen-diarium.html"/>
-    <parallel_text xml:lang="swe" location="om-lansstyrelsen-diarium.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Register - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Register</p>
-    <p><em type="italic">One of the cornerstones of a democratic society is the right-of-access principle. It means that authorities' activities as far as possible should be carried out openly. An expression of the right-of-access principle is the principle of public access to documents. This principle gives anyone the right to request access to public documents without having to explain why or who you are. </em></p>
-    <p type="title">General right of inspection of public documents</p>
-    <p>In principle, all Swedish citizens and foreigners, have the right to read the documents that are held by the County Administrative Board. This right is limited in two ways:</p>
-    <list>
-      <p type="listitem">Firstly, the public is only allowed to read those documents classified as public documents. All documents are not regarded as public documents, for example, a draft decision, a letter or similar in a case, is not a public document, unless the draft is to be used when the case is finalised.</p>
-      <p type="listitem">Secondly, some public documents are confidential. This means that the public does not have the right to read the documents and that the County Administrative Board is forbidden from disclosing them.</p>
-    </list>
-    <p type="title">The County Administrative Board's official register</p>
-    <p>Each day new cases are recorded in the official register, as well as documents concerning ongoing cases and when decisions are taken in cases. The information in the official register is public, which means that the media and other interested parties have access to them. The official register is in Swedish.</p>
-    <p>Via the County Administrative Boards' official registers you will gain access to cases registered from 8 June 2011.</p>
-    <p>If you require information about a specific cace or cases, contact the County Administrative Board.</p>
-    <p type="title">Contact us</p>
-    <p>County Administrative Board of Dalarna</p>
-    <p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
-    <p>Send message</p>
-    <p>Hide form</p>
-    <p>Your email address (optional)</p>
-    <p>Send a copy of the message to the email address specified</p>
-    <p>Message</p>
-    <p>Enter the code below to send your message</p>
-    <p>Generate new image</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>322</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/om-lansstyrelsen/diarium/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="om-lansstyrelsen-diarium.html"/><parallel_text xml:lang="swe" location="om-lansstyrelsen-diarium.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Register - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Register</p>
+<p><em type="italic">One of the cornerstones of a democratic society is the right-of-access principle. It means that authorities' activities as far as possible should be carried out openly. An expression of the right-of-access principle is the principle of public access to documents. This principle gives anyone the right to request access to public documents without having to explain why or who you are. </em></p>
+<p type="title">General right of inspection of public documents</p>
+<p>In principle, all Swedish citizens and foreigners, have the right to read the documents that are held by the County Administrative Board. This right is limited in two ways:</p>
+<list><p type="listitem">Firstly, the public is only allowed to read those documents classified as public documents. All documents are not regarded as public documents, for example, a draft decision, a letter or similar in a case, is not a public document, unless the draft is to be used when the case is finalised.</p>
+<p type="listitem">Secondly, some public documents are confidential. This means that the public does not have the right to read the documents and that the County Administrative Board is forbidden from disclosing them.</p>
+</list><p type="title">The County Administrative Board's official register</p>
+<p>Each day new cases are recorded in the official register, as well as documents concerning ongoing cases and when decisions are taken in cases. The information in the official register is public, which means that the media and other interested parties have access to them. The official register is in Swedish.</p>
+<p>Via the County Administrative Boards' official registers you will gain access to cases registered from 8 June 2011.</p>
+<p>If you require information about a specific cace or cases, contact the County Administrative Board.</p>
+<p type="title">Contact us</p>
+<p>County Administrative Board of Dalarna</p>
+<p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
+<p>Send message</p>
+<p>Hide form</p>
+<p>Your email address (optional)</p>
+<p>Send a copy of the message to the email address specified</p>
+<p>Message</p>
+<p>Enter the code below to send your message</p>
+<p>Generate new image</p>
+</body></document>

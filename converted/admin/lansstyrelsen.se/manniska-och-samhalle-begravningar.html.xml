@@ -1,49 +1,20 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>259</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/begravningar/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="manniska-och-samhalle-begravningar.html"/>
-    <parallel_text xml:lang="swe" location="manniska-och-samhalle-begravningar.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Funerals - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Funerals</p>
-    <p>The County Administrative Board ensures that people who are not members of the Swedish Church are also buried in a dignified manner. We can also issue permission for the scattering of ashes of a deceased person.</p>
-    <p type="title">Funeral representative and cemeteries</p>
-    <p>Usually one or several parishes are responsible for arranging burial grounds. The County Administrativa Board appoints a representative to examine parishes and to ensure that those who do not belong to the Swedish Church are buried in a way that suits them. The representative checks, for example, the burial charges and the layout of the burial grounds.</p>
-    <p>If you want to know who the funeral representative in your area is, contact your parish or the County Administrative Board.</p>
-    <p type="title">Scattering ashes</p>
-    <p>If you want to scatter ashes of a deceased person at a place other than a burial ground you must obtain a permit from the County Administrative Board in the county where you wish to scatter the ashes. We can only issue permission for the scattering of ashes after someone has died.  It is thus not possible to apply for a permit in advance.</p>
-    <p type="title">The County Administrative Board deals with burial matters</p>
-    <p>Sometimes the relatives are divided on burial arrangements and the parish or municipality in charge of the funeral services cannot manage to mediate between them. The issue can then be submitted to the County Administrative Board for review. You can also contact us to appeal a ruling on the right to a burial plot or removal of buried remains or ashes.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>259</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/begravningar/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="manniska-och-samhalle-begravningar.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle-begravningar.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Funerals - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Funerals</p>
+<p>The County Administrative Board ensures that people who are not members of the Swedish Church are also buried in a dignified manner. We can also issue permission for the scattering of ashes of a deceased person.</p>
+<p type="title">Funeral representative and cemeteries</p>
+<p>Usually one or several parishes are responsible for arranging burial grounds. The County Administrativa Board appoints a representative to examine parishes and to ensure that those who do not belong to the Swedish Church are buried in a way that suits them. The representative checks, for example, the burial charges and the layout of the burial grounds.</p>
+<p>If you want to know who the funeral representative in your area is, contact your parish or the County Administrative Board.</p>
+<p type="title">Scattering ashes</p>
+<p>If you want to scatter ashes of a deceased person at a place other than a burial ground you must obtain a permit from the County Administrative Board in the county where you wish to scatter the ashes. We can only issue permission for the scattering of ashes after someone has died.  It is thus not possible to apply for a permit in advance.</p>
+<p type="title">The County Administrative Board deals with burial matters</p>
+<p>Sometimes the relatives are divided on burial arrangements and the parish or municipality in charge of the funeral services cannot manage to mediate between them. The issue can then be submitted to the County Administrative Board for review. You can also contact us to appeal a ruling on the right to a burial plot or removal of buried remains or ashes.</p>
+</body></document>

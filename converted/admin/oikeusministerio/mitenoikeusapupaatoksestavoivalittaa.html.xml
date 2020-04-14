@@ -1,31 +1,7 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>How to appeal against a legal aid decision - 
+<document xml:lang="eng" id="no_id"><header><title>How to appeal against a legal aid decision - 
 	Oikeus.fi
-</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2014</year>
-    <wordcount>90</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://oikeus.fi/en/index/esitteet/oikeusapu/mitenoikeusapupaatoksestavoivalittaa.html</origFileName>
-    <parallel_text xml:lang="fin" location="mitenoikeusapupaatoksestavoivalittaa.html"/>
-    <parallel_text xml:lang="sme" location="movuoigatvuo273aveahkkemearradusassahttavaidit.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nno"></p>
-    <p type="title">Information on Legal Aid</p>
-    <p type="title">How to appeal against a legal aid decision</p>
-    <p>If an application for legal aid is rejected, the legal aid office will provide appeal instructions to the applicant. A rejected application can be submitted to the court for a hearing. The applicant should deliver the submission to the legal aid office, which can also itself rectify the decision. If the legal aid office deems that there is no reason for a rectification, it will forward the matter to the court, which will then decide on the matter.</p>
-  </body>
-</document>
+</title><genre code="admin"/><author><unknown/></author><year>2014</year><wordcount>90</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/en/index/esitteet/oikeusapu/mitenoikeusapupaatoksestavoivalittaa.html</origFileName><parallel_text xml:lang="fin" location="mitenoikeusapupaatoksestavoivalittaa.html"/><parallel_text xml:lang="sme" location="movuoigatvuo273aveahkkemearradusassahttavaidit.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<p type="title">Information on Legal Aid</p>
+<p type="title">How to appeal against a legal aid decision</p>
+<p>If an application for legal aid is rejected, the legal aid office will provide appeal instructions to the applicant. A rejected application can be submitted to the court for a hearing. The applicant should deliver the submission to the legal aid office, which can also itself rectify the decision. If the legal aid office deems that there is no reason for a rectification, it will forward the matter to the court, which will then decide on the matter.</p>
+</body></document>

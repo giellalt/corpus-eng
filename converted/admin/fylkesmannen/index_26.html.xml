@@ -1,88 +1,57 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>447</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/en/Health-care-and-social-services/The-Coordination-Reform/</origFileName>
-    <parallel_text xml:lang="nob" location="index_26.html"/>
-    <parallel_text xml:lang="sma" location="index_26.html"/>
-    <parallel_text xml:lang="sme" location="index_26.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>The Coordination Reform - County Governor - Fylkesmannen.no</p>
-    <p>Jump to content</p>
-    <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Sound version</p>
-      <p type="listitem">High contrast</p>
-      <p type="listitem" xml:lang="nno"></p>
-      <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
-    <list>
-      <p type="listitem">People and society</p>
-      <p type="listitem">Nursery schools and education</p>
-      <p type="listitem">Children and parents</p>
-      <p type="listitem">Climate and the environment</p>
-    </list>
-    <list>
-      <p type="listitem">Agriculture and food</p>
-      <p type="listitem">Municipal administration</p>
-      <p type="listitem">Planning and building</p>
-      <p type="listitem">Civil protection</p>
-    </list>
-    <p xml:lang="nob">County Governor</p>
-    <p>Health, care and social services</p>
-    <p>The Coordination Reform</p>
-    <list>
-      <p type="listitem">Care services</p>
-      <p type="listitem">Combating poverty</p>
-      <p type="listitem">Crisis centres</p>
-      <p type="listitem">Driving licences</p>
-      <p type="listitem">Financial social assistance</p>
-      <p type="listitem">Guardianship</p>
-      <p type="listitem">Health services</p>
-      <p type="listitem">Individual plans</p>
-      <p type="listitem">Involuntary treatment</p>
-      <p type="listitem">Medical internship placements</p>
-      <p type="listitem">Mental health and intoxication</p>
-      <p type="listitem">Offshore health services</p>
-      <p type="listitem">Public health</p>
-      <p type="listitem">The Coordination Reform</p>
-      <p type="listitem">The Qualification Programme</p>
-      <p type="listitem" xml:lang="nob">Universal design</p>
-    </list>
-    <p type="title">The Coordination Reform</p>
-    <p xml:lang="est">Published 10/14/2012 Updated 3/28/2017</p>
-    <p>The Co-ordination Reform transfers responsibility from hospitals to municipalities, which will have a greater role to play in the implementation of health and care services, and more resources to do so. The objectives are to prevent more, treat earlier and co-operate better.</p>
-    <p type="title">Better co-operation for the benefit of municipal residents</p>
-    <p>Patients and users must be given access to timely and appropriate aid when required, as close as possible to where they live. They must receive the right treatment at the right time and in the right place, through a comprehensive and co-ordinated health and care system. Among other things, cohesive and co-ordinated health services should be ensured through competence-building measures, co-operation agreements and inter-hospital agreements on treatment pathways. The services must be of a high quality, ensure a good degree of patient security and short waiting times and be as tailored as possible to the needs of the individual user.</p>
-    <p type="title">New legislation underlying the reforms</p>
-    <p>The Co-ordination Reform is enshrined in two pieces of legislation: the Public Health Act and the Health and Care Services Act. Both acts emphasise the importance of health promotion and preventive initiatives. The health sector must make an active contribution to efforts in the field of public health by implementing preventive measures in the health services and contributing to broader, community-oriented public health work. Interim assessments have shown that public health is now attracting more attention in municipal planning work.</p>
-    <p type="title">The County Governor’s responsibilities</p>
-    <p>The County Governor must monitor the progress of the Co-ordination Reform and help to safeguard patient safety, patient rights, the reliability of the services provided and the safety of care pathways. In addition, the County Governor must help to co-ordinate and support the work of national, regional and local actors to implement the reform, through networking and experience exchanges.</p>
-    <p>The County Governor must also provide advice and guidance to regional and municipal actors. The County Governor may also monitor whether health trusts, county authorities and municipalities are fulfilling their obligations.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title" xml:lang="est">Links</p>
-    <list>
-      <p type="listitem" xml:lang="dan">Temaside om reformen (Helsedirektoratet)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>447</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/Health-care-and-social-services/The-Coordination-Reform/</origFileName><parallel_text xml:lang="nob" location="index_26.html"/><parallel_text xml:lang="sma" location="index_26.html"/><parallel_text xml:lang="sme" location="index_26.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>The Coordination Reform - County Governor - Fylkesmannen.no</p>
+<p>Jump to content</p>
+<p xml:lang="nno">County Governor - Fylkesmannen.no</p>
+<list><p type="listitem">Sound version</p>
+<p type="listitem">High contrast</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="nno">Helse, omsorg og sosialtjenester</p>
+<list><p type="listitem">People and society</p>
+<p type="listitem">Nursery schools and education</p>
+<p type="listitem">Children and parents</p>
+<p type="listitem">Climate and the environment</p>
+</list><list><p type="listitem">Agriculture and food</p>
+<p type="listitem">Municipal administration</p>
+<p type="listitem">Planning and building</p>
+<p type="listitem">Civil protection</p>
+</list><p xml:lang="nob">County Governor</p>
+<p>Health, care and social services</p>
+<p>The Coordination Reform</p>
+<list><p type="listitem">Care services</p>
+<p type="listitem">Combating poverty</p>
+<p type="listitem">Crisis centres</p>
+<p type="listitem">Driving licences</p>
+<p type="listitem">Financial social assistance</p>
+<p type="listitem" xml:lang="rmy-rlo">Guardianship</p>
+<p type="listitem">Health services</p>
+<p type="listitem">Individual plans</p>
+<p type="listitem">Involuntary treatment</p>
+<p type="listitem">Medical internship placements</p>
+<p type="listitem">Mental health and intoxication</p>
+<p type="listitem">Offshore health services</p>
+<p type="listitem">Public health</p>
+<p type="listitem">The Coordination Reform</p>
+<p type="listitem">The Qualification Programme</p>
+<p type="listitem" xml:lang="nob">Universal design</p>
+</list><p type="title">The Coordination Reform</p>
+<p xml:lang="est">Published 10/14/2012 Updated 3/28/2017</p>
+<p>The Co-ordination Reform transfers responsibility from hospitals to municipalities, which will have a greater role to play in the implementation of health and care services, and more resources to do so. The objectives are to prevent more, treat earlier and co-operate better.</p>
+<p type="title">Better co-operation for the benefit of municipal residents</p>
+<p>Patients and users must be given access to timely and appropriate aid when required, as close as possible to where they live. They must receive the right treatment at the right time and in the right place, through a comprehensive and co-ordinated health and care system. Among other things, cohesive and co-ordinated health services should be ensured through competence-building measures, co-operation agreements and inter-hospital agreements on treatment pathways. The services must be of a high quality, ensure a good degree of patient security and short waiting times and be as tailored as possible to the needs of the individual user.</p>
+<p type="title">New legislation underlying the reforms</p>
+<p>The Co-ordination Reform is enshrined in two pieces of legislation: the Public Health Act and the Health and Care Services Act. Both acts emphasise the importance of health promotion and preventive initiatives. The health sector must make an active contribution to efforts in the field of public health by implementing preventive measures in the health services and contributing to broader, community-oriented public health work. Interim assessments have shown that public health is now attracting more attention in municipal planning work.</p>
+<p type="title">The County Governor’s responsibilities</p>
+<p>The County Governor must monitor the progress of the Co-ordination Reform and help to safeguard patient safety, patient rights, the reliability of the services provided and the safety of care pathways. In addition, the County Governor must help to co-ordinate and support the work of national, regional and local actors to implement the reform, through networking and experience exchanges.</p>
+<p>The County Governor must also provide advice and guidance to regional and municipal actors. The County Governor may also monitor whether health trusts, county authorities and municipalities are fulfilling their obligations.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="est">Links</p>
+<list><p type="listitem" xml:lang="dan">Temaside om reformen (Helsedirektoratet)</p>
+</list></body></document>

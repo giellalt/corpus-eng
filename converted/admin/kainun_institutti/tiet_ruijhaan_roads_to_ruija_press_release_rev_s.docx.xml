@@ -1,50 +1,25 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>455</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/>
-    <parallel_text xml:lang="fkv" location="tiet_ruijhaan_press_release_kvensk_25.03.2011.doc.xsl"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 99083 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Press Release</p>
-    <p>Tiet Ruijhaan – Veiene til Ruija – Roads to Ruija</p>
-    <p>en utstilling som vil gå i fotsporene til de  gamle vandrerne til  Ruija  – til Nord-Troms og Finnmark eller landet ved ishavet  åpnet i Luleå 2. april og ender i Varanger i 2012</p>
-    <p>The exhibition Tiet Ruijhaan or <em type="italic">Roads to Ruija </em>presents an account of the migrations of Finnish speaking peoples – The Kvens – to Ruija, the Arctic coast of Norway. It is based on historical material from Finland, Sweden and Norway. </p>
-    <p>The exhibition is narrated by two teenagers Sofia / Sofie and Matti / Mattias. We follow them as they travel north along two of the major historical routes, via the Torne Valley to Troms, and from Northern Finland to Varanger in Finnmark. In the exhibition they describe the journey, their experiences on the road, and what happens to them when they arrive in Ruija.</p>
-    <p>Their story unfolds against the historical background for the migration, its origins in Finland and Sweden, and the main destinations in Northern Norway. Within this framework the exhibition develops a number of themes: why and how they travelled; what they had with them - both in terms of material and immaterial culture; the skills they brought with them, and what they found when they arrived in Ruija.</p>
-    <p>The exhibitions historical material is complemented by a series of interactive games. These enter into a dialogue with the historical themes presented in the exhibition. This combination of historical facts and interactive play aims to challenge visitors to consider their own experiences and thoughts about migration. Specifically to consider the similarities and differences between the historical migration of the Kvens, and today’s migration to the Nordic lands. This theme will be developed further through additional material being developed for schools.</p>
-    <p>Varanger  museum  initiated the exhibition project  in  200  7  ,  and has had the administrative leadership.</p>
-    <p>The exhibition is a cooperation between the following institutions:</p>
-    <list>
-      <p type="listitem">Norrbottens Museum,</p>
-      <p type="listitem">Lapin maakuntamuseo -  The Provincial Museum of Lapland</p>
-      <p type="listitem">Varanger Museum</p>
-      <p type="listitem">Nord Troms Museum</p>
-      <p type="listitem">Kainun institutti - Kvensk institutt</p>
-    </list>
-    <p>The project has been supported financially by</p>
-    <list>
-      <p type="listitem">Nordic Culture Fund</p>
-      <p type="listitem">Nordkalottrådet</p>
-      <p type="listitem">Inter Reg IV A Nord</p>
-    </list>
-    <p>The exhibition has been produced by Expology, Stockholm from an initial design from LPO arkitketer Oslo.</p>
-    <p>The exhibition will open in Luleå on the 02.04. 2011. Over the next two years it will be shown in sixteen locations in Finland, Sweden and Norway. It will travel along the major migration routes of the Kvens before ending in Varanger museum  .  A digital version of the exhibition is planned for schools unable to attend the physical exhibition.</p>
-    <p>For more information please contact Morien Rees, Varanger musuem</p>
-    <p>Email  morien.rees@varangermuseum.no</p>
-    <p>Tel  +47 45 48 72 95</p>
-    <p>+47 47 27 46 72</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>455</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Sindre Reino Trosterud" email="sindre.reino.trosterud@gmail.com"/><parallel_text xml:lang="fkv" location="tiet_ruijhaan_press_release_kvensk_25.03.2011.doc.xsl"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 99083 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Press Release</p>
+<p>Tiet Ruijhaan – Veiene til Ruija – Roads to Ruija</p>
+<p>en utstilling som vil gå i fotsporene til de  gamle vandrerne til  Ruija  – til Nord-Troms og Finnmark eller landet ved ishavet  åpnet i Luleå 2. april og ender i Varanger i 2012</p>
+<p>The exhibition Tiet Ruijhaan or <em type="italic">Roads to Ruija </em>presents an account of the migrations of Finnish speaking peoples – The Kvens – to Ruija, the Arctic coast of Norway. It is based on historical material from Finland, Sweden and Norway. </p>
+<p>The exhibition is narrated by two teenagers Sofia / Sofie and Matti / Mattias. We follow them as they travel north along two of the major historical routes, via the Torne Valley to Troms, and from Northern Finland to Varanger in Finnmark. In the exhibition they describe the journey, their experiences on the road, and what happens to them when they arrive in Ruija.</p>
+<p>Their story unfolds against the historical background for the migration, its origins in Finland and Sweden, and the main destinations in Northern Norway. Within this framework the exhibition develops a number of themes: why and how they travelled; what they had with them - both in terms of material and immaterial culture; the skills they brought with them, and what they found when they arrived in Ruija.</p>
+<p>The exhibitions historical material is complemented by a series of interactive games. These enter into a dialogue with the historical themes presented in the exhibition. This combination of historical facts and interactive play aims to challenge visitors to consider their own experiences and thoughts about migration. Specifically to consider the similarities and differences between the historical migration of the Kvens, and today’s migration to the Nordic lands. This theme will be developed further through additional material being developed for schools.</p>
+<p>Varanger  museum  initiated the exhibition project  in  200  7  ,  and has had the administrative leadership.</p>
+<p>The exhibition is a cooperation between the following institutions:</p>
+<list><p type="listitem">Norrbottens Museum,</p>
+<p type="listitem">Lapin maakuntamuseo -  The Provincial Museum of Lapland</p>
+<p type="listitem">Varanger Museum</p>
+<p type="listitem">Nord Troms Museum</p>
+<p type="listitem">Kainun institutti - Kvensk institutt</p>
+</list><p>The project has been supported financially by</p>
+<list><p type="listitem">Nordic Culture Fund</p>
+<p type="listitem">Nordkalottrådet</p>
+<p type="listitem">Inter Reg IV A Nord</p>
+</list><p>The exhibition has been produced by Expology, Stockholm from an initial design from LPO arkitketer Oslo.</p>
+<p>The exhibition will open in Luleå on the 02.04. 2011. Over the next two years it will be shown in sixteen locations in Finland, Sweden and Norway. It will travel along the major migration routes of the Kvens before ending in Varanger museum  .  A digital version of the exhibition is planned for schools unable to attend the physical exhibition.</p>
+<p>For more information please contact Morien Rees, Varanger musuem</p>
+<p>Email  morien.rees@varangermuseum.no</p>
+<p>Tel  +47 45 48 72 95</p>
+<p>+47 47 27 46 72</p>
+</body></document>

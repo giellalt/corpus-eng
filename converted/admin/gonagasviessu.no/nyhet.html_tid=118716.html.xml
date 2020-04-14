@@ -1,64 +1,36 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Completed visit in Istanbul  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>649</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=118716</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=118716.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=118716_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Completed visit in Istanbul</p>
-    <p>Their Majesties The King and Queen concluded their State Visit to Turkey on Thursday. After beginning their morning at a Norwegian-Turkish business seminar, the King and Queen had the opportunity to visit to the magnificent Blue Mosque and Hagia Sophia.</p>
-    <p xml:lang="koi">07.11.2013</p>
-    <p>The potential for expanded business cooperation between Turkey and Norway was the theme of the days seminar at Çırağan Palace Kempinski Istanbul. An increasing number of Norwegian ships are being built in Turkey, and the King noted that Norways positive experience with Turkish shipyards, combined with the use of Norwegian design and technology in the Turkish maritime industry, is one of the areas of mutually beneficial cooperation for the countries.</p>
-    <p>Urban development and architecture was another theme of the seminar. The Nordic Office of Architecture was recently awarded the contract to design the worlds largest airport which will be built outside of Istanbul, and a variety of other urban development projects were presented at the seminar.</p>
-    <p>The King emphasised that seafood is yet another area for expanded cooperation:</p>
-    <p><em type="italic">In this area, too, Turkey and Norway are finding more and more win-win effects </em>. <em type="italic">Sharing experience and expertise in seafood production and handling is one example; feeding a healthy population with Norwegian products that augment rather than compete with Turkish production is another. </em></p>
-    <p type="title" xml:lang="nob">The Blue Mosque and Hagia Sophia</p>
-    <p>Following the seminar, the King and Queen visited the Blue Mosque (as the Sultan Ahmed Mosque is often called) and the Hagia Sophia. These two magnificent buildings are located in close proximity to each other in the part of the Old City of Istanbul known as Sultanahmet.</p>
-    <p>The Blue Mosque was built during the reign of Sultan Ahmed in the early 1600s, and is one of Istanbuls largest mosques. The mosque got its popular name from the ceramic Iznik tiles adorning the interior – primarily white with blue designs.</p>
-    <p>Hagia Sophia is a thousand years older than the mosque (built in 532–537), and was once the largest church in Christendom. After the Turks conquered Constantinople in 1453, Hagia Sophia was converted into a mosque, which was then secularised and turned into a museum in 1934.</p>
-    <p>The King commented on his encounter with Turkey as follows in his first speech of the visit: <em type="italic"></em></p>
-    <p><em type="italic">When the Norwegian Vikings landed here a thousand years ago, their leader ordered them to look straight ahead when they rode into the city and pretend that they were not impressed. Today we allow ourselves both to look around us and to be impressed. </em><em type="italic"></em></p>
-    <p>The State Visit concluded in the afternoon with a luncheon hosted by the Governor of Istanbul Province Hüseyin Avni Mutlu and Mrs Mutlu.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>The King and Queen met the Norwegian and Turkish media for their final comments outside of the Hagia Sophia. (Photo: Lise Åserud, NTB scanpix)</p>
-    <p>Facts</p>
-    <p><em type="italic">Facts about Turkey </em></p>
-    <p>Capital: Ankara Largest cities: Istanbul, Ankara, Izmir</p>
-    <p>Total area: 770 760 km² (Norway: 385 186 km²) Population in 2010: approximately 76.8 million Official language: Turkish</p>
-    <p>Form of government: Republic Head of State in 2013: President Abdullah Gül</p>
-    <p>Diplomatic relations between Turkey and Norway were established in 1925, and the bilateral ties are excellent.</p>
-    <p>Norwegian exports to Turkey are increasing, with particularly strong growth in seafood sales. Statkraft has established itself for investing in hydropower development, and the number of Norwegian vessels being built in Turkey is steadily rising.</p>
-    <p>Over 400 000 Norwegians visited Turkey in 2012, and an increasing number are settling there. As of 2012 over 5 000 held settlement permits. Roughly 16 500 Turkish citizens and Norwegians of Turkish descent live in Norway.</p>
-    <p>Source: Norwegian Ministry of Foreign Affairs</p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">Norwegian-Turkish cooperation (News article)</p>
-      <p type="listitem">State Visit to Turkey (News article)</p>
-      <p type="listitem">State visit to Turkey: Opening speech at business seminar (Speech)</p>
-    </list>
-    <list>
-      <p type="listitem">Photo Album with pictures fom the State Visit to Turkey</p>
-      <p type="listitem" xml:lang="nob">Hagia Sophia</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Completed visit in Istanbul  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>644</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=118716</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=118716.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=118716_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Completed visit in Istanbul</p>
+<p>Their Majesties The King and Queen concluded their State Visit to Turkey on Thursday. After beginning their morning at a Norwegian-Turkish business seminar, the King and Queen had the opportunity to visit to the magnificent Blue Mosque and Hagia Sophia.</p>
+<p xml:lang="vep">07.11.2013</p>
+<p>The potential for expanded business cooperation between Turkey and Norway was the theme of the days seminar at Çırağan Palace Kempinski Istanbul. An increasing number of Norwegian ships are being built in Turkey, and the King noted that Norways positive experience with Turkish shipyards, combined with the use of Norwegian design and technology in the Turkish maritime industry, is one of the areas of mutually beneficial cooperation for the countries.</p>
+<p>Urban development and architecture was another theme of the seminar. The Nordic Office of Architecture was recently awarded the contract to design the worlds largest airport which will be built outside of Istanbul, and a variety of other urban development projects were presented at the seminar.</p>
+<p>The King emphasised that seafood is yet another area for expanded cooperation:</p>
+<p><em type="italic">In this area, too, Turkey and Norway are finding more and more win-win effects </em>. <em type="italic">Sharing experience and expertise in seafood production and handling is one example; feeding a healthy population with Norwegian products that augment rather than compete with Turkish production is another. </em></p>
+<p type="title" xml:lang="nob">The Blue Mosque and Hagia Sophia</p>
+<p>Following the seminar, the King and Queen visited the Blue Mosque (as the Sultan Ahmed Mosque is often called) and the Hagia Sophia. These two magnificent buildings are located in close proximity to each other in the part of the Old City of Istanbul known as Sultanahmet.</p>
+<p>The Blue Mosque was built during the reign of Sultan Ahmed in the early 1600s, and is one of Istanbuls largest mosques. The mosque got its popular name from the ceramic Iznik tiles adorning the interior – primarily white with blue designs.</p>
+<p>Hagia Sophia is a thousand years older than the mosque (built in 532–537), and was once the largest church in Christendom. After the Turks conquered Constantinople in 1453, Hagia Sophia was converted into a mosque, which was then secularised and turned into a museum in 1934.</p>
+<p>The King commented on his encounter with Turkey as follows in his first speech of the visit: <em type="italic"></em></p>
+<p><em type="italic">When the Norwegian Vikings landed here a thousand years ago, their leader ordered them to look straight ahead when they rode into the city and pretend that they were not impressed. Today we allow ourselves both to look around us and to be impressed. </em><em type="italic"></em></p>
+<p>The State Visit concluded in the afternoon with a luncheon hosted by the Governor of Istanbul Province Hüseyin Avni Mutlu and Mrs Mutlu.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>The King and Queen met the Norwegian and Turkish media for their final comments outside of the Hagia Sophia. (Photo: Lise Åserud, NTB scanpix)</p>
+<p>Facts</p>
+<p><em type="italic">Facts about Turkey </em></p>
+<p>Capital: Ankara Largest cities: Istanbul, Ankara, Izmir</p>
+<p>Total area: 770 760 km² (Norway: 385 186 km²) Population in 2010: approximately 76.8 million Official language: Turkish</p>
+<p>Form of government: Republic Head of State in 2013: President Abdullah Gül</p>
+<p>Diplomatic relations between Turkey and Norway were established in 1925, and the bilateral ties are excellent.</p>
+<p>Norwegian exports to Turkey are increasing, with particularly strong growth in seafood sales. Statkraft has established itself for investing in hydropower development, and the number of Norwegian vessels being built in Turkey is steadily rising.</p>
+<p>Over 400 000 Norwegians visited Turkey in 2012, and an increasing number are settling there. As of 2012 over 5 000 held settlement permits. Roughly 16 500 Turkish citizens and Norwegians of Turkish descent live in Norway.</p>
+<p>Source: Norwegian Ministry of Foreign Affairs</p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">Norwegian-Turkish cooperation (News article)</p>
+<p type="listitem">State Visit to Turkey (News article)</p>
+<p type="listitem">State visit to Turkey: Opening speech at business seminar (Speech)</p>
+</list><list><p type="listitem">Photo Album with pictures fom the State Visit to Turkey</p>
+<p type="listitem" xml:lang="nob">Hagia Sophia</p>
+</list></body></document>

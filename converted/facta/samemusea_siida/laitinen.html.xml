@@ -1,47 +1,23 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Anaras - Research - Laitinen</title>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <year>2006</year>
-    <wordcount>728</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samimuseum.fi/anaras/english/tutkimus/laitinen.html</origFileName>
-    <parallel_text xml:lang="fin" location="olthuis.html"/>
-    <parallel_text xml:lang="smn" location="laitinen.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="vep">Elias Lönnrot</p>
-    <p xml:lang="deu">E.W. Borg</p>
-    <p xml:lang="smn">Heikki Mattus</p>
-    <p xml:lang="smn">A.V. Koskimies</p>
-    <p xml:lang="vep">Lauri Itkonen</p>
-    <p xml:lang="fin">T.I. Itkonen</p>
-    <p xml:lang="fin">Erkki Itkonen</p>
-    <p xml:lang="fin">Uula Morottaja</p>
-    <p xml:lang="fin">Matti Morottaja</p>
-    <p xml:lang="sme">Pekka Sammallahti</p>
-    <p xml:lang="vep">Lea Laitinen</p>
-    <p xml:lang="fin">Marja-Liisa Olthuis</p>
-    <p>Catalogue of Literature</p>
-    <p>Eino Luomi was born in Savo but moved with his father to Järvenpää in southern Finland. When he was just a schoolboy he and Helmi Melamies from Sodankylä got to know each other in wartime Salla, got married and settled in Järvenpää. They had four children, one of whom was named <em type="italic">Lea </em>. During the winter the children attended school at Järvenpää Coeducational School and in the summer they stayed with their grandmother and other relatives in Sodankylä. They had four uncles their, one of whom was a reindeer herder. </p>
-    <p>When <em type="italic">Lea Luomi </em>went to study the Finnish language in the University of Helsinki, she had to gather information about dialects in the field, which she did in the summer of 1966 at Moskuvaara, Sodankylä. There she collected place names and lived in a room that her uncle had arranged for her. Next year, she continued her research with the help of a grant and always moved further north: first to Vuotso, then to Ivalo and finally to the village of Inari. On her data collection excursions she got around by a bicycle she had loaned. She cycled all day long at times; up one ridge, down another – she loved that time immensely. </p>
-    <p>On one of her excursions she came across an Inari Sámi place name, so it became necessary for her to learn Inari Sámi. This she studied for a few summers in Nellim at the turn of the 1970s with her teachers Elsa Valle and Elsa Saijets, very linguistically gifted women who were then in their fifties. Lea taped them both along with many other old Inari Sámis, accompanied by Elsa Valle. She got to know the Skolt Sámis Darja and Boris Jefremoff who became friends also with Heikki Laitinen who was then her fiancé. Heikki was then studying Skolt Sámi music. The love for Lapland and the Sámi culture united them in many ways. Lea Luomi (later Laitinen) recorded about 680 Inari Sámi place names.</p>
-    <p>Lea and Heikki were married in 1973 and moved to Kaustinen in 1974. Because a small child could not be taken on data excursions, Elsa and Heikki Tuomas Valle and children came to spend a summer with them one summer. Elsa was at that time in Helsinki helping Erkki Itkonen with the finishing touches of his Inari Sámi dictionary <span type="quote" xml:lang="deu">“Inarilappisches Wörterbuch”</span> and lived at <em type="italic">Lea Laitinen </em>’s parents’ home in Järvenpää. In 1979, Lea got work as editor of a dictionary which she did in Kaustinen. She received data in photocopy format and, since there were no computers in those days, it was put into text format in an old barn in Kerimäki. In 1985 Lea and Heikki moved back to Helsinki where Lea continued work on the dictionary until it was completed. This work took 11 years during which time she learned many new things about the language. A little before Erkki Itkonen’s death, Lea Laitinen was editing Itkonen’s language sample collection <span type="quote" xml:lang="smn">“Aanaarkiela čájttuzeh – Inarinsaamelaisia kielennäytteitä”</span>. </p>
-    <p>Lea Laitinen is now a professor at the University of Helsinki and she previously worked as assistant and chief assistant at the same university. Having worked for some time at the Department of Domestic Languages Research Center she applied for professorship at the University of Helsinki and was accepted. She did dictionary work after she was suggested as a replacement of the editor Raija Bartens. Professor Mikko Korhonen-Vainaja remembered her and she was chosen for the editor’s position. Recently she has done research on the relationship between written and spoken Finnish language, as well as Inari Sámi which she regards with much affection. Her husband <em type="italic">Heikki Laitinen </em>was born in Ylivieska in 1943 and is now professor of folk music at Sibelius Academy. They have two sons, Tuomas Henrikki (b. 1974) and Martti Elias (b. 1984), as well as one grandchild, Ilari Aslak Andaras (b. 2003). His name is certainly rooted in memories from Tuomas’ childhood summers when mother rode <span type="quote">“to work”</span> while Tuomas and his father played somewhere on the shores or ridges of Lake Inari. </p>
-    <p>Lea Laitinen works presently as Professor of the Finnish language at the University of Helsinki.</p>
-    <p>Back to Top</p>
-    <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
-    <p xml:lang="sme">siida@samimuseum.fi</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Anaras - Research - Laitinen</title><genre code="facta"/><author><unknown/></author><year>2006</year><wordcount>728</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/english/tutkimus/laitinen.html</origFileName><parallel_text xml:lang="fin" location="olthuis.html"/><parallel_text xml:lang="smn" location="laitinen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="vep">Elias Lönnrot</p>
+<p xml:lang="deu">E.W. Borg</p>
+<p xml:lang="smn">Heikki Mattus</p>
+<p xml:lang="smn">A.V. Koskimies</p>
+<p xml:lang="vep">Lauri Itkonen</p>
+<p xml:lang="fin">T.I. Itkonen</p>
+<p xml:lang="fin">Erkki Itkonen</p>
+<p xml:lang="fin">Uula Morottaja</p>
+<p xml:lang="fin">Matti Morottaja</p>
+<p xml:lang="sme">Pekka Sammallahti</p>
+<p xml:lang="est">Lea Laitinen</p>
+<p xml:lang="fin">Marja-Liisa Olthuis</p>
+<p>Catalogue of Literature</p>
+<p>Eino Luomi was born in Savo but moved with his father to Järvenpää in southern Finland. When he was just a schoolboy he and Helmi Melamies from Sodankylä got to know each other in wartime Salla, got married and settled in Järvenpää. They had four children, one of whom was named <em type="italic">Lea </em>. During the winter the children attended school at Järvenpää Coeducational School and in the summer they stayed with their grandmother and other relatives in Sodankylä. They had four uncles their, one of whom was a reindeer herder. </p>
+<p>When <em type="italic">Lea Luomi </em>went to study the Finnish language in the University of Helsinki, she had to gather information about dialects in the field, which she did in the summer of 1966 at Moskuvaara, Sodankylä. There she collected place names and lived in a room that her uncle had arranged for her. Next year, she continued her research with the help of a grant and always moved further north: first to Vuotso, then to Ivalo and finally to the village of Inari. On her data collection excursions she got around by a bicycle she had loaned. She cycled all day long at times; up one ridge, down another – she loved that time immensely. </p>
+<p>On one of her excursions she came across an Inari Sámi place name, so it became necessary for her to learn Inari Sámi. This she studied for a few summers in Nellim at the turn of the 1970s with her teachers Elsa Valle and Elsa Saijets, very linguistically gifted women who were then in their fifties. Lea taped them both along with many other old Inari Sámis, accompanied by Elsa Valle. She got to know the Skolt Sámis Darja and Boris Jefremoff who became friends also with Heikki Laitinen who was then her fiancé. Heikki was then studying Skolt Sámi music. The love for Lapland and the Sámi culture united them in many ways. Lea Luomi (later Laitinen) recorded about 680 Inari Sámi place names.</p>
+<p>Lea and Heikki were married in 1973 and moved to Kaustinen in 1974. Because a small child could not be taken on data excursions, Elsa and Heikki Tuomas Valle and children came to spend a summer with them one summer. Elsa was at that time in Helsinki helping Erkki Itkonen with the finishing touches of his Inari Sámi dictionary <span type="quote" xml:lang="deu">“Inarilappisches Wörterbuch”</span> and lived at <em type="italic">Lea Laitinen </em>’s parents’ home in Järvenpää. In 1979, Lea got work as editor of a dictionary which she did in Kaustinen. She received data in photocopy format and, since there were no computers in those days, it was put into text format in an old barn in Kerimäki. In 1985 Lea and Heikki moved back to Helsinki where Lea continued work on the dictionary until it was completed. This work took 11 years during which time she learned many new things about the language. A little before Erkki Itkonen’s death, Lea Laitinen was editing Itkonen’s language sample collection <span type="quote" xml:lang="smn">“Aanaarkiela čájttuzeh – Inarinsaamelaisia kielennäytteitä”</span>. </p>
+<p>Lea Laitinen is now a professor at the University of Helsinki and she previously worked as assistant and chief assistant at the same university. Having worked for some time at the Department of Domestic Languages Research Center she applied for professorship at the University of Helsinki and was accepted. She did dictionary work after she was suggested as a replacement of the editor Raija Bartens. Professor Mikko Korhonen-Vainaja remembered her and she was chosen for the editor’s position. Recently she has done research on the relationship between written and spoken Finnish language, as well as Inari Sámi which she regards with much affection. Her husband <em type="italic">Heikki Laitinen </em>was born in Ylivieska in 1943 and is now professor of folk music at Sibelius Academy. They have two sons, Tuomas Henrikki (b. 1974) and Martti Elias (b. 1984), as well as one grandchild, Ilari Aslak Andaras (b. 2003). His name is certainly rooted in memories from Tuomas’ childhood summers when mother rode <span type="quote">“to work”</span> while Tuomas and his father played somewhere on the shores or ridges of Lake Inari. </p>
+<p>Lea Laitinen works presently as Professor of the Finnish language at the University of Helsinki.</p>
+<p>Back to Top</p>
+<p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
+<p xml:lang="sme">siida@samimuseum.fi</p>
+</body></document>

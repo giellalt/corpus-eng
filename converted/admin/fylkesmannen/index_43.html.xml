@@ -1,91 +1,58 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>494</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>https://www.fylkesmannen.no/en/Climate-and-the-environment/Outdoor-recreation/</origFileName>
-    <parallel_text xml:lang="nob" location="index_43.html"/>
-    <parallel_text xml:lang="sma" location="index_43.html"/>
-    <parallel_text xml:lang="sme" location="index_43.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Recreation - County Governor - Fylkesmannen.no</p>
-    <p>Jump to content</p>
-    <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
-    <list>
-      <p type="listitem">Sound version</p>
-      <p type="listitem">High contrast</p>
-      <p type="listitem" xml:lang="nno"></p>
-      <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p><p type="listitem" xml:lang="nno">Norsk (bokmål)</p><p type="listitem" xml:lang="nno">Norsk (nynorsk)</p><p type="listitem" xml:lang="smj">Davvisámegiella</p><p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p></list></p>
-    </list>
-    <p type="title" xml:lang="dan">Miljø og klima</p>
-    <list>
-      <p type="listitem">People and society</p>
-      <p type="listitem">Nursery schools and education</p>
-      <p type="listitem">Children and parents</p>
-      <p type="listitem">Health, care and social services</p>
-    </list>
-    <list>
-      <p type="listitem">Agriculture and food</p>
-      <p type="listitem">Municipal administration</p>
-      <p type="listitem">Planning and building</p>
-      <p type="listitem">Civil protection</p>
-    </list>
-    <p xml:lang="nob">County Governor</p>
-    <p>Climate and the environment</p>
-    <p>Outdoor recreation</p>
-    <list>
-      <p type="listitem" xml:lang="ron">Climate</p>
-      <p type="listitem">Fish farming</p>
-      <p type="listitem">Large predators</p>
-      <p type="listitem">Natural diversity</p>
-      <p type="listitem">Offroad motor traffic</p>
-      <p type="listitem">Outdoor recreation</p>
-      <p type="listitem">Pollution</p>
-      <p type="listitem">Protected areas</p>
-      <p type="listitem">The freshwater fish administration</p>
-      <p type="listitem">Waste and recycling</p>
-      <p type="listitem">Water resources</p>
-    </list>
-    <p type="title">Outdoor recreation</p>
-    <p xml:lang="est">Published 10/14/2012 Updated 4/4/2017</p>
-    <p>Everyone should have opportunities for outdoor recreation in nature as well as in their local area, including opportunities for walking, picking berries, foraging for mushrooms and hunting and fishing. Facilitating good outdoor recreational facilities is an important measure for improving public health.</p>
-    <p>The County Governor must safeguard national outdoor recreation interests associated with beaches, waterways and mountain areas. The County Governor is a regional representative of the state in its capacity as a landowner of protected outdoor recreation areas.</p>
-    <p>The County Governor, county authorities and municipalities must all give consideration to the general public’s opportunities for outdoor recreation when handling cases that relate to land use. The county authorities may give funding to measures that encourage people to enjoy the outdoors and that safeguard and cultivate areas for outdoor recreation.</p>
-    <p type="title">Hunting and fishing</p>
-    <p>All game is protected unless otherwise stated by law or by special resolution. The Norwegian Environment Agency is responsible for determining the hunting season for different species, but municipalities may extend or shorten the season for individual species. In protected areas, special rules for hunting may apply, or there may be a hunting ban in place. The municipalities are the government authority responsible for the management of the majority of harvestable game species. The county authorities offer guidance to the municipalities regarding all harvestable species, with the exception of wild reindeer. The County Governor is the appeals body.</p>
-    <p>The County Governor is responsible for the management of salmon and sea trout populations, as well as vulnerable stocks of freshwater fish. The County Governor is also responsible for all fish species with regard to regulation of the waterways. The County Governor collects catch statistics from salmon and sea trout fishing, records marine salmon fishing participation and awards grants from the state fish fund. Monitoring is crucial in order to be able to safeguard and boost fish stocks. The County Governor is in close contact with landowners and hunting and fishing clubs, and co-operates closely with the police, Norwegian Nature Inspectorate and the Norwegian Coast Guard.</p>
-    <p>The Norwegian Environment Agency is responsible for regulating fishing in rivers and the sea and develops regulations for salmon and sea trout fishing.</p>
-    <p>The county authorities are responsible for freshwater fishing of non-threatened fish stocks. The county authorities are also responsible for the allocation of fish farming licences.</p>
-    <list>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-      <p type="listitem" xml:lang="nno"/>
-    </list>
-    <p type="title" xml:lang="est">Links</p>
-    <list>
-      <p type="listitem" xml:lang="nno">Miljødirektoratet: friluftsliv</p>
-      <p type="listitem" xml:lang="nno">Miljøstatus: friluftsliv</p>
-      <p type="listitem" xml:lang="isl">Friluftslova</p>
-      <p type="listitem" xml:lang="nno">Miljøkommune: friluftsliv</p>
-      <p type="listitem" xml:lang="nno">Jakt- og fangsttider</p>
-    </list>
-    <p type="title">Forms</p>
-    <list>
-      <p type="listitem" xml:lang="nob">Sikring av friluftsområder</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>494</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/Climate-and-the-environment/Outdoor-recreation/</origFileName><parallel_text xml:lang="nob" location="index_43.html"/><parallel_text xml:lang="sma" location="index_43.html"/><parallel_text xml:lang="sme" location="index_43.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Recreation - County Governor - Fylkesmannen.no</p>
+<p>Jump to content</p>
+<p xml:lang="nno">County Governor - Fylkesmannen.no</p>
+<list><p type="listitem">Sound version</p>
+<p type="listitem">High contrast</p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
+<p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
+<p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
+<p type="listitem" xml:lang="smj">Davvisámegiella</p>
+<p type="listitem" xml:lang="sma">Åarjelsaemiengiele</p>
+</list></p>
+</list><p type="title" xml:lang="dan">Miljø og klima</p>
+<list><p type="listitem">People and society</p>
+<p type="listitem">Nursery schools and education</p>
+<p type="listitem">Children and parents</p>
+<p type="listitem">Health, care and social services</p>
+</list><list><p type="listitem">Agriculture and food</p>
+<p type="listitem">Municipal administration</p>
+<p type="listitem">Planning and building</p>
+<p type="listitem">Civil protection</p>
+</list><p xml:lang="nob">County Governor</p>
+<p>Climate and the environment</p>
+<p>Outdoor recreation</p>
+<list><p type="listitem" xml:lang="ron">Climate</p>
+<p type="listitem">Fish farming</p>
+<p type="listitem">Large predators</p>
+<p type="listitem">Natural diversity</p>
+<p type="listitem">Offroad motor traffic</p>
+<p type="listitem">Outdoor recreation</p>
+<p type="listitem">Pollution</p>
+<p type="listitem">Protected areas</p>
+<p type="listitem">The freshwater fish administration</p>
+<p type="listitem">Waste and recycling</p>
+<p type="listitem">Water resources</p>
+</list><p type="title">Outdoor recreation</p>
+<p xml:lang="est">Published 10/14/2012 Updated 4/4/2017</p>
+<p>Everyone should have opportunities for outdoor recreation in nature as well as in their local area, including opportunities for walking, picking berries, foraging for mushrooms and hunting and fishing. Facilitating good outdoor recreational facilities is an important measure for improving public health.</p>
+<p>The County Governor must safeguard national outdoor recreation interests associated with beaches, waterways and mountain areas. The County Governor is a regional representative of the state in its capacity as a landowner of protected outdoor recreation areas.</p>
+<p>The County Governor, county authorities and municipalities must all give consideration to the general public’s opportunities for outdoor recreation when handling cases that relate to land use. The county authorities may give funding to measures that encourage people to enjoy the outdoors and that safeguard and cultivate areas for outdoor recreation.</p>
+<p type="title">Hunting and fishing</p>
+<p>All game is protected unless otherwise stated by law or by special resolution. The Norwegian Environment Agency is responsible for determining the hunting season for different species, but municipalities may extend or shorten the season for individual species. In protected areas, special rules for hunting may apply, or there may be a hunting ban in place. The municipalities are the government authority responsible for the management of the majority of harvestable game species. The county authorities offer guidance to the municipalities regarding all harvestable species, with the exception of wild reindeer. The County Governor is the appeals body.</p>
+<p>The County Governor is responsible for the management of salmon and sea trout populations, as well as vulnerable stocks of freshwater fish. The County Governor is also responsible for all fish species with regard to regulation of the waterways. The County Governor collects catch statistics from salmon and sea trout fishing, records marine salmon fishing participation and awards grants from the state fish fund. Monitoring is crucial in order to be able to safeguard and boost fish stocks. The County Governor is in close contact with landowners and hunting and fishing clubs, and co-operates closely with the police, Norwegian Nature Inspectorate and the Norwegian Coast Guard.</p>
+<p>The Norwegian Environment Agency is responsible for regulating fishing in rivers and the sea and develops regulations for salmon and sea trout fishing.</p>
+<p>The county authorities are responsible for freshwater fishing of non-threatened fish stocks. The county authorities are also responsible for the allocation of fish farming licences.</p>
+<list><p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+<p type="listitem" xml:lang="swe"/>
+</list><p type="title" xml:lang="est">Links</p>
+<list><p type="listitem" xml:lang="nno">Miljødirektoratet: friluftsliv</p>
+<p type="listitem" xml:lang="nno">Miljøstatus: friluftsliv</p>
+<p type="listitem" xml:lang="isl">Friluftslova</p>
+<p type="listitem" xml:lang="nno">Miljøkommune: friluftsliv</p>
+<p type="listitem" xml:lang="nno">Jakt- og fangsttider</p>
+</list><p type="title">Forms</p>
+<list><p type="listitem" xml:lang="nob">Sikring av friluftsområder</p>
+</list></body></document>

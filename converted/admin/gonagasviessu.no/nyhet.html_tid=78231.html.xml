@@ -1,50 +1,24 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>State Visit in Tromsø  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>479</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=78231</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=78180.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=78185_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="nob">State Visit in Tromsø</p>
-    <p>On the final day of the State Visit from Canada, Their Majesties The King and Queen travelled with the Governor General of Canada Michaëlle Jean and her husband, Mr Jean-Daniel Lafond, to Tromsø.</p>
-    <p xml:lang="koi">04.05.2009</p>
-    <p>Here they were given a tour through the city centre before attending a Government-hosted luncheon and cultural seminar at the University of Tromsø.</p>
-    <p type="title">Walking tour through the city centre</p>
-    <p>The visit to Tromsø began with a one-hour walking tour through the city centre. Stands and booths had been set up along the route, and many children were given time off from school for the occasion.</p>
-    <p>During the walk, The King and Queen and the Governor General and her husband had a chance to sample king crab and other Norwegian seafood as well as local products such goat cheese from Balsfjord. Local sports groups and school bands provided entertainment along the route, and aspiring filmmakers from the youth centre Tvibit discussed the topic of film with Jean-Daniel Lafond.</p>
-    <p type="title">Government-hosted luncheon</p>
-    <p>The Minister of Fisheries and Coastal Affairs Helga Pedersen hosted a luncheon on behalf of the Norwegian Government. In her speech Minister Pedersen commented on the many similarities between Canada and Norway with regard to the management of ocean resources as well as cooperation on polar research and environmental protection in the northern latitudes.</p>
-    <p type="title">Situation of indigenous peoples</p>
-    <p>The State Visit to Tromsø concluded at Árnda, the University of Tromsøs Sámi Cultural House, where the topic of indigenous peoples in Norway and Canada was the days focus. Governor General Michaëlle Jean expressed her interest in learning from the Sámi people in Norway and how their experience can be applied to the rights of the Inuit people in Canada and the efforts involved with the self-governing Inuit territory of Nunavut.</p>
-    <p type="title">Wednesday activities</p>
-    <p>On Wednesday, the Governor General of Canada had a busy schedule of activities. Her day began at the opera house at Bjørvika, where she took part in a seminar on how industry can help to develop solutions to climate change in the north. The seminar was followed by a guided tour of the opera house.</p>
-    <p>Later on The King and The Crown Prince and Crown Princess accompanied the Governor General to the Intercultural Museum for a guided tour of the exhibition entitled Our sacred space. In the afternoon they attended a debate on the role of the artist in the local community at Litteraturhuset.</p>
-    <p>The Queen accompanied Mr Lafond on a parallel programme to the Astrup Fearnley Museum of Modern Art and Cinemateket in Oslo.</p>
-    <p>The evening concluded with an event in which The King and Queen, The Crown Prince and Crown Princess, and Princess Astrid were invited to join the Governor General as her guests at Dansens hus.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem" xml:lang="nno">State Visit from Canada (News article)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>State Visit in Tromsø  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>474</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=78231</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=78180.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=78185_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="nob">State Visit in Tromsø</p>
+<p>On the final day of the State Visit from Canada, Their Majesties The King and Queen travelled with the Governor General of Canada Michaëlle Jean and her husband, Mr Jean-Daniel Lafond, to Tromsø.</p>
+<p xml:lang="vep">04.05.2009</p>
+<p>Here they were given a tour through the city centre before attending a Government-hosted luncheon and cultural seminar at the University of Tromsø.</p>
+<p type="title">Walking tour through the city centre</p>
+<p>The visit to Tromsø began with a one-hour walking tour through the city centre. Stands and booths had been set up along the route, and many children were given time off from school for the occasion.</p>
+<p>During the walk, The King and Queen and the Governor General and her husband had a chance to sample king crab and other Norwegian seafood as well as local products such goat cheese from Balsfjord. Local sports groups and school bands provided entertainment along the route, and aspiring filmmakers from the youth centre Tvibit discussed the topic of film with Jean-Daniel Lafond.</p>
+<p type="title">Government-hosted luncheon</p>
+<p>The Minister of Fisheries and Coastal Affairs Helga Pedersen hosted a luncheon on behalf of the Norwegian Government. In her speech Minister Pedersen commented on the many similarities between Canada and Norway with regard to the management of ocean resources as well as cooperation on polar research and environmental protection in the northern latitudes.</p>
+<p type="title">Situation of indigenous peoples</p>
+<p>The State Visit to Tromsø concluded at Árnda, the University of Tromsøs Sámi Cultural House, where the topic of indigenous peoples in Norway and Canada was the days focus. Governor General Michaëlle Jean expressed her interest in learning from the Sámi people in Norway and how their experience can be applied to the rights of the Inuit people in Canada and the efforts involved with the self-governing Inuit territory of Nunavut.</p>
+<p type="title">Wednesday activities</p>
+<p>On Wednesday, the Governor General of Canada had a busy schedule of activities. Her day began at the opera house at Bjørvika, where she took part in a seminar on how industry can help to develop solutions to climate change in the north. The seminar was followed by a guided tour of the opera house.</p>
+<p>Later on The King and The Crown Prince and Crown Princess accompanied the Governor General to the Intercultural Museum for a guided tour of the exhibition entitled Our sacred space. In the afternoon they attended a debate on the role of the artist in the local community at Litteraturhuset.</p>
+<p>The Queen accompanied Mr Lafond on a parallel programme to the Astrup Fearnley Museum of Modern Art and Cinemateket in Oslo.</p>
+<p>The evening concluded with an event in which The King and Queen, The Crown Prince and Crown Princess, and Princess Astrid were invited to join the Governor General as her guests at Dansens hus.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">State Visit from Canada (News article)</p>
+</list></body></document>

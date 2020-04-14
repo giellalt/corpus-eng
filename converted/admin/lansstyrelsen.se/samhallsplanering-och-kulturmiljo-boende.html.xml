@@ -1,62 +1,31 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>198</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/boende/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-boende.html"/>
-    <parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-boende.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Housing - Länsstyrelsen i Dalarna</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Housing</p>
-    <p>Photo: Nader Ghassemi</p>
-    <p><em type="bold">The County Administrative Board deals with government grants and subsidies for the construction of retirement homes and sheltered housing, radon reduction in small homes, and energy subsidies for residential housing and certain premises. The County Administrative Board collects information and performs analyses of the county's housing market in particular to support the work of the municipal authorities to plan their housing provision. </em></p>
-    <p type="title">The work includes</p>
-    <list>
-      <p type="listitem">informing and taking decisions on the government subsidies and grants</p>
-      <p type="listitem">assisting the municipal authorities, with advice, information and support, in planning their housing provision.</p>
-      <p type="listitem">conducting annual housing market surveys together with the Swedish Board of Housing, Building and Planning</p>
-      <p type="listitem">analyzing and reporting on the work of the municipal authorities with housing provision</p>
-      <p type="listitem">recognizing and assessing the dividends from public housing companies</p>
-      <p type="listitem">conducting an annual analysis and summary of the situation in the housing market in the county</p>
-    </list>
-    <p type="title">Contact us</p>
-    <p>County Administrative Board of Dalarna</p>
-    <p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
-    <p>Send message</p>
-    <p>Hide form</p>
-    <p>Your email address (optional)</p>
-    <p>Send a copy of the message to the email address specified</p>
-    <p>Message</p>
-    <p>Enter the code below to send your message</p>
-    <p>Generate new image</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>198</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/boende/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-boende.html"/><parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-boende.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Housing - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Housing</p>
+<p>Photo: Nader Ghassemi</p>
+<p><em type="bold">The County Administrative Board deals with government grants and subsidies for the construction of retirement homes and sheltered housing, radon reduction in small homes, and energy subsidies for residential housing and certain premises. The County Administrative Board collects information and performs analyses of the county's housing market in particular to support the work of the municipal authorities to plan their housing provision. </em></p>
+<p type="title">The work includes</p>
+<list><p type="listitem">informing and taking decisions on the government subsidies and grants</p>
+<p type="listitem">assisting the municipal authorities, with advice, information and support, in planning their housing provision.</p>
+<p type="listitem">conducting annual housing market surveys together with the Swedish Board of Housing, Building and Planning</p>
+<p type="listitem">analyzing and reporting on the work of the municipal authorities with housing provision</p>
+<p type="listitem">recognizing and assessing the dividends from public housing companies</p>
+<p type="listitem">conducting an annual analysis and summary of the situation in the housing market in the county</p>
+</list><p type="title">Contact us</p>
+<p>County Administrative Board of Dalarna</p>
+<p xml:lang="swe">dalarna snabela lansstyrelsen punkt se¤dalarna snabela lansstyrelsen punkt se</p>
+<p>Send message</p>
+<p>Hide form</p>
+<p>Your email address (optional)</p>
+<p>Send a copy of the message to the email address specified</p>
+<p>Message</p>
+<p>Enter the code below to send your message</p>
+<p>Generate new image</p>
+</body></document>

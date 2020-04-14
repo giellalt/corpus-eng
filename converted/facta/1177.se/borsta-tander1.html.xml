@@ -1,56 +1,22 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>354</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Tander/Borsta-tander1</origFileName>
-    <parallel_text xml:lang="fin" location="borsta-tander1.html"/>
-    <parallel_text xml:lang="rus" location="borsta-tander1.html"/>
-    <parallel_text xml:lang="swe" location="borsta-tander.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Brushing teeth / Borsta tänder - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title" xml:lang="swe">Brushing teethBorsta tänder</p>
-    <p xml:lang="swe"></p>
-    <p type="title">Tips and advice</p>
-    <list>
-      <p type="listitem">Angle the toothbrush so that the top bristles reach the edge of the gums. Use small, gentle movements.</p>
-      <p type="listitem">Hold the hand grip straight out when brushing the inside of the front teeth.</p>
-    </list>
-    <p type="title">Twice a day</p>
-    <p>Bacteria in the mouth can cause both dental cavities and gingivitis. Thus, it is a good idea to make it a habit to brush teeth twice a day, after breakfast and before bedtime. Use a soft, compact toothbrush and apply a two centimetre long line of toothpaste. It is important that the toothpaste contains fluoride, which strengthens the teeth.</p>
-    <p type="title">Start at the very back</p>
-    <p>We often brush more intensely at the beginning therefore, start with the areas most difficult to reach, such as the very back of the lower jaw.</p>
-    <p type="title">Brush correctly</p>
-    <p>Bacterial plaque mainly exists at the gum line and between the teeth:</p>
-    <p>Angle the toothbrush so that the top bristles reach the edge of the gums. Move the toothbrush from side to side, tooth by tooth, with very small, gentle strokes. Make sure to brush the inside, the outside and the chewing surfaces.</p>
-    <p type="title">Swill the toothpaste between the teeth</p>
-    <p>The fluoride has more effect if you swill the toothpaste between the teeth and rinse the mouth out afterwards with only a small amount of water.</p>
-    <p type="title">Electric toothbrushes</p>
-    <p>Only one type of electrical toothbrush has been proved to be more efficient in removing bacterial plaque, than a normal toothbrush. It has a round head moving in semicircles (oscillating). Adjust the pressure of the brush against the surface of the teeth and move the brush the same way you would a normal toothbrush. Let a dentist or dental hygienist guide you to the brush most suitable for your needs.</p>
-    <p type="title">Dental floss and toothpicks are also required</p>
-    <p>It is also a good idea to clean between your teeth once a day with the help of dental floss, toothpicks or an inter dental brush. You should preferably floss before brushing your teeth.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>345</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Tander/Borsta-tander1</origFileName><parallel_text xml:lang="fin" location="borsta-tander1.html"/><parallel_text xml:lang="rus" location="borsta-tander1.html"/><parallel_text xml:lang="swe" location="borsta-tander.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Brushing teeth / Borsta tänder - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Brushing teethBorsta tänder</p>
+<p xml:lang="swe"></p>
+<p type="title">Tips and advice</p>
+<list><p type="listitem">Angle the toothbrush so that the top bristles reach the edge of the gums. Use small, gentle movements.</p>
+<p type="listitem">Hold the hand grip straight out when brushing the inside of the front teeth.</p>
+</list><p type="title">Twice a day</p>
+<p>Bacteria in the mouth can cause both dental cavities and gingivitis. Thus, it is a good idea to make it a habit to brush teeth twice a day, after breakfast and before bedtime. Use a soft, compact toothbrush and apply a two centimetre long line of toothpaste. It is important that the toothpaste contains fluoride, which strengthens the teeth.</p>
+<p type="title">Start at the very back</p>
+<p>We often brush more intensely at the beginning therefore, start with the areas most difficult to reach, such as the very back of the lower jaw.</p>
+<p type="title">Brush correctly</p>
+<p>Bacterial plaque mainly exists at the gum line and between the teeth:</p>
+<p>Angle the toothbrush so that the top bristles reach the edge of the gums. Move the toothbrush from side to side, tooth by tooth, with very small, gentle strokes. Make sure to brush the inside, the outside and the chewing surfaces.</p>
+<p type="title">Swill the toothpaste between the teeth</p>
+<p>The fluoride has more effect if you swill the toothpaste between the teeth and rinse the mouth out afterwards with only a small amount of water.</p>
+<p type="title">Electric toothbrushes</p>
+<p>Only one type of electrical toothbrush has been proved to be more efficient in removing bacterial plaque, than a normal toothbrush. It has a round head moving in semicircles (oscillating). Adjust the pressure of the brush against the surface of the teeth and move the brush the same way you would a normal toothbrush. Let a dentist or dental hygienist guide you to the brush most suitable for your needs.</p>
+<p type="title">Dental floss and toothpicks are also required</p>
+<p>It is also a good idea to clean between your teeth once a day with the help of dental floss, toothpicks or an inter dental brush. You should preferably floss before brushing your teeth.</p>
+</body></document>

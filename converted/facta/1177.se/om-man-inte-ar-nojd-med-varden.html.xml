@@ -1,104 +1,59 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1439</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="eng"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-varden</origFileName>
-    <parallel_text xml:lang="fin" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="sma" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="smj" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text xml:lang="swe" location="om-man-inte-ar-nojd-med-varden.html"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rka"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmn"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmu"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="yid"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">If you are unhappy with your healthcare / Om man inte är nöjd med vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">EnglishEngelska</p>
-    <list>
-      <p type="listitem">Back to the start page for this theme</p>
-    </list>
-    <p type="title">If you are unhappy with your healthcareOm man inte är nöjd med vården</p>
-    <p xml:lang="swe"></p>
-    <p type="title">What are the rules?</p>
-    <p type="title">You have the right to complain</p>
-    <p>As a patient within the healthcare sector, you have the right to be treated with respect and to receive comprehensible information about your health status and about the check-ups and procedures that are proposed. You also have the right to high quality care.</p>
-    <p>If you are unhappy with the care you have received, or with the way people have treated you, then you have the right to file a complaint. Your complaint may regard anything from smaller problems to serious situations that resulted in chronic injury or death. You can also file a complaint that is intended to improve the service.</p>
-    <p>There are several different authorities with which you can file a complaint. It might be a good idea to ask for a written reply when filing a complaint, so that you can take your time to read the reply and avoid misunderstandings.</p>
-    <p type="title">Complain directly to the healthcare staff</p>
-    <p>It is a good idea to first turn to the physician or other healthcare worker who carried out the check-ups and procedures. Misunderstandings and other ambiguities can often be resolved this way, and it will reduce the risk of it happening again. You can also always contact the manager at the healthcare unit where you received your healthcare service, for example the senior administrator at an orthopaedic clinic.</p>
-    <p>When it comes to municipal healthcare, such as home nursing, you can contact the municipality’s primary nurse.</p>
-    <p>The healthcare run by the county council and the healthcare run by the municipality differs in different parts of the country. You can ask your municipality or county council about who is responsible for the services. The municipality will usually be in charge of simpler home nursing, while the county council is in charge of more advanced healthcare services in the home.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">The Patients’ Advisory Committee</p>
-    <p type="title">Receives complaints</p>
-    <p>The Patients’ Advisory Committee is an authority that you can contact to express your views on the service you received. The Committee is to contribute to increased patient safety in the healthcare sector.</p>
-    <p>The Committee is to be available in every county council, in order to receive complaints and criticism regarding treatment, diagnosis, medication, fees, secrecy and the health care guarantee. The Committee consists of politicians, while the administration is handled by civil servants. Both the politicians in the Committee and the civil servants are sworn to secrecy.</p>
-    <p>The Patients’ Advisory Committee is independent of the healthcare sector, and there are no costs associated with filing a complaints with the Committee.</p>
-    <p>In addition to healthcare, the Committee also supervises dental care run by the county council and private dental care that is partly or fully funded by the county council.</p>
-    <p>Furthermore, healthcare run or contracted by municipalities, as well as public care in accordance with the Social Services Act, is also supervised by the Committee.</p>
-    <p>The Patients’ Advisory Committee can assist with, for example:</p>
-    <list>
-      <p type="listitem">information needed in order to see to one’s interests in the healthcare sector</p>
-      <p type="listitem">contacts with healthcare workers</p>
-      <p type="listitem">finding the right government agency</p>
-      <p type="listitem">reporting findings and discrepancies to healthcare providers and clinics.</p>
-    </list>
-    <p type="title">Both verbal and written complaints are investigated</p>
-    <p>You can submit your complaints to the Patients’ Advisory Committee by phone or in writing. The civil servants make sure that the complaints are looked into, or that the right authority is informed.</p>
-    <p>The Patients’ Advisory Committee does not have the authority to decide whether the healthcare staff has acted incorrectly, as this is a matter for the head of operations or for government agencies such as the National Board of Health and Welfare.</p>
-    <p>Contact information for the Patients’ Advisory Committee is available at your healthcare provider and on the county councils’ websites.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">The National Board of Health and Welfare</p>
-    <p type="title">Oversees quality and safety</p>
-    <p>The National Board of Health and Welfare is a supervisory authority for the healthcare sector that works to promote patient safety, prevent injuries and reduce risks associated with healthcare services. The National Board of Health and Welfare is to focus on the underlying causes of an incident, known as system errors, and on possible ways of ensuring that the incident does not happen again.</p>
-    <p>You can report an incident or individual healthcare workers to the National Board of Health and Welfare. In the report, you do not have to state who is/are responsible for the incident. All healthcare personnel, regardless of whether they work for a municipality, a county council or a private healthcare provider, can be reported.</p>
-    <p>The complaints may also regard criticism of the organization or general shortcomings related to patient safety that need to be corrected. All complaints are to be investigated, regardless of their nature. You do not have to know who has acted incorrectly or what part of the treatment went wrong. It is enough to report the incident as a whole.</p>
-    <p>The National Board of Health and Welfare can direct criticism towards an organization, such as a county council, or individual healthcare workers. The Board may do this even without a complaint from a patient or a patient’s relative. Furthermore, the National Board of Health and Welfare can also issue directions that other organizations must follow, if deemed necessary for patient safety. The National Board of Health and Welfare can also decide to hand a case over to the Patients’ Advisory Committee. Rulings by the National Board of Health and Welfare cannot be appealed.</p>
-    <p>Reports of incidents that might be criminal are handed over the the police. Examples of such cases are healthcare workers being accused of assault or sexual assault.</p>
-    <p>Complaints to the Board, as well as decisions by the Board, are public documents that everyone may read. However, medical records and similar documents that are part of the investigation are confidential.</p>
-    <p type="title">Follow-up of Lex Maria reports</p>
-    <p>The National Board of Health and Welfare administrates Lex Maria reports, which are filed by healthcare providers themselves in the event of serious incidents. A Lex Maria report is to be investigated in order to safeguard patient safety. After this investigation, the Board can choose to report individual healthcare workers to the Disciplinary Board of Healthcare and Medical Treatment, HSAN.</p>
-    <p type="title">The Disciplinary Board of Healthcare and Medical Treatment</p>
-    <p>It is only the National Board of Health and Welfare, the Parliamentary Ombudsmen and the Office of the Chancellor of Justice that can file complaints with the Disciplinary Board of Healthcare and Medical Treatment, the HSAN. Complaints are to be filed if protective measures are deemed necessary, which would involve putting a halt to potentially dangerous routines or working methods. The HSAN can investigate and decide on</p>
-    <list>
-      <p type="listitem">revoking a physician’s or nurse’s medical license if he or she has neglected their duties</p>
-      <p type="listitem">a probation period, during which a physician or nurse is under supervision for up to three years, and for which a special plan is set up</p>
-      <p type="listitem">limiting or revoking a physician’s right to prescribe medication.</p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title">Other ways of complaining</p>
-    <p type="title">The police, patients’ associations and politicians</p>
-    <p>If you believe that a crime has been committed within the healthcare sector, then you can report the incident to the police. This might regard, for example, manslaughter. In Sweden, it is very unusual that such reports result in a prosecution or a conviction, since the legislation requires intent or gross negligence in order for the incident to be considered a crime.</p>
-    <p>Patients’ associations can sometimes assist with the administration of complaints. In some cases, they can assess which authority would be the best to file a complaint with, and they can also help write the complaint.</p>
-    <p>The Equality Ombudsman, the DO, is an authority that combats discrimination. If you believe that you have been treated unfavourably because of your gender, gender identity or expression, age, ethnicity, religion or other belief, disability or sexual orientation, then you can report this to the DO.</p>
-    <p>Furthermore, it is always possible to complain to politicians that are in charge of healthcare policies in a municipality or county council.</p>
-    <p xml:lang="swe"></p>
-    <p type="title">The Patients’ Ombudsmen</p>
-    <p>Some county councils have patients’ ombudsmen, which are sometimes also called patients’ representatives or patients’ guides.</p>
-    <p>A patient can contact them if they, for example, believe that they were treated poorly or if they are dissatisfied with the healthcare service. The patients’ ombudsmen can assist with and help forward the case if you are unhappy with the response you received when you complained directly to the healthcare workers.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1430</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-varden</origFileName><parallel_text xml:lang="fin" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="sma" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="smj" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text xml:lang="swe" location="om-man-inte-ar-nojd-med-varden.html"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rka"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmn"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmu"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="yid"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rlo"/><parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">If you are unhappy with your healthcare / Om man inte är nöjd med vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">If you are unhappy with your healthcareOm man inte är nöjd med vården</p>
+<p xml:lang="swe"></p>
+<p type="title">What are the rules?</p>
+<p type="title">You have the right to complain</p>
+<p>As a patient within the healthcare sector, you have the right to be treated with respect and to receive comprehensible information about your health status and about the check-ups and procedures that are proposed. You also have the right to high quality care.</p>
+<p>If you are unhappy with the care you have received, or with the way people have treated you, then you have the right to file a complaint. Your complaint may regard anything from smaller problems to serious situations that resulted in chronic injury or death. You can also file a complaint that is intended to improve the service.</p>
+<p>There are several different authorities with which you can file a complaint. It might be a good idea to ask for a written reply when filing a complaint, so that you can take your time to read the reply and avoid misunderstandings.</p>
+<p type="title">Complain directly to the healthcare staff</p>
+<p>It is a good idea to first turn to the physician or other healthcare worker who carried out the check-ups and procedures. Misunderstandings and other ambiguities can often be resolved this way, and it will reduce the risk of it happening again. You can also always contact the manager at the healthcare unit where you received your healthcare service, for example the senior administrator at an orthopaedic clinic.</p>
+<p>When it comes to municipal healthcare, such as home nursing, you can contact the municipality’s primary nurse.</p>
+<p>The healthcare run by the county council and the healthcare run by the municipality differs in different parts of the country. You can ask your municipality or county council about who is responsible for the services. The municipality will usually be in charge of simpler home nursing, while the county council is in charge of more advanced healthcare services in the home.</p>
+<p xml:lang="swe"></p>
+<p type="title">The Patients’ Advisory Committee</p>
+<p type="title">Receives complaints</p>
+<p>The Patients’ Advisory Committee is an authority that you can contact to express your views on the service you received. The Committee is to contribute to increased patient safety in the healthcare sector.</p>
+<p>The Committee is to be available in every county council, in order to receive complaints and criticism regarding treatment, diagnosis, medication, fees, secrecy and the health care guarantee. The Committee consists of politicians, while the administration is handled by civil servants. Both the politicians in the Committee and the civil servants are sworn to secrecy.</p>
+<p>The Patients’ Advisory Committee is independent of the healthcare sector, and there are no costs associated with filing a complaints with the Committee.</p>
+<p>In addition to healthcare, the Committee also supervises dental care run by the county council and private dental care that is partly or fully funded by the county council.</p>
+<p>Furthermore, healthcare run or contracted by municipalities, as well as public care in accordance with the Social Services Act, is also supervised by the Committee.</p>
+<p>The Patients’ Advisory Committee can assist with, for example:</p>
+<list><p type="listitem">information needed in order to see to one’s interests in the healthcare sector</p>
+<p type="listitem">contacts with healthcare workers</p>
+<p type="listitem">finding the right government agency</p>
+<p type="listitem">reporting findings and discrepancies to healthcare providers and clinics.</p>
+</list><p type="title">Both verbal and written complaints are investigated</p>
+<p>You can submit your complaints to the Patients’ Advisory Committee by phone or in writing. The civil servants make sure that the complaints are looked into, or that the right authority is informed.</p>
+<p>The Patients’ Advisory Committee does not have the authority to decide whether the healthcare staff has acted incorrectly, as this is a matter for the head of operations or for government agencies such as the National Board of Health and Welfare.</p>
+<p>Contact information for the Patients’ Advisory Committee is available at your healthcare provider and on the county councils’ websites.</p>
+<p xml:lang="swe"></p>
+<p type="title">The National Board of Health and Welfare</p>
+<p type="title">Oversees quality and safety</p>
+<p>The National Board of Health and Welfare is a supervisory authority for the healthcare sector that works to promote patient safety, prevent injuries and reduce risks associated with healthcare services. The National Board of Health and Welfare is to focus on the underlying causes of an incident, known as system errors, and on possible ways of ensuring that the incident does not happen again.</p>
+<p>You can report an incident or individual healthcare workers to the National Board of Health and Welfare. In the report, you do not have to state who is/are responsible for the incident. All healthcare personnel, regardless of whether they work for a municipality, a county council or a private healthcare provider, can be reported.</p>
+<p>The complaints may also regard criticism of the organization or general shortcomings related to patient safety that need to be corrected. All complaints are to be investigated, regardless of their nature. You do not have to know who has acted incorrectly or what part of the treatment went wrong. It is enough to report the incident as a whole.</p>
+<p>The National Board of Health and Welfare can direct criticism towards an organization, such as a county council, or individual healthcare workers. The Board may do this even without a complaint from a patient or a patient’s relative. Furthermore, the National Board of Health and Welfare can also issue directions that other organizations must follow, if deemed necessary for patient safety. The National Board of Health and Welfare can also decide to hand a case over to the Patients’ Advisory Committee. Rulings by the National Board of Health and Welfare cannot be appealed.</p>
+<p>Reports of incidents that might be criminal are handed over the the police. Examples of such cases are healthcare workers being accused of assault or sexual assault.</p>
+<p>Complaints to the Board, as well as decisions by the Board, are public documents that everyone may read. However, medical records and similar documents that are part of the investigation are confidential.</p>
+<p type="title">Follow-up of Lex Maria reports</p>
+<p>The National Board of Health and Welfare administrates Lex Maria reports, which are filed by healthcare providers themselves in the event of serious incidents. A Lex Maria report is to be investigated in order to safeguard patient safety. After this investigation, the Board can choose to report individual healthcare workers to the Disciplinary Board of Healthcare and Medical Treatment, HSAN.</p>
+<p type="title">The Disciplinary Board of Healthcare and Medical Treatment</p>
+<p>It is only the National Board of Health and Welfare, the Parliamentary Ombudsmen and the Office of the Chancellor of Justice that can file complaints with the Disciplinary Board of Healthcare and Medical Treatment, the HSAN. Complaints are to be filed if protective measures are deemed necessary, which would involve putting a halt to potentially dangerous routines or working methods. The HSAN can investigate and decide on</p>
+<list><p type="listitem">revoking a physician’s or nurse’s medical license if he or she has neglected their duties</p>
+<p type="listitem">a probation period, during which a physician or nurse is under supervision for up to three years, and for which a special plan is set up</p>
+<p type="listitem">limiting or revoking a physician’s right to prescribe medication.</p>
+</list><p xml:lang="swe"></p>
+<p type="title">Other ways of complaining</p>
+<p type="title">The police, patients’ associations and politicians</p>
+<p>If you believe that a crime has been committed within the healthcare sector, then you can report the incident to the police. This might regard, for example, manslaughter. In Sweden, it is very unusual that such reports result in a prosecution or a conviction, since the legislation requires intent or gross negligence in order for the incident to be considered a crime.</p>
+<p>Patients’ associations can sometimes assist with the administration of complaints. In some cases, they can assess which authority would be the best to file a complaint with, and they can also help write the complaint.</p>
+<p>The Equality Ombudsman, the DO, is an authority that combats discrimination. If you believe that you have been treated unfavourably because of your gender, gender identity or expression, age, ethnicity, religion or other belief, disability or sexual orientation, then you can report this to the DO.</p>
+<p>Furthermore, it is always possible to complain to politicians that are in charge of healthcare policies in a municipality or county council.</p>
+<p xml:lang="swe"></p>
+<p type="title">The Patients’ Ombudsmen</p>
+<p>Some county councils have patients’ ombudsmen, which are sometimes also called patients’ representatives or patients’ guides.</p>
+<p>A patient can contact them if they, for example, believe that they were treated poorly or if they are dissatisfied with the healthcare service. The patients’ ombudsmen can assist with and help forward the case if you are unhappy with the response you received when you complained directly to the healthcare workers.</p>
+</body></document>

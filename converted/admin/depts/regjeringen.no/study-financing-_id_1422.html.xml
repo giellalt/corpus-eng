@@ -1,65 +1,25 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Oahppodoarjja - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Ministry of Education and Research" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2008</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>545</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/en/dep/kd/Selected-topics/study-financing-.html?id=1422</origFileName>
-    <parallel_text xml:lang="nob" location="utdanningsfinansering_id_1422.html"/>
-    <parallel_text xml:lang="sme" location="oahppodoarjja_id_1422.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Educational support - regjeringen.no</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p type="title">Educational support</p>
-    <p><em type="italic">The objective of the educational support is: </em></p>
-    <list>
-      <p type="listitem">to remove inequality and to promote equal opportunities so that the pursuit of education is possible regardless of geographical conditions, age, sex and economical and social positions</p>
-      <p type="listitem">to ensure that students may freely choose their education</p>
-      <p type="listitem">to ensure a steady supply of educated labour</p>
-    </list>
-    <p><em type="italic">The Ministry of Education and Research </em>provides the regulations regarding educational support. The regulations on educational support are revised every year. Also regulations on repayment of educational loans are revised every year. The regulations on educational support are established in the spring and are valid for the coming academic year, while the regulations on interest on and repayment of educational loans are established for one calendar year at the time. </p>
-    <p><em type="italic">The State Educational Loan Fund </em>(Lånekassen) administers the grants and loans in accordance with the aforementioned regulations. As a general rule, enquiries regarding types of support, amounts etc. should be directed to the Loan Fund. </p>
-    <p>There are <em type="italic">two main support schemes </em>: One for pupils in ordinary upper secondary education, and one for students in higher education and some other types of education (for instance secondary education for adults, vocational education, folk high school). As a main rule, educational loans are interest-free during the period of education. </p>
-    <p><em type="italic">The main types of educational support are grants and loans. Support is awarded to: </em></p>
-    <list>
-      <p type="listitem">Educational programmes in Norway that are approved by a law on education</p>
-      <p type="listitem">Educational programmes in Nordic countries that are publicly approved in the country, and covered by the country’s educational support schemes</p>
-      <p type="listitem">Education outside the Nordic countries (on certain conditions)</p>
-      <p type="listitem">For pupils in ordinary <em type="italic">upper secondary education </em>, support is mainly awarded through grants. Such grants are means-tested against the parents’ income and against the pupil’s income from apprenticeship or social benefits. Grants that are not means-tested may be awarded for living expenses, travel, and necessary educational equipment. </p>
-    </list>
-    <p>Students in <em type="italic">higher education </em>are awarded a fixed amount as a loan. For students who do not reside with their parents, part of the loan may be converted to a grant upon completion of the education. The grant is means-tested against the student’s income or social benefits. Grants may also be awarded for travel and for providing for children, and loans may be granted for tuition fees. </p>
-    <p><em type="italic">For education outside the Nordic countries </em>, a separate set of rules applies regarding support for tuition fees and travel. </p>
-    <p xml:lang="nob"><em type="italic">Limited time </em></p>
-    <p>The student may be awarded support for his/her education for only a limited number of years. For upper secondary education, support may be awarded during the period the pupil has the legal right to education on this level. This right is normally used within three years. For students in higher education, support may be awarded for a total period of up to eight years (the period may be extended for certain groups). Students may be delayed in their education for up to one year without losing the right to educational support.</p>
-    <p>There are also schemes whereby <em type="italic">all support may be awarded as grants </em>during certain periods. These include periods after birth/adoption, periods when the student is unable to study due to illness, and for refugees who take upper secondary education. </p>
-    <p>More information is found on</p>
-    <list>
-      <p type="listitem"><em type="italic">The State Educational Loan Fund </em></p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Oahppodoarjja - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Ministry of Education and Research" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2008</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>545</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/en/dep/kd/Selected-topics/study-financing-.html?id=1422</origFileName><parallel_text xml:lang="nob" location="utdanningsfinansering_id_1422.html"/><parallel_text xml:lang="sme" location="oahppodoarjja_id_1422.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Educational support - regjeringen.no</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Educational support</p>
+<p><em type="italic">The objective of the educational support is: </em></p>
+<list><p type="listitem">to remove inequality and to promote equal opportunities so that the pursuit of education is possible regardless of geographical conditions, age, sex and economical and social positions</p>
+<p type="listitem">to ensure that students may freely choose their education</p>
+<p type="listitem">to ensure a steady supply of educated labour</p>
+</list><p><em type="italic">The Ministry of Education and Research </em>provides the regulations regarding educational support. The regulations on educational support are revised every year. Also regulations on repayment of educational loans are revised every year. The regulations on educational support are established in the spring and are valid for the coming academic year, while the regulations on interest on and repayment of educational loans are established for one calendar year at the time. </p>
+<p><em type="italic">The State Educational Loan Fund </em>(Lånekassen) administers the grants and loans in accordance with the aforementioned regulations. As a general rule, enquiries regarding types of support, amounts etc. should be directed to the Loan Fund. </p>
+<p>There are <em type="italic">two main support schemes </em>: One for pupils in ordinary upper secondary education, and one for students in higher education and some other types of education (for instance secondary education for adults, vocational education, folk high school). As a main rule, educational loans are interest-free during the period of education. </p>
+<p><em type="italic">The main types of educational support are grants and loans. Support is awarded to: </em></p>
+<list><p type="listitem">Educational programmes in Norway that are approved by a law on education</p>
+<p type="listitem">Educational programmes in Nordic countries that are publicly approved in the country, and covered by the country’s educational support schemes</p>
+<p type="listitem">Education outside the Nordic countries (on certain conditions)</p>
+<p type="listitem">For pupils in ordinary <em type="italic">upper secondary education </em>, support is mainly awarded through grants. Such grants are means-tested against the parents’ income and against the pupil’s income from apprenticeship or social benefits. Grants that are not means-tested may be awarded for living expenses, travel, and necessary educational equipment. </p>
+</list><p>Students in <em type="italic">higher education </em>are awarded a fixed amount as a loan. For students who do not reside with their parents, part of the loan may be converted to a grant upon completion of the education. The grant is means-tested against the student’s income or social benefits. Grants may also be awarded for travel and for providing for children, and loans may be granted for tuition fees. </p>
+<p><em type="italic">For education outside the Nordic countries </em>, a separate set of rules applies regarding support for tuition fees and travel. </p>
+<p xml:lang="nob"><em type="italic">Limited time </em></p>
+<p>The student may be awarded support for his/her education for only a limited number of years. For upper secondary education, support may be awarded during the period the pupil has the legal right to education on this level. This right is normally used within three years. For students in higher education, support may be awarded for a total period of up to eight years (the period may be extended for certain groups). Students may be delayed in their education for up to one year without losing the right to educational support.</p>
+<p>There are also schemes whereby <em type="italic">all support may be awarded as grants </em>during certain periods. These include periods after birth/adoption, periods when the student is unable to study due to illness, and for refugees who take upper secondary education. </p>
+<p>More information is found on</p>
+<list><p type="listitem"><em type="italic">The State Educational Loan Fund </em></p>
+</list></body></document>

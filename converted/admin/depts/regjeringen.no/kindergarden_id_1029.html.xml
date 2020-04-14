@@ -1,55 +1,21 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Mánáidgárddit - regjeringen.no</title>
-    <genre code="admin"/>
-    <author>
-      <person firstname="" lastname="Ministry of Education and Research" sex="unknown" born="" nationality=""/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="nob"/>
-    <year>2007</year>
-    <publChannel>
-      <publication>
-        <publisher>regjeringen.no</publisher>
-      </publication>
-    </publChannel>
-    <wordcount>279</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="" email="divvun@samediggi.no"/>
-    <multilingual/>
-    <origFileName>http://regjeringen.no/en/dep/kd/Selected-topics/kindergarden.html?id=1029</origFileName>
-    <parallel_text xml:lang="nob" location="barnehager_id_1029.html"/>
-    <parallel_text xml:lang="sme" location="manaidgarddit_id_1029.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Kindergarten - regjeringen.no</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="deu">Kindergarten</p>
-    <p>The Government’s objective for its kindergarten policy is the provision of kindergarten places of high quality and at a low price. Kindergartens shall provide children with good opportunities for development and activity in close understanding and collaboration with the children's homes.</p>
-    <p>Kindergartens are pedagogical institutions that comprise care, upbringing, play and learning. According to the needs of the families, the kindergartens offer full-time or part-time places. Besides being a good pedagogical institution for children, the kindergartens also take care of children while their parents work or study. The aim to build enough kindergarten and the developing work in the institutions are given top priority by the government.</p>
-    <p>Subscribe to RSS feed</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Factsheet: Quality of Kindergartens</p>
-    <p>For the first time, the government presents a White Paper to the Parliament focusing exclusively on the Quality of Kindergartens in Norway. Three main aims are presented in the White paper : Ensure equity and high quality in all kindergartens, strengthen the kindergarten as a learning area, and that kindergarten should offer all children the possibility to participate in an inclusive community.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Early Childhood Education and Care Policy</p>
-    <p>Kindergartens in Norway are for children aged 0 – 5 years. Children start compulsory school the year they turn six. Parental leave is either 44 weeks with full wages or 54 weeks with 80 per cent wages.</p>
-    <p xml:lang="nno"></p>
-    <p type="title" xml:lang="nob">Kindergarten Act</p>
-    <p>Kindergartens shall provide children under compulsory school age with good opportunities for development and activity in close understanding and collaboration with the children's homes.</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Framework Plan for the Content and Tasks of Kindergartens</p>
-    <p>Ministry of Education and Research laid down regulations which provide a framework plan for the content and tasks of kindergartens.</p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Mánáidgárddit - regjeringen.no</title><genre code="admin"/><author><person firstname="" lastname="Ministry of Education and Research" sex="unknown" born="" nationality=""/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><year>2007</year><publChannel><publication><publisher>regjeringen.no</publisher></publication></publChannel><wordcount>279</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="" email="divvun@samediggi.no"/><multilingual/><origFileName>http://regjeringen.no/en/dep/kd/Selected-topics/kindergarden.html?id=1029</origFileName><parallel_text xml:lang="nob" location="barnehager_id_1029.html"/><parallel_text xml:lang="sme" location="manaidgarddit_id_1029.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Kindergarten - regjeringen.no</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="deu">Kindergarten</p>
+<p>The Government’s objective for its kindergarten policy is the provision of kindergarten places of high quality and at a low price. Kindergartens shall provide children with good opportunities for development and activity in close understanding and collaboration with the children's homes.</p>
+<p>Kindergartens are pedagogical institutions that comprise care, upbringing, play and learning. According to the needs of the families, the kindergartens offer full-time or part-time places. Besides being a good pedagogical institution for children, the kindergartens also take care of children while their parents work or study. The aim to build enough kindergarten and the developing work in the institutions are given top priority by the government.</p>
+<p>Subscribe to RSS feed</p>
+<p xml:lang="swe"></p>
+<p type="title">Factsheet: Quality of Kindergartens</p>
+<p>For the first time, the government presents a White Paper to the Parliament focusing exclusively on the Quality of Kindergartens in Norway. Three main aims are presented in the White paper : Ensure equity and high quality in all kindergartens, strengthen the kindergarten as a learning area, and that kindergarten should offer all children the possibility to participate in an inclusive community.</p>
+<p xml:lang="swe"></p>
+<p type="title">Early Childhood Education and Care Policy</p>
+<p>Kindergartens in Norway are for children aged 0 – 5 years. Children start compulsory school the year they turn six. Parental leave is either 44 weeks with full wages or 54 weeks with 80 per cent wages.</p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="nob">Kindergarten Act</p>
+<p>Kindergartens shall provide children under compulsory school age with good opportunities for development and activity in close understanding and collaboration with the children's homes.</p>
+<p xml:lang="swe"></p>
+<p type="title">Framework Plan for the Content and Tasks of Kindergartens</p>
+<p>Ministry of Education and Research laid down regulations which provide a framework plan for the content and tasks of kindergartens.</p>
+</body></document>

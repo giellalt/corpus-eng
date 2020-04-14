@@ -1,55 +1,29 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Swiss light art and technology  - The Royal House of Norway</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>493</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <license type="standard"/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.royalcourt.no/nyhet.html?tid=88139</origFileName>
-    <parallel_text xml:lang="nob" location="nyhet.html_tid=88121.html"/>
-    <parallel_text xml:lang="sme" location="nyhet.html_tid=88205_sek=74887.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="nob">Hopp til hovedinnhold</p>
-    <p>The Royal House of Norway</p>
-    <p xml:lang="nno"></p>
-    <p type="title">Swiss light art and technology</p>
-    <p>The Palace was illuminated yesterday by Swiss light artist Gerry Hofstetter, during the gala dinner in honour of President Leuthard and Dr Hausin. This morning, the state visit continued with the opening of a seminar on medical technology.</p>
-    <p xml:lang="koi">15.10.2010</p>
-    <p>Their Majesties King Harald and Queen Sonja accompanied President Doris Leuthard and Dr Roland Hausin to Rikshospitalet University Hospital for the opening of the seminar.</p>
-    <p>The seminar was a cooperative effort between MedTech Switzerland and Oslo Medtech to bring together representatives from the health services and medical technology companies. Both President Leuthard and Minister of Health and Care Services Anne-Grete Strøm-Erichsen participated in the opening, which was followed by a presentation of examples of innovative technology, including in the area of insulin administration and laser surgery.</p>
-    <p>King Harald, Queen Sonja, President Leuthard and Dr Hausin attended the first half of the seminar. The King then returned to the Royal Palace to hold the Council of State, while the Queen accompanied the Swiss president and her husband to the Nobel Institute.</p>
-    <p type="title">Spoke at the Nobel Institute</p>
-    <p>The entourage was met at the Nobel Institute by Director Geir Lundestad and Jan Egeland, Director of the Norwegian Institute of International Affairs. After signing the Nobel Institutes guest book, President Leuthard gave a presentation entitled The World is Shifting – Where is the European Continent Heading?. Following the presentation, the Swiss president visited the Office of the Prime Minister, where she met with Prime Minister Jens Stoltenberg. Later in the day President Leuthard also met with Minister of Foreign Affairs Jonas Gahr Støre.</p>
-    <p type="title">Official luncheon</p>
-    <p>Prime Minister Stoltenberg hosted the official luncheon given by the Norwegian Government in honour of President Leuthard and Dr Hausin. King Harald, Queen Sonja, Crown Prince Haakon and Crown Princess Mette-Marit attended the luncheon, which was held in Government House.</p>
-    <p type="title">Concert and reception</p>
-    <p>This evening King Harald, Queen Sonja, Crown Prince Haakon and Crown Princess Mette-Marit will be Switzerlands guests at a reception at the Grand Hotel in Oslo. Switzerlands ambassador to Norway, Mr Denis Feldmeyer, will host the reception, which will be opened with a concert.</p>
-    <p>This will be the final event before President Leuthard and Dr Hausin say their formal farewells to King Harald and Queen Sonja, and the official State Visit is concluded.</p>
-    <p type="title">To share this on Twitter or Facebook:</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p>Facts</p>
-    <p><em type="italic">Facts about the Swiss Confederation </em></p>
-    <p>Capital city: Bern Largest cities: Zürich, Genève, Basel and Bern</p>
-    <p>Total area: 41 284 km² Population in 2010: approximately 7.8 million Official languages: German, French and Italian</p>
-    <p>Form of government: Federal republic Head of state: President Doris Leuthard</p>
-    <p>Diplomatic relations with Norway since 1906.</p>
-    <p>Switzerland is an important partner for Norway in international organisations such as the European Free Trade Association (EFTA) and the World Trade Organization (WTO), in which the two countries cooperate closely on agricultural policy.</p>
-    <p>Source: Norwegian Ministry of Foreign Affairs</p>
-    <p xml:lang="est">Links</p>
-    <list>
-      <p type="listitem">State Visit from Switzerland (News article)</p>
-    </list>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Swiss light art and technology  - The Royal House of Norway</title><genre code="admin"/><author><unknown/></author><wordcount>488</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.royalcourt.no/nyhet.html?tid=88139</origFileName><parallel_text xml:lang="nob" location="nyhet.html_tid=88121.html"/><parallel_text xml:lang="sme" location="nyhet.html_tid=88205_sek=74887.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nob">Hopp til hovedinnhold</p>
+<p xml:lang="swe"></p>
+<p type="title">Swiss light art and technology</p>
+<p>The Palace was illuminated yesterday by Swiss light artist Gerry Hofstetter, during the gala dinner in honour of President Leuthard and Dr Hausin. This morning, the state visit continued with the opening of a seminar on medical technology.</p>
+<p xml:lang="vep">15.10.2010</p>
+<p>Their Majesties King Harald and Queen Sonja accompanied President Doris Leuthard and Dr Roland Hausin to Rikshospitalet University Hospital for the opening of the seminar.</p>
+<p>The seminar was a cooperative effort between MedTech Switzerland and Oslo Medtech to bring together representatives from the health services and medical technology companies. Both President Leuthard and Minister of Health and Care Services Anne-Grete Strøm-Erichsen participated in the opening, which was followed by a presentation of examples of innovative technology, including in the area of insulin administration and laser surgery.</p>
+<p>King Harald, Queen Sonja, President Leuthard and Dr Hausin attended the first half of the seminar. The King then returned to the Royal Palace to hold the Council of State, while the Queen accompanied the Swiss president and her husband to the Nobel Institute.</p>
+<p type="title">Spoke at the Nobel Institute</p>
+<p>The entourage was met at the Nobel Institute by Director Geir Lundestad and Jan Egeland, Director of the Norwegian Institute of International Affairs. After signing the Nobel Institutes guest book, President Leuthard gave a presentation entitled The World is Shifting – Where is the European Continent Heading?. Following the presentation, the Swiss president visited the Office of the Prime Minister, where she met with Prime Minister Jens Stoltenberg. Later in the day President Leuthard also met with Minister of Foreign Affairs Jonas Gahr Støre.</p>
+<p type="title">Official luncheon</p>
+<p>Prime Minister Stoltenberg hosted the official luncheon given by the Norwegian Government in honour of President Leuthard and Dr Hausin. King Harald, Queen Sonja, Crown Prince Haakon and Crown Princess Mette-Marit attended the luncheon, which was held in Government House.</p>
+<p type="title">Concert and reception</p>
+<p>This evening King Harald, Queen Sonja, Crown Prince Haakon and Crown Princess Mette-Marit will be Switzerlands guests at a reception at the Grand Hotel in Oslo. Switzerlands ambassador to Norway, Mr Denis Feldmeyer, will host the reception, which will be opened with a concert.</p>
+<p>This will be the final event before President Leuthard and Dr Hausin say their formal farewells to King Harald and Queen Sonja, and the official State Visit is concluded.</p>
+<p type="title">To share this on Twitter or Facebook:</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p>Facts</p>
+<p><em type="italic">Facts about the Swiss Confederation </em></p>
+<p>Capital city: Bern Largest cities: Zürich, Genève, Basel and Bern</p>
+<p>Total area: 41 284 km² Population in 2010: approximately 7.8 million Official languages: German, French and Italian</p>
+<p>Form of government: Federal republic Head of state: President Doris Leuthard</p>
+<p>Diplomatic relations with Norway since 1906.</p>
+<p>Switzerland is an important partner for Norway in international organisations such as the European Free Trade Association (EFTA) and the World Trade Organization (WTO), in which the two countries cooperate closely on agricultural policy.</p>
+<p>Source: Norwegian Ministry of Foreign Affairs</p>
+<p xml:lang="est">Links</p>
+<list><p type="listitem">State Visit from Switzerland (News article)</p>
+</list></body></document>

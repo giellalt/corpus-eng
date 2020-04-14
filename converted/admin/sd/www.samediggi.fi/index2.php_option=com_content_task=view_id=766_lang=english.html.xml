@@ -1,64 +1,35 @@
-<document xml:lang="eng" id="no_id">
-  <header>
-    <title>Samediggi - Saamelaiskäräjät - Sámi Study materials in internet</title>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="fin"/>
-    <wordcount>46</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <multilingual/>
-    <origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=766&amp;lang=english.html</origFileName>
-    <parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=766_lang=finnish.html"/>
-    <parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=766_lang=davvi.html"/>
-    <parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=766_lang=anaras.html"/>
-    <parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=766_lang=nuortta.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p>Sámi Study materials in internet</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p><em type="italic">satni.org.  </em>Sámi dictionary and terminology portal </p>
-    <p><em type="italic">Sami Grammar - Vocabulary  </em> </p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="sme"><em type="italic">Ovttas.no </em> </p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p xml:lang="sme"><em type="italic">Oktavuohta </em> </p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p xml:lang="sme"><em type="italic">Kotus  </em>Álgu-database </p>
-    <p xml:lang="sme"><em type="bold">E-girji </em></p>
-    <p xml:lang="nno">(e-book)</p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p xml:lang="sme"><em type="italic">E-skuvla.no </em> (e-school) </p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p xml:lang="sme"><em type="bold">The Inari Sámis  </em></p>
-    <p xml:lang="sme"><em type="italic">Skolt Sámi Life </em> </p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p xml:lang="smn"><em type="italic">Maahisweb </em> </p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p xml:lang="est"><em type="italic">Bildetema </em> </p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p> <em type="italic">GIELLATEKNO  </em>Saami language technology pages </p>
-    <p>- Dictionaries</p>
-    <p xml:lang="nno"></p>
-    <p xml:lang="sme"><em type="italic">YLE Sámi radio </em> </p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p xml:lang="sme"><em type="italic">SVT Sápmi </em> </p>
-    <p xml:lang="nno"><em type="bold"></em></p>
-    <p xml:lang="sme"><em type="italic">NRK Sámi radio </em> </p>
-    <p xml:lang="nno"></p>
-  </body>
-</document>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Sámi Study materials in internet</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>46</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=766&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=766_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=766_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=766_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=766_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Sámi Study materials in internet</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p><em type="italic">satni.org.  </em>Sámi dictionary and terminology portal </p>
+<p><em type="italic">Sami Grammar - Vocabulary  </em> </p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p xml:lang="sme"><em type="italic">Ovttas.no </em> </p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p xml:lang="sme"><em type="italic">Oktavuohta </em> </p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p xml:lang="sme"><em type="italic">Kotus  </em>Álgu-database </p>
+<p xml:lang="sme"><em type="bold">E-girji </em></p>
+<p xml:lang="nno">(e-book)</p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p xml:lang="sme"><em type="italic">E-skuvla.no </em> (e-school) </p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p xml:lang="sme"><em type="bold">The Inari Sámis  </em></p>
+<p xml:lang="sme"><em type="italic">Skolt Sámi Life </em> </p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p xml:lang="smn"><em type="italic">Maahisweb </em> </p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p xml:lang="est"><em type="italic">Bildetema </em> </p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p> <em type="italic">GIELLATEKNO  </em>Saami language technology pages </p>
+<p>- Dictionaries</p>
+<p xml:lang="swe"></p>
+<p xml:lang="sme"><em type="italic">YLE Sámi radio </em> </p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p xml:lang="sme"><em type="italic">SVT Sápmi </em> </p>
+<p xml:lang="swe"><em type="bold"></em></p>
+<p xml:lang="sme"><em type="italic">NRK Sámi radio </em> </p>
+<p xml:lang="swe"></p>
+</body></document>
