@@ -1,27 +1,39 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>265</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.ostersund.se/download/18.3e11750b14ae81c49054ce/1421235271844/Engelska.pdf</origFileName><parallel_text xml:lang="rus" location="ryska.pdf"/><parallel_text xml:lang="sma" location="sydsamiska.pdf"/><parallel_text xml:lang="swe" location="svenska.pdf"/><parallel_text location="franska.pdf" xml:lang="fra"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>School/Kindergarten:     Class/section:</p>
-<p>Student/Child’s given name and surname:</p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>303</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.ostersund.se/download/18.3e11750b14ae81c49054ce/1421235271844/Engelska.pdf</origFileName><parallel_text xml:lang="rus" location="ryska.pdf"/><parallel_text xml:lang="sma" location="sydsamiska.pdf"/><parallel_text xml:lang="swe" location="svenska.pdf"/><parallel_text location="franska.pdf" xml:lang="fra"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Ordering a Special Menu <span type="quote" xml:lang="swe">”Engelska”</span> </em>*To ensure that your child receives the correct special menu their name and current menu requirements are recorded in a special registry of menus. The registry is of tremendous help as it helps us to mark the food with the correct names to ensure correct preparation and serving. The registration of minors requires authorization by legal guardians. </p>
+<p>School/Kindergarten:</p>
+<p>Class/section:</p>
+<p>Student/Child’s given name and surname: Legal Guardians name:</p>
 <p>Legal Guardians name:</p>
-<p>Legal Guardians name:</p>
-<p>Telephone home:</p>
-<p>Mobile:</p>
-<p>Telephone home:</p>
-<p>Mobile: E-mail adress:</p>
+<p>Telephone home: Mobile:</p>
+<p>Telephone home: Mobile:</p>
 <p>E-mail adress:</p>
-<p><em type="bold"> Desired menu:        Mark X       Have allergy / Am sensitive to:  Mark X     </em>Menu free of blood and  blood- &amp; giblets   Menu free from pork  Lactose vegetarian menu  Lactose free vegetarian menu  + fish  Lactose free vegetarian menu + fish + chicken Gluton free menu  Lactose reduced menu  Milk free menu  </p>
-<p>Fish  Kyckling  Carrots  Tomato  Paprika   Soja (leguminous)  Soja-lecithin (E322)  Egg</p>
+<p>E-mail adress:</p>
+<p><em type="bold">Desired menu: </em></p>
+<p><em type="bold">Mark X Have allergy / Am sensitive to: Mark X </em></p>
+<p>Menu free of blood and blood- &amp; giblets Menu free from pork</p>
+<p>Lactose vegetarian menu</p>
+<p>Lactose free vegetarian menu + fish</p>
+<p>Lactose free vegetarian menu + fish + chicken</p>
+<p>Gluton free menu</p>
+<p>Lactose reduced menu</p>
+<p>Milk free menu</p>
 <p>Would like to meet kitchen staff together with an interpreter</p>
-<p>Signature and permission to register in general registry*</p>
-<p xml:lang="swe">Date:</p>
+<p>Signature and permission to register in general registry* Date:</p>
 <p>Legal Guardians Signature:</p>
-<p>Date: Legal Guardians Signature:</p>
-<p>------------------------------------------------------------------------------------------------------------------------------- <em type="bold">Information regarding food at schools and kindergartens   A good meal</em> </p>
-<p>The plate serving below shows the proportions between a meals various components required  for a well-balanced intake of nutrients.</p>
-<p>Photo: Peter Adamsson</p>
-<p type="listitem">• Peanuts, nuts and almonds are not allowed in school/kindergarten and are therefore not offered on the menu. Sesame seeds are also not served because of allergies.</p>
-<p type="listitem">• Students/children who for ethical reasons do not eat meat</p>
-<p>are offered lactose free vegetable food instead (contains milk products and eggs).</p>
-<p type="listitem">• Do not send students/children with food from home! The</p>
-<p>kitchen does not take responsibility for storage and serving of food students/children bring with them from home.</p>
-<p type="listitem">• Report to the kitchen if your child is sick or absent from school. By so doing we avoid making food that ends up being thrown away.</p>
-<p>*To ensure that your child receives the correct special menu   their name and current menu requirements are recorded in a</p>
+<p xml:lang="swe">Date:</p>
+<p>Legal Guardians Signature: ------------------------------------------------------------------------------------------------------------------------------- <em type="bold">Information regarding food at schools and kindergartens </em></p>
+<p><em type="bold">A good meal </em></p>
+<p>The plate serving below shows the proportions between a meals various components required for a well-balanced intake of nutrients.</p>
+<p type="listitem">Photo: Peter Adamsson</p>
+<p type="listitem">Peanuts, nuts and almonds are not allowed in  school/kindergarten and are therefore not offered on the  menu. Sesame seeds are also not served because of  allergies.</p>
+<p type="listitem">Students/children who for ethical reasons do not eat meat  are offered lactose free vegetable food instead (contains  milk products and eggs).</p>
+<p type="listitem">Do not send students/children with food from home! The  kitchen does not take responsibility for storage and  serving of food students/children bring with them from  home.</p>
+<p>Report to the kitchen if your child is sick or absent from school. By so doing we avoid making food that ends up being thrown away.</p>
+<p>Fish</p>
+<p xml:lang="swe">Kyckling</p>
+<p>Carrots</p>
+<p>Tomato</p>
+<p xml:lang="swe">Paprika</p>
+<p>Soja (leguminous)</p>
+<p>Soja-lecithin (E322)</p>
+<p>Egg</p>
 </body></document>

@@ -1,83 +1,99 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1637</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="eng"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_engelsk_informasjon.pdf</origFileName><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>The Educational and Psychological Counselling Service (PPT)</p>
-<p>The Educational and Psychological Counselling Service (PPT or PP-tjenesten in Norwegian) is a professional advisory and guidance service that works with the development, learning and enjoyment of school-age children and pupils within compulsory and upper secondary education. PPT also aids adults who require a primary or lower secondary education. PPT’s work is authorised by statute pursuant to the Norwegian Education Act. PPT is a professional resource that aims to help kindergatens and schools improve learning environments for children and pupils with special needs.</p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>1624</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="nob"/><language xml:lang="eng"/></multilingual><origFileName>http://www.udir.no/globalassets/upload/pp_tjenesten/ppt_engelsk_informasjon.pdf</origFileName><parallel_text xml:lang="nno" location="ppt_nynorsk-informasjon.pdf"/><parallel_text xml:lang="nob" location="ppt_norsk_bokmal_informasjon.pdf"/><parallel_text xml:lang="rus" location="ppt_russisk_informasjon.pdf"/><parallel_text xml:lang="sma" location="sorsamisk.pdf"/><parallel_text xml:lang="smj" location="lulesamsisk-2.pdf"/><parallel_text location="ppt_arabisk_informasjon.pdf" xml:lang="ara"/><parallel_text location="ppt_vietnamesisk_informasjon.pdf" xml:lang="vie"/><parallel_text location="ppt_sorani_informasjon.pdf" xml:lang="ckb"/><parallel_text location="ppt_urdu_informasjon.pdf" xml:lang="urd"/><parallel_text location="ppt_fransk_informasjon.pdf" xml:lang="fra"/><parallel_text location="ppt_somalisk_informasjon.pdf" xml:lang="som"/><parallel_text location="ppt_tyrkisk_informasjon.pdf" xml:lang="tur"/><parallel_text location="ppt_persisk_informasjon.pdf" xml:lang="fas"/><parallel_text location="ppt_polsk_informasjon.pdf" xml:lang="pol"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="nob">Endelig versjon 19.11.2012 revidert 6.12.2012</p>
 <p>The Educational and Psychological Counselling Service (PPT)</p>
-<p type="listitem">•  is able to provide kindergartens and schools with advice and guidance in the management of education for groups within learning environments, among other services</p>
-<p type="listitem">•  shall assist schools with competence enhancement and organizational development and ensure that professional assessments are conducted and prepared according to the aims laid down in the Education Act and provide kindergartens and school with advice and guidance to organize learning for children and pupils who need extra help</p>
-<p type="listitem">•  is a mandatory municipal service agency whose work is authorised pursuant to § 5-6 of the Education Act. These services can be administrated and organized by various municipalities together. Municipalities and county municipalities are permitted to employ joint services.</p>
-<p type="listitem">•  is subject to the duty of confidentiality: all information about each child or pupil is archived in a separate case journal and folder based on guidelines set for these procedures by the Norwegian Data Inspectorate</p>
-<p type="listitem">•  is the municipality's/county municipality’s professional agency for evaluating and assessing rights that are laid down and described in the Education Act.</p>
-<p>Municipalities and county municipalities may use the advisory assistance and guidance provided by PPT concerning these types of cases:</p>
-<p type="listitem">•  Special educational assistance prior to reaching compulsory school age (§ 5-7)  •  Special education at schools (§ 5-1) and for adults who require a primary or lower secondary</p>
-<p>education (§ 4a-2)</p>
-<p type="listitem">•  Early school commencement (§ 2-1, paragraph three)</p>
-<p type="listitem">•  Postponed school commencement (§ 2-1, paragraph three)</p>
-<p type="listitem">•  Exemption from mandatory learning (§ 2-1, paragraph four)</p>
-<p type="listitem">•  Sign language training prior to compulsory school age, at primary and lower secondary schools (§ 2-6) and within upper secondary education (§ 3-9)</p>
-<p type="listitem">•  Braille training etc in primary and lower secondary schools (§ 2-14) and within upper secondary education (§3-10)</p>
-<p type="listitem">•  Special admission to upper secondary school (§ 3-1, paragraph six)</p>
-<p type="listitem">•  Extended duration of studies within upper secondary education (§ 3-1, paragraph five)</p>
+<p>The Educational and Psychological Counselling Service (PPT or PP-tjenesten in Norwegian) is a professional advisory and guidance service that works with the development, learning and enjoyment of school-age children and pupils within compulsory and upper secondary education. PPT also aids adults who require a primary or lower secondary education. PPT’s work is authorised by statute pursuant to the Norwegian Education Act. PPT is a professional resource that aims to help kindergatens and schools improve learning environments for children and pupils with special needs.</p>
+<p type="listitem">The Educational and Psychological Counsel ing Service (PPT)</p>
+<p type="listitem">is able to provide kindergartens and schools with advice and guidance in the management of education for groups within learning environments, among other services</p>
+<p type="listitem">shall assist schools with competence enhancement and organizational development and ensure that professional assessments are conducted and prepared according to the aims laid down in the Education Act and provide kindergartens and school with advice and guidance to organize learning for children and pupils who need extra help</p>
+<p type="listitem">is a mandatory municipal service agency whose work is authorised pursuant to § 5-6 of the</p>
+<p type="listitem">Education Act. These services can be administrated and organized by various municipalities together. Municipalities and county municipalities are permitted to employ joint services.</p>
+<p type="listitem">is subject to the duty of confidentiality: all information about each child or pupil is archived in a separate case journal and folder based on guidelines set for these procedures by the</p>
+<p type="listitem">Norwegian Data Inspectorate</p>
+<p type="listitem">is the municipality's/county municipality’s professional agency for evaluating and assessing rights that are laid down and described in the Education Act.</p>
+<p>Municipalities and county municipalities may use the advisory assistance and guidance provided by</p>
+<p type="listitem">PPT concerning these types of cases:</p>
+<p type="listitem">Special educational assistance prior to reaching compulsory school age (§ 5-7)</p>
+<p type="listitem">Special education at schools (§ 5-1) and for adults who require a primary or lower secondary education (§ 4a-2)</p>
+<p type="listitem">Early school commencement (§ 2-1, paragraph three)</p>
+<p type="listitem">Postponed school commencement (§ 2-1, paragraph three)</p>
+<p type="listitem">Exemption from mandatory learning (§ 2-1, paragraph four)</p>
+<p type="listitem">Sign language training prior to compulsory school age, at primary and lower secondary schools (§ 2-6) and within upper secondary education (§ 3-9)</p>
+<p type="listitem">Braille training etc in primary and lower secondary schools (§ 2-14) and within upper secondary education (§3-10)</p>
+<p type="listitem">Special admission to upper secondary school (§ 3-1, paragraph six)</p>
+<p type="listitem">Extended duration of studies within upper secondary education (§ 3-1, paragraph five)</p>
 <p>Tasks</p>
-<p>PPT will investigate a situation in order to understand what a child, adolescent or adult needs when that person is deemed challenged by learning and will provide advice and guidance in that respect. Examples of such challenges are:</p>
-<p type="listitem">•  Language difficulties and speech impairments</p>
-<p type="listitem">•  General learning difficulties or problems in a specific subject area</p>
-<p type="listitem">•  Reading and writing difficulties</p>
-<p type="listitem">•  Difficulties with mathematics</p>
-<p type="listitem">•  Non-verbal learning difficulties</p>
-<p type="listitem">•  Problems with concentration</p>
-<p type="listitem">•  Social and emotional problems</p>
-<p type="listitem">•  Behavioural disorders</p>
-<p type="listitem">•  Vision and hearing problems</p>
+<p>PPT will investigate a situation in order to understand what a child, adolescent or adult needs when that person is deemed chal enged by learning and will provide advice and guidance in that respect.</p>
+<p>Examples of such challenges are:</p>
+<p type="listitem" xml:lang="nob">Endelig versjon 19.11.2012 revidert 6.12.2012</p>
+<p type="listitem">Language difficulties and speech impairments</p>
+<p type="listitem">General learning difficulties or problems in a specific subject area</p>
+<p type="listitem">Reading and writing difficulties</p>
+<p type="listitem">Difficulties with mathematics</p>
+<p type="listitem">Non-verbal learning difficulties</p>
+<p type="listitem">Problems with concentration</p>
+<p type="listitem">Social and emotional problems</p>
+<p type="listitem">Behavioural disorders</p>
+<p type="listitem">Vision and hearing problems</p>
 <p>Contact Information</p>
-<p>Pupils who have reached the age of 15, parents/guardians, kindergartens, schools and other institutions such as public health clinics and school nurses may contact PPT for advice and guidance. PPT may be contacted anonymously if one is worried about a child’s development or learning prior to opening a formal case in the form of a formal referral.</p>
+<p>Pupils who have reached the age of 15, parents/guardians, kindergartens, schools and other institutions such as public health clinics and school nurses may contact PPT for advice and guidance.</p>
+<p>PPT may be contacted anonymously if one is worried about a child’s development or learning prior to opening a formal case in the form of a formal referral.</p>
 <p xml:lang="nob">Referrals</p>
-<p>Before a case can be formally referred to PPT one should examine whether the school has tried to implement any other measures within the scope of its authority and expertise. Where pre-school age children are concerned, the child's needs will be assessed regardless of measures that have been implemented by the kindergarten.  A case may be referred to PPT for a primary investigation and evaluation if</p>
-<p type="listitem">•  the parents, kindergarten and/or school are worried that a child is not developing as expected for his or her age</p>
-<p type="listitem">•  there is suspicion that a pupil is not achieving the learning objectives set for his or her age</p>
+<p>Before a case can be formally referred to PPT one should examine whether the school has tried to implement any other measures within the scope of its authority and expertise. Where pre-school age children are concerned, the child's needs will be assessed regardless of measures that have been implemented by the kindergarten.</p>
+<p type="listitem">A case may be referred to PPT for a primary investigation and evaluation if</p>
+<p type="listitem">the parents, kindergarten and/or school are worried that a child is not developing as expected for his or her age</p>
+<p type="listitem">there is suspicion that a pupil is not achieving the learning objectives set for his or her age</p>
 <p>A pupil or parent can demand that the school conduct an examination to decide whether the pupil needs special help with his or her education, and if so what kind of education, instruction or training this would imply.</p>
-<p>Teachers may</p>
-<p type="listitem">•  assess whether a pupil needs special education</p>
-<p type="listitem">•  notify the head teacher if such a need is apparent</p>
+<p type="listitem">Teachers may</p>
+<p type="listitem">assess whether a pupil needs special education</p>
+<p type="listitem">notify the head teacher if such a need is apparent</p>
 <p>A referral to PPT should preferably be done by the kindergarten/school and the child’s parents together. The parents (and any pupil over the age of 15) must consent to a referral to PPT.</p>
 <p>The municipality or county municipality will set its own guidelines and routines for how its kindergartens and schools refer children or pupils to PPT. Referrals are normally done using PPT’s referral form that was prepared for this purpose. The kindergarten/school will enclose a pedagogical report with the referral that describes the child/pupil's development and describe any measures that were attempted previously.</p>
 <p>You may contact the municipality (for kindergatens or compulsory schools) or the county municipality (for upper secondary schools) for more information about referrals.</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012 revidert 6.12.2012</p>
 <p>Administrative procedures and case processing</p>
-<p><em type="bold">The examination </em>It is customary to speak with the parents and kindergarten/school together after PPT has received a referral or notification of concern, in order to find out what help is needed. In most cases this arises out of a desire by those involved to have PPT prepare an expert evaluation that includes a report that contains specific advice.  </p>
-<p>The evaluation may consist of</p>
-<p type="listitem">•  charting measures that have already been implemented by the kindergarten or school</p>
-<p type="listitem">•  statements from other agencies, conversations, observations and tests about the child/pupil</p>
-<p>For pre-school age children the evaluation will be based on the the child's specific needs. For schoolage pupils the evaluation will deal with the pupil’s learning difficulties and capabilities and the school’s ability or opportunnity to organize learning within the framework of the ordinary learning environments the school offers.</p>
-<p><em type="bold">Advice and guidance </em>Based on this evaluation PPT will submit a written report with recommendations in the form of an expert assessment of the particular needs of the child/pupil.  </p>
-<p>This evaluation will</p>
-<p type="listitem">•  state whether the child/pupil needs special educational assistance pursuant to § 5-7 of the Education Act or special education/training pursuant to  § 5-1</p>
-<p type="listitem">•  provide advice about what kind of help/learning is needed and available.</p>
+<p><em type="bold">The examination </em></p>
+<p>It is customary to speak with the parents and kindergarten/school together after PPT has received a referral or notification of concern, in order to find out what help is needed. In most cases this arises out of a desire by those involved to have PPT prepare an expert evaluation that includes a report that contains specific advice.</p>
+<p type="listitem">The evaluation may consist of</p>
+<p type="listitem">charting measures that have already been implemented by the kindergarten or school</p>
+<p type="listitem">statements from other agencies, conversations, observations and tests about the child/pupil</p>
+<p>For pre-school age children the evaluation will be based on the the child's specific needs. For school-age pupils the evaluation will deal with the pupil’s learning difficulties and capabilities and the school’s ability or opportunnity to organize learning within the framework of the ordinary learning environments the school offers.</p>
+<p><em type="bold">Advice and guidance </em></p>
+<p>Based on this evaluation PPT will submit a written report with recommendations in the form of an expert assessment of the particular needs of the child/pupil.</p>
+<p type="listitem">This evaluation will</p>
+<p type="listitem">state whether the child/pupil needs special educational assistance pursuant to § 5-7 of the</p>
+<p type="listitem">Education Act or special education/training pursuant to  § 5-1</p>
+<p type="listitem">provide advice about what kind of help/learning is needed and available.</p>
 <p>Guidance for parents will form a part of this offer if the child is entitled to special educational assistance pursuant to § 5-7.</p>
-<p>For pre-school age children a written recommendation will be provided by PPT that contains</p>
-<p type="listitem">•  a list of what type of special educational assistance is needed for the child to develop normally</p>
-<p type="listitem">•  realistic goals for the child's development and learning</p>
-<p>For school-age pupils a written recommendation will be provided by PPT that contains an assessment of</p>
-<p type="listitem">•  whether one can help the pupil within the ordinary education and training offered by the school</p>
-<p type="listitem">•  which programmes, training, instruction etc will provide a justifiable level of learning</p>
-<p type="listitem">•  what can be considered realistic learning goals for that particular pupil</p>
+<p type="listitem">For pre-school age children a written recommendation will be provided by PPT that contains</p>
+<p type="listitem">a list of what type of special educational assistance is needed for the child to develop normally</p>
+<p type="listitem">realistic goals for the child's development and learning</p>
+<p type="listitem">For school-age pupils a written recommendation will be provided by PPT that contains an assessment of</p>
+<p type="listitem">whether one can help the pupil within the ordinary education and training offered by the school</p>
+<p type="listitem">which programmes, training, instruction etc will provide a justifiable level of learning</p>
+<p type="listitem">what can be considered realistic learning goals for that particular pupil</p>
 <p>PPT will consult the pupil and/or his or her parents regarding assessments and evaluations and take their opinions into consideration.</p>
-<p>When the expert asessment is completed in the form of an evaluation that includes specific recommendations, the parents of</p>
-<p type="listitem">• a child at compulsory school must consent to the use of the recommendations by the</p>
-<p>municipality or the owner of the kindergarten that will form the basis for making individual administrative decisions. They must also consent to the municipality/owner of the kindergarten implementing any measures recommended by PPT</p>
-<p type="listitem">•  school-age pupils or pupils above the age of 15 must consent to the school owner/school using the evaluation as the basis for individual administrative decisions and must also consent if the school owner/school is to implement any measures recommended by PPT</p>
-<p>About Statped (the Norwegian Support System for Special Education)</p>
-<p>PPT may submit an application for support from the Norwegian Support System for Special Education (Statped) if this is deemed necessary.</p>
-<p xml:lang="nob">Statped</p>
-<p type="listitem">•  will help children, adolescents and adults with special educational needs to establish the best learning structure for an adequate education pursuant to the Education Act so the child, adolescent or adult receives a good education, can find work and become an active member of society</p>
-<p type="listitem">•  will aid in the development of skills and competence and provide knowledge about special education, equal rights, adapted learning and inclusive learning</p>
-<p type="listitem">•  be an enthusiastic developer of special education in specialised areas like hearing, vision, language/speech, acquired brain injury, complex learning difficulties and help</p>
-<p xml:lang="nob">for deafblindness</p>
-<p type="listitem">•  will be a source of expertise and competence for teaching resources for children, adolescents and adults with special educational needs</p>
-<p>For more information, see<em type="italic"> www.statped.no.</em> </p>
+<p type="listitem">When the expert asessment is completed in the form of an evaluation that includes specific recommendations, the parents of</p>
+<p type="listitem">a child at compulsory school must consent to the use of the recommendations by the municipality or the owner of the kindergarten that will form the basis for making individual</p>
+<p type="listitem">Endelig versjon 19.11.2012 revidert 6.12.2012 administrative decisions. They must also consent to the municipality/owner of the kindergarten implementing any measures recommended by PPT</p>
+<p type="listitem">school-age pupils or pupils above the age of 15 must consent to the school owner/school using the evaluation as the basis for individual administrative decisions and must also consent if the school owner/school is to implement any measures recommended by PPT</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012 revidert 6.12.2012</p>
+<p>About Statped (the Norwegian Support System for Special</p>
+<p>Education)</p>
+<p>PPT may submit an application for support from the Norwegian Support System for Special</p>
+<p>Education (Statped) if this is deemed necessary.</p>
+<p type="listitem" xml:lang="nob">Statped</p>
+<p type="listitem">will help children, adolescents and adults with special educational needs to establish the best learning structure for an adequate education pursuant to the Education Act so the child, adolescent or adult receives a good education, can find work and become an active member of society</p>
+<p type="listitem">will aid in the development of skills and competence and provide knowledge about special education, equal rights, adapted learning and inclusive learning</p>
+<p type="listitem">be an enthusiastic developer of special education in specialised areas like hearing, vision, language/speech, acquired brain injury, complex learning difficulties and help for deafblindness</p>
+<p type="listitem">will be a source of expertise and competence for teaching resources for children, adolescents and adults with special educational needs</p>
+<p>For more information, see www.statped.no.</p>
 <p>About the National Centre for Multicultural Education (NAFO)</p>
 <p>It is not always easy to discover the causes of the learning difficulties of minority-language children/pupils. Is the greatest challenge related to language comprehension or are there other reasons for the learning difficulties?</p>
-<p>NAFO’s task, among others, is to</p>
-<p type="listitem">•  work to establish national education policies and ensuring that these are implemented so children, adolescents and adults receive the highest quality of education possible that is adapted to their needs in an inclusive learning environment.</p>
-<p type="listitem">•  ensure that multi-cultural perspectives are used at kindergartens and in primary and lower secondary education and training</p>
-<p type="listitem">•  improve the quality of education and training offered to speakers of minority languages and work to develop inclusive, multi-cultural learning environments at kindergartens and within primary and lower secondary education and training</p>
-<p>Teachers, school leaders, the owners of kindergartens and schools and educational personnel at kindergartens are the main target groups for this organization’s activities. The Centre will assist the university and college sector and teacher training institutions in their work to develop skills and enhance competence.</p>
-<p>For more information, see<em type="italic"> http://www.hioa.no/Om-HiOA/NAFO </em></p>
+<p type="listitem">NAFO’s task, among others, is to</p>
+<p type="listitem">work to establish national education policies and ensuring that these are implemented so children, adolescents and adults receive the highest quality of education possible that is adapted to their needs in an inclusive learning environment.</p>
+<p type="listitem">ensure that multi-cultural perspectives are used at kindergartens and in primary and lower secondary education and training</p>
+<p type="listitem">improve the quality of education and training offered to speakers of minority languages and work to develop inclusive, multi-cultural learning environments at kindergartens and within primary and lower secondary education and training</p>
+<p xml:lang="nob">Endelig versjon 19.11.2012 revidert 6.12.2012</p>
+<p>Teachers, school leaders, the owners of kindergartens and schools and educational personnel at kindergartens are the main target groups for this organization’s activities. The</p>
+<p>Centre will assist the university and college sector and teacher training institutions in their work to develop skills and enhance competence.</p>
+<p>For more information, see http://www.hioa.no/Om-HiOA/NAFO</p>
 </body></document>
