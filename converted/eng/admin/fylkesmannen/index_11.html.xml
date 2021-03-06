@@ -1,9 +1,9 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>214</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/People-and-society/Changing-your-name/</origFileName><parallel_text xml:lang="nob" location="index_11.html"/><parallel_text xml:lang="sma" location="index_11.html"/><parallel_text xml:lang="sme" location="index_11.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Changing your name - County Governor - Fylkesmannen.no</p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>214</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/People-and-society/Changing-your-name/</origFileName><parallel_text xml:lang="nob" location="index_11.html"/><parallel_text xml:lang="sma" location="index_11.html"/><parallel_text xml:lang="sme" location="index_11.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Changing your name - County Governor - Fylkesmannen.no</p>
 <p>Jump to content</p>
 <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
 <list><p type="listitem">Sound version</p>
 <p type="listitem">High contrast</p>
-<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="mdf"></p>
 <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
 <p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
 <p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
@@ -28,7 +28,7 @@
 <p type="listitem">Changing your name</p>
 <p type="listitem">Citizenship ceremonies</p>
 <p type="listitem">Conciliation Boards</p>
-<p type="listitem">Elections</p>
+<p type="listitem" xml:lang="fra">Elections</p>
 <p type="listitem">Exemptions from the duty of confidentiality</p>
 <p type="listitem">Funding for political parties</p>
 <p type="listitem">Introduction programme for new arrivals in Norway</p>
@@ -46,10 +46,10 @@
 <p xml:lang="est">Published 10/10/2012 Updated 3/27/2017</p>
 <p>If you would like to change your name, you must inform the tax office. If the tax office does not approve the name change, you may then appeal to the County Governor.</p>
 <p>If another party to the case complains that the tax office has approved the name change, the County Governor also serves as the administrative appeals body. Any such appeals must be sent through the tax office.</p>
-<list><p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
+<list><p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
 </list><p type="title" xml:lang="est">Links</p>
 <list><p type="listitem" xml:lang="vep">Navneloven</p>
 <p type="listitem" xml:lang="nno">Endre navn</p>

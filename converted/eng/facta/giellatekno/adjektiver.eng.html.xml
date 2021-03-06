@@ -1,11 +1,11 @@
-<document xml:lang="eng" id="no_id"><header><title>Adjectives</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>3480</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/adjektiver.eng.html</origFileName><parallel_text xml:lang="nob" location="adjektiver.nob.html"/><parallel_text xml:lang="sme" location="adjektiver.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Adjectives</p>
+<document xml:lang="eng" id="no_id"><header><title>Adjectives</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>3480</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/adjektiver.eng.html</origFileName><parallel_text xml:lang="nob" location="adjektiver.nob.html"/><parallel_text xml:lang="sme" location="adjektiver.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="fra">Adjectives</p>
 <list><p type="listitem">Different Stems</p>
 <p type="listitem">Gradation</p>
 <p type="listitem">Other Consonant Alternations</p>
 <p type="listitem">Attributive and Predicative Forms</p>
 <p type="listitem" xml:lang="vep">'Buorre' as an Attribute</p>
 <p type="listitem">Comparison</p>
-<p type="listitem">Cases</p>
+<p type="listitem" xml:lang="fra">Cases</p>
 <p type="listitem">The nominative</p>
 <p type="listitem">The accusative</p>
 <p type="listitem">The genitive</p>
@@ -15,13 +15,13 @@
 <p type="listitem">The essive</p>
 </list><p>Back to grammar main page .</p>
 <p><em type="italic">Adjectives </em>tell what something or somebody is like, e.g. what he/she/it looks like: <em type="italic">Mus lea 'rukses' biila. </em>(I have a red car.) <em type="italic">Son lea 'lihkolaš'. </em>(He/She is happy.) </p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">Different Stems</p>
 <p>Adjectives are inflected in various ways, everything depends on how many syllables are in the final foot of the word in question. A <em type="italic">foot </em>is a group of syllables where the first syllable has stress: <em type="italic">nuorra </em>'young' and <em type="italic">dábálaš </em>'ordinary' both contain one foot, even though the words have different numbers of syllables, while <em type="italic">bealje-heapme </em>'deaf' contains two feet. </p>
 <p><em type="italic">Bisyllabic adjectives </em>have two syllables in the final foot in the nominative plural. These adjectives have strong grade in the nominative singular, and weak grade in the plural, e.g. <em type="italic">nuorra - nuorat </em>'young'. Not all adjectives have gradation, e.g. <em type="italic">hávski - hávskit </em>'fun'. </p>
 <p><em type="italic">Trisyllabic adjectives </em>have three syllables in the last foot in the plural, e.g. <em type="italic">suohtas - suohttasat </em>'pleasant', <em type="italic">bivnnut - bivnnuhat </em>'favored'. The nominative singular is weak grade, and most of the other forms are strong grade, but not all adjectives with an odd number of syllables are subject to gradation. </p>
 <p><em type="italic">Contracted adjectives </em>have two syllables in the final foot in both the nominative singular and the plural. The adjective is weak grade in the nominative singular and strong or extra strong grade in the plural, e.g. <em type="italic">njálggis - njálgát stuoris - stuorrát </em>. </p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">Gradation</p>
 <p>Gradation usually occurs in the consonants between the first and second syllable of a foot, e.g. <em type="italic">nuorra - nuorat </em>'young'. The <em type="italic">strong grade </em>, for example, occurs in the nominative singular in bisyllabic adjectives, and in the nominative plural in trisyllabic adjectives. The <em type="italic">weak grade </em>, on the contrary, is observed in the consonants in the nominative plural of bisyllabic adjectives, and the nominative singular of trisyllabic adjectives. </p>
 <p>Examples of gradation with the strong grade on the left, and the weak grade on the right. Please observe that '-i-' is considered a consonant <span type="quote" xml:lang="smj">"-j-"</span> when it follows a vowel, and it is therefore part of the consonant cluster:</p>
@@ -33,7 +33,7 @@
 <list><p type="listitem" xml:lang="kal">nuoramu <em type="italic">s </em>- nuoramu <em type="italic">s </em>at - nuoramu <em type="italic">ss </em>ii 'young' </p>
 <p type="listitem" xml:lang="smn">lihkola <em type="italic">š </em>- lihkola <em type="italic">čč </em>at - lihkola <em type="italic">žž </em>ii 'happy' </p>
 </list><p>You can read more about gradation here</p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">Other Consonant Alternations</p>
 <p>Some adjectives end in consonants in the nominative singular. In North Saami, there are limitations as to which consonants can occur in word-final position, and this is where we can observe special types of consonant alternations attested in the nominative singular and the other cases. The consonants that can occur in word-final position are: <span type="quote" xml:lang="est">"t", "s"</span>, <span type="quote" xml:lang="sms">"š", "l"</span>, <span type="quote">"r" and "n"</span>. Here are some examples of alternations in trisyllabic adjectives and contracted adjectives:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">t &gt; h </em>, e.g. bivnnut - bivnnuha 'favored', čáppat - čáppahin 'beautiful' </p>
@@ -49,13 +49,13 @@
 <list><p type="listitem" xml:lang="nno"><em type="italic">_ &gt; g </em>, e.g. guohca - guohccaga 'rotten, rank', bahča - bahččaga 'bitter, bad-tasting' </p>
 </list><p>Contracted adjectives ending in <span type="quote">"-i" undergo the transition "i&gt;j"</span> between the nominative singular and the essive in the written language.</p>
 <list><p type="listitem"><em type="italic">i &gt; j </em>, e.g. čeavlái - čeavlájin 'haughty, proud', muoŧŧái - muoŧŧájin 'with many aunts'. </p>
-</list><p xml:lang="swe"></p>
+</list><p xml:lang="mdf"></p>
 <p type="title">Attributive and Predicative Forms</p>
 <p>Adjectives appear in <em type="italic">attribute forms </em>when they premodify a noun: <em type="italic">'fiskes' viessu </em>'a yellow house'. The attribute form remains the same regardless of the number or case of the modified noun, with the exception of the adjective <em type="italic">buorre </em>'good'. Attribute forms are given in dictionaries, possibly marked with #, e.g. <em type="italic">ruoksat, #rukses </em>'red'. </p>
 <p>When the adjective is not a premodifier of a noun, standing alone, for instance, in the predicate, it has a <em type="italic">predicative form </em>: <em type="italic">Viessu lea 'fiskat'. </em>(The house is yellow.) <em type="italic">Viesut leat 'fiskadat'. </em>(The houses are yellow.) <em type="italic">Nieida lea 'nuorra'. </em>(The girl is young.) <em type="italic">Nieiddat leat 'nuorat'. </em>(The girls are young.) <em type="italic">Moai letne 'nuorat'. </em>(The two of us are young.) The predicative form, used in subject-complement constructions and other places where there is no subsequent noun to modify, appears in the nominative singular when the subject is in the singular, and in the nominative plural when the subject is in the dual or plural. In dictionaries, you can find the consonant appearing between the second and third syllable for trisyllabic adjectives, e.g. <em type="italic">ruoksat -d- </em>'red' - which is realized in <em type="italic">ruoksadat </em>in the nominative plural. Read more about such changes here . </p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title" xml:lang="vep">'Buorre' as an Attribute</p>
-<p>When <em type="italic">buorre </em>premodifies a noun, it is declined in the same way as the noun it modifies, both in number and case. <span type="quote" xml:lang="smj">"Buorre"</span> should take the same form as the noun in a majority of the cases. Exception to this are the illative and locative singular forms. Here the premodifier <span type="quote" xml:lang="sme">"buorre"</span> appears in the accusative/genitive form. </p>
+<p>When <em type="italic">buorre </em>premodifies a noun, it is declined in the same way as the noun it modifies, both in number and case. <span type="quote" xml:lang="ita">"Buorre"</span> should take the same form as the noun in a majority of the cases. Exception to this are the illative and locative singular forms. Here the premodifier <span type="quote" xml:lang="sme">"buorre"</span> appears in the accusative/genitive form. </p>
 <list><p type="listitem"><em type="italic">Mus lea 'buorre biila'. </em>(I have a good car.) </p>
 <p type="listitem"><em type="italic">Mun oasttán 'buori biilla'. </em>(I'll buy a good car.) </p>
 <p type="listitem"><em type="italic">'Buori biillas' oažžu 'buori hatti'. </em>(You can get a good price for a good car.) </p>
@@ -68,12 +68,12 @@
 <p type="listitem"><em type="italic">'Buriin biillain' leat 'buorit goazanat'. </em>(Good cars have good brakes.) </p>
 <p type="listitem"><em type="italic">Liikon 'buriid/buriide biillaide'. </em>(I like good cars.) </p>
 <p type="listitem"><em type="italic">'Buriiguin/buriid biillaiguin' olle guhkás. </em>(You can go a long ways with good cars.) </p>
-</list><p xml:lang="swe"></p>
+</list><p xml:lang="mdf"></p>
 <p type="title">Comparison</p>
 <p>Adjectives can be compared in three degrees: <em type="italic">'unni - unnit - unnimus' </em>(small - smaller - smallest). </p>
 <p>The <em type="italic">positive </em>form is the basic form of an adjective: <em type="italic">'unni, boaris, stuoris' </em>(little, old, big). </p>
-<p>The <em type="italic">comparative </em>form of the adjective is the one used in the comparison of two people or things. The comparative ending for bisyllabic and contracted adjectives is "-t": <em type="italic">unnit (unni) </em>'little' <em type="italic">stuorit (stuoris) </em>'big'. Trisyllabic adjectives have several possible comparative endings: <span type="quote" xml:lang="nob">"-et/-eabbo"</span>, <span type="quote" xml:lang="dan">"-at/-abbo"</span>: <em type="italic">boarráseabbo, boarrásabbo (boaris) </em>'elder'. </p>
-<p>The <em type="italic">superlative </em>form is the highest degree of comparison, and it is used when comparing more than two people or things. The superlative ending for bisyllabic and contraction adjectives is <span type="quote" xml:lang="sme">"-mus"</span>: <em type="italic">unnimus (unni) </em>'smallest' <em type="italic">stuorimus (stuoris) </em>'biggest'. Trisyllabic adjectives have two possible endings: <span type="quote" xml:lang="sme">"-eamos"</span> and <span type="quote" xml:lang="est">"-amos"</span>: <em type="italic">boarráseamos, boarrásamos (boaris) </em>'eldest'. </p>
+<p>The <em type="italic">comparative </em>form of the adjective is the one used in the comparison of two people or things. The comparative ending for bisyllabic and contracted adjectives is "-t": <em type="italic">unnit (unni) </em>'little' <em type="italic">stuorit (stuoris) </em>'big'. Trisyllabic adjectives have several possible comparative endings: <span type="quote" xml:lang="fra">"-et/-eabbo"</span>, <span type="quote" xml:lang="fao">"-at/-abbo"</span>: <em type="italic">boarráseabbo, boarrásabbo (boaris) </em>'elder'. </p>
+<p>The <em type="italic">superlative </em>form is the highest degree of comparison, and it is used when comparing more than two people or things. The superlative ending for bisyllabic and contraction adjectives is <span type="quote" xml:lang="sme">"-mus"</span>: <em type="italic">unnimus (unni) </em>'smallest' <em type="italic">stuorimus (stuoris) </em>'biggest'. Trisyllabic adjectives have two possible endings: <span type="quote" xml:lang="sme">"-eamos"</span> and <span type="quote" xml:lang="spa">"-amos"</span>: <em type="italic">boarráseamos, boarrásamos (boaris) </em>'eldest'. </p>
 <p>The comparative is used both as a premodifying attribute form and as a predicative form.</p>
 <p>When the comparative forms are used as premodifying <em type="italic">attributes </em>, they do not undergo the inflection of the noun they modify: <em type="italic">(unni: unnit mánná, unnimus mánát) </em><em type="italic">(stuoris: stuorit mánná, stuorimus mánát) </em>. </p>
 <p>Note that in the premodifying, attribute position only the short comparative endings are possible in trisyllabic adjectives: <em type="italic">boaris: boarráset/boarrásat mánná, boarráseamos/boarrásamos mánát </em>. </p>
@@ -88,25 +88,25 @@
 <p type="listitem"><em type="italic">Elle lea 'stuorimus'. Soai leaba stuorimusat' </em>. (Elle is the biggest. The two of them are the biggest.) </p>
 <p type="listitem" xml:lang="sme"><em type="italic">Elle lea 'boarráseamos/boarrásamos'. </em>(Elle is the eldest.) </p>
 <p type="listitem"><em type="italic">Soai leaba 'boarrásepmosat/boarrásamosat' </em>. (The two of them are the eldest.) </p>
-</list><p xml:lang="swe"></p>
-<p type="title">Cases</p>
+</list><p xml:lang="mdf"></p>
+<p type="title" xml:lang="fra">Cases</p>
 <p>are declension forms that mark what function a <em type="italic">noun phrase </em>takes in a sentence. Noun phrases contain adjectives, nouns, numerals or pronouns. In North Saami, there are seven cases, and these are used to mark the final word or head of the noun phrase. In certain contexts, the noun of a complex noun phrase might be dropped, and it is here that the remaining, final modifier takes the declension of the missing noun. Thus, in noun-phrase final position, an adjective can be declined in all the cases. The declension pattern of adjectives is the same as the one used for nouns. Note that comparative-form adjectives are declined according to the number of feet they have in the comparative form. </p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">The nominative</p>
 <p>is the case that gives the base form of an adjective, noun, numeral or pronoun, e.g. <em type="italic">Nieida lea 'nuorra' </em>. (The girl is young.) </p>
 <p>The plural has the ending "-t", and the bisyllabic adjective appears in the weak grade: <em type="italic">Nieiddat leat 'nuorat' </em>. (The girls are young.) </p>
 <p>Trisyllabic adjectives are weak grade in the singular and strong grade in the plural, e.g. <em type="italic">Náhkki lea 'linis'. </em>(The hide is soft.) <em type="italic">Náhkit leat 'litnásat'. </em>(The hides are soft.) </p>
 <p>Contracted adjectives are weak grade in the singular and strong or extra strong grade in the plural, e.g. <em type="italic">Gussa lea 'stuoris'. </em>(The cow is big.) <em type="italic">Gusat leat 'stuorrát'. </em>(The cows are big.) </p>
 <p>Comparative-form adjectives are also declined in the plural. The comparative forms of bisyllabic adjectives and contracted adjectives are trisyllabic, with three syllables in the last foot in the nominative plural. The ending <span type="quote">"-t" in the singular alternates with "-bu-"</span> in the plural. <em type="italic">nuorat - nuorabut </em>'younger', <em type="italic">stuorát - stuorábut </em>'bigger', <em type="italic">dábálaččat - dábálaččabut </em>'common'. </p>
-<p>Bisyllabic adjectives that end in <span type="quote" xml:lang="sme">"-laš"</span>, <span type="quote" xml:lang="krl">"-vaš"</span> and <span type="quote" xml:lang="sme">"-haš"</span> are declined like bisyllabic nouns whose ending in the comparative is <span type="quote" xml:lang="sme">"-eabbo"</span> or <span type="quote">"-abbo"</span>. The short endings <span type="quote" xml:lang="dan">"-at"</span> and <span type="quote" xml:lang="nob">"-et"</span> in the nominative singular alternate with <span type="quote">"-abbo"</span>/<span type="quote" xml:lang="sme">"-eabbo"</span> endings in the plural. Note that the ending <span type="quote" xml:lang="sme">"-eabbo"</span> is subject to gradation, with weak grade in the plural: <em type="italic">dábálat - dábálabbot, dábáleabbo - dábáleappot, dábálabbo - dábálabbot </em>'more common'. </p>
-<p>The comparative forms of trisyllabic adjectives take bisyllabic stems, with two syllables in the final foot in the nominative plural. The short endings <span type="quote" xml:lang="dan">"-at"</span> and <span type="quote" xml:lang="nob">"-et"</span> of the nominative singular alternate with the <span type="quote" xml:lang="sme">"-abbo-/-eabbo-"</span> endings used in forming the plural stem. Note that the ending <span type="quote" xml:lang="sme">"-eabbo"</span> is subject to gradation, with weak grade in the plural. <em type="italic">boarráset - boarráseappot, boarrásabbo - boarrásabbot. </em>'elder' </p>
-<p>The superlative forms retain their original feet, with the exception of contracted adjectives, which take bisyllabic stems. Bisyllabic and contracted adjectives take superlative endings in <span type="quote" xml:lang="sme">"-mus"</span>, while trisyllabic adjectives take endings in <span type="quote" xml:lang="sme">"-eamos/-amos"</span>. Note that the ending <span type="quote" xml:lang="sme">"-eamos"</span> is subject to gradation, with strong grade in the plural: <em type="italic">nuoramus - nuoramusat </em>'youngest', <em type="italic">dábálaččamus - dábálaččamusat </em>'most common', <em type="italic">stuorámus - stuorámusat </em>'biggest', <em type="italic">boarráseamos - boarrásepmosat </em>'eldest'. </p>
-<p>Bisyllabic adjectives that end in <span type="quote" xml:lang="sme">"-laš"</span>, <span type="quote" xml:lang="krl">"-vaš"</span> and <span type="quote" xml:lang="sme">"-haš"</span> can also be declined as trisyllabic nouns with a superlative ending in <span type="quote" xml:lang="sme">"-eamos/-amos"</span>. Note that the ending <span type="quote" xml:lang="sme">"-eamos"</span> is subject to gradation, with strong grade in the plural. <em type="italic">dábáleamos - dábálepmosat, dábálamos - dábálamosat </em>'most common'. </p>
+<p>Bisyllabic adjectives that end in <span type="quote" xml:lang="sme">"-laš"</span>, <span type="quote" xml:lang="krl">"-vaš"</span> and <span type="quote" xml:lang="sme">"-haš"</span> are declined like bisyllabic nouns whose ending in the comparative is <span type="quote" xml:lang="sme">"-eabbo"</span> or <span type="quote" xml:lang="som">"-abbo"</span>. The short endings <span type="quote" xml:lang="fao">"-at"</span> and <span type="quote" xml:lang="fra">"-et"</span> in the nominative singular alternate with <span type="quote" xml:lang="som">"-abbo"</span>/<span type="quote" xml:lang="sme">"-eabbo"</span> endings in the plural. Note that the ending <span type="quote" xml:lang="sme">"-eabbo"</span> is subject to gradation, with weak grade in the plural: <em type="italic">dábálat - dábálabbot, dábáleabbo - dábáleappot, dábálabbo - dábálabbot </em>'more common'. </p>
+<p>The comparative forms of trisyllabic adjectives take bisyllabic stems, with two syllables in the final foot in the nominative plural. The short endings <span type="quote" xml:lang="fao">"-at"</span> and <span type="quote" xml:lang="fra">"-et"</span> of the nominative singular alternate with the <span type="quote" xml:lang="sme">"-abbo-/-eabbo-"</span> endings used in forming the plural stem. Note that the ending <span type="quote" xml:lang="sme">"-eabbo"</span> is subject to gradation, with weak grade in the plural. <em type="italic">boarráset - boarráseappot, boarrásabbo - boarrásabbot. </em>'elder' </p>
+<p>The superlative forms retain their original feet, with the exception of contracted adjectives, which take bisyllabic stems. Bisyllabic and contracted adjectives take superlative endings in <span type="quote" xml:lang="sme">"-mus"</span>, while trisyllabic adjectives take endings in <span type="quote" xml:lang="spa">"-eamos/-amos"</span>. Note that the ending <span type="quote" xml:lang="sme">"-eamos"</span> is subject to gradation, with strong grade in the plural: <em type="italic">nuoramus - nuoramusat </em>'youngest', <em type="italic">dábálaččamus - dábálaččamusat </em>'most common', <em type="italic">stuorámus - stuorámusat </em>'biggest', <em type="italic">boarráseamos - boarrásepmosat </em>'eldest'. </p>
+<p>Bisyllabic adjectives that end in <span type="quote" xml:lang="sme">"-laš"</span>, <span type="quote" xml:lang="krl">"-vaš"</span> and <span type="quote" xml:lang="sme">"-haš"</span> can also be declined as trisyllabic nouns with a superlative ending in <span type="quote" xml:lang="spa">"-eamos/-amos"</span>. Note that the ending <span type="quote" xml:lang="sme">"-eamos"</span> is subject to gradation, with strong grade in the plural. <em type="italic">dábáleamos - dábálepmosat, dábálamos - dábálamosat </em>'most common'. </p>
 <p xml:lang="vep"><em type="bold">NOMINATIVE </em></p>
 <p>Shaded: weak grade</p>
 <p xml:lang="nob"><em type="bold">stem type </em></p>
 <p xml:lang="swe"><em type="bold">grade </em></p>
-<p xml:lang="isl"><em type="bold">singular </em></p>
+<p xml:lang="fao"><em type="bold">singular </em></p>
 <p><em type="bold">plural </em></p>
 <p>Bisyllabic stem</p>
 <p>Positive</p>
@@ -147,14 +147,14 @@
 <p>Superlative</p>
 <p xml:lang="sme"><em type="italic">stuorimus </em></p>
 <p xml:lang="sme"><em type="italic">stuorimusat, stuorámusat </em></p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">The accusative</p>
 <p>is the case used for indicating the object, e.g. <em type="italic">Mun oasttán 'hálbbibu'. </em>(I'll buy a cheaper one.) The accusative plural is indicated with <span type="quote" xml:lang="sme">"-id"</span>. </p>
 <p>Bisyllabic adjectives are weak grade in both the singular and plural: <em type="italic">nuora - nuoraid (nuorra) </em>'young'. </p>
 <p>Trisyllabic adjectives are strong grade if they are subject to gradation. In the accusative singular they end in "-a": <em type="italic">litnása - litnásiid (linis) </em>'soft', <em type="italic">ruoksada - ruoksadiid (ruoksat) </em>'red'. </p>
 <p>Contracted adjectives are strong or extra strong grade: <em type="italic">stuorrá - stuorráid (stuoris) </em>'big', <em type="italic">njálgá - njálgáid (njálggis) </em>'sweet'. </p>
 <p>The comparative form of bisyllabic and contracted adjectives, which is <span type="quote">"-t" in the nominative singular, is "-bu"</span>. <em type="italic">nuorabu - nuorabuid (nuorat) </em>'younger', <em type="italic">stuorábu - stuorábuid (stuorát) </em>'bigger', <em type="italic">dábálaččabu - dábálaččabuid (dábálaččat) </em>'more common'. <em type="italic">Mun oasttán 'hálbbibuid'. </em>(I'll buy the cheaper ones.) </p>
-<p>The comparative forms in <span type="quote">"-abbo"</span>/<span type="quote" xml:lang="sme">"-eabbo"</span>: Note that the ending <span type="quote" xml:lang="sme">"-eabbo"</span> is subject to gradation: <em type="italic">litnásabbo - litnásabbuid (litnásabbo), litnáseappo - litnáseappuid (litnáseabbo) </em>'softer'. </p>
+<p>The comparative forms in <span type="quote" xml:lang="som">"-abbo"</span>/<span type="quote" xml:lang="sme">"-eabbo"</span>: Note that the ending <span type="quote" xml:lang="sme">"-eabbo"</span> is subject to gradation: <em type="italic">litnásabbo - litnásabbuid (litnásabbo), litnáseappo - litnáseappuid (litnáseabbo) </em>'softer'. </p>
 <p><em type="italic">Mun vieččan 'boarráseappo'. </em>(I'll go get the older one.) <em type="italic">Mun vieččan 'boarráseappuid'. </em>(I'll go get the older ones.) </p>
 <p>The superlative forms: <em type="italic">Mun oasttán 'hálbbimusa'. </em>(I'll buy the cheapest one.) <em type="italic">Mun oasttán 'hálbbimusaid'. </em>(I'll buy the cheapest ones.) </p>
 <p>Note that the ending <span type="quote" xml:lang="sme">"-eamos"</span> is subject to gradation: <em type="italic">litnásamosa - litnásamosiid (litnásamos), litnásepmosa - litnásepmosiid (litnáseamos) </em>'softest' <em type="italic">dábálepmosa - dábálepmosiid (dábáleamos), dábálamosa - dábálamosiid (dábálamos) </em>'most common'. </p>
@@ -163,7 +163,7 @@
 <p>Shaded: weak grade</p>
 <p xml:lang="nob"><em type="bold">stem type </em></p>
 <p xml:lang="swe"><em type="bold">grade </em></p>
-<p xml:lang="isl"><em type="bold">singular </em></p>
+<p xml:lang="fao"><em type="bold">singular </em></p>
 <p><em type="bold">plural </em></p>
 <p>Bisyllabic stem</p>
 <p>Positive</p>
@@ -204,14 +204,14 @@
 <p>Superlative</p>
 <p xml:lang="sme"><em type="italic">stuorimusa, stuorámusa </em></p>
 <p xml:lang="sme"><em type="italic">stuorimusaid, stuorámusaid </em></p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">The genitive</p>
 <p>case indicates the possessor: <em type="italic">riggá </em>(the rich one's) - <em type="italic">riggáid </em>(the rich ones'). The genitive is also used to indicate the preposition and postposition complement, e.g. <em type="italic">'Jallaid' gaskkas lei jierbmái. </em>(There was a smart person among the fools.) The genitive plural ends in <span type="quote" xml:lang="sme">"-id"</span>. </p>
 <p>Bisyllabic adjectives are weak grade in both the singular and plural: <em type="italic">nuora - nuoraid (nuorra) </em>'young'. </p>
 <p>Trisyllabic adjectives are strong grade if they are subject to gradation. In the singular they end in "-a": <em type="italic">litnása - litnásiid (linis) </em>'soft', <em type="italic">ruoksada - ruoksadiid (ruoksat) </em>'red'. </p>
 <p>Contracted adjectives are strong or extra strong grade: <em type="italic">stuorrá - stuorráid (stuoris) </em>'big', <em type="italic">njálgá - njálgáid (njálggis) </em>'sweet'. </p>
 <p>The comparative forms of bisyllabic and contracted adjectives, with <span type="quote">"-t" in the nominative singular, take the ending "-bu"</span>. <em type="italic">nuorabu - nuorabuid (nuorat) </em>'younger', <em type="italic">stuorábu - stuorábuid (stuorát) </em>'bigger', <em type="italic">dábálaččabu - dábálaččabuid (dábálaččat) </em>'more common'. </p>
-<p>The comparative forms in <span type="quote">"-abbo"</span>/<span type="quote" xml:lang="sme">"-eabbo"</span>: Note that the ending <span type="quote" xml:lang="sme">"-eabbo"</span> is subject to gradation: <em type="italic">litnásabbo - litnásabbuid (litnásabbo), litnáseappo - litnáseappuid (litnáseabbo) </em>'softer'. </p>
+<p>The comparative forms in <span type="quote" xml:lang="som">"-abbo"</span>/<span type="quote" xml:lang="sme">"-eabbo"</span>: Note that the ending <span type="quote" xml:lang="sme">"-eabbo"</span> is subject to gradation: <em type="italic">litnásabbo - litnásabbuid (litnásabbo), litnáseappo - litnáseappuid (litnáseabbo) </em>'softer'. </p>
 <p><em type="italic">Dat lea 'boarráseappo' musihkka. </em>(That is music for older folks.) <em type="italic">Son lea 'boarráseappuid' gaskkas. </em>(He/She is one of the elders.) </p>
 <p>The superlative forms: <em type="italic">hálbbimusa - hálbbimusaid (hálbbimus) </em>'the cheapest' </p>
 <p>Note that the ending <span type="quote" xml:lang="sme">"-eamos"</span> is subject to gradation: <em type="italic">litnásamosa - litnásamosiid (litnásamos), litnásepmosa - litnásepmosiid (litnáseamos) </em>'softest' <em type="italic">dábálepmosa - dábálepmosiid (dábáleamos), dábálamosa - dábálamosiid (dábálamos) </em>'most common'. </p>
@@ -220,7 +220,7 @@
 <p>Shaded: weak grade</p>
 <p xml:lang="nob"><em type="bold">stem type </em></p>
 <p xml:lang="swe"><em type="bold">grade </em></p>
-<p xml:lang="isl"><em type="bold">singular </em></p>
+<p xml:lang="fao"><em type="bold">singular </em></p>
 <p><em type="bold">plural </em></p>
 <p>Bisyllabic stem</p>
 <p>Positive</p>
@@ -261,17 +261,17 @@
 <p>Superlative</p>
 <p xml:lang="sme"><em type="italic">stuorimusa, stuorámusa </em></p>
 <p xml:lang="sme"><em type="italic">stuorimusaid, stuorámusaid </em></p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">The illative</p>
 <p>is the case that indicates the direction of movement towards or into something or somebody: <em type="italic">Mun adden eanet vahkkoruđa 'boarrásebbui'. </em>(I gave more weekly allowance for the older one.) <em type="italic">Dát lea fálaldat 'riggáide'. </em>(This is a service for the rich.) <em type="italic">Mun attán vuoittu 'jođánepmosiidda' </em>. (I'll give a prize to the fastest ones.) </p>
 <p>Bisyllabic adjectives are strong grade, and the stem-final vowel may show variation when the case marker "-i" is added: <em type="italic">árgái (árgi) </em>'shy', <em type="italic">jallii (jalla) </em>'foolish', <em type="italic">hedjui (headju) </em>'bad', <em type="italic">dábálebbui (dábáleabbo) </em>'more common', <em type="italic">stuorámussii (stuorámus) </em>'biggest'. </p>
 <p>Trisyllabic adjectives are strong grade and take the ending <span type="quote" xml:lang="smn">"-ii"</span>: <em type="italic">apmasii (amas) </em>'strange', <em type="italic">viššalepmosii (viššaleamos) </em>'most hard-working'. Contracted adjectives are strong or extra strong grade and take the ending "-i": <em type="italic">njálgái (njálggat) </em>'sweet'. </p>
-<p>The plural form ends in <span type="quote" xml:lang="est">"-ide"</span>: <em type="italic">heajuide </em>'bad', <em type="italic">njálgáide </em>'sweet', <em type="italic">čeahpimusaide </em>'most skilled', <em type="italic">viššaleappuide </em>'harder-working', in the bisyllabic ajdectives, and <span type="quote" xml:lang="sme">"-idda"</span> in the trisyllabic ones: <em type="italic">apmasiidda </em>'to the strange ones', <em type="italic">viššalepmosiidda </em>'to the hardest-working ones', <em type="italic">nuorabuidda </em>'to the younger ones'. </p>
+<p>The plural form ends in <span type="quote" xml:lang="est">"-ide"</span>: <em type="italic">heajuide </em>'bad', <em type="italic">njálgáide </em>'sweet', <em type="italic">čeahpimusaide </em>'most skilled', <em type="italic">viššaleappuide </em>'harder-working', in the bisyllabic ajdectives, and <span type="quote" xml:lang="som">"-idda"</span> in the trisyllabic ones: <em type="italic">apmasiidda </em>'to the strange ones', <em type="italic">viššalepmosiidda </em>'to the hardest-working ones', <em type="italic">nuorabuidda </em>'to the younger ones'. </p>
 <p xml:lang="vep"><em type="bold">ILLATIVE </em></p>
 <p>Shaded: weak grade</p>
 <p xml:lang="nob"><em type="bold">stem type </em></p>
 <p xml:lang="swe"><em type="bold">grade </em></p>
-<p xml:lang="isl"><em type="bold">singular </em></p>
+<p xml:lang="fao"><em type="bold">singular </em></p>
 <p><em type="bold">plural </em></p>
 <p>Bisyllabic stem</p>
 <p>Positive</p>
@@ -312,16 +312,16 @@
 <p>Superlative</p>
 <p xml:lang="sme"><em type="italic">stuorimussii, stuorámussii </em></p>
 <p xml:lang="sme"><em type="italic">stuorimusaide, stuorámusaide </em></p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">The locative</p>
 <p>is the case that indicates the notions on/in/at or from. The locative can also be used to tell who has something: <em type="italic">'Jallas' ii leat ollu jierbmi. </em>(A fool doesn't have much sense.) <em type="italic">Sii soitet oažžut veahki 'riggáin'. </em>(They might get help from the rich.) <em type="italic">'Boarrásepmosiin' ii leat skuvla odne. </em>(The oldest ones don't have school today.) </p>
 <p>The locative is marked with "-s" in the singular. Bisyllabic adjectives are weak grade, and trisyllabic adjectives are strong grade: <em type="italic">apmasis (amas) </em>'strange', <em type="italic">boarráseappos (boarráseabbo) </em>'older'. Contracted adjectives are strong or extra strong grade: <em type="italic">riggás (rikkis) </em>'rich'. </p>
-<p>The plural takes the ending <span type="quote">"-in"</span>: <em type="italic">apmasiin </em>'strange', <em type="italic">riggáin </em>'rich', <em type="italic">nuoramusain </em>'youngest'. </p>
+<p>The plural takes the ending <span type="quote" xml:lang="ita">"-in"</span>: <em type="italic">apmasiin </em>'strange', <em type="italic">riggáin </em>'rich', <em type="italic">nuoramusain </em>'youngest'. </p>
 <p xml:lang="vep"><em type="bold">LOCATIVE </em></p>
 <p>Shaded: weak grade</p>
 <p xml:lang="nob"><em type="bold">stem type </em></p>
 <p xml:lang="swe"><em type="bold">grade </em></p>
-<p xml:lang="isl"><em type="bold">singular </em></p>
+<p xml:lang="fao"><em type="bold">singular </em></p>
 <p><em type="bold">plural </em></p>
 <p>Bisyllabic stem</p>
 <p>Positive</p>
@@ -351,7 +351,7 @@
 <p xml:lang="sme"><em type="italic">litnáseappuin, litnásabbuin </em></p>
 <p>Superlative</p>
 <p xml:lang="sme"><em type="italic">litnásepmosis, litnásamosis </em></p>
-<p xml:lang="smn"><em type="italic">litnásepmosiin, litnásamosiin </em></p>
+<p xml:lang="fkv"><em type="italic">litnásepmosiin, litnásamosiin </em></p>
 <p>Contracted</p>
 <p>Positive</p>
 <p xml:lang="smj"><em type="italic">stuorrás </em></p>
@@ -362,9 +362,9 @@
 <p>Superlative</p>
 <p xml:lang="sme"><em type="italic">stuorimusas, stuorámusas </em></p>
 <p xml:lang="sme"><em type="italic">stuorimusain, stuorámusain </em></p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">The comitative</p>
-<p>is the case that often marks the notion <span type="quote">"with"</span>: <em type="italic">Mun hupmen muhtun 'jallain'. </em>(I talked with some fool.) <em type="italic">Mii vuolgit dohko 'riggáiguin'. </em>(We are going there with rich people.) <em type="italic">Áhčči vuolgá 'boarrásepmosiiguin', ja eadni báhcá ruoktot 'nuoramusaiguin'. </em>(Dad is leaving with the oldest ones, and mom is staying home with the youngest ones.) In the singular the ending is <span type="quote">"-in"</span>. </p>
+<p>is the case that often marks the notion <span type="quote">"with"</span>: <em type="italic">Mun hupmen muhtun 'jallain'. </em>(I talked with some fool.) <em type="italic">Mii vuolgit dohko 'riggáiguin'. </em>(We are going there with rich people.) <em type="italic">Áhčči vuolgá 'boarrásepmosiiguin', ja eadni báhcá ruoktot 'nuoramusaiguin'. </em>(Dad is leaving with the oldest ones, and mom is staying home with the youngest ones.) In the singular the ending is <span type="quote" xml:lang="ita">"-in"</span>. </p>
 <p>Bisyllabic adjectives are weak grade in the comitative: <em type="italic">nuorain </em>'with the young one', <em type="italic">dábáleappuin </em>'with the more common one'. </p>
 <p>Trisyllabic adjectives are strong grade: <em type="italic">apmasiin (amas) </em>'with the strange one', <em type="italic">viššalepmosiin (viššaleamos) </em>'with the hardest working'. </p>
 <p>Contracted adjectives are strong or extra strong grade: <em type="italic">riggáin (rikkis) </em>'with the rich one'. </p>
@@ -373,7 +373,7 @@
 <p>Shaded: weak grade</p>
 <p xml:lang="nob"><em type="bold">stem type </em></p>
 <p xml:lang="swe"><em type="bold">grade </em></p>
-<p xml:lang="isl"><em type="bold">singular </em></p>
+<p xml:lang="fao"><em type="bold">singular </em></p>
 <p><em type="bold">plural </em></p>
 <p>Bisyllabic stem</p>
 <p>Positive</p>
@@ -402,7 +402,7 @@
 <p xml:lang="sme"><em type="italic">litnáseappuin, litnásabbuin </em></p>
 <p xml:lang="sme"><em type="italic">litnáseappuiguin, litnásabbuiguin </em></p>
 <p>Superlative</p>
-<p xml:lang="smn"><em type="italic">litnásepmosiin, litnásamosiin </em></p>
+<p xml:lang="fkv"><em type="italic">litnásepmosiin, litnásamosiin </em></p>
 <p xml:lang="sme"><em type="italic">litnásepmosiiguin, litnásamosiiguin </em></p>
 <p>Contracted</p>
 <p>Positive</p>
@@ -414,7 +414,7 @@
 <p>Superlative</p>
 <p xml:lang="sme"><em type="italic">stuorimusain, stuorámusain </em></p>
 <p xml:lang="sme"><em type="italic">stuorimusaiguin, stuorámusaiguin </em></p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">The essive</p>
 <p>is the case indicating state and might be translated with <span type="quote" xml:lang="vep">"as, like"</span>:</p>
 <p><em type="italic">Mun dovden iežan 'jallan'. </em>(I felt myself a fool.) </p>

@@ -1,9 +1,9 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>212</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/People-and-society/Citizenship-ceremonies/</origFileName><parallel_text xml:lang="nob" location="index_9.html"/><parallel_text xml:lang="sma" location="index_10.html"/><parallel_text xml:lang="sme" location="index_10.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="nno">Citizenship ceremonies - County Governor - Fylkesmannen.no</p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>212</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/People-and-society/Citizenship-ceremonies/</origFileName><parallel_text xml:lang="nob" location="index_9.html"/><parallel_text xml:lang="sma" location="index_10.html"/><parallel_text xml:lang="sme" location="index_10.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="nno">Citizenship ceremonies - County Governor - Fylkesmannen.no</p>
 <p>Jump to content</p>
 <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
 <list><p type="listitem">Sound version</p>
 <p type="listitem">High contrast</p>
-<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="mdf"></p>
 <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
 <p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
 <p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
@@ -28,7 +28,7 @@
 <p type="listitem">Changing your name</p>
 <p type="listitem">Citizenship ceremonies</p>
 <p type="listitem">Conciliation Boards</p>
-<p type="listitem">Elections</p>
+<p type="listitem" xml:lang="fra">Elections</p>
 <p type="listitem">Exemptions from the duty of confidentiality</p>
 <p type="listitem">Funding for political parties</p>
 <p type="listitem">Introduction programme for new arrivals in Norway</p>
@@ -45,10 +45,10 @@
 </list><p type="title">Citizenship ceremonies</p>
 <p xml:lang="est">Published 10/10/2012 Updated 3/27/2017</p>
 <p>Have you recently become a Norwegian citizen? The County Governor invites all new citizens over the age of 12 to take part in a citizenship ceremony. The purpose of this citizenship ceremony is to welcome new citizens and mark their entry into the Norwegian community. The ceremony is a festive occasion, and it is up to you to decide whether you would like to take part or not.</p>
-<list><p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
+<list><p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
 </list><p type="title" xml:lang="est">Links</p>
 <list><p type="listitem" xml:lang="nob">Lov om norsk statsborgerskap</p>
 </list></body></document>

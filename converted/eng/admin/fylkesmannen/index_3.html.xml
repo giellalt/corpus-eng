@@ -1,9 +1,9 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>310</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/People-and-society/Shop-opening-hours/</origFileName><parallel_text xml:lang="nob" location="index_3.html"/><parallel_text xml:lang="sma" location="index_3.html"/><parallel_text xml:lang="sme" location="index_3.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Shop opening hours - County Governor - Fylkesmannen.no</p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>310</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/People-and-society/Shop-opening-hours/</origFileName><parallel_text xml:lang="nob" location="index_3.html"/><parallel_text xml:lang="sma" location="index_3.html"/><parallel_text xml:lang="sme" location="index_3.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Shop opening hours - County Governor - Fylkesmannen.no</p>
 <p>Jump to content</p>
 <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
 <list><p type="listitem">Sound version</p>
 <p type="listitem">High contrast</p>
-<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="mdf"></p>
 <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
 <p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
 <p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
@@ -28,7 +28,7 @@
 <p type="listitem">Changing your name</p>
 <p type="listitem">Citizenship ceremonies</p>
 <p type="listitem">Conciliation Boards</p>
-<p type="listitem">Elections</p>
+<p type="listitem" xml:lang="fra">Elections</p>
 <p type="listitem">Exemptions from the duty of confidentiality</p>
 <p type="listitem">Funding for political parties</p>
 <p type="listitem">Introduction programme for new arrivals in Norway</p>
@@ -47,10 +47,10 @@
 <p>As a general rule, stores must remain closed on Sundays and public holidays. The County Governor may grant exemptions from this rule. Applications for exemptions should be made directly to the County Governor.</p>
 <p>When the County Governor processes retail outlet applications to remain open on Sundays and public holidays, we attach a particular importance to consideration being shown to employees. You must therefore document that the employees and employers have agreed to remain open on Sundays and public holidays. The County Governor will ask for comment from several parties, and you should therefore send any applications for an exemption one to two months prior to the Sunday or public holiday in question.</p>
 <p>Upon receipt of an application from the municipality in question, the County Governor may determine that an area should be considered a typical tourist destination for all or part of the year. In such cases, the limitations of opening hours as outlined in the Public Holidays Act do not apply.</p>
-<list><p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
+<list><p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
 </list><p type="title" xml:lang="est">Links</p>
 <list><p type="listitem" xml:lang="nob">Lov om helligdager og helligdagsfred</p>
 </list></body></document>

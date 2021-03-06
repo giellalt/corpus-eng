@@ -1,15 +1,15 @@
-<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Briefly</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>78</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=306&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=306_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=306_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=306_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=306_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Briefly</p>
-<p xml:lang="swe"></p>
-<p xml:lang="swe"></p>
+<document xml:lang="eng" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Briefly</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>78</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=306&amp;lang=english.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=306_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=306_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=306_lang=anaras.html"/><parallel_text xml:lang="sms" location="index2.php_option=com_content_task=view_id=306_lang=nuortta.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Briefly</p>
+<p xml:lang="mdf"></p>
+<p xml:lang="mdf"></p>
 <p>Floor space 4800 bm2</p>
 <p>Target price 14,9 million €</p>
 <p><em type="italic">Activities </em></p>
 <p type="listitem">Administrative offices</p>
-<p type="listitem">Cultural services</p>
+<p type="listitem" xml:lang="fra">Cultural services</p>
 <p type="listitem">Education and research services</p>
-<p type="listitem">Business development services</p>
-<p type="listitem">Sámi welfare services</p>
-<p type="listitem">Support services</p>
+<p type="listitem" xml:lang="fra">Business development services</p>
+<p type="listitem" xml:lang="fra">Sámi welfare services</p>
+<p type="listitem" xml:lang="fra">Support services</p>
 <p><em type="italic">Content </em></p>
 <p type="listitem">The centre of Sámi administration, culture, education and know-how</p>
 <p type="listitem">The building for events (cinema, music, meetings and conferences)</p>

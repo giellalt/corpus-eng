@@ -1,5 +1,5 @@
-<document xml:lang="eng" id="no_id"><header><title>Pronouns</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>6946</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/pronomen.eng.html</origFileName><parallel_text xml:lang="nob" location="pronomen.nob.html"/><parallel_text xml:lang="sme" location="pronomen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title">Pronouns</p>
-<list><p type="listitem">Pronouns</p>
+<document xml:lang="eng" id="no_id"><header><title>Pronouns</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>6946</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/pronomen.eng.html</origFileName><parallel_text xml:lang="nob" location="pronomen.nob.html"/><parallel_text xml:lang="sme" location="pronomen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="fra">Pronouns</p>
+<list><p type="listitem" xml:lang="fra">Pronouns</p>
 <p type="listitem" xml:lang="deu">Personal Pronouns</p>
 <p type="listitem">Demonstrative Pronouns</p>
 <p type="listitem">Demonstrative Pronouns in Combination with Nouns</p>
@@ -9,12 +9,12 @@
 <p type="listitem">Reciprocal Pronouns</p>
 <p type="listitem">Indefinite Pronouns</p>
 </list><p>Back to the grammar main page .</p>
-<p xml:lang="swe"></p>
-<p type="title">Pronouns</p>
+<p xml:lang="mdf"></p>
+<p type="title" xml:lang="fra">Pronouns</p>
 <p>Pronouns are words that are used in place of nouns.</p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title" xml:lang="deu">Personal Pronouns</p>
-<p>The personal pronouns in English are words such as <span type="quote">"I", "you"</span>, <span type="quote">"he", "she"</span>, <span type="quote">"it", "we"</span>, <span type="quote">"they"</span>, etc. In Saami, the equivalents come not only in the singular [sg.] and plural [pl.] but the dual [du.], as well. The dual is used when speaking of two people, e.g. <em type="italic">Moai bohte </em>(The two of us will come/We [du.] will come), and <em type="italic">Doai boahtibeahtti </em>(The two of you will come. / You [du.] will come.) The Saami language does not distinguish between <span type="quote">"him"</span> and <span type="quote" xml:lang="isl">"her"</span>, and there is only one third person singular pronoun, <em type="italic">son </em>. The nominative forms (dictionary forms) are: </p>
+<p>The personal pronouns in English are words such as <span type="quote">"I", "you"</span>, <span type="quote">"he", "she"</span>, <span type="quote">"it", "we"</span>, <span type="quote">"they"</span>, etc. In Saami, the equivalents come not only in the singular [sg.] and plural [pl.] but the dual [du.], as well. The dual is used when speaking of two people, e.g. <em type="italic">Moai bohte </em>(The two of us will come/We [du.] will come), and <em type="italic">Doai boahtibeahtti </em>(The two of you will come. / You [du.] will come.) The Saami language does not distinguish between <span type="quote" xml:lang="tur">"him"</span> and <span type="quote" xml:lang="fao">"her"</span>, and there is only one third person singular pronoun, <em type="italic">son </em>. The nominative forms (dictionary forms) are: </p>
 <list><p type="listitem" xml:lang="sme">singular: <em type="italic">mun, don, son </em></p>
 <p type="listitem" xml:lang="sme">dual: <em type="italic">moai, doai, soai </em></p>
 <p type="listitem" xml:lang="sme">plural: <em type="italic">mii, dii, sii </em></p>
@@ -55,7 +55,7 @@
 <p type="listitem">(The teacher heard news 'from those two'.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">'Mus' lea oaivi bávččas. </em></p>
 <p type="listitem">('I have' a head ache.)</p>
-</list><p>The <em type="italic">comitative </em>is the case that is often associated with the notion <span type="quote">"with"</span>. The plural pronoun forms are made by adding the ending <span type="quote" xml:lang="sme">"-guin"</span> to the accusative/genitive form (min-guin, din-guin, sin-guin), and dual pronoun forms are made by adding the <span type="quote">"-in"</span> ending to the accusative/genitive form, with a slight vowel change (munno-in &gt; munnuin, dudno-in &gt; dudnuin, sudno-in &gt; sudnuin), e.g. </p>
+</list><p>The <em type="italic">comitative </em>is the case that is often associated with the notion <span type="quote">"with"</span>. The plural pronoun forms are made by adding the ending <span type="quote" xml:lang="sme">"-guin"</span> to the accusative/genitive form (min-guin, din-guin, sin-guin), and dual pronoun forms are made by adding the <span type="quote" xml:lang="ita">"-in"</span> ending to the accusative/genitive form, with a slight vowel change (munno-in &gt; munnuin, dudno-in &gt; dudnuin, sudno-in &gt; sudnuin), e.g. </p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Mii gulahalaimet 'sudnuin'. </em></p>
 <p type="listitem">(We communicated 'with them [du.]'.)</p>
 <p type="listitem" xml:lang="smn"><em type="italic">Mun hupmen 'suinna'. </em></p>
@@ -68,27 +68,27 @@
 <p xml:lang="vep"><em type="italic">Nom. </em></p>
 <p xml:lang="deu"><em type="italic">Acc./Gen. </em></p>
 <p><em type="italic">Ill. </em></p>
-<p xml:lang="swe"><em type="italic">Loc. </em></p>
+<p xml:lang="fra"><em type="italic">Loc. </em></p>
 <p xml:lang="vep"><em type="italic">Com. </em></p>
 <p><em type="italic">Essive </em></p>
 <p xml:lang="smn"><em type="italic">mun </em></p>
 <p xml:lang="smn"><em type="italic">mu </em></p>
-<p xml:lang="smn"><em type="italic">munnje </em></p>
+<p xml:lang="hbs"><em type="italic">munnje </em></p>
 <p xml:lang="sme"><em type="italic">mus </em></p>
 <p xml:lang="kal"><em type="italic">muinna </em></p>
-<p xml:lang="fin"><em type="italic">munin </em></p>
+<p xml:lang="fao"><em type="italic">munin </em></p>
 <p xml:lang="sme"><em type="italic">don </em></p>
-<p xml:lang="sme"><em type="italic">du </em></p>
-<p xml:lang="sme"><em type="italic">dutnje </em></p>
+<p xml:lang="fra"><em type="italic">du </em></p>
+<p xml:lang="hbs"><em type="italic">dutnje </em></p>
 <p xml:lang="sme"><em type="italic">dus </em></p>
 <p xml:lang="sme"><em type="italic">duinna </em></p>
-<p xml:lang="ron"><em type="italic">dunin </em></p>
+<p xml:lang="tur"><em type="italic">dunin </em></p>
 <p xml:lang="nno"><em type="italic">son </em></p>
-<p xml:lang="kal"><em type="italic">su </em></p>
-<p xml:lang="smn"><em type="italic">sutnje </em></p>
+<p xml:lang="smn"><em type="italic">su </em></p>
+<p xml:lang="hbs"><em type="italic">sutnje </em></p>
 <p xml:lang="est"><em type="italic">sus </em></p>
 <p xml:lang="kal"><em type="italic">suinna </em></p>
-<p xml:lang="smn"><em type="italic">sunin </em></p>
+<p xml:lang="fao"><em type="italic">sunin </em></p>
 <p xml:lang="sme"><em type="italic">moai </em></p>
 <p xml:lang="fkv"><em type="italic">munno </em></p>
 <p xml:lang="sme"><em type="italic">munnuide </em></p>
@@ -104,9 +104,9 @@
 <p xml:lang="sme"><em type="italic">soai </em></p>
 <p xml:lang="rmn"><em type="italic">sudno </em></p>
 <p xml:lang="sme"><em type="italic">sudnuide </em></p>
-<p xml:lang="vep"><em type="italic">sudnos </em></p>
+<p xml:lang="spa"><em type="italic">sudnos </em></p>
 <p xml:lang="sme"><em type="italic">sudnuin </em></p>
-<p xml:lang="vep"><em type="italic">sudnon </em></p>
+<p xml:lang="ita"><em type="italic">sudnon </em></p>
 <p xml:lang="sme"><em type="italic">mii </em></p>
 <p xml:lang="fin"><em type="italic">min </em></p>
 <p xml:lang="sme"><em type="italic">midjiide </em></p>
@@ -118,14 +118,14 @@
 <p xml:lang="sme"><em type="italic">didjiide </em></p>
 <p xml:lang="sme"><em type="italic">dis </em></p>
 <p xml:lang="sme"><em type="italic">dinguin </em></p>
-<p xml:lang="ron"><em type="italic">dinin </em></p>
+<p xml:lang="kmr"><em type="italic">dinin </em></p>
 <p xml:lang="smn"><em type="italic">sii </em></p>
 <p xml:lang="fin"><em type="italic">sin </em></p>
 <p xml:lang="sme"><em type="italic">sidjiide </em></p>
 <p xml:lang="sme"><em type="italic">sis </em></p>
-<p xml:lang="sme"><em type="italic">singuin </em></p>
-<p xml:lang="fkv"><em type="italic">sinin </em></p>
-<p xml:lang="swe"></p>
+<p xml:lang="fao"><em type="italic">singuin </em></p>
+<p xml:lang="fao"><em type="italic">sinin </em></p>
+<p xml:lang="mdf"></p>
 <p type="title">Demonstrative Pronouns</p>
 <p>Demonstrative pronouns are used when referring to visible things or things that can be understood from the context. The Saami language has five pronouns:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">dat </em></p>
@@ -200,9 +200,9 @@
 <p>Ill.</p>
 <p xml:lang="sme"><em type="italic">dasa </em></p>
 <p xml:lang="sme"><em type="italic">daidda </em></p>
-<p xml:lang="sme"><em type="italic">duosa </em></p>
+<p xml:lang="ita"><em type="italic">duosa </em></p>
 <p xml:lang="sme"><em type="italic">duoidda </em></p>
-<p xml:lang="swe">Loc.</p>
+<p xml:lang="fra">Loc.</p>
 <p xml:lang="deu"><em type="italic">das </em></p>
 <p xml:lang="sme"><em type="italic">dain </em></p>
 <p xml:lang="sme"><em type="italic">duos </em></p>
@@ -214,8 +214,8 @@
 <p xml:lang="sme"><em type="italic">duoiguin </em></p>
 <p>Essive</p>
 <p xml:lang="sme"><em type="italic">danin </em></p>
-<p xml:lang="sme"><em type="italic">duonin </em></p>
-<p xml:lang="swe"></p>
+<p xml:lang="ita"><em type="italic">duonin </em></p>
+<p xml:lang="mdf"></p>
 <p type="title">Demonstrative Pronouns in Combination with Nouns</p>
 <p>The demonstrative pronouns can be used adnominally, as the premodifier of a noun. Here it is the noun that is declined in all cases, but the pronoun usually appears in the same case as the noun, e.g.</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">'Dieinna' mašiinnain lei álki goarrut. </em></p>
@@ -243,7 +243,7 @@
 <p>Ill.</p>
 <p xml:lang="sme"><em type="italic">dan mánnái </em></p>
 <p xml:lang="sme"><em type="italic">daidda mánáide </em></p>
-<p xml:lang="swe">Loc.</p>
+<p xml:lang="fra">Loc.</p>
 <p xml:lang="smj"><em type="italic">dan mánás </em></p>
 <p xml:lang="sme"><em type="italic">dain mánáin </em></p>
 <p xml:lang="vep">Com.</p>
@@ -251,7 +251,7 @@
 <p xml:lang="sme"><em type="italic">daiguin mánáiguin, daid mánáiguin </em></p>
 <p>Essive</p>
 <p xml:lang="sme"><em type="italic">danin mánnán </em></p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">Interrogative and Relative Pronouns</p>
 <p>Saami has the following interrogative and relative pronouns:</p>
 <list><p type="listitem"><em type="italic">mii </em>what </p>
@@ -275,7 +275,7 @@
 <p type="listitem">(Over there we have the girl who won the gold.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Dovddat go sin, 'geat' nuppi dálus orrot? </em></p>
 <p type="listitem">(Do you know the people, 'who' live in the other house?)</p>
-</list><p>The <em type="italic">accusative </em>is the case used to mark the object. Note that the accusative singular of <span type="quote" xml:lang="sme">"mii"</span> has two forms. The form <span type="quote" xml:lang="sma">"man"</span> is used in the meaning 'which of many', and the choice of selection is known or limited in the context. When the form <span type="quote" xml:lang="sme">"máid"</span> is used, there are no implications of choice from a predetermined group: </p>
+</list><p>The <em type="italic">accusative </em>is the case used to mark the object. Note that the accusative singular of <span type="quote" xml:lang="sme">"mii"</span> has two forms. The form <span type="quote" xml:lang="kmr">"man"</span> is used in the meaning 'which of many', and the choice of selection is known or limited in the context. When the form <span type="quote" xml:lang="sme">"máid"</span> is used, there are no implications of choice from a predetermined group: </p>
 <list><p type="listitem"><em type="italic">'Máid' don áiggut? </em>(What do you want to do/have?) </p>
 <p type="listitem" xml:lang="sme"><em type="italic">'Man' don siđat, dán, duon vai dien? </em></p>
 <p type="listitem">(Which one do you want? This, that over there or the one you have?)</p>
@@ -341,7 +341,7 @@
 <p type="listitem">(Do you know the girl 'that' I was just speaking 'with'?)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">'Geaiguin' don reivvestalat? </em></p>
 <p type="listitem">('Who' do you write letters 'to'?)</p>
-</list><p>The <em type="italic">essive </em>is the case expressing state, and it often bears the meaning <span type="quote" xml:lang="nno">"as/like/for"</span>. The essive ending is <span type="quote">"-in"</span> (gean-in, man-in): </p>
+</list><p>The <em type="italic">essive </em>is the case expressing state, and it often bears the meaning <span type="quote" xml:lang="nno">"as/like/for"</span>. The essive ending is <span type="quote" xml:lang="ita">"-in"</span> (gean-in, man-in): </p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">'Geanin' don gáttát iežat? </em></p>
 <p type="listitem">(Who do you think you are?)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">In muitte šat, 'manin' su gohčodedje. </em></p>
@@ -362,7 +362,7 @@
 <p xml:lang="sme"><em type="italic">gean </em></p>
 <p xml:lang="sme"><em type="italic">geaid </em></p>
 <p xml:lang="smj">Gen.</p>
-<p xml:lang="sma"><em type="italic">man </em></p>
+<p xml:lang="kmr"><em type="italic">man </em></p>
 <p xml:lang="sme"><em type="italic">maid </em></p>
 <p xml:lang="sme"><em type="italic">gean </em></p>
 <p xml:lang="sme"><em type="italic">geaid </em></p>
@@ -371,7 +371,7 @@
 <p xml:lang="sme"><em type="italic">maidda </em></p>
 <p xml:lang="sme"><em type="italic">geasa </em></p>
 <p xml:lang="sme"><em type="italic">geaidda </em></p>
-<p xml:lang="swe">Loc.</p>
+<p xml:lang="fra">Loc.</p>
 <p xml:lang="sme"><em type="italic">mas </em></p>
 <p xml:lang="sme"><em type="italic">main </em></p>
 <p xml:lang="sme"><em type="italic">geas </em></p>
@@ -382,9 +382,9 @@
 <p xml:lang="sme"><em type="italic">geainna </em></p>
 <p xml:lang="sme"><em type="italic">geaiguin </em></p>
 <p>Essive</p>
-<p xml:lang="sme"><em type="italic">manin </em></p>
+<p xml:lang="kmr"><em type="italic">manin </em></p>
 <p xml:lang="sme"><em type="italic">geanin </em></p>
-<p xml:lang="nob"><em type="italic">DECLENSION </em></p>
+<p xml:lang="fra"><em type="italic">DECLENSION </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
 <p xml:lang="est"><em type="italic">Plural </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
@@ -404,7 +404,7 @@
 <p xml:lang="sme"><em type="italic">guđiide </em></p>
 <p xml:lang="sme"><em type="italic">guđemužžii </em></p>
 <p xml:lang="sme"><em type="italic">guđemuččaide </em></p>
-<p xml:lang="swe">Loc.</p>
+<p xml:lang="fra">Loc.</p>
 <p xml:lang="smj"><em type="italic">guđes </em></p>
 <p xml:lang="sme"><em type="italic">guđiin </em></p>
 <p xml:lang="sme"><em type="italic">guđemuččas </em></p>
@@ -417,7 +417,7 @@
 <p>Essive</p>
 <p xml:lang="sma"><em type="italic">guhten </em></p>
 <p xml:lang="sme"><em type="italic">guđemužžan </em></p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">Interrogative and Relative Pronouns in Combination with Nouns</p>
 <p>Interrogative and relative pronouns can premodify nouns. Here it is the noun that is declined for case and number. The premodifying pronoun is usually in the same case as the noun, e.g.</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">'Goappáin' biillain don vuolggát? </em></p>
@@ -452,7 +452,7 @@
 <p>Ill.</p>
 <p xml:lang="sme"><em type="italic">guđe vissui </em></p>
 <p xml:lang="sme"><em type="italic">guđiide viesuide </em></p>
-<p xml:lang="swe">Loc.</p>
+<p xml:lang="fra">Loc.</p>
 <p xml:lang="sme"><em type="italic">guđe viesus </em></p>
 <p xml:lang="sme"><em type="italic">guđiin viesuin </em></p>
 <p xml:lang="vep">Com.</p>
@@ -475,7 +475,7 @@
 <p>Ill.</p>
 <p xml:lang="sme"><em type="italic">man vissui </em></p>
 <p xml:lang="sme"><em type="italic">maidda viesuide </em></p>
-<p xml:lang="swe">Loc.</p>
+<p xml:lang="fra">Loc.</p>
 <p xml:lang="sme"><em type="italic">man viesus </em></p>
 <p xml:lang="sme"><em type="italic">main viesuin </em></p>
 <p xml:lang="vep">Com.</p>
@@ -489,7 +489,7 @@
 <p type="listitem">(What kind of problems are you having?).</p>
 <p type="listitem" xml:lang="sme"><em type="italic">'Gii' gussiid dohko bođii? </em></p>
 <p type="listitem">(Which guest was it that came there?).</p>
-</list><p>When the pronoun is declined in the accusative singular <span type="quote" xml:lang="sma">"man"</span>, the noun is declined in the accusative singular, as well, and the construction has the meaning <span type="quote" xml:lang="deu">"which"</span>. When the pronoun appears in the <span type="quote" xml:lang="sme">"maid"</span> form, however, the noun is declined in the plural, and the construction has the meaning <span type="quote">"what kind of"</span>:</p>
+</list><p>When the pronoun is declined in the accusative singular <span type="quote" xml:lang="kmr">"man"</span>, the noun is declined in the accusative singular, as well, and the construction has the meaning <span type="quote" xml:lang="deu">"which"</span>. When the pronoun appears in the <span type="quote" xml:lang="sme">"maid"</span> form, however, the noun is declined in the plural, and the construction has the meaning <span type="quote">"what kind of"</span>:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">'Maid' herskuid galggašii alla hearráide guossohit? </em></p>
 <p type="listitem">(What kind of delicacies should we treat the honored guests to?).</p>
 <p type="listitem" xml:lang="sme"><em type="italic">'Man' biilla áiggut oastit? </em></p>
@@ -503,7 +503,7 @@
 <p type="listitem">(What people were at the wedding?).</p>
 <p type="listitem" xml:lang="sme"><em type="italic">'Geat' olbmuid dohko ges fárrejit? </em></p>
 <p type="listitem">(What kind of people would move there?).</p>
-</list><p xml:lang="swe"></p>
+</list><p xml:lang="mdf"></p>
 <p type="title">The Pronoun 'ieš'</p>
 <p>The pronoun <span type="quote" xml:lang="sme">"ieš"</span> is inflected for person, number and case. It refers to the subject of the sentence, and is inflected for the same person and number as the subject. The case of this reflexive/intensive pronoun, however, is determined by the function the pronoun takes in the sentence. Hence, the subject and <span type="quote" xml:lang="sme">"ieš"</span> pronoun are not necessarily inflected for the same case.</p>
 <p>The <em type="italic">nominative </em>is the base form of the pronoun. There are only two forms in the nominative: <span type="quote" xml:lang="sme">"ieš"</span> is used in the singular, and <span type="quote" xml:lang="sme">"ieža"</span> in the dual and plural: </p>
@@ -526,21 +526,21 @@
 <p type="listitem">(They are talking about 'their own' things.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Ean fuola su 'iežame' mielde. </em></p>
 <p type="listitem">(We don't want to have her come with 'us [du.]'.)</p>
-</list><p>The <em type="italic">illative </em>is the case that indicates motion towards or into something. The illative form is a combination of <span type="quote">"alcces"</span> and the possessive suffixes for vowel stem nouns. There are also short forms where 'alcca-' or 'alcce-' are combined with possessive suffixes for vowel stem nouns: </p>
+</list><p>The <em type="italic">illative </em>is the case that indicates motion towards or into something. The illative form is a combination of <span type="quote" xml:lang="spa">"alcces"</span> and the possessive suffixes for vowel stem nouns. There are also short forms where 'alcca-' or 'alcce-' are combined with possessive suffixes for vowel stem nouns: </p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Son dahká 'alccesis/alcces' bárttiid. </em></p>
 <p type="listitem">(She/He makes problems 'for herself/himself'.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Moai oste 'alcceseame/alcceme' ođđa biilla. </em></p>
 <p type="listitem">(We [du.] will buy 'ourselves' a new car.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Doai rabaide 'alcceseatte/alccede' konttu báŋkkus. </em></p>
 <p type="listitem">(The two of you opened 'yourselves [2du.]' an account at the bank.)</p>
-</list><p>The <em type="italic">locative </em>is the case used to provide the notions <span type="quote">"on/in/at"</span> as well as <span type="quote" xml:lang="nno">"from"</span>. The locative can also be used for the <span type="quote">"have"</span> construction. The form is a combination of <span type="quote" xml:lang="sme">"alddi-"</span> and the possessive suffixes for vowel stem nouns. In the dual and plural the locative can be formed using <span type="quote" xml:lang="sme">"alddiin-"</span> combined with possessive suffixes: </p>
+</list><p>The <em type="italic">locative </em>is the case used to provide the notions <span type="quote">"on/in/at"</span> as well as <span type="quote" xml:lang="nno">"from"</span>. The locative can also be used for the <span type="quote">"have"</span> construction. The form is a combination of <span type="quote" xml:lang="ita">"alddi-"</span> and the possessive suffixes for vowel stem nouns. In the dual and plural the locative can be formed using <span type="quote" xml:lang="sme">"alddiin-"</span> combined with possessive suffixes: </p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Itgo oainne 'alddát' sivaid? </em></p>
 <p type="listitem">(Don't you see 'your own' shortcomings?)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Soai leaba 'alddiska/alddiineaskka' viežžan ruđaid. </em></p>
 <p type="listitem">(They [du.] have gone and taken money 'from home '.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Mis lea 'alddámet/alddiineamet' biila. </em></p>
 <p type="listitem">(We have a car 'of our own'.)</p>
-</list><p>The <em type="italic">comitative </em>is the case that usually conveys the notion <span type="quote">"with"</span>. The comitative is formed by concatenating <span type="quote" xml:lang="sme">"ieža"</span> with the case ending <span type="quote">"-in"</span> and a subsequent possessive suffix: </p>
+</list><p>The <em type="italic">comitative </em>is the case that usually conveys the notion <span type="quote">"with"</span>. The comitative is formed by concatenating <span type="quote" xml:lang="sme">"ieža"</span> with the case ending <span type="quote" xml:lang="ita">"-in"</span> and a subsequent possessive suffix: </p>
 <list><p type="listitem" xml:lang="nob"><em type="italic">Son lávllodii 'iežainis'. </em>(She sang 'by herself'.) </p>
 <p type="listitem" xml:lang="sme"><em type="italic">Soai leaba 'iežaineaskka' jurddašan ahte dál ii gánnát biilla oastit. </em></p>
 <p type="listitem">(They [du.] have come to the conclusion that it isn't worth it to buy a car now.)</p>
@@ -549,12 +549,12 @@
 <p xml:lang="deu"><em type="italic">Person </em></p>
 <p xml:lang="deu"><em type="italic">Acc./Gen. </em></p>
 <p><em type="italic">Ill. </em></p>
-<p xml:lang="swe"><em type="italic">Loc. </em></p>
+<p xml:lang="fra"><em type="italic">Loc. </em></p>
 <p xml:lang="vep"><em type="italic">Com. </em></p>
 <p><em type="italic">Essive </em></p>
 <p xml:lang="smn"><em type="italic">mun </em></p>
 <p xml:lang="sme"><em type="italic">iežan, iehčan </em></p>
-<p><em type="italic">alccesan, alccen, alccan </em></p>
+<p xml:lang="spa"><em type="italic">alccesan, alccen, alccan </em></p>
 <p xml:lang="sme"><em type="italic">alddán </em></p>
 <p xml:lang="vep"><em type="italic">iežainan </em></p>
 <p xml:lang="smj"><em type="italic">iehčanan </em></p>
@@ -566,7 +566,7 @@
 <p xml:lang="sme"><em type="italic">iehčanat </em></p>
 <p xml:lang="nno"><em type="italic">son </em></p>
 <p xml:lang="sme"><em type="italic">iežas </em></p>
-<p><em type="italic">alccesis, alcces </em></p>
+<p xml:lang="spa"><em type="italic">alccesis, alcces </em></p>
 <p xml:lang="sme"><em type="italic">alddis </em></p>
 <p xml:lang="sme"><em type="italic">iežainis </em></p>
 <p xml:lang="smn"><em type="italic">iehčanis </em></p>
@@ -578,7 +578,7 @@
 <p xml:lang="sma"><em type="italic">iehčaneame </em></p>
 <p xml:lang="sme"><em type="italic">doai </em></p>
 <p xml:lang="smj"><em type="italic">iežade </em></p>
-<p xml:lang="ron"><em type="italic">alcceseatte, alccede, alccade </em></p>
+<p xml:lang="ita"><em type="italic">alcceseatte, alccede, alccade </em></p>
 <p xml:lang="sme"><em type="italic">alddáde, alddiineatte </em></p>
 <p xml:lang="sme"><em type="italic">iežaineatte </em></p>
 <p xml:lang="sme"><em type="italic">iehčaneatte </em></p>
@@ -606,7 +606,7 @@
 <p xml:lang="sme"><em type="italic">alddiset, alddiineaset </em></p>
 <p xml:lang="sme"><em type="italic">iežaineaset </em></p>
 <p xml:lang="sme"><em type="italic">iehčaneaset </em></p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">Reciprocal Pronouns</p>
 <p>The reciprocal pronouns can be translated as <span type="quote">"one another/ each other"</span>. The idea behind the construction is that two or more people are involved in a situation, such as one involving <span type="quote">"A" and "B"</span>: A sees B and B sees A. In Saami the construction involves two constituents. The first one represents the subject, and is therefore always in the nominative, and the second one represents the object or any other argument of the verb, and is therefore declined in a case other than the nominative. In Saami there are three reciprocal pronoun constructions, each with its own subtleties:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">nubbi nuppi </em></p>
@@ -658,7 +658,7 @@
 <p type="listitem">(They [pl.] yelled 'at each other'.)</p>
 </list><p>The <em type="italic">essive </em>is the case expressing state, and it often bears the meaning <span type="quote" xml:lang="nno">"as/like/for"</span>. The essive ending is "-n": </p>
 <list><p type="listitem"><em type="italic">Soai dahkaluttaiga 'nubbi nubbin'. </em>(They [du.] pretended to be 'each other'.) </p>
-</list><p xml:lang="swe"><em type="italic"><span type="quote" xml:lang="sme">"nubbi nuppi"</span> </em></p>
+</list><p xml:lang="mdf"><em type="italic"><span type="quote" xml:lang="sme">"nubbi nuppi"</span> </em></p>
 <p>'each other / one another'</p>
 <p><em type="italic">Om to </em></p>
 <p xml:lang="nob"><em type="italic">Om flere enn to </em></p>
@@ -668,21 +668,21 @@
 <p>Ill.</p>
 <p xml:lang="sme"><em type="italic">nubbi nubbái </em></p>
 <p xml:lang="sme"><em type="italic">nuppit nuppiide </em></p>
-<p xml:lang="swe">Loc.</p>
+<p xml:lang="fra">Loc.</p>
 <p xml:lang="sme"><em type="italic">nubbi nuppis </em></p>
 <p xml:lang="fkv"><em type="italic">nuppit nuppiin </em></p>
 <p xml:lang="vep">Com.</p>
 <p xml:lang="sme"><em type="italic">nubbi nuppiin </em></p>
 <p xml:lang="sme"><em type="italic">nuppit nuppiiguin </em></p>
 <p>Essive</p>
-<p xml:lang="sme"><em type="italic">nubbi nubbin </em></p>
+<p xml:lang="kmr"><em type="italic">nubbi nubbin </em></p>
 <p xml:lang="sme"><em type="italic">nuppit nubbin </em></p>
-<p xml:lang="swe"><em type="italic"><span type="quote" xml:lang="sme">"goabbat/guhtet guoibmi"</span> </em></p>
+<p xml:lang="mdf"><em type="italic"><span type="quote" xml:lang="sme">"goabbat/guhtet guoibmi"</span> </em></p>
 <p>'each other / one another'</p>
 <p xml:lang="deu"><em type="italic">Person </em></p>
 <p xml:lang="deu"><em type="italic">Acc./Gen. </em></p>
 <p><em type="italic">Ill. </em></p>
-<p xml:lang="swe"><em type="italic">Loc. </em></p>
+<p xml:lang="fra"><em type="italic">Loc. </em></p>
 <p xml:lang="vep"><em type="italic">Com. </em></p>
 <p xml:lang="sme"><em type="italic">moai </em></p>
 <p xml:lang="sme"><em type="italic">goabbat guoibmáme </em></p>
@@ -714,7 +714,7 @@
 <p xml:lang="sme"><em type="italic">guhtet guoibmáseaset, guimmiidasaset </em></p>
 <p xml:lang="sme"><em type="italic">guhtet guoimmisteaset, guimmiineaset </em></p>
 <p xml:lang="sme"><em type="italic">guhtet guimmiineaset, guimmiideasetguin </em></p>
-<p xml:lang="swe"></p>
+<p xml:lang="mdf"></p>
 <p type="title">Indefinite Pronouns</p>
 <p>Saami has several indefinite pronouns. An indefinite pronoun does not make reference to any definite person or thing in the given context. In English words such as <span type="quote">"anything"</span>, <span type="quote">"somebody"</span>, <span type="quote">"both"</span> and <span type="quote">"all"</span> fall into this category. In Saami the indefinite pronouns can appear both as independent constituents and as premodifiers of nouns. When the pronouns appear alone, most of them are inflected in all cases, and note should be made as to whether they have vowel, consonant or contracted stems.</p>
 <p>When indefinite pronouns appear as premodifiers of nouns, not all of them are inflected. When pronouns are inflected preceding a noun, they usually follow regular agreement patterns.</p>
@@ -722,7 +722,7 @@
 <list><p type="listitem">– The pronoun is declined in the same way as the noun it premodifies, with the exception of the illative and locative singular, and comitative plural forms.</p>
 <p type="listitem">– When an indefinite pronoun premodifies a noun in the locative or illative singular, it is inflected in the accusative/genitive singular.</p>
 <p type="listitem">– When an indefinite pronoun premodifies a noun in the comitative plural, it can either be inflected for the comitative plural itself or the accusative/genitive plural.</p>
-</list><p>The following pronouns can be translated as <span type="quote">"all"</span>, <span type="quote">"each"</span>, <span type="quote">"every"</span>, <span type="quote">"many"</span> or something similar:</p>
+</list><p>The following pronouns can be translated as <span type="quote">"all"</span>, <span type="quote">"each"</span>, <span type="quote">"every"</span>, <span type="quote" xml:lang="pol">"many"</span> or something similar:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">buohkat </em>'all/everyone' </p>
 <p type="listitem"><em type="italic">buot </em>'all/everything' </p>
 <p type="listitem" xml:lang="sme"><em type="italic">juohke </em>'each, both" </p>
@@ -761,7 +761,7 @@
 <p type="listitem" xml:lang="sme"><em type="italic">(ii) makkárge </em>'no such' </p>
 <p type="listitem" xml:lang="sme"><em type="italic">uhccán, unnán </em>'little, not much' </p>
 <p type="listitem" xml:lang="sme"><em type="italic">veaháš, veháš </em>'a little, little, slight' </p>
-</list><p>Note the most of the pronouns are interrogative and relative pronouns combined with the particle <span type="quote" xml:lang="deu">"-ge"</span> and the verb of negation. In combinations like this the translation would be <span type="quote">"no one/ not any"</span>. All the pronouns can appear alone or as premodifiers of nouns. The pronouns <span type="quote" xml:lang="sme">"uhccán, unnán"</span> '', <span type="quote" xml:lang="sme">"veaháš, veháš"</span> '' and <span type="quote" xml:lang="sme">"makkárge"</span> '' are not declined when they premodify nouns. The other pronouns follow regular rules of agreement in the function of premodifier. Note that the verb of negation agrees for number and person with the subject of the sentence:</p>
+</list><p>Note the most of the pronouns are interrogative and relative pronouns combined with the particle <span type="quote" xml:lang="yid">"-ge"</span> and the verb of negation. In combinations like this the translation would be <span type="quote">"no one/ not any"</span>. All the pronouns can appear alone or as premodifiers of nouns. The pronouns <span type="quote" xml:lang="sme">"uhccán, unnán"</span> '', <span type="quote" xml:lang="sme">"veaháš, veháš"</span> '' and <span type="quote" xml:lang="sme">"makkárge"</span> '' are not declined when they premodify nouns. The other pronouns follow regular rules of agreement in the function of premodifier. Note that the verb of negation agrees for number and person with the subject of the sentence:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Mus leat 'unnán' biktasat. </em></p>
 <p type="listitem">(I have few clothes.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Mánás lea 'veaháš' nuorvu. </em></p>
@@ -774,7 +774,7 @@
 <p type="listitem">(Not a 'single' person came to the meeting.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Mis eai leat 'makkárge' heađit. </em></p>
 <p type="listitem">(We don't have any kind of problems.)</p>
-</list><p>When pronouns appear alone, they are declined for case. Pronouns that are formed from a pronoun and the <span type="quote" xml:lang="deu">"-ge"</span> particle do not decline in the comitative plural. The words <span type="quote" xml:lang="sme">"oktage"</span> '(not) a single', <span type="quote" xml:lang="sme">"guhtege"</span> '' and <span type="quote" xml:lang="sme">"goabbáge"</span> 'both, each of the two' are declined like vowel stem nouns, with the case endings preceding the particle <span type="quote" xml:lang="deu">"-ge"</span>:</p>
+</list><p>When pronouns appear alone, they are declined for case. Pronouns that are formed from a pronoun and the <span type="quote" xml:lang="yid">"-ge"</span> particle do not decline in the comitative plural. The words <span type="quote" xml:lang="sme">"oktage"</span> '(not) a single', <span type="quote" xml:lang="sme">"guhtege"</span> '' and <span type="quote" xml:lang="sme">"goabbáge"</span> 'both, each of the two' are declined like vowel stem nouns, with the case endings preceding the particle <span type="quote" xml:lang="yid">"-ge"</span>:</p>
 <list><p type="listitem"><em type="italic">Mun in oaidnán 'ovttage'. </em>(I didn't see 'a single person'.) </p>
 <p type="listitem" xml:lang="sme"><em type="italic">Son ii fuola 'ovttaidge' sabehiid. </em></p>
 <p type="listitem">(He/She won't have 'any of' the skis.)</p>
@@ -817,7 +817,7 @@
 <p xml:lang="sme"><em type="italic">maiddage </em></p>
 <p xml:lang="sme"><em type="italic">geasage </em></p>
 <p xml:lang="sme"><em type="italic">geaiddage </em></p>
-<p xml:lang="swe">Loc.</p>
+<p xml:lang="fra">Loc.</p>
 <p xml:lang="sme"><em type="italic">mastege, masge </em></p>
 <p xml:lang="dan"><em type="italic">mainge </em></p>
 <p xml:lang="sme"><em type="italic">geastege, geasge </em></p>
@@ -893,7 +893,7 @@
 <p xml:lang="smj"><em type="italic">juoga </em></p>
 <p>Ill.</p>
 <p xml:lang="smj"><em type="italic">juosat </em></p>
-<p xml:lang="swe">Loc.</p>
+<p xml:lang="fra">Loc.</p>
 <p xml:lang="smj"><em type="italic">juostá </em></p>
 <p xml:lang="vep">Com.</p>
 <p xml:lang="sme"><em type="italic">juoidáin </em></p>
