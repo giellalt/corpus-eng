@@ -1,9 +1,9 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>358</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/People-and-society/Exemptions-from-the-duty-of-confidentiality/</origFileName><parallel_text xml:lang="nob" location="index_7.html"/><parallel_text xml:lang="sma" location="index_7.html"/><parallel_text xml:lang="sme" location="index_7.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Exemptions from the duty of confidentiality - County Governor - Fylkesmannen.no</p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>358</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/People-and-society/Exemptions-from-the-duty-of-confidentiality/</origFileName><parallel_text xml:lang="nob" location="index_7.html"/><parallel_text xml:lang="sma" location="index_7.html"/><parallel_text xml:lang="sme" location="index_7.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Exemptions from the duty of confidentiality - County Governor - Fylkesmannen.no</p>
 <p>Jump to content</p>
 <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
 <list><p type="listitem">Sound version</p>
 <p type="listitem">High contrast</p>
-<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="mdf"></p>
 <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
 <p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
 <p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
@@ -28,7 +28,7 @@
 <p type="listitem">Changing your name</p>
 <p type="listitem">Citizenship ceremonies</p>
 <p type="listitem">Conciliation Boards</p>
-<p type="listitem">Elections</p>
+<p type="listitem" xml:lang="fra">Elections</p>
 <p type="listitem">Exemptions from the duty of confidentiality</p>
 <p type="listitem">Funding for political parties</p>
 <p type="listitem">Introduction programme for new arrivals in Norway</p>
@@ -47,15 +47,15 @@
 <p>If you are employed in a school, nursery school, the Child Welfare Service of Norway or the social services, are a civil servant in the health and care services sector or work with assignments pursuant to the Introduction Act, you must obtain an exemption from the duty of confidentiality if you are to bear witness in legal proceedings or give evidence in a police investigation concerning an actual criminal offence. Exemptions from the duty of confidentiality are granted by the County Governor.</p>
 <p>If the County Governor does not give any such exemption, the court may nevertheless rule that you testify. The court may equally rule that you may not give evidence, even if the County Governor has granted an exemption from the duty of confidentiality.</p>
 <p>Exemptions from the County Governor are not necessary if the person who is entitled to confidentiality agrees that the information may be released. In child custody cases, employees in the field of child welfare do not need to seek out an exemption from the duty of confidentiality from the County Governor. Child protection services can give information to the courts unhindered by the duty of confidentiality.</p>
-<list><p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
+<list><p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
 </list><p type="title" xml:lang="est">Links</p>
 <list><p type="listitem" xml:lang="nno">Helse- og omsorgstjenesteloven</p>
 <p type="listitem" xml:lang="nob">Lov om barneverntjenester</p>
 <p type="listitem" xml:lang="vep">Barnehageloven</p>
-<p type="listitem" xml:lang="dan">Opplæringslova</p>
+<p type="listitem" xml:lang="fao">Opplæringslova</p>
 <p type="listitem" xml:lang="nob">Introduksjonsloven</p>
 <p type="listitem" xml:lang="fin">Spesialisthelsetjenesteloven</p>
 <p type="listitem" xml:lang="sma">Sosialtjenesteloven</p>

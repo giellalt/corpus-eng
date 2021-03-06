@@ -1,9 +1,9 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>448</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/Health-care-and-social-services/Financial-social-assistance/</origFileName><parallel_text xml:lang="nob" location="index_25.html"/><parallel_text xml:lang="sma" location="index_25.html"/><parallel_text xml:lang="sme" location="index_25.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Financial social assistance - County Governor - Fylkesmannen.no</p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>448</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://www.fylkesmannen.no/en/Health-care-and-social-services/Financial-social-assistance/</origFileName><parallel_text xml:lang="nob" location="index_25.html"/><parallel_text xml:lang="sma" location="index_25.html"/><parallel_text xml:lang="sme" location="index_25.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 161400 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Financial social assistance - County Governor - Fylkesmannen.no</p>
 <p>Jump to content</p>
 <p xml:lang="nno">County Governor - Fylkesmannen.no</p>
 <list><p type="listitem">Sound version</p>
 <p type="listitem">High contrast</p>
-<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="mdf"></p>
 <p type="listitem" xml:lang="nno">Language <em type="italic"></em><list><p type="listitem">English</p>
 <p type="listitem" xml:lang="nno">Norsk (bokmål)</p>
 <p type="listitem" xml:lang="nno">Norsk (nynorsk)</p>
@@ -22,13 +22,13 @@
 </list><p xml:lang="nob">County Governor</p>
 <p>Health, care and social services</p>
 <p>Financial social assistance</p>
-<list><p type="listitem">Care services</p>
+<list><p type="listitem" xml:lang="fra">Care services</p>
 <p type="listitem">Combating poverty</p>
 <p type="listitem">Crisis centres</p>
 <p type="listitem">Driving licences</p>
 <p type="listitem">Financial social assistance</p>
 <p type="listitem" xml:lang="rmy-rlo">Guardianship</p>
-<p type="listitem">Health services</p>
+<p type="listitem" xml:lang="fra">Health services</p>
 <p type="listitem">Individual plans</p>
 <p type="listitem">Involuntary treatment</p>
 <p type="listitem">Medical internship placements</p>
@@ -47,10 +47,10 @@
 <p>The County Governor has a supervisory authority, which means it has a right and an obligation to supervise whether the municipality is fulfilling its obligations under chapter 4 of the Act on Social Services in the Norwegian Labour and Welfare Administration. Chapter 4 governs the individual services covered by the Act, including financial support.</p>
 <p type="title">Debt counselling</p>
 <p>Each municipality must offer its residents financial advice or debt counselling. This counselling service is often affiliated with the local NAV office, and it is administered in accordance with the Social Services Act. The County Governor’s responsibilities are aimed at municipalities and involve, among other things, offering training and courses to municipal employees.</p>
-<list><p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
-<p type="listitem" xml:lang="swe"/>
+<list><p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
+<p type="listitem" xml:lang="mdf"/>
 </list><p type="title" xml:lang="est">Links</p>
 <list><p type="listitem" xml:lang="smj">Nav</p>
 <p type="listitem" xml:lang="nob">Lov om sosiale tjenester i NAV</p>

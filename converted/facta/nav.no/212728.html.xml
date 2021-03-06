@@ -1,4 +1,4 @@
-<document xml:lang="eng" id="no_id"><header><title>NAV - Stay in Norway - Child benefit</title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>947</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><multilingual/><origFileName>http://www.nav.no/English/Stay+in+Norway/212728.cms</origFileName><parallel_text xml:lang="nno" location="805322312.html"/><parallel_text xml:lang="nob" location="barnetrygd.html"/><parallel_text xml:lang="sme" location="barnetrygd.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"></p>
+<document xml:lang="eng" id="no_id"><header><title>NAV - Stay in Norway - Child benefit</title><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="nob"/><publChannel><publication><publisher>NAV</publisher></publication></publChannel><wordcount>947</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@samediggi.no"/><multilingual/><origFileName>http://www.nav.no/English/Stay+in+Norway/212728.cms</origFileName><parallel_text xml:lang="nno" location="805322312.html"/><parallel_text xml:lang="nob" location="barnetrygd.html"/><parallel_text xml:lang="sme" location="barnetrygd.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 31551 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="mdf"></p>
 <p type="title">Child benefit</p>
 <p>Child benefit is a kind of benefit that is paid for all children under the age of 18 years who live in Norway. The purpose of child benefit is to help cover the costs of raising children. Single parents are entitled to child benefit for one child more than they actually live with (extended child benefit).</p>
 <p type="title">Who can receive child benefit?</p>
@@ -56,25 +56,25 @@
 <p xml:lang="smj">Jan</p>
 <p xml:lang="deu">Feb</p>
 <p>March</p>
-<p xml:lang="nob">Apr</p>
+<p xml:lang="fra">Apr</p>
 <p>May</p>
 <p xml:lang="nno">June</p>
 <p>July</p>
 <p xml:lang="est">Aug</p>
 <p xml:lang="sms">Sept</p>
-<p>Oct</p>
-<p xml:lang="smn">Nov</p>
+<p xml:lang="fra">Oct</p>
+<p xml:lang="ita">Nov</p>
 <p xml:lang="dan">Des</p>
-<p xml:lang="vep">29.</p>
-<p xml:lang="vep">26.</p>
-<p xml:lang="vep">31.</p>
-<p xml:lang="vep">30.</p>
-<p xml:lang="vep">31.</p>
-<p xml:lang="vep">30.</p>
-<p xml:lang="vep">30.</p>
-<p xml:lang="vep">31.</p>
-<p xml:lang="vep">30.</p>
-<p xml:lang="vep">29.</p>
-<p xml:lang="vep">30.</p>
-<p xml:lang="vep">17.</p>
+<p xml:lang="mrj">29.</p>
+<p xml:lang="mrj">26.</p>
+<p xml:lang="mrj">31.</p>
+<p xml:lang="mrj">30.</p>
+<p xml:lang="mrj">31.</p>
+<p xml:lang="mrj">30.</p>
+<p xml:lang="mrj">30.</p>
+<p xml:lang="mrj">31.</p>
+<p xml:lang="mrj">30.</p>
+<p xml:lang="mrj">29.</p>
+<p xml:lang="mrj">30.</p>
+<p xml:lang="mrj">17.</p>
 </body></document>

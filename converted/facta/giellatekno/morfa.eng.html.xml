@@ -1,9 +1,9 @@
-<document xml:lang="eng" id="no_id"><header><title>Morfa</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>246</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/useoahpa/morfa.eng.html</origFileName><parallel_text xml:lang="fin" location="morfa.fin.html"/><parallel_text xml:lang="nob" location="morfa.nob.html"/><parallel_text xml:lang="sme" location="morfa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p type="title" xml:lang="isl">Morfa</p>
-<list><p type="listitem">Options</p>
+<document xml:lang="eng" id="no_id"><header><title>Morfa</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>246</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/useoahpa/morfa.eng.html</origFileName><parallel_text xml:lang="fin" location="morfa.fin.html"/><parallel_text xml:lang="nob" location="morfa.nob.html"/><parallel_text xml:lang="sme" location="morfa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="isl">Morfa</p>
+<list><p type="listitem" xml:lang="fra">Options</p>
 <p type="listitem">Parts of speech and inflection <list><p type="listitem" xml:lang="est">Links</p>
 </list></p>
 </list><p>The user may practice word inflection in a systematic way - either with singleton words (Morfa-S) or words in sentences, in order to learn the context in which to use the wordforms (Morfa-C).</p>
-<p type="title">Options</p>
+<p type="title" xml:lang="fra">Options</p>
 <list><p type="listitem">Parts of speech, see details further down.</p>
 <p type="listitem">Stem type (Morfa-S): bisyllabic, trisyllabic or contracted stems, or all of them.</p>
 <p type="listitem">Vocabulary according to textbook.</p>
