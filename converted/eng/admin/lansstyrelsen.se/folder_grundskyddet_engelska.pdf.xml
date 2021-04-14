@@ -1,8 +1,7 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>741</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_grundskyddet_engelska.pdf</origFileName><parallel_text xml:lang="fin" location="folder_grundskyddet_finska.pdf"/><parallel_text xml:lang="fit" location="folder_grundskyddet_meankieli.pdf"/><parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/><parallel_text xml:lang="swe" location="folder_med_loggor_ny_strecket_cf.pdf"/><parallel_text location="folder_grundskyddet_romanikelderash.pdf" xml:lang="rmy-rka"/><parallel_text location="folder_grundskyddet_romaniarli.pdf" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">The objective of the government’s policy on </em><em type="bold">minorities is to provide protection for the </em><em type="bold">national minorities, to increase their opportu- </em><em type="bold">nity to exert an influence and to support the </em><em type="bold">historical minority languages so that they are </em><em type="bold">kept alive. </em><em type="bold">1 DISCRIMINATION AND VULNERABILITY </em></p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>565</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_grundskyddet_engelska.pdf</origFileName><parallel_text xml:lang="fin" location="folder_grundskyddet_finska.pdf"/><parallel_text xml:lang="fit" location="folder_grundskyddet_meankieli.pdf"/><parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/><parallel_text xml:lang="swe" location="folder_med_loggor_ny_strecket_cf.pdf"/><parallel_text location="folder_grundskyddet_romanikelderash.pdf" xml:lang="rmy-rka"/><parallel_text location="folder_grundskyddet_romaniarli.pdf" xml:lang="rmn"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">The objective of the government’s policy on </em><em type="bold">minorities is to provide protection for the </em><em type="bold">national minorities, to increase their opportu- </em><em type="bold">nity to exert an influence and to support the </em><em type="bold">historical minority languages so that they are </em><em type="bold">kept alive. </em><em type="bold">1 DISCRIMINATION AND VULNERABILITY </em></p>
 <p><em type="bold"></em>Discrimination, vulnerability and unfair treatment of persons belonging to national minorities is to be combated. They are to have the same opportunities as the rest of the population to participate in the life of society. <em type="bold">2 INFLUENCE AND PARTICIPATION </em></p>
 <p>The national minorities’ opportunities for influ-ence and participation are to be increased by, for example, the authorities turning to them for advice. The minorities are to be given real influence in issues that affect them. <em type="bold">3 LANGUAGE AND CULTURAL IDENTITY </em></p>
-<p>The languages and cultures of national minori-ties are to be protected and promoted. Persons belonging to national minorities are to be given the opportunity to learn and use their mother tongue and to develop a cultural identity. The national minority langu-ages are to be living languages in Sweden. <em type="bold">§ </em><em type="bold">3 </em>The administrative authorities shall, when required and in an appropriate manner, inform the national minorities about their rights in accordance with this Act. <em type="bold">§ </em><em type="bold">4 </em>The Language Act (2009:600) states that the public sector has a particular responsi-bility to protect and promote the national minority languages. The public sector shall also support the national minorities in other ways that enable them to maintain and develop their cultures in Sweden. The development of a cultural identity and the use of one´s own minority language must be particularly supported among children. <em type="bold">§ </em><em type="bold">5 </em>The administrative authorities are to provide the national minorities with the opportunity to exert an influence on issues that affect them and are, as far as is possible, to discuss such issues with the minority representatives. </p>
-<p><em type="bold">On 1 January 2010 the Act on National Minori- </em><em type="bold">ties and National Minority Languages entered </em><em type="bold">into force in Sweden. The Act’s three sections on </em><em type="bold">basic protection grant the national minorities </em><em type="bold">the right to information, the protection of cul- </em><em type="bold">ture and language and the right to participation </em><em type="bold">and influence. </em><em type="bold">§THE LAW </em></p>
+<p>The languages and cultures of national minori-ties are to be protected and promoted. Persons belonging to national minorities are to be given the opportunity to learn and use their mother tongue and to develop a cultural identity. The national minority langu-ages are to be living languages in Sweden.required and in an appropriate manner, inform the national minorities about their rights in accordance with this Act.the public sector has a particular responsi-bility to protect and promote the national the national minorities with the opportunity to exert an influence on issues that affect <em type="bold">§THE LAW </em></p>
 <p><em type="bold">GRANTS RIGHTS </em></p>
 <p><em type="bold">TO NATIONAL </em></p>
 <p><em type="bold">MINORITIES </em><em type="bold">3INTERMEDIATE </em></p>
@@ -25,7 +24,6 @@
 <p><em type="bold">Their languages and cultures are a part of </em></p>
 <p><em type="bold">Swedish society and our common cultural </em><em type="bold">heritage. </em></p>
 <p><em type="bold">AN INFORMATION LEAFLET FROM </em></p>
-<p>ENGLISH</p>
 <p><em type="bold">SPAIN </em> </p>
 <p>Arabic</p>
 <p xml:lang="swe">Aragonese</p>
@@ -46,7 +44,7 @@
 <p xml:lang="swe">Saterfrisiska</p>
 <p xml:lang="swe">Högsorbiska</p>
 <p>Sweden’s policy on minorities is rooted in the work on human rights and minority issues performed by the Council of Europe. National minorities and provincial or minority languages are to be found in many countries in Europe. Here is a selection of some countries and languages.</p>
-<p>A selection of languages on the map of Europe</p>
+<p>A selection of languages on the map of Europe</p>
 <p>German</p>
 <p><em type="bold">HUNGARY </em> </p>
 <p>Armenian</p>
@@ -56,21 +54,10 @@
 <p xml:lang="swe">German</p>
 <p>Greek</p>
 <p>Polish</p>
-<p>Database for the</p>
-<p>European</p>
-<p>Charter for Regional or Minority</p>
-<p>Languages, http://languagecharter.coe.int/index.htm (compiled by The</p>
-<p>Public</p>
-<p>Foundation for</p>
-<p>European</p>
-<p>Comparative Minority</p>
-<p>Research with the support of The</p>
-<p>Council of Europe and The</p>
-<p>Ministry for Foreign Affairs of Hungary).</p>
-<p>Frisian</p>
-<p>Limburgish</p>
-<p>Low Saxon</p>
-<p xml:lang="swe">Romanes</p>
+<p>Frisian</p>
+<p>Limburgish</p>
+<p>Low Saxon</p>
+<p>Romanes</p>
 <p>Yiddish</p>
 <p><em type="bold">NORWAY </em> </p>
 <p>Kven</p>
@@ -118,12 +105,12 @@
 <p>Tatar</p>
 <p>Yiddish</p>
 <p>Karelian</p>
-<p><em type="bold">THE UNITED KINGDOM </em> </p>
-<p>Cornish</p>
-<p>Irish Gaelic</p>
-<p>Manx</p>
-<p>Scottish Gaelic</p>
-<p>Ulster Scots</p>
+<p><em type="bold">THE UNITED KINGDOM </em></p>
+<p>Cornish</p>
+<p>Irish Gaelic</p>
+<p>Manx</p>
+<p>Scottish Gaelic</p>
+<p>Ulster Scots</p>
 <p>Welsh</p>
 <p><em type="bold">GERMANY </em> </p>
 <p xml:lang="swe">Danish</p>
@@ -133,6 +120,4 @@
 <p xml:lang="swe">Romany</p>
 <p>Saterland Frisian</p>
 <p>Upper Sorbian</p>
-<p><em type="bold">THE NETHERLANDS </em></p>
-<p xml:lang="swe"><em type="bold">DENMARK </em></p>
 </body></document>
