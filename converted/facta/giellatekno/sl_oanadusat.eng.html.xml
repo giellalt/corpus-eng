@@ -1,51 +1,51 @@
-<document xml:lang="eng" id="no_id"><header><title>Parts of speech</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>128</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/sl_oanadusat.eng.html</origFileName><parallel_text xml:lang="sme" location="sl_oanadusat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Parts of speech</p>
-<list><p type="listitem" xml:lang="mdf"></p>
-</list><p xml:lang="mdf"></p>
+<document xml:lang="eng" id="no_id"><header><title>Parts of speech</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>128</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/sl_oanadusat.eng.html</origFileName><parallel_text xml:lang="sme" location="sl_oanadusat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Parts of speech</p>
+<list><p type="listitem" xml:lang="koi"></p>
+</list><p xml:lang="koi"></p>
 <p>We use these parts of speech:</p>
 <p xml:lang="vie">n</p>
 <p xml:lang="krl">noun (</p>
 <p xml:lang="sme"><em type="italic">girji, lohkamat, golmmas </em></p>
-<p xml:lang="mrj">)</p>
+<p xml:lang="koi">)</p>
 <p>prop</p>
 <p>proper noun</p>
 <p xml:lang="sme"><em type="italic">William, Kárášjohka </em></p>
-<p xml:lang="mrj">)</p>
+<p xml:lang="koi">)</p>
 <p xml:lang="ita">pron</p>
 <p>pronoun (</p>
 <p xml:lang="sme"><em type="italic">mun, sidjiide, soapmásat, ollu </em></p>
-<p xml:lang="mrj">)</p>
+<p xml:lang="koi">)</p>
 <p xml:lang="fao">num</p>
 <p xml:lang="fao">numeral (</p>
 <p xml:lang="sme"><em type="italic">okta, 1923 </em></p>
-<p xml:lang="mrj">)</p>
+<p xml:lang="koi">)</p>
 <p xml:lang="smj">adj</p>
 <p>adjective (</p>
 <p xml:lang="sme"><em type="italic">alit, ollu, njealját </em></p>
-<p xml:lang="mrj">)</p>
+<p xml:lang="koi">)</p>
 <p xml:lang="hbs">prp</p>
 <p>pre-/postposition (</p>
 <p xml:lang="sme"><em type="italic">alde, miehtá </em></p>
-<p xml:lang="mrj">)</p>
+<p xml:lang="koi">)</p>
 <p xml:lang="spa">conj</p>
 <p>conjunction (</p>
 <p xml:lang="sme"><em type="italic">ja, ahte, vaikko </em></p>
-<p xml:lang="mrj">)</p>
+<p xml:lang="koi">)</p>
 <p xml:lang="som">intj</p>
 <p xml:lang="fra">interjection (</p>
 <p xml:lang="smn"><em type="italic">vuoi, jippi </em></p>
-<p xml:lang="mrj">)</p>
+<p xml:lang="koi">)</p>
 <p xml:lang="smj">adv</p>
 <p xml:lang="nno">adverb (</p>
 <p xml:lang="sme"><em type="italic">hui, johtilit, olgun </em></p>
-<p xml:lang="mrj">)</p>
+<p xml:lang="koi">)</p>
 <p xml:lang="smj">v</p>
 <p xml:lang="nno">verb (</p>
 <p xml:lang="sme"><em type="italic">lean, borran, juhkamis </em></p>
-<p xml:lang="mrj">)</p>
+<p xml:lang="koi">)</p>
 <p xml:lang="fra">part</p>
 <p xml:lang="fra">particle (</p>
 <p xml:lang="sme"><em type="italic">go, amma, han </em></p>
-<p xml:lang="mrj">)</p>
+<p xml:lang="koi">)</p>
 <p>Proper nouns are marked only in the sentence tree. Otherwise they are marked as ordinary nouns.</p>
 <p>In some games there are parts of speech not found in Saami, such as <span type="quote" xml:lang="swe">"infm"</span> (infinitival marker) and <span type="quote" xml:lang="nno">"art"</span> (article).</p>
 <p xml:lang="nno">Last changed: $Id: sl_oanadusat.eng.xml,v 1.8 2008/05/08 lene Exp $</p>

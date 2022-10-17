@@ -1,4 +1,4 @@
-<document xml:lang="eng" id="no_id"><header><title>Numerals</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>3254</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/logut.eng.html</origFileName><parallel_text xml:lang="nob" location="logut.nob.html"/><parallel_text xml:lang="sme" location="logut.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="nob">Numerals</p>
+<document xml:lang="eng" id="no_id"><header><title>Numerals</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>3254</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/logut.eng.html</origFileName><parallel_text xml:lang="nob" location="logut.nob.html"/><parallel_text xml:lang="sme" location="logut.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="nob">Numerals</p>
 <list><p type="listitem">Different Stems</p>
 <p type="listitem">Consonant Gradation</p>
 <p type="listitem">Case</p>
@@ -20,14 +20,14 @@
 <p type="listitem"><em type="italic">Mun vuorddán 'goalmmát' beaivái. </em>(I'll wait until the third day.) </p>
 <p type="listitem" xml:lang="sme"><em type="italic">Mun válddán 'golbma' vuoru. </em>(I'll take 'three' watches.) </p>
 <p type="listitem"><em type="italic">Mun attán liđiid 'golmma' olbmui. </em>(I'll give flowers to 'three' people.) </p>
-</list><p xml:lang="mdf"></p>
+</list><p xml:lang="koi"></p>
 <p type="title">Different Stems</p>
 <p>A <em type="italic">foot </em>is a group of syllables where the first syllable has stress: The words <em type="italic">mil-jovnna </em>and <em type="italic">guoktása </em>both have three syllables. The first word has two feet, whereas the other only has one. <em type="italic">guokte-logi </em>has two feet. </p>
 <p><em type="italic">Even-syllabic numeral words </em>have two syllables in the last foot in the plural form. These numerals show the strong grade in nominative singular, and weak grade in plural, e.g. <em type="italic">nubbi - nuppit </em>. Most cardinal numerals have even-syllabic stems. The exception is 'duhát', which has an odd-syllabic stem. 'guovttos' may also be inflected as a contract numeral. The numeral words 'galle', 'máŋga' and 'moadde' also have even-syllabic stems. </p>
 <p><em type="italic">Odd-syllabic numeral words </em>have three syllables in the last foot in accusative/genitive singular, e.g. <em type="italic">vuosttaš - vuosttaža, </em><em type="italic">golmmas - golbmasa </em>. Nominative singular shows weak grad, most other forms show strong grade, but not all odd-syllabic numerals show consonant gradation. </p>
 <p>Most ordinals have an odd-syllabic stem, and they show no consonant gradation. The exception is 'nubbi', which has an even-syllabic stem, and consonant gradation. Most collective numerals have odd-syllabic stems and consonant gradation. The exception is 'guovttis', which also may be inflected as a contract numeral.</p>
 <p><em type="italic">Contract numerals </em>have two syllables in their last foot in both nominative and accusative/genitive singular. The numeral shows weak grade in nominative singular and strong grade in other cases, e.g. <em type="italic">guovttis - guoktá </em>, <em type="italic">guovttos - gukto </em>. Note that 'guovttis' also may inflected as an odd-syllabic numeral: <em type="italic">guovttis - guoktása </em>. 'guovttos' may also be inflected as an even syllabic numeral, but without consonant gradation: <em type="italic">guovttos - guovtto </em>. </p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Consonant Gradation</p>
 <p>Consonant gradation usually is manifested as an alternation in the consonantism between the first and the second syllable of a foot, like e.g. <em type="italic">nubbi - nuppit </em>. Nominative singular of even-syllabic words shows <em type="italic">strong grade </em>, as does nominative plural of odd-syllabic words. <em type="italic">Weak grade </em>, on the other hand side, is found e.g. in nominative plural of even-syllabic numerals, or in nominative singular of odd-syllabic words. </p>
 <p>The following shows examples of consonant gradation, with strong grade to the left and weak grade to the right:</p>
@@ -38,10 +38,10 @@
 <p type="listitem" xml:lang="smj">guo <em type="italic">kt </em>e - guo <em type="italic">vtt </em>i </p>
 <p type="listitem" xml:lang="sme">guo <em type="italic">kt </em>á - guo <em type="italic">vtt </em>is </p>
 </list><p>Here you may read more on consonant gradation.</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Case</p>
 <p>is a set of inflectional forms showing which function in the clause nouns, adjectives, numerals and pronouns carry (these 4 parts of speech are often lumped together under the common term <em type="italic">nominals </em>). There are seven cases in North Saami. Cardinal numerals follow the same case inflection as nouns, with one important exception: The form of the object in the singular (called accusative) is identical to the nominative for cardinal numerals, whereas the accusative form for other nominals is identical to the genitive. In the plural the object form of cardinal numerals is identical to that of the genitive, just as it is for all other nominals. </p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Simple Cardinal Numerals</p>
 <p><em type="italic">Nominative </em>is the basic form of the numeral, used in contexts like <em type="italic">'Golbma' bohte ruoktot. 'Čieža' lea stuorát go 'guhtta' </em><span type="quote">"Three came home. Seven is larger than six"</span>. Even-syllabic numerals show strong grade in nominative singular, and weak grade in nominative plural. The numerals 'čuođi', 'logi', 'čieža', 'gávcci' and 'ovcci' show weak grade in nominative singular, even though they otherwise follow the inflectional pattern of even-syllabic numerals. The numerals 'vihtta' and 'guhtta' show an exceptional alternation between 'htt' in the strong grade and 'đ' in the weak grade (the normal alternation would have been 'htt-ht'. The cardinal numeral 'duhát' has odd-syllabic stem, and no consonant gradation. </p>
 <p><em type="italic">Accusative </em>is the case used for objects, e.g. <em type="italic">Mun oainnán 'golbma'. Soai váldiba 'vihtta'. Mun válddán 'ovtta' </em><span type="quote">"I see three. They take five. I take one"</span>. The form is identical to the nominative, except for the numerals 'okta', 'nolla' and 'miljon', which show (genitive-like) weak grade in accusative singular. Note that 'nolla' shows consonant gradation in speech, even though the alternation is not visible in writing. Accusative plural is identical to genitive plural for all cardinal numerals. </p>
@@ -149,7 +149,7 @@
 <p xml:lang="smn"><em type="italic">nollii, nullii </em></p>
 <p xml:lang="fkv"><em type="italic">nollas, nullas </em></p>
 <p xml:lang="fin"><em type="italic">nollain, nullain </em></p>
-<p xml:lang="fin"><em type="italic">nollan, nullan </em></p>
+<p xml:lang="olo"><em type="italic">nollan, nullan </em></p>
 <p xml:lang="est"><em type="italic">miljon </em></p>
 <p xml:lang="sme"><em type="italic">miljovnna </em></p>
 <p xml:lang="sme"><em type="italic">miljovnna </em></p>
@@ -178,7 +178,7 @@
 <p xml:lang="smj"><em type="italic">gállis </em></p>
 <p xml:lang="sme"><em type="italic">gálliin </em></p>
 <p xml:lang="smj"><em type="italic">gallen </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="vep"><em type="italic">Nom. </em></p>
 <p xml:lang="deu"><em type="italic">Acc/Gen. </em></p>
 <p><em type="italic">Ill. </em></p>
@@ -269,7 +269,7 @@
 <p xml:lang="sme"><em type="italic">galliide </em></p>
 <p xml:lang="sme"><em type="italic">gálliin </em></p>
 <p xml:lang="sme"><em type="italic">gálliiguin </em></p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Compound Cardinal Numerals</p>
 <p>Saami has many compound numerals. Whole tens, hundreds and thousands consist of two parts, e.g. <em type="italic">guokte/logi, vihtta/čuođi, gávcci/duhát </em>. The numerals 11-19 consist of three parts, e.g. <em type="italic">guokte/nuppe/lohkái, čieža/nuppe/lohkái </em>. This pattern may also be used for numerals from 21 and upwards, e.g. <em type="italic">čieža/goalmmát/lohkái </em>(27). This is the old way of counting. The most common way of expressing numerals above 21 is still to mention the tenths first, and therafter the numerals below ten: <em type="italic">guokte/logi/čieža </em>(27). Compound cardinal numerals behave like simple cardinal numerals in having their object form in singular identical to the nominative. </p>
 <p>Only the last part of compound numerals inflect for case, e.g. <em type="italic">Mun válddán 'čiežalogiguhtta'. 'Gávccilogiguđas' ledjen mun ain vuođđoskuvllas </em>. When the compound numeral consists of two or more parts, also the first and second part are inflected, according to specific rules. For whole tens, hundreds and thousands the first part is inflected in the same case as the second, expcept for in locative and illative singuler, where the first part is realised as genitive singular. In illative and comitative plural, the first part may also be realised as genitive plural. </p>
@@ -313,7 +313,7 @@
 <p xml:lang="sma"><em type="italic">guoktin/lohkin, guoktin/login </em></p>
 <p xml:lang="sme"><em type="italic">guokte/nuppe/lohkin, guokte/nuppe/login </em></p>
 <p xml:lang="sme"><em type="italic">guokte/logi/golbman </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="vep">Nom.</p>
 <p xml:lang="sme"><em type="italic">guovttit/logit </em></p>
 <p xml:lang="sme"><em type="italic">guokte/nuppe/logit </em></p>
@@ -334,20 +334,20 @@
 <p xml:lang="sme"><em type="italic">guvttiid/logiiguin, guvttiiguin/logiiguin </em></p>
 <p xml:lang="sme"><em type="italic">guokte/nuppe/logiiguin </em></p>
 <p xml:lang="sme"><em type="italic">guokte/logi/golmmaiguin </em></p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Ordinal Numerals are Adjectives</p>
 <p>It is possble to form ordinal numerals from all cardinal numerals, except 'moadde' and 'máŋga'. Ordinal numerals are usually made by adding the ending '-át' to the genititive form of the singular form of the cardinal numeral. This suffix may also be added to compound numerals. <em type="italic">njealját, guđát, viđát, logát, čieža/nuppe/logát </em>. The exceptions from this rule are 'vuosttaš', 'nubbi', 'goalmmát' and 'čihččet'. </p>
 <p>Most ordinal numerals are inflected like trisyllabic adjectives. The exception is 'nubbi', which is inflected like a bisyllabic adjective. The other ordinal numerals do not show consonant gradation, and they are not inflected when occuring with a noun (except 'nubbi'):</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Dá lea 'vuosttaš'. Mun oainnán 'vuosttažiid'. </em></p>
 <p type="listitem" xml:lang="sme"><em type="italic">Dá lea 'goalmmát'. Mun válddán 'goalmmáda'. </em></p>
 <p type="listitem" xml:lang="sme"><em type="italic">Mun válddán 'goalmmát' girjji. 'Viđát' siiddus čuožžu eambbo dan birra </em>. </p>
-</list><p xml:lang="mdf"></p>
+</list><p xml:lang="koi"></p>
 <p type="title">Collective Numerals are nouns</p>
 <p>Collective numerals are made by adding the suffix '-s' to the genitive form of the singular form of the ordinal numeral. Collective numerals are used for expressing the number of persons. <em type="italic">golmmas, njealjis, viđas, guđas </em>. All collective numerals are trisyllabic nouns and show consonant gradation, with weak grade in nominative singular and essive, and strong grade in other forms: </p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">'Guovttis' leat boahtán. Mun oainnán 'guoktása'. </em></p>
 <p type="listitem" xml:lang="sme"><em type="italic">'Golmmas' sihtet gáfe. Attán 'golbmasii' gáfe </em>. </p>
 </list><p>Collective numerals cannot appear together with a noun in one clause constituent.</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Regular Derivations of Numerals</p>
 <p>Numerals may be used to derive new words, both nouns and adverbs. By adding the suffix '-eš' to the weak grade of a numeral one makes a new noun. Note that the suffix induces diphthong simplification: <em type="italic">ovtteš, guvtteš, golmmeš, logeš </em>. These words may be translated as <span type="quote" xml:lang="est">"a one"</span>, <span type="quote">"a two"</span>, <span type="quote">"a three"</span> and <span type="quote">"a four"</span>. This is the common way of referring to numerals in card games. <em type="italic">Mus leat njeallje 'ovcceža' </em>. (I have four nines). </p>
 <p>By adding the suffix '-ii' to the strong grade of numerals, one gets an adverb meaning <span type="quote">"so many times"</span>. The form resembles illative singular, but there are some subtle differences. Note that this suffix induces diphthong simplification, and illativ singular for 'guokte' and 'njeallje' are thus different from this adverb.</p>
@@ -357,7 +357,7 @@
 <p type="listitem">(He has taken this course twice).</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Ledjen 'njelljii' doaktára luhtte ovdal go dearvvašnuvven </em>. </p>
 <p type="listitem">(I went to the doctor four times before I got well).</p>
-</list><p xml:lang="mdf"></p>
+</list><p xml:lang="koi"></p>
 <p type="title">Simple Numerals in Combination with Nouns</p>
 <p>When numerals occur together with nouns in the same phrase, there are specific rules for concord. If the phrase is in the nominative, the nominative is expressed by the nominative numeral. The words cooccurring with the numeral are put in genitive singular. <em type="italic">Mus leat 'golbma beatnaga' </em>. North Saami thus differs from English, where the corresponding nouns carries plural. (I have three dogs). Words following 'okta' <span type="quote" xml:lang="est">"one"</span> are put in nominative singular, though: <em type="italic">Mus lea 'okta beana' </em>. </p>
 <p>Note that the phrase is in the singular, even though it refers to several things. Plural is used only for plural words, like words denoting religious events and celebrations (christmas, wedding, etc.), or inherent plurals or pairs (a pair of socks, trousers, etc.). When the noun is a plural noun, and the constituent expresses nominative, both numeral and noun are in nominative plural: <em type="italic">Dáppe leat odne 'golmmat heajat' </em>. (There are three weddings here today). </p>
@@ -373,7 +373,7 @@
 <p type="listitem" xml:lang="sme"><em type="italic">Ii 'máŋggaid sabehiiguin' goastta gosage </em>. </p>
 </list><p><em type="italic">Numeral with noun </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="vep">Nom.</p>
 <p xml:lang="sme"><em type="italic">guokte fáhca </em></p>
 <p xml:lang="sme"><em type="italic">guovttit fáhcat </em></p>
@@ -394,7 +394,7 @@
 <p xml:lang="sme"><em type="italic">guvttiid fáhcaiguin, guvttiiguin fáhcaiguin </em></p>
 <p>Essive</p>
 <p xml:lang="sme"><em type="italic">guoktin fáhccan </em></p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Compound Numerals in Combination with Nouns</p>
 <p>When the numeral cooccurs with a noun in the same phrase, there are specific rules for agreement. If the phrase as a whole carries nominative, nominative is expressed by the numeral. The words attaching to the numeral are put in genitive singular. Composed numerals ending in '-lohkái' and '-logi' have a separate attributive form ending in '-lot'. <em type="italic">Mun lean ožžon 'guoktenuppelot rávddu'. Son lea jávkan 'golbmalot diimmu' </em>. </p>
 <p>Note that the nouns are in the singular, even though the phrase refers to several things. In front of singular nouns only the suffix '-lot' is used. Suffixes '-lohkái' and '-logi' may only be used in certain cases. '-lohkái' may be used in nominative and accusative. The suffix '-logi' may be used in nominative, accusative and genitive. Note that in this case it refers to whole tens, and not to an inflected form of '-lohkái'.</p>

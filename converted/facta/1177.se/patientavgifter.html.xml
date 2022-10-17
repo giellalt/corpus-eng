@@ -1,8 +1,8 @@
 <document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1059</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Patientavgifter</origFileName><parallel_text xml:lang="fin" location="patientavgifter.html"/><parallel_text xml:lang="fit" location="patientavgifter.html"/><parallel_text xml:lang="sma" location="patientavgift.html"/><parallel_text xml:lang="sme" location="patientavgifter.html"/><parallel_text xml:lang="smj" location="patientavgifter.html"/><parallel_text xml:lang="swe" location="patientavgifter.html"/><parallel_text location="patientavgifter.html" xml:lang="rmy-rka"/><parallel_text location="patientavgifter.html" xml:lang="rmn"/><parallel_text location="patientavgifter.html" xml:lang="rmu"/><parallel_text location="patientavgifter.html" xml:lang="yid"/><parallel_text location="patientavgifter.html" xml:lang="rmy-rlo"/><parallel_text location="patientavgifter.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="swe">Patient Fees / Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-<p xml:lang="swe"></p>
-<p xml:lang="swe"></p>
+<p></p>
+<p></p>
 <p type="title">Patient FeesPatientavgifter</p>
-<p xml:lang="swe"></p>
+<p></p>
 <p type="title">What do I have to pay?</p>
 <p>County and municipal taxes cover most health care costs in Sweden. The fee you pay for a doctor’s appointment or other care represents only a small fraction of the actual costs.</p>
 <p>The situation is different for plastic surgery and other private care that is not provided for medical reasons. In such cases, you pay the entire cost on your own.</p>
@@ -28,7 +28,7 @@
 <p>If you are a Swedish citizen, a European Health Insurance Card – which you can order from Försäkringskassan – entitles you to emergency care in other EU and EEA countries, as well as Switzerland, on the same financial terms as inhabitants of those countries. You do not have to show the card in other Nordic countries.</p>
 <p>You cannot receive compensation – either from Sweden or the other country – for healthcare costs in most countries outside the EU, EEA and Switzerland. So it is important that you have private travel insurance that covers the costs of transport and other care if you become ill. If you have householder’s insurance, some of the costs are likely to be covered.</p>
 <p>Försäkringskassan’s website has additional information about obtaining health care abroad.</p>
-<p xml:lang="swe"></p>
+<p></p>
 <p type="title">High-cost protection</p>
 <p type="title">Free pass when you reach the ceiling</p>
 <p>The amount that you pay for health care is subject to a ceiling. The ceiling is referred to as high-cost protection and is designed the same way in each county.</p>
@@ -43,7 +43,7 @@
 <p>But dental care may be covered if you have a major, chronic need for personal care or nursing in your daily life. High-cost protection may also cover dental care that is needed as part of other medical treatment.</p>
 <p>Prescriptions issued by doctors, nurses and other authorised caregivers are subject to high-cost protection of SEK 2,200. Nonprescription drugs are not covered by high-cost protection.</p>
 <p>Medical devices and travel to obtain health care are subject to high-cost protection as determined by the individual counties. As a result, the regulations may vary from country to county.</p>
-<p xml:lang="swe"></p>
+<p></p>
 <p type="title">Free health care</p>
 <p>Some health care may be free of charge in certain counties. However, you will have to pay for any prescriptions issued at these appointments.</p>
 <p>Appointments at maternity and child health centres are free throughout Sweden.</p>

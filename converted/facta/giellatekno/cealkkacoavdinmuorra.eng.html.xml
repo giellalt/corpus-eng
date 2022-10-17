@@ -1,13 +1,13 @@
-<document xml:lang="eng" id="no_id"><header><title>Sentence trees</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>201</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/cealkkacoavdinmuorra.eng.html</origFileName><parallel_text xml:lang="nno" location="cealkkacoavdinmuorra.nob.html"/><parallel_text xml:lang="sme" location="cealkkacoavdinmuorra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Sentence trees</p>
+<document xml:lang="eng" id="no_id"><header><title>Sentence trees</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>201</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/cealkkacoavdinmuorra.eng.html</origFileName><parallel_text xml:lang="nno" location="cealkkacoavdinmuorra.nob.html"/><parallel_text xml:lang="sme" location="cealkkacoavdinmuorra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Sentence trees</p>
 <list><p type="listitem">About the sentences</p>
 <p type="listitem">Links to sentence trees and help functions</p>
 </list><p>Here you may look at and build syntactic trees. The VISL group at Syd-Dansk Universitet has built the technical infrastructure, and UiT has built the Saami content and the Saami analysis.</p>
 <p>The sentences represent a beta version, which means there may be errors there. Comments are welcome!</p>
 <p>The menus and buttons are in English. We are working on a Saami translation.</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">About the sentences</p>
 <p>We have collected sentences from many sources, adjusted many of them for our use, and analysed them. Some of the parts of speech and function abbreviations may in the beginning be new to the users, but the VISL abbrevitions must be the same for all games. We use over 1000 sentences, the same ones in all the games, Killerfiller, and the syntactic trees. In addition to that, appr. 640 sentences are used only in the Killerfiller game, they are adjusted to the morphological games in question.</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Links to sentence trees and help functions</p>
 <list><p type="listitem">Learn to work with the sentence tree</p>
 <p type="listitem">Link to the VISL sentence trees</p>

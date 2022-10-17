@@ -1,4 +1,4 @@
-<document xml:lang="eng" id="no_id"><header><title>Consonant Gradation</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>3224</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/stadieveksling.eng.html</origFileName><parallel_text xml:lang="nob" location="stadieveksling.nob.html"/><parallel_text xml:lang="sme" location="stadieveksling.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Consonant Gradation</p>
+<document xml:lang="eng" id="no_id"><header><title>Consonant Gradation</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>3224</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/stadieveksling.eng.html</origFileName><parallel_text xml:lang="nob" location="stadieveksling.nob.html"/><parallel_text xml:lang="sme" location="stadieveksling.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Consonant Gradation</p>
 <list><p type="listitem">What is Consonant Gradation?</p>
 <p type="listitem">Consonant Quantities and Grades</p>
 <p type="listitem">Consonant Gradation and Different Stem Types</p>
@@ -6,7 +6,7 @@
 <p type="listitem">Double Consonant Alternation</p>
 <p type="listitem">Consonant Cluster Alternations</p>
 </list><p>Back to the grammar main page .</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">What is Consonant Gradation?</p>
 <p>When a word is conjugated, declined or derived, an alternation occurs in the consonants which are in the middle of the word. It is something like the English alteration in <span type="quote">"wife"</span> - <span type="quote">"wives"</span>, but much more regular and productive:</p>
 <list><p type="listitem">Mun vie <em type="italic">g </em>an dávjá. [QI] (I run often.) </p>
@@ -15,7 +15,7 @@
 <p type="listitem">Dás ledje ollu váttis sá <em type="italic">n </em>it. [QI] (There were a lot of hard words in this.) </p>
 <p type="listitem" xml:lang="sme">Dát lea váttis sá <em type="italic">tn </em>i. [QII] (This is a difficult word.) </p>
 <p type="listitem">Son lea hui sá <em type="italic">dn </em>ái. [QIII] (He/She is extremely good with words). </p>
-</list><p xml:lang="mdf"></p>
+</list><p xml:lang="koi"></p>
 <p type="title">Consonant Quantities and Grades</p>
 <p>The consonants between a stressed syllable and an unstressed syllable are called <em type="italic">stem consonants </em>. The Saami language has many different types of stem consonants, single consonants (-g-, -đ-, -v-, -ŋ-, -n-, -m-, etc.), double consonants (-gg-, -kk-, -dd-, -tt-, -bb-, -pp-, -ss-, -mm-, etc.) and consonant clusters (-sk-, -tn-, -rdn-, etc.). Consonant clusters consist of two or more different consonants. Here are some examples of stem consonants: single consonant: <em type="italic">lávu </em>'Lavvu [gen. sg.]', double consonant: <em type="italic">lávvu </em>'lavvu [nom. sg.]', consonant clusters: <em type="italic">lávdi </em>'(window)sill; stage', <em type="italic">lavdnji </em>'peat [used as roofing]'. </p>
 <p>In Saami, stem consonants can come in three different <em type="italic">quantities </em>: quantity I, quantity II and quantity III, which are represented here as: QI, QII and QIII, respectively. (See the examples above with [QI], [QII] and [QIII] notation.) Single consonants are QI. Double consonants and consonant clusters can represent both as QII and QIII. </p>
@@ -33,7 +33,7 @@
 <p xml:lang="smj"><em type="italic">vuodja - vuoja </em></p>
 <p xml:lang="smj"><em type="italic">áddjá-ádjá </em></p>
 <p>Some word stems can be attested in all three quantities, e.g. <em type="italic">viega </em>[QI] 'run!', <em type="italic">viehkat </em>[QII] 'to run', <em type="italic">viehkku </em>[QIII] 'let's run [du.]'. Other word stems are only attested in two quantities, e.g. <em type="italic">áddjá </em>[QIII] 'grandfather', <em type="italic">ádjá </em>[QII] 'grandfather [gen. sg.]'. </p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Consonant Gradation and Different Stem Types</p>
 <p>Verbs, nouns, numerals, pronouns and adjectives are divided into three stem types, namely vowel stem, consonant stem and contracted stem types. Words are divided into these groups according to consonant gradation and the number of syllables in the final foot of the word.</p>
 <p>A foot, as in the study of poetry, is a group of syllables where the first syllable has stress. <em type="italic">sáme-giella </em>'the Saami language' and <em type="italic">vil-bealli </em>'cousin [male]' are compound words, both of which have two feet, despite the number of syllables. The word <em type="italic">gonagas </em>'king', on the contrary, only has one foot; the main stress falls on the first syllable. </p>
@@ -42,7 +42,7 @@
 <p><em type="italic">Contracted-stem nouns, numerals, pronouns and adjectives </em>have two syllables in the final foot in both the singular and plural, just as in their vowel stem counterparts. Consonant gradation, however, is like that found in consonant stem nouns, numerals, pronouns and adjectives. They are weak-grade ([QI] or [QII]) in the nominative singular and strong-grade ([QIII]) in the plural, e.g. <em type="italic">boazu - bohccot </em>[QI - QIII] 'reindeer - reindeer [nom. pl.]', <em type="italic">bálggis - bálgát </em>[QII - QIII] 'path - paths'. </p>
 <p>Note that the illative singular is strong-grade in all three stem types.</p>
 <p>Verbs are divided into the same stem types, but it is only <em type="italic">vowel stem verbs </em>which undergo consonant gradation. Vowel stem verbs have two syllables in the final foot. In the indicative present, seven of the nine person forms are strong-grade, while the first and second persons singular are weak-grade, hence <em type="italic">Son čállá. </em>(He/She writes.), but <em type="italic">Mun čálán. </em>(I write.) <em type="italic">Don čálát. </em>(You [sg.] write.) In the indicative preterite, six persons are weak-grade, while the first and second persons singular and the third person plural are strong-grade, hence <em type="italic">Son čálii. </em>(He/She wrote.), but <em type="italic">Mun čállen. </em>(I wrote.) <em type="italic">Don čállet. </em>(You [sg.] wrote.) <em type="italic">Sii čálle. </em>(They wrote.) Note that the third person plural forms are always strong-grade. The indicative connegation forms of the main verb are always weak-grade, e.g. <em type="italic">Son ii 'čále'. </em>(He/She doen't write.) <em type="italic">Moai ean 'boađe'. </em>(We [du.] are not coming.) </p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title" xml:lang="fra">Consonant Gradation Patterns</p>
 <p>There are many consonant gradation patterns in Northern Saami. In the outline, below, all the patterns are divided into two parts, double consonant alternations in one and consonant cluster alternations in the other. Single consonants can alternate with both double consonants and consonant clusters, and they are divided between the two groups. For example, the single consonant 'n' can be the weak grade of the double consonant 'nn' or of consonant cluster 'tn', <em type="italic">mánná - mánát </em>, 'child - children', <em type="italic">sátni - sánit </em>, 'word - words'. </p>
 <p><em type="italic">Double consonants </em>are subject to three types of alternation. They can alternate with single consonants or identical double consonants. In the latter alternation the modern orthography does not lend itself to identifying a distinction between QII and QIII. Double consonants can also alternate with other double consonants. In this situation, the strong grade is indicated with voiced consonants, and the weak grade with voiceless consonants. Examples are given with strong grade on the left and weak grade on the right: </p>
@@ -66,7 +66,7 @@
 <p type="listitem" xml:lang="dan">suo <em type="italic">rbm </em>a - suo <em type="italic">rpm </em>at 'finger' </p>
 <p type="listitem" xml:lang="nno">suo <em type="italic">idn </em>i - suo <em type="italic">inn </em>it 'hay' </p>
 <p type="listitem" xml:lang="fin">suo <em type="italic">ldn </em>i - suo <em type="italic">lnn </em>i 'dew' </p>
-</list><p xml:lang="mdf"></p>
+</list><p xml:lang="koi"></p>
 <p type="title">Double Consonant Alternation</p>
 <p>Double consonants alternate with single consonants of the same type or identical double consonants. Note that combinations <em type="italic">hll, llj, lj, nnj </em>and <em type="italic">hrr </em>are double consonants, and not consonant clusters. Additionally, it should be noted that the orthographic combinations <em type="italic">hl, nj </em>and <em type="italic">hr </em>represent single consonants. </p>
 <p><em type="italic">Group 1 </em></p>
@@ -100,7 +100,7 @@
 <p>'to mutter'</p>
 <p xml:lang="smj"><em type="italic">llj </em></p>
 <p xml:lang="rmn"><em type="italic">lj </em></p>
-<p xml:lang="mdf"><em type="italic"></em></p>
+<p xml:lang="koi"><em type="italic"></em></p>
 <p xml:lang="sme"><em type="italic">duollji, duoljit </em></p>
 <p xml:lang="vep">'hide, skin'</p>
 <p xml:lang="sms"><em type="italic">mm </em></p>
@@ -151,9 +151,9 @@
 <p xml:lang="vep">'match',</p>
 <p xml:lang="krl"><em type="italic">riššut - rišui </em></p>
 <p>'to shower'</p>
-<p xml:lang="mdf"><em type="italic">ŧŧ </em></p>
-<p xml:lang="mdf"><em type="italic">ŧŧ </em></p>
-<p xml:lang="mdf"><em type="italic">ŧ </em></p>
+<p xml:lang="koi"><em type="italic">ŧŧ </em></p>
+<p xml:lang="koi"><em type="italic">ŧŧ </em></p>
+<p xml:lang="koi"><em type="italic">ŧ </em></p>
 <p xml:lang="sme"><em type="italic">muoŧŧái, muoŧŧá, muoŧát </em></p>
 <p>'aunt [maternal, younger than mother]'</p>
 <p xml:lang="smj"><em type="italic">vv </em></p>
@@ -169,12 +169,12 @@
 <p><em type="italic">Examples </em></p>
 <p xml:lang="vep"><em type="italic">bb </em></p>
 <p xml:lang="som"><em type="italic">pp </em></p>
-<p xml:lang="mdf"><em type="italic"></em></p>
+<p xml:lang="koi"><em type="italic"></em></p>
 <p xml:lang="sme"><em type="italic">čibbi - čippit </em></p>
 <p xml:lang="vep">'knee'</p>
 <p xml:lang="sms"><em type="italic">dd </em></p>
 <p xml:lang="sms"><em type="italic">tt </em></p>
-<p xml:lang="mdf"><em type="italic"></em></p>
+<p xml:lang="koi"><em type="italic"></em></p>
 <p xml:lang="sme"><em type="italic">báddi - báttit </em></p>
 <p>'rope'</p>
 <p xml:lang="smj"><em type="italic">ddj </em></p>
@@ -186,20 +186,20 @@
 <p xml:lang="nob">'butter'</p>
 <p xml:lang="vie"><em type="italic">gg </em></p>
 <p xml:lang="sms"><em type="italic">kk </em></p>
-<p xml:lang="mdf"><em type="italic"></em></p>
+<p xml:lang="koi"><em type="italic"></em></p>
 <p xml:lang="sme"><em type="italic">vuogga - vuokkat </em></p>
 <p xml:lang="vep">'lure; hook'</p>
 <p xml:lang="sms"><em type="italic">zz </em></p>
 <p xml:lang="vie"><em type="italic">cc </em></p>
-<p xml:lang="mdf"><em type="italic"></em></p>
+<p xml:lang="koi"><em type="italic"></em></p>
 <p xml:lang="sme"><em type="italic">vázzit - váccán </em></p>
 <p>'to walk'</p>
 <p xml:lang="sms"><em type="italic">žž </em></p>
 <p xml:lang="smn"><em type="italic">čč </em></p>
-<p xml:lang="mdf"><em type="italic"></em></p>
+<p xml:lang="koi"><em type="italic"></em></p>
 <p xml:lang="sme"><em type="italic">čuožžut - čuoččun </em></p>
 <p>'to stand'</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Consonant Cluster Alternations</p>
 <p>Group 3: Consonant clusters beginning in <span type="quote" xml:lang="vie">"-h-"</span>, have a double consonant after <span type="quote" xml:lang="vie">"-h-"</span> in quantity III, and a single consonant after <span type="quote" xml:lang="vie">"-h-"</span> in quantity II. QII can alternate with QIII, or with QI, which is a single consonant.</p>
 <p><em type="italic">Group 3: "h" combinations </em></p>
@@ -343,7 +343,7 @@
 <p xml:lang="sme"><em type="italic">čuoigat - čuoiggan </em></p>
 <p xml:lang="vep">'to ski'</p>
 <p xml:lang="kal"><em type="italic">ik </em></p>
-<p xml:lang="fao"><em type="italic">ikk </em></p>
+<p xml:lang="kal"><em type="italic">ikk </em></p>
 <p xml:lang="sme"><em type="italic">báiki - báikkit </em></p>
 <p xml:lang="ron">'place'</p>
 <p xml:lang="ita"><em type="italic">il </em></p>
@@ -577,7 +577,7 @@
 <p xml:lang="nno"><em type="italic">sp </em></p>
 <p xml:lang="som"><em type="italic">spp </em></p>
 <p xml:lang="kal"><em type="italic">luspi - lusppit </em></p>
-<p xml:lang="fra">'estuary'</p>
+<p xml:lang="olo">'estuary'</p>
 <p xml:lang="isl"><em type="italic">st </em></p>
 <p xml:lang="swe"><em type="italic">stt </em></p>
 <p xml:lang="sme"><em type="italic">gastit - gasttii </em></p>
@@ -682,7 +682,7 @@
 <p xml:lang="smj"><em type="italic">lbm </em></p>
 <p xml:lang="sma"><em type="italic">lmm </em></p>
 <p xml:lang="sme"><em type="italic">albmi - almmi </em></p>
-<p xml:lang="vep">'sky'</p>
+<p xml:lang="olo">'sky'</p>
 <p xml:lang="vep"><em type="italic">ldn </em></p>
 <p xml:lang="isl"><em type="italic">lnn </em></p>
 <p xml:lang="pol"><em type="italic">suoldni - suolnni </em></p>
@@ -693,7 +693,7 @@
 <p xml:lang="vep">'gums'</p>
 <p xml:lang="smj"><em type="italic">vdn </em></p>
 <p xml:lang="isl"><em type="italic">vnn </em></p>
-<p xml:lang="kal"><em type="italic">rievdnu - rievnnut </em></p>
+<p xml:lang="olo"><em type="italic">rievdnu - rievnnut </em></p>
 <p xml:lang="vep">'straight pin'</p>
 <p xml:lang="smj"><em type="italic">vdnj </em></p>
 <p xml:lang="sma"><em type="italic">vnnj </em></p>

@@ -1,4 +1,4 @@
-<document xml:lang="eng" id="no_id"><header><title>Sentence analysis</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>2287</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/cealkkalahtut.eng.html</origFileName><parallel_text xml:lang="sme" location="cealkkalahtut.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Sentence analysis</p>
+<document xml:lang="eng" id="no_id"><header><title>Sentence analysis</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>2287</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/cealkkalahtut.eng.html</origFileName><parallel_text xml:lang="sme" location="cealkkalahtut.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Sentence analysis</p>
 <list><p type="listitem">On the sentences</p>
 <p type="listitem">Types of sentences</p>
 <p type="listitem">Sentences constituents</p>
@@ -9,11 +9,11 @@
 <p type="listitem">Syntactic functions (not ready)</p>
 <p type="listitem">About parts of speech - link</p>
 <p type="listitem">Link to sentence analysis</p>
-</list><p xml:lang="mdf"></p>
+</list><p xml:lang="koi"></p>
 <p type="title">On the sentences</p>
 <p>We have collected sentences from different sources, and then analysed them. The abbreviations of the parts of speech and functions may be unfamiliar for users, since the abbreviations on the VISL pages are adjusted to fit all the languages.</p>
 <p>Over thousand sentences are used, both in the grammar games, Killerfiller and the sentence trees. In addition to that, there are appr. 640 sentences used in Killerfiller only, with the morphology adjusted to that game.</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Types of sentences</p>
 <p>We use three different sentence types:</p>
 <p><em type="italic">Abbreviation </em></p>
@@ -30,7 +30,7 @@
 <p xml:lang="sme">Buvtte gáfe!</p>
 <p>According to Sammallahti, there are also <span type="quote">"exclamation sentences"</span>, expressing surprise, beginning with a particle or an adverb: <em type="italic">Gal juo lea báhkas! </em>. We do not have such sentences in our corpus. </p>
 <p>The interjection has no function in the sentence, and in our analysis interjections constitute separate sentences. E.g. here we have two sentences: <em type="italic">Hei, boađe mu lusa! </em>. </p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Sentences constituents</p>
 <p>Sentences have one or more constituents. Constituents may be:</p>
 <list><p type="listitem">singleton words, marked e.g. as. <span type="quote" xml:lang="fin">"S:n"</span> (=the subject is a noun)</p>
@@ -59,12 +59,12 @@
 <p xml:lang="sme"><em type="italic">galggat </em></p>
 <p xml:lang="fit">jaska</p>
 <p xml:lang="sme"><em type="italic">veallát </em></p>
-<p xml:lang="mrj">.</p>
+<p xml:lang="koi">.</p>
 <p xml:lang="sme"><em type="italic">Od </em></p>
 <p xml:lang="fra">Object</p>
 <p xml:lang="vep">Bija</p>
 <p xml:lang="sme"><em type="italic">buori dola </em></p>
-<p xml:lang="mrj">.</p>
+<p xml:lang="koi">.</p>
 <p xml:lang="sme"><em type="italic">Maid </em></p>
 <p xml:lang="sme">Máret áigu oastit? Dieđát go</p>
 <p xml:lang="sme"><em type="italic">goas mis lea čoahkkin? </em></p>
@@ -78,7 +78,7 @@
 <p xml:lang="sme"><em type="italic">olles dálvvi </em></p>
 <p xml:lang="sme">. Nieida lei</p>
 <p xml:lang="sme"><em type="italic">skuvllas </em></p>
-<p xml:lang="mrj">.</p>
+<p xml:lang="koi">.</p>
 <p xml:lang="sme"><em type="italic">Jus dieđášin </em></p>
 <p xml:lang="sme">, de dajašin.</p>
 <p xml:lang="isl"><em type="italic">HAB </em></p>
@@ -93,24 +93,24 @@
 <p xml:lang="sme"><em type="italic">alit čalmmit </em></p>
 <p xml:lang="sme">. Gáttis ledje</p>
 <p xml:lang="sme"><em type="italic">olbmot </em></p>
-<p xml:lang="mrj">.</p>
+<p xml:lang="koi">.</p>
 <p><em type="italic">Cs </em></p>
 <p>Subject predicative</p>
 <p xml:lang="sme">Min nieiddat leat</p>
 <p xml:lang="sme"><em type="italic">čeahpit </em></p>
-<p xml:lang="mrj">.</p>
+<p xml:lang="koi">.</p>
 <p><em type="italic">Co </em></p>
 <p xml:lang="hbs">Object predikative</p>
 <p xml:lang="sme">Son oaččui dan</p>
 <p xml:lang="sme"><em type="italic">luoikkasin </em></p>
 <p xml:lang="sme">. Gáhkuid son ráhkada</p>
 <p xml:lang="sme"><em type="italic">hui buriid </em></p>
-<p xml:lang="mrj">.</p>
+<p xml:lang="koi">.</p>
 <p><em type="italic">Cp </em></p>
 <p xml:lang="ita">Predicative predicative</p>
 <p xml:lang="sme">Mus leat gieđat</p>
 <p xml:lang="sme"><em type="italic">nu galbmasat </em></p>
-<p xml:lang="mrj">.</p>
+<p xml:lang="koi">.</p>
 <p xml:lang="hbs"><em type="italic">CO </em></p>
 <p>Coordinator</p>
 <p xml:lang="sme"><em type="italic">Muhto </em></p>
@@ -132,7 +132,7 @@
 <p>Vocative</p>
 <p xml:lang="fkv"><em type="italic">Gilette, </em></p>
 <p xml:lang="sme">boađe donge!</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title" xml:lang="est">Phrases</p>
 <p>Sentences may contain groups. Each group (g) contains at least two members - head (H) and dependent (D), the dependent may be an attribute or a complement. The group has only one head, but may have more than one dependent.</p>
 <p>In order to decide which constituent is head and which is dependent, we use semantics, morphology (the head is the word with the grammatical features licensing the phrase), position (the dependent may be moved together with the head) and universality (the word may be the same dependent to the same head irrespective of the grammatical features and position or function the head has in the sentence) (Sammallahti 2005).</p>
@@ -164,11 +164,11 @@
 <p xml:lang="est">Phrase</p>
 <p xml:lang="sme">Dát lea</p>
 <p xml:lang="sme"><em type="italic">mu nieida </em></p>
-<p xml:lang="mrj">.</p>
+<p xml:lang="koi">.</p>
 <p xml:lang="ron"><em type="italic">cl </em></p>
 <p>Clause</p>
 <p xml:lang="sme"><em type="italic">gii lea mu nieida </em></p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Embedded phrase</p>
 <p>One phrase can contain another phrase:</p>
 <p xml:lang="sme"><em type="italic">(Maŋŋil (vuosttaš vuoru)) lei boađus 0-0." </em></p>
@@ -177,10 +177,10 @@
 <p xml:lang="sme"><em type="italic">(Maŋŋil (láivves (vuosttaš vuoru))) lei boađus 0-0. </em></p>
 <p>In the innermost phrase <span type="quote" xml:lang="sme">"vuoru"</span> is the head and <span type="quote" xml:lang="sme">"vuosttaš"</span> the dependent. In the mediate phrase <span type="quote" xml:lang="sme">"vuosttaš vuoru"</span> is the head and <span type="quote" xml:lang="sme">"láivves"</span> the dependent. In the outermost phrase <span type="quote" xml:lang="sme">"maŋŋil"</span> is the head and <span type="quote" xml:lang="sme">"láivves vuosttaš vuoru"</span> is dependent.</p>
 <p>In some cases there may be more than one dependent related to the same head, such as in the sentence: "Mun orun (stuorra vilges viesus)." - or: "Mun (in sáhte boahtit) odne." The relevant phrases are set in parentheses.</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Discontinous phrases</p>
 <p>Somtimes the phrase is split by other constituents. An example is the phrase <span type="quote" xml:lang="sme">"áiggun vuoššat"</span> in the following sentence, where the phrase is divided by the object: <em type="italic">Dál gal áiggun mulju vuoššat. </em></p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title" xml:lang="est">Parataxis</p>
 <p>Words, phrases or sentences may be coordinated, realising the same function. The phrase is then marked as <em type="italic">conjunct (CJT) </em>, and it is normally coordinated with a <em type="italic">coordinator (CO) </em>, e.g. <span type="quote" xml:lang="sme">"ja", "dahje"</span>, <span type="quote" xml:lang="vep">"vai"</span>, <span type="quote" xml:lang="sme">"muhto"</span>, <span type="quote" xml:lang="smj">"sihke - ja"</span>, <span type="quote" xml:lang="sme">"(ii) - (ii)ge"</span>. </p>
 <p>In the VISL sentence trees, parataxis is marked with its function, e.g. <span type="quote" xml:lang="spa">"S:par"</span> - there is a paratactical construction functioning as subject, or <span type="quote" xml:lang="fra">"STA:par"</span> - the declarative sentence contains one or more sentences.</p>
@@ -206,13 +206,13 @@
 <p xml:lang="sme"><em type="italic">muohtaádjáid </em></p>
 <p xml:lang="smj">ja</p>
 <p xml:lang="sme"><em type="italic">muohtaeŋgeliid </em></p>
-<p xml:lang="mrj">.</p>
+<p xml:lang="koi">.</p>
 <p xml:lang="spa"><em type="italic">par </em></p>
 <p xml:lang="est">Parataxis</p>
 <p xml:lang="sme">Sii ráhkadedje</p>
 <p xml:lang="sme"><em type="italic">muohtaádjáid ja muohtaeŋgeliid </em></p>
 <p>. (<span type="quote" xml:lang="fra">"Od:par"</span> when object)</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Syntactic functions (not ready)</p>
 <p>The Saami textbooks define syntactic functions in many ways, and in some books several central topics are not treated at all. We have compared some of the more important textbooks and grammars, and made some choices. It is, however, important that our definitions will be helpful to the grammar teaching in school, and we are open for comments as to whether we are able to achieve that.</p>
 <p>The <em type="italic">subject </em>and the finite verb normally agree in number and person. But some singular subjects may have a plural meaning, such as <em type="italic">álbmot </em>and in that case, the verb may be in plural. The verbal is in singular if the subject is a mass noun or denotes an abstract concept. If the subject is coordinated, the verbal may agree with the closest constituent, e.g. <em type="italic">Jogo mun dahje don galggat dan bargat. </em>The subject may be a noun, or a pronoun, but also e.g. an infinitive or an embedded clause. </p>
@@ -261,10 +261,10 @@
 <p type="listitem" xml:lang="sme">- Ijäs/Turi 1998: Sánit teakstan. Davvi Girji. - Geavahuvvo joatkkaskuvllas.</p>
 <p type="listitem" xml:lang="sme">- Sammallahti 2005: Láidehus sámegiela cealkkaoahpa dutkamii. Davvi Girji.</p>
 <p type="listitem" xml:lang="sme">- Sara 2006: Joatkke ain. Davvi Girji.- Geavahuvvo nuoraidskuvllas nubbigiellaoahpahusas.</p>
-</list><p xml:lang="mdf"></p>
+</list><p xml:lang="koi"></p>
 <p type="title">About parts of speech - link</p>
 <p>Here you may read about parts of speech</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Link to sentence analysis</p>
 <p>If you want to analyse sentences, click here</p>
 </body></document>

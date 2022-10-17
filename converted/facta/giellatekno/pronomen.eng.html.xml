@@ -1,4 +1,4 @@
-<document xml:lang="eng" id="no_id"><header><title>Pronouns</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="" nationality=""/></author><wordcount>6946</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/pronomen.eng.html</origFileName><parallel_text xml:lang="nob" location="pronomen.nob.html"/><parallel_text xml:lang="sme" location="pronomen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="fra">Pronouns</p>
+<document xml:lang="eng" id="no_id"><header><title>Pronouns</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>6946</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/pronomen.eng.html</origFileName><parallel_text xml:lang="nob" location="pronomen.nob.html"/><parallel_text xml:lang="sme" location="pronomen.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="fra">Pronouns</p>
 <list><p type="listitem" xml:lang="fra">Pronouns</p>
 <p type="listitem" xml:lang="deu">Personal Pronouns</p>
 <p type="listitem">Demonstrative Pronouns</p>
@@ -9,10 +9,10 @@
 <p type="listitem">Reciprocal Pronouns</p>
 <p type="listitem">Indefinite Pronouns</p>
 </list><p>Back to the grammar main page .</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title" xml:lang="fra">Pronouns</p>
 <p>Pronouns are words that are used in place of nouns.</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title" xml:lang="deu">Personal Pronouns</p>
 <p>The personal pronouns in English are words such as <span type="quote">"I", "you"</span>, <span type="quote">"he", "she"</span>, <span type="quote">"it", "we"</span>, <span type="quote">"they"</span>, etc. In Saami, the equivalents come not only in the singular [sg.] and plural [pl.] but the dual [du.], as well. The dual is used when speaking of two people, e.g. <em type="italic">Moai bohte </em>(The two of us will come/We [du.] will come), and <em type="italic">Doai boahtibeahtti </em>(The two of you will come. / You [du.] will come.) The Saami language does not distinguish between <span type="quote" xml:lang="tur">"him"</span> and <span type="quote" xml:lang="fao">"her"</span>, and there is only one third person singular pronoun, <em type="italic">son </em>. The nominative forms (dictionary forms) are: </p>
 <list><p type="listitem" xml:lang="sme">singular: <em type="italic">mun, don, son </em></p>
@@ -99,14 +99,14 @@
 <p xml:lang="sme"><em type="italic">dudno </em></p>
 <p xml:lang="sme"><em type="italic">dudnuide </em></p>
 <p xml:lang="sme"><em type="italic">dudnos </em></p>
-<p xml:lang="sme"><em type="italic">dudnuin </em></p>
-<p xml:lang="vep"><em type="italic">dudnon </em></p>
+<p xml:lang="olo"><em type="italic">dudnuin </em></p>
+<p xml:lang="olo"><em type="italic">dudnon </em></p>
 <p xml:lang="sme"><em type="italic">soai </em></p>
 <p xml:lang="rmn"><em type="italic">sudno </em></p>
 <p xml:lang="sme"><em type="italic">sudnuide </em></p>
 <p xml:lang="spa"><em type="italic">sudnos </em></p>
 <p xml:lang="sme"><em type="italic">sudnuin </em></p>
-<p xml:lang="ita"><em type="italic">sudnon </em></p>
+<p xml:lang="olo"><em type="italic">sudnon </em></p>
 <p xml:lang="sme"><em type="italic">mii </em></p>
 <p xml:lang="fin"><em type="italic">min </em></p>
 <p xml:lang="sme"><em type="italic">midjiide </em></p>
@@ -125,7 +125,7 @@
 <p xml:lang="sme"><em type="italic">sis </em></p>
 <p xml:lang="fao"><em type="italic">singuin </em></p>
 <p xml:lang="fao"><em type="italic">sinin </em></p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Demonstrative Pronouns</p>
 <p>Demonstrative pronouns are used when referring to visible things or things that can be understood from the context. The Saami language has five pronouns:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">dat </em></p>
@@ -184,9 +184,9 @@
 <list><p type="listitem"><em type="italic">Mun gádden Elle 'dienin'. </em>(I thought Elle to be like 'that [what you said]'.) </p>
 </list><p xml:lang="smj"><em type="italic">DECLENSION – DEMONSTRATIVE PRONOUNS (dat, duot) </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="vep">Nom.</p>
 <p xml:lang="sme"><em type="italic">dat </em></p>
 <p xml:lang="sme"><em type="italic">dat </em></p>
@@ -206,16 +206,16 @@
 <p xml:lang="deu"><em type="italic">das </em></p>
 <p xml:lang="sme"><em type="italic">dain </em></p>
 <p xml:lang="sme"><em type="italic">duos </em></p>
-<p xml:lang="sme"><em type="italic">duoin </em></p>
+<p xml:lang="olo"><em type="italic">duoin </em></p>
 <p xml:lang="vep">Com.</p>
 <p xml:lang="sme"><em type="italic">dainna </em></p>
 <p xml:lang="sme"><em type="italic">daiguin </em></p>
-<p xml:lang="isl"><em type="italic">duoinna </em></p>
+<p xml:lang="olo"><em type="italic">duoinna </em></p>
 <p xml:lang="sme"><em type="italic">duoiguin </em></p>
 <p>Essive</p>
 <p xml:lang="sme"><em type="italic">danin </em></p>
 <p xml:lang="ita"><em type="italic">duonin </em></p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Demonstrative Pronouns in Combination with Nouns</p>
 <p>The demonstrative pronouns can be used adnominally, as the premodifier of a noun. Here it is the noun that is declined in all cases, but the pronoun usually appears in the same case as the noun, e.g.</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">'Dieinna' mašiinnain lei álki goarrut. </em></p>
@@ -233,7 +233,7 @@
 <p type="listitem">('These' machines are easy to sew 'with'.)</p>
 </list><p><em type="italic">Pronouns premodifying nouns </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="vep">Nom.</p>
 <p xml:lang="smj"><em type="italic">dat mánná </em></p>
 <p xml:lang="sme"><em type="italic">dat mánát </em></p>
@@ -251,7 +251,7 @@
 <p xml:lang="sme"><em type="italic">daiguin mánáiguin, daid mánáiguin </em></p>
 <p>Essive</p>
 <p xml:lang="sme"><em type="italic">danin mánnán </em></p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Interrogative and Relative Pronouns</p>
 <p>Saami has the following interrogative and relative pronouns:</p>
 <list><p type="listitem"><em type="italic">mii </em>what </p>
@@ -348,9 +348,9 @@
 <p type="listitem">(I don't remember what they called her any more.)</p>
 </list><p xml:lang="deu"><em type="italic">DECLENSION – INTERROGATIVE/RELATIVE PRONOUNS </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="vep">Nom.</p>
 <p xml:lang="sme"><em type="italic">mii </em></p>
 <p xml:lang="sme"><em type="italic">mat </em></p>
@@ -386,9 +386,9 @@
 <p xml:lang="sme"><em type="italic">geanin </em></p>
 <p xml:lang="fra"><em type="italic">DECLENSION </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="vep">Nom.</p>
 <p xml:lang="sme"><em type="italic">guhte </em></p>
 <p xml:lang="sme"><em type="italic">guđet </em></p>
@@ -417,7 +417,7 @@
 <p>Essive</p>
 <p xml:lang="sma"><em type="italic">guhten </em></p>
 <p xml:lang="sme"><em type="italic">guđemužžan </em></p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Interrogative and Relative Pronouns in Combination with Nouns</p>
 <p>Interrogative and relative pronouns can premodify nouns. Here it is the noun that is declined for case and number. The premodifying pronoun is usually in the same case as the noun, e.g.</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">'Goappáin' biillain don vuolggát? </em></p>
@@ -442,7 +442,7 @@
 <p type="listitem">('Which' child has a tooth ache?)</p>
 </list><p><em type="italic">'guhte' in combination with nouns </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="vep">Nom.</p>
 <p xml:lang="sme"><em type="italic">guhte viessu </em></p>
 <p xml:lang="sme"><em type="italic">guđet viesut </em></p>
@@ -462,7 +462,7 @@
 <p xml:lang="sma"><em type="italic">guhten viessun </em></p>
 <p><em type="italic">'mii' in combination with nouns </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="vep">Nom.</p>
 <p xml:lang="sme"><em type="italic">mii viesuid </em></p>
 <p xml:lang="sme"><em type="italic">mat viesut, mat viesuid </em></p>
@@ -503,7 +503,7 @@
 <p type="listitem">(What people were at the wedding?).</p>
 <p type="listitem" xml:lang="sme"><em type="italic">'Geat' olbmuid dohko ges fárrejit? </em></p>
 <p type="listitem">(What kind of people would move there?).</p>
-</list><p xml:lang="mdf"></p>
+</list><p xml:lang="koi"></p>
 <p type="title">The Pronoun 'ieš'</p>
 <p>The pronoun <span type="quote" xml:lang="sme">"ieš"</span> is inflected for person, number and case. It refers to the subject of the sentence, and is inflected for the same person and number as the subject. The case of this reflexive/intensive pronoun, however, is determined by the function the pronoun takes in the sentence. Hence, the subject and <span type="quote" xml:lang="sme">"ieš"</span> pronoun are not necessarily inflected for the same case.</p>
 <p>The <em type="italic">nominative </em>is the base form of the pronoun. There are only two forms in the nominative: <span type="quote" xml:lang="sme">"ieš"</span> is used in the singular, and <span type="quote" xml:lang="sme">"ieža"</span> in the dual and plural: </p>
@@ -606,7 +606,7 @@
 <p xml:lang="sme"><em type="italic">alddiset, alddiineaset </em></p>
 <p xml:lang="sme"><em type="italic">iežaineaset </em></p>
 <p xml:lang="sme"><em type="italic">iehčaneaset </em></p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Reciprocal Pronouns</p>
 <p>The reciprocal pronouns can be translated as <span type="quote">"one another/ each other"</span>. The idea behind the construction is that two or more people are involved in a situation, such as one involving <span type="quote">"A" and "B"</span>: A sees B and B sees A. In Saami the construction involves two constituents. The first one represents the subject, and is therefore always in the nominative, and the second one represents the object or any other argument of the verb, and is therefore declined in a case other than the nominative. In Saami there are three reciprocal pronoun constructions, each with its own subtleties:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">nubbi nuppi </em></p>
@@ -658,7 +658,7 @@
 <p type="listitem">(They [pl.] yelled 'at each other'.)</p>
 </list><p>The <em type="italic">essive </em>is the case expressing state, and it often bears the meaning <span type="quote" xml:lang="nno">"as/like/for"</span>. The essive ending is "-n": </p>
 <list><p type="listitem"><em type="italic">Soai dahkaluttaiga 'nubbi nubbin'. </em>(They [du.] pretended to be 'each other'.) </p>
-</list><p xml:lang="mdf"><em type="italic"><span type="quote" xml:lang="sme">"nubbi nuppi"</span> </em></p>
+</list><p xml:lang="koi"><em type="italic"><span type="quote" xml:lang="sme">"nubbi nuppi"</span> </em></p>
 <p>'each other / one another'</p>
 <p><em type="italic">Om to </em></p>
 <p xml:lang="nob"><em type="italic">Om flere enn to </em></p>
@@ -677,7 +677,7 @@
 <p>Essive</p>
 <p xml:lang="kmr"><em type="italic">nubbi nubbin </em></p>
 <p xml:lang="sme"><em type="italic">nuppit nubbin </em></p>
-<p xml:lang="mdf"><em type="italic"><span type="quote" xml:lang="sme">"goabbat/guhtet guoibmi"</span> </em></p>
+<p xml:lang="koi"><em type="italic"><span type="quote" xml:lang="sme">"goabbat/guhtet guoibmi"</span> </em></p>
 <p>'each other / one another'</p>
 <p xml:lang="deu"><em type="italic">Person </em></p>
 <p xml:lang="deu"><em type="italic">Acc./Gen. </em></p>
@@ -714,7 +714,7 @@
 <p xml:lang="sme"><em type="italic">guhtet guoibmáseaset, guimmiidasaset </em></p>
 <p xml:lang="sme"><em type="italic">guhtet guoimmisteaset, guimmiineaset </em></p>
 <p xml:lang="sme"><em type="italic">guhtet guimmiineaset, guimmiideasetguin </em></p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p type="title">Indefinite Pronouns</p>
 <p>Saami has several indefinite pronouns. An indefinite pronoun does not make reference to any definite person or thing in the given context. In English words such as <span type="quote">"anything"</span>, <span type="quote">"somebody"</span>, <span type="quote">"both"</span> and <span type="quote">"all"</span> fall into this category. In Saami the indefinite pronouns can appear both as independent constituents and as premodifiers of nouns. When the pronouns appear alone, most of them are inflected in all cases, and note should be made as to whether they have vowel, consonant or contracted stems.</p>
 <p>When indefinite pronouns appear as premodifiers of nouns, not all of them are inflected. When pronouns are inflected preceding a noun, they usually follow regular agreement patterns.</p>
@@ -794,9 +794,9 @@
 <p type="listitem">(There isn't anything in the bag.)</p>
 </list><p xml:lang="deu"><em type="italic">DECLENSION – INDEFINITE PRONOUNS </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="isl"><em type="italic">Singular </em></p>
-<p xml:lang="est"><em type="italic">Plural </em></p>
+<p xml:lang="olo"><em type="italic">Plural </em></p>
 <p xml:lang="vep">Nom.</p>
 <p xml:lang="sme"><em type="italic">mihkkege, mihkke </em></p>
 <p xml:lang="dan"><em type="italic">mahkkege, mahkke </em></p>

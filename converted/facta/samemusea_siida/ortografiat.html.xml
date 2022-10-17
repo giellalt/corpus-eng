@@ -1,4 +1,4 @@
-<document xml:lang="eng" id="no_id"><header><title>Anaras - Language - Orthography</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="unknown" born="" nationality=""/></author><year>2006</year><wordcount>645</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/english/kieli/ortografiat.html</origFileName><parallel_text xml:lang="fin" location="ortografiat.html"/><parallel_text xml:lang="smn" location="ortografiat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Orthography</p>
+<document xml:lang="eng" id="no_id"><header><title>Anaras - Language - Orthography</title><genre code="facta"/><author><person firstname="Matti" lastname="Morottaja" sex="m" born="" nationality=""/></author><year>2006</year><wordcount>645</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.samimuseum.fi/anaras/english/kieli/ortografiat.html</origFileName><parallel_text xml:lang="fin" location="ortografiat.html"/><parallel_text xml:lang="smn" location="ortografiat.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Orthography</p>
 <p>Language and Identity</p>
 <p>The Storytelling Tradition</p>
 <p>Literature</p>
@@ -16,9 +16,9 @@
 <p xml:lang="smn">Itkonen <em type="italic">æænab ain </em><em type="italic">skīipa ooudast kuáysuj Taaa vaīin roozaj </em></p>
 <p xml:lang="smn">modern <em type="italic">eenâb ain </em><em type="italic">skiijpâ </em><em type="italic">oovdâst kuávsui </em><em type="italic">Taažâ vazzijn roosâi </em></p>
 <p xml:lang="fin"><em type="italic">Matti Morottaja </em> </p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p xml:lang="nno">An sample from Elias Lönnrot’s work, Ueber  den Enarelappischen Dialekt“ from 1854.</p>
-<p xml:lang="mdf"></p>
+<p xml:lang="koi"></p>
 <p>Juhani Aikio’s letter to his brother  Iisakki from Königsted manor, Espoo  in 1910.</p>
 <p>Back to Top</p>
 <p xml:lang="smn">© 2006 Sámi musea Siida &amp; Anarâškielâ servi</p>
