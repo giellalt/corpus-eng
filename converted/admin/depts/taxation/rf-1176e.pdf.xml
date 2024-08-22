@@ -1,5 +1,5 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>8163</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2013/RF-1176E.pdf</origFileName><parallel_text xml:lang="nob" location="rf-1176b.pdf"/><parallel_text xml:lang="sme" location="rf-1176s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Tax </em><em type="bold">Administration </em></p>
-<p><em type="bold">Tax </em><em type="bold">Administration </em></p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>7775</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual/><origFileName>http://www.skatteetaten.no/upload/Skjemaer/2013/RF-1176E.pdf</origFileName><parallel_text xml:lang="nob" location="rf-1176b.pdf"/><parallel_text xml:lang="sme" location="rf-1176s.pdf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p><em type="bold">Tax Administration </em></p>
+<p><em type="bold">Tax Administration </em></p>
 <p><em type="bold">Income Statement 1 for 2013 </em></p>
 <p>Issued by the Directorate of Taxes</p>
 <p><em type="bold">New in 2013: </em></p>
@@ -15,7 +15,7 @@
 <p>Persons not considered to be self-employed (not obliged to submit income statements), but who let real property, must use form RF-1189 Letting out etc. of real property 2013.</p>
 <p>This also applies to letting of agricultural land and dwelling houses on farms. Sole proprietorships with more than 20 employees, or that have assets with a total value of more than NOK 20 million, must submit Income Statement 2.</p>
 <p>Visual artists who only produce works of art as mentioned in Act No 58 of 19 June 2009 relating to valueadded tax § 3-7 subsection 4, shall not submit Income Statement 1. They must submit form RF-1242 ‘Næringsoppgave for billedkunstner 2013’ (‘Income Statement for visual artists 2013’ – in Norwegian only).</p>
-<p>General partnerships and limited partnerships must as a rule submit</p>
+<p>partnerships must as a rule submit</p>
 <p>Income Statement 1 (form RF-1175) as an enclosure with their partnership statements if their sales revenue is less than NOK 5 million and if they have less than five employees and less than six partners. The partnership can chose to submit Income Statement 2 (form RF-1167) instead. The partnership will be obliged to submit annual accounts unless all of the conditions mentioned above are met, or if one of the partners is a legal entity with limited liability.</p>
 <p>Partnerships that are obliged to submit annual accounts must submit Income Statement 2 as an enclosure with their partnership statements.</p>
 <p><em type="bold">Cooperative enterprises </em>that are engaged in business activities and whose sales revenues do not exceed NOK 2 million are only subject to a bookkeeping duty. Such enterprises can choose whether to submit Income </p>
@@ -29,14 +29,14 @@
 <p>One income statement only!</p>
 <p>Only one copy of Income Statement 1 shall be submitted, even if the operations comprise several types of business. This applies regardless of whether the form is submitted electronically or on paper.</p>
 <p>Who can be exempted from the obligation to submit an income statement? A reporting system with exemption from the obligation to submit an income statement as an enclosure with the tax return is introduced for sole proprietorships engaged in business activities whose gross operating income (corresponding to item 9900 in the income statement) does not exceed NOK 50,000. For the time being, only certain enterprises can use this scheme. See RF-2003 ‘Start help for self-employed people etc. 2013’ for details about this scheme and who can use it.</p>
-<p>Enclosures with the income statement All self-employed persons etc. engaged in agriculture/horticulture, forestry, fur farming, reindeer husbandry, must submit an additional form, form RF-1177 <span type="quote">“Agriculture 2013”</span> , with their income statements.</p>
+<p>statement All self-employed persons etc. engaged in agriculture/horticulture, forestry, fur farming, reindeer husbandry, must submit an additional form, form RF-1177 <span type="quote">“Agriculture 2013”</span> , with their income statements.</p>
 <p>Separate guidelines, RF-1178, have been prepared for this. Everyone who submits Income</p>
 <p>Statement 1 (RF-1175), must as a rule also submit form RF-1084 'Avskrivning 2013’ (‘Depreciation 2013’ – in Norwegian only) and, if relevant, form RF-1219 ‘Gevinst- og tapskonto 2013' (‘Profit and loss account 2013’ – in Norwegian only). Sole proprietorships that have business income must also submit form RF-1224, ‘Personal income from sole proprietorship 2013’.</p>
 <p>If deductions are claimed for expenses relating to estate cars, vans, lorries of less than 7.5 tonnes or passenger cars (driven more than 6,000 km as part of business activities), the form RF-1125 ‘Bruk av bil' (‘Car use’ – in Norwegian only) must be submitted with the tax return.</p>
 <p><em type="bold">Fishermen and hunters at sea </em>who are engaged in business activities and are subject to a bookkeeping duty must submit Income Statement 1 and form RF-1213 ‘Fiske 2013’ (‘Fishing 2013’ – in Norwegian only) with parts </p>
-<p>B and C completed as an enclosure with their tax returns. Those who are not themselves engaged in business activities (e.g. ordinary recipients of heavy goods vehicle businesses <em type="bold"></em>must complete form RF-1223 ‘Drosje - og lastebilnæring 2013’ (‘Taxi and heavy goods vehicle businesses 2013’ – in Norwegian only) as an enclosure with their income statements. </p>
-<p>Everyone who run hotels, pubs, restaurants etc. that serve beer, wine and spirits, must complete form RF-1122 ’Overnattings- og serveringssted 2013’ (’Hotels, pubs, restaurants etc. 2013’ – in Norwegian only) and submit it as an enclosure with their income statement’.</p>
-<p>Information about the submission of income statements</p>
+<p>B and C completed as an enclosure with their tax returns. Those who are not themselves engaged in business activities (e.g. ordinary recipients of <em type="italic"></em><em type="bold"></em>must complete form RF-1223 ‘Drosje - og lastebilnæring 2013’ (‘Taxi and heavy goods vehicle businesses 2013’ – in Norwegian only) as an enclosure with their income statements. </p>
+<p>Everyone who run restaurants etc. that serve beer, wine and spirits, must complete form RF-1122 ’Overnattings- og serveringssted 2013’ (’Hotels, pubs, restaurants etc. 2013’ – in Norwegian only) and submit it as an enclosure with their income statement’.</p>
+<p>of income statements</p>
 <p>Tax returns, income statements and other mandatory forms can be submitted online via Altinn, see guidelines to the tax return and the</p>
 <p>Tax Administration's website at www.skatteetaten.no.</p>
 <p>If a taxpayer chooses to submit an income statement on paper, then a print-out can be submitted instead of Income Statement 1, cf. the regulations issued by the Directorate of Taxes on 24 October 1988. These regulations stipulate detailed requirements relating to the content, design and quality/format of the print-out.</p>
@@ -47,7 +47,7 @@
 <p>Temporary Regulations 24.11.2011 No. 1134. By these regulations the company does not need to register the company auditor as an accountant in the CCR.)</p>
 <p><em type="bold">Tax liability to more than one municipality </em></p>
 <p>In the event of tax liability to more than one municipality, the tax return and all mandatory enclosures are submitted to one tax office. This also applies to businesses assessed as are liable to tax to more than one municipality should submit form RF-1034 ‘Skjema for fordeling av stedbunden inntekt og formue mellom kommuner 2013’ (‘Form for the allocation of location-specific income and capital between municipalities‘ – in Norwegian only) as an enclosure with their tax returns.</p>
-<p>Specific information about the use of plus and minus signs in front of the figures in the form</p>
+<p>of plus and minus signs in front of the figures in the form</p>
 <p>Main rules:</p>
 <p>In principle, all figures shall be reported without the use of signs if it is clear from the heading whether they should be added or subtracted given the context in which they are entered. In other words, the figure should not be preceded by a minus sign if the text states that the figure concerns an expense, a deficit etc. and, conversely, a plus sign should not be used where the text states that the figure concerns income, profit etc.</p>
 <p>An exception from this rule can be illustrated by the following example:</p>
@@ -69,9 +69,9 @@
 <p>The total from item 0170 is transferred to item 1495 in the balance sheet and (except for agriculture, items 0150 and 0160) to item 4.4.3 in form RF-1030 Tax return for self-employed persons etc. 2013. If it is not possible to individualise goods, the stocks will be valued using the FIFO principle. Items 0150 and 0160 shall only be used by selfemployed persons etc. in agriculture, see form RF-1178 ’Rettledning til RF-1177 Landbruk og RF-1175</p>
 <p>Næringsoppgave 1 2013’ (’Guidelines to RF 1177 Agriculture etc. and RF-1175 Income Statement I 2013’ – in</p>
 <p>Norwegian only).</p>
-<p>Gross profit on goods purchased for resale</p>
+<p xml:lang="dan">for resale</p>
 <p>The purpose of this specification is to determine the gross profit made by the enterprise (item 0260) from sales of goods for resale. The combined sales revenues from items 3000, 3100 and 3200 are entered under item 0240.</p>
-<p>Items 0270 and 0280 – for cooperative enterprises</p>
+<p>cooperative enterprises</p>
 <p>These items must be completed by cooperative enterprises that operate in accordance with recognised cooperative principles. The total taxable business income before deductions is entered under item 0270 pursuant to the Taxation Act section 10-50. This income forms part of the basis for the calculation of taxable business income from trading with own members, see item 0280. The</p>
 <p>In item 0270, the total taxable income is transferred from item 9940, and, if relevant, adjusted for income and deductions entered directly in the tax return (form RF-1028). Income from trading with own members (the maximum special tax deduction for cooperative societies) is calculated using the following fraction:</p>
 <p><em type="italic">Above the fraction line: </em>Total taxable business income multiplied by gross turnover (sales or purchases) to/from unit owners/members. <em type="italic"></em></p>
@@ -89,32 +89,32 @@
 <p>The tax write-down on trade debtors is entered under item 0320.</p>
 <p>In certain cases the tax value in item 0330 may be negative.</p>
 <p>Such write-downs must always be indicated by filling in the amounts in the form. The tax value under item 0330 is divided between items 0331</p>
-<p><em type="bold">General information about </em>profit/loss and balance sheet </p>
+<p><em type="bold"></em>profit/loss and balance sheet </p>
 <p>The profit/loss and balance sheet show the tax profit/loss and tax values. As far as possible, the numbers are in line with Norwegian Standard NS 4102, second edition. However, a four-digit level is used.</p>
 <p><em type="bold">Profit and loss account </em></p>
-<p>Item 3000 Sales revenues and withdrawals - liable to VAT</p>
+<p>withdrawals - liable to VAT</p>
 <p>Here you enter revenues from sales liable to VAT and the value of withdrawals of goods and services for the period. The sales/withdrawals are entered excl. VAT. Internal transactions between entities in the same enterprise are not to be included.</p>
 <p>For the sale of fish, price subsidies etc. that are part of the catch settlement are included, but after deducting fees to the sales cooperatives. Indirect taxes such as the fisheries product tax must be included, while discounts, returned goods etc. must be deducted. The product tax is deducted in item 3300.</p>
 <p>Enterprises with non-VAT-liable sales enter sales revenues under item 3100 or 3200, see below.</p>
-<p>Item 3100 Sales revenues and withdrawals – not liable to VAT</p>
+<p>withdrawals – not liable to VAT</p>
 <p>Here you enter revenues from sales not liable to VAT and the value of withdrawals of goods and services for the period that falls within the scope of the VAT regulations. Sales of goods etc. that fall outside the scope of the</p>
 <p xml:lang="nob">VAT Act are entered under item 3200.</p>
 <p>Withdrawals of e.g. fish from the enterprise to owners/partners or employees must be included here.</p>
 <p>Withdrawals for the owner/partner’s benefit are valued at the price that could have been achieved from ordinary sale of the fish. Moreover, the owner/partner’s withdrawal of the fish must be specified under item 2064.</p>
-<p>Item 3200 Sales revenues and withdrawals – outside the VAT area</p>
+<p>withdrawals – outside the VAT area</p>
 <p>Here you enter revenues from sales not liable to VAT and the value of withdrawals of goods and services for the period outside the VAT area. Such revenues include medical practice, teaching services etc.taxes (special taxes) included in items 3000, 3100 and 3200, including the product tax for fisheries. This item is deducted from the operating revenues.</p>
-<p>Item 3400 Public subsidies/ reimbursement Here you enter public subsidies and reimbursements. Reimbursements paid from the National Insurance scheme to medical practitioners, dentists, physiotherapists etc. for treatment are entered here, as are apprenticeship subsidies, instructor subsidies etc. Extraordinary subsidies such as interest relief subsidies, liquidity subsidies, investment subsidies etc. are not entered here, but are included under item 3900, ‘Other revenue relating to operations’.</p>
-<p>Item 3600 Rental income, real property</p>
+<p>reimbursement Here you enter public subsidies and reimbursements. Reimbursements paid from the National Insurance scheme to medical practitioners, dentists, physiotherapists etc. for treatment are entered here, as are apprenticeship subsidies, instructor subsidies etc. Extraordinary subsidies such as interest relief subsidies, liquidity subsidies, investment subsidies etc. are not entered here, but are included under item 3900, ‘Other revenue relating to operations’.</p>
+<p>property</p>
 <p>Here you enter rental income from letting and the value of your own use of all real capital (real property, housing, business premises etc.) that is not liable to VAT.</p>
-<p>Item 3605 Taxable rental income, real property, liable to VAT</p>
+<p>real property, liable to VAT</p>
 <p>Among other things, rental income from the letting of real property must be stated under this item when the person receiving the rent is registered in the VAT register.</p>
-<p>Item 3650 Letting of rights – hunting, fishing etc.</p>
+<p>hunting, fishing etc.</p>
 <p>Income from the letting of various rights relating to real property is entered here.</p>
 <p>Item 3695 Other rental incomes</p>
 <p>Here you enter income from the letting of operating equipment etc. liable to VAT.</p>
 <p>Item 3700 Commission income</p>
 <p>Here you enter income from commission sales, income pertaining to royalties, licence income etc.</p>
-<p>Item 3890 Taking to income from positive profit and loss account</p>
+<p>positive profit and loss account</p>
 <p>A profit and loss account must be kept for each type of business. Under this item, you enter this year's share of taxable income from positive profit and loss accounts. Each profit and loss account must be reported using form RF-1219 ‘Gevinst- og tapskonto 2013' (‘Profit and loss account 2013’ – in Norwegian only). share of negative balance. Any compensation from realisation of operating assets that has been fully or partly taken to income in the realisation year is entered here. The figures are found under item 107 and/or item 110 of form RF-1084 ‘Avskrivning 2013’ (‘Depreciation 2013’ – in Norwegian only).</p>
 <p>Item 3900 Other income relating to operations</p>
 <p>Here you enter other operating income not included under the above items, including interest on trade debtors.</p>
@@ -124,11 +124,11 @@
 <p>Item 4005 Cost of sales</p>
 <p>Here you enter the purchase cost of goods sold (item 0250 page 1) for turnover included under items 3000, 3100 and 3200. Changes in value of the stocks of raw materials, semimanufactured goods purchased and goods purchased for resale must be included under this item. This amount is arrived at by adding up the changes in value of stock as entered under items 0110 and 0140 on page 1.</p>
 <p>Write-downs for obsolescence and risk of a fall in prices cannot be included, as it is the tax value of the stocks that is to be used.</p>
-<p>Item 4295 Change in stocks of goods under production and self- produced finished goods</p>
+<p>produced finished goods</p>
 <p>Here you enter the change in value of stocks of goods under production and self-produced finished goods. A stocks reduces costs, which is entered as a negative amount with a preceding minus sign. The amount of the change is based on the tax values found on page 1 under items 0120 and 0130.</p>
-<p>Item 4500 External services and subcontracts</p>
+<p xml:lang="fra">subcontracts</p>
 <p>Here you enter the costs of hiring labour and subcontractors if they relate to items 4005, 4295 and 4995.</p>
-<p>Item 4995 Change in stocks of self- produced fixed assets</p>
+<p>produced fixed assets</p>
 <p>Here you enter the change in value of stocks of self-produced fixed assets.</p>
 <p>This item is also used for any carry back of capitalised costs, and therefore contains no pre-printed sign – this item could contain both positive and negative figures.</p>
 <p>Item 5000 Pay, holiday pay etc. All types of pay in employment are entered under this item. Amounts to be entered here are both reportable and liable to Employer’s National Insurance contributions. Fishermen's wages are to be entered here, but wages paid to active fishermen are nonetheless not liable to Employer's National Insurance contributions.</p>
@@ -137,25 +137,25 @@
 <p>Item 5300 Other reportable remuneration</p>
 <p>Self-employed persons’ expenses that are reportable, but not liable to</p>
 <p>Employer’s National Insurance contributions, are entered here. Example: Payment of shares of a catch or of proceeds of sale of a catch to fishermen and hunters at sea.</p>
-<p>Item 5420 Reportable pension expenses</p>
+<p>expenses</p>
 <p>Here you enter expenses relating to current pension payments. (remuneration for work) to partners in businesses assessed as partnerships pursuant to the Partnerships Act section 2-25, cf. section 2-26 first paragraph, is entered here. Portions to each partner in businesses assessed as partnerships are included under this item. The amount must include any premiums covered for insurance packages agreed on in collective agreements.</p>
-<p>Item 5900 Other personnel expenses</p>
+<p>expenses</p>
 <p>Here you enter gifts to employees and expenses relating to free canteens, courses, company cabins, staff accommodation and company sports clubs etc. Premiums paid pursuant to the Act relating to Industrial Injury</p>
 <p>Insurance are entered here. However, additional premiums for health and accident insurances in excess of the statutory occupational injury insurance shall, when the employee is the beneficiary, be treated as pay and entered under item 5000.</p>
 <p>Here you also enter premiums for occupational pension schemes and defined-contribution pension schemes and other pension costs relating to actual benefit plans.</p>
 <p>Premiums and contributions to occupational pension schemes and defined-contribution pension schemes are always deductible. Moreover, pension expenses relating to securing future pension commitments will not be deductible from taxable income. One-off premiums paid to insurance companies or one-off payments that replace current pension obligations to former employees are deductible.</p>
 <p>Item 5950 Own pension scheme</p>
 <p>Contributions made pursuant to the provisions of the Act relating to defined-contribution pensions section 2-3 second paragraph for self-employed persons and personal partners in businesses assessed as partnerships are entered here.</p>
-<p>Item 6000 Depreciation of tangible fixed assets and intangible rights</p>
+<p>fixed assets and intangible rights</p>
 <p>Here you enter tax depreciation from form RF-1084 ‘Avskrivning 2013’ (‘Depreciation 2013’ – in Norwegian only).</p>
 <p>Both diminishing-balance depreciation (incl. any depreciation on an empty positive balance) and straight-line depreciation must be included here.fuel expenses relating to machinery and tools used in production (e.g. tractors, diggers, combine harvesters, forestry forwarders, front shovels etc.).</p>
-<p>Item 6600 Repairs to and maintenance of buildings Here you enter expenses relating to repairs to and maintenance of buildings used in business activities.</p>
+<p>maintenance of buildings Here you enter expenses relating to repairs to and maintenance of buildings used in business activities.</p>
 <p>Expenses incurred in upgrading the condition of the building in relation to its original condition are not deemed to be maintenance expenses. Such expenses are deemed to be improvement costs, and must be capitalised.</p>
-<p>Item 6695 Other repairs and maintenance</p>
+<p>maintenance</p>
 <p>Here you enter repairs to and maintenance of machinery, equipment etc. used in the enterprise's business activities. This also applies to tractors, diggers, combine harvesters, forestry forwarders, front shovels etc. Repairs to and maintenance of means of transport are entered under item 7020.</p>
 <p xml:lang="fra">Item 6700 External services</p>
 <p>Costs relating to, e.g., external accountants, lawyers and consultants etc. are entered here. Such costs and case costs may be deductible if the case that the assistance concerns has a direct connection with taxable income or deductible expenses. Non-deductible expenses are entered under item 2053.</p>
-<p>Item 6995 Office expenses, electronic communication expenses, postage etc.</p>
+<p>electronic communication expenses, postage etc.</p>
 <p>Here you enter office expenses, including expenses relating to electronic communication (phone, mobile phone, internet etc.).</p>
 <p>This item must be seen in conjunction with item 7098 and these guidelines concern both items. <em type="italic"></em></p>
 <p><em type="italic">About electronic communication: </em>If you have one electronic means of communication and the expenses (including VAT) total NOK 5,000 or more, the ‘standard amount’ of NOK 4,000 shall be entered under item 7098. </p>
@@ -168,54 +168,53 @@
 <p>NOK 7,000 (for example NOK 4,500), NOK 1,000 shall be regarded as a ‘business expense’ and the amount in excess shall be transferred to item 7098 as a private benefit. The total expenses (NOK 4,500), reduced by the</p>
 <p>VAT component (NOK 200) of the ‘business expense’ of NOK 800, i.e.</p>
 <p>NOK 4,300, is entered under item 6995. The difference between the total expenses (NOK 4,500) and the ‘business expense’ +VAT (NOK 800 + 200), i.e. NOK 3,500, shall then be entered as a private benefit under item 7098.</p>
-<p>Items 7000, 7020 and 7040 Expenses relating to means of transport Under items 7000, 7020 and 7040, expenses are entered that relate to vehicles used in business activities (estate cars, vans, lorries and passenger cars that are driven more than 6,000 km per year as part of business activities). Form RF-1125 ‘Opplysninger om bruk av bil’ (‘Information about use of vehicle’ – in</p>
+<p>relating to means of transport Under items 7000, 7020 and 7040, expenses are entered that relate to vehicles used in business activities (estate cars, vans, lorries and passenger cars that are driven more than 6,000 km per year as part of business activities). Form RF-1125 ‘Opplysninger om bruk av bil’ (‘Information about use of vehicle’ – in</p>
 <p>Norwegian only) must be enclosed if you are claiming a deduction for car expenses. Those who are engaged in taxi and heavy goods vehicle businesses must enclose form RF-1223 ‘Tilleggsskjema for drosje- og instead. Tax depreciation of means of transport must be entered under item 6000. Road toll payments, parking and ferry expenses etc. are entered under item 7155 or 7165 as travel expenses.</p>
-<p>Item 7080 Car expenses, the use of a private vehicle in business activity</p>
+<p>a private vehicle in business activity</p>
 <p>If the use of the vehicle in business activities has been accurately recorded, a sole proprietor can claim a deduction for the use of his or her private vehicle in business for up to 6,000 km in accordance with the car allowance rates. For 2013, the rate is</p>
 <p>NOK 4.05 per kilometre.</p>
 <p>The amount must be entered as a equity correction in item 2057 on page 4.</p>
 <p>No duty to submit a car form applies in such cases.</p>
 <p>This item cannot be used for partnerships (ANS/KS/DA).</p>
 <p>Disbursement of remuneration to a partner for use of his/her own car in the business must be entered as a rental expense under item 6400.</p>
-<p>Item 7098 Private use of electronic communication</p>
+<p>communication</p>
 <p>See the guidelines to item 6995. The amount entered under item 7098 must also be entered as a private withdrawal under item 2068 on page 4.</p>
-<p>Item 7099 Private use of a business vehicle</p>
+<p>vehicle</p>
 <p>The benefit of private use of a business vehicle is entered here. The benefit is calculated as 30 per cent of the car’s list price as new up to NOK 275,700, and 20 per cent of the amount in excess of this is added. If the vehiclesis registered for the first time before 1</p>
 <p>January 2010, or the taxpayer can document that the use as business vehicle exeeds 40,000 kilometetres per year, the calculation will be based on only 75 per cent of the list price of the vehicle at the time of its initial registration. For electric car the calculation is based on 50 per cent of the car’s list price as new.</p>
 <p>The recognition of private use cannot exceed 75 per cent of the estimated total costs of the upkeep of the vehicle.</p>
 <p>The costs of the upkeep of the vehicle consist of the actual operating expenses plus a calculated annual diminishing-balance depreciation of 17 per cent calculated on the basis of the list price of the vehicle at the time of its initial registration.</p>
-<p>Item 7155 Reportable travel/ subsistence and car allowances</p>
+<p>subsistence and car allowances</p>
 <p>Here you enter all reportable expenses for travel, subsistence and car allowances. Non-reportable travel expenses are entered under item 7165.</p>
-<p>Item 7350 Expenses relating to entertaining (deductible)</p>
+<p>entertaining (deductible)</p>
 <p>This part of entertaining expenses, cf. the Directorate of Taxes’ Tax</p>
 <p>Regulations section 6-21, shall be entered under item 2051.</p>
-<p>Item 7495 Deductible membership fees</p>
+<p>fees</p>
 <p>Non-deductible membership fees are entered under item 2052.</p>
 <p>Item 7500 Insurance premiums</p>
 <p>Insurance expenses are entered here, with the exception of vehicle and personnel insurance, which are entered under items 7040 and 5900, respectively. (Voluntary supplementary National</p>
 <p>Insurance for self-employed persons is entered directly as a deduction in the tax return and is included in item 2078.)</p>
 <p>Item 7565 Warranty and service expenses</p>
 <p>Accrued/confirmed expenses for warranty and service work are entered here. Provisions for warranty and service expenses are not deductible.</p>
-<p>Item 7600 License and patent expenses, royalties etc.</p>
+<p>expenses, royalties etc.</p>
 <p>Expenses relating to patents, licences and royalties in connection with own production/sales are entered here.</p>
-<p>Item 7700 Other deductible expenses Operating expenses that do not belong under the other items are entered here.</p>
-<p>Item 7890 Deduction from negative profit and loss account</p>
+<p>expenses Operating expenses that do not belong under the other items are entered here.</p>
+<p>profit and loss account</p>
 <p>Here you deduct this year’s share of the loss from negative profit and loss account. The amount is taken from form RF-1219 ‘Gevinst- og tapskonto 2013' (‘Profit and loss account 2013’ – in</p>
 <p>Norwegian only).</p>
-<p>Item 7895 Confirmed losses on trade debtors</p>
+<p xml:lang="dan">trade debtors</p>
 <p>Finally confirmed losses on trade debtors are entered here. Only losses</p>
 <p>Item 7896 Other confirmed losses</p>
 <p>All other deductible losses, such as losses on contracts, are entered here.</p>
-<p>Item 7897 Changes to tax write- down of trade debtors</p>
+<p>down of trade debtors</p>
 <p>Changes to tax write-down of trade debtors are entered here. The amount is found under item 0320 as the difference between this year's and last year's write-downs. If this year’s write-down exceeds last year's write-down, the difference is entered as a positive amount (with no preceding sign). If this year’s write-down is smaller than last year's write-down, the difference is entered as a negative amount (with a preceding minus sign).</p>
 <p><em type="bold">Capital items </em></p>
-<p>Item 8060/8160 Exchange gains/losses</p>
+<p>gains/losses</p>
 <p>Exchange gains/losses on outstanding claims and debt in foreign currencies are entered here. Gains/losses must be calculated using the tax rules for gain/loss calculation.</p>
-<p>Item 8099 Other capital income not specified in form RF-1084 <span type="quote" xml:lang="dan">“Avskrivning 2013”</span> (‘Depreciation 2013’ – in Norwegian only) and/or</p>
-<p>RF-1219 <span type="quote" xml:lang="nno">“Gevinst- og tapskonto 2013”</span> (‘Profit and loss account 2013’ – in Norwegian only). Among other things, the amount to be taken to income when a taxpayer has not complied with the reinvestment conditions stipulated in the Taxation Act section 14-70 (conditional tax exemption in cases of involuntary realisation) is entered under item 8099. Any share of profits and any taxable share of gains from the realisation of any unit that an</p>
+<p>specified in form RF-1084 <span type="quote" xml:lang="dan">“Avskrivning 2013”</span> (‘Depreciation 2013’ – in Norwegian only) and/or</p>
+<p>2013” (‘Profit and loss account 2013’ – in Norwegian only).</p>
 <p>ANS/KS/DA owns via participation in another ANS/KS/DA are also entered here. Amounts relating to the realisation of units that are not liable to tax or are not deductible are only entered under items 2054/2053 on page 4 – for reconciliation of the equity.</p>
 <p><em type="bold">NOTE: </em>A personal participant (sole proprietorship) who has entered a gain/loss on the realisation of a unit and/or part of a gain/loss in a business assessed as a partnership must enter this under item 0416, see this item. (‘Profit and loss account 2013’ – in </p>
-<p>Norwegian only).</p>
 <p>Costs, losses and deficits relating to income under item 8099 are entered here. See the guidelines to item 8099.</p>
 <p>Item 9930 Profit/loss Business income or any loss to be transferred to page 4 is calculated here. In the case of a sole proprietorship, the amount is transferred to item 0401. Partnerships (ANS/KS/DA), cooperative enterprises and other legal entities that use</p>
 <p>Income Statement 1 (form RF-1175) transfer the amount to item 0410.</p>
@@ -227,16 +226,16 @@
 <p>Income Statement 1 instead of Income</p>
 <p>Statement 2.</p>
 <p>This could have a bearing on what is to be entered as the opening balance. See items 9996 – 9998 for more details.</p>
-<p>Items 1080, 1105, 1115, 1120, 1205, 1221, 1225, 1239 and 1280 – operating equipment balances</p>
+<p>1221, 1225, 1239 and 1280 – operating equipment balances</p>
 <p>Here you enter the total balance value for each balance group. These amounts are taken from form RF-1084 ‘Avskrivning 2013’ (‘Depreciation 2013’.- in Norwegian only), which must be enclosed with the income statement. The balance value of commercial premises, which was written up on 1 January 1984 in accordance with section 1-2 of the Ministry of Finance's Regulations of 29</p>
 <p>August 1984, is the difference between the balance basis at 31 December and the lower limit for depreciation. Any empty positive balance (balance value without operating equipment) must</p>
-<p>Item 1130 Buildings, plant, machinery under construction – for own use</p>
+<p>machinery under construction – for own use</p>
 <p>This item is used when the operating equipment under construction is intended for use in own activities.</p>
-<p>Item 1131 Buildings, plant, machinery under construction – for sale</p>
+<p>machinery under construction – for sale</p>
 <p>This item is used when the object under construction is intended for sale.</p>
-<p>Item 1295 Depreciable assets outside the balance system</p>
+<p>outside the balance system</p>
 <p>Here you enter depreciable assets for which straight-line depreciation is used, and which are found in form RF-1084 ‘Avskrivning 2013’ (‘Depreciation 2013’.- in Norwegian only).</p>
-<p>Item 1299 Negative profit and loss account</p>
+<p>account</p>
 <p>Here you enter amounts from item 16 in form RF-1219 ‘Gevinst- og tapskonto' (‘Profit and loss account’ – in Norwegian only).</p>
 <p>Item 1495 Stocks</p>
 <p>Here you enter the tax value of stocks – the amount is found under item 0170. The value of any fish in fish farming facilities is also entered here.</p>
@@ -247,9 +246,9 @@
 <p>Norwegian only) item 0165.</p>
 <p>Item 1500 Trade debtors</p>
 <p>Here you enter the tax value of trade debtors found under item 0331 (after deduction for any write-downs).</p>
-<p>Item 1530 Earned, not invoiced trade debtors</p>
+<p xml:lang="dan">trade debtors</p>
 <p>Here you enter the value of earned, not invoiced trade debtors found under item 0332 (after deducting any write-downs).</p>
-<p>Item 1595/2275 Long-term receivables/debts in foreign currency</p>
+<p>receivables/debts in foreign currency</p>
 <p>The tax values of long-term receivables and debt in foreign currencies are arrived at pursuant to the provisions of the Taxation Act section 14-5 (5), where it is stated that receivables cannot be valued at a lower exchange rate than the lower of the exchange rates at the time of the higher of the values on the date of the closing of the annual accounts and the date when the loan was taken up.</p>
 <p>Unrealised exchange losses must be offset against unrealised exchange gains.</p>
 <p>Item 1599 Other receivables</p>
@@ -258,17 +257,17 @@
 <p><em type="bold">Untaxed equity </em></p>
 <p>Item 2095 Negative balance</p>
 <p>Here you enter the total negative balance at 31 December for the balance group(s) that has/have such balance according to form RF-1084 ‘Avskrivningsskjema’ (‘Depreciation form’ – in Norwegian only). The amount is untaxed income.</p>
-<p>Item 2096 Positive profit and loss account</p>
+<p>account</p>
 <p>Here you enter amounts from form RF-1219 ‘Gevinst- og tapskonto' (‘Profit and loss account’ – in</p>
-<p>Norwegian only). The amount is untaxed income. <em type="bold">Debt Item 2220 Enterprise debt to </em>financial institutions Here you enter the debt that is deemed to be ‘enterprise debt’ pursuant to the regulations for estimated personal income. You will find a more detailed description of what is deemed to be ’enterprise debt’ under item 2.10 in </p>
+<p>Norwegian only). The amount is untaxed income. <em type="bold">Debt </em>financial institutions Here you enter the debt that is deemed to be ‘enterprise debt’ pursuant to the regulations for estimated personal income. You will find a more detailed description of what is deemed to be ’enterprise debt’ under item 2.10 in </p>
 <p>RF-1225 ‘Rettledning til RF-1224 Personinntekt fra enkeltpersonforetak 2013’ (Guidelines to RF-1224 ’Personal income from sole proprietorship’ – in</p>
 <p>Norwegian only).</p>
-<p>Item 2600 Tax withholdings and other deductions</p>
+<p>other deductions</p>
 <p>Tax deducted from wage payments to employees are entered here. Maintenance payment deductions owed etc. are also entered here.obliged to submit annual accounts to being subject to a bookkeeping duty, the mandatory income statement for this enterprise changes to Income</p>
 <p>Statement 1. The closing balance for the previous year will have been settled in accordance with the provisions of the Accounting Act. This could imply that there exist temporary differences. This will be evident from form RF-1217 ‘Spesifikasjon av forskjeller mellom regnskapsmessige og skattemessige verdier’ (‘Specification of differences between accounting and tax values’ – in Norwegian only), which would in that case have been an enclosure with the previous year’s income statement. In such cases, a corrected opening balance must be prepared. The corrected tax equity (item 9960) must be evident from item 9998.</p>
 <p><em type="bold">Page 4 of the income statement </em></p>
 <p>Items 0401 - 0403</p>
-<p>These items are for the use of sole proprietorships only, for the specification of items to be transferred to the tax return and to form RF-1224 <span type="quote">“Personal income from sole proprietorship 2013”</span>.</p>
+<p>specification of items to be transferred to the tax return and to form RF-1224 <span type="quote">“Personal income from sole proprietorship 2013”</span>.</p>
 <p>Item 0401 shows the total business income (or loss) transferred from item 9930 on page 2. The type(s) of business activity is/are stated under item 0402, column A. In the column with the heading ‘ID’, each type of business (if more than one) must be numbered.</p>
 <p>The same number is to be entered in the ’ID’ field in form RF-1224 ’Personlig inntekt fra enkeltpersonforetak 2013’ (Personal income from sole proprietorship 210 – in Norwegian only)’.</p>
 <p><em type="bold">NOTE </em>: The same number must be used for business activities for which the personal income is to be calculated combined pursuant to the Ministry of </p>
@@ -282,23 +281,23 @@
 <p>RF-1224. In form RF-1224, corrections must be made for the capital items that are not to be included in the basis for the calculation of personal income.</p>
 <p>See the guidelines to the form for the calculation of personal income (RF-1225) for details. Columns F and G are used if allocation between spouses or registered partners is being claimed.</p>
 <p>In principle and as a rule, the allocation must correspond to the spouses' work effort and participation in the business activities. Losses must be allocated to the enterprise’s responsible proprietor or to both if both spouses are liable for the enterprise. The allocation of estimated personal income is carried out in form RF-1224, and the spouses jointly fill in one copy of this form.</p>
-<p>For sole proprietorships, items 0410 – 9940 are to be used for the reconciliation of equity. In order for the reconciliation to be correct, only the figures recorded in the accounts are to be entered under these items.</p>
+<p>0410 – 9940 are to be used for the reconciliation of equity. In order for the reconciliation to be correct, only the figures recorded in the accounts are to be entered under these items.</p>
 <p>If a sole proprietorship has recognised income/gains or deficits/losses relating to holding(s) in businesses assessed as partnerships in their accounts, the amounts must be entered under item 0416. The actual reporting of any taxable income from participation in a partnership (ANS/KS/DA) is done by 2013’ (’Partner statement of capital and income in businesses assessed as partnerships 2013’ – in Norwegian only) directly to the tax return.</p>
-<p>For partnerships (ANS/KS/DA) and cooperative enterprises, items 0410 – 9940 are to be used to calculate profit/loss for the year</p>
-<p>Item 0411 Taxable dividend on shares etc.</p>
+<p>cooperative enterprises, items 0410 – 9940 are to be used to calculate profit/loss for the year</p>
+<p>shares etc.</p>
 <p>Dividends are often tax-free for businesses assessed as partnerships and cooperative enterprises that are covered by the exemption method (cf. the Taxation Act section 2-38). This is conditional on the dividend being lawfully distributed and not originating from a company covered by one or more of the exemptions mentioned below. If the dividend is tax-free, it is not to be entered under item 0411.</p>
 <p>Dividends from companies located in low-tax countries outside the EEA</p>
 <p>Area are not tax-free. Nor does the tax exemption apply to dividends from portfolio investments in other companies located in countries outside the EEA Area. In this context, the holding is deemed to be a portfolio investment if the shareholder has at any time during a two-year period owned less than ten per cent of the capital or had less than ten per cent of the votes at the annual general meeting of the company that distributes the dividend. This rule applies to dividends earned during the above-mentioned two-year period. The earning date will normally be the date on which the annual general meeting decides to declare a dividend.</p>
 <p>Businesses assessed as partnerships and <em type="italic"></em>cooperative enterprises are not entitled to a risk-free return (cf. the </p>
 <p>Taxation Act section 10-12) for taxable dividend reported under item 0411.</p>
-<p>Item 0414 Taxable gains/Deductible losses on the realisation of shares etc. Here, businesses assessed as partnerships and <em type="italic"></em>cooperative enterprises enter only losses and gains resulting from the realisation of shares, securities funds and/or primary capital certificates that are <em type="bold">liable to tax </em>and found in form RF-1059 ‘Aksjer og fondsandeler mv. 2013’ (’Shares and units in funds etc. 2013’ – in Norwegian only). Businesses assessed as partnerships and <em type="italic"></em>cooperative enterprises that have etc. and must ensure that the loss or gain is <em type="bold">not entered </em>here. </p>
+<p>gains/Deductible losses on the realisation of shares etc. <em type="bold">liable to tax </em>and found in form RF-1059 ‘Aksjer og fondsandeler mv. 2013’ (’Shares and units in funds etc. 2013’ – in Norwegian only). Businesses assessed as partnerships and <em type="italic"></em>cooperative enterprises that have etc. and must ensure that the loss or gain is <em type="bold">not entered </em>here. </p>
 <p>If the enterprise has entered dividends and/or gains that are tax-free or losses that are not deductible in the accounts, these amounts must be entered in the correction items 2053 and 2054 in order for the reconciliation to be correct.</p>
-<p>Item 0415 Three per cent of tax- free income in accordance with the exemption method</p>
+<p>free income in accordance with the exemption method</p>
 <p>Here you enter three per cent of the enterprise’s net tax-free income in accordance with the exemption method for taxation. With effect from and including 7 October 2008, this will apply to the following enterprise income: dividend on shares etc.,  distribution/shares in the profit from businesses assessed as partnerships (KS,</p>
 <p xml:lang="nob">ANS etc.).</p>
 <p>The income is reduced by nondeductible losses pursuant to the exemption method for the same period.</p>
 <p>Item 0416</p>
-<p><em type="bold">NOTE: To be filled in by sole </em><em type="bold">proprietorships only </em></p>
+<p><em type="bold">NOTE: To be filled in by sole proprietorships only </em></p>
 <p>This item is not to be used by businesses assessed as partnerships. If the business is a partner in another business assessed as a partnership, the taxable/deductible amount in this context must be entered under items 8099/8199 – see these items. Non-deductible losses or income not liable to tax relating to the realisation of holdings are entered under items 2053/2054 – for reconciliation of equity.</p>
 <p>Item 9940 Profit/loss for the year</p>
 <p>If the statement was submitted by a partnership of the ANS/DA or KS type, this item shall be transferred to item 110 in form RF-1215 ’Selskapsoppgave for deltakerlignet selskap 2013’ (’Partnership statement for businesses assessed as partnerships 2013’ – in</p>
@@ -306,7 +305,7 @@
 <p>In the case of cooperative enterprises that are registered as cooperative enterprises (SA) in the Register of</p>
 <p>Business Enterprises, or that operate in accordance with recognised cooperative principles (cf. the transitional rules in the Act relating to before any deductions for back payments pursuant to the Taxation</p>
 <p>Act section 10-50. This means that disbursements and/or provisions for back payments (bonus) and other distributions to unit owners/members adopted by the cooperative enterprise shall not be deducted before the profit/loss in item 9940 is determined. See also guidelines to items 0270 and 0280 on page 1. Cooperative enterprises that are not entitled to make deductions for back payments (bonus) shall transfer the amount to if income to item 201 and if deficit to item 222 in RF-1028 ‘Tax return for limited liability companies etc. 2013’.</p>
-<p>Items 9980 and 9985 apply to cooperative enterprises only – deductions for back payments (bonus)</p>
+<p>deductions for back payments (bonus)</p>
 <p type="listitem">Some cooperative enterprises can  claim a deduction from their business  income for back payments (bonus), cf.  the Taxation Act section 10-50. This  applies to the following types of  enterprises:</p>
 <p type="listitem">consumer cooperative societies</p>
 <p type="listitem">purchasing cooperatives that  distribute pre-ordered goods  among their members</p>
@@ -317,7 +316,7 @@
 <p>Specification of a private account</p>
 <p>This is a specification of item 0422 under changes in equity. The proprietor’s withdrawals and private expenses entered in the enterprise's accounts are entered here. The private expenses are not to be entered in the profit and loss account, but recognised in the private account.</p>
 <p>Example: Tax-deductible electronic communication expenses are entered under item 6995 ‘Office expenses, electronic communication expenses, postage etc.’ If private electronic communication expenses have been paid via the operating budget, they are entered under item 2068. If an amount has been entered under item 7099 ‘Private use of a business vehicle’, the same amount is entered under item 2075.</p>
-<p>Non-deductible business expenses/ equity adjustment</p>
+<p>equity adjustment</p>
 <p>Here you enter expenses/income that may be recorded in the accounts, but that should not influence the taxable income, e.g. non-deductible membership fees and gifts, tax-free income, sick pay for self-employed persons etc.</p>
 <p>Adjustments must also be made here for other items in pages 2 and 3 of the income statement that influence the tax profit/loss without involving changes in equity or vice versa. This applies, among other things, to: -</p>
 <p>Deducted home office xpenses -</p>
