@@ -1,8 +1,10 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1996</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-tandvarden</origFileName><parallel_text xml:lang="fin" location="om-man-inte-ar-nljd-med-tandvarden.html"/><parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-tandvarden.html"/><parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-tandvarden.html"/><parallel_text xml:lang="swe" location="om-man-ar-missnojd-med-tandvarden.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="swe">If you are not happy with dental care / Om man inte är nöjd med tandvården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-<p></p>
-<p></p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1996</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-tandvarden</origFileName><parallel_text xml:lang="fin" location="om-man-inte-ar-nljd-med-tandvarden.html"/><parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-tandvarden.html"/><parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-tandvarden.html"/><parallel_text xml:lang="swe" location="om-man-ar-missnojd-med-tandvarden.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="swe">If you are not happy with dental care / Om man inte är nöjd med tandvården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
 <p type="title">If you are not happy with dental careOm man inte är nöjd med tandvården</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title">Where do you turn to?</p>
 <p type="title">There are various places to turn to</p>
 <p>If you have complaints about dental care there are various instances you can turn to, depending on what you are unhappy about and what you want help with. In most cases complaints and misunderstandings can be resolved by contacting the dentist or dental hygienist who provided the dental care.</p>
@@ -38,7 +40,7 @@
 <p>If you have a complaint of a more general nature, you can also report the matter to The Swedish National Board of Health and Welfare. For example, you may want to criticise a clinic’s organisation or general shortcomings in patient safety. Complaints must be investigated impartially and you do not have to know yourself who has done something wrong or what has not worked well.</p>
 <p>You should also turn to The Swedish National Board of Health and Welfare if you want something deleted from your journal.</p>
 <p>The Swedish Public Dental Service or the private clinic is obligated to report itself to The Swedish National Board of Health and Welfare if there is an injury or someone risks serious injury in dental care. This is done in accordance with Lex Maria.</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title">Possibilities of receiving compensation</p>
 <p type="title">You can receive compensation if you are injured</p>
 <p>If you are injured when you have received dental care you may sometimes be entitled to financial compensation from patient insurance, which all dental clinics must have. It does not matter whether the injury occurred within the Swedish Public Dental Service or at a private clinic. You can receive compensation for injuries that were incurred in conjunction with an examination or treatment. This also applies if the injury was caused by a mistake, by equipment breaking down or if you have received an incorrect diagnosis that has resulted in an injury.</p>
@@ -63,7 +65,7 @@
 <p>If the dentist is not a member of Privattandläkarna you must find out which insurance company to send the complaint to. The easiest way is to ask your dentist, but you can also turn to The Swedish Patient Insurance Association, PFF, for information on where to submit your complaint. This also applies if you have been to a private dental hygienist.</p>
 <p type="title">Injury from medicines in conjunction with dental care</p>
 <p>If you have developed an adverse effect or injury from a medicine in conjunction with dental care, you may be entitled to compensation from The Pharmaceutical Insurance. The Pharmaceutical Insurance is an insurance that all manufacturers and importers of medicines in Sweden have. You must report the injury to The Pharmaceutical Insurance within three years from when you became aware that the injury was probably caused by a medicine.</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title">Dissatisfied with dental care abroad</p>
 <p type="title">Claim cannot be made in Sweden</p>
 <p>If you have been mistreated, received a treatment injury or are dissatisfied with dental care you have received abroad, you cannot make a complaint about it in Sweden. Instead the complaint must be made in the country where you were examined and treated.</p>

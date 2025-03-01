@@ -1,4 +1,6 @@
-<document xml:lang="eng" id="no_id"><header><title>Student Board | Sámi University of Applied Sciences</title><genre code="admin"/><author><unknown/></author><wordcount>52</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/en/a/students/student-board</origFileName><parallel_text xml:lang="nob" location="studentstyret.html"/><parallel_text xml:lang="sme" location="studeantastivra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="koi"></p>
+<document xml:lang="eng" id="no_id"><header><title>Student Board | Sámi University of Applied Sciences</title><genre code="admin"/><author><unknown/></author><wordcount>52</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://samas.no/en/a/students/student-board</origFileName><parallel_text xml:lang="nob" location="studentstyret.html"/><parallel_text xml:lang="sme" location="studeantastivra.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="tur"></p>
 <p type="title">Student Board</p>
 <p><em type="italic">Student Board Members: </em></p>
 <list><p type="listitem" xml:lang="sme">Mikkel Rasmus Logje ( <em type="italic">chairman </em>) </p>

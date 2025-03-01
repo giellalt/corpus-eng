@@ -1,13 +1,15 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>150</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/miljo-och-klimat/tillstandet-i-miljon/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="miljo-och-klimat-tillstandet-i-miljon.html"/><parallel_text xml:lang="swe" location="miljo-och-klimat-tillstandet-i-miljon.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>The state of the environment - Länsstyrelsen i Dalarna</p>
-<list><p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-</list><p></p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>150</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/miljo-och-klimat/tillstandet-i-miljon/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="miljo-och-klimat-tillstandet-i-miljon.html"/><parallel_text xml:lang="swe" location="miljo-och-klimat-tillstandet-i-miljon.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>The state of the environment - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
 <p type="title">The state of the environment</p>
 <p><em type="italic">To investigate and continuously monitor the state of the environment is an important part of the County Administrative Board's management of the environment. The results are used, inter alia, to monitor progress with environmental goals as well as to identify new threats to the environment. </em></p>
 <p>Part of our work to monitor the state of the environment is to coordinate environmental monitoring in the county. Environmental monitoring is made up of regular systematic investigations that illustrate the state of the environment and allow us to assess future threats to the environment. Monitoring is a long-term process as it often requires measurements over long periods of time to see if a change is caused by human activity or by a natural variation. The results are then used as a basis for the county's ongoing management of the environment.</p>

@@ -1,7 +1,9 @@
-<document xml:lang="eng" id="no_id"><header><title>A Sámi - That's it! — Siida</title><genre code="facta"/><author><unknown/></author><year>2011</year><wordcount>770</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/contents/news/a-smi-thats-it</origFileName><parallel_text xml:lang="sme" location="spmela-thats-it.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="koi"></p>
-<p xml:lang="koi"></p>
-<p xml:lang="koi"></p>
-<p xml:lang="koi"></p>
+<document xml:lang="eng" id="no_id"><header><title>A Sámi - That's it! — Siida</title><genre code="facta"/><author><unknown/></author><year>2011</year><wordcount>770</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.siida.fi/contents/news/a-smi-thats-it</origFileName><parallel_text xml:lang="sme" location="spmela-thats-it.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="tur"></p>
+<p xml:lang="tur"></p>
+<p xml:lang="tur"></p>
+<p xml:lang="tur"></p>
 <list><p type="listitem" xml:lang="sme">sámegillii |</p>
 <p type="listitem">in English |</p>
 <p type="listitem" xml:lang="fin">suomeksi |</p>
@@ -9,7 +11,7 @@
 </list><p xml:lang="deu">Search Site</p>
 <p xml:lang="nob">Advanced Search…</p>
 <p>Skip to content. | Skip to navigation</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title" xml:lang="fra">Sections</p>
 <list><p type="listitem" xml:lang="nob">Home |</p>
 <p type="listitem" xml:lang="fra">Collections |</p>
@@ -24,18 +26,18 @@
 <p type="listitem" xml:lang="nob">Newsletter</p>
 </list><p xml:lang="nob">SÁMI CULTURE  Sámi Museum</p>
 <p>NORTHERN NATURE  Nature Centre</p>
-<p xml:lang="koi"></p>
-<p xml:lang="koi"></p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
+<p xml:lang="tur"></p>
+<p xml:lang="tur"></p>
 <p>Info</p>
 <p xml:lang="nob">Home</p>
-<p xml:lang="koi">/</p>
+<p xml:lang="vep">/</p>
 <p xml:lang="nob">News /</p>
 <p xml:lang="sme">A Sámi - That's it!</p>
 <p type="title" xml:lang="sme">A Sámi - That's it!</p>
 <p xml:lang="isl">Oct 04, 2011 10:12 AM</p>
 <p>The Sámi community of Finland is alive and changes all the time. Many Sámi live today outside the official Sámi Area. Sámi young people from the north and the south tell in this exhibition what it means to be a Sámi young person today.</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p>In 2009–2011, the Sámi Museum Siida documented the lives of Sámi young people together with other Nordic Sámi museums. One of the objectives of the project was to activate Sámi young people to define and record their own cultural heritage.</p>
 <p>During the project, the museum staffs, the project workers and the young of each area reflected together on the kind of things about life today that should be recorded in museums and archives. The short films made by the young themselves and the quotations from their interviews show what it is like to be a young Sámi today and what the young think about the future.</p>
 <p>During the project, each partner museum in Sweden and Norway involved a school in its vicinity in the cooperation. In Finland, the partners in documentation were, for the sake of comparison, urban young Sámi that live putside the Sámi region.</p>
@@ -49,11 +51,11 @@
 <p type="title" xml:lang="fra">Document Actions</p>
 <list><p type="listitem">Send this</p>
 <p type="listitem">Print this</p>
-</list><p xml:lang="koi"></p>
-<p xml:lang="koi"></p>
-<p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
+<p xml:lang="tur"></p>
+<p xml:lang="tur"></p>
 <p xml:lang="fra">Contents</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p>Study Paths exhibition looks at the study programme of Sámi Education Institute</p>
 <p>The National Museum donates an important Sámi collection to the Sámi Museum Siida</p>
 <p>Learning more about the Sámi narrative tradition and nature</p>
@@ -75,14 +77,14 @@
 <p>&gt; guided tours</p>
 <p>&gt; Siida in terms of architecture</p>
 <p xml:lang="ron">calendar</p>
-<p xml:lang="koi">|</p>
+<p xml:lang="vep">|</p>
 <p>photo gallery</p>
 <p>tourist info</p>
 <p xml:lang="sme">Siida</p>
 <p xml:lang="sms">Siida Shop</p>
 <p>for the media | for tour operators</p>
 <p xml:lang="sme">Copyright Siida 2010</p>
-<p xml:lang="koi">|</p>
+<p xml:lang="vep">|</p>
 <p xml:lang="est">Updated 10.6.2010</p>
 <p>Open original size in new window</p>
 </body></document>

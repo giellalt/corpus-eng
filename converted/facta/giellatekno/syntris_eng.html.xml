@@ -1,4 +1,6 @@
-<document xml:lang="eng" id="no_id"><header><title>Syntris (Function game)</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>568</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/Syntris_eng.html</origFileName><parallel_text xml:lang="nno" location="syntris_nob.html"/><parallel_text xml:lang="sme" location="syntris_sme.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Syntris (Function game)</p>
+<document xml:lang="eng" id="no_id"><header><title>Syntris (Function game)</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>568</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/usevisl/Syntris_eng.html</origFileName><parallel_text xml:lang="nno" location="syntris_nob.html"/><parallel_text xml:lang="sme" location="syntris_sme.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p type="title">Syntris (Function game)</p>
 <list><p type="listitem">Begin to play</p>
 <p type="listitem">Sentence code</p>
 <p type="listitem">Playing</p>
@@ -9,28 +11,28 @@
 <p type="listitem">Links to help functions and the Syntris game</p>
 </list><p>Syntris VISL - direct link</p>
 <p>In the Syntris game you work with sentence functions.</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Begin to play</p>
 <list><p type="listitem">Write sentence code – or</p>
 <p type="listitem">just press "Go"</p>
 </list><p>Activate the Java window with the arrow, and then press the F2 key on your keyboard.</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Sentence code</p>
 <p>You may choose a sentence collection or a specific sentence, say SMEA143. In this case you are not allowed to register your result. The sentence collections are marked with SMEA, SMEB and SMEC.</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Playing</p>
 <p>The computer chooses a sentence and divides it into constituents. Then a box containing four different syntactic functions drops down from above. You may use the left and right arrows to move the box to the right or left to place it over a word, and you may change the order of functions with the up and down arrows. The correct function shall be placed on the bottom of the box, and then dropped on a word representing that function</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Speed and pause</p>
 <p>If you press the space bar, the box drops faster. If you want a pause, press the p key. When you press the same key again, the game will continue.</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title" xml:lang="fra">Points</p>
 <p>Every time the box falls down on the correct constituent, you receive 10 points and the constituent turns grey. When the box falls on the wrong constituent, you lose 5 points and the computer picks a new sentence. The old sentence still remains below the new sentence. If you manage to choose the right function for the constituents of the new sentence, you can try to solve the old sentence again.</p>
 <p>When 10 sentences have been stacked on top of each other, the game is over. You may also end the game by choosing <span type="quote" xml:lang="nob">"Stop Game"</span> or <span type="quote" xml:lang="sme">"Quit"</span> on the Game-menu.</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Results</p>
 <p>If your result is among the top 10 today, or among the overall top 100, you may register your name and where you come from.</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title" xml:lang="fra">Sentence constituents</p>
 <p>We use the following sentence constituents:</p>
 <p><em type="italic">Abbreviation </em></p>
@@ -53,12 +55,12 @@
 <p xml:lang="sme"><em type="italic">galggat </em></p>
 <p xml:lang="fit">jaska</p>
 <p xml:lang="sme"><em type="italic">veallát </em></p>
-<p xml:lang="koi">.</p>
+<p xml:lang="vep">.</p>
 <p xml:lang="sme"><em type="italic">Od </em></p>
 <p xml:lang="fra">Object</p>
 <p xml:lang="vep">Bija</p>
 <p xml:lang="sme"><em type="italic">buori dola </em></p>
-<p xml:lang="koi">.</p>
+<p xml:lang="vep">.</p>
 <p xml:lang="sme"><em type="italic">Maid </em></p>
 <p xml:lang="sme">Máret áigu oastit? Dieđát go</p>
 <p xml:lang="sme"><em type="italic">goas mis lea čoahkkin? </em></p>
@@ -72,7 +74,7 @@
 <p xml:lang="sme"><em type="italic">olles dálvvi </em></p>
 <p xml:lang="sme">. Nieida lei</p>
 <p xml:lang="sme"><em type="italic">skuvllas </em></p>
-<p xml:lang="koi">.</p>
+<p xml:lang="vep">.</p>
 <p xml:lang="sme"><em type="italic">Jus dieđášin </em></p>
 <p xml:lang="sme">, de dajašin.</p>
 <p xml:lang="isl"><em type="italic">HAB </em></p>
@@ -87,24 +89,24 @@
 <p xml:lang="sme"><em type="italic">alit čalmmit </em></p>
 <p xml:lang="sme">. Gáttis ledje</p>
 <p xml:lang="sme"><em type="italic">olbmot </em></p>
-<p xml:lang="koi">.</p>
+<p xml:lang="vep">.</p>
 <p><em type="italic">Cs </em></p>
 <p>Subject predicative</p>
 <p xml:lang="sme">Min nieiddat leat</p>
 <p xml:lang="sme"><em type="italic">čeahpit </em></p>
-<p xml:lang="koi">.</p>
+<p xml:lang="vep">.</p>
 <p><em type="italic">Co </em></p>
 <p>Object predicative</p>
 <p xml:lang="sme">Son oaččui dan</p>
 <p xml:lang="sme"><em type="italic">luoikkasin </em></p>
 <p xml:lang="sme">. Gáhkuid son ráhkada</p>
 <p xml:lang="sme"><em type="italic">hui buriid </em></p>
-<p xml:lang="koi">.</p>
+<p xml:lang="vep">.</p>
 <p><em type="italic">Cp </em></p>
 <p xml:lang="ita">Predicative predicative</p>
 <p xml:lang="sme">Mus leat gieđat</p>
 <p xml:lang="sme"><em type="italic">nu galbmasat </em></p>
-<p xml:lang="koi">.</p>
+<p xml:lang="vep">.</p>
 <p xml:lang="hbs"><em type="italic">CO </em></p>
 <p>Coordinator</p>
 <p xml:lang="sme"><em type="italic">Muhto </em></p>
@@ -141,8 +143,8 @@
 <p xml:lang="sme"><em type="italic">muohtaádjáid </em></p>
 <p xml:lang="smj">ja</p>
 <p xml:lang="sme"><em type="italic">muohtaeŋgeliid </em></p>
-<p xml:lang="koi">.</p>
-<p xml:lang="koi"></p>
+<p xml:lang="vep">.</p>
+<p xml:lang="tur"></p>
 <p type="title">Links to help functions and the Syntris game</p>
 <p>If you want to learn more about sentence analysis, see Sentence functions</p>
 <p>or you may practice to build a sentence tree</p>

@@ -1,56 +1,58 @@
 <document xml:lang="eng" id="no_id"><header><title>Cost of legal aid - 
 	Oikeus.fi
-</title><genre code="admin"/><author><unknown/></author><year>2014</year><wordcount>388</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/en/index/esitteet/oikeusapu/mitaoikeusapuhakijallemaksaa.html</origFileName><parallel_text xml:lang="fin" location="mitaoikeusapuhakijallemaksaa.html"/><parallel_text xml:lang="sme" location="maidvuoigatvuo273aveahkkiohccaimaksa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="koi"></p>
+</title><genre code="admin"/><author><unknown/></author><year>2014</year><wordcount>388</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>https://oikeus.fi/en/index/esitteet/oikeusapu/mitaoikeusapuhakijallemaksaa.html</origFileName><parallel_text xml:lang="fin" location="mitaoikeusapuhakijallemaksaa.html"/><parallel_text xml:lang="sme" location="maidvuoigatvuo273aveahkkiohccaimaksa.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="tur"></p>
 <p type="title">Information on Legal Aid</p>
 <p type="title">Cost of legal aid</p>
 <p>The expenses to be collected from the recipient of legal aid consist of the deductible and the legal aid charge.</p>
 <p type="title" xml:lang="nob">Debuctible</p>
 <p>The recipient of legal aid is to pay a percentage of the fee of the attorney (basic deductible). The percentage depends on the monthly available means of the applicant as follows:</p>
 <p><em type="bold">Single person </em></p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p>Available means up to</p>
 <p>Basic deductible</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p xml:lang="deu">EUR 600</p>
-<p xml:lang="koi">0 %</p>
-<p xml:lang="koi"></p>
+<p xml:lang="vep">0 %</p>
+<p xml:lang="tur"></p>
 <p xml:lang="deu">EUR 800</p>
-<p xml:lang="koi">20 %</p>
-<p xml:lang="koi"></p>
+<p xml:lang="vep">20 %</p>
+<p xml:lang="tur"></p>
 <p xml:lang="deu">EUR 900</p>
-<p xml:lang="koi">30 %</p>
-<p xml:lang="koi"></p>
+<p xml:lang="vep">30 %</p>
+<p xml:lang="tur"></p>
 <p xml:lang="deu">EUR 1,050</p>
-<p xml:lang="koi">40 %</p>
-<p xml:lang="koi"></p>
+<p xml:lang="vep">40 %</p>
+<p xml:lang="tur"></p>
 <p xml:lang="deu">EUR 1,150</p>
-<p xml:lang="koi">55 %</p>
-<p xml:lang="koi"></p>
+<p xml:lang="vep">55 %</p>
+<p xml:lang="tur"></p>
 <p xml:lang="deu">EUR 1,300</p>
-<p xml:lang="koi">75 %</p>
+<p xml:lang="vep">75 %</p>
 <p>When the monthly available means exceed EUR 1,300, legal aid will not be granted.</p>
 <p><em type="bold">Spouses together </em></p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p>Available means up to</p>
 <p xml:lang="nob">Deductible</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p xml:lang="deu">EUR 1,100</p>
-<p xml:lang="koi">0 %</p>
-<p xml:lang="koi"></p>
+<p xml:lang="vep">0 %</p>
+<p xml:lang="tur"></p>
 <p xml:lang="deu">EUR 1,400</p>
-<p xml:lang="koi">20 %</p>
-<p xml:lang="koi"></p>
+<p xml:lang="vep">20 %</p>
+<p xml:lang="tur"></p>
 <p xml:lang="deu">EUR 1,600</p>
-<p xml:lang="koi">30 %</p>
-<p xml:lang="koi"></p>
+<p xml:lang="vep">30 %</p>
+<p xml:lang="tur"></p>
 <p xml:lang="deu">EUR 2,000</p>
-<p xml:lang="koi">40 %</p>
-<p xml:lang="koi"></p>
+<p xml:lang="vep">40 %</p>
+<p xml:lang="tur"></p>
 <p xml:lang="deu">EUR 2,200</p>
-<p xml:lang="koi">55 %</p>
-<p xml:lang="koi"></p>
+<p xml:lang="vep">55 %</p>
+<p xml:lang="tur"></p>
 <p xml:lang="deu">EUR 2,400</p>
-<p xml:lang="koi">75 %</p>
+<p xml:lang="vep">75 %</p>
 <p>When the monthly available means exceed EUR 2,400, legal aid will not be granted.</p>
 <p>The wealth of the recipient of legal aid increases his or her liability, if the value of bank deposits, shares in a housing company, real estates or other assets exceeds EUR 5,000 (supplementary deductible). Liabilities are deducted from the assets. A permanent home, a normal recreational residence and a car or loans taken for the acquisition of these are, however, omitted from the calculation.</p>
 <p>In inventories of the estate, assets of the deceased are fully taken into account, and they are added to the amount of the supplementary deductible (increased supplementary deductible). In addition, assets received e.g. as an inheritance or in the distribution of matrimonial property are taken into account when determining the amount of supplementary deductible.</p>

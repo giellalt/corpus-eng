@@ -1,4 +1,6 @@
-<document xml:lang="eng" id="no_id"><header><title>Verbs</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>5969</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/verb.eng.html</origFileName><parallel_text xml:lang="nob" location="verb.nob.html"/><parallel_text xml:lang="sme" location="verb.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title" xml:lang="vep">Verbs</p>
+<document xml:lang="eng" id="no_id"><header><title>Verbs</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>5969</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/verb.eng.html</origFileName><parallel_text xml:lang="nob" location="verb.nob.html"/><parallel_text xml:lang="sme" location="verb.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p type="title" xml:lang="vep">Verbs</p>
 <list><p type="listitem">Different stems</p>
 <p type="listitem">Diphthong Simplification</p>
 <p type="listitem">Consonant Gradation</p>
@@ -21,7 +23,7 @@
 <p type="listitem">The Imperative</p>
 </list><p>Back to the grammar main page .</p>
 <p><em type="italic">Verbs </em>tell us what is happening or being done. </p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Different stems</p>
 <p>Verb inflection is determined by the type of stem the individual verb has. We can find out what type of stem a verb has by counting the number of syllables in the final foot of the word. A <em type="italic">foot </em>is a group of syllables where the first syllable has stress. Here the syllables are separated with a hyphen <span type="quote">"-", and the foot is marked with parentheses "()"</span>. Stress is marked with ' before the syllable. </p>
 <list><p type="listitem"><em type="italic">láibut </em>('lái-but) 'to bake' has two syllables and one foot. </p>
@@ -45,12 +47,12 @@
 <p type="listitem"><em type="italic">čohkkát </em>('čohk-kát) 'to sit' has two syllables and one foot. </p>
 <p type="listitem"><em type="italic">fárret </em>('fár-ret) 'to move (to a new residence)' has two syllables and one foot. </p>
 </list><p>These verbs are not subject to gradation. For the most part they conjugate like vowel stem verbs but in certain places the forms resemble those of consonant stem verbs: <em type="italic">moai diŋgojetne </em>'we [du.] are ordering', <em type="italic">sii diŋgojit </em>'they [pl.] are ordering', <em type="italic">mun diŋgojin </em>'I ordered', <em type="italic">don diŋgojit </em>'you [sg.] ordered', <em type="italic">sii diŋgojedje </em>'they [pl.] ordered'. </p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Diphthong Simplification</p>
 <p>The diphthong in the first syllable of foot can be affected by the vowel in the second syllable. The diphthong becomes a monophthong (a single vowel) when the vowel in the second syllable is one of the following:</p>
 <list><p type="listitem" xml:lang="sme">- 'ii', e.g. <em type="italic">diđii (diehtit) </em>'to know' </p>
 <p type="listitem">- 'e' and 'o', e.g. <em type="italic">dihten (diehtit) </em>'to know', <em type="italic">ožžon (oažžut) </em>'to get, to receive', but not in the connegative form: <em type="italic">in 'dieđe' </em>(I don't 'know'), <em type="italic">in 'oaččo' </em>(I don't 'get'). </p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Consonant Gradation</p>
 <p>Consonant gradation usually occurs in the consonants between the first and second syllable in a foot, e.g. <em type="italic">diehtit - dieđán </em>'to know'. <em type="italic">Strong grade </em>occurs in the infinitive and present plural, for instance. <em type="italic">Weak grade </em>occurs, for example, in the connegative forms of vowel stem verbs. Only vowel stem verbs have consonant gradation. </p>
 <p>Here are some examples of consonant gradation. There are examples of strong grade on the left, and weak grade on the right. Please note that the letter '-i-' at the end of the first syllable is regarded as part of the consonant cluster:</p>
@@ -64,7 +66,7 @@
 <list><p type="listitem" xml:lang="smj">dolasta <em type="italic">ll </em>at - dolasta <em type="italic">ll </em>á - dolasta <em type="italic">l </em>an </p>
 <p type="listitem" xml:lang="sme">muitala <em type="italic">dd </em>at - muitala <em type="italic">dd </em>á - muitala <em type="italic">tt </em>an </p>
 </list><p>You can read more about consonant gradation here</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Other Consonant Alternations</p>
 <p>Consonant stem verbs end in consonants in the connegative present and the imperative 2nd person singular . Usually this final consonant is the same one found in the infinitive, but there are exceptions. Sounds that come between the second and third syllables are made word-final when the verb is in the connegative/imperative form. In North Saami, there are limitations as to which consonants can occur in word-final position, and here we might also run into special consonant variations between infinitive and imperative/connegative forms. The consonants that can occur in word-final position are: <span type="quote" xml:lang="est">"t", "s"</span>, <span type="quote" xml:lang="sms">"š", "l"</span>, <span type="quote">"r" and "n"</span>. Here are some examples of sound/letter changes found in consonant stem verbs:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">h &gt; t </em>, e.g. veahkehit - (ii) veahket 'to help' </p>
@@ -78,11 +80,11 @@
 <p type="listitem"><em type="italic">ld &gt; l </em>, e.g. buđaldit - (ii) buđal 'to tinker around with, to work on' </p>
 <p type="listitem" xml:lang="sme"><em type="italic">lg &gt; l </em>, e.g. jámálgit - (ii) jámál 'to faint' </p>
 <p type="listitem" xml:lang="nob"><em type="italic">rd &gt; r </em>, f.eks. ipmirdit - (ii) ipmir 'to understand' </p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Finite Verbs and Agreement</p>
 <p>A finite verb is a verb that is inflected for person and number.</p>
 <p>There is agreement (correlation in the inflection) between the subject and the finite verb: <em type="italic">mun boađán </em>'I am coming', <em type="italic">don boađát </em>'you [sg.] are coming', <em type="italic">mun boađášin </em>'I would come', <em type="italic">sii boađášedje </em>'they [pl.] would come'. Read more about agreement here . </p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">The Verb 'leat'</p>
 <p>'Leat' is the Northern Saami verb for 'to be'. It belongs to the consonant stem group and takes the same inflectional suffixes as the consonant stem verbs. The verb <span type="quote" xml:lang="sme">"leat"</span> can be both a main verb and an auxiliary in sentences:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Main verb: </em><em type="italic">Mun 'lean' Elle. Beana 'lea' skibas. Joavnna 'lea' dáppe. </em></p>
@@ -105,14 +107,14 @@
 <p type="listitem" xml:lang="sme"><em type="italic">Munnos eai leat gintalat. </em></p>
 <p type="listitem">We [du.] don't have candles.</p>
 </list><p>Read more about <span type="quote">"have"</span> sentences here .</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Main Verbs and Auxiliary Verbs</p>
 <p>Main verbs can stand alone in a sentence. Helping verbs require the presence of a main verb for the sentence to be grammatical. Saami has three types of helping verbs: the <span type="quote" xml:lang="sme">"leat"</span> verb 'to be'; the verb of negation, and modal auxiliaries. Note that it is the helping verb that is inflected for person and number. The main verb takes an infinitive form.</p>
 <p>The <em type="italic">verb of negation </em>is followed by the main verb in connegative form. The connegative form can be in either the presence or the perfect: <em type="italic">Mun in boađe. Iŋgá ii boahtán. </em>(I'm not coming. Inga didn't come.) </p>
 <p>The <em type="italic">verb <span type="quote" xml:lang="sme">"leat"</span> </em>can be followed by a main verb in either the perfect form or the actio essive. The perfect participle indicates a completed event or action, whereas the actio essive indicates something on-going: <em type="italic">Mun lean oađđán. Elle lei viesu bassame, go telefuvdna čuojai. </em>(I have slept. Elle was cleaning the house, when the telephone rang.) </p>
 <p><em type="italic">Modal auxiliaries </em>are verbs that indicate possibility or necessity. Everyday modal auxiliaries include <span type="quote" xml:lang="sme">"galgat"</span> 'should, ought to', <span type="quote" xml:lang="sme">"sáhttit"</span> 'might, to be able to', <span type="quote" xml:lang="sme">"máhttit"</span> 'to know how to', <span type="quote" xml:lang="nob">"fertet"</span> 'must, to be compelled to, to have to', <span type="quote" xml:lang="sme">"šaddat"</span> 'to be obliged to' and <span type="quote" xml:lang="sme">"áigut"</span> 'to intend to'. The modal auxiliary is followed by the main verb in the infinitive: <em type="italic">Mun áiggun vuolgit. Elle máhttá sihkkelastit. Soai sáhttiba veahkehit du. Biila cuovkanii, ja mii šattaimet bussiin johtit. </em>(I'm going to leave. Elle knows how to ride a bike. They [du.] can help you [sg.]. The car broke down, and we [pl.] had to travel by bus.) </p>
 <p>You can read more about auxiliary verbs and main verbs here .</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title" xml:lang="deu">Nonfinite Verbs</p>
 <p>are verbs that are not inflected for person and number, e.g.</p>
 <list><p type="listitem">the infinitive (base form): <em type="italic">Dii fertebehtet 'boahtit' áiggil. </em></p>
@@ -144,10 +146,10 @@
 <p type="listitem">(He/She hurried into town without eating).</p>
 <p type="listitem" xml:lang="sme">supine (causal-final): <em type="italic">Son bođii girjjiid 'vieččažit'. Ferten gárvodit bures 'aman' galbmot jámas. </em></p>
 <p type="listitem">(He/She came 'in order to get' the books. I have to dress warm 'so that I do not' freeze to death).</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Transitive and Intransitive Verbs</p>
 <p>Transitive verbs take objects in the accusative: <em type="italic">Mun 'boran' láibbi. </em>(I 'eat' bread). Intransitive verbs do not take objects, e.g. <em type="italic">mannat </em>. Other typical transitive verbs are <span type="quote" xml:lang="smj">"juhkat"</span> 'to drink', <span type="quote" xml:lang="sme">"lohkat"</span> 'to read', <span type="quote" xml:lang="sme">"oastit"</span> 'to buy', <span type="quote" xml:lang="sme">"vuovdit"</span> 'to sell' and <span type="quote" xml:lang="sme">"váldit"</span> 'to take'. Here are some examples: <em type="italic">Moai juhke gáfe. Mánát lohket girjji. Ovllá osttii viesu. Elle vuvddii biilla. Reaŋga válddii mávssu </em>. (We [du.] drink coffee. Children read the book. Ovllá bought a/the house. Elle sold a/the car. The hand took the payment). </p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title" xml:lang="smn">Mood</p>
 <p>The form of the verb that indicates the attitude of the speaker to what is being said. We have four moods in the Saami language:</p>
 <list><p type="listitem" xml:lang="smn">the indicative: <em type="italic">Mun 'boađán' ihttin. </em></p>
@@ -158,10 +160,10 @@
 <p type="listitem">(It's no use even if the police 'did come').</p>
 <p type="listitem">the potential (possibility): <em type="italic">In dieđe 'bođeža' go juovlastállu. </em></p>
 <p type="listitem">(I don't know if Santa Clause will come).</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">The Indicative</p>
 <p>The indicative form of the verb is used for conveying factual statements, e.g. <em type="italic">boađát </em>'you [sg.] are coming', <em type="italic">it boahtán </em>'you [sg.] did not come'. Here are the indicative present and preterite forms: </p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">The Present Tense</p>
 <p>The indicative.</p>
 <p>Vowel stem verbs have two syllables in the last foot, and end in <span type="quote" xml:lang="fao">"-at"</span>, <span type="quote" xml:lang="kal">"-it"</span> and <span type="quote" xml:lang="kal">"-ut"</span>. They are subject to gradation, diphthong simplification and vowel alternation in the second syllable:</p>
@@ -296,7 +298,7 @@
 <p xml:lang="sme"><em type="italic">čohkkájit </em></p>
 <p xml:lang="sme"><em type="italic">fárrejit </em></p>
 <p xml:lang="sme"><em type="italic">diŋgojit </em></p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">The Past Tense</p>
 <p>Vowel stem verbs have two syllables in the final foot, and they end in <span type="quote" xml:lang="fao">"-at"</span>, <span type="quote" xml:lang="kal">"-it"</span> and <span type="quote" xml:lang="kal">"-ut"</span>. They are subject to gradation, diphthong simplification and vowel simplification in the second syllable:</p>
 <p xml:lang="nob"><em type="italic">VOWEL STEM VERBS - preterite </em></p>
@@ -427,7 +429,7 @@
 <p xml:lang="sme"><em type="italic">fárrejedje </em></p>
 <p xml:lang="smj"><em type="italic">diŋgojedje </em></p>
 <p>The preterite tense marker is <span type="quote">"-i". It occurs in all persons with the exceptions of the 3rd person plural, where there is a "-dj-"</span> in the ending. Here are some examples: <em type="italic">Mun veallájin. Mii balláimet. Sii duddjojedje </em>.(I was lying down. We [pl.] got frightened. They [pl.] were doing handcrafts). </p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Negation</p>
 <p>The negation structure consists of the verb of negation and a subsequent main verb in the connegative form, e.g., <span type="quote" xml:lang="sme">"in boađe"</span> (I'm not coming) or <span type="quote" xml:lang="sme">"in boahtán"</span> (I didn't come). The verb of negation is inflected for person and number, and the main verb is inflected for tense.</p>
 <p>In the present, the connegative form is like the imperative 2nd person singular. In vowel stem verbs the connegative form is in the weak grade. In the second syllable there is vowel alternation <span type="quote" xml:lang="nno">"i&gt;e"</span> and <span type="quote" xml:lang="hbs">"u&gt;o"</span>. This alternation does not cause diphthong simplification, e.g. <em type="italic">oastit &gt; in oastte </em>, <em type="italic">oažžut &gt; in oaččo </em>. In contraction verbs the connegative form is like the 3rd person singular present form: <em type="italic">čohkkát &gt; in čohkká </em>, <em type="italic">duddjot &gt; in duddjo </em>. In consonant stem verbs the connegative form is reduced to two syllables with a consonant at the end: <em type="italic">gávppašit &gt; in gávppaš </em>, <em type="italic">boradit &gt; in borat </em>. </p>
@@ -502,13 +504,13 @@
 <p type="listitem">(We [du.] have no children).</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Dus eai leat guokte vielja </em>. </p>
 <p type="listitem">(You [sg.] don't have two brothers).</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">The Negative Imperative (Prohibitive)</p>
 <p>The verb of negation also has a correlating imperative form, i.e. a command form. In the 2nd person singular, it is <span type="quote" xml:lang="ron">"ale"</span>. The Imperative form is also inflected for person and number, and it is followed by the main verb in the present connegative.</p>
 <p><em type="italic">The NEGATIVE imperative </em></p>
 <p xml:lang="deu">Pers.</p>
 <p><em type="italic">verb of negation </em></p>
-<p xml:lang="koi"><em type="bold"></em></p>
+<p xml:lang="tur"><em type="bold"></em></p>
 <p xml:lang="smn">mun</p>
 <p xml:lang="fin"><em type="italic">allon </em></p>
 <p xml:lang="sme"><em type="italic">allon boađe </em></p>
@@ -549,7 +551,7 @@
 <list><p type="listitem" xml:lang="sme"><em type="italic">Allu šat riidal! </em>(Let's [du.] not quarrel anymore!) </p>
 <p type="listitem"><em type="italic">Allet dájo! </em>(Don't [pl.] be crazy!), <em type="italic">Ale mana vuos! </em>(Don't [sg.] go yet!) </p>
 <p type="listitem"><em type="italic">Alloset boađe mus bearrat dan vealggi! </em>(They [pl.] shouldn't come and demand payment from me of that debt!) </p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">The Perfect</p>
 <p>The perfect consists of the auxiliary verb <span type="quote" xml:lang="sme">"leat"</span> in the present and the main verb in the past participle: - <span type="quote" xml:lang="sme">"lean boahtán"</span> (I have come), <span type="quote" xml:lang="sme">"leahppi boradan"</span> (you [du.] have eaten), <span type="quote" xml:lang="sme">"letne čorgen"</span> (we [du.] have tidied up).</p>
 <p>The perfect is used to indicate that an event or action has been completed. It is the helping verb that is inflected for person and number. The past participle of the main verb is not inflected.</p>
@@ -594,7 +596,7 @@
 <p type="listitem">(We [pl.] have not 'had' help).</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Čeazis ii leat 'leamaš' bargu dán jagi </em>. </p>
 <p type="listitem">(My uncle has not 'had' work this year).</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">The Actio Essive</p>
 <p>The actio essive construction consists of the helping verb <span type="quote" xml:lang="sme">"leat"</span> and the main verb in the actio essive form: <span type="quote" xml:lang="sme">"lean boahtime"</span> (I'm on my way), <span type="quote" xml:lang="sme">"leahppi boradeame"</span> (You [du.] are in the process of eating), <span type="quote" xml:lang="sme">"letne čorgeme"</span> (we [du.] are in the process of tidying up).</p>
 <p>The actio essive is used to express that the action or event are ongoing or not completed. It is the helping verb that is inflected for person and number. The main verb does not vary in form.</p>
@@ -633,7 +635,7 @@
 <p type="listitem">(We'll [du.] run and see what's making that banging sound).</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Issat finai ruovttus 'viežžame' ruđa </em>. </p>
 <p type="listitem">(Issat went home to get some money).</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">The Conditional</p>
 <p>This is the form of the verb used to express a condition or stipulation for an event/action or when speaking hypothetically. The conditional is also used to express modest requests or to be polite.</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Ii ábut vaikko politiijat 'boađášedje'. </em></p>
@@ -775,7 +777,7 @@
 <p type="listitem">(We [pl.] wouldn't have eaten in the living room if there had been room in the kitchen).</p>
 <p type="listitem" xml:lang="sme"><em type="italic">In moddjáše politihkkáriidda bálkká ovddas ge </em>. </p>
 <p type="listitem">I wouldn't smile for politicians even if I were paid.</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">The Potential</p>
 <p>This is the verb form that expresses possibility, especially when we aren't certain:</p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">'Boražit' go mánát guoli? </em></p>
@@ -913,7 +915,7 @@
 <p type="listitem">(Why, we [du.] have not been in Tromso for a long time).</p>
 <p type="listitem" xml:lang="sme"><em type="italic">'Ii bođeš' Máhtte jur ovddemus veahkkin </em>. </p>
 <p type="listitem">(Máhtte will not be the first one to come and help).</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">The Imperative</p>
 <p>The command form, e.g. <em type="italic">'Boađe' donge! </em></p>
 <p>The imperative can have various meaning:</p>

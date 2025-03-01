@@ -1,4 +1,6 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4907</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/MAT1-04/Hele/Komplett_visning?lplang=eng&amp;read=1</origFileName><parallel_text xml:lang="nno" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sma" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sme" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="smj" location="laereplan_matematikk-felles.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="smj">Udir.no - CURRICULUM FOR THE COMMON CORE SUBJECT OF MATHEMATICS</p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>4907</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/MAT1-04/Hele/Komplett_visning?lplang=eng&amp;read=1</origFileName><parallel_text xml:lang="nno" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sma" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="sme" location="laereplan_matematikk-felles.html"/><parallel_text xml:lang="smj" location="laereplan_matematikk-felles.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="smj">Udir.no - CURRICULUM FOR THE COMMON CORE SUBJECT OF MATHEMATICS</p>
 <p xml:lang="nob">Hovedinnhold</p>
 <p type="title">CURRICULUM FOR THE COMMON CORE SUBJECT OF MATHEMATICS</p>
 <p>Established as a Regulation by the Ministry of Education and Research on 21 June 2013</p>
@@ -17,17 +19,17 @@
 <p><em type="bold">Overview of the main subject areas: </em></p>
 <p xml:lang="nob"><em type="bold">Year Level </em></p>
 <p><em type="bold">Main subject areas </em></p>
-<p xml:lang="koi">1–4</p>
+<p xml:lang="vep">1–4</p>
 <p xml:lang="isl">Numbers</p>
 <p>Geometry</p>
 <p>Measuring</p>
 <p>Statistics</p>
-<p xml:lang="koi">5–7</p>
+<p xml:lang="vep">5–7</p>
 <p>Numbers and algebra in practice</p>
 <p>Geometry</p>
 <p>Measuring</p>
 <p>Statistics and probability</p>
-<p xml:lang="koi">8–10</p>
+<p xml:lang="vep">8–10</p>
 <p>Numbers and algebra in practice</p>
 <p>Geometry</p>
 <p>Measuring</p>
@@ -82,7 +84,7 @@
 <p><em type="italic">Being able to read </em>in Mathematics involves understanding and using symbolic language and forms of expression to create meaning from texts in day-to-day life, working life and from mathematics texts. The subject matter of Mathematics is characterised by complex texts that may include mathematical expressions, graphs, tables, symbols, formulas and logical reasoning. Reading in Mathematics involves sorting through information, analysing and evaluating form and content, and summarising information from different elements in the texts. The development of reading in Mathematics begins with finding and using information in the texts by means of simple symbolic language and moves toward finding meaning and reflecting on complex professional and technical literature with advanced symbolic language and concepts. </p>
 <p><em type="italic">Numeracy </em>in Mathematics involves the use of symbolic language, mathematical concepts, methods of approach and varied strategies to solve problems and explore mathematics by taking a point of departure in practical day-to-day situations and mathematical problems. This involves learning to pinpoint and describe situations where mathematics is involved and using mathematical methods to deal with problems. The pupil must also communicate and evaluate the validity of his or her solutions. The development of numeracy in Mathematics begins with a basic understanding of numbers, pinpointing and solving problems in simple situations and gradually leads to analysing and solving a wide range of complex problems using a varied selection of strategies and methods. It also involves an increasing use of different tools for calculations, modelling and communication. </p>
 <p><em type="italic">Digital skills </em>in Mathematics involves using digital tools to learn through play, exploration, visualisation and presentation. It also involves learning how to use and assess digital aids and tools for calculating, problem solving, simulation and modelling. It also means it is important to find information, analyse, process and present data using appropriate tools, and being critical of sources, analyses and results. The development of digital skills involves working with complex digital texts with an increasing degree of complexity. It also involves developing an increasing awareness of the new digital tools that exist for learning in the subject of Mathematics. </p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Competence aims after Year 2</p>
 <p type="title" xml:lang="isl">Numbers</p>
 <p>The aims of the studies are to enable pupils to</p>
@@ -105,7 +107,7 @@
 </list><p type="title">Statistics</p>
 <p>The aims of the studies are to enable pupils to</p>
 <list><p type="listitem">collect, sort, note and illustrate data using tally marks, tables and bar graphs, converse about the process and what the illustrations tell us about the data</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Competence aims after Year 4</p>
 <p type="title" xml:lang="isl">Numbers</p>
 <p>The aims of the studies are to enable pupils to</p>
@@ -132,7 +134,7 @@
 </list><p type="title">Statistics</p>
 <p>The aims of the studies are to enable pupils to</p>
 <list><p type="listitem">collect, sort, note and illustrate data using tally marks, tables and bar graphs, with and without the use of digital tools, and converse about the process and what the illustrations tell us about the data</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Competence aims after Year 7</p>
 <p type="title">Numbers and algebra in practice</p>
 <p>The aims of the studies are to enable pupils to</p>
@@ -163,7 +165,7 @@
 <p type="listitem">represent data in tables and graphs that are produced digitally and manually, with and without using digital tools, and read, interpret and assess their usefulness</p>
 <p type="listitem">find median, mode and averages for simple data sets and assess them in relation to each other</p>
 <p type="listitem">assess and converse about probability in day-to-day contexts, games and experiments and calculate probability in simple situations</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Competence aims after Year 10</p>
 <p type="title">Numbers and algebra in practice</p>
 <p>The aims of the studies are to enable pupils to</p>
@@ -200,7 +202,7 @@
 <p>The aims of the studies are to enable pupils to</p>
 <list><p type="listitem">prepare functions that describe numerical relationships and practical situations, on paper and digitally, describe and interpret them and convert between various representations of functions, such as graphs, tables, formulas and text</p>
 <p type="listitem">identify and exploit characteristics of proportional, inversely proportional, linear and simple square functions, and provide examples of situations that may be described using these functions</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Competence aims after 1T - Vg1 education programmes for general studies</p>
 <p type="title">Numbers and algebra in practice</p>
 <p>The aims of the studies are to enable pupils to</p>
@@ -225,7 +227,7 @@
 <p type="listitem">elaborate on the definition of the derivative, use the definition to deduce a rule for the derivative of polynomial functions and use this rule to discuss functions</p>
 <p type="listitem">make, interpret and explain functions that describe practical questions, analyse empirical functions and find expressions for an approximate linear function, with and without using digital tools</p>
 <p type="listitem">use digital aids to present and analyse combinations of polynomial functions, rational functions, exponential functions and power functions</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Competence aims after 1P – Vg1 education programmes for general studies</p>
 <p type="title">Numbers and algebra in practice</p>
 <p>The aims of the studies are to enable pupils to</p>
@@ -255,7 +257,7 @@
 <list><p type="listitem">explain and calculate using price indices, currency values, real wages and nominal wages, and calculate income, taxes and charges</p>
 <p type="listitem">evaluate consumption, use of credit cards and set up a budget and accounts using a spreadsheet</p>
 <p type="listitem">investigate and evaluate different forms of loans and savings</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Competence aims after 1T-Y - Vg1 vocational education programme</p>
 <p type="title">Numbers and algebra in practice</p>
 <p>The aims of the studies are to enable pupils to</p>
@@ -273,7 +275,7 @@
 <list><p type="listitem">make, interpret and explain functions that describe practical questions, analyse empirical functions and find expressions for an approximate linear function, with and without using digital tools</p>
 <p type="listitem">explain the concept of functions and be able to convert between different representations of functions</p>
 <p type="listitem">calculate zero, minimum gradient, intersection and average rate of change, find approximate values for instantaneous rates of change and provide practical interpretations of these aspects</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Competence aims after 1P-Y - Vg1 vocational education programme</p>
 <p type="title">Numbers and algebra in practice</p>
 <p>The aims of the studies are to enable pupils to</p>

@@ -1,13 +1,15 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>479</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/arkeologi-och-fornlamningar/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/><parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Archaeology and ancient monuments - Länsstyrelsen i Dalarna</p>
-<list><p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-</list><p></p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>479</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/samhallsplanering-och-kulturmiljo/arkeologi-och-fornlamningar/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/><parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo-arkeologi-och-fornlamningar.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Archaeology and ancient monuments - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
 <p type="title">Archaeology and ancient monuments</p>
 <p><em type="italic">Ancient monuments are traces of older human activity and are protected under the Cultural Heritage Act (Swedish Code of Statutes 1988:950). Under the Act it is prohibited to alter, remove, damage or cover an ancient monument, but in certain cases the County Administrative Board can give a permit for actions in an ancient monument. </em></p>
 <p type="title">New Act on 1 January 2014</p>

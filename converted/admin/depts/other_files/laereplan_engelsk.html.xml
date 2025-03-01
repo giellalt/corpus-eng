@@ -1,4 +1,6 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>3977</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/ENG1-03/Hele/Komplett_visning?lplang=eng&amp;read=1</origFileName><parallel_text xml:lang="nob" location="laereplan_engelsk.html"/><parallel_text xml:lang="sma" location="laereplan_engelsk.html"/><parallel_text xml:lang="sme" location="laereplan_engelsk.html"/><parallel_text xml:lang="smj" location="laereplan_engelsk.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Udir.no - English subject curriculum</p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>3977</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual/><origFileName>http://www.udir.no/kl06/ENG1-03/Hele/Komplett_visning?lplang=eng&amp;read=1</origFileName><parallel_text xml:lang="nob" location="laereplan_engelsk.html"/><parallel_text xml:lang="sma" location="laereplan_engelsk.html"/><parallel_text xml:lang="sme" location="laereplan_engelsk.html"/><parallel_text xml:lang="smj" location="laereplan_engelsk.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Udir.no - English subject curriculum</p>
 <p xml:lang="nob">Hovedinnhold</p>
 <p type="title">English subject curriculum</p>
 <p>Established as a Regulation by the Ministry of Education and Research on 21 June 2013</p>
@@ -16,7 +18,7 @@
 <p><em type="bold">Overview of main subject areas: </em></p>
 <p><em type="bold">Year </em></p>
 <p><em type="bold">Main subject areas </em></p>
-<p xml:lang="koi"><em type="bold">1–10 </em></p>
+<p xml:lang="vep"><em type="bold">1–10 </em></p>
 <p xml:lang="deu"><em type="bold">Vg1 </em></p>
 <p xml:lang="deu"><em type="bold">Vg2 </em></p>
 <p><em type="bold">(vocational education programme) </em></p>
@@ -57,7 +59,7 @@
 <p><em type="italic">Being able to read </em>in English means the ability to create meaning by reading different types of text. It means reading English language texts to understand, reflect on and acquire insight and knowledge across cultural borders and within specific fields of study. This further involves preparing and working with reading English texts for different reasons and of varying lengths and complexities. The development of reading proficiency in English implies using reading strategies that are suited to the objective by reading texts that are advancingly more demanding. Furthermore, it involves reading English texts fluently and to understand, explore, discuss, learn from and to reflect upon different types of information. </p>
 <p><em type="italic">Numeracy </em>in English means being able to use relevant mathematical concepts in English in different situations. This involves familiarity with units of measure used in English-speaking countries and to understand and to communicate in figures, graphic representations, tables and statistics in English. The development of numeracy in English involves using figures and calculations to develop a repertoire of mathematical terms in English related to daily life and general and technical fields. </p>
 <p><em type="italic">Digital skills </em>in English means being able to use a varied selection of digital tools, media and resources to assist in language learning, to communicate in English and to acquire relevant knowledge in the subject of English. The use of digital resources provides opportunities to experience English texts in authentic situations, meaning natural and unadapted situations. The development of digital skills involves gathering and processing information to create different kinds of text. Formal requirements in digital texts means that effects, images, tables, headlines and bullet points are compiled to emphasise and communicate a message. This further involves using digital sources in written texts and oral communication and having a critical and independent attitude to the use of sources. Digital skills involve developing knowledge about copyright and protection of personal privacy through verifiable references to sources. </p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Competence aims after Year 2</p>
 <p type="title">Language learning</p>
 <p>The aims of the studies are to enable pupils to</p>
@@ -82,7 +84,7 @@
 <list><p type="listitem">converse about aspects of the day-to-day life of children in English-speaking countries</p>
 <p type="listitem">participate in and experience children’s culture from English-speaking countries through words, pictures, music and movement</p>
 <p type="listitem">express own experiences from English nursery rhymes, word games, songs, fairy tales and stories</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Competence aims after Year 4</p>
 <p type="title">Language learning</p>
 <p>The aims of the studies are to enable pupils to</p>
@@ -117,7 +119,7 @@
 <p type="listitem">participate in presenting nursery rhymes, word games, songs, short plays and stories in English</p>
 <p type="listitem">express own thoughts and opinions in the encounter with English-language literature and child culture</p>
 <p type="listitem">create own texts inspired by English-language literature and child culture</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Competence aims after Year 7</p>
 <p type="title">Language learning</p>
 <p>The aims of the studies are to enable pupils to</p>
@@ -154,7 +156,7 @@
 <p type="listitem">express own reactions to English literary texts, films, internet culture, pictures and music</p>
 <p type="listitem">express oneself creatively inspired by different types of English literature from various sources</p>
 <p type="listitem">communicate short texts about topics one has chosen</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Competence aims after Year 10</p>
 <p type="title">Language learning</p>
 <p>The aims of the studies are to enable pupils to</p>
@@ -194,7 +196,7 @@
 <p type="listitem">describe and reflect on the situation of indigenous peoples in English-speaking countries</p>
 <p type="listitem">create, communicate and converse about own texts inspired by English literature, films and cultural forms of expression</p>
 <p type="listitem">communicate and converse about contemporary and academic topics</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Competence aims after Vg1 – programmes for general studies and Vg2 – vocational education programmes</p>
 <p type="title">Language learning</p>
 <p>The aims of the studies are to enable pupils to</p>

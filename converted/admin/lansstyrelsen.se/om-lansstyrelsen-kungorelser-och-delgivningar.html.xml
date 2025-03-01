@@ -1,13 +1,15 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>112</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/om-lansstyrelsen/kungorelser-och-delgivningar/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="om-lansstyrelsen-kungorelser-och-delgivningar.html"/><parallel_text xml:lang="swe" location="om-lansstyrelsen-kungorelser-och-delgivningar.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Announcements and notifications - Länsstyrelsen i Dalarna</p>
-<list><p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-</list><p></p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>112</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/om-lansstyrelsen/kungorelser-och-delgivningar/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="om-lansstyrelsen-kungorelser-och-delgivningar.html"/><parallel_text xml:lang="swe" location="om-lansstyrelsen-kungorelser-och-delgivningar.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Announcements and notifications - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
 <p type="title">Announcements and notifications</p>
 <p><em type="italic">The County Administrative Board makes many decisions that directly or indirectly affect the residents and businesses in the county. The timing and form of the announcement of these decisions and other measures are important from both an information and legal perspective. </em></p>
 <p>Some decisions must be notified directly to the individual who is involved in the case. When the number of those affected is considerable, the public notice advertisement can be placed in the local press rather than sending information by mail. The County Administrative Board makes such notifications in cases involving environmental protection, nature conservation, water conservation, hunting, fishing and general elections.</p>

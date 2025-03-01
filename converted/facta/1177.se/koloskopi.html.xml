@@ -1,8 +1,10 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>333</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Undersokningarprover/Koloskopi</origFileName><parallel_text xml:lang="fin" location="koloskopi.html"/><parallel_text xml:lang="rus" location="koloskopi.html"/><parallel_text xml:lang="swe" location="koloskopi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="swe">Colonoscopy / Koloskopi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-<p></p>
-<p></p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>333</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.1177.se/Other-languages/Engelska/Undersokningarprover/Koloskopi</origFileName><parallel_text xml:lang="fin" location="koloskopi.html"/><parallel_text xml:lang="rus" location="koloskopi.html"/><parallel_text xml:lang="swe" location="koloskopi.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="swe">Colonoscopy / Koloskopi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
 <p type="title">ColonoscopyKoloskopi</p>
-<p></p>
+<p xml:lang="swe"></p>
 <p type="title">Overview</p>
 <p type="title">General</p>
 <p>A colonoscopy is an examination of the large intestine using a flexible tube called a colonoscope. The procedure may be necessary if, for example, your stools contain blood or you are suffering from constipation or diarrhoea. Using the colonoscope, the doctor can also take tissue samples and carry out various procedures.</p>

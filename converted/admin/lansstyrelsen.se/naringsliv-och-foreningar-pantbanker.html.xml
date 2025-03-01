@@ -1,13 +1,15 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>120</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/naringsliv-och-foreningar/pantbanker/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="naringsliv-och-foreningar-pantbanker.html"/><parallel_text xml:lang="swe" location="naringsliv-och-foreningar-pantbanker.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p xml:lang="swe">Pawnbrokers - Länsstyrelsen i Dalarna</p>
-<list><p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-</list><p></p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>120</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/naringsliv-och-foreningar/pantbanker/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="naringsliv-och-foreningar-pantbanker.html"/><parallel_text xml:lang="swe" location="naringsliv-och-foreningar-pantbanker.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p xml:lang="swe">Pawnbrokers - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
 <p type="title">Pawnbrokers</p>
 <p>A pawnbroker is a business enterprise which lends money to you as a consumer if you provide something as collateral. The County Administrative Board issues permits to run a pawnbroking business and is also the supervisory authority.</p>
 <p>If you wish to run a pawnbroking business you will require a permit from the County Administrative Board in the county in which you intend to operate. A pawnbroker can only be operated by a Swedish limited company or an equivalent foreign company within the EEA. We approve applications if we make the assessment that the company will run sound pawnbroker operations and that the company in general satisfies the requirements of the Pawnbrokers Act (SFS 1995:1000).</p>

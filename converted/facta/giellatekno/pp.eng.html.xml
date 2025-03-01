@@ -1,10 +1,12 @@
-<document xml:lang="eng" id="no_id"><header><title>Prepositions and postpositions</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>2575</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/pp.eng.html</origFileName><parallel_text xml:lang="nob" location="pp.nob.html"/><parallel_text xml:lang="sme" location="pp.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p type="title">Prepositions and postpositions</p>
+<document xml:lang="eng" id="no_id"><header><title>Prepositions and postpositions</title><genre code="facta"/><author><person firstname="Lene" lastname="Antonsen" sex="f" born="1962" nationality="NO"/></author><wordcount>2575</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="borre.gaup@uit.no"/><multilingual/><origFileName>http://oahpa.no/sme/gramm/pp.eng.html</origFileName><parallel_text xml:lang="nob" location="pp.nob.html"/><parallel_text xml:lang="sme" location="pp.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p type="title">Prepositions and postpositions</p>
 <list><p type="listitem">Prepositions and postpositions</p>
 <p type="listitem">Spatial meaning</p>
 <p type="listitem">Temporal meaning</p>
 <p type="listitem">Other meanings</p>
 </list><p>Back to the grammar main page .</p>
-<p xml:lang="koi"></p>
+<p xml:lang="tur"></p>
 <p type="title">Prepositions and postpositions</p>
 <p>Prepositions and postpositions are words that precede or follow <em type="italic">noun phrases </em>(e.g. nouns or pronouns), and form <em type="italic">adverbials </em>with them. Prepositions come before noun phrases, and postpositions come after them. An example of a preposition is <em type="italic">gaskkal </em>, <span type="quote">"between"</span>, and an example of a postposition is <em type="italic">haga </em>, <span type="quote">"without"</span>. There are many words that can function both as prepositions and postpositions, consider the word <em type="italic">birra </em>, 'about' or <span type="quote">"around"</span>. The phrase that the preposition or postposition stands next to is in the <em type="italic">genitive </em>form. </p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Son lea čoahkkimis 'gaskkal' golmma ja viđa. </em></p>
@@ -21,7 +23,7 @@
 <p type="listitem">(You have to be finished with this today.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Biera ságaid 'mielde' leaba Ánte-guovttos náitaleame. </em></p>
 <p type="listitem">(According to Per, Ánte and his fiancee have gotten married.)</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Spatial meaning</p>
 <p>Spatial meaning can be divided into stationary or locative (at a place), source (away from something), goal (toward something) and path (along a path). Some prepositions and postpositions have distinct forms for each meaning. The locative/source meaning is generally expressed with the local form, the goal meaning is expressed with the illative form, and the path is expressed with the genitive form. One example of this can be observed in the postpositions <em type="italic">gurrii </em>(ill. 'up next to'), <em type="italic">guoras </em>(loc. 'next to') and <em type="italic">guora </em>(gen. 'along next to'). </p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Son guđii biilla viesu 'gurrii'. </em></p>
@@ -188,7 +190,7 @@
 <p type="listitem" xml:lang="sme"><em type="italic">Son lea dovddus 'miehtá' Norgga. </em>(She is well-know 'throughout' Norway.) </p>
 <p type="listitem" xml:lang="sme"><em type="italic">Olmmái vujii muora 'njeaiga/njeaigga'. </em>(The man drove 'into' a tree.) </p>
 <p type="listitem"><em type="italic">Ii lean dilli gállit 'rastá' joga. </em>(There was no time to wad across the river.) </p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Temporal meaning</p>
 <p>Typical prepositions and postpositions with temporal meaning are for example <em type="italic">ovdal </em>and <em type="italic">maŋŋil/maŋŋá </em>. When they are used as prepositions, they mean 'before' and 'after'. As postpositions, however, they mean 'just before' and 'just after'. This is not spatial meaning. Other prepositions and postpositions that only have temporal meanings are <em type="italic">bále </em>, 'while' and <em type="italic">gaskan </em>, 'in the middle of'. </p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Eat dáidde 'ovdal' juovllaid gal fárret. </em></p>
@@ -227,7 +229,7 @@
 <p type="listitem">(The library opens at nine o'clock and is open till seven in the evening.)</p>
 <p type="listitem" xml:lang="sme"><em type="italic">Joavku čuojahii ovttas 1978 'rájes' gitta 1983 'rádjái'. </em></p>
 <p type="listitem">(The group performed together 'all the way from' 1978 'till' 1983.)</p>
-</list><p xml:lang="koi"></p>
+</list><p xml:lang="tur"></p>
 <p type="title">Other meanings</p>
 <p>Many typical propositions and postpositions have neither temporal nor spatial meanings. These are <em type="italic">haga </em>'without', and the combinatory postpositions <em type="italic">dáfus, ektui, hárrái </em>, which can be translated as 'in relation to/compared with/concerning'. Similarly, there are <em type="italic">dihte, geažil, várás, váste </em>, which are readily translated as 'due to/for the sake of/for', and <em type="italic">vuođul </em>, which means 'on the basis of'. </p>
 <list><p type="listitem" xml:lang="sme"><em type="italic">Dán áigge ii birge ruđa 'haga' šat. </em></p>

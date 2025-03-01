@@ -1,13 +1,15 @@
-<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>221</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/integration/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="manniska-och-samhalle-integration.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle-integration.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>Integration - Länsstyrelsen i Dalarna</p>
-<list><p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-<p type="listitem"></p>
-</list><p></p>
+<document xml:lang="eng" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>221</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="eng"/></multilingual><origFileName>http://www.lansstyrelsen.se/dalarna/En/manniska-och-samhalle/integration/Pages/default.aspx</origFileName><parallel_text xml:lang="sma" location="manniska-och-samhalle-integration.html"/><parallel_text xml:lang="swe" location="manniska-och-samhalle-integration.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>Integration - Länsstyrelsen i Dalarna</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
 <p type="title">Integration</p>
 <p>The County Administrative Board is the government's representative in the county with the aim of collaborating with other bodies such as municipalities, authorities, companies and organizations in order to achieve the national integration policy objectives.</p>
 <p type="title">The overall objective of the integration policy is</p>
